@@ -87,6 +87,16 @@ lalu unggah ke server (lihat Nginx di bawah). Kalau domain sendiri dipasang di
 GitHub Pages (Settings → Pages → Custom domain), bangun `docs/` dengan
 `--base https://domainanda.id` agar alamatnya tanpa `/project-be`.
 
+## Cetak partitur (PDF F4)
+
+Di situs statis (bukuende.com) setiap halaman lagu punya tombol **Cetak PDF**.
+Tata letak cetak memakai kertas F4 (215 × 330 mm): kepala lagu, not angka,
+not balok (sesuai pilihan tampilan dan ayat yang dipilih), semua ayat, dan
+kaki halaman berisi alamat lagu. Selalu dicetak hitam di atas putih, juga
+dalam mode gelap. Di jendela cetak pilih **Simpan sebagai PDF** dan ukuran
+kertas **Default**. Tombol ini tidak ada di artifact Dev/Prod karena artifact
+tidak mengizinkan jendela cetak.
+
 ## Uji
 
 `build/t_*.js` memakai Playwright (`npm install` di `build/` untuk abcjs).

@@ -325,12 +325,13 @@ function renderHymn(){
    '<div class="toolbar"><div class="seg" role="group" aria-label="Tampilan notasi">'+
      '<button type="button" data-v="angka">Not angka</button><button type="button" data-v="balok">Not balok</button><button type="button" data-v="both">Keduanya</button></div>'+
      '<button type="button" class="btn primary" id="playBtn">'+PLAY_LABEL+'</button>'+
+     (window.BE_STATIC?'<button type="button" class="btn" id="printBtn" title="Cetak atau simpan sebagai PDF (kertas F4)">Cetak PDF</button>':'')+
      '<label class="tempo" for="bpm"><span class="tl">Tempo</span> <input id="bpm" type="range" min="50" max="130" value="'+bpm+'"><span id="bpmv">'+bpm+'</span></label></div>'+
    (vReady(h).length>1?'<div class="vbar"><span class="vl" id="vlab">Ayat</span><div class="vchips" role="group" aria-labelledby="vlab">'+vReady(h).map(function(i){return '<button type="button" data-k="'+i+'" title="Ayat '+(i+1)+'">'+(i+1)+'</button>';}).join("")+'</div>'+
      '<label class="vall"><input type="checkbox" id="vall"'+(VALL?' checked':'')+'> Putar sampai ayat terakhir</label></div>':'')+
    '<section class="block" id="angkaBlock"><h2>Not angka<span class="vtag"></span></h2><p class="vnote" hidden></p><div class="angka" id="angka"></div></section>'+
    '<section class="block" id="balokBlock"><h2>Not balok<span class="vtag"></span></h2><div class="staff" id="staff"></div></section>'+
-   '<section class="block"><h2>Ende</h2><div class="verses">'+h.verses.map(function(v,i){return '<p class="verse" data-k="'+i+'"><span class="vn">'+(i+1)+'.</span><span>'+v.map(function(l){return '<span class="l">'+l+'</span>';}).join("")+'</span></p>';}).join("")+'</div><div class="credit">Lagu: '+h.credit+'</div></section>'+
+   '<section class="block" id="endeBlock"><h2>Ende</h2><div class="verses">'+h.verses.map(function(v,i){return '<p class="verse" data-k="'+i+'"><span class="vn">'+(i+1)+'.</span><span>'+v.map(function(l){return '<span class="l">'+l+'</span>';}).join("")+'</span></p>';}).join("")+'</div><div class="credit">Lagu: '+h.credit+'</div></section>'+
    '<details class="panel edit" hidden><summary>Koreksi data notasi</summary><div class="panel-body">'+
      h.sections.map(function(s,i){return '<label for="n'+i+'">Bagian '+(i+1)+(s.rows.length>1?' (diulang)':'')+' — not</label><textarea id="n'+i+'" rows="4">'+s.notes+'</textarea>'+
        s.rows.map(function(r,j){return '<label for="r'+i+'_'+j+'">Bagian '+(i+1)+' — lirik baris '+(j+1)+'</label><textarea id="r'+i+'_'+j+'" rows="2">'+r+'</textarea>';}).join("");}).join("")+
@@ -358,6 +359,7 @@ function renderHymn(){
 
   document.querySelectorAll(".seg button").forEach(function(b){b.addEventListener("click",function(){view=b.dataset.v;try{localStorage.setItem("be-view",view);}catch(e){}applyView();});});
   document.getElementById("playBtn").addEventListener("click",function(){if(audio.playing)stopAudio();else playHymn(h,secs,bpm);});
+  var pb=document.getElementById("printBtn"); if(pb) pb.addEventListener("click",function(){stopAudio();window.print();});
   document.querySelectorAll(".vchips button").forEach(function(b){b.addEventListener("click",function(){var was=audio.playing;if(was)stopAudio();setVerse(+b.dataset.k);if(was)playHymn(h,secs,bpm);});});
   var va=document.getElementById("vall"); if(va) va.addEventListener("change",function(){VALL=va.checked;});
   document.getElementById("bpm").addEventListener("input",function(e){bpm=+e.target.value;document.getElementById("bpmv").textContent=bpm;});
@@ -410,11 +412,24 @@ function setVerse(k,quiet){
   if(vn){vn.hidden=!miss; if(miss){vn.innerHTML='Lirik ayat '+(k+1)+' belum dipasang ke not. Teks ayatnya:<q></q>';vn.querySelector("q").textContent=h.verses[k].join(" ");}}
   if(view!=="angka") drawStaff(h,secs);
 }
+/* Saat mencetak: paksa tema terang dan gambar ulang not balok satu SVG per baris */
+var PRINTING=false;
+window.addEventListener("beforeprint",function(){
+  if(PRINTING) return; PRINTING=true;
+  var h=current(); if(h&&CURSECS&&view!=="angka") drawStaff(h,CURSECS);
+  var m=document.getElementById("main"), f=document.querySelector(".print-foot");
+  if(m&&h&&!f){f=document.createElement("p");f.className="print-foot";m.appendChild(f);}
+  if(f&&h){var c=document.querySelector('link[rel="canonical"]');f.textContent="Buku Ende "+(h.id||h.be)+" \u2013 "+h.title+" \u00b7 Buku Ende Digital"+(c?" \u00b7 "+c.href.replace(/^https?:\/\//,""):"");}
+});
+window.addEventListener("afterprint",function(){
+  if(!PRINTING) return; PRINTING=false;
+  var h=current(); if(h&&CURSECS&&view!=="angka") drawStaff(h,CURSECS);
+});
 function drawStaff(h,secs){
   var el=document.getElementById("staff"); if(!el) return;
   if(!window.ABCJS){el.innerHTML='<p style="padding:10px;color:var(--ink-2)">Pustaka not balok gagal dimuat.</p>';return;}
   el.innerHTML="";
-  window.ABCJS.renderAbc(el,toABC(h,secs),{add_classes:true,responsive:"resize",foregroundColor:inkColor(),staffwidth:740,paddingtop:4,paddingbottom:4,paddingleft:6,paddingright:6,wrap:{minSpacing:1.8,maxSpacing:2.6,preferredMeasuresPerLine:5}});
+  window.ABCJS.renderAbc(el,toABC(h,secs),{add_classes:true,oneSvgPerLine:PRINTING,responsive:"resize",foregroundColor:PRINTING?"#000":inkColor(),staffwidth:740,paddingtop:4,paddingbottom:4,paddingleft:6,paddingright:6,wrap:{minSpacing:1.8,maxSpacing:2.6,preferredMeasuresPerLine:5}});
 }
 function applyView(){
   document.querySelectorAll(".seg button").forEach(function(b){b.setAttribute("aria-pressed",String(b.dataset.v===view));});
