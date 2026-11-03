@@ -41,20 +41,18 @@ HOME_CSS = """
 /* ---- beranda ---- */
 .home{display:flex;flex-direction:column;gap:24px}
 .home h2{margin:0 0 10px;font-size:14px;font-weight:600}
-.hero{position:relative;background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:30px 28px 44px;overflow:hidden}
+.hero{position:relative;background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:30px 28px;overflow:hidden}
 .hero h1{margin:0;font-family:var(--f-display);font-weight:700;font-size:clamp(36px,6vw,52px);line-height:1.04;letter-spacing:-.01em}
 .hero .lead{margin:10px 0 22px;max-width:54ch;font-size:17px;color:var(--ink-2)}
 .go{display:flex;flex-wrap:wrap;align-items:center;gap:10px}
 .go label{font-family:var(--f-display);font-size:19px;margin-right:2px}
-/* kotak nomor meniru papan nomor ende di gereja: papan gelap, angka putih */
-.board{display:inline-flex;background:#20262f;border-radius:4px;padding:3px;box-shadow:inset 0 0 0 1px #000}
-.board input{width:4.2ch;box-sizing:content-box;font-family:var(--f-num);font-size:28px;font-weight:600;font-variant-numeric:tabular-nums;letter-spacing:.06em;text-align:center;padding:2px 10px;border:0;border-radius:2px;background:#20262f;color:#f6f3ea}
-.board input::placeholder{color:#6d7480}
-.board input:focus{outline:2px solid var(--gorga);outline-offset:3px}
+.board{display:inline-flex}
+.board input{width:4.2ch;box-sizing:content-box;font-family:var(--f-num);font-size:26px;font-weight:600;font-variant-numeric:tabular-nums;letter-spacing:.04em;text-align:center;padding:3px 12px;border:1px solid var(--rule);border-radius:8px;background:var(--paper);color:var(--ink)}
+.board input::placeholder{color:var(--ink-2);opacity:.6}
+.board input:focus{outline:2px solid var(--gorga);outline-offset:1px;border-color:var(--gorga)}
 .go .btn{font-size:15px;padding:9px 18px}
-.go-msg{flex-basis:100%;min-height:1.2em;margin:0;font-size:14px;color:var(--warn)}
-/* lima garis paranada sebagai tepi bawah */
-.staffrule{position:absolute;left:28px;right:28px;bottom:14px;height:17px;background:repeating-linear-gradient(to bottom,var(--rule) 0 1px,transparent 1px 4px)}
+.go-msg{flex-basis:100%;margin:0;font-size:14px;color:var(--warn)}
+.go-msg:empty{display:none}
 .stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));margin:0;background:var(--sheet);border:1px solid var(--rule);border-radius:12px}
 .stats div{display:flex;flex-direction:column;gap:2px;padding:14px 18px;min-width:0}
 .stats dd{order:-1}
@@ -83,7 +81,7 @@ HOME_CSS = """
 .feats div{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:14px 16px}
 .feats h3{margin:0 0 4px;font-family:var(--f-display);font-size:18px;font-weight:600}
 .feats p{margin:0;font-size:14px;color:var(--ink-2)}
-@media (max-width:640px){.hero{padding:24px 18px 40px}.staffrule{left:18px;right:18px}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.stats div:nth-child(3){border-left:0}.stats div:nth-child(n+3){border-top:1px solid var(--rule)}.feats{grid-template-columns:minmax(0,1fr)}.today{padding:18px}.today-head .no{font-size:28px}}
+@media (max-width:640px){.hero{padding:24px 18px}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.stats div:nth-child(3){border-left:0}.stats div:nth-child(n+3){border-top:1px solid var(--rule)}.feats{grid-template-columns:minmax(0,1fr)}.today{padding:18px}.today-head .no{font-size:28px}}
 """
 
 
@@ -228,7 +226,6 @@ home = f"""<div class="home">
     <button type="submit" class="btn primary">Buka</button>
     <p class="go-msg" id="goMsg" role="status"></p>
   </form>
-  <div class="staffrule" aria-hidden="true"></div>
 </section>
 <dl class="stats">
   <div><dt>Ende</dt><dd>{fmt(n_main)}</dd></div>
