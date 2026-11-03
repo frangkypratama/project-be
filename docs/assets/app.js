@@ -427,10 +427,12 @@ function buildPrintView(){
     if(rest.length){
       var keep=document.createElement("div");keep.className="pv-keep";part.appendChild(keep);
       var t=document.createElement("h2");t.textContent=restH;keep.appendChild(t);
-      var first=document.createElement("div");first.className="pv-verses";keep.appendChild(first);
-      var more=document.createElement("div");more.className="pv-verses";
-      rest.forEach(function(v,i){var p=document.createElement("p");p.className="verse";p.innerHTML='<span class="vn">'+(i+2)+'.</span><span>'+v.map(function(l){return '<span class="l">'+l+'</span>';}).join("")+'</span>';(i<2?first:more).appendChild(p);});
-      if(more.children.length) part.appendChild(more);}
+      // ayat ditata per baris berisi dua ayat; tiap baris blok biasa sehingga bisa pindah halaman dengan rapi
+      var row=null;
+      rest.forEach(function(v,i){
+        if(i%2===0){row=document.createElement("div");row.className="pv-verses";(i===0?keep:part).appendChild(row);}
+        var p=document.createElement("p");p.className="verse";p.innerHTML='<span class="vn">'+(i+2)+'.</span><span>'+v.map(function(l){return '<span class="l">'+l+'</span>';}).join("")+'</span>';row.appendChild(p);
+      });}
     var cr=document.createElement("div");cr.className="credit";cr.textContent="Lagu: "+h.credit;part.appendChild(cr);
     var f=document.createElement("p");f.className="print-foot";f.textContent=foot;part.appendChild(f);
   }
