@@ -38,49 +38,31 @@ body = src[src.index("</style>") + len("</style>"):src.index(abcjs)]
 
 
 HOME_CSS = """
-/* ---- beranda ---- */
-.home{display:flex;flex-direction:column;gap:22px}
-.hero{position:relative;overflow:hidden;background:var(--sheet);border:1px solid var(--rule);border-radius:14px;padding:32px 28px 40px}
-.hero .eyebrow{margin:0 0 6px;font-size:13px;font-weight:600;letter-spacing:.12em;text-transform:uppercase;color:var(--gorga)}
-.hero h1{margin:0;font-family:var(--f-display);font-weight:700;font-size:clamp(32px,6vw,52px);line-height:1.05;letter-spacing:-.01em;text-wrap:balance}
-.hero .lead{margin:12px 0 22px;max-width:56ch;font-size:17px;color:var(--ink-2)}
-.go label{display:block;font-size:14px;font-weight:600;margin-bottom:6px}
-.go-row{display:flex;flex-wrap:wrap;gap:8px}
-.go input{flex:0 1 160px;min-width:0;width:160px;font:inherit;font-family:var(--f-num);font-size:22px;font-weight:600;letter-spacing:.04em;padding:6px 14px;border:1px solid var(--rule);border-radius:10px;background:var(--paper);color:var(--ink);font-variant-numeric:tabular-nums}
+/* ---- beranda: halaman judul + daftar menurut abjad ---- */
+.home{display:flex;flex-direction:column;gap:30px}
+.title-page{padding:18px 0 22px;border-bottom:1px solid var(--rule)}
+.title-page h1{margin:0;font-family:var(--f-display);font-weight:600;font-size:clamp(34px,5.2vw,46px);line-height:1.05;letter-spacing:-.005em}
+.title-page .sub{margin:8px 0 18px;max-width:58ch;color:var(--ink-2)}
+.go{display:flex;flex-wrap:wrap;align-items:center;gap:8px 10px}
+.go label{font-size:15px}
+.go input{width:5.5em;font:inherit;font-family:var(--f-num);font-size:20px;font-weight:600;font-variant-numeric:tabular-nums;padding:4px 10px;border:1px solid var(--rule);border-radius:6px;background:var(--sheet);color:var(--ink)}
 .go input:focus{outline:2px solid var(--gorga);outline-offset:1px}
-.go .btn{font-size:15px;padding:10px 18px;border-radius:10px}
-.go-msg{min-height:1.3em;margin:6px 0 0;font-size:14px;color:var(--warn)}
-.hero .band{position:absolute;left:0;right:0;bottom:0;height:10px;background:
-  linear-gradient(135deg,var(--gorga) 25%,transparent 25%) -5px 0/10px 10px,
-  linear-gradient(225deg,var(--gorga) 25%,transparent 25%) -5px 0/10px 10px,
-  var(--gorga-soft)}
-.stats{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(4,minmax(0,1fr));gap:10px}
-.stats li{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:12px 14px;display:flex;flex-direction:column;gap:2px;min-width:0}
-.stats b{font-family:var(--f-num);font-size:26px;font-weight:700;line-height:1.1;font-variant-numeric:tabular-nums}
-.stats span{font-size:13px;color:var(--ink-2);line-height:1.3}
-.today{background:var(--gorga-soft);border-radius:14px;padding:22px 24px}
-.today .kicker{margin:0;font-size:13px;font-weight:600;letter-spacing:.08em;text-transform:uppercase;color:var(--gorga)}
-.today-t{display:flex;align-items:baseline;gap:12px;margin:6px 0 10px;color:var(--ink);text-decoration:none;font-family:var(--f-display);font-weight:600;font-size:clamp(22px,3.4vw,28px);line-height:1.2}
-.today-t .no{font-family:var(--f-body);font-weight:600;font-size:.75em;color:var(--gorga);font-variant-numeric:tabular-nums}
-.today-t:hover span:last-child{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:4px}
-.today-v{margin:0 0 16px;font-family:var(--f-display);font-size:18px;line-height:1.55;font-style:italic;max-width:60ch}
-.today-v span{display:block}
-.home a.btn{text-decoration:none}
-.ranges{display:grid;grid-template-columns:repeat(auto-fill,minmax(150px,1fr));gap:8px}
-.rng{display:flex;flex-direction:column;gap:2px;padding:12px 14px;background:var(--sheet);border:1px solid var(--rule);border-radius:10px;color:var(--ink);text-decoration:none;min-width:0}
-.rng:hover{border-color:var(--gorga)}
-.rng:focus-visible,.today-t:focus-visible{outline:2px solid var(--gorga);outline-offset:2px}
-.rng .rn{font-family:var(--f-num);font-weight:700;font-size:18px;font-variant-numeric:tabular-nums}
-.rng .rt{font-size:13px;color:var(--ink-2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.feats{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:10px}
-.feats li{display:flex;gap:12px;align-items:flex-start;background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:14px}
-.feats svg{flex:none;width:28px;height:28px;fill:none;stroke:var(--gorga);stroke-width:1.6;stroke-linecap:round;stroke-linejoin:round}
-.feats svg text{fill:var(--gorga);stroke:none}
-.feats svg .f{fill:var(--gorga)}
-.feats div{display:flex;flex-direction:column;gap:2px;min-width:0}
-.feats b{font-weight:600}
-.feats span{font-size:14px;color:var(--ink-2)}
-@media (max-width:640px){.hero{padding:24px 18px 32px}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.feats{grid-template-columns:minmax(0,1fr)}.today{padding:18px}}
+.go-msg{font-size:14px;color:var(--warn)}
+.register h2{margin:0 0 10px;font-size:14px;font-weight:600}
+.jump{display:flex;flex-wrap:wrap;gap:2px;margin-bottom:14px}
+.jump a{min-width:30px;padding:4px 0;text-align:center;font-family:var(--f-display);font-weight:600;color:var(--gorga);text-decoration:none;border-radius:4px}
+.jump a:hover{background:var(--gorga-soft)}
+.jump a:focus-visible,.reg-l a:focus-visible{outline:2px solid var(--gorga);outline-offset:1px}
+.reg-cols{columns:2 300px;column-gap:36px}
+.reg-l{break-inside:avoid-column;margin-bottom:14px;scroll-margin-top:calc(var(--tb,60px) + 10px)}
+.reg-l h3{margin:0 0 4px;font-family:var(--f-display);font-size:20px;font-weight:600;color:var(--ink);border-bottom:1px solid var(--rule);padding-bottom:2px;break-after:avoid}
+.reg-l ol{list-style:none;margin:0;padding:0}
+.reg-l li{break-inside:avoid}
+.reg-l a{display:flex;align-items:baseline;gap:8px;padding:3px 0;color:var(--ink);text-decoration:none;font-family:var(--f-display);font-size:16px;line-height:1.35}
+.reg-l a .rt{min-width:0}
+.reg-l a::after{content:"";order:1;flex:1;border-bottom:1px dotted var(--rule);transform:translateY(-4px);min-width:12px}
+.reg-l a .rn{order:2;font-family:var(--f-body);font-size:14px;color:var(--ink-2);font-variant-numeric:tabular-nums}
+.reg-l a:hover .rt{color:var(--gorga);text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
 """
 
 
@@ -201,74 +183,48 @@ for i, hid in enumerate(ids):
 nav = "".join(f'<li><a href="{P}/be/{hid}/"><span class="n">{E(hid)}</span><span class="t">{E(hymns[hid]["title"])}</span>'
               f'<span class="st">{("Logu " + str(hymns[hid]["bl"])) if hymns[hid].get("bl") else ""}</span></a></li>' for hid in ids)
 n_main = len([x for x in index if not x.get("variant")])
-all_h = [hymns[i] for i in ids]
-n_ayat = sum(len(h.get("verses") or []) for h in all_h)
-n_logu = sum(1 for h in all_h if h.get("bl"))
-n_vl = sum(1 for h in all_h for v in (h.get("vl") or [])[1:] if v and v.get("r")) + sum(1 for h in all_h if h.get("verses"))
+n_ayat = sum(len(hymns[i].get("verses") or []) for i in ids)
 fmt = lambda n: f"{n:,}".replace(",", ".")
-first = hymns[ids[0]]
-ranges = []
-for r0 in range(1, 865, 100):
-    xs = [hymns[i] for i in ids if r0 <= hymns[i]["be"] < r0 + 100 and not hymns[i].get("variant")]
-    if xs:
-        ranges.append((r0, xs[-1]["be"], xs[0]))
-tiles = "".join(f'<a class="rng" href="{P}/be/{h["be"]}/"><span class="rn">{a}–{b}</span><span class="rt">{E(h["title"])}</span></a>' for a, b, h in ranges)
-v1 = "".join(f"<span>{E(l)}</span>" for l in (first.get("verses") or [[]])[0])
+# daftar isi menurut abjad, seperti register di bagian belakang buku
+import unicodedata
+def sort_key(t):
+    t = unicodedata.normalize("NFKD", t).encode("ascii", "ignore").decode().lower()
+    return re.sub(r"[^a-z ]", "", t).strip()
+groups = {}
+for i in ids:
+    h = hymns[i]
+    groups.setdefault(sort_key(h["title"])[:1].upper() or "#", []).append(h)
+letters = sorted(groups)
+jump = "".join(f'<a href="#abjad-{L}">{L}</a>' for L in letters)
+reg = ""
+for L in letters:
+    rows = "".join(f'<li><a href="{P}/be/{h.get("id") or h["be"]}/"><span class="rt">{E(h["title"])}</span><span class="rn">{E(h.get("id") or h["be"])}</span></a></li>'
+                   for h in sorted(groups[L], key=lambda h: (sort_key(h["title"]), h["be"])))
+    reg += f'<section class="reg-l" id="abjad-{L}" aria-label="Judul berawalan {L}"><h3>{L}</h3><ol>{rows}</ol></section>'
 home = f"""<div class="home">
-<section class="hero">
-  <p class="eyebrow">HKBP · Buku Ende</p>
-  <h1>Buku Ende Digital</h1>
-  <p class="lead">Lirik semua ayat, not angka seperti di buku, dan not balok yang bisa diputar dengan suara organ, untuk {fmt(n_main)} ende.</p>
+<header class="title-page">
+  <h1>Buku Ende</h1>
+  <p class="sub">{fmt(n_main)} ende HKBP dengan not angka, not balok, dan lirik {fmt(n_ayat)} ayat.</p>
   <form class="go" id="goForm" autocomplete="off">
-    <label for="goNo">Buka nomor ende</label>
-    <div class="go-row"><input id="goNo" inputmode="numeric" placeholder="mis. 550" maxlength="5" aria-describedby="goMsg"><button type="submit" class="btn primary">Buka</button><button type="button" class="btn" id="rndBtn">Ende acak</button></div>
-    <p class="go-msg" id="goMsg" role="status"></p>
+    <label for="goNo">Ende nomor</label><input id="goNo" inputmode="numeric" placeholder="1–864" maxlength="5" aria-describedby="goMsg"><button type="submit" class="btn primary">Buka</button>
+    <span class="go-msg" id="goMsg" role="status"></span>
   </form>
-  <div class="band" aria-hidden="true"></div>
+</header>
+<section class="register" aria-labelledby="regH">
+  <h2 id="regH">Daftar ende menurut abjad</h2>
+  <nav class="jump" aria-label="Lompat ke huruf">{jump}</nav>
+  <div class="reg-cols">{reg}</div>
 </section>
-<ul class="stats" aria-label="Isi Buku Ende Digital">
-  <li><b>{fmt(n_main)}</b><span>ende</span></li>
-  <li><b>{fmt(n_ayat)}</b><span>ayat</span></li>
-  <li><b>{fmt(n_vl)}</b><span>ayat dengan lirik di bawah not</span></li>
-  <li><b>{fmt(n_logu)}</b><span>ende dengan nomor Logu</span></li>
-</ul>
-<section class="today" aria-labelledby="todayH">
-  <p class="kicker" id="todayH">Ende hari ini</p>
-  <a class="today-t" id="todayLink" href="{P}/be/{first['be']}/"><span class="no" id="todayNo">{first['be']}</span><span id="todayTitle">{E(first['title'])}</span></a>
-  <p class="today-v" id="todayVerse">{v1}</p>
-  <a class="btn" id="todayBtn" href="{P}/be/{first['be']}/">Buka dan putar</a>
-</section>
-<section class="block"><h2>Jelajahi per nomor</h2><div class="ranges">{tiles}</div></section>
-<section class="block"><h2>Yang ada di setiap ende</h2>
-<ul class="feats">
-  <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M2.5 7.5h11"/><text x="2" y="17" font-size="10" font-family="Georgia,serif" font-weight="700">123</text><circle cx="18.3" cy="20.5" r="1" class="f"/></svg><div><b>Not angka</b><span>Ditulis seperti di buku: garis atas untuk ½ ketuk, titik untuk oktaf.</span></div></li>
-  <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 6h18M3 10h18M3 14h18M3 18h18"/><ellipse cx="9" cy="16" rx="2.4" ry="1.8" class="f"/><path d="M11.3 16V5"/></svg><div><b>Not balok</b><span>Dibuat dari not angka, lengkap dengan lirik.</span></div></li>
-  <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M7 5l12 7-12 7z"/></svg><div><b>Putar dengan organ</b><span>Not yang berbunyi ikut ditandai; tempo bisa diubah sambil berjalan.</span></div></li>
-  <li><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M4 6h16M4 12h10M4 18h13"/></svg><div><b>Lirik per ayat</b><span>Pilih ayat 1, 2, 3… liriknya berganti di bawah not.</span></div></li>
-</ul></section>
 </div>"""
 home_js = r"""<script>
 (function(){
   var BP=__BP__, IDX=null, f=document.getElementById("goForm"), inp=document.getElementById("goNo"), msg=document.getElementById("goMsg");
   function load(){return IDX?Promise.resolve(IDX):fetch(BP+"/data/index.json").then(function(r){return r.json();}).then(function(j){IDX=j;return j;});}
-  function go(id){location.href=BP+"/be/"+id+"/";}
   f.addEventListener("submit",function(e){e.preventDefault();var v=inp.value.trim().toLowerCase().replace(/^be\s*-?\s*/,"").replace(/^0+/,"");
     if(!v){inp.focus();return;}
     load().then(function(ix){var hit=ix.filter(function(x){return String(x.id||x.be)===v;})[0];
-      if(hit)go(hit.id||hit.be);else{msg.textContent="Nomor "+v+" tidak ada. Buku Ende berisi nomor 1 sampai 864.";inp.select();}});});
+      if(hit)location.href=BP+"/be/"+(hit.id||hit.be)+"/";else{msg.textContent="Tidak ada ende nomor "+v+".";inp.select();}});});
   inp.addEventListener("input",function(){msg.textContent="";});
-  document.getElementById("rndBtn").addEventListener("click",function(){load().then(function(ix){var x=ix[Math.floor(Math.random()*ix.length)];go(x.id||x.be);});});
-  // ende hari ini: dipilih dari tanggal, sama untuk semua pengunjung pada hari yang sama
-  load().then(function(ix){
-    var d=new Date(), k=Math.imul(d.getFullYear()*372+d.getMonth()*31+d.getDate(),2654435761)>>>0, e=ix[k%ix.length], id=e.id||e.be;
-    return fetch(BP+"/data/b"+("0"+e.batch).slice(-2)+".json").then(function(r){return r.json();}).then(function(arr){
-      var h=arr.filter(function(x){return String(x.id||x.be)===String(id);})[0]; if(!h) return;
-      var url=BP+"/be/"+id+"/";
-      document.getElementById("todayLink").href=url; document.getElementById("todayBtn").href=url;
-      document.getElementById("todayNo").textContent=id; document.getElementById("todayTitle").textContent=h.title;
-      var v=document.getElementById("todayVerse"); v.textContent=""; (h.verses[0]||[]).forEach(function(l){var s=document.createElement("span");s.textContent=l;v.appendChild(s);});
-    });
-  }).catch(function(){});
 })();
 </script>
 """.replace("__BP__", json.dumps(P))
