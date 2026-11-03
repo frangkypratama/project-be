@@ -90,12 +90,16 @@ GitHub Pages (Settings → Pages → Custom domain), bangun `docs/` dengan
 ## Cetak partitur (PDF F4)
 
 Di situs statis (bukuende.com) setiap halaman lagu punya tombol **Cetak PDF**.
-Tata letak cetak memakai kertas F4 (215 × 330 mm): kepala lagu, not angka,
-not balok (sesuai pilihan tampilan dan ayat yang dipilih), semua ayat, dan
-kaki halaman berisi alamat lagu. Selalu dicetak hitam di atas putih, juga
-dalam mode gelap. Di jendela cetak pilih **Simpan sebagai PDF** dan ukuran
-kertas **Default**. Tombol ini tidak ada di artifact Dev/Prod karena artifact
-tidak mengizinkan jendela cetak.
+Hasilnya kertas F4 (215 × 330 mm) berisi dua versi, masing-masing mulai di
+halaman baru:
+
+1. **Not angka** dengan lirik ayat 1 di bawah not, lalu ayat 2 dst sebagai teks.
+2. **Not balok** dengan lirik ayat 1 di bawah not, lalu ayat 2 dst sebagai teks.
+
+Setiap versi punya kepala lagu sendiri dan kaki halaman berisi alamat lagu.
+Selalu hitam di atas putih, juga dari mode gelap. Di jendela cetak pilih
+**Simpan sebagai PDF** dan ukuran kertas **Default**. Tombol ini tidak ada di
+artifact Dev/Prod karena artifact tidak mengizinkan jendela cetak.
 
 ## Uji
 

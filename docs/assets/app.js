@@ -134,6 +134,7 @@ function renderAngka(sec,container,rows){
   requestAnimationFrame(draw);
   if(window.ResizeObserver){new ResizeObserver(function(){draw();}).observe(flow);}
   if(document.fonts&&document.fonts.ready){document.fonts.ready.then(draw);}
+  return draw;
 }
 
 /* ---------- ABC (not balok) ---------- */
@@ -412,24 +413,49 @@ function setVerse(k,quiet){
   if(vn){vn.hidden=!miss; if(miss){vn.innerHTML='Lirik ayat '+(k+1)+' belum dipasang ke not. Teks ayatnya:<q></q>';vn.querySelector("q").textContent=h.verses[k].join(" ");}}
   if(view!=="angka") drawStaff(h,secs);
 }
-/* Saat mencetak: paksa tema terang dan gambar ulang not balok satu SVG per baris */
-var PRINTING=false;
-window.addEventListener("beforeprint",function(){
-  if(PRINTING) return; PRINTING=true;
-  var h=current(); if(h&&CURSECS&&view!=="angka") drawStaff(h,CURSECS);
-  var m=document.getElementById("main"), f=document.querySelector(".print-foot");
-  if(m&&h&&!f){f=document.createElement("p");f.className="print-foot";m.appendChild(f);}
-  if(f&&h){var c=document.querySelector('link[rel="canonical"]');f.textContent="Buku Ende "+(h.id||h.be)+" \u2013 "+h.title+" \u00b7 Buku Ende Digital"+(c?" \u00b7 "+c.href.replace(/^https?:\/\//,""):"");}
-});
-window.addEventListener("afterprint",function(){
-  if(!PRINTING) return; PRINTING=false;
-  var h=current(); if(h&&CURSECS&&view!=="angka") drawStaff(h,CURSECS);
-});
+/* Cetak: dua versi, masing-masing mulai di halaman baru.
+   1) not angka dengan lirik ayat 1 di bawah not, lalu ayat 2 dst sebagai teks
+   2) not balok dengan lirik ayat 1 di bawah not, lalu ayat 2 dst sebagai teks */
+function buildPrintView(){
+  var h=current(), main=document.getElementById("main"); if(!h||!main) return;
+  var old=document.getElementById("printView"); if(old) old.remove();
+  var pv=document.createElement("div"); pv.id="printView"; main.appendChild(pv);
+  var head=main.querySelector(".hymn-head"), c=document.querySelector('link[rel="canonical"]');
+  var foot="Buku Ende "+(h.id||h.be)+" \u2013 "+h.title+" \u00b7 Buku Ende Digital"+(c?" \u00b7 "+c.href.replace(/^https?:\/\//,""):"");
+  var rest=h.verses.slice(1), restH=rest.length?(rest.length>1?"Ayat 2\u2013"+h.verses.length:"Ayat 2"):"";
+  function tail(part){
+    if(rest.length){
+      var keep=document.createElement("div");keep.className="pv-keep";part.appendChild(keep);
+      var t=document.createElement("h2");t.textContent=restH;keep.appendChild(t);
+      var first=document.createElement("div");first.className="pv-verses";keep.appendChild(first);
+      var more=document.createElement("div");more.className="pv-verses";
+      rest.forEach(function(v,i){var p=document.createElement("p");p.className="verse";p.innerHTML='<span class="vn">'+(i+2)+'.</span><span>'+v.map(function(l){return '<span class="l">'+l+'</span>';}).join("")+'</span>';(i<2?first:more).appendChild(p);});
+      if(more.children.length) part.appendChild(more);}
+    var cr=document.createElement("div");cr.className="credit";cr.textContent="Lagu: "+h.credit;part.appendChild(cr);
+    var f=document.createElement("p");f.className="print-foot";f.textContent=foot;part.appendChild(f);
+  }
+  function part(label){var d=document.createElement("section");d.className="pv-part";if(head)d.appendChild(head.cloneNode(true));
+    var t=document.createElement("h2");t.textContent=label+(h.verses.length>1?" \u00b7 ayat 1":"");d.appendChild(t);pv.appendChild(d);return d;}
+  var secs=buildSecs(h); // selalu lirik ayat 1
+  var A=part("Not angka"), box=document.createElement("div"); box.className="pv-angka"; A.appendChild(box);
+  var draws=[];
+  secs.forEach(function(s,i){
+    if(secs.length>1){var lab=document.createElement("p");lab.className="sec-label";lab.innerHTML='<span class="tag">'+String.fromCharCode(65+i)+'</span>'+(s.rows.length>1?'dinyanyikan dua kali \u2014 baris kedua lirik dicetak miring':'');box.appendChild(lab);}
+    draws.push(renderAngka(s,box,s.rows.length));
+  });
+  tail(A);
+  var B=part("Not balok"), st=document.createElement("div"); st.className="pv-staff"; B.appendChild(st);
+  if(window.ABCJS) window.ABCJS.renderAbc(st,toABC(h,secs),{oneSvgPerLine:true,responsive:"resize",foregroundColor:"#000",staffwidth:740,paddingtop:4,paddingbottom:4,paddingleft:6,paddingright:6,wrap:{minSpacing:1.8,maxSpacing:2.6,preferredMeasuresPerLine:5}});
+  tail(B);
+  draws.forEach(function(d){try{d();}catch(e){}}); // busur legato diukur sekarang, sebelum dicetak
+}
+window.addEventListener("beforeprint",buildPrintView);
+window.addEventListener("afterprint",function(){var pv=document.getElementById("printView"); if(pv) pv.remove();});
 function drawStaff(h,secs){
   var el=document.getElementById("staff"); if(!el) return;
   if(!window.ABCJS){el.innerHTML='<p style="padding:10px;color:var(--ink-2)">Pustaka not balok gagal dimuat.</p>';return;}
   el.innerHTML="";
-  window.ABCJS.renderAbc(el,toABC(h,secs),{add_classes:true,oneSvgPerLine:PRINTING,responsive:"resize",foregroundColor:PRINTING?"#000":inkColor(),staffwidth:740,paddingtop:4,paddingbottom:4,paddingleft:6,paddingright:6,wrap:{minSpacing:1.8,maxSpacing:2.6,preferredMeasuresPerLine:5}});
+  window.ABCJS.renderAbc(el,toABC(h,secs),{add_classes:true,responsive:"resize",foregroundColor:inkColor(),staffwidth:740,paddingtop:4,paddingbottom:4,paddingleft:6,paddingright:6,wrap:{minSpacing:1.8,maxSpacing:2.6,preferredMeasuresPerLine:5}});
 }
 function applyView(){
   document.querySelectorAll(".seg button").forEach(function(b){b.setAttribute("aria-pressed",String(b.dataset.v===view));});

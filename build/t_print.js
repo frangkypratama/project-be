@@ -8,10 +8,10 @@ const B='http://localhost:8803';
   await p.goto(B+'/be/'+n+'/');await p.waitForTimeout(1300);
   const btn=await p.evaluate(()=>!!document.getElementById('printBtn'));
   await p.evaluate(()=>window.dispatchEvent(new Event('beforeprint')));await p.waitForTimeout(400);
-  const svgs=await p.evaluate(()=>document.querySelectorAll('#staff svg').length);
+  const svgs=await p.evaluate(()=>document.querySelectorAll('#printView .pv-staff svg').length+' angka-bar='+document.querySelectorAll('#printView .pv-angka .bar').length+' slur='+document.querySelectorAll('#printView svg.slurs path').length+'/'+document.querySelectorAll('#angka svg.slurs path').length);
   await p.pdf({path:`print-${n}-${sch}.pdf`,preferCSSPageSize:true,printBackground:true});
   await p.evaluate(()=>window.dispatchEvent(new Event('afterprint')));await p.waitForTimeout(300);
-  const after=await p.evaluate(()=>document.querySelectorAll('#staff svg').length);
+  const after=await p.evaluate(()=>!!document.getElementById('printView'));
   console.log(n,sch,view,'tombol',btn,'svg saat cetak',svgs,'setelah',after);
   await c.close();}
  console.log('errs',errs);await b.close();})();
