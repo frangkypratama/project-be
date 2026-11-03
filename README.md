@@ -32,6 +32,10 @@ Untuk membuat ulang scan halaman (panel Dev), set lokasi PDF:
 
 ## Menjalankan di server
 
+Situs resmi: **https://bukuende.com**. Langkah lengkap ada di [`deploy/README.md`](deploy/README.md)
+(skrip `deploy/deploy.sh` dan konfigurasi `deploy/nginx-bukuende.conf`).
+
+
 Isi `dist/` adalah situs statis biasa, tidak butuh Node.js atau database.
 Contoh Nginx:
 
