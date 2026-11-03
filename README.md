@@ -89,7 +89,7 @@ GitHub Pages (Settings → Pages → Custom domain), bangun `docs/` dengan
 
 ## Cetak partitur (PDF F4)
 
-Di situs statis (bukuende.com) setiap halaman lagu punya tombol **Cetak PDF**.
+Di situs statis (bukuende.com) setiap halaman lagu punya tombol **Cetak Partitur**.
 Hasilnya kertas F4 (215 × 330 mm) berisi dua versi, masing-masing mulai di
 halaman baru:
 

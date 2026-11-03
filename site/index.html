@@ -542,7 +542,7 @@ function renderHymn(){
    '<div class="toolbar"><div class="seg" role="group" aria-label="Tampilan notasi">'+
      '<button type="button" data-v="angka">Not angka</button><button type="button" data-v="balok">Not balok</button><button type="button" data-v="both">Keduanya</button></div>'+
      '<button type="button" class="btn primary" id="playBtn">'+PLAY_LABEL+'</button>'+
-     (window.BE_STATIC?'<button type="button" class="btn" id="printBtn" title="Cetak atau simpan sebagai PDF (kertas F4)">Cetak PDF</button>':'')+
+     (window.BE_STATIC?'<button type="button" class="btn" id="printBtn" title="Cetak atau simpan sebagai PDF (kertas F4)">Cetak Partitur</button>':'')+
      '<label class="tempo" for="bpm">Tempo <input id="bpm" type="range" min="50" max="130" value="'+bpm+'"><span id="bpmv">'+bpm+'</span></label></div>'+
    (vReady(h).length>1?'<div class="vbar"><span class="vl" id="vlab">Ayat</span><div class="vchips" role="group" aria-labelledby="vlab">'+vReady(h).map(function(i){return '<button type="button" data-k="'+i+'" title="Ayat '+(i+1)+'">'+(i+1)+'</button>';}).join("")+'</div>'+
      '<label class="vall"><input type="checkbox" id="vall"'+(VALL?' checked':'')+'> Putar sampai ayat terakhir</label></div>':'')+
