@@ -38,7 +38,7 @@
   <form class="go" id="goForm" autocomplete="off">
     <label for="goNo">Ende nomor</label>
     <span class="board"><input id="goNo" inputmode="numeric" placeholder="550" maxlength="5" aria-describedby="goMsg"></span>
-    <button type="submit" class="btn primary">Buka</button><button type="button" class="btn" id="rndBtn">Ende acak</button>
+    <button type="submit" class="btn primary">Buka</button>
     <p class="go-msg" id="goMsg" role="status"></p>
   </form>
   <div class="staffrule" aria-hidden="true"></div>
@@ -78,10 +78,9 @@
     load().then(function(ix){var hit=ix.filter(function(x){return String(x.id||x.be)===v;})[0];
       if(hit)go(hit.id||hit.be);else{msg.textContent="Tidak ada ende nomor "+v+".";inp.select();}});});
   inp.addEventListener("input",function(){msg.textContent="";});
-  document.getElementById("rndBtn").addEventListener("click",function(){load().then(function(ix){var x=ix[Math.floor(Math.random()*ix.length)];go(x.id||x.be);});});
-  // ende hari ini: dipilih dari tanggal, sama untuk semua pengunjung pada hari yang sama
+  // ende hari ini: dipilih acak setiap kali beranda dibuka atau dimuat ulang
   load().then(function(ix){
-    var d=new Date(), k=Math.imul(d.getFullYear()*372+d.getMonth()*31+d.getDate(),2654435761)>>>0, e=ix[k%ix.length], id=e.id||e.be;
+    var e=ix[Math.floor(Math.random()*ix.length)], id=e.id||e.be;
     return fetch(BP+"/data/b"+("0"+e.batch).slice(-2)+".json").then(function(r){return r.json();}).then(function(arr){
       var h=arr.filter(function(x){return String(x.id||x.be)===String(id);})[0]; if(!h) return;
       document.getElementById("todayLink").href=BP+"/be/"+id+"/"; document.getElementById("todayBtn").href=BP+"/be/"+id+"/";
