@@ -1,0 +1,34 @@
+@be 717
+@bl 0
+@title Di na hutatap silang i.
+@key D
+@meter 3/4
+@credit Syair: When I Survey the wondrous Cross, Issac Watts, 1674-1748 · Terj.: Pdt. MV. Simanjuntak/Pdt. J.A.U. Doloksaribu · Lagu: Edward Miller 1731 - 1807
+@pages 756 757
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0). Kredit "Issac Watts" (lazim Isaac Watts) — ditulis apa adanya.
+@check Birama akhir "2 | 1 . .": suku kata "i" jatuh di 2, not 1 penutup tanpa suku kata (ditahan, `_`).
+@check Birama "1̇ 3 4̸" (hon): angka tercetak 4 dicoret (#4) dan balok Gis → `#4`.
+@status Lirik dicek · 6/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan huasa(hon), sambing, numpal, holongNa/holongangan. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 717"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 717) | https://bukuende.wordpress.com/2013/06/13/di-na-hutatap-silang-i-buku-ende-no-717-buku-logu-no-717/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+1 | (3 4) 2 | 1 . 3 | 5 . 6 | 5 . 5 |
+1' . 7 | 6 . 5 | (5 4) 3 | (3 2) 2 |
+5 . 6 | 7 . 5 | (1' 3) #4 | 5 . 1 |
+4 . 3 | 2 . 1 | (1+2) 3 2 | 1 . . |]
+> Di na hu-ta-tap si-lang i, ha-ma-te-an ni Ra-jang-ki, bo-long na hu-a-sa hon i, tu-dos tu or-buk na ma i. _
+#V
+Di na hutatap silang i, hamatean ni Rajangki,
+bolong na huasa hon i, tudos tu orbuk na ma i.
+-
+Ndang tarasahon au be i, sude na hutengahon i
+di hamateanMi sambing malua au O Tuhanki.
+-
+Mabaor sian bugangNa i holongNa nang hansitNa i,
+si sungsang duri na posi, na gabe numpal na uli.
+-
+Marhite Ho tarsilang do, portibion di diringkon
+diringku pe tarsilang do maradophon portibion.
+-
+Nang gok di au portibi i, otik do i baen sombangki,
+holongNa holongangan i, ngolongku do ni igil nii.

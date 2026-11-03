@@ -1,0 +1,56 @@
+@be 334
+@bl 186
+@title Nasa jolma ingkon mate
+@key C
+@meter 4/4
+@credit Jakob Hintze 1678
+@pages 312 313
+@status Lirik dicek · 26/28 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 11 (manpothon) dan 12 (Mandopthon); dicek ulang ke scan hlm 313, buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 334) | https://bukuende.wordpress.com/2013/06/16/nasa-jolma-ingkon-mate-buku-ende-no-334-buku-logu-no-186/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check "4*" = Fa naik (not balok: F♯) → #4.
+#A
+5 1' 5 6 | 5 .+4 3 3 v | 5 5 4 3 |
+2 .+2 1 . :|
+> Na-sa jol-ma ing-kon ma-te, ing-kon ma-go si-buk i;
+> Na ma-ngo-lu ing-kon ma-te, a-sa tung deng-gan mu-se.
+#B
+2 2 3 5 | 5 .+#4 5 5 v |
+6 7 1' 1' | 7 .+7 6 6 v | 3 3 6 5 |
+5 .+#4 5 . v | 6 7 (1'+2') 3' | 2' . . 2' | 1' . . . |]
+> Da-ging on do ga-be bang-ke ja-la ing-kon do ma-lang-ke, a-sa so-got bang-kit i tu ha-sa-nga-pon-na i.
+#V
+Nasa jolma ingkon mate, ingkon mago sibuk i;
+Na mangolu ingkon mate, asa tung denggan muse.
+Daging on do gabe bangke jala ingkon do malangke,
+asa sogot bangkit i tu hasangaponna i.
+-
+Ipe ndang be juaonku, roha ni Debatangki;?
+Lehononku do hosangku, ndang be marsak au disi?
+Ai di bugang ni Jesusku dapot au hangoluanku,
+Ala hamamate ni do tarapul rohangki.
+-
+Jesus Kristus nunga mate, ala ni mangolu au,
+Singkop tua diparade, i pe las rohangku lao
+Manadingkon pardagangan, manpothon hasonangan,
+Mandopthon Jesuski; ai malungun au tusi.
+-
+Sonang ma disi rohangku, molo jongjong au disi
+Dohot sasude donganku, na marhasangapon i.
+Dohot Serapim silehon sangap nang hamuliaon.
+Di niendehonna i : sangap di Tuhanta i.
+-
+Dohot do disi maringan na badia i sude;
+Ompu dohot panurirang, nang sude Apostel pe.
+Ai marriburibu taonna lao tumopot ingananNa
+Angka na badia i pasangaphon Tuhan i.
+-
+O Jerusalem na uli, tiur ni panondangMi!
+Sonang dohot au maruli, tumangihon endeMi.
+On pe timbul las ni roha on pe binsar nasa tua,
+On ma ari i tahe, na so olo salpu be.
+-
+Ai idaon ni matangku hasangapon i sude.
+hatigoran do uloshu, na pasangap au muse;
+Pinarsanggul hamonangan jongjong au di hasonangan
+Maradophon Debata, sai tongtong, Haleluya.

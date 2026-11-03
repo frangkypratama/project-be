@@ -1,0 +1,22 @@
+@be 410
+@bl 270
+@title Na ro ma sahalak
+@key Eb
+@meter 6/8
+@credit (tidak terlihat – halaman lanjutan tidak ada di PDF)
+@pages 393
+@status Tidak lengkap · refrein & ayat 2 dst. ada di hlm buku 394 yang tidak ada di PDF · lirik dicek: 1/2 baris sama dgn pembanding
+@check Kepala lagu juga mencetak "R.L. No. 172".
+@check PDF hlm 393 (buku hlm 393) langsung disusul PDF hlm 394 yang bernomor buku 395: halaman buku 394 tidak ada di PDF. Yang tersisa hanya bagian bait (sampai "sur-go i?") dan not gantung refrein "5̄ Na"; refrein, ayat 2 dst., dan kredit lagu belum bisa ditranskrip.
+@check Birama 6/8: 1 token = 1 not 1/8.
+@check Baris 2 "2*": not balok mencetak tanda pugar (♮) pada not F; dibaca sebagai Fis (#2) sesuai angka.
+@check Pembanding lirik: bukuende.wordpress.com — 1/2 baris sama; baris 2 beda ejaan/pemisahan kata. Pembanding memuat 5 ayat + refrein; refrein & ayat 2–5 ada di halaman buku 394 yang tidak ada di PDF, jadi tidak ditranskrip dari pembanding.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 410) | https://bukuende.wordpress.com/2013/06/16/na-ro-ma-sahalak-buku-ende-no-410-buku-logu-no-270/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 3 3 3 3 4 5 | 6 5 #4 5 . 5 |
+5 4 3 2 3 4 | 4 3 #2 3 . 1 | 3 3 3 3 4 5 |
+6 5 #4 5 . 3 | 2 #1 2 5 #4 5 | 7 . 6 5 . |]
+> Na ro ma sa-ha-lak, to-ngon born-gin i, tu Je-sus Tu-han-ta ma-nung-kun bo-ti: Be-ha ma bae-non-ku, a-le Tu-han-ki, naeng ma-suk au so-got tu sur-go i?
+#V
+Na ro ma sahalak, tongon borngin i, tu Jesus Tuhanta manungkun boti:
+"Beha ma baenonku, ale Tuhanki, naeng masuk au sogot tu surgo i?"

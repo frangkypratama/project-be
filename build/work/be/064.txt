@@ -1,0 +1,50 @@
+@be 64
+@bl 192
+@title Naung moru do muse sataon
+@key F
+@meter 4/4
+@credit J.A. Freylinghausen, 1704
+@pages 55 56
+@status Lirik dicek · 21/24 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 21 dari 24 baris sama persis; 3 baris beda ("ahu nasailaon", "rohaNai", "huulahon", "goarMu"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 64) | https://bukuende.wordpress.com/2013/06/16/naung-moru-do-muse-sataon-buku-ende-no-64-buku-logu-no-192/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 2 3 1 | 5 5 3 1 | 0 3 2 5 |
+3 6 5 #4 | 5 . . :|
+> Naung mo-ru do mu-se sa-ta-on, hu-hut lam su-da bo-hal-hi;
+> Be-ha do a-hu na-sai-la-on. tu-re do pa-nga-la-hong-ki?
+#B
+2 | 2 2 7, 5, | 1 2 3 1 |
+0 3 2 3 | 1 7, 6, 6, | 5, . . 5, | 1 2 3 1 |
+5 5 3 1 | 0 5 1 4 | 7, (1+2) 3 2 | 1 . . |]
+> Lam gan-da ha-por-se-a-on-ku, Nang ho-long ni ro-hang-ku pe di Je-sus do-hot De-ba-tang-ku, Nang di do-ngan-ku sa-su-de?
+#V
+Naung moru do muse sataon, huhut lam suda bohalhi;
+Beha do ahu nasailaon. ture do pangalahongki?
+Lam ganda haporseaonku, Nang holong ni rohangku pe
+di Jesus dohot Debatangku, Nang di donganku sasude?
+-
+Aut alusanku Debatangku, ra tung maila au disi,
+Marningot salpu ni rohangku ro di sude ulaonki.
+Ai dosa do binaen ni tangan, gok dosa nang rohangku pe;
+Nang pat, nang mata, nang pamangan luhut marsala do hape.
+-
+Aut nunga mate au nuaning, di dia tondingki tahe?
+Di hasonangan do ulaning rap dohot na badia i?
+Mamuji Debata do ahu dibaen asi rohaNai,
+Manang na hona uhum ahu, di api na so mintop i?
+-
+Ndang dapot bilanganku dosa naung huulahon pasailaon,
+Huhut ndang harajuman basa ni Tuhan Jesus nasailaon.
+Ndang dibaloshon Ho, Tuhanku; tu au hombar tu dosangki;
+Sai dipalambas Ho rohamu marnida pangalahongki.
+-
+Dibahen i antong hupuji denggan basaM sadari on;
+Ai pineakkon rujiruji, i do na dapot sai tongtong.
+O Jesus, na marholong roha ingkon hupuji goarMu,
+Dibaen saluhut denggan basa tu ahu pinasahatMi.
+-
+Antong, asi rohaM, dongani ma au tongtong tu jolo on;
+Pasahat ma au musengani tu surgo, dung tos hosangkon.
+Na olo do au mangihuthon, HataM, asal mangolu au;
+Naeng las rohangku pararathon baritaMi lam tu na dao.

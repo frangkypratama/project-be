@@ -1,0 +1,25 @@
+@be 124
+@bl 17
+@title Di borngin na parpudi i
+@key C
+@meter 4/4
+@credit Nikolau Ludwig, abad 18
+@pages 112
+@status Lirik dicek · 5/6 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 5 dari 6 baris sama; ay2 b1 beda ejaan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 124) | https://bukuende.wordpress.com/2013/06/13/di-borngin-na-parpudi-i-buku-ende-no-124-buku-logu-no-17/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama "5 .'5" (awal baris 2) dicetak 3 ketuk; not 5 pertama dibaca 1/2 bertitik agar genap 4.
+@check Baris 2: angka "2 1" dicetak tanpa titik oktaf, tetapi not balok buku menunjukkan D5–C5; dibaca 2' 1'.
+#A
+(3+4) | 5 (1'+2') 3' 1' | 2' 7 1' v 3' | 2' 1' 7 6 |
+5 . . v 5 | 2' 1' 7 6 | 5 4 3 v 5 | 6 2' 1' 7 | 1' . . |]
+> Di bor-ngin na par-pu-di i, ta-gan so ma-te Ho, na ma-si-ha-ho-long-an i di ja-mi-ta-hon Ho
+#V
+Di borngin na parpudi i, tagan so mate Ho,
+Na masihaholongan i dijamitahon Ho
+-
+Antong, paingot huriaM, na mura marbadai,
+Tongtong di holong ni rohaM, huhut sai parrohai.
+-
+Gok dame bahen huriaM, huhut patogu i.
+Maniru holong ni rohaM, pinatuduhonmi.

@@ -1,0 +1,31 @@
+@be 462
+@bl 311
+@title Ale Tondi Parbadia.
+@key Ab
+@meter 6/4
+@credit R. L. No. 118 · Lagu: William B. Bradbury 1868
+@pages 442
+@check Judul kepala lagu "Ale Tondi Parbadia", sedangkan lirik di bawah not tercetak "Porbadia"; lirik ditulis sesuai cetakan di bawah not.
+@status Lirik dicek · 8/9 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di ayat 4 baris 2 ("rohami"); scan hlm 442 mencetak "rohami". Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 462) | https://bukuende.wordpress.com/2013/06/09/ale-tondi-parbadia-buku-ende-no-462-buku-logu-no-311/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . 4 5 . 1 | 4 . 3 3 . 2 | 2 . 3 4 . 2 | 1 . 7, 1 . . :|
+> A-le Ton-di Por-ba-di-a, sai song-go-pi ha-mi on.
+> Ro-ha-na-mi ma pa-ri-a lao ma-mu-ji Ho tong-tong.
+#B
+5 . 3 5 . . | 3 . 1 3 . . | 3 . 4 5 . 1 | 3 . 2 1 . . |]
+> Ho tong-tong, Ho tong-tong, lao ma-mu-ji Ho tong-tong.
+#V
+Ale Tondi Porbadia, sai songgopi hami on.
+Rohanami ma paria lao mamuji Ho tongtong.
+Ho tongtong, Ho tongtong, lao mamuji Ho tongtong.
+-
+Debata ni hangoluan, lehon hangoluan i.
+Sunggul sian partangisan saluhut na mate i. Saluhut, saluhut.
+-
+ApiMi sai lam pagalak, sondang di na holom i
+Asa las, tiur ma halak. Lam pita huriaMi. Lam pita, lam pita.
+-
+Jesus Kristus, tangi, bege, dok ma amenMi disi,
+Suru ma tu rohami hagogok ni TondiMi. Hagogok, hagogok.

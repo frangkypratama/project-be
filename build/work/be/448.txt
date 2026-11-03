@@ -1,0 +1,41 @@
+@be 448
+@bl 299
+@title O Tuhan Jesus Ho do
+@key Ab
+@meter 4/4
+@credit Polnische Weise
+@pages 429 430
+@check Kepala lagu juga mencantumkan "U.L. No. 179".
+@check Birama akhir tercetak "3 0"; not balok = 1/2 + tanda diam 1/2 → ditulis 3 . 0 .
+@check Baris 1 birama 1: not balok ke-4 tampak lebih rendah dari not ke-5 padahal angka "2 2"; angka dipakai.
+@status Lirik dicek · 12/15 baris sama dgn pembanding
+@check Pembanding lirik: L2 (utaonMi), L3 (huihuthon), L15 (so) beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 448) | https://bukuende.wordpress.com/2013/06/16/o-tuhan-jesus-ho-do-buku-ende-no-448-buku-logu-no-299/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 3+3 2 2 | 1 1+1 7, 7, |
+6, 7,+1 5, 5, | 4, 4,+4, 3, . :|
+> O Tu-han Je-sus, Ho do ma-mor-san Na-sa do-sang-ku nang u-hum i!
+> Ma-te do Ho di hau pi-nor-si-lang, Sun do di-baen Ho u-ta-on-Mi.
+#B
+3, #4,+#5, 6, 6, | 7, 6,+7, 1 . | 5, 6,+7, 1 1 | 2 1+2 3 . |
+3 3+3 2 2 | 1 1+1 7, 7, |
+6, 7,+1 5, 5, | 4, 5,+6, 5, . | 4 . 4 4 | 3 . 0 . |]
+> Sai Ho sam-bing nam-pu-na au on. Ho hu-i-hut-hon di ta-no on, Ho do da-meng-ku, Ho do ngo-lung-ku. Ho ha-ti-ur-on ni ro-hang-ki di-ho-long-Mi
+#V
+O Tuhan Jesus, Ho do mamorsan nasa dosangku nang uhum i!
+Mate do Ho di hau pinorsilang, sun do dibaen Ho utaonMi.
+Sai Ho sambing nampuna au on. Ho huihuthon di tano on,
+Ho do damengku, Ho do ngolungku.
+Ho hatiuron ni rohangki diholongMi.
+-
+O Tuhan Jesus, tangkup tanganku, tiop gomos tongtong rohangki
+Ndang boi tarrampas au. hinophopMu, sian tanganMu na gogo i
+Di ragam ni parsorionki Ho hamonangan. Ho gogongki.
+Sonang rohangku, sai ingotonku
+Au hinophopmu na arga i di silang i.
+-
+O Tuhan Jesus, Ho do ngolungku au pinangolu ni mudarMi,
+Angka na loja, angka na sorat, Boi maradian di lambungMi.
+Sai pujionku Ho, Tuhanki, ala Ho mate di silang i.
+Di sitaononku, parungkilonku.
+Tangkas hubege di jouhon ho: Hatop Au so!

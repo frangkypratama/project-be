@@ -1,0 +1,54 @@
+@be 269
+@bl 163
+@title Tu jolo ni Tuhanku.
+@key G
+@meter 6/8
+@credit Karl Volgtlander 1853
+@pages 249 250
+@check Judul kepala lagu (judul Logu) "Tu jolo ni Tuhanku."; baris pertama lirik "Mardalan au saonari".
+@check Birama "1 . . 7 , 2" (baris 1) dan "5 . . 2 , 2" (baris 2) tercetak kurang satu titik; ditulis "1 . . 7, . v 2" / "5 . . 2 . v 2" seperti birama padanan di baris 4.
+@check Baris 3 tercetak "5 . 0 0 3" (5 ketuk 1/8); ditulis "5 . . 0 0 3" agar 6/8.
+@check Komponis tercetak "Karl Volgtlander" (lazim: Karl Voigtländer).
+@check Ayat 4 tercetak "doangnku"; ditulis sesuai buku.
+@status Lirik dicek · 18/24 baris sama dgn pembanding
+@check Pembanding lirik: L7, L9, L11, L14 ("doangnku"), L19, L23 beda ejaan satu kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 269) | https://bukuende.wordpress.com/2013/06/16/mardalan-au-saonari-buku-ende-no-269-buku-logu-no-163/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 | (5 4) 3 (3 2) 1 | 1 . . 7, . v 2 | (4 3) 2 (2 1) 7, | 1 . . 0 0 :|
+> Mar-da-lan au sao-na-ri tu ha-so-na-ngan i;
+> Ju-mo-nok ga-nup a-ri lam jum-pang ting-ki i,
+#B
+3 | 2 . 2 (2 3) #4 | 5 . . 2 . v 2 |
+(#4 3) 2 (2 3) #4 | 5 . . 0 0 3 | (5 4) 3 (3 2) 1 |
+1 . . 7, . v 2 | (4 3) 2 (2 1) 7, | (1 . . 1 .) |]
+> Si-an na dao hu-i-da ha-ti-u-ron-na i; Sai so-nang do na-si-da, naung tol-has ro di-si.
+#V
+Mardalan au saonari tu hasonangan i;
+Jumonok ganup ari lam jumpang tingki i,
+Sian na dao huida hatiuronna i;
+Sai sonang do nasida, naung tolhas ro disi.
+-
+Godang do halilian di tongan dalan i;
+Hatop do au mardalan tu hasonangan i;
+Godang do hasusaan, nahumaliang au;
+Hubolus parmaraan, marningot Jesus au,
+-
+Didadang las ni ari, ditinggang udan au;
+Jotjot huhabiari na manggopgopi au;
+Matangku sai manatap tus sitioponki;
+Adian do husangkap, rade di surgo i.
+-
+Las situtu rohangku, nang lantap alongki,
+Sai Jesus do doangnku, ai i haposanki.
+Ibana na manogu arian, borngin pe;
+Pos situtu rohangku, sai sahat au muse.
+-
+Hugolom di rohangku, hau pinarsilang i;
+Laos i do haposanku, parsigantunganki,
+Ai nungan saut ditobus Tuhanku tondingki,
+Ibana do patulus, pasahat langkangki,
+-
+Pos situtu rohangku manulus dalan i;
+Tung suda pe bohalhu, sai sahat au tusi;
+Tung loha ganup ari di pardagangan on.
+Alai satongkin nari sai sonang au tongtong.

@@ -1,0 +1,38 @@
+@be 164
+@bl 107
+@title O Tuhan Jesus, Ho Rajangku
+@key A
+@meter 4/4
+@credit Julius Schröder, 1850
+@pages 148 149
+@status Lirik dicek · 13/15 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 kata 2 dan baris 7 kata 5 beda ejaan; belum dicek ulang di scan, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 164) | https://bukuende.wordpress.com/2013/06/16/o-tuhan-jesus-ho-rajangku-buku-ende-no-164-buku-logu-no-107/ | 13/15 baris sama
+@check Baris 2 "1 . 0 5": titik bawah pada 5 tidak tercetak, tetapi not balok buku menunjukkan E4 (5 rendah).
+@check Buku menulis "Schroder"; ejaan aslinya Schröder.
+#A
+5, | 1 .+2 3 1 | 6, . 2 . | 1 7, 0 5, |
+6, 7, 1 4 | 3 . 2 . | 1 . 0 5, | 1 .+2 3 1 | 6, . 2 . |
+1 7, 0 2 | 3 #4 5 1 | 7, . 6, . | 5, . 0 5, | 4 . . 3 |
+2 2 3 4 | 5 . 0 5, | 6, 7, 1 4 | 3 . 2 . | 1 . . |]
+> O Tu-han Je-sus, Ho Ra-jang-ku, ta-ngi-hon au, na-po-so-Mon! Naeng to-po-tan-ku do do-sang-ku tu Ho, Si-gom-gom ta-no on. Ai naeng ma-ngo-lu ton-ding-ki mar-hi-te-hi-te mu-dar-Mi.
+#V
+O Tuhan Jesus, Ho Rajangku, tangihon au, naposoMon!
+Naeng topotanku do dosangku tu Ho, Sigomgom tano on.
+Ai naeng mangolu tondingki marhitehite mudarMi.
+-
+Godang do dosa ni tanganku, rohangku pe gok dosa do,
+Nang mata pe, nang pamatangku, luhutna i gok dosa do.
+Sai sesa nasa dosangki marhitehite mudarMi.
+-
+O Jesus na marasiroha di saluhut pardosa i,
+Ondihon hami ai naeng jora, do hami mangulahon i,
+Sai sesa dosanami i marhitehite mudarMi.
+-
+Sai lehon ma tu tondinami, tondiM, na sun badia i.
+Ibana mangajari hami, mangaradoti patikMi.
+Parbadiai ma hami be marhitehite mudarMi.
+-
+Pasaor ma hami tu punguan ni angka na badia i,
+Na sonang di banuaginjang, mamuji-muji goarMi.
+Pamasuk hami be tusi marhite-hite mudarMi.

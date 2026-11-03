@@ -1,0 +1,44 @@
+@be 744
+@bl 0
+@title Rap dohot au
+@key Eb
+@meter 4/4
+@credit Syair: "Abide with me; William H. Mongk · Terj.: Pdt. J.A.U Doloksaribu · Lagu: Henry F. Lyte
+@pages 797 798
+@status Lirik dicek · 19/20 baris sama dgn pembanding
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0. Ayat bacaan: Luk. 24:29.
+@check Baris 2 birama 3: angka "4 2 3 4" (4 tidak dicoret), balok = As F G A♮ → ditulis #4 sesuai balok.
+@check Kredit ditulis seperti buku; lazimnya syair "Abide with me" oleh Henry F. Lyte dan lagu (EVENTIDE) oleh William H. Monk — buku tampak menukar keduanya, ejaan "Mongk".
+@check Pembanding lirik: baris 8 (namanongtong) beda ejaan; dicek ulang ke scan, buku sesuai transkripsi.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 744) | https://bukuende.wordpress.com/2013/06/16/rap-dohot-au-buku-ende-no-744-buku-logu-no-744/ | teks ayat
+#A
+3 . 3 2 | 1 . 5 . | 6 5 5 4 | 3 . . . |
+3 . 4 5 | 6 . 5 . | 4 2 3 #4 | 5 . . . |
+3 . 3 2 | 1 . 5 . | 5 4 4 3 | 2 . . . |
+2 . 3 4 | 3 2 1 4 | 3 . 2 . | 1 . . . |]
+> Rap do-hot au ma Ho O Tu-han-ki, nu-nga bot ne lam sun-dut a-ri i, sa-sa-da Ho do na sun go-go i, ma-mo-lus bor-ngin Ho ma do-ngan-ki.
+#V
+Rap dohot au ma Ho O Tuhanki,
+nunga bot ne lam sundut ari i,
+sasada Ho do na sun gogo i,
+mamolus borngin Ho ma donganki.
+-
+Nunga lam suda ariaringki,
+lam surut nang pinarhagiothi,
+huboto do lam jonok ajalhi,
+Ho namanongtong Ho ma donganki.
+-
+Disude tingki raphon Ho ma au,
+dipangunjunan pargogoi ma au,
+Ho do partogi Ho haposanki,
+arian borngin Ho ma donganki,
+-
+Maporus saluhutna holsongki,
+ala donok do ho dilambungki,
+jo hamatean dia soropmi,
+Jesus naung hehe i do donganki.
+-
+Baen lam patar tu au silangMi,
+sai patuduhon tu au dalanMi,
+nang salpu borngin Ho ma donganki.
+paima buha siang ari i.

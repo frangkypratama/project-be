@@ -1,0 +1,34 @@
+@be 138
+@bl 222
+@title Ngot ma ho dijou soara
+@key C
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 124 125
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 10 baris sama; 3 baris beda ejaan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 138) | https://bukuende.wordpress.com/2013/06/18/sada-parsigantunganta-buku-ende-no-138-buku-logu-no-222/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Baris 1 buku menulis "par-si-gan-tu-ngan-t a"; dibaca "ngan-ta". Baris 2 "pi-nar-ha-maol": "maol" satu not.
+@check Bagian B birama 2 buku: "1 .' 5" (3 ketuk); dibaca "1 . . v 5" (4 ketuk), sesuai angka melodi sama di BE 141 ("1 . . ' 5").
+#A
+1 3 | 5 5 5 5 | 6 . 5 . | 0 5 1' 5 |
+1' 3' 2' 1' | 2' . 5 . | 0 5 1' 5 | 6 3 4 2 |
+1 . . . :|
+> Sa-da par-si-gan-tu-ngan-ta, na ma-te i hu-mop-hop hi-ta; To-bus-ta do mu-dar-Na i.
+> Je-sus, Ho do Tu-han-na-mi, Ho ma tong-tong nam-pu-na ha-mi, pi-nar-ha-maol ni ro-ha-Mi
+#B
+0 5 | 5 4 3 2 | 1 . . v 5 | 5 4 3 2 | 1 . v 2 3 | 4 . 3 v 5 | 6 7 1' v 1' |
+3' 2' 1' . | 0 5 1' 5 | 6 3 4 2 | 1 . |]
+> Pa-tu-re ha-mi on, baen sa-ngap-Mi tong-tong; Sai son-dang-kon ma bo-hi-Mi na ba-sar i tu ha-mi ang-ka do-ngan-Mi!
+#V
+Sada parsigantunganta, na mate i humophop hita;
+Tobusta do mudarNa i. Jesus, Ho do Tuhannami,
+Ho ma tongtong nampuna hami, pinarhamaol ni rohaMi.
+Pature hami on, baen sangapMi tongtong; Sai sondangkon ma
+BohiMi na basar i tu hami angka donganMi!
+-
+Raja na marhasangapon mansai bidang do sisabion,
+Hape otik do naposoM. Suru ma torop Pandita,
+Angka na ringgas marjamita, tu bangso na di tano on.
+Togihon i sude, tu surgo i muse, ai martua
+Do halak i, pinillitMi, tu hasampuran rea i.

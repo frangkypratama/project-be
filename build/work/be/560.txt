@@ -1,0 +1,35 @@
+@be 560
+@bl 0
+@title Endehon amen
+@key G
+@meter 4/4
+@credit Syair: Masithi Amen (ay. 2-3 Pdt. J.A.U. Doloksaribu, M Min); Terj.: Pdt. J.A.U. Doloksaribu, M.Min; Lagu: Afrika Selatan
+@pages 529 530
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0.
+@check Kredit (Masithi Amen / Afrika Selatan) tercetak di hlm 530 di bawah ayat 3 lagu ini, sebelum kepala lagu 561 — pola buku: kredit selalu di bawah ayat. File 561 (batch lain) memakai kredit yang sama; perlu dicek.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 (pembanding 4×Amen, ayat 1 di bawah not 5×), 4, 10 beda. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 560) | https://bukuende.wordpress.com/2013/06/13/endehon-amen-buku-ende-no-560-buku-logu-no-560/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5, | 5, . 5, . | 3 3 . 3 | 3 3 2 1 |
+2 . . 5, | 5, . 5, . | 4 4 . 4 | 4 4 3 2 |
+3 . . 5, | 5, . 5, . | 3 5 . 3 |
+5 . . . | 4 6 . 4 | 6 . . . |
+5 5 . 5 | 5 5 4 4 | 3 . . |]
+> En-de-hon! A-men, pi-nu-ji Ho Tu-han, en-de-hon! A-men, pi-nu-ji Ho Tu-han en-de-hon! A-men, A-men, A-men, A-men, A-men, pi-nu-ji Ho Tu-han.
+#V
+Endehon! Amen, pinuji Ho Tuhan,
+endehon! Amen, pinuji Ho Tuhan,
+endehon! Amen, Amen, Amen, Amen, Amen,
+pinuji Ho Tuhan.
+-
+Endehon! Amen, sangap do Ho Tuhan,
+endehon! Amen, sangap do Ho Tuhan,
+endehon! Amen, Amen, Amen, Amen, Amen,
+sangap do Ho Tuhan.
+-
+Endehon! Amen, Ho do oloanki,
+endehon! Amen, Ho do oloanki,
+endehon! Amen, Amen, Amen, Amen, Amen,
+Ho do oloanki.

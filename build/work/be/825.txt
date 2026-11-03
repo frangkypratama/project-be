@@ -1,0 +1,32 @@
+@be 825
+@bl 0
+@title Buku na badia
+@key F
+@meter 3/4
+@credit Syair: Holy Bible, book divine, John Barton Sr, 1803 · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: William B. Bradbury, 1858.
+@pages 910
+@status Lirik dicek · 5/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 (ayat 1, disusun dari suku kata di bawah not: "hujahai i"), 4 dan 5 (marsak/baenomi) beda; scan hlm 910 jelas → buku tetap.
+@check Pembanding menyebut Buku Logu No. 825; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 825) | https://bukuende.wordpress.com/2013/06/09/buku-na-badia-buku-ende-no-825-buku-logu-no-825/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Lirik di bawah not tercetak "hu-ja- / ha i i" → dipenggal hu-ja-ha-i i (ayat 1: "molo hujahai i").
+@check Not akhir "1 . . | 1 . ." bersambung (tie) di angka dan balok → satu suku kata "ki".
+@check Kredit tercetak "John Barton Sr" (lazimnya John Burton Sr.) — ditulis apa adanya.
+#A
+(3 5) 1 | 2 . 2 | (2 1) 2 | 3 . . | (3 5) 1 |
+2 . 2 | (2 3) 2 | 1 . . | 4 . 4 | 3 . 3 |
+2 . 1 | 5 . . | (5 3) 1 | 2 . 2 | (2 3) 2 | (1 . . | 1 . .) |]
+> Bu-ku na ba-di-a i ndang ta-ra-sam ar-ga ni mo-lo hu-ja-ha-i i lam hu-tan-da di-ring-ki.
+#V
+Buku na badia i ndang tarasam arga ni,
+molo hujahai i, lam hutanda diringki.
+-
+Buku na badia i, hata ni Tuhanta i,
+lam hutanda dosangki, alani hataNa i.
+-
+Molo marsak rohangki, au tarapul baenomi,
+tang haporseaonki, maralohon dosa i.
+-
+Dame na sumurung i, jumpang do di bibel i,
+Buku na badia i ndang tarasam arga ni.

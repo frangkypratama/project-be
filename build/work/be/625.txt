@@ -1,0 +1,47 @@
+@be 625
+@bl 0
+@title Holom sogot manogot i
+@key Ab
+@meter 6/8
+@credit Syair dan Lagu: I Come to the garden alone: C. Austin Miles, 1912 · Terj.: Pdt. J. A. U. Doloksaribu · Mangihuthon Joh. 20:1-17
+@pages 629 630 631
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0).
+@check Birama 6/8: 1 token = 1 not 1/8 (seperti BE 54). Garis atas di angka hanya pengelompokan 3 not 1/8; garis atas ganda = 1/16.
+@check Birama 3 (hlm 630): angka tampak "1 . 1 . 2 1 6" (7 ketuk); balok = A♭ 1/4, A♭ 1/8, B♭–A♭–F 1/8 → ditulis 1 . 1 2 1 6,.
+@check Birama sebelum Refrein: "7 . 1 2" (2 ber-fermata) + awal refrein "3 . 2" (1/16 bertitik + 1/32) menggenapi satu birama; dipisah jadi akhir bagian A dan ketukan gantung bagian B.
+@check Birama "4 . 4 4 4 3 2" (ha-pa-lang las ni ro-ha): 2 dicoret = kres (B♮), balok mencetak tanda pugar.
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 2 baris 3 (marsaor) & baris 4 (manghatai) berbeda. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 625) | https://bukuende.wordpress.com/2013/06/13/holom-sogot-manogot-i-buku-ende-no-625-buku-logu-no-625/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 5, 3, 4, 5, 1 2 | (3 . . 3) 2 1 | 1 . 1 2 1 6, |
+1 . . 5, . 7,+1 | 2 . 2 7, . 6,+7, | 1 . 2 3 . 3 |
+2 . 3 2 . 1 | (7, . 1) 2 . |
+> Ho-lom so-got ma-no-got i si Ma-ri-a lao tu ta-no-man ta-ngis a-la ru-mar ta-no-man i, ai nu-nga he-he Je-sus
+#B
+3+.+.+2 | 1 . 1 1 7, 6, |
+7, . 7, 7, . 5,+5, | 4 . 4+4 4 3 #2 |
+(3 . . 3) . 1+2 | 3 . 3 2 2 7, | 1 . 1 1 . 6, |
+5, 1 .+1 7, 1 2 | (1 . . 1) 0 |]
+> Mang-hu-ling ma Je-sus Tu-han-ta i. ndang ha-pa-lang las ni ro-ha i. U-li si-tu-tu par-sa-o-ran i, rap do-hot Je-sus Tu-han i.
+#V
+Holom sogot manogot i
+si Maria lao tu tanoman
+tangis ala rumar tanoman i,
+ai nunga hehe Jesus.
+Ref.: Manghuling ma Jesus Tuhanta i.
+ndang hapalang las ni roha i.
+Uli situtu parsaoran i,
+rap dohot Jesus Tuhan i.
+-
+Nuaeng ditingki na hohom
+dilului rohangku do Jesus
+naeng marsaor do au
+jala manghatai rap dohot Tuhan Jesus.
+Ref.: Manghuling ma Jesus . . .
+-
+Tongtong saor tu Jesus ma au
+asa dame au jala sonang
+alai Tuhan i paborhathon au
+pararat harajaonNa.
+Ref.: Manghuling ma Jesus . . .

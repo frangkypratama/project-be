@@ -1,0 +1,40 @@
+@be 733
+@bl 0
+@title Dulo ma au on O Tuhan
+@key G
+@meter 4/4
+@credit Syair: Pass Me not, O Gentle Savior, Fanny J. Crosby, 1820-1915; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: William H. Doane; 1832-1915
+@pages 780 781
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Bagian suplemen; ayat bacaan Mark. 10: 47-48. Tidak ada nomor "Logu No." di buku → @bl 0.
+@check Tanda ’ sesudah "1 ." dan "6̣ ." ditulis sebagai tanda napas (v).
+@check Ayat 1 dan refrein hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Pembanding lirik: baris 2 dan 4 (refrein) beda satu kata. Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 733) | https://bukuende.wordpress.com/2013/06/13/dulo-ma-au-on-o-tuhan-buku-ende-no-733-buku-logu-no-733/ | proofreading per baris
+#A
+3 .+2 1+.+.+7, 1+.+.+6, | 5, . 1 . v | 2 .+2 1 2 |
+3 . . 0 | 3 .+2 1+.+.+7, 1+.+.+6, | 5, . 1 . v |
+2 .+1 3 2 | 1 . . 0 |
+> Du-lo ma au on O Tu han be-ge ang-guk-kon, ro do Ho tu ang-ka do-ngan to-pot nang au on.
+#B
+5 . 3 . | (2 .+1) 6, . v |
+5, 1 3 1 | 2 . . 0 | 3 .+2 1+.+.+7, 1+.+.+6, |
+5, . 1 . | 2 .+1 3 2 | 1 . . 0 |]
+> Je-sus Tu-han be-ge ang-guk kon, ro do Ho tu ang-ka do-ngan to-pot nang au on.
+#V
+Dulo ma au on O Tuhan bege anggukkon,
+ro do Ho tu angka dongan topot nang au on.
+Ref.: Jesus Tuhan bege anggukkon,
+ro do Ho tu angka dongan topot nang au on.
+-
+Tu adopanMi O Tuhan marsomba au on,
+sai asi rohaM O Tuhan, jangkon ma au on.
+Ref : Jesus Tuhan . . .
+-
+Denggan ni basaM O Tuhan, papos rohangkon,
+mandapothon Ho O Tuhan pahisar au on.
+Ref : Jesus Tuhan . . .
+-
+Ho do siapuli roha ni na marsak i,
+na soada tudosanNa, Ho haposanki.
+Ref : Jesus Tuhan . . .

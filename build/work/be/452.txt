@@ -1,0 +1,37 @@
+@be 452
+@bl 303
+@title Na ro pandaoni bolon
+@key Eb
+@meter 6/8
+@credit John Hart Stockton 1877
+@pages 433
+@check Birama 6/8: 1 token = 1 not 1/8 (6 token per birama).
+@check Kepala lagu juga mencantumkan "F.B. No. 89".
+@check Baris pertama diulang dengan volta (akhir 1 "2 . . 1 . .", akhir 2 "2 . . 1 ."); di sini ditulis dua kali berurutan (bagian A dan B).
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: L6 (patholong roha), L8 (hamina, Uli), L9 (hoi) beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 452) | https://bukuende.wordpress.com/2013/06/16/na-ro-pandaoni-bolon-buku-ende-no-452-buku-logu-no-303/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 5 . 3 1 . 2 | 3 . 4 5 . 5 | 5 . 1 3 . 1 | 2 . . 1 . . |]
+> Na ro pan-dao-ni bo-lon i, i ma Tu-han-ta Je-sus
+#B
+5 | 5 . 3 1 . 2 | 3 . 4 5 . 5 | 5 . 1 3 . 1 | 2 . . 1 . |]
+> Di-dao-ni na mar-sa-hit i, hi-sar di-ba-hen Je-sus.
+#C
+(5 6) 7 1' . 5 | 7 . 6 5 . . | (5 6) 7 1' . 5 |
+7 . 6 5 . . | 5 . 3 1 . 2 | 3 . 4 5 . . | 5 . 1 3 . 1 | 2 . . 1 . |]
+> U-li ni ba-ri-ta i, las ni ro-ha bo-lon i! Sai di-pu-ji ro-hang-ki Je-sus, Je-sus, Je-sus.
+#V
+Na ro pandaoni bolon i, i ma Tuhanta Jesus
+Didaoni na marsahit i, hisar dibahen Jesus.
+Uli ni barita i, las ni roha bolon i!
+Sai dipuji rohangki Jesus, Jesus, Jesus.
+-
+Tung sae do dosa i sude, ai nunga mate Jesus.
+Ndang jujuronNa i muse, patholong roha Jesus. Uli....
+-
+Na hansit na di rohangki dibuat Tuhan Jesus.
+Antong, hamina donganki, hatop ma ro tu Jesus. Uli....
+-
+Di ari haroroNa i hoi idaonku Jesus.
+Suksuk las rohangki disi, dung domu au tu Jesus. Uli....

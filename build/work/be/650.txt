@@ -1,0 +1,43 @@
+@be 650
+@bl 0
+@title Dipasada holongNa i
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair & Lagu: The Bond of Love, Otis Skillings · Terj.: Pdt. J.A.U. Doloksaribu
+@pages 667 668
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Melodi sama dengan BE 649 (The Bond of Love); di BE 650 tidak ada busur pada "6 7" (suku kata "mon" ditahan, ditulis dengan _) dan tidak ada busur pada "1 1" (dua suku kata "da-ging"). Not 1̇ di baris 3 bertanda fermata (belum didukung tampilan).
+@check Ayat 7 tercetak "dibagasaan" — ditulis apa adanya.
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 13 ('dibagasaan', salah cetak buku) beda.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 650) | https://bukuende.wordpress.com/2013/06/13/dipasada-holongna-i-buku-ende-no-650-logu-no-650/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3+4 | 5 5+5 6 6 | 5 . . 5+5 |
+1' 1'+1' 3' 1' | 2' . . 3'+2' | 1' 2' 3'+3' 2'+1' |
+6 6+7 1' 7+6 | 5 1'+1' 7 2' | 1' . . |]
+> Di-pa-sa-da ho-long-Na i, sa-lu-hut-na por-se-a i, na tar-jou tu sa-da pang-hi-ri-mon _ i, so-ngon da-ging ni Kris-tus i.
+#V
+Dipasada holongNa i, saluhutna porsea i,
+na tarjou tu sada panghirimon i, songon daging ni Kristus i.
+-
+Sada do panghirimon i, dibagasan panjouon i,
+taradoti hasadaon ni Tondi i, pinadomu ni dame i.
+-
+Ala sada do daging i, jala sada do Tondi i,
+taradoti hasadaon ni Tondi i, pinadomu ni dame i.
+-
+Martoruk ni roha ma, dibagasan holongNa i,
+taradoti hasadaon ni Tondi i, pinadomu ni dame i.
+-
+Marlambok ni roha ma, dibagasan holongNa i,
+taradoti hasadaon ni Tondi i, pinadomu ni dame i.
+-
+Marsitangiangan ma, dibagasan holongNa i.
+taradoti hasadaon ni Tondi i, pinadomu ni dame i.
+-
+Rap masihaposan ma, dibagasaan holongNa i,
+taradoti hasadaon ni Tondi i, pinadomu ni dame i.
+-
+Rap masiurupan ma, dibagasan holongNa i,
+taradoti hasadaon ni Tondi i, pinadomu ni dame i.

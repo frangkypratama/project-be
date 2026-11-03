@@ -1,0 +1,44 @@
+@be 476
+@bl 322
+@title Ndada au guru di au.
+@key G
+@meter 3/4
+@credit R.L. No. 446
+@pages 454 455
+@check Birama berganti: bagian "Ndang be au guru di au ... Tung sa-" dicetak 4/4, lalu kembali 3/4.
+@check Ketukan gantung bagian 4/4 ("1 2 . 3", Ndang be): paranada G–A–B bertanda 3 (triol), dan "2 3 4" sesudah "2 . ." (gu-ru di) juga bertanda 3 → ditulis sebagai triol (1+2+3). Tampilan not balok situs belum mendukung triol. "Ndang" dinyanyikan pada G–A (legato), sesuai letak lirik.
+@check Angka "2..2̣ 3 4": titik di bawah "2" kedua kemungkinan bukan tanda oktaf (paranada tidak jelas); ditulis 2 (A4). Perlu dicek.
+@check "4*" = 4 kres (C#), sesuai paranada.
+@check Tidak ada keterangan "Lagu :" untuk lagu ini di hlm 454–455.
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: beda di ayat 1 baris 2 ("hu bege", "sipangolu"), ayat 2 baris 1 ("di" ganda), ayat 2 baris 2 ("hupasat"); scan hlm 454–455 sesuai buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 476) | https://bukuende.wordpress.com/2013/06/16/ndada-au-guru-di-au-buku-ende-no-476-buku-logu-no-322/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3+.+.+4 | 5 .+3 6+.+.+5 | 5 4 2+.+.+3 |
+4 .+6 5+.+.+4 | 3 . 1+.+.+2 | 3 .+3 4+.+.+3 | 3 2 7,+.+.+1 |
+2 .+4 3+.+.+2 | 1 . |
+> Nda-da au gu-ru di au be, Je-sus do nam-pu-na au. Las ro-hang-ku dung hu be-ge, Je-sus si-pa-ngo-lu au.
+#B 4/4
+(1+2)+3 | 2 . . 2+3+4 | 3 . . 5+.+.+5 |
+(#4 . #4)+.+.+#4 3+.+.+#4 | 5+.+.+5 7+6 5 5+.+.+4 |
+> Ndang be au gu-ru di au. Je-sus na hu-mop-hop au, nam-pu-na au. Tung sa
+#C 3/4
+3 .+3 2+.+.+3 | 4 6 5+.+.+4 | 3 .+1 2+.+.+2 | 1 . |]
+> le-leng au ma-ngo-lu, Je-sus do nam-pu-na au.
+#V
+Ndada au guru di au be, Jesus do nampuna au.
+Las rohangku dung hu bege, Jesus sipangolu au.
+Ndang be au guru di au. Jesus na humophop au, nampuna au.
+Tung saleleng au mangolu, Jesus do nampuna au.
+-
+Ndang di au, di Tuhan Jesus, daging dohot rohangki;
+Saluhutna hupasat tu Ho, Jesus Tuhanki.
+Ndang be au.........
+-
+Ulaonku nang artangku pangke ma baen sangapMi.
+Diusehon Ho mudarMu tung tanda do holongMi.
+Ndang be au........
+-
+Naung tarsurat do goarhu dibaen Ho tu tanganMi.
+Laos hupuji ma goarMu salelenglelengna i.
+Ndang be au..........

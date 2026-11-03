@@ -1,0 +1,33 @@
+@be 481
+@bl 325
+@title Godang dope
+@key Eb
+@meter 3/4
+@credit Johann Abraham Peter Schulz 1800
+@pages 458 459
+@check Kepala lagu juga mencetak "R.L. No. 632".
+@check "7*" pada bagian B = 7 mol (paranada: Des), ditulis b7.
+@status Lirik dicek · 4/9 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 1, 3, 6, 7, 9 (ejaan/kata 'di', 'ho' di baris 3); dicek ulang ke scan, ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 481) | https://bukuende.wordpress.com/2013/06/13/godang-dope-buku-ende-no-481-buku-logu-no-325/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 5 . 4 | 3 . 1 | 6 .+7 1'+6 | 5 0 3 | 4 . 3 |
+2 . 5 | 3 .+1' 7+6 | 5 0 :|
+> Go-dang do-pe si-gu-ru-ho-non-mi, A-sa tu-dos ho do-hot Tu-han-mi
+> Sai tong na hu-rang ha-ti-go-ran-mi. So tuk do pe ha-por-se-a-on-mi.
+#B
+5 | 5 . (6+5) | 4 . 4 |
+4 .+6 5+4 | 3 0 5 | (1' 7) b7 | 6 . 4 | 3 .+5 4+2 | 1 0 |]
+> Di-rim sam-bing di ha-ho-lo-ngi ho. Do-ngan-mu laos di ha-lu-pa-hon ho.
+#V
+Godang dope siguruhononmi, Asa tudos ho dohot Tuhanmi
+Sai tong na hurang hatigoranmi. So tuk do pe haporseaonmi.
+Dirim sambing di haholongi ho. Donganmu laos di halupahon ho.
+-
+Tuhanta Jesus, tiruanmu do, Na holong roha di au nang di ho;
+Ai diseahon do diriNa i, Singkatta lao tu hamatean i,
+Ndang na dialang holong roha i. Ai naeng di hita hangoluan i.
+-
+Tatiru holong ni rohaNa i, pinatuduhon ni Tuhanta i,
+Tahaholongi ma donganta i, ai ruas ni Tuhanta do nang i!
+Mardame ma, masijalangan ma; Tatuju ma solhot tu Debata!

@@ -1,0 +1,38 @@
+@be 310
+@bl 12
+@title Tapuji ma Tuhanta.
+@key A
+@meter 3/4
+@credit Nikolaus Selnecker 1587
+@pages 289
+@status Lirik dicek · 8/14 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di baris 1, 2, 3, 9, 12, 13 (baris 9 & 13 = salah cetak buku yang dibiarkan). Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 310) | https://bukuende.wordpress.com/2013/06/18/tapuji-ma-tuhanta-dibaen-buku-ende-no-310-logu-no-12/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check PERLU DICEK: angka memakai do = A (not 1 di A4), tetapi balok bertanda mula 2 kres (D mayor), sehingga not 7 di balok = G (bukan Gis). Angka ditulis apa adanya (@key A).
+@check Salah cetak dibiarkan: ayat 5 "Sipangubungm parngolu", ayat 7 "Thannami" (kemungkinan Tuhannami).
+#A
+1 | 1 . 7, | 6, . 1 | 2 . . | 1 . v 1 | 1 . 2 |
+7, . 2 | 1 . . | 7, . v 7, | 1 . 1 | 2 . 3 | 2 . . |
+2 . v 3 | 4 . 3 | 2 . 1 | 2 . . | 1 . |]
+> Ta-pu-ji ma Tu-han-ta di-baen deng-gan ba-sa-Na. I ma si-pa-ngu-non-ta, naung si-dung di jo-lon-ta.
+#V
+Tapuji ma Tuhanta dibaen denggan basaNa.
+I ma sipangunonta, naung sidung di jolonta.
+-
+Pamatang nang tondinta dilehon do ta hita;
+Ndang dung holit rohaNa, pahot na nilehonNa.
+-
+Dagingta diparmudu, tondinta pe mangolu,
+Ianggo di rohaNa nang pe godang marana.
+-
+Ai sahit ni rohanta, i ma tutu dosanta;
+Naung mate do tondinta binahen ni sahitta.
+-
+Naung ro do Sipangubungm parngolu na sumurung,
+Tuhanta Jesus Kristus, tondinta i ditobus.
+-
+Naung sesa do dosanta, rade hangoluanta;
+Gok ni parjambaranta di surgo jaloonta.
+-
+O Jesus, Thannami, tusi pasahat hami:
+Na metmet, na magodang togihon, tu na sonang.

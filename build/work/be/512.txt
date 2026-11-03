@@ -1,0 +1,50 @@
+@be 512
+@bl 352
+@title Didalam i Jesus tano
+@key Eb
+@meter 2/4
+@credit Edwin O..Exell 1921
+@pages 483 484
+@status Lirik dicek · 13/20 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 13 dari 20 baris sama; beda: L3, L5–L6 (Hahaanggi, donganmu), L9, L13, L15, L16. Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 512) | https://bukuende.wordpress.com/2013/06/22/didalan-i-jesus-tano-buku-ende-no-512-buku-logu-no-352/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "R.L. No. 533". Baris pertama lirik "Di-da-la-ni Je-sus ta-no" (judul Logu "Didalam i Jesus tano").
+@check Bagian B = Koor "Hahaanggi". Ayat 4: kata "Hahaanggi" pada "Koor:" sebagian tidak tercetak di scan ("Hah  nggi").
+#A
+3+3 3+4 | 5+5 5+3 | 4 3 | 4 . |
+2+3 4+5 | 7+6 5+4 | 3 4 | 5 . | 3+3 3+4 |
+5+5 5+3 | 4 3 | 4 . | 2+3 4+5 | 7+6 5+4 |
+3 2 | 1 . |]
+> Di-da-la-ni Je-sus ta-no do-hot laut Ta-hi ho-long ni ro-ha-na di-pa-saut. Na mu-ra lu-hut di-baen ton-di-na i, Dung di-se-sa u-tang ni do-san-ta i.
+#B
+5 .+5 | 1'+5 5+3 | 4 4 | 4 . | 4 .+4 |
+7+6 5+4 | 3 4 | 5 . | 1' .+1' | 7 6 | 7+7 6+6 |
+5 . | 1'+1' 1'+7 | 7+6 5+4 | 3 2 | 1 . |]
+> Ha-ha-ang-gi, ro ha-mu su-de, ta-a-ra-hon ma do-ngan ta be Ha-ha-ang-gi, dao nang jo-nok be! Ha-ra tu jo-lo-Na do-ngan-mu su-de
+#V
+Didalani Jesus tano dohot laut
+Tahi holong ni rohana dipasaut.
+Na mura luhut dibaen tondina i,
+Dung disesa utang ni dosanta i.
+Koor: Hahaanggi, ro hamu sude, taarahon ma dongan ta be
+Hahaanggi, dao nang jonok be! Hara tu joloNa donganmu sude
+-
+Nunga monang di jabum hataNa i?
+Hata i dipangke Ho sinjatami? I do hapistaran na sumurung i,
+Jumpang do mura sudena baenon nii.
+Koor: Hahaangi,.......
+-
+Dongan, pinalua ni Tuhanta i,
+Taondingi, taapoi na lilu i. Asa lam dame luatta, lam ture,
+Itahaholongi ma donganta be.
+Koor: Hahaangi,.....
+-
+Ganggu roha mida pangunjunan i,
+Moru pe gogonta lao marungkil i.
+Sai tabereng dompak Jesus Tuhan i,
+Ganda hiras ni rohanta baenon nii. Koor: Hahaanggi,......
+-
+Tung na sae do halalas ni rohangki,
+Anggo mulak tu Tuhanku dongan i.!
+Rap tapuji ma Tuhanta Jesus i,
+Ala tamba muse na tu surgo i. Koor: Hahaanggi,......

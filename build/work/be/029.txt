@@ -1,0 +1,36 @@
+@be 29
+@bl 186
+@title Nasajolma ingkon mate
+@key C
+@meter 4/4
+@credit Jakob Hintze, 1678
+@pages 25 26
+@check Judul tercetak "Nasajolma ingkon mate"; lirik ayat 1 dimulai "I ma tingki hasonangan".
+@check Suku kata "le-sus-ki" di bawah not dibaca "Je-sus-ki".
+@status Lirik belum ada pembanding
+@check Pembanding lirik: halaman BE 29 di bukuende.wordpress.com tidak ditemukan (indeks huruf I tidak dapat diakses, pencarian web tanpa hasil).
+#A
+5 1' 5 6 | 5 .+4 3 3 v | 5 5 4 3 |
+2 .+2 1 . :|
+> I ma ting-ki ha-so-na-ngan, mo-lo Ho, o Je-sus-ki,
+> Pi-na-hu-sor di ping-ki-ran ro di a-si-a-si-Mi.
+#B
+2 2 3 5 | 5 .+#4 5 5 v |
+6 7 1' 1' | 7 .+7 6 6 v | 3 3 6 5 |
+5 .+#4 5 . v | 6 7 (1'+2') 3' | 2' . . 2' | 1' . . . |]
+> Mo-lo Je-sus ni-lu-lu-an, Ho-lan Je-sus si-nang-ka-pan, ting-ki na le-het ma i, na pa-so-nang ro-ha i.
+#V
+I ma tingki hasonangan, molo Ho, o Jesuski,
+Pinahusor di pingkiran ro di asiasiMi.
+Molo Jesus niluluan, Holan Jesus sinangkapan,
+Tingki na lehet ma i, na pasonang roha i.
+-
+Sai buas naeng lehononMu Jesus, asi ni rohaM.
+Sai girgir do topotonMu na uasan di hataM.
+Gok do mual hangoluan dibagasan Ho, o Tuhan
+Jala sai dapotan do sasude na ro tu Ho.
+-
+Ala nii, o Tuhannami, topot ma huriaMon,
+Pasupasu dohot hami, gohi rohanami on!
+Mauas songon si Maria di hataM, na sun badia,
+Baen ma hami sasude asa tung maruli be.

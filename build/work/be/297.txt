@@ -1,0 +1,37 @@
+@be 297
+@bl 226
+@title Na marsak roham
+@key A
+@meter 3/4
+@credit Lagu: Georg Friedrich Fickert 1815
+@pages 275 276
+@status Lirik dicek · 12/14 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 & 8 (kata "ho") beda; scan hlm 276 ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 297) | https://bukuende.wordpress.com/2013/06/16/na-marsak-roham-buku-ende-no-297-buku-logu-no-26/ | 12/14 baris sama
+@check Tanda sukat tercetak 4/4, tetapi semua birama (angka & balok) berisi 3 ketuk → dipakai 3/4.
+@check "ngu" dinyanyikan pada dua not ⅛ (4 2) tanpa legato → "_".
+#A
+5, | 1 1 (2+1) | (1 7,) v 5, | 2 2 (3+2) |
+(2 1) v 5, | 3 3 3 | 3 2 4+2 | (1 . 7,) | 1 . |]
+> Na mar-sak ro-ham, sai jou De-ba-tam, na bur-ju go-go-ma-ngu _ ru-pi.
+#V
+Na marsak roham, sai jou Debatam,
+Na burju gogo mangurupi.
+-
+Habot pe roham dibahen dosam,
+Paboa ma i tu Tuhanmu.
+-
+Na sorat sude, naeng do muse
+Bahenon ni Jesus na basa.
+-
+Sorta Tuhanmi, lambok hata nii,
+Pasonggop tu ho hasonangan.
+-
+GogoNa do tuk pamalum luhut
+Sahitmu, dibahen holongNa.
+-
+Ibana labam! Marujung langkam,
+Tu paradianan di surgo.
+-
+Sai taon ma benget sude na hansit,
+Ai sonang ma ho dibaen Jesus

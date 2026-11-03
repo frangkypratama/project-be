@@ -1,0 +1,42 @@
+@be 778
+@bl 0
+@title Ai ise do tumompa angka bunga
+@key F
+@meter 3/4
+@credit Syair & Lagu: L. van Beethoven; Terj.: E. L. Pohan Shm.
+@pages 849 850
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanda mula 1 mol, 5̣ = C4 di paranada → do = F. Angka 4 dicoret = B♮ di balok → ditulis #4.
+@check Tanda birama di paranada kabur; isi tiap birama 3 ketuk → 3/4.
+@check Not "1" sebelum refrein (suku kata "i.") bertanda fermata di buku; format belum mendukung fermata.
+@check Akhir refrein "1 . 1 | 1 . 1 | 1 ." — letak not balok di scan miring dan agak kabur; mengikuti angka (semua F).
+@check Pembanding lirik: beda ejaan di baris 2 (kata 4, rumata — buku: ru-ma-ta ra-ta) dan baris refrein (kata 6, pangaramotiMi); ditulis sesuai scan hlm 849–850.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 778) | https://bukuende.wordpress.com/2013/06/09/ai-ise-do-tumompa-angka-bunga-buku-ende-no-778-buku-logu-no-778/ | Pembanding lirik (tanda baca diabaikan).
+#A
+5, | 1 . 1 | 2 . 2 | 3 .+2 3+4 |
+3 2 2 | 2 . (3+#4) | 5 . (3+6) | 5 . #4 |
+5 . 0+5 | 5 . (3+1) | (5 4) 3 | 2+6 (5+4) (3+2) |
+1 7, 0+5, | 1 . (2+3) | 4 . (5+6) | (5 .+3) (4+2) | 1 0 |]
+> Ai i-se do tu-mom-pa ang-ka bu-nga mar-wor-na na man-sai u-li? Pa-ja-gar du-hut na ru-ma-ta ra-ta, a-lus-hu De-ba-ta do i.
+#B
+1 | 2 .+2 2+2 | 3 . 3 | 4 .+4 4+4 |
+5 . 5 | 6 . 4 | 1 . 1 | 1 . 1 | 1 . |]
+> Hu-pu-ji Ho tong-tong a-le De-ba-tang-ki di baen pa-nga-ra-mo-ti-Mi.
+#V
+Ai ise do tumompa angka bunga marworna na mansai uli?
+Pajagar duhut na rumata rata,
+alushu: Debata do i.
+Ref.: Hupuji Ho tongtong ale Debatangki di baen pangaramotiMi.
+-
+Ai ise do mambahen angka pidong,
+marende tung uli tio?
+so marhauma hape tong do butong?
+Alushu: Debatangku do,
+Ref.: Hupuji Ho tongtong ...
+-
+Alani i ndang olo be au ganggu,
+paima ari na naeng ro,
+ai haru bunga, pidong diparmudu,
+nda tung so ingotonNa au.
+Ref.: Hupuji Ho tongtong ...

@@ -1,0 +1,30 @@
+@be 534
+@bl 368
+@title Di ginjang di surgo
+@key Bb
+@meter 3/4
+@credit Cantate No. 358 · Lagu Padeborn 1850
+@pages 505
+@check Pasangan not berlegato ("6̣ 5̣", "1 2", "2 3", dst.) dicetak tanpa garis atas; not balok menunjukkan dua not ⅛ → ditulis ½ + ½.
+@check Kredit tercetak "Padeborn" (ejaan lazim: Paderborn) — ditulis apa adanya.
+@check Ayat 2–4: baris kedua bertanda ulang ":,: ... :,:", sesuai not yang menuliskan baris itu dua kali.
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 8 baris sama; baris 5 kata tambahan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 534) | https://bukuende.wordpress.com/2013/06/13/di-ginjang-di-surgo-buku-ende-no-534-buku-logu-no-368/ | Pembanding lirik (tanda baca diabaikan).
+#A
+5, | (6,+5,) 5, 5, | (6,+5,) 5, (1+2) | 3 3 (3+5) |
+2 . (2+3) | (4+2) 2 (2+4) | (3+1) 1 (1+3) | (2+1) 7, 7, |
+1 . v (2+3) | (4+2) 2 (2+4) | (3+1) 1 (1+3) | (2+1) 7, 7, | 1 . |]
+> Di gin-jang di sur-go di-si do ra-de si-nang-kap ni ro-ha ni jol-ma su-de, si-nang-kap ni ro-ha ni jol-ma su-de,
+#V
+Di ginjang di surgo disi do rade
+:,: Sinangkap ni roha ni jolma sude :,:
+-
+Rade dibaen Jesus jambarta disi.
+:,: Paima ro hita maringan tusi :,:
+-
+Sude manisia, na masuk tusi,
+:,: Marsomba tu Jesus, partogi tusi :,:
+-
+Disi ma marsomba, marende sude
+:,: Tu Tuhan Jahowa, sigomgom sude :,:

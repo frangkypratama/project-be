@@ -1,0 +1,54 @@
+@be 708
+@bl 0
+@title Jesus Ho do Sipalua i
+@key Eb
+@meter 4/4
+@credit Syair dan Lagu: Saranam, saranam; Punjab/Srilanka · Terjemahan: Pdt. J.A.U. Doloksaribu
+@pages 743 744 745
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0).
+@check Susunan buku: baris pembuka "Jesus Ho do Sipalua i" lalu tanda "Refrein" (mulai "Jesus Tuhanki…") sampai "Fine"; kemudian "Strophen" (ayat) dengan "D.C. al Fine". Di sini: bagian A = pembuka, B = refrein, C = ayat.
+@check Garis birama ganda dicetak di tengah birama "1 . . ‖ 1 2" (sebelum refrein) — ditulis sebagai akhir bagian A + ketukan gantung bagian B.
+@status Lirik dicek · 18/19 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 4 baris 3 beda ejaan "huhamonangkon". Buku tetap acuan. (Pembanding menulis "Buku Logu No. 708"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 708) | https://bukuende.wordpress.com/2013/06/16/jesus-ho-do-sipalua-i-buku-ende-no-708-buku-logu-no-708/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+1 2 | 3 . 4 3 | 2 . 1 7, | 1 . . |]
+> Je-sus Ho do Si-pa-lu-a i
+#B
+1+2 | 3 .+2 3 4+4 | 3 .+2 1 1+2 |
+3 4+3 2 1+7, | 1 . . 1+2 |
+3 .+2 3 4+4 | 3 .+2 1 1+2 |
+3 4+3 2 1+7, | 1 . . . |]
+> Je-sus Tu-han-ki pa-ngu-ru-pi i ho-lan Ho do ha-po-ru-san-ki. Je-sus Tu-han-ki par-ta-ha-nan-ki ho-lan Ho do Si-pa-lu-a i
+#C
+6 .+#5 6+1' 7+6 | 5 .+4 3 2+3 |
+4 .+3 4+6 5+4 | 3 4 5 .+5 |
+6 .+5 6+1' 7+6 | 5 .+4 3 1+2 |
+3 4+3 2 1+7, | 1 . . |]
+> Tung to-rop mu-su ma-no-sak au ja-la ndang a-dong na ma-ngu-ru-pi au. O, a-le Je-sus sai ta-ngi-hon au ho-lan Ho do Si-pa-lu-a au.
+#V
+Jesus Ho do Sipalua i
+Ref. : Jesus Tuhanki pangurupi i, holan Ho do haporusanki.
+Jesus Tuhanki partahananki, holan Ho do Sipalua i.
+Tung torop musu manosak au jala
+ndang adong na mangurupi au.
+O, ale Jesus sai tangihon au
+holan Ho do Sipalua au.
+-
+Ai holan di bagas joroMi
+boi taruli gogo roha tondingki
+holan dilinggoman ni habongMi
+boi mardame sonang rohangki
+Ref. : Jesus Tuhanki . . .
+-
+Hupasahat sandok ngolungki
+tu tanganMu ale Jesus Tuhanki
+sai baen haposan au di joloMi
+siradoti haholongon i
+Ref. : Jesus Tuhanki . . .
+-
+Naeng salelengnilelengna i
+diringkon manghatindangkon goarMi
+asa huhamonangkon dongan i
+tu Ho Jesus Sipalua i
+Ref. : Jesus Tuhanki . . .

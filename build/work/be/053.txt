@@ -1,0 +1,43 @@
+@be 53
+@bl 51
+@title Di Bethlehem do tobu
+@key F
+@meter 4/4
+@credit Friedrich Von Spee 1637
+@pages 45 46
+@status Lirik dicek · 14/18 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 2,3,7,11 (mis. buku "urupi sa tongtong"). Buku tetap acuan.
+@check Judul di kepala lagu "Di Bethlehem do tobu."; lirik bait 1 di bawah not "Di Betlehem do tubu" — judul ditulis sesuai kepala lagu.
+@check Birama 3: angka terakhir dicetak "2", tetapi not balok di paranada tampak F (= 1). Ditulis "2" sesuai angka; perlu dicek.
+@check Hlm 46 birama "3 2 .": not balok = 1/2 A + 1/2 G (4 ketuk), angka kurang titik → ditulis "3 . 2 .".
+@check Birama akhir: angka "1 ." tetapi not balok 1/2 bertitik (3 ketuk, melengkapi ketukan gantung) → ditulis "1 . .".
+@ref Lirik pembanding: bukuende.wordpress.com (BE 53) | https://bukuende.wordpress.com/2013/06/13/di-betlehem-do-tubu-buku-ende-no-53-buku-logu-no-51/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 (2+4) 3 2 | (1+7,) 1 0 1 | 2 (3+4) 3 2 |
+1 . 0 5 | (5+4) 3 4 5 | (6+5) 4 0 4 | 3 2 5 (4+3) |
+2 . . 0 | 3 . 2 . v | 3 . 2 v (3+4) | 5 (1+2) 3 2 | 1 . . |]
+> Di Bet-le-hem do tu-bu di hi-ta A-nak i. I do si-an na bur-ju hu-pil-lit Ra-jang-ki. I do, i do, hu-pil-lit Ra-jang-ki!
+#V
+Di Betlehem do tubu di hita Anak i.
+I do sian na burju hupillit Rajangki.
+I do, i do, hupillit Rajangki!
+-
+Tu holong ni rohaNa hubonom rohangkon;
+Hulehon di Ibana sude na di au on.
+Olo, olo, sude na di au on.
+-
+Sai naeng haholongoanku Ho, ale Tuhanku!
+Nang marsak, las rohangku, ingkon lam ganda i.
+Olo, olo, ingkon lam ganda i.
+-
+Burju naeng lehononku di Ho rohangkinon.
+Asi rohaM, Tuhanku, urupi sa tongtong!
+Olo, olo, urupi au tongtong.
+-
+Partohap di dagingku Ho, Debata hian;
+Tu Ho naeng au mardomu, Ho artangki hian.
+Olo, olo, Ho artangki hian.
+-
+Sai unang sirang hita momosi ihot i
+Di holong ni rohanta, o Jesus Tuhanki!
+Sai tong, sai tong di Ho ma rohangki.

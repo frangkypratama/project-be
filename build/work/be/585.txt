@@ -1,0 +1,55 @@
+@be 585
+@bl 0
+@title Somba ma Jahowa
+@key G
+@meter 4/4
+@credit Syair: Pdt. J. A. U. Doloksaribu; Lagu: Taridem-idem (Batak Toba); NN
+@pages 564 565 566
+@status Lirik dicek · 7/13 baris sama dgn pembanding
+@check Pembanding lirik: beda di "Sombu" (salah cetak buku), "ro di isina", "nabadia", "Debetanta", "basaNa na tu hita" (buku memuat "na"), "Johawa"; dicek ulang ke scan, ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 585) | https://bukuende.wordpress.com/2013/06/18/somba-ma-jahowa-buku-ende-no-585-buku-logu-no-585/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0.
+@check Lirik di bawah not tercetak "Som-bu ma Jahowa" (judul: "Somba ma Jahowa"); ditulis apa adanya. Ayat 2 tercetak "Debetanta", ayat 3 "Johawa" — ditulis apa adanya.
+@check Kelompok "3 3 3" / "1 1 1" / "2 2 2" bergaris atas tunggal dan not balok tiga 1/8 tanpa angka 3; supaya birama 4/4 genap ditulis sebagai triol. Tampilan not balok situs belum mendukung triol.
+@check Struktur buku: segno + tanda ulang "|:" di baris "A-men Ha-le-lu-ya en-de-hon"; volta 1 ("En-de-hon" :|, D.C. al Fine) dan volta 2 ("A-men Ha-le-lu-ya", Fine). Di sini volta 1 = akhir bagian B (diulang), volta 2 = bagian C.
+@check Melodi bagian A sama dengan BE 582 (Sangap ma di Debata).
+#A
+5+.+.+5 5+.+.+3 5+5+5+6 6+5 |
+3+3+3 3+.+.+3 3+.+0+5 5+.+.+3 |
+2+.+.+2 2+.+.+1 2+1+2+3 3+2 |
+1+1+1 1+.+.+1 1+0 1+3 |
+5+.+.+5 5+.+.+3 5+5+5+6 6+5 |
+3+3+3 3+.+.+3 3+.+0+3 5+.+.+3 |
+2+.+.+2 2+.+.+1 2+2+2+3 3+2 |
+1+1+1 1+.+.+1 1+.+0+1 1+1 |
+> Som-bu ma Ja-ho-wa De-ba-tan-ta A-men Ha-le-lu-ya si-gom-gom la-ngit ta-no on ro di i-si na A-men Ha-le-lu-ya be-ta hi-ta lao mar-sing-gang tu jo-lo-Na A-men Ha-le-lu-ya na song-kal ja-la na-ba-di-a do Ja-ho-wa A-men Ha-le-lu-ya en-de-hon
+#B
+2+2+2 2+.+.+2 2+.+0+2 1+2 |
+3+3+3 3+.+.+3 3+.+0+3 2+1 |
+2+2+2 2+.+.+2 2+.+0+2 3+2 |
+1+1+1 1+.+.+1 1+.+0+1 1+1 :|
+> A-men Ha-le-lu-ya en-de-hon A-men Ha-le-lu-ya, en-de-hon A-men Ha-le-lu-ya en-de-hon A-men Ha-le-lu-ya En-de-hon
+#C
+1+1+1 1+.+.+1 1+0 0 |]
+> A-men Ha-le-lu-ya
+#V
+Sombu ma Jahowa Debatanta, Amen Haleluya
+sigomgom langit tano on ro di isina, Amen Haleluya
+beta hita lao marsinggang tu joloNa, Amen Haleluya
+na songkal jala nabadia do Jahowa, Amen Haleluya
+endehon; "Amen Haleluya, endehon Amen Haleluya,
+endehon Amen Haleluya, Endehon Amen Haleluya."
+-
+Puji ma Jahowa Debetanta, Amen Haleluya
+parasi roha na sumurung do Ibana, Amen Haleluya
+taendehon ma goar ni Debatanta, Amen Haleluya
+alani denggan ni basaNa na tu hita, Amen Haleluya.
+endehon; "Amen Haleluya, endehon Amen Haleluya
+Endehon Amen Haleluya, endehon Amen Haleluya."
+-
+Sangap di Jahowa Debatanta, Amen Haleluya
+na bonar jala marmulia do Johawa, Amen Haleluya
+tapatimbul ma goar ni Debatanta, Amen Haleluya
+na tigor jala na sun gogo salelengna, Amen Haleluya
+endehon; "Amen Haleluya, endehon Amen Haleluya
+endehon Amen Haleluya, endehon Amen Haleluya."

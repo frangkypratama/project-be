@@ -1,0 +1,37 @@
+@be 802
+@bl 0
+@title Pangke tingkim saonari
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair & Lagu: NN
+@pages 880 881
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 kata 1 ("unanggodang") dan baris 8 kata 4 ("sai") beda ejaan; dicek ulang ke scan hlm 880/881 → buku tetap.
+@check Pembanding menyebut Buku Logu No. 802; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 802) | https://bukuende.wordpress.com/2013/06/16/pangke-tingkim-saonari-buku-ende-no-802-buku-logu-no-802/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Refrein baris 2 (hlm 880 bawah): angka tercetak "1 .6 | 5 . 3 ." tanpa titik atas, tetapi balok = Bes4 dan D5 (sama dengan baris refrein pertama) → ditulis 1' dan 3'.
+#A
+3 3+.+.+4 5 3'+.+.+2' | 1' . 6 . | 6 1'+.+.+6 5 4+.+.+3 |
+2 . . . | 3 3+.+.+4 5 3'+.+.+2' | 1' . 2' . |
+3' 3'+.+.+3' 2' 6+.+.+7 | 1' . . . |]
+> Pang-ke ting-kim sa-o-na-ri, da-pot-hon ma Tu-han i, u-nang-go-dang si-da-li-an, i-ngot jem-pek ngo-lu-mi.
+#B
+6 6+.+.+6 6 1'+.+.+6 | 5 . 3' . | 4' 2'+.+.+2' 2' . | 3' 1'+.+.+1' 1' . |
+6 6+.+.+6 6 1'+.+.+6 | 5 . 3' . |
+6 4'+.+.+2' 1' 7+.+.+7 | 1' . . . |]
+> Nu-nga ra-de ha-so-na-ngan, di sur-go i, di sur-go i, u-nang a-dong nang-go sa-da Na-so par-jam-bar di-si.
+#V
+Pangke tingkim saonari, dapothon ma Tuhan i,
+unanggodang sidalian, ingot jempek ngolumi.
+Ref.: Nunga rade hasonangan, di surgo i, di surgo i,
+unang adong nanggo sada Naso parjambar disi.
+-
+Suan ma holong ni roha, tiru ma Tuhanta i,
+las ma roham digotilon, jalo ma balos ni i.
+Ref.: Nunga rade . . .
+-
+Molo taida donganta, na sai marungkil tongtong,
+unang pasombu sai susa, togu urupi antong.
+Ref.: Nunga rade . . .

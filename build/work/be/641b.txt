@@ -1,0 +1,31 @@
+@be 641
+@variant b
+@bl 0
+@title O Tondi Parbadia i
+@key F
+@meter 4/4
+@credit Syair: Come Holy Ghost our hearts inspire, Charles Wesley, 1740 · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: The Este's Psalter, 1592
+@pages 657
+@check Kepala lagu: "641b. O Tondi Parbadia i" (ejaan "Parbadia" sesuai buku; 641a memakai "Porbadia").
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi.
+@check "6 . 5" di birama 6: garis atas di ".5" → 6 bertitik + 5 seperdelapan (balok: D5 tampak not 1/4, tapi birama harus 4 ketuk).
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 (HataMu) & 4 (huriM, 'i' akhir) beda; sesuai scan hlm 657.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 641b) | https://bukuende.wordpress.com/2013/06/16/o-tondi-porbadia-i-buku-ende-no-641b-buku-logu-no-641b/ | Pembanding lirik.
+#A
+1 | 3 .+3 2 1 | 4 4 3 2 | 3 5 5 #4 |
+5 . . 3 | 6 .+5 4 3 |
+2 1 7, 3 | 2 1 1 7, | 1 . . |]
+> O Ton-di Par-ba-di-a i, sai go-hi ton-ding-ki, ga-la-hi ro-ha-na-mi i, mar-hi-te a-pi-Mi.
+#V
+O Tondi Parbadia i, sai gohi tondingki,
+galahi rohanami i, marhite apiMi.
+-
+Naung disihathon Ho HataMu tu panurirang i,
+patau ma hami huriM lao mangantusi i.
+-
+O Tondi ni Debatangki sondangi rohangki.
+patiur ma na holom i nang roha na gaor i.
+-
+Marhitehite TondiMi tartanda Ama i,
+nang holong ni rohaNa i marhite Jesus i.

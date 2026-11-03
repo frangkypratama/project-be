@@ -1,0 +1,35 @@
+@be 270
+@bl 152
+@title Ngot, ai torang do ari.
+@key F
+@meter 4/4
+@credit Lowell Mason 1864
+@pages 250 251
+@check Not "3 . 4" bergaris atas tunggal/ganda = 1/8 bertitik + 1/16, ditulis "3+.+.+4" (juga "1+.+.+1", "2+.+.+2", "3+.+.+3").
+@check Birama "1 . 0" (akhir baris 2 dan akhir lagu) tercetak 3 ketuk; paranada not 1/2 bertitik + istirahat 1/4, ditulis "1 . . 0".
+@check Akhir baris 3 tercetak "5 . . ," (3 ketuk + tanda napas); dilengkapi "5 . . 0" agar 4 ketuk.
+@check "4*" baris 3 = 4 kres (paranada: tanda pugar pada B).
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: L8 kata 1 (buku "Shaat") beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 270) | https://bukuende.wordpress.com/2013/06/16/ngot-ai-torang-do-ari-buku-ende-no-270-buku-logu-no-152/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 3+.+.+4 5 5 | 6 . 5 . v | 1 1+.+.+1 1 2 | 3 . . 0 |
+5 3+.+.+4 5 5 | 6 . 5 . v | 1 2 3 2 | 1 . . 0 |
+2 2+.+.+2 2 3 | (4 .+3) 2 . v | 3 3+.+.+3 3 #4 | 5 . . 0 |
+5 3+.+.+4 5 5 | 6 . 5 . v | 1 2 3 2 | 1 . . 0 |]
+> Ngot, ai to-rang do a-ri, sal-pu do bor-ngin i; Lam sal-pu ga-nup a-ri, par-da-la-nan-mi. Ring-ko-ti su-ma-ri-hon na pa-ngo-lu-hon ho; Ai di na ro na ho-lom ma-ra-di-an ho.
+#V
+Ngot, ai torang do ari, salpu do borngin i;
+Lam salpu ganup ari, pardalananmi.
+Ringkoti sumarihon na pangoluhon ho;
+Ai di na ro na holom maradian ho.
+-
+Ngot, ai torang do ari, longkang baen dosa i!
+Haporseai ma hata sian Tuhan i.
+Sesa dosam sudena dibahen Jesus i,
+Shaat ho bahenonNa tu na sonang i.
+-
+Tole, sai saut ma hehe nang hita on sude
+Tataon ma reherehe, nang na porsuk pe
+Tung sasude gogonta, tapangke ma, ale,
+Pareak sambulonta, na di surgo i.

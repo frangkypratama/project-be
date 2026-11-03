@@ -1,0 +1,40 @@
+@be 740
+@bl 0
+@title Nang pur pe habahaba i.
+@key F
+@meter 4/4
+@credit Syair: The lord's Own Rock, A Shelter in time of past; Vermon J Charlesworth, 1838; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: Ira D. Shankey, 1885
+@pages 792 793
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Bagian suplemen; tidak ada nomor "Logu No." di buku → @bl 0.
+@check Kredit tercetak "A Shelter in time of past; Vermon J Charlesworth … Ira D. Shankey" (lazim: A Shelter in the Time of Storm; Vernon J. Charlesworth; Ira D. Sankey); ditulis apa adanya.
+@check Ayat 1 dan refrein hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Pembanding lirik: baris 1 dan 5 beda ejaan. Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 740) | https://bukuende.wordpress.com/2013/06/16/nang-pur-pe-habahaba-i-buku-ende-no-740-buku-logu-no-740/ | proofreading per baris
+#A
+5, | 1 1 1 2 | 3 4 5 .+1 |
+3+.+.+3 3+.+.+3 4 3 | 2 . . 5, | 1 1 1 2 |
+3 4 5 .+1 | 3+.+.+3 3+.+.+1 2 2 | 1 . . |
+> Nang pur pe ha-ba-ha-ba i, Tu-han ma par-ling-go-man-mi, hu-mun-tal pe por-ti-bi-on, Tu-han ma par-ling-go-man-mi.
+#B
+5 | 6+.+.+6 6+.+.+6 6 7+.+.+6 | 5 5 5 .+3 | 4 4 4 .+5 |
+3 3 3 5 | 6+.+.+6 6+.+.+6 6 7+.+.+6 |
+5 5 5 .+1 | 3+.+.+3 3+.+.+1 2 2 | 1 . . |]
+> Ai Je-sus do Par-ta-no-ba-to-an i, di ta-no on, di ngo-lu-mon, ai Je-sus do Par-ta-no-ba-to-an i, hot ro di sa-le-leng-na i.
+#V
+Nang pur pe habahaba i, Tuhan ma parlinggomanmi,
+humuntal pe portibion, Tuhan ma parlinggomanmi.
+Ref.: Ai Jesus do Partanobatoan i, di tano on, di ngolumon,
+ai Jesus do Partanobatoan i, hot ro di salelengna i.
+-
+Arian nang bornginna i, Tuhan ma Parlinggomanmi,
+maporus nasa biarmi, Tuhan ma Parlinggomanmi,
+Ref. Ai Jesus do Partanobatoan i . . .
+-
+Tahop pe halisungsung i, Tuhan ma Parlinggomanmi,
+Tuhan Pasonang ngolumi, Tuhan ma Parlinggomanmi,
+Ref. Ai Jesus do Partanobatoan i . . .
+-
+O Jesus Partahananki, sai Ho ma Parlinggomanki,
+paima so tos hosangki, sai Ho ma Parlinggomanki,
+Ref. Ai Jesus do Partanobatoan i . . .

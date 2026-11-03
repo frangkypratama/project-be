@@ -1,0 +1,44 @@
+@be 684
+@bl 0
+@title Lea situtu
+@key Bb
+@oct -1
+@meter 6/8
+@credit Syair: Love lifted me, James Rowe; Lagu: Howard E. Smith; Terj.: Pdt. J.A.U. Doloksaribu
+@pages 712 713
+@status Lirik dicek · 10/13 baris sama dgn pembanding
+@check Pembanding lirik: baris 3, 4, 11 beda ejaan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 684) | https://bukuende.wordpress.com/2013/06/16/lea-situtu-buku-ende-no-684-buku-logu-no-684/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 684. Birama 6/8: satu token = 1/8.
+@check Reff birama 4 baris 2 tercetak "3 .. 5 . 2" tanpa titik atas; balok sama dengan awal reff (D5–F4–C5) → ditulis 3' . . 5 . 2'.
+#A
+5 . 6 5 . 3 | 5 . 6 5 . . | 5 6 7 1' . 2' | (7 . . 7 . .) |
+6 . 7 6 . 4 | 6 . 7 6 . . | 6 7 1' 7 . 6 | (5 . . 5 . .) |
+5 . 6 5 . 3 | 5 . 6 5 . . | 5 6 7 1' . 5 | (6 . . 6 . .) |
+6 . 7 1' . 2' | 3' . 1' 7 . 6 | 5 . . 2' . . | (1' . . 1' . .) |
+> Le-a si-tu-tu do au a-la-ni do-sang-ki, Lo-ja ja-la so-rat au, pon-jot ping-ki-ran-ki. De-ba-ta par-ho-long i um-be ge ang-guk i, A-la-ni ho-long-Na i ma-lu-a au.
+#B
+3' . . 5 . 2' | (1' . . 1' . .) | 1' . . 3 . 7 | (6 . . 6 . .) | 6 . . 6 7 1' |
+5 . 1' 1' . . | 2' . . 6 . 3' | (2' . . 2' . .) | 3' . . 5 . 2' |
+(1' . . 1' . .) | 1' . . 3 . 7 | (6 . . 6 . .) | 6 . . 6 7 1' |
+5 . 1' 1' . . | 3' . . 3' 2' . | (1' . . 1' . .) |]
+> Ho-long-Na i, ho-long-Na i, a-la-ni Ho-long-Na i ma-lu-a au. Ho-long-Na i, ho-long-Na i, a-la-ni ho-long-Na i ma-lu-a au.
+#V
+Lea situtu do au alani dosangki,
+Loja jala sorat au, ponjot pingkiranki.
+Debata parholong i umbe ge angguk i,
+Alani holongNa i malua au.
+Ref: HolongNa i, holongNa i, alani HolongNa i malua au.
+HolongNa i, holongNa i, alani holongNa i malua au.
+-
+Naso hatudosan do, holong ni Tuhanki,
+parhatopotonku do denggan basaNa i,
+sai naradotanku do pinatikkonNa i,
+alani HolongNa i malua au,
+Ref: HolongNa i . . .
+-
+Di na ro galumbang i, manosak ngolungki,
+naeng harom solungku ditonga laut i,
+ala Jesus donganki, menak galumbang i,
+alani HolongNa i malua au.
+Ref: HolongNa i . . .

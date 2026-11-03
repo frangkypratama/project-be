@@ -1,0 +1,37 @@
+@be 780
+@bl 0
+@title Piga ma torop ni bintang
+@key F
+@meter 3/4
+@credit Syair: Weist du, wieviel sternlein stehen; Withelm Hey, 1789-1854; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: Jerman, 1812
+@pages 851 852
+@status Lirik dicek · 5/12 baris sama dgn pembanding
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanda mula 1 mol, not 1 = F4 di paranada → do = F. Tanda birama kabur; isi birama 3 ketuk → 3/4.
+@check Kredit (Syair/Terj./Lagu) tercetak di hlm 852, di atas judul BE 781. Ejaan "Weist du", "Withelm" ditulis seperti buku.
+@check Bagian A diulang (:|) dengan 2 baris lirik ayat 1; tidak ada tanda |: sehingga diulang dari awal.
+@check Pembanding lirik: beda ejaan di baris 1 (langitan), 2 (dinajang-hajangan), 3 (umbotosa), 4, 7, 9 (dakdanak); baris 8 kata 1 "ai" berbeda di pembanding. Scan hlm 851–852 terbaca seperti ditulis; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 780) | https://bukuende.wordpress.com/2013/06/16/piga-ma-torop-ni-bintang-buku-ende-no-780-logu-no-780/ | Pembanding lirik (tanda baca diabaikan).
+#A
+1+2 | 3 3 4+2 | (6+5) 5 3+5 | (5+4) 4 5+4 | 3 . :|
+> Pi-ga ma to-rop ni bin-tang ang-ka na di la-ngit-an
+> do-hot om-bun na mar-se-rak na di-na-jang-ha-jang-an?
+#B
+5+3 | (3+2) 2 6+4 | (4+3) 3 5+3 | (3+2) 2 6+4 | (4+3) 3 1+2 |
+3 3 4+2 | 6 5 3+5 | (5+4) 4 5+4 | 3 . |]
+> De-ba-ta do um-bo-to-sa ro-di ang-ka bi-la-ngan-na, ndang a-dong a-gi-a sa-da na bu-ni di De-ba-ta.
+#V
+Piga ma torop ni bintang angka na di langitan
+dohot ombun na marserak na dinajang-hajangan?
+Debata do umbotosa rodi angka bilanganna,
+ndang adong agia sada na buni di Debata.
+-
+Piga ma torop ni ihan, na di laut na bidangan,
+dohot pidong na sai habang na martonga langitan,
+Debata do umbotosa, namananda nang goarna,
+ai luhut natinompaNa, disarihon Debata.
+-
+Piga ma angka dakdanak ditoru ni langit i,
+na hisar na las rohana dungo dimanogot i?
+Debata parasiroha, sumarihon saluhutna,
+ho tongtong parmuduonNa, pos roham di Debata

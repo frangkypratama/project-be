@@ -1,0 +1,38 @@
+@be 716
+@bl 0
+@title Di na mamolus sandok ngoluon
+@key C
+@meter 6/8
+@credit Syair: Out in the Highways and by ways of life, George S. Sculer, 1924 · Terj.: Ny. RH. Marpaung Shn.
+@pages 755 756
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0).
+@check Baris terakhir refrein (baen pasu-pasu tu dongan sude, hlm 756) tidak bernot angka di scan — angka di sini diturunkan dari not balok (D5. E5 E5 | F5. A4 F5 | E5. E5 D5 | C5. ~ C5.); perlu dicek.
+@check Birama 2 tercetak "1 . . . ." (5 ketuk 1/8); balok = 1/4 bertitik → ditulis `1 . .`.
+@check Kredit tercetak "George S. Sculer" (lazim George S. Schuler) — ditulis apa adanya.
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 1 beda ejaan "sandok". Buku tetap acuan. (Pembanding menulis "Buku Logu No. 716"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 716) | https://bukuende.wordpress.com/2013/06/13/di-na-mamolus-sandok-ngoluon-buku-ende-no-716-logu-no-716/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3 #2 3 5 4 3 | 2 3 2 1 . . |
+4 5 6 1' 7 6 | (5 . . 5 . .) | 1' 6 1' 7 5 7 |
+6 4 6 5 . . | 5 6 7 1' 7 6 | (5 . . 5 . .) |]
+> Di na ma-mo-lus san-dok ngo-lu-on gok do na mar-sak ga-le. bo-an si-non-dang tu na ho-lom i a-sa mar-go-go mu-se.
+#B
+3 . . 5 . 3 | 4 . . 6 . . | 7 . . 3' . 2' | 1' . . 5 . . |
+6 . . 1' . 6 | (5 . . 5) . 3 | 3 . . 2 . . | (2 . . 2 . .) |
+3 . . 5 . 3 | 4 . . 6 . 6 | 7 . . 1' . 2' | (3' . . 3' . .) |
+2' . . 3' . 3' | 4' . . 6 . 4' | 3' . . 3' . 2' | (1' . . 1' . .) |]
+> Ba-hen ma a-hu par-hi-te-an-Mu pa-su-pa-suM ma baor ma i a-le Tu-han hu-pa-tu-pa ma au baen pa-su-pa-su tu do-ngan su-de.
+#V
+Di na mamolus sandok ngoluon gok do na marsak gale.
+boan sinondang tu na holom i asa margogo muse.
+Ref : Bahen ma ahu parhiteanMu pasu-pasuM ma baor ma i
+ale Tuhan hupatupa ma au baen pasu-pasu tu dongan sude.
+-
+Sai baritahon Jesus na burju, tuk manesa dosa i,
+asa porsea di Jesus tutu, denggan pambaenmu disi.
+Ref : Bahen ma ahu . . .
+-
+Ula na denggan tu halak sude, songon binaenNa tu ho,
+ingot urupi luhut na gale, gabe parholong ma ho
+Ref : Bahen ma ahu . . .

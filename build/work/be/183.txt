@@ -1,0 +1,43 @@
+@be 183
+@bl 105
+@title Na jumpang au
+@key G
+@meter 3/4
+@credit Johann Ludwig Hainlein, 1819
+@pages 165 166
+@check Bagian B baris 2, birama akhir tercetak "5 .' 0", padahal lirik "par-" dan not balok buku memperlihatkan not 1/4 (E) — dibaca "5 . v 6".
+@check Birama terakhir tercetak "1 . .' 0" (lebih dari 3 ketuk); not balok buku not 1/2 bertitik — dibaca "1 . .".
+@check Tanda ":,:" di teks ayat = frasa terakhir diulang (sesuai lagu: "parasiroha bolon i" dua kali).
+@status Lirik dicek · 9/15 baris sama dgn pembanding
+@check Pembanding lirik: baris 1, 2, 6, 7, 9, 12 beda (ejaan/penggabungan kata; baris 6 kata ekstra); buku dipakai, belum dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 183) | https://bukuende.wordpress.com/2013/06/16/na-jumpang-au-buku-ende-no-183-buku-logu-no-105/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+5, 6, 7, | 1 . 3 | (2 1) 2 | 3 2 0 |
+2 3 4 | 5 . 4 | 3 . 2 | 1 . 0 :|
+> Na jum-pang au na a-si-ro-ha di au naung ma-go i hi-an,
+> Tu-han Je-sus par-a-si-ro-ha di au na li-lu na hi-nan
+#B
+3 3 3 | (5 4) 2 | (4 3) 1 | (3 2) v 6 |
+5 . 4 | (3 2) 1 | (2 1) 7, | 5 . v 6 |
+5 . 4 | (3 2) 1 | (2 1) 7, | 1 . . |]
+> Nu-aeng hu-tan-da Tu-han-ki, par-a-si ro-ha bo-lon i, par-a-si ro-ha bo-lon i,
+#V
+Na jumpang au na asiroha di au naung mago i hian,
+Tuhan Jesus parasiroha di au na lilu na hinan
+Nuaeng hutanda Tuhanki, :,: Parasi roha bolon i.
+-
+Dibahen godang ni dosangku, tung hona uhum au tama;
+Hape ro Jesus dipadomu au muse dohot Debata.
+MudarNa na badia i :,: Pajongjong pardomuan i.
+-
+On pe holan asi ni roha, sipangasahononhon i.
+Sipujionku do Jahowa, dung ro na pamanathon i.
+Unduk huhut las rohangki :,: Mamuji asi roha i.
+-
+Ianggo i ndang taragohon baenon ni manang aha pe.
+Sai asiMi hupangasahon di tangiangku sasude.
+Mate pe au, pos rohangki :,: Marningot asiasiMi
+-
+I pe, ale Tuhan Jahowa unang unsati asiMi.
+Boan ma au ale Debata, dung mate au tu lambungMi.
+Tongtong las rohangki disi :,: Mamuji asiasiMi.

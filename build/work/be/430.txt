@@ -1,0 +1,42 @@
+@be 430
+@bl 290
+@title Ai ditanda ho mual i.
+@key D
+@meter 4/4
+@credit Z.L. No. 211
+@pages 411 412
+@check "2*" = 2 kres (paranada Eis). "3̄.3̿" = not 1/8 bertitik + 1/16.
+@check Hlm 412 birama "3 5 5̄ 5̄" tercetak 3 ketuk; not balok = 1/2 (Fis) + 1/4 + 2×1/8 → ditulis "(3 . 5) 5+5".
+@check Hlm 412 birama "2 2̄.2̿ 2̄ 3̄.2" tercetak 3½ ketuk (angka dan not balok sama-sama memberi 1/8 pada "2" ketiga); disamakan dengan pola ketukan lain → "2" ketiga ditulis 1/4. Perlu dicek.
+@check Not "1" sesudah "6̄" (do-sa-mi) tanpa titik atas di angka, tetapi paranada = D5 → ditulis 1'.
+@check Angka "5..5.3" dan "4.4.2" dengan lengkung (bagian "Ias do dibaen") = ikatan: 1/2 diikat ke 1/8 bertitik, lalu 1/16.
+@status Lirik dicek · 6/13 baris sama dgn pembanding
+@check Pembanding lirik: beda di ayat 1 (mabaor/sian, mangkophop, "i" tambahan, kata hilang di baris refrein) dan ayat 2 ("hasnsit" — kemungkinan salah cetak buku untuk "hansit", Tondingki, ale); transkripsi mengikuti tulisan buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 430) | https://bukuende.wordpress.com/2013/06/09/ai-ditanda-ho-mual-i-buku-ende-no-430-buku-logu-no-290/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3+.+.+3 3+.+.+#2 3 3+.+.+4 | 5 . . 5+.+.+3 |
+2 2+2 3 4+.+.+3 | 2 . . 0 | 3+.+.+3 3+.+.+#2 3 3+.+.+4 | 5 . . 5+.+.+3 |
+2 2+2 2 3+.+.+2 | 1 . . 0 | 6+.+.+6 6+.+.+6 6 6+.+.+4 |
+(3 . 5) 5+5 | 6 6+.+.+6 (6+1') 7+6 | (5 . 4) 0 |
+3+.+.+3 3+.+.+#2 3 3+.+.+4 | 5 . . 3+3 | 2 2+.+.+2 2 3+.+.+2 | 1 . . 0 |
+> Ai di-tan-da ho mu-al i, na ma-baor si-an Gol-ga-ta i? Si-an na tar-si-lang di-si, na mang-kop-hop ho par-do-sa i? Nang bal-ga do-sam, sae do i, di sal-pui do-sa-mi nang u-lum, na gu-mo-go do Tu-han-mi nun-ga saut di-li-sat-hon mu-sum
+#B
+(5 . 5+.+.)+3 5+.+.+1' | 7 . . 0 | (4 . 4+.+.)+2 4+.+.+6 | 5 . . 0 |
+1'+.+.+1' 1'+.+.+1' 1' 1'+.+.+7 | (6 . 4) 6 | 5 3+.+.+1 2 3+.+.+2 | 1 . 0 |]
+> I-as do di-baen ro-hang-kon nu-aeng Je-sus do par-mo-nang di-si, di-bu-ri nu-aeng ro-hang-ki.
+#V
+Ai ditanda ho mual i, na mabaor sian Golgata i?
+Sian na tarsilang disi, na mangkophop ho pardosa i?
+Nang balga dosam, sae do i, di salpui dosami nang ulum,
+Na gumogo do Tuhanmi nunga saut dilisathon musum.
+Ias do dibaen rohangkon nuaeng Jesus do parmonang disi, diburi nuaeng rohangki.
+-
+Tung na hasnsit na tinaon ni Tuhanki di hau parsilang i,
+Tung punjung mangae Jesuski, ndang bolong panghophopNa disi.
+Lao ma au maporus tusi, asa malum disi rohangki.
+Holan mudar ni Tuhanki boi mamuri ias Tondingki Ias do dibaen ...
+-
+Tung na dao do an sian Ho. ale Jesus na manghophop au,
+Ro, sai abing au, o Tuhan, mudarMi na mambaen malum au.
+MudarMi sambing ubathi, mansai pos roha di gogoMi.
+Haporusan na sonang i, i ma mual na di lambungMi. Ias do dibaen...

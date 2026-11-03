@@ -1,0 +1,47 @@
+@be 264
+@bl 217
+@title Adong dope paradianan.
+@key Eb
+@meter 3/4
+@credit Karl Friedrich Ellwanger 1855
+@pages 244 245
+@check Judul kepala lagu (judul Logu) "Adong dope paradianan."; baris pertama lirik "Sai togu au tu hasonangan".
+@check Bagian B birama 4 tercetak "4 . . 3" (titik ganda); paranada not 1/2 + 1/4, ditulis "4 . 3".
+@check Baris lirik 2 bagian B "ha-gi - othu" dibaca 4 suku kata (ha-gi-o-thu) agar sesuai jumlah not.
+@check Ayat 2–4 dicetak 5 baris; ditulis sesuai buku.
+@status Lirik dicek · 13/19 baris sama dgn pembanding
+@check Pembanding lirik: L6, L9, L15, L16, L18 beda ejaan satu kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 264) | https://bukuende.wordpress.com/2013/06/18/sai-togu-au-tu-hasonangan-buku-ende-no-264-buku-logu-no-217/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | (5 .+4) 3 | 6 . 5 | 4 . 3 | 3 2 v 5 |
+(6 .+7) (1'+6) | 5 . 4 | 3 . 2 | 1 . :|
+> Sai to-gu au tu ha-so-na-ngan, O Je-sus ha-ngo-lu-an-ki;
+> Si-an su-de na dung ra-ra-ngan Pa-ho-lang ma ping-ki-ran-ki.
+#B
+3 | 3 . 2 | 2 . 3 | 4 . 3 | 3 2 v 3 | 3 . 2 | 2 . 3 |
+4 . 3 | 3 2 v 5 | (1' 7) 6 | (5 .+6) (5+4) | 3 . 2 | 1 . :|
+> A-ha la-ba-na ha-ngo-lu-an, na so di-le-hon Ho, o Tu-han, mar-hi-te-hi-te mu-dar-Mi?
+> Sai tong pa-un-duk ma ro-hang-ku, u-nang a-dong be ha-gi-o-thu, na so hom-bar tu ro-ha-Mi.
+#V
+Sai togu au tu hasonangan, O Jesus hangoluanki;
+Sian sude na dung rarangan Paholang ma pingkiranki.
+Aha labana hangoluan, na so dilehon Ho, o Tuhan, marhitehite mudarMi?
+Sai tong paunduk ma rohangku, unang adong be hagiothu, na so hombar tu rohaMi.
+-
+Ale Rajangku, unang loas lam ganggang sian Ho be au.
+Patoguma, sai tong pahoras di pardonganonmi ma au.
+Na so adong be hatuaon di balik ni na jinalahan,
+Ni holong' ni rohaM di au. Huboto ala ni hataMu.
+Lam hop ditiop i rohangku, sai hasonanganki do Ho,
+-
+Ingkon tongtong burju rohangku saleleng na mangolu au.
+Ai Ho sambing haholonganku, tu Ho ma marhaposan au,
+Sai tong jagahon ma rohangku, pingkiranki, pambahenanku
+Ai tutu anakMu do au. Pasobok ma rohangku dohot rohaMu
+Asa sanga sogot sobokkon Ho tarida au.
+-
+Ai nuga tung barani ahu manaon parsahitan i.
+No olo ahu ganup ari mangihut Jesus, Tuhanki.
+HosoM ni jolma pe hutahan, hohom do au, tung nileaan.
+Hutiru Tuhan Jesus i, ai dung di ujung nilangkangku,
+Disi tongtong halashononku sudena na di Tuhanki.

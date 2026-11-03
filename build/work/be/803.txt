@@ -1,0 +1,36 @@
+@be 803
+@bl 0
+@title Pelehon Hapistaran
+@key G
+@meter 4/4
+@credit Syair dan lagu: The wise may bring their learning; NN · Ende pujian ni dakdanak · Terj.: Pdt. J. A. U. Doloksaribu
+@pages 881 882
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 4 kata 3 berbeda (kemungkinan pemisahan "sarohagogomi"); scan hlm 882 mencetak "sian na sa-ro-ha / go-go mi" → buku tetap.
+@check Pembanding menyebut Buku Logu No. 803; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 803) | https://bukuende.wordpress.com/2013/06/16/pelehon-hapistaran-buku-ende-no-803-buku-logu-no-803/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check "sian" dan "sai" dicetak dengan tanda ‿ (satu suku kata).
+#A
+5, | 1 1 1 2 | (3+2) (3+4) 5 3 | 4 (3+1) 2 . |
+3 . . 5, | 1 1 1 2 | (3+2) (3+4) 5 3 |
+4 (3+1) 2 2 | 1 . . (1+3) |
+5 .+6 (5+4) (3+2) | (1+2) (3+4) 5 5, |
+1 3 2 1 | 5, . . 5, | 1 1 1 2 |
+(3+2) (3+4) 5 3 | 4 (3+1) 2 2 | 1 . . |]
+> Pe-le-hon ha-pis-ta-ran-mi tu De-ba-ta i, si-na-mot ha-hi-pas-on-mi da-ging nang ton-di-mi, sai pang-ke ma lu-hut-na i pa-sa-ngap Tu-han i, sian na sa-ro-ha-go-go-mi o-lo-i Tu-han i.
+#V
+Pelehon hapistaranmi tu Debata i,
+sinamot hahipasonmi daging nang tondimi,
+sai pangke ma luhutna i pasangap Tuhan i,
+sian na sarohagogomi oloi Tuhan i.
+-
+Sai naeng pasangaponku Ho saleleng ngolungki,
+tongtong haholonganku Ho sian nasa rohangki,
+nang pe poso pamatangkon sai oloanku,
+nang ro di tos pe hosangkon sai pujionku Ho.
+-
+Manang di dia au tahe, sai diramoti Ho,
+andigan sadihari pe, sai diparmudu Ho,
+pelehononku ma tu Ho sude na di au,
+arta daging nang tondingkon tongtong pasangap Ho.

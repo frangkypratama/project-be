@@ -1,0 +1,41 @@
+@be 77
+@bl 65
+@title Hamu saluhut halak
+@key G
+@meter 4/4
+@credit Heinrich Isaak, 1539
+@pages 68
+@status Lirik dicek · 16/18 baris sama dgn pembanding
+@check Buku menulis "Heindrich Isaak 15?9"; angka tahun samar di scan (1539 atau 1559) — mohon cek.
+@check Birama "4 3 3" di baris ke-2 ditulis tanpa titik di not angka, tetapi di paranada not pertama setengah (2 ketuk); di sini ditulis "4 . 3 v 3".
+@check Pembanding lirik: bukuende.wordpress.com — 16 dari 18 baris sama persis; 2 beda: ayat 1 "manatap"/"hangoluanmu" (scan dicek ulang: "ma-na-tap", transkripsi diperbaiki) dan ayat 3 baris 1 yang pudar di scan ("di hajolmaon i" dibaca dengan bantuan pembanding). Mohon cek ayat 3 baris 1.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 77) | https://bukuende.wordpress.com/2013/06/13/hamu-saluhut-halak-buku-ende-no-77-buku-logu-no-65/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 | 1 2 3 5 | 4 . 3 v 3 | 5 5 2 3 |
+1 . 7, v 5, | 1 2 3 3 | 2 . . v 3 | 1 2 3 5 | 4 . 3 v 3 |
+5 5 2 3 | 1 . 7, v 5, | 1 2 (3+4) (5+4) | 3 2 1 |]
+> Ha-mu sa-lu-hut ha-lak ro ma ha-mu ma-na-tap ha-ngo-lu-an-mu on, na gan-tung di par-si-lang, tu ma-han ha-ma-te-an; Naeng i-ngo-ton-mu i tong-tong.
+#V
+Hamu saluhut halak ro ma hamu manatap
+Hangoluanmu on, na gantung di parsilang,
+Tu mahan hamatean; Naeng ingotonmu i tongtong.
+-
+Patangkas ma luhutna: Sap mudar do dagingNa.
+Sai hir hodokNa i; Buas huhut hosaNa
+Hinorhon ni bernitNa, modar sude dagingNa i.
+-
+Aha do manginona tu Ho silehon tua di hajolmaon i
+So dung hea mardosa Ho doshon hami jolma.
+Ndang dung dibaen Ho dosa i.
+-
+Au on ro di dosangku na so tardok rohangku
+Dibaen godangna i, i do na pinorsanMu
+Disi, ale Tuhanku marsipal Ho binaen ni i.
+-
+Sandok mauliate, do au di Ho, naung mate
+Lao pangoluhon au. Sai tong parrohaonku,
+Na busuk bunuonku; tu Ho sambing marguru au.
+-
+IluiluM, o Jesus, mudarMu pe na durus,
+Nang angguhanggukMi i ma parhiteanku,
+Di na lao tos hosangku manopot hasonangan i.

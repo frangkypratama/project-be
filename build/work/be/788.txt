@@ -1,0 +1,33 @@
+@be 788
+@bl 0
+@title Las ma rohamu mangkirim
+@key F
+@meter 4/4
+@credit Syair & Lagu: Pdt. J. A. U. Doloksaribu 1993 (Rom. 12:12 + 21)
+@pages 862 863
+@status Lirik dicek · 8/8 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 788) | https://bukuende.wordpress.com/2013/06/16/las-ma-rohamu-mangkirim-buku-ende-no-788-buku-logu-no-788/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanda mula 1 mol (F mayor), not pertama 3 = A4 → 1 = F.
+@check Judul tercetak "mangkirim", sedangkan lirik di bawah not "mang-hi-rim" — keduanya ditulis apa adanya.
+@check Baris 3 birama 2: angka "5 . 3 2 1 ." dengan garis atas di atas ". 3 2"; balok = C5 1/4, lalu kelompok 3 not 1/8 (C5 lanjutan–A4–G4) di bawah legato, lalu F4 1/2 → ditulis sebagai triol (.+3+2) agar birama genap 4 ketuk.
+@check Ayat 1 disusun dari suku kata di bawah not (buku tidak mencetak ayat 1 terpisah).
+#A
+3+3 3+3 (3+1) 2 | 1+1 . . .+0 |
+5+5 5+5 5 2 | 3+3 . . .+0 |
+6+6 6+6 (6+5) 3 | (5 .+3+2) 1 . |
+3+3 3+3 (3+1) 2 | 1+1 . . .+0 |]
+> Las ma ro-ha mu mang-hi-rim, las ma ro-ha mu mang-hi-rim; las ma ro-ha mu mang-hi-rim, las ma ro-ha mu mang-hi-rim.
+#V
+Las ma rohamu manghirim, las ma rohamu manghirim;
+las ma rohamu manghirim, las ma rohamu manghirim.
+-
+Sai benget dihaporsuhon, sai benget dihaporsuhon
+sai benget dihaporsuhon, sai benget dihaporsuhon.
+-
+Jugulhon hamu tangiang, jugulhon hamu tangiang
+jugulhon hamu tangiang, jugulhon hamu tangiang.
+-
+Taluhon ma hajahaton marhite ulaon na denggan
+taluhon ma hajahaton marhite ulaon na denggan.

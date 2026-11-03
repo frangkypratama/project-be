@@ -1,0 +1,45 @@
+@be 821
+@bl 0
+@title Rap ma hita ale Tuhan
+@key Ab
+@meter 4/4
+@credit Syair & Lagu : NN
+@pages 906 907
+@status Lirik dicek · 6/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 1, 2, 5, 7, 8, 9 beda (ejaan/kata; baris 7 banyak beda kata). Teks dicek ulang ke scan hlm 906–907 (terbaca jelas, mis. "holom hohom jala lungunan", "Ai nang ngangang angka tanoman") → buku tetap.
+@check Pembanding menyebut Buku Logu No. 821; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 821) | https://bukuende.wordpress.com/2013/06/16/rap-ma-hita-ale-tuhan-buku-ende-no-821-buku-logu-no-821/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Kepala lagu mencetak ayat "Luk. 24 : 29: Pang. 7 : 19".
+@check Refrein memakai tanda ulang dengan volta 1 & 2 (hlm 906–907); ditulis lengkap sebagai bagian B (refrein + volta 1) dan C (refrein + volta 2). Lirik di bawah not: volta 1 "di surgo sonang rohangki", volta 2 "di ginjang sonang rohangki".
+@check Angka 2 dan 4 dicoret (kres) → #2 (balok B♮) dan #4 (balok D♮).
+#A
+3 .+3 3+3 #2+3 | 4 . 3 2 | 1 .+1 1+1 7,+1 |
+3 . 2 5, | 3 .+3 3+3 #2+3 | 4 . 3 2 |
+1 .+1 1+7, 6,+7, | 1 . . |]
+> Rap ma hi-ta a-le Tu-han, ai nu-nga bot ma-ta ni a-ri, ho-lom ho-hom ja-la lu-ngu-nan mo-lo so Ho be do-ngan-ki.
+#B
+2 | 2 .+2 2+3 4+3 |
+3 . 1 3 | 3 .+3 #4+#4 #4+#4 | 5 . . 5 |
+5 .+5 5+5 4+3 | 4 . 1 2 |
+3 .+3 3+2 1+2 | 1 . . 0 :|
+> To-gi-hon au tu par-mi-a-nan i-nga-nan na sun-deng-gan i, ai ta-no on gok pa-rung-ki-lon di sur-go so-nang ro-hang-ki,
+#C
+2 | 2 .+2 2+3 4+3 | 3 . 1 3 | 3 .+3 #4+#4 #4+#4 | 5 . . 5 |
+5 .+5 5+5 4+3 | 4 . 6 6 | 5+.+.+3 1+.+.+2 3 2 | 1 . . 0 |]
+> To-gi-hon au tu par-mi-a-nan i-nga-nan na sun-deng-gan i, ai ta-no on gok pa-rung-ki-lon di gin-jang so-nang ro-hang-ki
+#V
+Rap ma hita ale Tuhan, ai nunga bot mata ni ari,
+holom hohom jala lungunan molo so Ho be donganki.
+:,: Togihon au tu parmianan inganan na sundenggan i,
+ai tano on gok parungkilon di surgo sonang rohangki :,:
+-
+Rap ma hita ale Tuhan, ai nunga bot mata ni ari,
+sai Ho ma dongan sauduran ro di ujung ni ajalhi.
+:,: Ai nang ngangang angka tanoman ndang be
+mabiar au tu si, di ari i ingkon sunggulan,
+na modom di udean i :,:
+-
+Ende ni surusuruan manomunomu ho na monang,
+disi iluilum apusan martua ho jala sonang,
+:,: Jerusalem naung pinaimbaru di Huta na badia i,
+tusi ma Tuhan boan au ai na bot ne ma ari i :,:

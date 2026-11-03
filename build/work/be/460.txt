@@ -1,0 +1,33 @@
+@be 460
+@bl 319
+@title Ala ni Tuhan Jesus
+@key D
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 440 441
+@check Kepala lagu juga mencantumkan "E.A. No. 21". Tanda fermata (di atas 7, 2, 1, 2) tidak ditulis di notasi situs.
+@check Baris 3 birama 2 tercetak "5 . 5 5 4 3" (5 ketuk bila titik dibaca); not balok = tiga 1/4 + dua 1/8 → ditulis 5 5 5 (4+3).
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: L1 (marendeende), L9 (marolopolop) beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 460) | https://bukuende.wordpress.com/2013/06/09/ala-ni-tuhan-jesus-buku-ende-no-460-buku-logu-no-319/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 5, .+6, 5, 1 | 1 . 7, 7, | 1 1 4 3 |
+2 . 0 (3+4) | 5 3 2 1 | 2 . 6, 6, | 5, 1 7, (6,+7,) |
+1 . 0 5, | 5 5 5 (4+3) | 2 . 5, 5, | 2 .+2 2 (1+2) |
+3 . 0 (3+4) | 5 .+3 2 1 | 1 . 6, 6, | 5, 1 7, (6,+7,) | 1 . 0 |]
+> A-la ni Tu-han Je-sus mar-en-de-en-de au. A-si tong-tong ro-ha-Na nang pe par-do-sa au. I-ba-na na pa-do-mu au do-hot De-ba-ta, Mu-dar-Na di-u-se-hon di do-lok Gol-ga-ta
+#V
+Ala ni Tuhan Jesus marendeende au.
+Asi tongtong rohaNa nang pe pardosa au.
+Ibana na padomu au dohot Debata,
+MudarNa diusehon di dolok Golgata
+-
+Ala ni Tuhan Jesus mamujimuji au,
+Holong tongtong rohaNa, holong marnida au.
+Godang do hasusaan di hasiangan on,
+Asal ma di tanganNa na sonang au tongtong
+-
+Ala ni Tuhan Jesus, marolopolop au.
+Ibana huihuthon manang tudia lao.
+Ibana do patogu, pasada rohangki.
+Ro di banua ginjang sai Jesus donganki.

@@ -1,0 +1,36 @@
+@be 645
+@bl 0
+@title Sai gohi roha tondingki (1)
+@key F
+@meter 3/4
+@credit Syair: Fill thou my life, O Lord my God; Horatius Bonar, 1808 - 1889 · Terj.: Biv. M. H. Sitorus · Lagu: Thomas Haweis, 1762 / Samuel Webbe Jr. (1770 - 1843)
+@pages 661 662
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check BE 646 "Sai gohi roha tondingki (2)" memakai syair yang sama dengan melodi lain.
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 10 (alai) beda ejaan; scan hlm 662 mencetak 'alai'.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 645) | https://bukuende.wordpress.com/2013/06/18/sai-gohi-roha-tondingki-1-buku-ende-no-645-buku-logu-no-645/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5, 1 3 | 5 . 4 | (3 4) 2 | 1 . 3 |
+(2 5) 1 | (7, 1) 6, | 5, . 2 | (3 2) 1 |
+(4 3) 2 | (5 4) 3 | 6 . 5 |
+(6 4) 3 | (3+2 1) 7, | 1 . . |]
+> Sai go-hi ro-ha ton-ding-ki mar-hi-te ton-di-Mi a-sa mar-hi-te di-ring-ki pa-tar Ho Tu-han-ki.
+#V
+Sai gohi roha tondingki, marhite tondiMi
+asa marhite diringki, patar Ho Tuhanki.
+-
+Unang holan pamanganhi, dohot ma rohangki
+jala sude ma ngolungki, mamuji Ho ma i.
+-
+Sude ma pangalahongki, ro di ulaonki
+nang hata nang pingkiranki, pasangap Ho ma i.
+-
+Nang saluhutna ngolungki, tongtong mamuji Ho
+anggiat dohot diringkon, lao papatarhon Ho.
+-
+Nang pe gok dosa rohangkon, gale pamatangkon
+alai nuaeng hupuji Ho, sai jangkon ma au on.
+-
+Antong sude ma ngolungki, parbadiai ma i
+dongani au o Tuhanki, ro di ujungna i.

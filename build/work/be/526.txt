@@ -1,0 +1,32 @@
+@be 526
+@bl 411
+@title Tongam ni huta i
+@key Bb
+@meter 6/8
+@credit U.L. No. 446 · Lagu: Dora Rappard 1923
+@pages 497 498
+@check Birama "5̣.. 2 ." dicetak 5 ketuk ⅛; not balok: F ♩. + C ♩. → ditulis "5, . . 2 . .".
+@check Dua birama terakhir dicetak "(5̣ . 5̣) 5̣̄ | (5̣ . 5̣)" (4 + 3 ketuk ⅛); not balok menunjukkan ♩. terikat ♩ (+ ⅛) → ditulis "(5, . . 5, .) 5, | (5, . . 5, .)" agar 6 + 5 ketuk (ketukan gantung ⅛ di awal).
+@check Ayat 3: "mangkophop au·di Golgata" (titik tengah tercetak) ditulis apa adanya.
+@status Lirik dicek · 6/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 6 dari 10 baris sama; baris 2, 3, 6, 10 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 526) | https://bukuende.wordpress.com/2013/06/18/tongam-ni-huta-i-buku-ende-no-526-buku-logu-no-411/ | Pembanding lirik (tanda baca diabaikan).
+#A
+5, | 5, . 5, 5, . 5, | (5, . . 5,) 0 5, | 6, . 7, (2 1) 6, | (5, . . 5,) 0 6, |
+5, . . 2 . . | (3 . . 3) 0 5, | 3 . 3 (4 3) 2 | (1 . . 1) 7, 6, | (5, . . 5, .) 5, | (5, . . 5, .) |]
+> Tong-am ni hu-ta i, na pi-na-o-jak i di sur-go i! Mu-ti-ha do har-ba-ngan. U-li-na i!
+#V
+Tongam ni huta i, na pinaojak i di surgo i!
+Mutiha do harbangan. Ulina i!
+-
+Dirarang ro tusi parroha diri i, pargabus pe,
+Parholong di na ramun, ditulak be.
+-
+Ho sipangolu au, naung ro mangkophop au·di Golgata
+Parmasuk au tu huta ni Debata
+-
+Sai jangkon ma au on, gale dakdanakMon, gogo do Ho.
+Ramoti sian dosa au on, naung ro.
+-
+Gogo do tanganmi manogu boruMi tu surgo lao.
+las, pita, pabongot tu surgo au.

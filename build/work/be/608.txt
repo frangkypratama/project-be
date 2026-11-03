@@ -1,0 +1,41 @@
+@be 608
+@bl 0
+@title O Betlehem na metmet i
+@key F
+@meter 4/4
+@credit Syair: O Little town of Betlehem; Philip Brooks, 1835-1893 · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Lewis H. Redner, 1830-1908
+@pages 603 604
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di "na sai laon", "diborngin", "ro Kristus"; dicek ke scan hlm 603–604: sesuai buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 608) | https://bukuende.wordpress.com/2013/06/16/o-betlehem-na-metmet-i-buku-ende-no-608-buku-logu-no-608/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 608".
+@check "7̣ 1" (½+½) di birama 3 baris 1 & 2: angka hanya bergaris atas; legato terlihat di not balok (E–F) dan di angka baris 2 → ditulis legato (7,+1), satu suku kata.
+@check Lirik di bawah not tercetak "metmet" dan "humirdophirdop" tanpa tanda penggal; dipenggal met-met, hu-mir-dop-hir-dop sesuai jumlah not.
+@check Penulis tercetak "Philip Brooks" (ejaan lazim: Phillips Brooks); ditulis apa adanya.
+#A
+3 | 3 3 #2 3 | 5 4 6, 2 | 1 (7,+1) 2 5, |
+3 . . 3 | 3 3 6 5 | 5 4 6, 2 | 1 (7,+1) 3 2 |
+1 . . 3 | 3 3 2 1 | 7, . 7, 7, |
+6, 7, 1 2 | 3 . . 3 | 3 3 #2 3 |
+5 4 6, 6 | 5 1 3 .+2 | 1 . . |]
+> O Bet-le-hem na met-met i bo-a-sa mo-dom ho, hu-mir-dop-hir-dop bin-tang i ho-hom mar-ni-da ho. A-lai ro si-an ho-do pa-non-dang na tong-tong na-pi-nar-sin-ta na sai laon so-rang di bor-ngin on.
+#V
+O Betlehem na metmet i boasa modom ho,
+humirdophirdop bintang i hohom marnida ho.
+Alai ro sian ho do panondang na tongtong
+na pinarsinta na sai laon sorang di borngin on.
+-
+Na sorang do diborngin i Kristus Tuhanta i,
+i do na pinaboa ni bintang natiur i.
+Parangan pardisurgo mamaritahon i,
+sangap di Debatanta i, dame di tano on.
+-
+Hohom so pamotoan do saut baga-baga i,
+sian banua ginjang ro Kristus Tuhanta i.
+Portibion ramun do binaen ni dosa i
+tu angka na manjangkon do ro Sipalua i.
+-
+O Anak na badia i, ro Ho tu hami be
+bongoti daging tondi i, parbadiai sude.
+Barita na ummuli, hutangi hami be
+sorang ma Ho dingolungki, Ale Immanuel.

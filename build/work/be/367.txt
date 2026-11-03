@@ -1,0 +1,34 @@
+@be 367
+@bl 2
+@title Na tau las ni roha
+@key F
+@meter 3/4
+@credit Lagu: Hans Georg Nageli 1836
+@pages 351 352
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 12 baris sama; baris 3, 5, 7 memuat kata "sai" yang tidak ada di pembanding; dicek ulang ke scan, sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 367) | https://bukuende.wordpress.com/2013/06/13/di-banua-ginjang-buku-ende-no-367-buku-logu-no-2/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian Ende di dakdanak. Judul Logu "Na tau las ni roha" berbeda dari baris pertama lirik ("Di banua ginjang").
+@check Baris 2 birama 2: angka 5 tercetak tanpa titik, tetapi not balok = 1/4 bertitik (C5) diikuti tiga 1/8 → ditulis 5 .+4 3+2.
+#A
+3+.+.+4 5 4 | 3 2 0 | 1+.+.+1 2 5 | 3 . . v |
+6 .+5 4+3 | 5 .+4 3+2 | (1 3) 2 | 1 . . |]
+> Di ba-nu-a gin-jang, di na ti-ur i, mi-an De-ba-tan-ta, na-sun sa-ngap i.
+#V
+Di banua ginjang, di na tiur i,
+Mian Debatanta, nasun sangap i.
+-
+Atik pe sai sangap Debatanta i,
+Holong do rohaNa di na metmet i.
+-
+Sai ditataptatap AnakkonNa i,
+Manjagai di dasdas suruanNa i.
+-
+Tung sai diramothon do na metmet i,
+Unang dililuhon sipangago i.
+-
+Bohal nang ulosta disarihon do.
+Arsak ni rohanta dipalambok do.
+-
+Dok ma tu dakdanak adong Debata,
+Ama haholongan, tau haposan da.

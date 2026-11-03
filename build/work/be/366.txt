@@ -1,0 +1,31 @@
+@be 366
+@bl 229
+@title O ale Jesus Tuhanki
+@key F
+@meter 2/4
+@credit Lagu: Gottlob Siegert 1822
+@pages 350 351
+@status Lirik dicek · 9/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 10 baris sama; beda di baris 3 kata 6 (Ho); dicek ulang ke scan, sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 366) | https://bukuende.wordpress.com/2013/06/16/o-ale-jesus-tuhanki-buku-ende-no-366-buku-logu-no-229/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian Ende di dakdanak. Ketukan gantung awal = not 1/8 (ditulis 0+1).
+#A
+0+1 | 3 1 | 4 3 | (2+1) (2+3) | 1 0+5, |
+1 3 | 2 .+7, | (2+1) (7,+6,) | 5, 0+5, | 4 .+2 | (1+7,) (6,+5,) |
+1 3 | 5 .+4 | 3 .+5 | (5+4) (3+2) | 1 (3+2) | 1 0 |]
+> O a-le Je-sus Tu-han-ki, Ho Tu-han ni dak-da-nak i, ro pa-lu-a-hon sa-su-de, naeng Ho nam-pu-na ha-mi be.
+#V
+O ale Jesus Tuhanki, Ho Tuhan ni dakdanak i,
+Ro paluahon sasude, naeng Ho nampuna hami be.
+-
+Ho sondang sian surgo i, di topot Ho na holom i,
+Sai tatap hami on sude, patiur rohanami be.
+-
+O ale Jesus Tuhanki, di ari hatutubuMi,
+Na las tongtong do roha ni dakdanak na di tano i.
+-
+O pasupasu ma au on, na metmet na di joloMon,
+Ias ma didi tondingki, naeng sahat au tu surgoMi.
+-
+Suman tu pardisurgo i, burju, serep ma rohangki,
+Jonok ma au di lambungMi, o Jesus, ale-alengki.

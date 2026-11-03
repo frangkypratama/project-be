@@ -1,0 +1,36 @@
+@be 549
+@bl 378
+@title Holan dakdanak
+@key A
+@meter 9/8
+@credit W.W. No. 49 (nama komponis tidak dicantumkan di buku)
+@pages 520 521
+@check Birama 9/8: satu token = not 1/8 (angka bergaris atas = 1/8, "x . ." = 1/4 bertitik).
+@check Birama "4. ⌒ 2.. 2 3 2" (boi au tu Je-sus): angka 4 hanya bertitik satu; ditulis 4 . . agar genap 9/8 seperti pola birama lain. Busur di atas 4–2 tidak dipakai sbg melisma (suku kata "boi" dan "au" di bawah not masing-masing).
+@check Birama "5..3..3̄..2̄ 1̄" dan "5..3. 3̄ 2̄ 1̄": titik setelah 3̄ / titik tunggal salah cetak; balok = 1/4 bertitik, 1/4 bertitik, 1/8 ×3 → ditulis 5 . . 3 . . 3 2 1.
+@status Lirik dicek · 9/10 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 kata 10 ('dakdanakmon') beda ejaan. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 549) | https://bukuende.wordpress.com/2013/06/13/holan-dakdanak-buku-ende-no-549-buku-logu-no-378/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3, 5, 1 | 3 . . 1 . . 1 7, 6, |
+(7, . . 7, . .) 5, 7, 2 | 4 . . 2 . . 2 3 2 | (2 . . 2 . .) 5, 1 3 |
+5 . . 3 . . 3 2 1 | (4 . . 4 . .) 4 1 4 | 3 . . 1 . . 2 5, 2 | (1 . . 1 . .) |
+> Ho-lan dak-da-nak na met-met au. A-lai na boi au tu Je-sus lao. Ho-lan I-ba-na o-lo-an-ki Pa-i-ma sa-hat tu sur-go i.
+#B
+5, 5, 5, | 3 . . 1 . . 2 1 6, | (5, . . 5, . .) 5, 5, 5, |
+4 . . 2 . . 2 6, 3 | (2 . . 2 . .) 5, 5, 5, | 5 . . 3 . . 3 2 1 |
+(4 . . 4 . .) 4 1 4 | 3 . . 1 . . 2 5, 2 | (1 . . 1 . .) |]
+> O Tu-han Je-sus jang-kon au on. Tung so mar-go-go dak-da-nak-mon. Di Ho ngo-lung-ku. pang-ke ma i Tau ha-sa-nga-pon di go-ar-Mi.
+#V
+Holan dakdanak na metmet au. Alai na boi au tu Jesus lao.
+Holan Ibana oloanki Paima sahat tu surgo i.
+O Tuhan Jesus jangkon au on. Tung so margogo dakdanakmon.
+Di Ho ngolungku. pangke ma i Tau hasangapon di goarMi.
+-
+Di pangunjunan ramoti au. Sai marsaringar hatam di au.
+Nang natorashu taiti tu Ho, sai naeng humatop nasida ro.
+O. Tuhan Jesus ...
+-
+Torop dakdanak dao sian Ho. Tung so ditanda, o Tuhan Ho.
+Arahononku nang angka i. Asa lam ganda naung sonang i.
+O. Tuhan Jesus ...

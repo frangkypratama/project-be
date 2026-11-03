@@ -1,0 +1,41 @@
+@be 309
+@bl 164
+@title Raphon Tuhan Jesus i.
+@key C
+@meter 4/4
+@credit Johann Georg Ebeling 1666
+@pages 288
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di baris 10, 12. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 309) | https://bukuende.wordpress.com/2013/06/16/raphon-tuhan-jesus-i-buku-ende-no-309-buku-logu-no-164/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check PERLU DICEK: angka memakai do = C (not 1 di C4), tetapi balok bertanda mula 1 mol, sehingga not 7 di balok = Bes (bukan B). Angka ditulis apa adanya (@key C, 7 natural).
+@check Akhir bagian A "2 . 1 ." tercetak tanpa titik atas, balok = D5–C5 → ditulis 2' 1'.
+#A
+1 3 5 5 | 6 7 1' . v | 7 1' 2' 3' | 2' . 1' . :|
+> Rap-hon Tu-han Je-sus i pung-ka u-la-on-mu;
+> Ing-kon tu I-ba-na i par-gu-ru-ho-non-mu;
+#B
+7 1' 2' 1' | 7 7 6 . v |
+5 5 4 3 | 2 . 1 . v | 5 5 6 7 |
+6 6 5 . v | 6 7 (1'+2') 3' | 2' . 1' . |]
+> Baen I-ba-na do-ngan-mi, He-he do-hot mo-dom. De-ge ma bo-gas-na i. Ro-ha-mi pa-ho-hom.
+#V
+Raphon Tuhan Jesus i pungka ulaonmu;
+Ingkon tu Ibana i parguruhononmu;
+Baen Ibana donganmi, Hehe dohot modom.
+Dege ma bogasna i. Rohami pahohom.
+-
+Ganup sogot ingkon do Jesus jouhononmu,
+Asa urupanNa ho di siulaonmu, ai arian, borngin pe,
+Naeng ho dongananNa, dosami pe sasude,
+Naeng taluhononNa.
+-
+Molo Jesus donganmi, ndang tarbaen ho mago;
+Nang bisuk sibolis i, Jesus do gomogo,
+Asal dihaposi ho Jesus i, Tuhanmu,ingkon sai maporus do
+Na naniarsakkonmu.
+-
+Hupasahat ma antong saluhut langkangku
+Tu Tuhanku na tongtong mian di rohangku.
+Manang aha pe hubaen, Ho hupangasahon.
+Ale Tuhan! Tulus baen saluhutna, Amen.

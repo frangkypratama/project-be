@@ -1,0 +1,34 @@
+@be 50
+@bl 119
+@title Marende ma hamu
+@key F
+@meter 3/4
+@credit Choral Buch 166, Wirtenberg, 1529
+@pages 43 44
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 3,9; dicek ulang di scan hlm 44: buku mencetak "Namareakhon" dan "sahaat". Buku tetap acuan.
+@check Beberapa birama dicetak 2 angka saja ("1 1", "1 ʼ1"); not balok buku menunjukkan not 1/2 + 1/4, jadi dibaca "1 . 1".
+@check Kredit dicetak "Choral Buch 166 Wirtenberg, 1529"; ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 50) | https://bukuende.wordpress.com/2013/06/16/marende-ma-hamu-buku-ende-no-50-buku-logu-no-119/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 1 . 1 | 3 . 4 | (5 . 6 | 5 .) v 5 | 1 . 1 | 3 . 4 |
+(5 . 6 | 5 . .) v | 5 . 6 | 5 . 4 | 3 . . | 1 . v 1 | 2 . 2 | 3 . 2 |
+(1 . 2 | 3 .) v 3 | 5 . 6 | 5 . 4 | 3 . . | 1 . 1 | 2 . 2 | 3 . 2 |
+(1 . 2 | 3 . .) v | 6, . 6, | 7, . 7, | (1 . . | 5 . .) v | 3 . 3 | 2 . 2 | (1 . . | 1 .) |]
+> Ma-ren-de ma ha-mu, on ma do-ho-non-mu; Ho-long ni ro-han-ta do po-so-po-so on, na-ma-re-a-khon hi-ta tu a-tas ta-no on, Tu-han-ki do Ho! Tu-han-ki do Ho!
+#V
+Marende ma hamu, on ma dohononmu;
+Holong ni rohanta do posoposo on,
+Namareakhon hita tu atas tano on, :,: Tuhanki do Ho! :,:
+-
+Malungun au di Ho, o Jesuski naung ro!
+Apul ma rohangku saleleng au dison,
+Asi rohaM di ahu marnida dangolhon! :,: Taiti au tu Ho! :,:
+-
+Basa do Ama i disuru Anak i,
+Asa gararonNa sude utangta i
+Huhut padirionNa, hasonanganta i :,: Aut na sahaat au! :,:
+-
+Tongtong di surgo i hasonanganta i.
+Sai mariaia disi suruan i nang angka na badia,
+Naung tolhas ro disi na masihol au! :,: Naeng tusi ma au! :,:

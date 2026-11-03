@@ -1,0 +1,27 @@
+@be 596
+@bl 0
+@title Ai songan on do holong ni Debata
+@key F
+@meter 3/4
+@credit Syair: For God so loved the world; Frances Townsend, Based on Joh. 3:16; Terj.: Pdt. J. A. U. Doloksaribu; Lagu: Alfred B. Smith; God loved the world
+@pages 583
+@status Lirik dicek · 2/4 baris sama dgn pembanding
+@check Pembanding lirik: beda di "di tongos do" (buku memuat "do") dan "na porseai" (ejaan/kata); scan dicek ulang, ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 596) | https://bukuende.wordpress.com/2013/06/09/ai-songon-on-do-holong-ni-debata-buku-ende-no-596-buku-logu-no-596/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian (Natal): tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Joh. 3:16.
+@check Judul tercetak "Ai songan on", lirik di bawah not "Ai so-ngon on" — keduanya ditulis apa adanya.
+@check Angka dicoret (2̸, 1̸, 4̸) = kres (Gis, Fis, B pugar di not balok).
+@check Birama "6 ." (na porseai) tercetak 2 ketuk; not balok = D5 1/2 bertitik → ditulis 6 . . (3 ketuk).
+@check Buku hanya mencetak satu bait.
+#A
+5, | 3 .+3 #2+3 | 4 . 3 | 3 .+2 #1+2 |
+6, . 1 | 7, .+6, 7,+1 | 2 . 5, | 1 .+7, 1+2 |
+3 . 5, | 3 .+3 #2+3 | 4 . 3 |
+3 .+2 #1+2 | 6 . . |
+5 .+#4 4+3 | 3 . 2 | (1 . . | 1) . . |]
+> Ai so-ngon on ho-long ni De-ba-tan-ta i di to-ngos do A-nak-Na na sa-sa-da i u-nang tu ha-ma-te-an na por-se-a-i naeng tu ha-ngo-lu-an i
+#V
+Ai songon on holong ni Debatanta i
+ditongos do AnakNa na sasada i
+unang tu hamatean na porseai
+naeng tu hangoluan i

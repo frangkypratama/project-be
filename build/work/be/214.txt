@@ -1,0 +1,37 @@
+@be 214
+@bl 161
+@title Sonang di lambung Jesus
+@key F
+@meter 4/4
+@credit William Howard doane 1870
+@pages 194 195
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 10 dari 12 baris sama; baris 3 & 6 beda ejaan. Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 214) | https://bukuende.wordpress.com/2013/06/18/sonang-di-lambung-jesus-buku-ende-no-214-buku-logu-no-161/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu memakai Fine (akhir baris 2) dan D.C. al Fine (akhir baris 4): bagian B dinyanyikan lalu ulang dari awal sampai Fine.
+@check Birama "2 . 0" dan "1 . 0" (akhir baris 1–2) di not angka hanya 3 ketuk; not balok menunjukkan not bertitik + tanda diam 1/4 → ditulis 2 . . 0 dan 1 . . 0 (4 ketuk). Not balok baris 1 tercetak seperti 1/4 bertitik (kemungkinan salah cetak).
+@check Birama "2 . 5 ." (Je-sus, baris 3): not balok menunjukkan G seperempat + C setengah (3 ketuk); diikuti not angka (4 ketuk).
+@check Pencipta lagu tercetak "William Howard doane 1870" (lazim: William Howard Doane).
+#A
+3 2+.+.+1 5, 1 | (3 .+4) 3 . v | 5 6+.+.+5 3 1 | 2 . . 0 |
+3 2+.+.+1 5, 1 | (3 .+4) 5 . v | (5+4) 3+2 1 7, | 1 . . 0 |]
+> So-nang di lam-bung Je-sus, so-nang na ro tu-si; u-nang be ho ma-bi-ar lao man-da-pot-hon i!
+#B
+2 2+.+.+3 2 2 | 2 . 5 . v | #4 #4+.+.+#4 3 2 | (2 . 5) 0 |
+2 2+.+.+3 2 5 | 5 . 3 . v | 2 #4+.+.+5 6 #4 | (5 . . 4) |]
+> tong-tong di jou-hon Je-sus: Sai ro ma ho tu Au ta-ding-kon ha-ho-lo-mon ja-la ha-po-si Au
+#V
+Sonang di lambung Jesus, sonang na ro tusi;
+Unang be ho mabiar lao mandapothon i!
+Tongtong di jouhon Jesus: Sai ro ma ho tu Au,
+Tadingkon haholomon jala haposi Au.
+-
+Sonang di lambung Jesus, rap hita lao tusi,
+Inganan na umuli do di lambungNa i.
+Ai nunga diparade hasonanganta i,
+Asa marhasonangan na ro tu Jesus i.
+-
+Jesus haholonganku, Jesus haposanki,
+Saleleng au mangolu dohot di tingkingki!
+Ndang be huhabiari angka pangago i,
+Ai diramoti Jesus au, hinophopNa i.

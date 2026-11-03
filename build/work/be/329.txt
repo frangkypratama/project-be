@@ -1,0 +1,46 @@
+@be 329
+@bl 75
+@title Jesus hinaposan ni
+@key C
+@meter 4/4
+@credit Johann Cruger 165
+@pages 306 307
+@status Lirik dicek · 18/18 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 329) | https://bukuende.wordpress.com/2013/06/16/jesus-hinaposan-ni-buku-ende-no-329-buku-logu-no-75/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Tahun komponis tercetak "165" (tampaknya terpotong; tidak ditebak).
+@check Birama "1 . 5 3" (baris 1): angka 1 tanpa titik atas, tetapi not balok C5 → ditulis 1' (oktaf atas).
+@check "4*" dan "5*" = not dinaikkan (not balok: F♯, G♯) → #4, #5.
+#A
+5 . 3 . | 6 7 1' 1' | 7 . v 6 . | 1' . 5 3 |
+4 3 2 . | 1 . . . :|
+> Je-sus hi-na-po-san ni ro-hang-kon do na ma-ngo-lu;
+> i hu-bo-to, a-la ni hu-pa-sa-bam ma ro-hang-ku,
+#B
+3 . #4 . | #5 6 6 5 |
+6 . 1' . | 2' . 3' 3' | 2' 2' 1' . |]
+> Nang tar-go-got ro-hang-ki ma-ming-ki-ri a-jal-hi.
+#V
+Jesus hinaposan ni rohangkon do na mangolu;
+i huboto, ala ni hupasabam ma rohangku,
+Nang targogot rohangki mamingkiri ajalhi.
+-
+Jesus, Sipangolu au do mangolu, o tondingku !
+Ho pe ingkon sogot lao tu inganan ni Tuhanmu.
+Tung tartading baenon ni ulu i ruasna i?
+-
+Domu au tu Jesuski ala ni pangkirimonku;
+Ai haporseaonki do marojak di Tuhanku
+Na so tupa sirang be sian Jesus au muse.
+-
+Sibuk ahu, ala ni ingkon gabe orbuk ahu;
+Atik pe huboto i, ndada olo ganggu ahu;
+Ingkon suang hosangki, dipasuang Jesus i.
+-
+Na gale di tano on sai margogo do i sogot;
+Di na lea i dison hasangapon i do dapot;
+Partondion do muse dagingniba on hape.
+-
+I pe haringkothon ma tumundalhon hisaphisap;
+Sai hombari Debata, roha daging i ma gotap.
+Sai rapethon rohami tu na naeng topotonmi.

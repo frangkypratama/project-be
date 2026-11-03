@@ -1,0 +1,33 @@
+@be 489
+@bl 331
+@title Sai haposi Tuhanmi.
+@key C
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 464 465
+@check Kepala lagu juga mencetak "F. B. No. 104".
+@check Birama 8 tercetak "1 0" (2 ketuk); paranada = 1/2 bertitik + istirahat, ditulis "1' . . 0".
+@check Birama 13 ("Pai-ma sa-hat au tu"): jumlah durasi menurut paranada tidak pas 4 ketuk; dipakai 1/4. 1/8 | 1/8. 1/16 | 1/16 1/16 (legato) 1/8 — perlu dicek.
+@check Ayat 2–3 diakhiri "I tutu...." = reff (bagian B) dinyanyikan tiap ayat.
+@status Lirik dicek · 5/8 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 1, 2, 7; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 489) | https://bukuende.wordpress.com/2013/06/18/sai-haposi-tuhanmi-buku-ende-no-489-buku-logu-no-331/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 .+4 5+.+.+5 6+.+.+1' | 1' . . 0 | 2' .+1' 7+.+.+2' 1'+.+.+6 | 5 . . 0 |
+3 .+4 5+.+.+1' 7+.+.+1' | 2' . . 0 | 3' .+1' 2'+.+.+6 7+.+.+7 | 1' . . 0 |
+> Sai ha-po-si Tu-han-mi nang di ha-go-go-tan i Nang tung jut pe ro-ha-mi, Sai ha-po-si Tu-han-mi
+#B
+1' .+1' 1'+.+.+3' 2'+.+.+1' | 6 . . 0 | 7 .+7 7+.+.+2' 1'+.+.+7 | 1' . . 0 |
+1' .+1' 1'+.+.+7 (2'+1')+6+. | 5 . . 0 | 3' .+1' 2'+.+.+6 7+.+.+7 | 1' . . 0 |]
+> I tu-tu, pos ro-hang-ki di Ho, a-le Tu-han-ki Pai-ma sa-hat au tu Ho, tong-tong ha-po-san-ku Ho.
+#V
+Sai haposi Tuhanmi nang di hagogotan i
+Nang tung jut pe rohami, Sai haposi Tuhanmi
+I tutu, pos rohangki di Ho, ale Tuhanki
+Paima sahat au tu Ho, tongtong haposanku Ho.
+-
+Gok damena rohami, molo sai pos rohami
+DipanarihonNa i borngin nang arian i, I tutu....
+-
+Nang alo tu rohaMi dalan sidalananmi,
+Ndang dung sala Tuhanmi di panoguonNa i. I tutu....

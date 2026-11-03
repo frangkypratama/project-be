@@ -1,0 +1,41 @@
+@be 588
+@bl 0
+@title Tasomba tongtong
+@key G
+@meter 3/4
+@credit Syair: O worship the King, All Glorlus Above: William Kethe. 1516, Adopt, by Robert Grant, 1833; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: William Gardiners' Sacred Melodies, Arr from John Haydn 1737 - 1806
+@pages 570 571
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: beda di "huasoNa 1" (salah cetak buku), "udan-las", "pada na binaenNa"; ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 588) | https://bukuende.wordpress.com/2013/06/18/tasomba-tongtong-buku-ende-no-588-buku-logu-no-588/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Ps. 104.
+@check Kredit tercetak "Glorlus", "Kethe. 1516", "John Haydn" (lazim: Glorious, William Kethe 1561, Johann Michael Haydn) — ditulis apa adanya.
+@check Ayat 2 tercetak "huasoNa 1," (angka 1, kemungkinan salah cetak "i") — ditulis apa adanya.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+#A
+5, | 1 1 2 | 3 . 1 | 4 4 3 |
+2 . 5, | 1 1 2 | 3 . 4 | (5+.+.+4) 3 2 |
+1 . 5, | 5, 5, 6, | 7, 7, 1 | 2 2 3 |
+4 . 5, | 1 1 2 | 3 3 4 |
+(5+.+.+4) 3 2 | 1 . |]
+> Ta som-ba tong-tong na sun go-go i, ta-dok ma an-tong song-kal Tu-han i par-ta-no-ba-to-an Ha-po-ru-san i gok ha-mu-li-a-on ha-bang-sa-Na i
+#V
+Tasomba tongtong na sun gogo i, tadok ma antong songkal Tuhan i
+partanobatoan Haporusan i
+gok hamuliaon habangsaNa i
+-
+Baritahon ma huasoNa 1, sondang na tiur do ulosNa i
+angka ombun dibaen huretaNa i,
+api na marjimbur suruanNa i
+-
+Ojak tano on dibaen gogoMi, hot ojahan ni salelengna i
+aek sian dolok ro tu rura i,
+torop do binatang marsobur tu si.
+-
+Na tinompa i disarihon do, na marhosa i diparmudu do.
+alogo nang udan-las ni ari i,
+luhut paparahon panarihonMi.
+-
+Sude jolma i sian orbuk do i, na gale do i ala dosa i.
+pada na binaenNa patau jolma i,
+marsaor tu Tuhan Debatanta i

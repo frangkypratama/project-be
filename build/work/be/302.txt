@@ -1,0 +1,45 @@
+@be 302
+@bl 71
+@title Binsar ma manogot on
+@key Eb
+@meter 4/4
+@credit Joham Rudolph Ahie 1662
+@pages 280 281
+@status Lirik dicek · 18/18 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — semua baris sama. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 302) | https://bukuende.wordpress.com/2013/06/09/binsar-ma-manogot-on-buku-ende-no-302-buku-logu-no-71/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Komponis tercetak "Joham Rudolph Ahie" (ejaan lazim: Johann Rudolph Ahle).
+@check Birama 1 "3 . 2̄1̄": titik hanya pemisah; balok = G4 1/4 lalu F4–Es4 1/8 legato.
+@check Lirik baris 1 tercetak "pa-nondang" & "baenon-Mi"; dipenggal pa-non-dang / bae-non-Mi agar sesuai jumlah not.
+#A
+3 (2+1) 5 6 | 4 .+3 3 . | 1' 7 6 7 |
+1' 7 6 . | 5 . . . :|
+> Bin-sar ma ma-no-got on, o pa-non-dang ni Ja-ho-wa
+> Sai son-da-ngi ha-mi on, a-sa ba-li si-an ro-ha
+#B
+5 5 6 5 | 4 3 2 . v | 3 . 2 . | 1 . . . |]
+> Sa-su-de na ho-lom i, bae-non-Mi.
+#V
+Binsar ma manogot on, o panondang ni Jahowa,
+Sai sondangi hami on, asa bali sian roha
+Sasude na holom i, baenonMi.
+-
+Doshon nambur ma basaM manonggopi rohanami.
+Asa asi ni rohaM, mamuati arsaknami;
+Sai apoi siseanMon, hami on.
+-
+Dohot holong ni rohaM manungguli tondinami
+Mangihuthon tu hataM lam holong ma rohanami
+Mida Ho dohot sude jolma pe.
+-
+Mudar parpadanan i, i ma hatigorannami,
+Asa roha dosa i pinabali sian hami.
+Jala dao na bernit pe sasude.
+-
+Sondang sian surgo i binsar tu tanomannami.
+Molo jumpang ariMi, asa hehe dagingnami,
+Masuk tu halasan ni roha i.
+-
+Jesus, Ho panondang i, sai patiur langkanami
+Sian partangisan i tu silas ni rohanami,
+Jambar na manongtong di surgo i.

@@ -1,0 +1,41 @@
+@be 598
+@bl 0
+@title Bege ende ni suruan
+@key F
+@meter 4/4
+@credit Syair: Hark! the herald Angels sing; Charles Waley, 1739; Terj.: Pdt. J. A. U. Dolokasaribu; Lagu: Felix Mendelssohn Bartholdy, 1840, Arr. by William H. Cummings, 1856
+@pages 587 588
+@status Lirik dicek · 10/14 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di "Sipalua", "Ende ni suruan", "Immanueal", "gi Tuhan 1" (salah cetak buku); ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 598) | https://bukuende.wordpress.com/2013/06/09/bege-ende-ni-suruan-buku-ende-no-598-buku-logu-no-598/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian (Natal): tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Luk 2:13.
+@check Kredit tercetak "Charles Waley", "Dolokasaribu" (lazim: Charles Wesley, Doloksaribu); ayat 2 "Immanueal", "sangap ma gi Tuhan 1." — ditulis apa adanya.
+@check Ketukan gantung tercetak 2 ketuk ("5̣ 1 |") dan birama akhir 3 ketuk ("1 . ."); ditulis apa adanya.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+#A
+5, 1 | 1 .+7, 1 3 | 3 2 5 5 | 5 .+4 3 2 |
+3 . 5, 1 | 1 .+7, 1 3 | 3 2 5 2 |
+2 .+7, 7, 6, | 5, . 5 5 | 5 1 4 3 |
+3 2 5 5 | 5 1 4 3 | 3 2 6 6 |
+6 5 4 3 | 4 . 2 (3+4) | 5 .+1 1 2 |
+3 . 6 .+6 | 6 5 4 3 |
+4 . 2 (3+4) | 5 .+1 1 2 | 1 . . |]
+> Be-ge en-de ni su-ru-an, sa-ngap ma di Tu-han i, nu-nga tu-bu Si-pa-lu-a Ra-ja Si-par-da-me i, di-pa-da-me De-ba-tan-ta do di-ri-Na tu par-do-sa nu-nga tu-bu Kris-tus i di hu-ta Bet-le-hem i. En-de ni su-ru-an i, sa-ngap ma di Tu-han i.
+#V
+Bege ende ni suruan, sangap ma di Tuhan i,
+nunga tubu Sipalua Raja Sipardame i,
+dipadame Debatanta do diriNa tu pardosa
+nunga tubu Kristus i di huta Betlehem i.
+Ende ni suruan i, sangap ma di Tuhan i.
+-
+Kristus Raja sian surgo tuat tu portibion
+tubu sian si Maria lao manobus hita on
+Debata na so tarida gabe daging songon hita
+nunga raphon hita be Jesus i, Immanueal.
+Ende ni Suruan i, sangap ma gi Tuhan 1.
+-
+Jesus Raja Hadameon sondang hatigoran i
+panondang ni hangoluan disaluhut jolma i.
+Dirumari do diriNa lao manobus manisia
+asa unang mate be ala ni dosana be.
+Ende ni Suruan i, sangap ma di Tuhan i.

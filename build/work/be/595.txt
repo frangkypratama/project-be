@@ -1,0 +1,37 @@
+@be 595
+@bl 0
+@title Ai ise Poso-poso on
+@key G
+@meter 6/8
+@credit Syair: What Child is this; William C. Dix. 1837 - 1898; Terj.: Pdt. J. A. U. Doloksaribu; Lagu: 16th Century English Melody
+@pages 581 582
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: ayat 3 baris 1: buku memuat "be" di "ro be ma" (pembanding tanpa); ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 595) | https://bukuende.wordpress.com/2013/06/09/ai-ise-poso-poso-on-buku-ende-no-595-buku-logu-no-595/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian (Natal): tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Mat. 2:2. Lagu minor (la = 6, E minor) ditulis dengan tonika mayor relatif G; 5̸ / 4̸ (dicoret) = kres.
+@check Ketukan gantung "6̣" (bergaris atas) di not balok = 1/4 → ditulis 6, . (dua 1/8).
+@check Birama akhir "6̣ . . 6̣ ." = 5/8 (tercetak demikian di angka & balok).
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+#A
+6, . | 1 . 2 (3 .+4) 3 | 2 . 7, (5, .+6,) 7, |
+1 . 6, (6, .+#5,) 6, | 7, . . 3, . 6, | 1 . 2 (3 .+4) 3 |
+2 . 7, (5, .+6,) 7, | (1 .+7,) 6, (#5, .+#4,) #5, | 6, . . 6, . . |
+5 . . (5 .+4) 3 | 2 . 7, (5, .+6,) 7, | 1 . 6, (6, .+#5,) 6, |
+7, . 5, 3, . . | 5 . . (5 .+4) 3 | 2 . 7, (5, .+6,) 7, |
+(1 .+7,) 6, (#5, .+#4,) #5, | 6, . . 6, . |]
+> Ai i-se Po-so-po-so i pe-ak di pang-ga-ga-tan? A-ha bi-na-ri-ta-hon ni su-ru-an tu par-ma-han? Kris-tus Tu-han-ta i Ra-ja na ba-ru so-rang i ta-som-ba Tu-han i A-nak ni De-ba-tan-ta
+#V
+Ai ise Poso-poso i peak di panggagatan?
+Aha binaritahon ni suruan tu parmahan?
+Kristus Tuhanta i Raja na baru sorang i
+tasomba Tuhan i Anak ni Debatanta
+-
+Boasa lea situtu parsorang ni Tuhanta?
+Dosanta do mambaen tutu sitaonon ni Tuhanta
+hau pinarsilang i siporsanonta i hian
+Kristus Tuhanta i tarsilang baen singkatta.
+-
+Na mora nang na pogos pe ro be ma tu joloNa
+taboan peleanta be tu Jesus i Rajanta
+marsurak-surak be mamuji Tuhan Debata
+marlas ni roha be marende tu Tuhanta.

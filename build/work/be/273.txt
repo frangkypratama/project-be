@@ -1,0 +1,46 @@
+@be 273
+@bl 240
+@title Jesus Tuhanku, rajai ma au.
+@key Bb
+@oct -1
+@meter 3/4
+@credit Frierich Silcher 1827
+@pages 252 253
+@check Buku mencetak "Logu No. 240a"; field @bl hanya angka, jadi ditulis 240.
+@check Not 5 = F4 (spasi pertama), 1' = Bes4, maka @oct -1.
+@check Baris 1 hlm 252 not angka tercetak "| 2̇ | 3̇ 3̇ | 1̇ 0 |" (garis birama bergeser); paranada & birama padanan di hlm 253 menunjukkan "2' .+3' 2' | 1' . 0".
+@check Komponis tercetak "Frierich Silcher" (lazim: Friedrich Silcher).
+@status Lirik dicek · 15/20 baris sama dgn pembanding
+@check Pembanding lirik: L5, L12, L14, L18, L20 beda ejaan satu kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 273) | https://bukuende.wordpress.com/2013/06/16/jesus-tuhanku-rajai-ma-au-buku-ende-no-273-buku-logu-no-240/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 .+6 5 | 5 1' 1' | 2' .+3' 2' | 1' . 0 |
+7 7 7 | 2' .+1' 7 | 6 .+7 6 | 5 . 0 | 5 .+6 5 |
+5 1' 1' | 2' .+3' 2' | 1' . 0 | 7 7 7 | 2' .+1' 7 |
+6 .+7 6 | 5 . 0 | 5 .+5 6 | 7 5 6 | 7 7 1' |
+2' . . | 1' 2' 3' | 4' .+3' 2' | 1' 2' 7 | 1' . 0 |]
+> Je-sus Tu-han-ku, ra-jai ma au on, a-sa ma-ngi-hut tu Ho au tong-tong. To-pot ro-hang-ku, i-nga-ni ma i, u-nang be ma-suk na a-sing tu-si. Je-sus, pa-so-nang ro-hang ku tong-tong, a-sa mar-gu-ru tu Ho au tong-tong.
+#V
+Jesus Tuhanku, rajai ma au on,
+asa mangihut tu Ho au tongtong.
+Topot rohangku, ingani ma i,
+unang be masuk na asing tusi.
+Jesus, pasonang rohang ku tongtong, asa marguru tu Ho au tongtong.
+-
+Tung na godang do pardangolanki,
+Tagan so Jesus dope tohaphi.
+Lan hasusaan tongtong ro tu au,
+Tong do sai asi rohaNa di au.
+Sai tong disesa dosangku sude hangoluanku Ibana muse.
+-
+Nang pe mangonggop sibolis di au,
+Jala magigi masungku di au,
+Ndada mabiar au, pos rohangki
+Pangondinganku, sai Jesus do i;
+Asal diida Immanuel i ingkon sumurut sude musu i.
+-
+Na marhaposan tu Jesus tahe,
+Sai na martua Ibana muse.
+Na marsibantung tu Jesus tutu
+Jala marroha na bonar, burju,
+Sonang Ibana di portibi on, sonang nang sogot di surgo tongon.

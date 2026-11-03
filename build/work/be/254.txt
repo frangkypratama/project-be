@@ -1,0 +1,59 @@
+@be 254
+@bl 124
+@title Di na ponjot rohangku
+@key F
+@meter 4/4
+@credit Chorel Buch 142, Johann Hermann Schein, 1628
+@pages 233 234
+@status Lirik dicek · 25/28 baris sama dgn pembanding
+@check Pembanding lirik: beda: "parasi" (ayat 1, di bawah not "par-a-si-ro-ha i"), "parjahat" (ayat 2), dan pembanding punya kata tambahan pada "Tangihon hatangki!" (ayat 2); dicek ulang ke scan: tercetak demikian di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 254) | https://bukuende.wordpress.com/2013/06/16/o-jesus-sipangolu-buku-ende-no-254-buku-logu-no-124/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Judul di kepala lagu "Di na ponjot rohangku" berbeda dengan baris pertama lirik ("O Jesus, Sipangolu").
+@check Kredit dicetak "Chorel Buch" (lazim: Choral Buch).
+@check Baris 3 not angka "7̣ . 6̣ ’" tanpa titik setelah 6; not balok: E4 1/2 + D4 1/2 → ditulis 7, . 6, . (sama dengan baris 1).
+@check Birama akhir dicetak "1 . ." (3 ketuk), not balok menunjukkan not 1/2; ditulis sesuai not angka.
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+1 . | 1 3 2 1 | 7, . 6, . v | 3 . 4 2 |
+3 . 2 . | 1 . :|
+> O Je-sus, Si-pa-ngo-lu, par-a-si-ro-ha i,
+> Sai lo-as au ma-ngo-lu, pa-las ma ro-hang-ki,
+#B
+1 . | 3 3 4 4 | 5 . 2 . v | 5 . 3 . |
+1 2 . 1 | 7, . 6, . v | 3 . 4 2 | 3 . 2 . | 1 . . |]
+> Pa-si-har ma bo-hing-ku, pa-ngo-lu ma ton-ding-ku, ta-ngi-hon ha-tang-ki.
+#V
+O Jesus, Sipangolu, parasi roha i,
+Sai loas au mangolu, palas ma rohangki,
+Pasihar ma bohingku, pangolu ma tondingku,
+Tangihon hatangki.
+-
+Sai sesa ma dosangku huhut padao ma i,
+Paombun ma rimasMu di au, parjahat i,
+Gok dame baen rohangku o Tuhan, Debatangku,
+Tangihon hatangki!
+-
+Pabali sian ahu sude na roa i,
+Na mangingani ahu, mangago tondingki
+Ho naeng ihuthononku Ho naeng pasangaponku,
+O Jesus, Tuhanki!
+-
+Patiur ma rohangku marhite tondiMi.
+Ai naeng do antusanku hataM na denggan i.
+Naeng haporseaonku tongtong hasintonganMu,
+Padaohon jea i.
+-
+Pagorgor di rohangku ma holong ni rohaM,
+Ai naeng haholonganku do Ho ro di hataM,
+Sai naeng pasauthononku do lomo ni rohaMu,
+Dibaen denggan basaM.
+-
+Antong, sai pargogoi ma au on na bojok i,
+Ai ingkon dipatupa tondiM do i sude;
+Tung aha ma gogongku lao mangoloi patikMu?
+Di au soada be.
+-
+Dibahen i Tuhanku, asi ma rohaMi,
+Pauba ma rohangku sai pargogoi ma i.
+Tongtong ingani ahu huhut sai togu ahu,
+Tu dalan na ture.

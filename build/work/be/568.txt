@@ -1,0 +1,41 @@
+@be 568
+@bl 0
+@title Nasa soara ingkon do (1)
+@key Ab
+@meter 6/4
+@credit Syair: O for a thousand tongues to sing: Charles Wesley, 1738; Terj.: Pdt. J. A. U. Doloksaribu; Lagu: Carl Gotthelf Glaser, 1790
+@pages 537 538
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Psalm 35:28.
+@check Buku memuat DUA melodi bernomor 568a "Nasa soara ingkon do (1)" (hlm 537, Glaser) dan 568b "Nasa soara ingkon do (2)" (hlm 538–539, Lagu: T. Jarman) dengan ayat 2–6 yang sama. File ini memuat 568a. 568b TIDAK LENGKAP di PDF: hlm PDF 538 (cetak 542) hanya memuat 3 baris awal not 568b, lalu hlm PDF 539 (cetak 544) langsung ayat 6 + kredit; halaman cetak 543 (sisa not & ayat 2–5 versi 568b) tidak ada di PDF. Bagian 568b yang tercetak ada di BE 568b.
+@check Tanda birama tercetak 3/2; angka dihitung per 1/4 (6 ketuk per birama) → ditulis 6/4.
+@check "A-men" tercetak dua not 1 (masing-masing 6 ketuk) dengan lengkung; karena dua suku kata, ditulis dua not terpisah.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: dibandingkan dgn 568a; baris 1 ("Na sa"/"Nasa") dan 3 (manghantindangkon) beda ejaan. Pembanding juga punya halaman 568b.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 568) | https://bukuende.wordpress.com/2013/06/16/nasa-soara-ingkon-do-1-buku-ende-no-568a-buku-logu-no-568a/ | teks lirik
+#A
+5, . | 1 1 2 . 2 . | 3 2 1 . 2 . | 3 3 4 . 3 . |
+2 . . . 5 . | 5 3 3 . 1 . | 1 6, 6, . (1 6,) |
+5, 1 1 . 2 . | 1 . . . |
+> Na sa so-a-ra ing-kon do ma-mu-ji Tu-han-ki. mar-ha-to-pot-hon go-go-Mi, ma-ren-de na u-li.
+#B
+1 . . . . . | 1 . . . . . |]
+> A-men.
+#V
+Na sa soara ingkon do mamuji Tuhanki.
+marhatopothon gogoMi, marende na uli.
+-
+Sai pargogoi au Tuhanki manghantindangkon Ho,
+mamaritahon sangapMi, tu liat tano on.
+-
+O Jesuski Parholong i apuli rohangki.
+Ho ma mandaoni sahithi, hisar ma tondingki.
+-
+Huaso ni sibolis i tunduk dibahen Ho.
+ai tung rara pe dosangki, ias do dibaen Ho,
+-
+Tangihon ma hataNa i na pangoluhon i.
+mambaen mardame rohami, haporseai ma i.
+-
+Na nengel boi marbinege, malum na pangpang i.
+mangolu do naung mate i, binaen ni Jesus i.

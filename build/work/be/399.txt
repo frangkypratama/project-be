@@ -1,0 +1,36 @@
+@be 399
+@bl 266
+@title Unang tarlalap di hata
+@key Eb
+@meter 4/4
+@credit John R. Sweney 1899
+@pages 382 383
+@check Kepala lagu juga mencetak "Z. No. 588".
+@check Bentuk D.C. al fine: "fine" di akhir bagian A (baris 2), "DC" di akhir bagian B. Situs belum bisa memutar ulang otomatis; nyanyikan lagi bagian A setelah B (ayat 2 di buku menulis kedua baris itu lagi).
+@check "3.2", "3.4", "2.3", "5.6", "6.6", "7.6", "6.5", "5.4" bergaris atas tunggal+ganda = 1/8 bertitik + 1/16. "4*" = 4 kres (paranada: A pugar); birama akhir B "5 . 4" = Bes 1/2 dilegato ke As (bertanda mol).
+@check Birama "5 3 . 0" (baris 1) ditulis "5 . 3 0" (paranada: Bes 1/2, G 1/4, istirahat).
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L1 kata 7 ("jambarmi") dan L3 kata 1 ("Ipe"); 8 baris unik dibandingkan (baris ulangan D.C. tidak dihitung).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 399) | https://bukuende.wordpress.com/2013/06/18/unang-tarlalap-di-hata-buku-ende-no-399-buku-logu-no-266/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 3+.+.+2 1 3+.+.+4 | 5 . 3 0 | 5 2+.+.+3 4 3+.+.+2 |
+3 . . v 0 | 3 3+.+.+3 4 5+.+.+6 | 5 . 3 v 0 | 5 2+.+.+3 4 3+.+.+2 | 1 . v 0 |
+> U-nang tar-la-lap di ha-ta, tu-lus si-gop jam-bar-mi. Ndang da-pot ho ha-so-na-ngan. Mo-lo go-dang sa-bat-mi.
+#B
+6 6+.+.+6 1' 7+.+.+6 | 6 . 5 v 0 | 5 6+.+.+5 4 5+.+.+4 | 3 . . v 0 |
+6 6+.+.+6 1' 7+.+.+6 | 6 . 5 v 0 | 5 2+.+.+7 (7+6) 5+.+.+#4 | (5 . 4) |]
+> I-pe tos-tos i lu-hut-na, na mang-gu-gai ro-ha-mi. Ar-ta na go-dang, nang sang-ap, Sa-bat na jor-but do i.
+#V
+Unang tarlalap di hata, tulus sigop jambarmi.
+Ndang dapot ho hasonangan, molo godang sabatmi.
+Ipe tostos i luhutna, na manggugai rohami.
+Arta na godang, nang sangap, Sabat na jorbut do i.
+Unang tarlalap di hata, tulus sigop jambarmi.
+Ndang dapot ho hasonangan, molo godang sabatmi.
+-
+Unang lilian di dalan, tuju tongtong surgo i,
+Ai naung rade do inganan dibaen Tuhanta disi.
+Unang bonsa rohamuna, pos rohamu lao tusi,
+Ai toguonKu hamuna tu lambung ni Ama i.
+Unang lilian di dalan, tuju tongtong surgo i,
+Ai naung rade do inganan, dibaen Tuhanta disi.

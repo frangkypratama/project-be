@@ -1,0 +1,37 @@
+@be 646
+@bl 0
+@title Sai gohi roha tondingki (2)
+@key D
+@meter 4/4
+@credit Syair: Fill thou my life, O Lord my God; Horatius Bonar, 1866 · Terj.: Biv. M. H. Sitorus · Lagu: Henry John Gountlet, 1805 - 1876
+@pages 663
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Syair sama dengan BE 645, tetapi ejaan ayat berbeda di buku: "pamanganhim" (ay. 2), "saluhutma" (ay. 4), "pamatanghon" (ay. 5), "parbadia i ma i" (ay. 6) — ditulis apa adanya (BE 645: pamanganhi, saluhutna, pamatangkon, parbadiai).
+@check Kredit tercetak "Henry John Gountlet" (lazim: Henry John Gauntlett) — ditulis apa adanya.
+@check Baris 2 "5 6 5 1": ada titik kecil di kanan atas angka 5 ketiga; balok = A4 (oktaf sama) → ditulis 5.
+@status Lirik dicek · 6/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 3, 7, 9, 10, 11 beda ejaan — tepat pada ejaan khas buku (pamanganhim, saluhutma, pamatanghon, alai, parbadia i); dicek ke scan hlm 663: sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 646) | https://bukuende.wordpress.com/2013/06/18/sai-gohi-roha-tondingki-2-buku-ende-no-646-buku-logu-no-646/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5 | 5 1 2 6 | 5 4 3 5 | 3 5 6 1' |
+7 . . 1' | 5 6 5 1 | 4 4 3 3 |
+2 3 4 2 | 1 . . . |]
+> Sai go-hi ro-ha ton-ding-ki mar-hi-te Ton-di-Mi, a-sa mar-hi-te di-ring-ki pa-tar Ho Tu-han-ki.
+#V
+Sai gohi roha tondingki marhite TondiMi,
+asa marhite diringki patar Ho Tuhanki.
+-
+Unang holan pamanganhim dohot ma rohangki
+jala sude ma ngolungki mamuji Ho ma i.
+-
+Sude ma pangalahongki ro di ulaonki
+nang hata nang pingkiranki, pasangap Ho ma i.
+-
+Nang saluhutma ngolungki tongtong mamuji Ho
+anggiat dohot diringkon lao papatarhon Ho.
+-
+Nang pe gok dosa rohangkon, gale pamatanghon
+alai nuaeng hupuji Ho, sai jangkon ma au on.
+-
+Antong sude ma ngolungki, parbadia i ma i
+dongani au o Tuhanki, ro di ujungna i.

@@ -1,0 +1,45 @@
+@be 18
+@bl 84
+@title Ungkap bahal na umuli
+@key C
+@meter 4/4
+@credit Joachim Neander, 1680
+@pages 16 17
+@check Birama 1 dicetak "1 2̄ 3 1" tanpa titik; not balok buku menunjukkan 1 sebagai not bertitik agar genap 4 ketuk.
+@status Lirik dicek · 15/18 baris sama dgn pembanding · melodi cocok Hymnary
+@check Pembanding lirik: bukuende.wordpress.com — 15 dari 18 baris sama persis; 3 baris beda ejaan/pemisahan (“inganan Mu”, “dumenggan”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 18) | https://bukuende.wordpress.com/2013/06/18/ungkap-bahal-na-ummuli-buku-ende-no-18-buku-logu-no-84/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Pembanding melodi: 15 not pembuka (12313 45517 65322) sama persis dengan incipit tune UNSER HERRSCHER (Neander) di Hymnary.org.
+@ref Melodi pembanding: Hymnary.org — UNSER HERRSCHER (Neander) | https://hymnary.org/hymn/CCEH/17 | Incipit 12313 45517 65322 (derajat nada) cocok dengan not angka di sini.
+#A
+1 .+2 3 1 | 3 4 5 5 v | 1' (7+6) 5 3' | 2' 2' 1' . :|
+> Ung-kap ba-hal na u-mu-li ba-gas ni De-ba-tang-ki;
+> Ai tu-si do au naeng mu-li ga-nup jum-pang Ming-gu i.
+#B
+3' .+3' 2' 2' | 1' 1' 7 . v |
+6 .+6 5 1' | 2' 7 1' . |]
+> Hu-lu-lu-i do di-si bo-hi ni De-ba-tang-ki
+#V
+Ungkap bahal na umuli bagas ni Debatangki;
+Ai tusi do au naeng muli ganup jumpang Minggu i.
+Hulului do disi bohi ni Debatangki
+-
+Nunga ro au, o Tuhanku, ro ma Ho tu au muse,
+Ai di bagas inganan Mu las ni roha do sude;
+Sai bongoti rohangkon baen ma joromi dison.
+-
+Sai pantun pangalahongku maradophon bohiMi;
+Sai suruhon tu rohangku Tondi Parbadia i,
+Asa sai tongtong ture tangiangku, ende pe.
+-
+Doshon hauma na dumenggan ma rohangku di joloM.
+Sai lopokkon ma na denggan tu bagasan rohangkon.
+Sai tumpahi hataMi asa marparbue i.
+-
+Baen togu haporseaon dibagasan rohangki,
+Asa unang be rampason ni sibolis artangki.
+Sai ditogu hataMi ma au on tu surgo i.
+-
+Pangkulingi au, Tuhanku, asa hutangihon Ho;
+Patandahon tu rohangku na tau pasangaphon Ho.
+Sai pabosur tondingki dohot asiasiMi!

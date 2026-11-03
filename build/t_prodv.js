@@ -1,0 +1,13 @@
+const { chromium } = require('playwright'); const fs=require('fs'); const http=require('http'); const path=require('path');
+const root=path.join(__dirname,'..','site-prod'); const PORT=8797;
+const srv=http.createServer((q,r)=>{let f=path.join(root,decodeURIComponent(q.url.split('?')[0]));if(f.endsWith('/'))f+='index.html';
+  fs.readFile(f,(e,d)=>{if(e){r.writeHead(404);r.end();return;}const h=f.endsWith('.html');r.writeHead(200,{'content-type':h?'text/html':'application/json'});
+    r.end(h?'<!doctype html><html><head><meta charset=utf-8><meta name=viewport content="width=device-width,initial-scale=1"></head><body>'+d+'</body></html>':d);});}).listen(PORT);
+(async()=>{const b=await chromium.launch();const p=await (await b.newContext({viewport:{width:390,height:844}})).newPage();const errs=[];p.on('pageerror',e=>errs.push(e.message));
+ await p.route('**/*',r=>{const u=r.request().url();if(u.includes('abcjs'))return r.fulfill({body:fs.readFileSync(path.join(__dirname,'node_modules/abcjs/dist/abcjs-basic-min.js')),contentType:'application/javascript'});
+   if(u.startsWith('http://localhost:'+PORT))return r.continue();return r.abort();});
+ await p.goto(`http://localhost:${PORT}/#be-550`);await p.waitForTimeout(1300);
+ await p.click('.vchips button[data-k="1"]');await p.waitForTimeout(300);
+ console.log(await p.evaluate(()=>({tag:document.querySelector('.vtag').textContent,syl:[...document.querySelectorAll('#angka .syl')].map(x=>x.textContent).filter(Boolean).slice(0,5).join('|'),status:(document.querySelector('.status,details.notes')||{}).outerHTML?.slice(0,200)||'tidak ada',overflow:document.documentElement.scrollWidth>innerWidth,pager:!!document.querySelector('.pager')})));
+ await p.screenshot({path:'prod-verse.png',fullPage:true});
+ console.log('errs',errs);await b.close();srv.close();})();

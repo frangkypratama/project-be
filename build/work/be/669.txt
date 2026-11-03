@@ -1,0 +1,47 @@
+@be 669
+@bl 0
+@title Ringgas au paboahon
+@key Ab
+@meter 4/4
+@credit Syair: I Love to tell the Story; A. Catherine Hankey, 1866 · Terj.: Dsc. Bonaria Hutabarat/Pdt. MV. Simanjuntak · Lagu: William G. Fisher, 1869
+@pages 690 691 692
+@status Lirik dicek · 15/18 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 1 & 3 (ejaan), baris 17 kata pertama (scan ayat 4 jelas "barita haholongon"). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 669" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 669) | https://bukuende.wordpress.com/2013/06/16/ringgas-au-paboahon-buku-ende-no-669-buku-logu-no-669/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0).
+@check Lengkung di bawah "au", "ai", "nii" = satu suku kata; lengkung not "3 .2", "2 1", "1 3", "3 2" = satu suku kata dua not. "1̸" = kres (A♮ di balok).
+@check "tudos nii" ditulis seperti tercetak.
+#A
+5, | 1 .+5, 5, 1 | (3 .+2) 1 1 | 1 .+6, (2+1) 6, |
+5, . . 5, | 2 .+#1 2 3 | 2 1 . (1+3) | 5 .+3 (3+2) 1 |
+2 . . 2 | 2 .+3 4 4 | 4 3 . 3 |
+3 .+2 1 (2+1) | 7, . . 7, | 6, .+7, 1 6, |
+6, 5, . 1 | 2 .+1 3 .+2 | 1 . . |
+> Ring-gas au pa-bo-a-hon, Ba-ri-ta na u-li, ba-ri-ta ha-ho-lo-ngon ni Je-sus Tu-han-ki, ring-gas au pa-bo-a-hon ai na sin-tong do i mam-bu-at na-sa hol-so so-a-da tu-dos nii.
+#B
+5, | 5, .+7, 2 .+3 | 2 1 . 1 |
+1 .+4 4 4 | 4 3 . 3 | 5 .+3 (3+2) 1 |
+2 1 . 6, | 5, 1 2 .+1 | 1 . . 0 |]
+> Ring-gas au pa-bo-a-hon, ba-ri-ta na um-u-li, ba-ri-ta ha-ho-lo-ngon ni Je-sus Tu-han-ki.
+#V
+Ringgas au paboahon, Barita na uli, barita haholongon ni Jesus Tuhanki,
+ringgas au paboahon ai na sintong do i mambuat nasa holso soada tudos nii.
+Ref. : Ringgas au paboahon, barita na umuli, barita haholongon ni Jesus Tuhanki.
+-
+Ringgas au paboahon, Barita na uli,
+ai tung so tarpatudos tu na di tano i,
+ringgas au paboahon tu sude donganki,
+ai tung marhite i do malua tondingki.
+Ref. : Ringgas au paboahon . . .
+-
+Ringgas au paboahon, Barita na uli,
+ai lam binaritahon, lam ganda tonggi ni,
+ringgas au paboahon, hata na sintong i,
+tu na dihaholomon, asa malua i.
+Ref. : Ringgas au paboahon . . .
+-
+Ringgas au paboahon, Barita na uli,
+ai angka naung manjalo, uasan do disi,
+dungi di surgo sogot endehononku i,
+barita haholongon, ni Jesus Tuhanki.
+Ref : Ringgas au paboahon . . .

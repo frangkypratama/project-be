@@ -1,0 +1,55 @@
+@be 787
+@bl 0
+@title Ingkon monang hita
+@key C
+@meter 4/4
+@credit Syair dan lagu: We shall over come, Zilphia Horton, Frank Hamilton, Guy Carawan, Pete Seeger · Terj.: Pdt. J. A. U. Doloksaribu
+@pages 861 862
+@status Lirik dicek · 12/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (kata 6 hita), 3 (Na porsea), 11 (masitangiagan, salah cetak buku), 16 (dame) beda; scan hlm 861–862 dicek, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 787) | https://bukuende.wordpress.com/2013/06/16/ingkon-monang-hita-buku-ende-no-787-buku-logu-no-787/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanda birama tercetak 2/2 (alla breve); angka ditulis per ketukan 1/4 (4 ketuk per birama) → ditulis 4/4.
+@check Tanpa tanda mula (C mayor), not pertama 5 = G4 → 1 = C.
+@check Birama "7 . . 6 7 6" (u-jung-): angka = Si 1/2 lalu ". 6" dan "7 6" bergaris atas; balok = B4 1/2 lalu B4–A4, B4–A4 (1/8) di bawah satu legato. Ditulis mengikuti angka (.+6 7+6).
+@check Refrein "5 5 1 4" (ing-kon mo-nang): not pertama di balok tampak A4 (= 6), angka 5. Ditulis mengikuti angka.
+@check Ayat 1 disusun dari suku kata di bawah not; bait penutup "Dame ma di hita …" tercetak tanpa nomor setelah ayat 6, ditulis sebagai bait terakhir.
+#A
+5 5 6 6 | (5 .+4) 3 . :|
+> Ing-kon mo-nang hi-ta,
+> ing-kon mo-nang hi-ta,
+#B
+5 5 6 7 | 1' . 2' . | (7 . .+6 7+6) | 5 . |]
+> ing-kon mo-nang di u-jung-na.
+#C
+6 7 | 1' . 7 6 | 5 . . . | 6 . 5 4 | 3 . . . |
+5 5 1 4 | (3 . 2 .) | 1 . . . |]
+> Na por-se-a do au di De-ba-ta, ing-kon mo-nang hi-ta.
+#V
+Ingkon monang hita, ingkon monang hita,
+ingkon monang di ujungna.
+Ref.: Na porsea do au di Debata, ingkon monang hita.
+-
+Ala hatigoran, ala hatigoran,
+hita monang diujung na
+Ref. : Na porsea do . . .
+-
+Kristus do donganta, Kristus do donganta
+Kristus do pamonang hita.
+Ref. : Na porsea do . . .
+-
+Rap masihaposan, rap masihaposan
+rap masihaposan hita.
+Ref. : Na porsea do . . .
+-
+Masitangiangan, masitangiangan
+masitangiagan hita,
+Ref. : Na porsea do . . .
+-
+Rap masiurupan, rap masiurupan
+rap masiurupan hita.
+Ref. : Na porsea do . . .
+-
+Dame ma di hita, dame ma di hita
+dame ma tongtong di hita.
+Naporsea do au di Debata, ingkon dame hita.

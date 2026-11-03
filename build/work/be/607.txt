@@ -1,0 +1,30 @@
+@be 607
+@bl 0
+@title Nunga tubu Kristus i
+@key F
+@meter 4/4
+@credit Syair dan Lagu: Come and praise, Traditional Amerika · Terj.: Biv. M. H. Sitorus
+@pages 602
+@status Lirik dicek · 5/6 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda hanya karena letak "Gabe" (di buku pada volta 1 baris pertama); kata-kata sama. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 607) | https://bukuende.wordpress.com/2013/06/16/nunga-tubu-kristus-i-buku-ende-no-607-buku-logu-no-607/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 607".
+@check Buku memakai tanda ulang |: :| dengan volta 1 ("1 . 1 3", ya. Ga be) dan volta 2 ("1 . . . | 1 ." tersambung legato). Di sini ulangan ditulis lengkap berurutan (bagian ulang → volta 1 → bagian ulang → volta 2) supaya not dan lirik tampil/berbunyi benar; not sama dengan buku.
+@check Lirik di bawah not tercetak "Nunga tubu Kristus, i Haleluya" (koma sebelum "i"); ditulis apa adanya di baris lirik.
+#A
+1 3 |
+5 .+3 5 6 | 5 . 3 5 | 6 . . . |
+5 . 3 5 | 5 .+3 4 3 | 2 . 1 2 | (3 . 2 .) |
+1 . 1 3 |
+5 .+3 5 6 | 5 . 3 5 | 6 . . . |
+5 . 3 5 | 5 .+3 4 3 | 2 . 1 2 | (3 . 2 .) |
+(1 . . . | 1 .) |]
+> Nu-nga tu-bu Kris-tus, i Ha-le-lu-ya, di hu-ta Bet-le-hem i Ha-le-lu-ya. Ga-be da-ging Ha-ta i Ha-le-lu-ya, di mu-la ni na-tal i Ha-le-lu-ya.
+#V
+Nunga tubu Kristus, i Haleluya, di huta Betlehem i Haleluya.
+Gabe daging Hata i Haleluya, di mula ni natal i Haleluya.
+-
+Narade tarsilang i Haleluya,
+dipartangkurahan i Haleluya.
+Mangoloi Amana i Haleluya
+lao manghophop jolma i Haleluya

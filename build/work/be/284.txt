@@ -1,0 +1,56 @@
+@be 284
+@bl 204
+@title Sonang do rohangku
+@key Bb
+@oct -1
+@meter 4/4
+@credit Lagu: Johann Cruger 1653
+@pages 264 265
+@status Lirik dicek · 16/23 baris sama dgn pembanding
+@check Pembanding lirik: baris 2,4,8,10,14,17,23 beda ejaan (baris 23 "dohaNa" beda kata); dicek ulang di scan hlm 264–265, buku ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 284) | https://bukuende.wordpress.com/2013/06/18/sonang-do-rohangku-buku-ende-no-284-buku-logu-no-204/ | 16/23 baris sama
+@check Birama 2 "3 . 2 v" hanya 3 ketuk (angka & balok sama: D½ + C¼) — ditulis apa adanya; agar validator menerima, bagian #A dipisah setelah birama 2 (pengulangan :| tetap mencakup #A+#B).
+@check Birama 4 angka tertulis "2̇ . i*" (3 ketuk) tetapi balok dua not ½ (C, B♮) → ditulis 2' . #1' . (ikut balok).
+@check 7* di bagian akhir: balok bertanda mol (A♭) → ditulis b7; i* = B♮ → #1'.
+#A
+6 6 5 4 | 3 . 2 v |
+> So-nang do ro-hang-ku
+> Sai hu-ha-deng-gan-hom
+#B
+6 7 1' 6 | 2' . #1' . |
+2' 4' 3' 3' | 2' . . :|
+> mi-da De-ba-tang-ku, Si-pa-ngo-lu i;
+> na-sa na ni-le-hon Ni De-ba-tang-ki,
+#C
+6 6 b7 6 | 5 5 4 . |
+6 7 1' 6 | 2' 1' 7 . | 6 . v 4 6 | 5 4 3 . | 2 . . |]
+> A-sal lao tu sur-go au, Ja-la Je-sus di lam-bung-ku, Sa-bam ma ro-hang-ku
+#V
+Sonang do rohangku mida Debatangku, Sipangolu i;
+Sai huhadengganhom nasa na nilehon Ni Debatangki,
+Asal lao tu surgo au, Jala Jesus di lambungku, Sabam ma rohangku
+-
+Lohot do tondingku di Ho,Debatangku,
+Naeng tongtong di Ho, sai huhagigihon
+Na tau manirangkon ahu sian Ho.
+Arta ni portibi i, lan do halak dilohoti, i ndang huringkoti.
+-
+Sada, holan sada do hasudunganna, ninna tondingki.
+I ma Jesus, Tuhan, na tongtong haposan, i ma jambarhi.
+Holan i do sangkaphi. Di Ibana ma rohangku,
+Nang sude artangku.
+-
+Timbang ma basaNa, asi ni rohaNa, hangoluanmi.
+I ma haposanmu asa tandaonmu hasonangan ni
+Tondi ni na hohom i maradophon Debatana
+Na nioloanna.
+-
+Sahat tu Tuhanku hansit ni rohangku
+Sai tongtong hubaen, ai pangkirimanku do hagogoonku,
+Uju au mangae, benget ni rohana i.
+Do niingot ni rohangku asa lao arsakku.
+-
+Nasa na maporus tu Tuhanta Jesus do marnida on;
+Moru sitaononna do dibaen Tuhanta,
+Lam manaek tongtong denggan ni turpukna i,
+Asal ma benget dohaNa, paima ro tingkina.

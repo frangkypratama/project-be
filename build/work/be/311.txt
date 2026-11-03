@@ -1,0 +1,27 @@
+@be 311
+@bl 190
+@title Sai palinggas ho.
+@key Eb
+@meter 4/4
+@credit Johann Franck 1649
+@pages 289 290
+@status Lirik dicek · 3/4 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 1 beda ejaan ("parmudu mudu" vs "parmudumudu"; buku memenggal par-mu-du / mu-du). Baris 3 semula "hangolu andi" — diperbaiki jadi "hangoluan di" setelah dicek ulang ke scan hlm 290, kini sama. Pembanding juga hanya 1 ayat. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 311) | https://bukuende.wordpress.com/2013/06/18/sai-parmudumudu-hami-buku-ende-no-311-buku-logu-no-190/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Judul Logu "Sai palinggas ho."; baris pertama lirik "Sai parmudu mudu hami".
+@check Hanya satu ayat tercetak (lirik di bawah not); tidak ada ayat 2 dst.
+@check Lirik tercetak "si - pa-nga non," dipenggal si-pa-nga-non.
+#A
+3 2 1 2 | 3 5 4 . | 3 . v 5 3 | 4 3 1 3 | 2 . 1 . :|
+> Sai par-mu-du mu-du ha-mi: Sai a-pu-li ro-ha-na-mi
+> Pa-su-pa-su si-pa-nga-non, a-sa ga-be ha-to-gu-on,
+#B
+5 5 1' 7 | 6 7 6 . |
+5 . v 5 5 | 1' 7 6 7 | 6 . 5 . v | 2 3 4 4 |
+3 3 2 2 v | 5 3 4 3 | 1 3 2 . | 1 . . . |]
+> Ja-la ga-be ha-ngo-lu-an di pa-ma-tang ha-ga-le-on, pai-ma so-got sa-hat ha-mi tu lam-bung-Mu, A-ma-na-mi
+#V
+Sai parmudu mudu hami: Sai apuli rohanami
+Pasupasu sipanganon, asa gabe hatoguon,
+Jala gabe hangoluan di pamatang hagaleon,
+Paima sogot sahat hami tu lambungMu, Amanami

@@ -1,0 +1,62 @@
+@be 39
+@bl 156
+@title Beha ma panjalongku
+@key C
+@meter 4/4
+@credit Melchior Teschner, 1613
+@pages 32 33
+@check Akhir bagian ulang tercetak "1 . ." tanpa titik oktaf; di paranada jelas C atas, jadi ditulis 1'.
+@check Birama "5 . 5" (akhir frasa "na bodo") hanya 3 ketuk seperti di buku (frasa baru mulai dengan ketukan gantung); di situs ditampilkan sebagai bagian B/C.
+@status Lirik dicek · 21/32 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 21 dari 32 baris sama persis; 11 baris beda, kebanyakan ejaan (a.l. “Laos sungon”, “tarhurung ahu”, ayat 7 “mangalo sasude”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 39) | https://bukuende.wordpress.com/2013/06/09/beha-ma-panjalongku-buku-ende-no-39-buku-logu-no-156/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 5 5 6 7 | 1' . 1' v 3' | 2' 1' 6 7 | 1' . . :|
+> Be-ha ma pan-ja-long-ku di Ho, o Tu-han-ki?
+> Be-ha ma pa-no-mung-ku di Ho, o Ra-jang-ki?
+#B
+1' | 3' 3' 2' 1' | 2' . 7 v 5 | 1' 7 6 6 | 5 . v |
+> Son-da-ngi ma ro-hang-ku na ho-lom, na bo-do,
+#C
+5 | 3 5 6 5 | 5 3 . 5 | 6 1' 1' 7 | 1' . . |]
+> ai naeng pa-tu-pa-on-ku las ni ro-haM di Ho.
+#V
+Beha ma panjalongku di Ho, o Tuhanki?
+Beha ma panomungku di Ho, o Rajangki?
+Sondangi ma rohangku na holom, na bodo,
+Ai naeng patupaonku las ni rohaM di Ho.
+-
+Pangisi ni SionMu do mangolophon Ho,
+Laos sungon i rohangku lao madapothon Ho
+Na ringgas do rohangku mamuji goarMi,
+Na daulat do sangkaphu patulus rohaMi.
+-
+Ai ndang adong na hurang na pinatupaMon.
+Mambaen tu au sumuang, dame ni rohangkon
+Ai di na marsak abu binaen ni dosa i.
+Ro Ho, ale Pangolu, mandaoni sahiti.
+-
+Tung aha ma alana umbaen ringkot roham
+Tumopot manisia, nda holong ni rohaM?
+Nda asi ni rohaMu di na tarsosak i?
+Ai naeng pangoluonMu sude naung mago i.
+-
+Di na tarihot ahu, ro Ho mananggal au;
+Di na tarhurung ahu, Ho paluahon au,
+Ho do na pasangaphon na lea on hian;
+Ho do na parmorahon na pogos on hian.
+-
+Hamu, na holso roha binaen ni dosa i,
+Tangihon boaboa bu sian surgo i;
+Naung ro do Sipalua disuru Ama i,
+Pasonang rohamuna mamboan dame i,
+-
+Ndang be habiaranmu sude pangago i,
+Ai nunga ro Rajamu mangalo sasude.
+Maporus do luhutna dibaen Rajanta i;
+Rendep do sasudena di adopanNa i.
+-
+Ro do ibana sogot di ari uhum i;
+Ingkon disi tarsonggot parbadosa na tois i.
+Alai na holong roha, marlas ni roha do,
+Disi ma dohononna: Pinuji Ho na ro!

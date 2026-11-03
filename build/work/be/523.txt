@@ -1,0 +1,41 @@
+@be 523
+@bl 407
+@title Songgop tu hami
+@key G
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 494 495
+@check Judul di kepala lagu "Songgop tu hami", sedangkan baris pertama lirik "Aning andigan do tarbahen au".
+@check Birama 2 dicetak "5 6̄.5̿ 3" (3 ketuk); not balok menunjukkan 3 sebagai not ½ (2 ketuk) → ditulis "3 .".
+@check Baris terakhir dicetak "5 4̄.3̿ 2 | 4 3 . 2̄ 1.00 ‖" (3 + 5 ketuk, not balok sama). Garis birama dipindah: "5 4.3 2 4 | 3 . 2 1 ." (4 + 4 ketuk); "00" tidak ada di not balok (G ½) sehingga diabaikan.
+@check Ayat 2 dan 3 mencetak tanda ulang ":,:" pada beberapa frasa dan susunan baris yang berbeda dari ayat 1; ditulis apa adanya.
+@status Lirik dicek · 9/14 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 14 baris sama; baris 3–7 beda ejaan/kata. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 523) | https://bukuende.wordpress.com/2013/06/09/aning-andigan-do-tarbahen-au-buku-ende-no-523-buku-logu-no-407/ | Pembanding lirik (tanda baca diabaikan).
+#A
+1 1+2 3 3+4 | 5 6+.+.+5 3 . | 5 4+.+.+3 2 . |
+4 3+.+.+2 1 . :|
+> A-ning an-di-gan do tar-ba-hen au, tu sur-go i, tu sur-go i
+> A-sa hu-i-da di-si Tu-han-ki, di sur-go i, di sur-go i
+#B
+5 4+.+.+3 2 5,+5, | 4 3+.+.+2 1 . |
+5 4+.+.+3 2 5,+5, | 4 3+.+.+2 1 . | 1 1+2 3 3+4 |
+5 6+.+.+5 3 . | 5 4+.+.+3 2 4 | 3 .+2 1 . |]
+> Lan do na por-suk si-ae-on di-son so-nang di sur-go do ton-ding-ki-non. A-la ni i sai ma-lu-ngun do au, tu sur-go i, tu sur-go i.
+#V
+Aning andigan do tarbahen au, tu surgo i, tu surgo i
+Asa huida disi Tuhanki, di surgo i, di surgo i
+Lan do na porsuk siaeon dison sonang di surgo do tondingkinon.
+Ala ni i sai malungun do au, tu surgo i, tu surgo i.
+-
+Sai guru di lomoMi ma au on :,: Mian dison :,:
+Butbut na jat, baen ias rohangkon :,: Di tano on :,:
+Holong rohangku di Jesus tongtong, nang hahaanggi di portibi on
+Sai na managam do rohangkinon.
+Di haroroM tu tano on.
+-
+Sonang dison, sonangan do disan, aha dope hurang tahe?
+Asal tung sai marsihohot au on :,: Tu Ho Tuhan :,:
+Sai sonang au tumpahanMu dison, sonang rohangku,
+Dung tos hosangkon : Asal ma Jesus jambarhu tahe,
+Aha muse hurang dope ?

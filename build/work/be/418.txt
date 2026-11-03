@@ -1,0 +1,26 @@
+@be 418
+@bl 228
+@title Sasude hadosaonmu
+@key Ab
+@meter 3/4
+@credit Ethelbert William Bullinger
+@pages 401
+@status Lirik belum ada pembanding
+@check Kepala lagu juga mencetak "R.L. No. 150".
+@check Pembanding lirik: BE 418 tidak ditemukan di indeks huruf bukuende.wordpress.com maupun pencarian web.
+#A
+(5, 6,) 5, | 1 . 3 | (2 6,) 7, | 6, . 5, | 1 . 1 | (3 2) 6, |
+2 . . | (5, 6,) 5, | 3 . 3 | (3 4) 3 | (3 2) 6, | (7, 6,) 7, | 1 . . |]
+> Sa-su-de ha-do-sa-on-mu, ha-ma-go-an-mi, sai ting-gang-kon tu Je-sus-mu, Tu-han-mi.
+#V
+Sasude hadosaonmu, hamagoanmi,
+Sai tinggangkon tu Jesusmu, Tuhanmi.
+-
+Bereng, pangkulingi Jesus, na tarsilang i.
+Tu Ibana ma pabulus rohami.
+-
+Dosami do pinorsanNa, a, hansitna i.
+Ingot holong ni rohaNa, tiop i!
+-
+Hasonangan ni rohamu, pangkophopNa i.
+Naeng mardame ma langkamu, tuami!

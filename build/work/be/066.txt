@@ -1,0 +1,30 @@
+@be 66
+@bl 52
+@title Debata baen donganmi
+@key Ab
+@meter 3/4
+@credit Julius Karl Heinrich Grobe, 1640
+@pages 58
+@status Lirik dicek · 9/9 baris sama dgn pembanding
+@check Baris 2 birama 2 dicetak "5 4 2 .'" (4 ketuk); dibaca "(5 4) 2" + napas agar 3 ketuk, seperti birama yang sama di baris 1.
+@check Baris 2 birama 5 "2 5 4": not balok buku memberi legato 2–5 (satu suku kata "ha").
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 9 baris sama persis.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 66) | https://bukuende.wordpress.com/2013/06/13/debata-baen-donganmi-buku-ende-no-66-buku-logu-no-52/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . 3 | (5 4) 2 | 1 . (3+2) | 1 . 0 | 3 . 2 | 1 . 1 |
+(1 2) 3 | (5 4) 2 v | 2 . 1 | 7, . 1 | (2 5) 4 | 4 . 3 v |
+3 . 3 | (2 1) 7, | (1 7,) 6, | 5, . 0 | 2 . 2 | (5 3) 1 |
+1 . 2 | 3 . 0 | 3 . 3 | 6 . (4+2) | 1 . 7, | 1 . 0 |]
+> De-ba-ta baen do-ngan-mi! Lao ma-ngu-la u-la-on-mu, baen I-ba-na ha-po-san-mu; Sai pa-se-rep ro-ha-mi. De-ba-ta baen do-ngan-mi! De-ba-ta baen do-ngan-mi.
+#V
+Debata baen donganmi! Lao mangula ulaonmu,
+baen Ibana haposanmu; Sai paserep rohami.
+Debata baen donganmi! Debata baen donganmi.
+-
+Debata baen donganmi! Molo Debata donganmu,
+Ndang tarbahen ho be lilu, sai ture do langkami.
+Debata baen donganmi! :,:
+-
+Debata baen donganmi! Sai na saut do ulaonmu,
+Sai na tulus do sangkapmu, jala sonang rohami.
+Debata baen donganmi! :,:

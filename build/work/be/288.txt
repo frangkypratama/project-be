@@ -1,0 +1,41 @@
+@be 288
+@bl 96
+@title Na marguru do luhutna
+@key F
+@meter 4/4
+@credit Lagu: Johann Lhner 1691
+@pages 268
+@status Lirik dicek · 14/18 baris sama dgn pembanding
+@check Pembanding lirik: baris 2,10,14,15 beda ejaan; scan hlm 268 ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 288) | https://bukuende.wordpress.com/2013/06/16/na-marguru-do-luhutna-buku-ende-no-288-buku-logu-no-96/ | 14/18 baris sama
+@check Kredit tercetak "Johann Lhner" (kemungkinan salah cetak Löhner) — ditulis apa adanya.
+#A
+1 1 5 3 | 4 5 3 1 v | 3 3 2 3 |
+1 2 7, 5, | 7, 1 2 3 | 2 1 7, . v |
+2 2 5 3 | 4 5 3 1 v | 3 3 2 3 |
+1 2 7, 5, v | 1 (2+3) 4 3 | 2 2 1 . |]
+> Na mar-gu-ru do lu-hut-na Di Ja-ho-wa, De-ba-tan-ta, do-hot pa-num-pak-Na i; na-sa na mar-pos ni ro-ha, na mang-ki-rim di Ja-ho-wa, I do na mar-tu-a i.
+#V
+Na marguru do luhutna Di Jahowa, Debatanta,
+Dohot panumpakNa i; nasa na marpos ni roha,
+Na mangkirim di Jahowa, I do na martua i.
+-
+Na marmudu nasailaon au, umbaen marhatuaon,
+Debatangku i tongtong, Na ture manogu ahu,
+Mian do tongtong di ahu, dohot tu joloan on.
+-
+Lan do dipasari jolma na so tau hasonanganna,
+Jala na so hot muse anggo sangkap ni rohangku;
+Debata naeng haposanku, na manompa sasude.
+-
+Pungkirimon do pasonang roha ni na marhaposan
+Tu Jahowa Debata, ai tu asi ni rohaNa
+Hupasahat do sudena, sai dibaen do na tama.
+-
+Debata do na umboto na ture di au na oto;
+Na martingki do side, tung Ibana ajaranku?
+Tagonan undukkononku nasa sibaenonNa pe.
+-
+Tingki ni ariaringku guru do di Debatangku;
+Sai rohaNa ma na saut asal sahat au tu surgo,
+Lao tusi do au manggogo songon batang aek tu laut.

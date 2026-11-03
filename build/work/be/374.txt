@@ -1,0 +1,38 @@
+@be 374
+@bl 250
+@title Jesus manjou ho
+@key C
+@meter 6/8
+@credit Lagu : George Coles Stebbins 1945
+@pages 358 359
+@status Lirik dicek · 7/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 12 baris sama; beda di baris 1, 2 (togang), 6, 9, 12 (sebagian penanda "d.u."); sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 374) | https://bukuende.wordpress.com/2013/06/16/jesus-manjou-ho-buku-ende-no-374-buku-logu-no-250/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian "Dijou Tuhan i do ho!". Kepala lagu juga mencetak "Z. No. 146". Birama 6/8: 1 token = 1 not 1/8.
+@check Baris 2 birama 3: angka akhir tercetak "4*" (#4), tetapi not balok bertanda ♮ (F) seperti baris 1 → ditulis sesuai angka (#4); perlu dicek.
+@check Refrein: angka "5 . . 5 0", "7 . . . 7 0" dan "1̇ . 1̇ 0" tidak genap 6/8; ditulis mengikuti not balok (1/4 bertitik + 1/4 + 1/8 diam). Birama "7 . . 7 . 0" tanpa legato di buku → suku "i" ditahan (tanda _).
+#A
+5 5 5 5 3 4 | 5 6 7 1' . . |
+1' 7 6 7 . . | 6 5 #4 5 . . | 5 5 5 5 3 #4 |
+5 6 7 1' . . | 7 6 7 2' 1' 6 | (5 . . 5 .) 0 |
+> Je-sus man-jou ho, par-do-sa sai ro tu Je-sus-mi na ba-sa i. Be-ge pan-jou-Na, so tung to-gang ho, to-mu si-pa-lu-a i.
+#B
+(1' . . 1') 7 6 | 7 . . 7 . 0 | (2' . . 2') 1' 7 | (1' . . 1' .) 0 | (3' . . 3') 2' 1' |
+(1' . . 1') 7 6 | 5 .+5 5 5 6 7 | (1' . . 1' . .) |]
+> Be-ge ma i, _ Be-ge ma i, Je-sus ma-no-bus ho, sae do su-de do-sa-mi.
+#V
+Jesus manjou ho, pardosa sai ro
+Tu Jesusmi na basa i. Bege panjouNa, so tung togang ho,
+Tomu Sipalua i. Bege ma i, Bege ma i, Jesus manobus ho, sae do sude dosami.
+-
+Jesus manjou ho, sai pos ma roham,
+Bege ma on sadari on: Angka na loja, na sorat sai ro,
+Ai dipasonang nang ho. Bege ma i, d.u
+-
+Jesus manjou ho, dijou dohot au,
+Las rohangki ala ni i. Leleng di tano so sonang au on.
+Nuaeng gok dame au on. Bege ma i, d.u.
+-
+Jesus manjou ho, parjalang na dao,
+Sai mulak ho, hatop ho ro, dihaholongi rohaNa nang ho,
+Talak pintuNa di ho. Bege ma i,d.u.

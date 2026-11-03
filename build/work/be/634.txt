@@ -1,0 +1,40 @@
+@be 634
+@bl 0
+@title Nunga hehe Tuhan i
+@key C
+@meter 4/4
+@credit Syair dan Lagu: Nunga hehe Tuhan i; NN
+@pages 643 644
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Rom 14:9; Pang. 19:6.
+@check Judul di kepala lagu "Nunga hehe Tuhan i"; baris pertama lirik "Nunga hehe Jesus i".
+@check Melisma "pa" (pahehehon): legato dari 6 sampai 2̇ (2 birama) dan berlanjut ke 1̇ awal baris berikut (tanda legato di atas not balok).
+@check Not akhir tercetak "1 . ." tanpa titik atas; balok = C5 → ditulis 1'.
+@status Lirik dicek · 10/15 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 'pahehehon' (3×), 'sitaonon', 'Johowa' beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 634) | https://bukuende.wordpress.com/2013/06/16/nunga-hehe-tuhan-i-buku-ende-no-634-buku-logu-no-634/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 (4+5) 6 5 | 6 7 1' . | 1 .+3 4 6 | 5 3 2 . |
+3 2 3 2 | 1 . 7, 0 | 1 3 5 . | 1' (3'+1') 5 . |
+1' .+7 1' 2' | (5 6+.+.+7 1') 2' |
+3' 2' 3' 2' | 1' . 7 0 | 1' (3'+1') 5 . |
+3 1 5 . | 3 (4+5) 6 .+5 |
+(6 7+1' 2' 1' | 7 1'+2' 3' 2' | 1') 2' 7 1' | 1' . 7 . | 1' . . 0 |]
+> Nu-nga he-he Je-sus i di sung-gu-li De-ba-ta ta-lu ha-ma-te-an, he-he do he-he do Kris-tus na tar-si-lang Kris-tus na bi-nu-nu go-go ni De-ba-ta ma-nung-gu-li pa-he-he-hon Kris-tus i.
+#V
+Nunga hehe Jesus i di sungguli Debata
+talu hamatean, hehe do hehe do
+Kristus na tarsilang Kristus na binunu
+gogo ni Debata manungguli
+pahehehon Kristus i.
+-
+Holan Ama Debata na pahehe Jesus i
+talu hamatean, muba ma arsak i
+dohot sitaonon gabe las ni roha
+gogo ni Debata manungguli
+pahehehon Kristus i.
+-
+Puji ma Johowa i ai dirade nahot i,
+surgo i, na sonang, mate pe daging i
+ndang be ganggu hita hehe do luhut na
+gogo ni Debata manungguli
+pahehehon Kristus i.

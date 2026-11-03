@@ -1,0 +1,37 @@
+@be 326
+@bl 114
+@title Ia loja au
+@key F
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 303 304
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 7 ("Pasonagon mi") dan 12 (ingananMi); dicek ulang ke scan hlm 304 (OCR juga membaca "ingananMi"), buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 326) | https://bukuende.wordpress.com/2013/06/16/ia-loja-au-buku-ende-no-326-buku-logu-no-114/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama "7 . 6 6 ’ 4 . 3": not balok 7-6 dua not 1/8 (legato), 6 = 1/2, lalu 4 1/8 bertitik + 3 1/16; titik setelah 7 dianggap pemisah.
+@check Birama "2 . 2 2 6 5 7": not balok 6 (D) tampak berbendera ganda, dibaca 1/8 agar genap 4 ketuk — mohon dicek.
+@check Akhir lagu "2 . 1" (not balok 1/2 dilegato ke 1/4 berfermata) dinyanyikan satu suku kata "i!".
+#A
+3+.+.+2 | 1 .+1 1+.+.+1 3+.+.+1 | (7,+6,) 6, . v 4+.+.+3 |
+2 .+2 2+6 5+7, | 1 . . :|
+> I-a lo-ja au di-baen u-la-on, Las ro-hang-ku bo-da-ri-na i:
+> Ai di-si tar-baen au ma-ra-di-an, So-nang hu-hi-la-la ro-hang-ki.
+#B
+1+3 | 2 .+7, 1 6, | 7, .+1 2 . v | 4 .+4 (4+3) (2+1) |
+6 .+6 (6+5) (4+3) | (5+4) (3+2) 1 7, | (2 . 1) |]
+> Lam be-ha ma ha-so-na-ngan i, mo-lo bo-ngot hi-ta so-got, lao tu sur-go i!
+#V
+Ia loja au dibaen ulaon, Las rohangku bodarina i:
+Ai disi tarbaen au maradian, Sonang huhilala rohangki.
+Lam beha ma hasonangan i,
+molo bongot hita sogot, lao tu surgo i!
+-
+Ai adong dope paradianan di naposo ni Tuhanta i.
+Dung malua sian parungkilon dompak dosa dohot setan i.
+Pasonagon mi Tuhanta i
+Ma naposo na manjalo upa burju i.
+-
+Surgo na tongtong marhasonangan, pansohotan ni sitaonon i;
+Naeng di Ho au muse maringanan, asa au diapul Tuhanki.
+Sai asi rohaM, o Jesuski,
+Sai pabongot ahu ogot tu ingananMi!

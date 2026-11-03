@@ -1,0 +1,46 @@
+@be 345
+@bl 118
+@title Di dia adian ?
+@key Eb
+@meter 4/4
+@credit Lagu : E.H. Bishop 1850
+@pages 325 326
+@status Lirik dicek · 10/13 baris sama dgn pembanding
+@check Pembanding lirik: beda: "sundemak" (ayat 1), kata "do" baris ulangan ayat 1, ayat 2 baris 3 (pembanding tanpa satu kata); ayat 2 baris 3 dicek ulang ke scan: tercetak "Ihuthon ma Jesus, partogi do i". Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 345) | https://bukuende.wordpress.com/2013/06/13/di-dia-adian-buku-ende-no-345-buku-logu-no-118/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot.
+@check Birama akhir baris 2 tercetak "3 0 5" (not balok: 1/4, tanda diam 1/4, 1/4 = 3 ketuk), padahal frasa sejajar lain "3 . 0 5" (4 ketuk); ditulis apa adanya, bagian A diakhiri di birama itu agar validator menerima birama pendek. Perlu cek manusia.
+@check Bagian ulangan memakai volta (akhir 1 "3 . . 0", akhir 2 "3 . ."); di sini ditulis dua kali berurutan (bagian C dan D). Ayat 2–3 menandai baris ulangan dengan ":,:".
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+5 | 5 . 3 5 | 5 . 3 v 5 | 4 . 2 4 |
+3 . 0 3 | 3 . 4 6 | 5 . 3 v 5 | 4 . 2 4 | 3 0 5 |
+> Di di-a a-di-an na sun-de-mak i, sam-bu-lo ni ton-di, di di-a do i? Tung
+#B
+1' . 7 6 | 5 . 3 v 5 | (5 6) 4 5 | 3 . 0 5 |
+1' . 7 6 | 5 . 3 v 5 | (5 6) 4 5 | 3 . . 0 |
+> jum-pang a-di-an ni ton-di di-son, di ta-no ni jol-ma na mar-do-sa on?
+#C
+5 . 3 . v | 4 . 2 . v | 1 . 2 4 | 3 . 0 5 | 1' . 7 6 |
+5 . 3 5 | (5 6) 4 5 | 3 . . 0 |
+> Nda tung, nda tung di ta-no on, di sur-go do da-pot sam-bu-lo-i-non,
+#D
+5 . 3 . v | 4 . 2 . v | 1 . 2 4 | 3 . 0 5 | 1' . 7 6 |
+5 . 3 5 | (5 6) 4 5 | 3 . . |]
+> nda tung, nda tung di ta-no on, di sur-go do da-pot sam-bu-lo-i-non.
+#V
+Di dia adian na sundemak i, sambulo ni tondi, di dia do i?
+Tung jumpang adian ni tondi dison, di tano ni jolma na mardosa on?
+:,: Nda tung, nda tung di tano on, di surgo do dapot sambuloinon.
+-
+Tadingkon ma ruhut ni portibi on,
+Naeng masuk ho sogot tu surgo inon.
+Ihuthon ma Jesus, partogi do i;
+Ai nasa na olo ditogu tusi. :,: Tongon, tongon, i ma tutu;
+Ihuthon ma Jesus, partogi burju.
+-
+Sude na porsea di Jesus hian,
+Dapotan inganan na denggan disan.
+Tongtong do marende na sahat tusi,
+Dibaen las ni roha na masa disi. :,: Amen, amen, Haleluya!
+Sai puji ma Jesus dohot Debata.

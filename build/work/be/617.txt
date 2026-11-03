@@ -1,0 +1,47 @@
+@be 617
+@bl 0
+@title Sian purba do hami ro
+@key G
+@meter 6/8
+@credit Syair dan lagu: We three Kings of orient are: John H. Hpkins Jr., 1862-1891 · Terj.: Pdt. J.A.U. Doloksaribu / Pdt. M. V. Simanjuntak
+@pages 618 619
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan "bontang", "haminjo", "no rohangki", "sanggap"; semua tercetak demikian di scan hlm 618–619. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 617) | https://bukuende.wordpress.com/2013/06/18/sian-purba-do-hami-ro-buku-ende-no-617-buku-logu-no-617/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 617".
+@check Birama 6/8 ditulis per 1/8 (6 ketuk per birama).
+@check Ada fermata pada not terakhir refrein (1, "i."); format belum punya tanda fermata.
+@check Lirik refrein tercetak "bon-tang ni Mesias i" (kemungkinan "bintang"); ditulis apa adanya. Komponis tercetak "John H. Hpkins Jr." (ejaan lazim: Hopkins); ditulis apa adanya.
+#A
+3 . 2 1 . 6, | 7, 1 7, 6, . . |
+3 . 2 1 . 6, | 7, 1 7, 6, . . |
+1 . 1 2 . 2 | 3 . 3 (5 4) 3 |
+2 3 2 1 . 7, | 6, . . |]
+> Si-an pur-ba do ha-mi ro man-ja-la-hi Ra-ja naung ro ru-ra do-lok nang na hor-nop hu-bo-lus ha-mi do.
+#B
+(7, . . 2 . .) |
+1 . 1 1 . 5, | 1 . 6, 1 . . | 1 . 1 1 . 5, |
+1 . 6, 1 . . | 1 . 1 2 . 3 | 4 . 3 2 . 3 |
+1 . 1 1 . 5, | 1 . 6, 1 . . |]
+> O. bin-tang na tu-mi-ur i bon-tang ni Me-si-as i, bo-an sai to-gi-hon ha-mi tu pa-non-dang bo-lon i.
+#V
+Sian purba do hami ro manjalahi Raja naung ro
+rura dolok nang na hornop hubolus hami do.
+Ref.: O. bintang na tumiur i bontang ni Mesias i,
+boan sai togihon hami tu panondang bolon i.
+-
+Tu Ho Raja na sorang i, sere on ma peleanki
+Ho do Raja na manontong, sigomgom hami on.
+Ref.: O, bintang . . .
+-
+Nang haminjo na hushus i, husombahon tu joloMi.
+I do ende tangiangku Tuhan tangihon au.
+Ref.: O, bintang . . .
+-
+Mir na paet ma sombangki tanda arsak no rohangki.
+Dohot ngolungki na hansit, jala na dangol i.
+Ref.: O, bintang . . .
+-
+I da ma, O sangapNa i, Tuhan jala Rajanta i,
+Haleluya, Haleluya, sanggap di Debata.
+Ref.: O, bintang . . .

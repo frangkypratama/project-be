@@ -1,0 +1,38 @@
+@be 406
+@bl 269
+@title Di lambung ni parsilang
+@key Bb
+@oct -1
+@meter 4/4
+@credit Ira David Sankey 1906
+@pages 389 390
+@status Lirik belum ada pembanding
+@check Kepala lagu juga mencetak "R.L. No. 263".
+@check Tanda mula 2 mol; 4* dan 1* dicetak dengan tanda pugar (♮E, ♮B) di not balok = kres dalam not angka. Do = Bes (oktaf bawah, 7̣ di bawah paranada).
+@check Pembanding lirik: BE 406 tidak ditemukan di indeks huruf bukuende.wordpress.com maupun pencarian web.
+#A
+5 | 5 .+5 #4 5 | 1' . 5 3 | 5 .+5 4 2 |
+3 . . 5 | 5 .+5 #4 5 | 1' . 5 3 | 5 .+5 4 7, | 1 . . 3 |
+2 .+#1 2 6 | 5 .+3 5 3 | 2 5 (5+#4) (7+6) | 5 . . (5+4) |
+3 3 5 5 | 1' .+1' 6 (7+6) | 5 .+5 4 7, | 1 . . |]
+> Di lam-bung ni par-si-lang do ha-so-na-ngan-ki, ndang ro tu-si par-hi-lang dao do si-bo-lis i. Par-si-lang na di Gol-ga-ta, Hu-ha-ho-lo-ngi Ho, ai si-an Ho tu ro-hang-kon sai pa-su-pa-su ro.
+#V
+Di lambung ni parsilang do hasonanganki,
+Ndang ro tusi parhilang dao do sibolis i.
+Parsilang na di Golgata, Huhaholongi Ho,
+Ai sian Ho tu rohangkon sai pasupasu ro.
+-
+Di lambung ni parsilang do partangisanki.
+Ai ndang tarbaen mamilang disi au dosangki.
+Tarsolsol bagi situtu disi do rohangki
+Marningot pangkophopNa i di au pardosa on.
+-
+Di lambung ni parsilang do panjoraanki;
+Ndang olo be marhilang na somal lao tusi;
+Margabus nang manangko pe, maruhum na roa,
+Ndang be diula Kristen i naung sian Golgata.
+-
+Di lambung ni parsilang do parmiananki;
+Saleleng au mamilang dison do aringki.
+Parsilang na di Golgata. Huhaholongi Ho;
+Ai sian Ho tu rohangkon sai pasupasu ro.

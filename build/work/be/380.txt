@@ -1,0 +1,38 @@
+@be 380
+@bl 253
+@title So ma jolo ise i
+@key Eb
+@meter 4/4
+@credit George Prederick Root 1895
+@pages 364 365
+@status Lirik dicek · 6/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 6 dari 12 baris sama; beda ejaan di baris 3, 4 (maniktik), 5, 7, 8, 10; dicek ulang ke scan, sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 380) | https://bukuende.wordpress.com/2013/06/18/so-ma-jolo-ise-i-buku-ende-no-380-logu-no-253/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian "Dijou Tuhan i do ho!". Kepala lagu juga mencetak "R.L. No. 137". Kredit tercetak "George Prederick Root" (ejaan lazim: Frederick); ditulis sesuai buku.
+@check Birama berganti 4/4 → 3/4 di tengah lagu (#B 3/4), sesuai buku.
+@check Baris terakhir birama 2: angka "1̄ 7̄ 6 2" tercetak tanpa titik bawah, tetapi not balok = E♭4, D4, C4, F4 → ditulis 1+7, 6, 2.
+#A
+3 .+3 3+3 0 | 5 4 3 0 | 2 .+2 2+2 0 |
+4 3 2 0 |]
+> So ma jo-lo i-se i na ma-nuk-tuk pin-tu i?
+#B 3/4
+1+2 3 2 | 3+4 5 3 |
+1+2 3 4 | 5+6 2 . | 1+2 3 2 |
+3+4 5 3 | 1+7, 6, 2 | 3+2 1 . |]
+> A-le-a-le na su-mu-rung na mar-ho-long ro-ha i. Ta-ung-ka-pi ma ro-han-ta pa-ma-suk-kon Tu-han i.
+#V
+So ma jolo ise i na manuktuk pintu i?
+Aleale na sumurung na marholong roha i.
+Taungkapi ma rohanta pamasukkon Tuhan i.
+-
+Ise na maniktik i, na malungun songon i?
+I ma Tuhan na sumurung, na marasi roha i.
+Taungkapi ma rohanta pamasukkon Tuhan i.
+-
+Ise na maniktik i, na manunggul rohangki?
+I ma sidingini hita, datu na sumurung i.
+Ai na naeng pamalumonNa jolma parbagasan i.
+-
+Ale Jesus, pargogoi hami angka na marhoi:
+Sai jagai ma siseanMu asa unang mago i.
+Sai patongon anakkonMu tu haroan bolon i.

@@ -1,0 +1,44 @@
+@be 10
+@bl 128
+@title Hupuji, hupasangap Ho
+@key Bb
+@oct -1
+@meter 4/4
+@credit Peter Schren, 1668
+@pages 9
+@check Buku menulis "Peter Schren"; nama yang lazim tercatat adalah Peter Sohren.
+@check Beberapa not panjang tidak diberi titik tahan di angka (mis. "2 1 7", "4 4 3"); durasinya mengikuti not balok buku (not 1/2).
+@check Ayat 5 dicetak "goaNa" (kemungkinan salah cetak "goarNa"); ditulis sesuai buku.
+@status Lirik dicek · 12/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 16 baris sama persis; 4 baris beda ejaan (termasuk “goaNa” di ayat 5 — di situs kemungkinan “goarNa”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 10) | https://bukuende.wordpress.com/2013/06/13/hupuji-hupasangap-ho-buku-ende-no-10-buku-logu-no-128/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 1' 2' 3' 6 | 2' 1' 7 . | 0 5 6 7 |
+1' 3' 2' . | 1' . 0 :|
+> Hu-pu-ji, Hu-pa-sa-ngap Ho, A-mang par-deng-gan ba-sa!
+> Ai ja-di-ja-di-an mu do Su-de, ang-ka na ma-sa
+#B
+1' | 7 6 5 (6+5) | 4 4 3 . |
+0 5 6 7 | 1' 7 6 6 | 5 . 0 1' | 2' 3' 4' 3' | 2' . 1' |]
+> Di-tom-pa Ho do sa-su-de, Da-ging-ku ro di ton-di pe, pi-nu-ji ma go-ar-Mu!
+#V
+Hupuji, Hupasangap Ho, Amang pardenggan basa!
+Ai jadijadian mu do Sude, angka na masa
+Ditompa Ho do sasude, Dagingku ro di tondi pe, pinuji ma goarMu!
+-
+Saluhut na tinompaMi neng sonang di rohaMu;
+Arian dohot borngin pe disarihon rohaMu
+Nang uhum digomgomanMi, na tigor, na sintong di i,
+Pinuji ma goarMu!
+-
+Ndang dung tartading bangsoMi, naung pinillitMu jolo;
+Sai Ho do haporusan ni sude na ro, na olo.
+Ditogu Ho do sasude. Asa tu hangoluan be, Pinuji ma goarMu!
+-
+Tongtong pasangaponku Ho saleleng au mangolu;
+Paratarataonku do barita ni goarMu.
+Pamatang dohot tondingki ingkon mamuji sangapMi. Pinuji ma goarMu!
+-
+Antong, ro ma hamu sude saluhut na porsea,
+Marolopolop hita be mamuji Debatanta.
+Na sun denggan do sasude binaen ni Debatanta i. Pinuji ma goaNa!

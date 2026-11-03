@@ -1,0 +1,37 @@
+@be 639
+@bl 0
+@title Bunga ni gara i
+@key Eb
+@meter 4/4
+@credit Syair dan Lagu: Pass it on; Kurt Kalser · Terjemahan: Pdt. J.A.U. Doloksaribu
+@pages 652 653
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Joh. 4:11. Kelompok "HASASAOR NI TONDI PORBADIA".
+@check Kredit ditulis seperti tercetak ("Kurt Kalser"; lazimnya Kurt Kaiser).
+@check Birama "1̇ . 5̇ ." (Tu-han i pe): titik atas pada 5 tampak noda; balok = B♭4 → ditulis 5.
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 'sasude', 'Maribar', 'pasaorhan', 'Sai' beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 639) | https://bukuende.wordpress.com/2013/06/09/bunga-ni-gara-i-buku-ende-no-639-buku-logu-no-639/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 3 .+2 3 4 | 5 . . 3 | 1 .+7, 1 4 |
+(3 2)+(2 . . | 2) . . 5, | 3 .+2 3 4 |
+5 . . 3 | 1 .+7, 1 4 | (3 2)+(2 . . |
+2) . . 1 | 6 .+5 6 7 | 1' . 5 . |
+0 6 5 4 | 5 5+1 . 0+1 |
+4 3 1 .+1 | 4 3 1 .+1 |
+4 3 2 (2+1) | (1 . . . | 1) . . |]
+> Bu-nga ni ga-ra i boi mang-ga-la-hi a-pi, las do pa-ma-tang ni na ro mang-ha-li-a-ngi, Ho-long ni Tu-han i pe mo-lo mi-an di ho, Ma-ba-or do tu sa-su-de na hu-ma-li-ang ho.
+#V
+Bunga ni gara i boi manggalahi api,
+las do pamatang ni na ro manghaliangi,
+Holong ni Tuhan i pe molo mian di ho,
+Mabaor do tu sasude na humaliang ho.
+-
+Maribar situtu do ngolu na imbaru,
+gok dame do tutu parroha na imbaru,
+holong ni Debatanta ndang hasuhatan i,
+pasaorhan ma, tu dongan, i holong ni roha i.
+-
+Sai jangkon ma dongan, dame na sian ginjang
+haposi Debata, haporseai hataNa,
+tu saluhutna jolma i, tabaritahon i,
+Tuhanta i, holongNa i, palua jolma i.

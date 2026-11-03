@@ -1,0 +1,55 @@
+@be 92
+@bl 178
+@title Puji ma na manaluhon.
+@key Bb
+@meter 4/4
+@credit Friedrich Gottlieb Klopstock
+@pages 82 83
+@status Lirik dicek · 26/28 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan baris 7 ("mengendehon", tercetak begitu) dan 20.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 92) | https://bukuende.wordpress.com/2013/06/16/puji-ma-na-manaluhon-buku-ende-no-92-buku-logu-no-178/ | 26/28 baris sama
+#A
+1 5, 6, 7, | 1 2 3 . | 2 . v 4 3 |
+2 1 2 7, | 1 . 0 0 :|
+> Pu-ji ma na ma-na-lu-hon Do-sa ha-ma-te-an i;
+> Pu-ji ma na Pa-ngo-lu-hon sa-lu-hut par-do-sa i,
+#B
+3 2 1 1 | 7, 7, 1 . v |
+1 7, 3 2 | 1 7, 7, . | 6, . v 7, 7, |
+1 1 2 3 | 4 . v 4 2 | 1 6, 2 7, | 1 . 0 0 |]
+> Je-sus na dung ma-te i. Las ro-ham, o hu-ri-a-na, a-la na-ma-mil-lit ho, Je-sus i, ma-ngo-lu do.
+#V
+Puji ma na manaluhon dosa hamatean i;
+Puji ma na Pangoluhon saluhut pardosa i,
+Jesus na dung mate i. Las roham, o huriana,
+Ala na mamillit ho, Jesus i, mangolu do.
+-
+Tole hita mangendehon halalas ni roha i,
+Dohot marolopolophon sangap ni na monang i,
+Na tongtong mangolu i. Tole hita mengendehon
+Halalas ni roha i di parngolu Jesus i.
+-
+I do las ni rohanami lao mamujimuji Ho,
+Ndang be sitoruan hami ala na dung mate Ho.
+Dungkon ni mangolu Ho nunga ringan tondinami
+Sian hangoluanMi ala hamonanganMi.
+-
+Uju i, di na manogot di na buha siang i,
+Mijur do surusuruan laho tu tanomanMi.
+Dung diungkap batu i. Dipahundul ma Ibana,
+Paboahon di na ro ndang be dibagasan Ho.
+-
+Tu tanoman si Maria paturehon bangkeMi;
+Tung beha ma di rohana dung dibege hataMi?
+Dohot mangalusi i? Au pe, idaonku sogot,
+Ho dihasangaponMi. Ho, o Jesus, Tuhanki!
+-
+Molo hehe pamatangku, molo pinasangap au,
+Idaonku Debatangku, Jesus Sipangolu au;
+Suman tu Ibana au molo hehe pamatangku,
+Jadi ngolungoluMi gabe hangoluanki.
+-
+Ala ni sai las rohangku nang pardagang au dope;
+Ho tinatap ni matangku, atik pe na dao dope.
+Mian do TondiM di au asa tong togu rohangku,
+Mangeahi surgoMi paima sahat au tusi.

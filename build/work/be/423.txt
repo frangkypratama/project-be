@@ -1,0 +1,37 @@
+@be 423
+@bl 283
+@title Na ro ma borngin i.
+@key F
+@meter 4/4
+@credit E.A. No. 131 · Lagu: E. Biegler
+@pages 405
+@status Lirik dicek · 15/15 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 423) | https://bukuende.wordpress.com/2013/06/16/na-ro-ma-borngin-i-buku-ende-no-423-buku-logu-no-283/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+(5+4) | 3 2 1 2 | 3 0 0 6 | 5 4 (3+2) 1 | (4 3+5) 2 :|
+> Na ro ma born-gin i, a-ri-an nun-ga sal-pu,
+> O Je-sus, Tu-han-ki, Pa-ti-ur ma ro-hang-ku,
+#B
+5 | 1' 5 6 (5+4) | 3 0 0 3 | 6 (5+4) 3 (2+3) | 1 . 0 |]
+> Ai ha-ti-u-ron do na di ba-ga-san Ho.
+#V
+Na ro ma borngin i, arian nunga salpu,
+O Jesus, Tuhanki, Patiur ma rohangku,
+Ai hatiuron do na di bagasan Ho.
+-
+Godang na so ture hubahen ulaonku,
+Dibilang Ho sude, tarsurat tu bukuMu.
+Molo hupingkir i, huuhum diringki.
+-
+Na marsak rohangki dibaen godang salangku.
+Asi ma rohaMi, sai sesa ma dosangku.
+Songon si Petrus i, solsol do rohangki.
+-
+Tung sura mate au, tu uhum nama au.
+Ringkot partohap au di Ho, Ale Tuhanku.
+Huphupi dosangki, sai lehon asiMi.
+-
+Tung sura borngin on buatonMi hosangku,
+Jagahon ma au on, pasahat tu lambungMu.
+Tu tanganMi tahe nuaeng au nang muse.

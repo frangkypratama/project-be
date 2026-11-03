@@ -1,0 +1,48 @@
+@be 215
+@bl 88
+@title Na martua, ninna Jesus
+@key C
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 195 196
+@status Lirik dicek · 21/24 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 21 dari 24 baris sama; bait 1 (baris 1–3, diambil dari lirik di bawah notasi) berbeda beberapa kata; bait 2–8 sama. Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 215) | https://bukuende.wordpress.com/2013/06/16/na-martua-ninna-jesus-buku-ende-no-215-buku-logu-no-88/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 3 | 5 .+3 (2+3) (4+5) | (4+3) 3 5 5 |
+1' .+7 (6+5) (4+3) | 2 . v 5 7 | 2' .+7 (6+7) (1'+2') |
+(1'+7) 7 v 2 5 | 3 1' 7 (6+7) | 5 . v 5 5 |
+1' 3 6 6 | 5 . v 3 5 | 1' 3' 2' .+7 | 1' . |]
+> Na mar-tu-a, nin-na Je-sus, na po-gos ton-di-na i; Ai lang-ka na do na tu-lus tu ba-nu-a gin-jang i. Sai na so-nang ro-ha ni na-mang-go-lom ha-ta i
+#V
+Na martua, ninna Jesus, na pogos tondina i;
+Ai langka na do na tulus tu banua ginjang i.
+Sai na sonang roha ni namanggolom hata i.
+-
+Nang na marsak pe tarbahen sonang do rohaNa i:
+Ai arsakna i mambahen ro na mangapuli i
+Sai na sonang roha ni angka naung tarapul i.
+-
+Na martua do dohonon na lambok marroha i.:
+Ai nasida do manean nasa na di tano i.
+Sai na sonang roha ni na mangalo rimas i.
+-
+Molo mauas tondimuna mida hatigoran i.
+Na martua do hamuna, ai tutu ma jumpang i.
+Sai na sonang roha ni na marhatigoran i.
+-
+Angka na marasi roha, ninna Jesus, Tuhan i,
+Angka i do siasian, balos ni asina i.
+Sai na sonang roha ni siasii dongan i.
+-
+Angka na lidang marroha na so saor tu dosa i,
+I do na tarbaen marnida Ama na badia i.
+Sai na sonang roha ni na pasiding dosa i.
+-
+Angka na manuan dame, i dietong Debata
+Songon anak, ai nasida sada dohot Debata
+Sai na sonang roha ni na mambahen dame i
+-
+Dohot angka na binuru, ala hatigoran i.
+Sipujion, ai marguru, tu porsukna upa nii;
+Sogot di na sonang i, mullop ma tuana i.

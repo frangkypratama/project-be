@@ -1,0 +1,38 @@
+@be 312
+@bl 56
+@title Puji Jahowa na sanggap
+@key F
+@meter 3/4
+@credit Gerhard Terteegen 1769
+@pages 290 291
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di baris 3, 4. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 312) | https://bukuende.wordpress.com/2013/06/16/puji-o-jolma-ma-bona-ni-hangoluanmu-buku-ende-no-312-buku-logu-no-56/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Judul Logu "Puji Jahowa na sanggap"; baris pertama lirik "Puji, o jolma".
+@check Birama "2 . ⁹" (akhir baris 3): tanda napas di atas titik → dibaca 2 . . (3 ketuk) + napas; balok tampak not 1/2 saja.
+@check Komponis tercetak "Gerhard Terteegen" (ejaan lazim: Gerhard Tersteegen).
+#A
+1 1 5 | 3 .+2 1 | 7, 6, 5, |
+6, 7, 1 | 2 . . | 1 . 0 :|
+> Pu-ji, o jol-ma, Ma bo-na ni ha-ngo-lu-an-mu,
+> Na mar-mu-du-hon tong-tong nang ton-dim, nang da-ging-mu
+#B
+5 5 5 | 6 . . v | 3 4 5 | 5 .+4 3 | 2 . . v |
+5, 6, 7, | 1 2 3 | 2 . . | 1 . . |]
+> Pu-ji tu-tu, sai ha-ho-lo-ngi bur-ju-na-pa-tu-pa-hon so-nang-mu.
+#V
+Puji, o jolma, Ma bona ni hangoluanmu,
+Na marmuduhon tongtong nang tondim, nang dagingmu
+Puji tutu, sai haholongi burju napatupahon sonangmu.
+-
+Nungan dilehon Ho, Tuhan, sipanganonnami;
+Tau hasangapon di Ho ma nuaeng hubaen hami,
+Pamatang i ro di gogona sude, tanda na las rohanami.
+-
+O Sipangolu, sai tatap huhut tondinami,
+Jala pabosur ma i di pardalanannami tu surgo i:
+Jesus, palungun ma i tongtong di Ho, Tuhannami.
+-
+Sai parmahani ma hami na di halongonan,
+Jala patau tu haroan di banuaginjang;
+Togu tongtong hami na loja dison, sahat tu paradianan.

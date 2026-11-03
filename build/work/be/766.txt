@@ -1,0 +1,46 @@
+@be 766
+@bl 0
+@title Padan na uli
+@key Ab
+@meter 4/4
+@credit Syair dan Lagu: I will not forget Thee, Charles H. Gabriel, 1856 · Terj.: Dcs. Bonaria Hutabarat / Pdt. J.A.U. Doloksaribu
+@pages 831 832 833
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0.
+@check Refrein birama 1: angka "5 . 5 .4" dengan lengkung = not balok Es5 setengah diikat ke 1/8 bertitik + 1/16 Des5 → ditulis sebagai satu not ditahan (5 . .+.+.+4).
+@check Ayat 1 bait 2: buku menulis "hu--lu-pa-hon" (dua tanda hubung). "Au" bertanda lengkung bawah = satu suku kata.
+@check Pembanding lirik: baris 2 (dingolungki) dan 6 (Au) beda ejaan, buku tetap acuan. Baris 10 semula salah baca saya ("buhaposi"); dicek ulang ke scan hlm 833 → "huhaposi", sudah diperbaiki.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 766) | https://bukuende.wordpress.com/2013/06/16/padan-na-uli-buku-ende-no-766-buku-logu-no-766/ | teks ayat
+#A
+5, 1+2 3 3 | 3+4 2+3 1 5, |
+1+2 3+4 5 3 | 4+3 2+1 1 . |
+5, 1+2 3 3 | 3+4 2+3 1 5, |
+6,+7, 1+4 3 1 | 7,+1 2+3 1 . |
+> Pa-dan na u-li "Ho ndang hu-lu-pa-hon". ndang po-la ma-bi-ar au di-ngo-lung-ki, nang pe ho-lom do da-lan si-bo-lu-son, ro do ha-ti-u-ron si-an la-ngit i.
+#B
+5 . .+.+.+4 3+2 | (1+2) (3+1) 6, 5, |
+5,+7, 7,+2 (2+4) 4 | 5,+1 1+3 (3+5) 5 |
+5 . .+.+.+4 3+2 | (1+2) (3+5) 5 4 |
+1+7, 1+4 3 1 | 7,+1 2+3 1 . |]
+> "Ho tung so hu-ha-lu-pa-hon Au do ma-no-gi-hon Au do ma-ngon-di-hon ho tung so hu-ha-lu-pa-hon, Au do mar-go-goi-hon pos ma ro-ha-mi".
+#V
+Padan na uli "Ho ndang hulupahon".
+ndang pola mabiar au dingolungki,
+nang pe holom do dalan siboluson,
+ro do hatiuron sian langit i.
+Ref: "Ho tung so huhalupahon
+Au do manogihon Au do mangondihon
+ho tung so huhalupahon,
+Au do margogoihon pos ma rohami".
+-
+Padan na uli "Ho ndang hulupahon".
+i do huhaposi las ma rohangki,
+tondong nang dongan ndang tarpangasahon,
+holan Tuhan Jesus haporusanki.
+Ref: "Ho tung so halupahon ..."
+-
+Molo diungkap surgo tu tondingku,
+salpu ma luhut na hangalutonki,
+tarbege ma soara ni Tuhanku,
+"Naposo, haposan, bongot ho tusi".
+Ref: "Ho tung so halupahon ..."

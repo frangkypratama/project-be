@@ -1,0 +1,37 @@
+@be 415
+@bl 277
+@title Ai naeng malua ho
+@key Ab
+@meter 4/4
+@credit L.E. Jones
+@pages 398 399
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Kepala lagu juga mencetak "S.L. No. 64."
+@check Refrein: birama "3 . 5 1" (… mu-dar i, tung na) tercetak hanya 3 ketuk; ditulis apa adanya, sehingga refrein dipecah jadi bagian B dan C di titik itu.
+@check Ayat 2 baris 2 berakhir "ho mus" (tercetak begitu; kemungkinan maksudnya "muse"). Ditulis sesuai buku.
+@check Pembanding lirik: bukuende.wordpress.com — 8/10 baris sama; beda di baris 1 (Tuhanta) dan baris 6 (buku "mus"); pembanding mencatat Logu 227, buku mencetak Logu 277. Pembanding 3 ayat.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 415) | https://bukuende.wordpress.com/2013/06/09/ai-naeng-malua-ho-buku-ende-no-415-buku-logu-no-227/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, 5,+5, 5, 5,+5, | 6, 6,+6, 5, .+1 | 7, 2+.+.+#1 2 . |
+1 3+.+.+#2 3 . | 5, 5,+5, 5, 5,+5, | 6, 6,+6, 5, .+1 |
+7, 7,+7, 2 1+7, | 1 . . |]
+> Ai naeng ma-lu-a ho si-an do-sam? Go-go mu-dar ni Tu-han-ta i. Tang-kup ma i, a-sa so-nang ro-ham, na go-go tu-tu mu-dar i.
+#B
+5,+1 | 3 . 3 . | 2+.+.+1 1+6, 5, 7,+.+.+1 | 2 . . 1+.+.+2 | 3 . 5,+1 |
+> Mu-dar i tuk pa-lu-a-hon ho, Mu-dar i, mu-dar i, tung na
+#C
+3 . 3 . | 2+.+.+1 1+6, 5, 7,+.+.+1 | 2 .+4 3 2+.+.+2 | 1 . . 0 |]
+> go-go tung go-go do i, ho-lan mu-dar ni Je-sus i.
+#V
+Ai naeng malua ho sian dosam? Gogo mudar ni Tuhanta i.
+Tangkup ma i, asa sonang roham, na gogo tutu mudar i.
+Mudar i tuk paluahon ho, Mudar i, mudar i, tung na gogo
+Tung gogo do i, holan mudar ni Jesus i.
+-
+Naeng ho ias songon hapas, ale?
+Gogo mudar ni Tuhanta i. Nang ramun ho, boi bontor ho mus
+Ai ias dibaen mudar i. Mudar...
+-
+Nunga magigi ho di bangkomi?
+Gogo mudar ni Tuhanta i.
+Sai hamonangan sijaloonmi hinorhon ni mudarna i. Mudar...

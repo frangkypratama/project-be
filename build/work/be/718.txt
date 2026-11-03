@@ -1,0 +1,38 @@
+@be 718
+@bl 0
+@title Hubege Jesus manjou
+@key F
+@meter 4/4
+@credit Syair: I can hear mu Savior calling, EW. Blandy · Terj.: Pdt. MV. Simanjuntak · Lagu: John S. Norris, 1890
+@pages 757 758
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0). Kredit "I can hear mu Savior calling" (lazim "my") — ditulis apa adanya.
+@check Birama "3 5 3 5 2 . 1": angka memberi garis atas pada 3-5-3-5 (1/8), balok 1/8 1/8 1/8 1/8 lalu 1/4 bertitik + 1/8 → `3+5, 3+5, 2 .+1`.
+@check Pemenggalan "i hut-hon" (ayat) dan "i-hut-ho-non-ku" (refrein) ditulis sesuai cetak di bawah not.
+@status Lirik dicek · 9/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 2 beda ejaan "huthon". Buku tetap acuan. (Pembanding menulis "Buku Logu No. 718"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 718) | https://bukuende.wordpress.com/2013/06/13/hubege-jesus-manjou-buku-ende-no-718-buku-logu-no-718/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5,+.+.+1 | 3 .+3 4 .+3 | 3+2 . 0 5,+.+.+7, | 2 .+1 3 .+2 |
+2+1 . 0 1+.+.+3 | 5 .+5 6 .+5 | 5+4 . 0 1+2 | 3+5, 3+5, 2 .+1 | 1 . . |]
+> Hu-be-ge Je-sus man-jo-u hu-be-ge Je-sus man-jo-u Si-pa-lu-a au man-jo-u por-san si-lang i hut-hon ma Au.
+#B
+5,+.+.+1 | 3 .+3 4 .+3 | 3+2 . 0 5,+.+.+7, | 2 .+1 3 .+2 |
+2+1 . 0 1+.+.+3 | 5 .+5 6 .+5 | 5+4 . 0 1+2 | 3+5, 3+5, 2 .+1 | 1 . . |]
+> Sai i-hut-ho-non-ku Je-sus sai i-hut-ho-non-ku Je-sus, sai i-hut-ho-non-ku Je-sus. Hu-i-hut-hon Je-sus Tu-han-ki
+#V
+Hubege Jesus manjou hubege Jesus manjou
+Sipalua au manjou porsan silang i huthon ma Au.
+Ref : Sai ihuthononku Jesus sai ihuthononku Jesus,
+sai ihuthononku Jesus. Huihuthon Jesus Tuhanki
+-
+Tu Getsemane au dohot, tu Getsemane au dohot,
+rap marungkil dohot Jesus, mangihuthon Jesus Tuhanki.
+Ref : Sai ihuthononku . . .
+-
+Aloonku ma diringku, aloonku ma diringku,
+porsanonku ma silangku, mangihuthon Jesus Tuhanki.
+Ref : Sai ihuthononku . . .
+-
+LehononNa hagogoon lehononNa hagogoon.
+dohot tumpal hangoluan, dibanua ginjang na sonang.
+Ref : Sai ihuthononku . . .

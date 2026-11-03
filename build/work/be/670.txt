@@ -1,0 +1,48 @@
+@be 670
+@bl 0
+@title Tarbege soara na joujou
+@key G
+@meter 4/4
+@credit Syair dan Lagu: Send the light, Charles H. Gabriel, 1856-1932 · Terjemahan: Dcs. Bonaria Hutabarat/ Pdt. J.A.U. Doloksaribu,
+@pages 692 693
+@status Lirik dicek · 18/21 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 1, 3, 7 (ejaan: "Tarbege/Tabege", "totop"). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 670" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 670) | https://bukuende.wordpress.com/2013/06/18/tarbege-soara-na-joujou-buku-ende-no-670-buku-logu-no-670/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: 2 Kor. 4:6.
+@check Bagian A baris 3 birama 2 tercetak "2 . 3.2" (3 ketuk); balok = 1/2 bertitik + 1/8 bertitik + 1/16 (4 ketuk), sama dengan baris 2 → ditulis "2 . . 3.2".
+@check Refrein: "5 . 5.6" dan "2 . 2.4" dengan lengkung = not diikat (1/2 diikat ke 1/8 bertitik), satu suku kata ("ma", "ngoi").
+#A
+5,+.+.+5, | 1 1 1+.+.+5, 1+.+.+2 | 3 3 3 4+.+.+3 |
+2 . . 3+.+.+2 | 1 . . 5,+.+.+5, | 1 1 1+.+.+5, 1+.+.+2 |
+3 3 3 4+.+.+3 | 2 . . 3+.+.+2 | 1 . . |
+> Tar-be-ge so-a-ra na jo-u-jo-u, to-ngos ma son-dang-mi, tung to-top par-be-gu di na ho-lom i, to-ngos ma son-dang-mi.
+#B
+3+.+.+4 | (5 . 5)+.+.+6 5+.+.+4 | 3 3 3 4+.+.+3 |
+(2 . 2)+.+.+4 3+.+.+2 | 3 . . 3+.+.+4 | (5 . 5)+.+.+6 5+.+.+4 |
+3 3 3 4+.+.+3 | (2 . 2)+.+.+4 3+.+.+2 | 1 . . |]
+> To-ngos ma Ba-ri-ta na u-li man-du-ngoi na mo-dom i, to-ngos ma Ba-ri-ta na u-li man-du-ngoi na mo-dom i.
+#V
+Tarbege soara na joujou,
+tongos ma sondangmi,
+tung totop parbegu di na holom i,
+tongos ma sondangmi.
+Ref : Tongos ma Barita na uli mandungoi na modom i,
+tongos ma Barita na uli mandungoi na modom i.
+-
+Tabege ma angguk na joujou,
+tongos ma sondangmi,
+taurupi ma angka na lilu i,
+tongos ma sondangmi,
+Ref : Tongos ma . . .
+-
+Unang sai tarhinsu pintu ni roham,
+tongos ma sondangmi,
+baritahon Hata hangoluan i,
+tongos ma sondangmi,
+Ref : Tongos ma . . .
+-
+Holong ni roham ma na mangonjar ho,
+tongos ma, sondangmi
+tumpal hangoluan i rade di ho,
+tongos ma sondangmi,
+Ref : Tongos ma . . .

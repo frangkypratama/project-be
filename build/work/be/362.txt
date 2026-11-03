@@ -1,0 +1,39 @@
+@be 362
+@bl 194
+@title Hamu saluhut harajaon
+@key Ab
+@meter 4/4
+@credit Lagu : Louis Bourgeois 1561
+@pages 346 347
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 13 dari 16 baris sama; beda di baris 4 (di baen), 7 (Ima), 8 (di tanda); dicek ulang ke scan, sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 362) | https://bukuende.wordpress.com/2013/06/13/endehon-ende-na-imbaru-buku-ende-no-362-buku-logu-no-194/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian Ende Psalm, judul bagian "Psalm 98". Judul Logu "Hamu saluhut harajaon" berbeda dari baris pertama lirik ("Endehon ende na imbaru").
+#A
+1 . 6, 5, | 1 1 2 4 | 3 . 2 . | 0 0 5 . |
+3 3 1 4 | 3 . 2 . | 1 . 0 0 | 1 . 6, 5, |
+1 1 2 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 |
+1 7, 1 . | 0 0 5 . | 5 4 3 . | 2 . 1 7, | 6, . 5, . |
+0 0 5, . | 1 1 7, 6, | 1 . 2 . | 3 . 0 0 | 1 . 1 2 |
+3 1 4 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 | 1 7, 1 . |]
+> En-de-hon en-de na im-ba-ru di De-ba-ta Ja-ho-wa i; Ai sa-sa-da-sa di-pa-tu-bu sa-lu-hut ha-lo-nga-ngan i. Sai di-ta-lu-hon si-a-mun-na do sa-su-de mu-su-na i; Pa-tar di baen ha-ti-go-ran-na di jo-lo ni par-be-gu i.
+#V
+Endehon ende na imbaru di Debata Jahowa i;
+Ai sasadasa dipatubu saluhut halongangan i.
+Sai ditaluhon siamunna do sasude musuna i;
+Patar di baen hatigoranna di jolo ni parbegu i.
+-
+Diingot Debata Jahowa do asi ni rohaNa i,
+Sai dipahot hasintonganNa di bangso na pinillit i.
+Ima diida hajolmaon, pangisi ni portibi on,
+Huhut di tanda hatuaon ni Debatanta na tongtong.
+-
+Marsuraksurak ma hamuna na manginganhon tano on;
+Pangiar ma soaramuna mamuji Debata tongtong.
+Marolopolop ma luhutna mardongan arbap, ogung pe,
+Lao pasangaphon Debatanta na manggomgomi sasude.
+-
+O laut, pagogo parhasakmu, nang tano pe marolop ma;
+Martopaptopap ma tanganmu, o batang aek di Debata.
+O dolok, puji ma Jahowa, na ro manguhum tano i;
+Tarida ma hatigoranna di nasa manisia i.

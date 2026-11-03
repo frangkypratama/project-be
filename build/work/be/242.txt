@@ -1,0 +1,40 @@
+@be 242
+@bl 76
+@title Rahis jala maol
+@key Bb
+@meter 3/4
+@credit Samuel Gottlieb Burde, 1831
+@pages 221 222
+@status Lirik dicek · 10/15 baris sama dgn pembanding
+@check Pembanding lirik: beda: "banua ginjang" (lirik di bawah not dipisah), "samurung", "tarparek", "dading", "hamongan"; dicek ulang ke scan: tercetak demikian di buku (kemungkinan salah cetak "hamonangan").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 242) | https://bukuende.wordpress.com/2013/06/16/rahis-jala-maol-buku-ende-no-242-buku-logu-no-76/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Buku menulis "Burde"; ejaan lazim Samuel Gottlieb Bürde.
+#A
+5, . 1 | 3 . 1 | (7, 6,) 7, | 1 . 0 | 6, . 6, |
+1 .+7, 1+6, | 6, 5, 0 :|
+> Ra-his ja-la maol tu-tu da-lan tu ba-nu-a gin-jang.
+> Na mar-tu-a si-tu-tu ang-ka na di-si mar-da-lan,
+#B
+(5,+6, 7,+1) (2+3) | 1 . 5, |
+(5,+6, 7,+1) (2+3) | 1 . 0 | 6, . 2 | 1 . 7, | (2 1) 7, | 1 . 0 |]
+> Ma-ngi-hut-hon Je-sus i sa-hat tu u-jung-na i
+#V
+Rahis jala maol tutu dalan tu banua ginjang.
+Na martua situtu angka na disi mardalan,
+Mangihuthon Jesus i sahat tu ujungna i
+-
+Upa na samurung i, dapot na burju marroha,
+Maralohon dosa i dohot hisap ni dagingna,
+Na tongtong mangkirim di sanggul hamonangan i
+-
+Na sap mudar nahinan gantung di hau pinarsilang.
+Diomohon do hian, upa na marhasurungan.
+Ai didok do ujui; "Nunga sun ulaonki".
+-
+Ale Jesus, togu ma hami angka paranganMu
+Asa tarparek ma hatiuron di lambungMu.
+Dung pe tanggal dading i, dapot hasonangan i.
+-
+Dongan pir ma tondimu, maralohon hisapmuna!
+Tatap Jesus, naung tutu manggarari dosamuna.
+Ai marhite Jesus i, sahat hamongan i.

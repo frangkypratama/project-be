@@ -1,0 +1,57 @@
+@be 332
+@bl 111
+@title Binoto Jonok ni adamhu?
+@key Eb
+@meter 4/4
+@credit Georg Osterreicher 1615
+@pages 310 311
+@status Lirik dicek · 17/19 baris sama dgn pembanding
+@check Pembanding lirik: baris "Jesus, d.u." tidak dihitung; beda di baris 9 (ahu) dan 19 (hamamatengki); dicek ulang ke scan hlm 310–311, buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 332) | https://bukuende.wordpress.com/2013/06/22/binoto-jonok-ni-adamhu-buku-ende-no-332-buku-logu-no-111/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu tercetak "Lagu No. 111" (bukan "Logu No.").
+@check "d.u." di akhir ayat 2–5 = ulangi bagian "Jesus, Jesus, …"; tidak diulang di teks ayat.
+#A
+0 5 3 2 | 1 5 6 5 | 4 . 3 . |
+0 5 6 7 | 1' 7 6 6 | 5 . . . :|
+> Bi-no-to jo-nok ni a-dam-hu? A-ring-ku lao, bo-da-ri ro:
+> Aik su-ra ro tom-pu pon-jot-hu Par-pu-di i, bi-no-to do?
+#B
+0 5 3 . | 0 1' 6 . |
+0 6 5 3 | 4 5 3 . | 0 3 2 5 | 1 4 3 2 | 1 . . . |]
+> Je-sus, Je-sus, mar-hi-te mu-dar-Mi pa-so-nang ha-ma-ma-teng-ki!
+#V
+Binoto jonok ni adamhu? Aringku lao, bodari ro:
+Aik sura ro tompu ponjothu Parpudi i, binoto do?
+Jesus, Jesus, marhite mudarMi pasonang hamamatengki!
+-
+Jotjot asing di potang ari, asa di manogotna i;
+Ai tagan au dison mansari, tongtong tagamon ajalhi,
+Jesus, d.u.
+-
+Ajari au, ale Tuhanku, mamingkir hamamatengki,
+Huhut paingot ma rohangku tongtong di hamamateMi.
+Jesus d.u.
+-
+Urupi ahu, paturehon langkangku na di tano on;
+Paingot ma ahu, mangalehon tu Ho, Tuhanku, rohangkon.
+Jesus, d.u.
+-
+Baen lam tonggi di ahu surgo, lam paet huhut portibi on.
+Sai naeng tu ginjang au manggogo, saleleng au di tano on.
+Jesus, d.u.
+-
+Huphupi ma sude dosangku, o Jesus dohot mudarMi;
+I do hubaen parulosonku, manopot hasonangan i.
+Jesus, d.u.
+-
+Tu ho, o Jesus, au palohot rohangku lonong di rohaM;
+Manang di dia Ho, au dohot, dison pe nang di banuaM.
+Jesus, d.u.
+-
+Antong, nang ro pe hamatean marsogot, nang sadari on,
+Ndang habiaran be udean, ai Jesus do di au tongtong.
+Jesus.d.u.
+-
+Ipe na sonang au mangolu, ndang marsak au lao mate pe;
+Huboto do, sai dipangolu Ho au di hamamatengki.
+Jesus, d.u.

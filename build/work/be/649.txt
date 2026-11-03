@@ -1,0 +1,28 @@
+@be 649
+@bl 0
+@title Dipasada Ama i.
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair & Lagu: B ond of Love, Otis Skillings. · Terj.: Pdt. MH. Sihite · Ayat 3: Pdt. J.A.U. Doloksaribu
+@pages 666 667
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator. Kepala bagian: "HURIA".
+@check Do = Bes3 (not 3 pertama = D4 di balok) → @oct -1. Melodi sama dengan BE 650.
+@check Kredit tercetak "B ond of Love" (= The Bond of Love) — ditulis apa adanya.
+@status Lirik dicek · 5/6 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (porsea) beda ejaan; sesuai scan hlm 666.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 649) | https://bukuende.wordpress.com/2013/06/13/dipasada-ama-i-buku-ende-no-649-buku-logu-no-649/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3+4 | 5 5 6 6 | 5 . . 5+5 |
+1' 1' 3' 1' | 2' . . 3'+2' | 1' 2' 3'+3' 2'+1' |
+6 (6+7) 1' 7+6 | 5 (1'+1') 7 2' | 1' . . |]
+> Di-pa-sa-da A-ma i, ang-ka na por-se-a i, ni ra-hu-tan ni ho-long ni Kris-tus i mar-hi-te Ton-di-Na i
+#V
+Dipasada Ama i, angka na porsea i,
+ni rahutan ni holong ni Kristus i marhite TondiNa i
+-
+Las roham endehon ma Holong i radoti ma,
+sauduran hita na porsea i di Tuhanta Jesus i.
+-
+Kristus i tatiru ma, roha tapaserep ma,
+taeahi na tau padamehon hita, tu angka dongan i.

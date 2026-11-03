@@ -1,0 +1,40 @@
+@be 130
+@bl 212
+@title Parohon harajaonMi
+@key Ab
+@meter 4/4
+@credit Johann Michael Hayden, abad 18
+@pages 117 118
+@status Lirik dicek · 12/15 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 15 baris sama; 3 baris beda ejaan/kata hilang. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 130) | https://bukuende.wordpress.com/2013/06/16/parohon-harajaonmi-buku-ende-no-130-buku-logu-no-212/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Buku menulis "Hayden"; lazimnya Johann Michael Haydn.
+@check "7*" pada baris 4 bertanda mol di not balok (Ges); dibaca b7.
+#A
+5, | 1 1 1 3 | 3 .+2 2 v 4 | 3 (4+2) 1 7, |
+1 . . :|
+> Pa-ro-hon ha-ra-ja-on-Mi, sa-ha-la-mi-do i,
+> Di-ba-hen i, o Je-sus-ki, ndang ja-di sun-dat i
+#B
+(3+1) | 5, 5, 5, 4, | 4, .+3, 3, v (3+1) | 5, 5, 5, 4, |
+4, .+3, 3, v 5, | 1 .+1 (1+3) (3+5) | 5 .+4 4 v 5, | 1 .+1 (1+3) (3+5) |
+5 .+4 4 v 5, | 1 . b7, . | 6, . 0 (4+2) | 1 .+1 (3+2) (1+7,) | 1 . 0 |]
+> A-lai i-ang-go e-me i, ndang o-lo mar-par-bu-e i, i-ang-go so na ma-te i di na-bu-ni di ta-no i; Deng-gan do i, di-baen na ma-te i.
+#V
+Parohon harajaonMi, sahala mido i,
+Dibahen i, o Jesuski, ndang jadi sundat i
+Alai ianggo eme i, ndang olo marparbue i,
+Ianggo so na mate i di nabuni di tano i;
+Denggan do i, dibaen na mate i.
+-
+O Jesus, ndada sahat Ho tu hasangaponMi,
+Tung sura na manjua Ho, manaon na porsuk i,
+Sai jalo hami on sude, tu harajaonMi muse:
+Ndang na manjua hami on, maniru Ho di tano on.
+Pabongot pe tu surgo hami be!
+-
+Naung mate Ho di tano, sobokhon eme i,
+Sondangi ma portibi on na sahat di Ho i,
+Sai suru angka naposoM, mangaliati tano on,
+Mamaritahon hataMi: Sai naeng tumpahannami i,
+Manumpak be do hami on sude.

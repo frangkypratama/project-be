@@ -1,0 +1,54 @@
+@be 341
+@bl 132
+@title Tibu ma jumpang
+@key Ab
+@meter 4/4
+@credit Lagu : Joseph Klug 1529
+@pages 319 320 321
+@status Lirik dicek · 26/28 baris sama dgn pembanding
+@check Pembanding lirik: beda: ayat 4 baris 1 "panjua", baris 2 "nanilohotan"; "nanilohotan" dicek ulang ke scan: tercetak demikian. Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 341) | https://bukuende.wordpress.com/2013/06/18/tibu-ma-jumpang-buku-ende-no-341-buku-logu-no-132/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot. Hlm 320 baris 2: angka 7 (birama 1) dan 5 (akhir birama 3) tercetak tanpa titik oktaf, tetapi di not balok keduanya di bawah do (G4, Es4) → ditulis 7, dan 5,.
+#A
+0 1 1 3 | 2 1 2 2 | 3 . v 1 . | 3 4 5 3 | 2 . 1 . :|
+> Ti-bu ma jum-pang ting-ki ni pa-no-pot ni Tu-han-ta
+> Di hi-ta ma-ni-si-a i, man-da-bu par-u-hum-na
+#B
+0 3 3 2 | 1 7, 1 3 | 2 . . v 3 | 1 1 1 5, |
+1 2 3 . v | 1 . 3 4 | 5 3 2 . | 1 . . . |]
+> Tu na-sa na ma-ngo-lu i, nang tu su-de naung ma-te pe; I ma di-dok ha-ta-Na.
+#V
+Tibu ma jumpang tingki ni panopot ni Tuhanta
+Di hita manisia i, mandabu paruhumna
+Tu nasa na mangolu i, nang tu sude naung mate pe;
+I ma didok hataNa.
+-
+Tarbege ma soara ni sarune ni suruan.
+Dung i na hehe ma sude, na modom di tanoman.
+Alai mamintor muba be saluhut na mangolu pe,
+Dibaen Tuhanta Jesus.
+-
+Dung i jahaon ma tibu pustaha panuratan
+Di nasa naung hea tutu binaen ni hajolmaon;
+Disi dibege sasude torang na niulana be
+Saleleng di ngoluna.
+-
+Marjea ma disi sude panjua di Tuhanta,
+I ma nanilohotan be Ni arta na lao sega.
+Ihuthononna ma disi sibolis, sipangago i,
+Lao tu banuatoru.
+-
+Urupi, Jesus, au disi, hinorhon ni mudarMu,
+Asa tarsurat goarhi di sipangoluonmu.
+Na pos do rohangki disi ai nunga talu musu i,
+Margarar pe utangku.
+-
+Dibahen i ondihon au di ari paruhuman;
+Sai Ho ma paluahon au rap dohot angka dongan
+Ho ma pujionnami be, dung sahat hami sasude
+Di surgo niungkapMu.
+-
+O Jesus, leleng do hape ariM paimaonnami;
+Mabiar hami sasude, dibaen sitaononnami.
+Sai ro ma Ho, ro ma tibu, palua hami situtu
+Sian sude pangago.

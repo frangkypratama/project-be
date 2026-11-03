@@ -1,0 +1,36 @@
+@be 261
+@bl 145
+@title Bintang sipartogi
+@key Eb
+@meter 4/4
+@credit Minna Koch Schupper 1897
+@pages 241
+@check Not "4*" baris 2 = 4 kres (paranada memakai tanda pugar pada A, jadi A di Es mayor = #4).
+@check Baris 2 "5 . 3 1'": tanda "'" setelah 1 dibaca tanda napas (paranada: Es4, bukan Es5).
+@check Ayat 2–3 diawali ":,:" pada baris terakhir (bagian berulang |: :|); ditulis sesuai buku.
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 261) | https://bukuende.wordpress.com/2013/06/09/bintang-sipartogi-buku-ende-no-261-buku-logu-no-145/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 .+4 2 7, | 1 . 5, 0 | 4 .+5 3 1 | 2 . . 0 |
+3 .+3 #4 #4 | 5 . (3 1) v | 7, .+7, 1 6, | 5, . . 0 |
+4 .+5 3 1 | 3 . 2 0 | 6 .+5 (5+4) (4+3) | 2 . . 0 |
+> Bin-tang si-par-to-gi, ba-tu ma-mak i, tung-kot si-ti-o-pan Di na lan-dit i; ro-ti ha-ngo-lu-an. mu-al na u-li,
+#B
+5 .+5 1' 7 | (7 6) (4 2) | 1 .+1 3 2 | 1 . . 0 :|
+> pan-dang si-tu-ju-on: i ma Je-sus i.
+#V
+Bintang sipartogi, batu mamak i,
+tungkot sitiopan Di na landit i;
+roti hangoluan. mual na uli,
+pandang situjuon: i ma Jesus i.
+-
+Ho tutu gogongku, hatiuron i,
+Dame ni rohangku, hasonanganki,
+Ngolu ni tondingku, sihaposanki,
+:,: I ma, ale Tuhan, Ho sambing do i.
+-
+So marhitehite, Ho, o Jesuski,
+Ba tung sian ise gogo lao tusi?
+Ho tarbaen paneang, siporsanonki.
+:,: Holong na hinirim: Ho do Jesuski.

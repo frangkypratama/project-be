@@ -1,0 +1,29 @@
+@be 318
+@bl 14
+@title Nunga loja dagingkon
+@key F
+@meter 4/4
+@credit Kaiserwerth 1842
+@pages 295 296
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di baris 4 ("Hesuski" di buku). Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 318) | https://bukuende.wordpress.com/2013/06/16/nunga-loja-dangingkon-buku-ende-no-318-buku-logu-no-14/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Tanda ulang ":‖" di akhir lagu tercetak, tetapi hanya satu baris lirik; satu ayat (2 baris) sudah memakai seluruh melodi (28 not).
+@check Birama "1 . 1̄ 1̄ 1̄ 7̄ 1̄" = 1/4 bertitik + lima 1/8 (sesuai balok). "3 2 . 0" dengan busur = 3 legato ke 2 (1/2) lalu diam.
+#A
+1 .+1 1+1 7,+1 | (3 2) . 0 |
+2 .+2 2+2 1+2 | (4 3) . 0 | 3 .+3 3+3 2+1 |
+6 . . 0 | 5 .+3 5+4 6,+7, | 1 . . 0 :|
+> Nu-nga lo-ja da-ging-kon, Naeng ma pit-pit ma-tang-kon, o Tu-han-ku, ma-ta-Mi du-ngo di po-do-man-ki
+#V
+Nunga loja dagingkon, Naeng ma pitpit matangkon,
+O Tuhanku, mataMi dungo di podomanki.
+-
+Sesa jolo sasude na hubaen na so ture;
+Ai luhut na sala i dipature Hesuski.
+-
+Dohot angka donganki, sahat ma tu tanganMi.
+Isi ni portibi on jaga ma saborngin on.
+-
+Angka na mardangol i dohot na marsahit i,
+Angkup ni na tangis pe, sai apuli ma sude.

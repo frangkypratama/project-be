@@ -1,0 +1,36 @@
+@be 532
+@bl 366
+@title Molo masinondang
+@key E
+@meter 3/4
+@credit Juge L. No. 187 · Logu: Ernst Gebthard 1899
+@pages 503 504
+@check Judul di kepala lagu "Molo masinondang", baris pertama lirik "Molo marsinondang bintang".
+@check Kelompok "5̄ 6̄ 5̄" / "2̄ 5̄ 4̄" di not balok bertanda 3 (triol), dua not pertama berlegato; ditulis (5+6)+5. Tampilan not balok situs belum mendukung triol, jadi durasinya bisa tampak tidak tepat.
+@check Kredit tercetak "Ernst Gebthard" (ejaan lazim: Ernst Gebhardt) — ditulis apa adanya.
+@check Baris terakhir "4 2̄ 5̄ 6̄ 5̄": garis atas pada 2 tidak sesuai not balok (F♯ ♩, sama dengan baris sebelumnya) → ditulis 1 ketuk.
+@status Lirik dicek · 7/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 12 baris sama; baris 1, 7, 8 beda ejaan; baris 3 beda kata (marhabong); baris 4 kata tambahan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 532) | https://bukuende.wordpress.com/2013/06/16/molo-marsinondang-buku-ende-no-532-buku-logu-no-366/ | Pembanding lirik (tanda baca diabaikan).
+#A
+3+.+.+4 | 5 3 1'+.+.+6 | 5 3 (5+6)+5 |
+4 2 (2+5)+4 | 3 0 3+.+.+4 | 5 3 1'+.+.+6 |
+5 3 3+.+.+3 | 2 7 1'+.+.+#4 | 5 0 (5+6)+5 |
+4 2 (5+6)+5 | 3 1 5+1' | 7 .+6 4+6 | 5 0 (5+6)+5 |
+4 2 (5+6)+5 | 3 1 5+1' | 7 .+5 6+7 | 1' 0 |]
+> Mo-lo mar-si-non-dang bin-tang ang-ka na di la-ngit i, Sai ma-lu-ngun do ro-hang-ku, naeng ha-top tu sur-go i, aut mar-ha-bong ha-bong a-hu naeng tu Da-mang i au lao, tu hu-tang-ku na di gin-jang tu na dao, na man-sai dao.
+#V
+Molo marsinondang bintang angka na di langit i,
+Sai malungun do rohangku, naeng hatop tu surgo i,
+aut marhabong habong ahu naeng tu Damang i au lao,
+tu hutangku na di ginjang tu na dao, na mansai dao.
+-
+Tong dagingku mangingani rura hasusaan on,
+Tondingki do maradian, tung na sonang rohangkon.
+Dibaen i huhalungunhon huta na di ginjang i,
+Taenonku hasonangan na so dung niida i.
+-
+O hamu sude na marsak na di atas tano on,
+Nang na pogos, na hansitan, tatap ma sambulomon.
+Boi malua ho, na loja, dohot sian dagingmon.
+Asal Jesus ma jambarmu disadui nang dison.

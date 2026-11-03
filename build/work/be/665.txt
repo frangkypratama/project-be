@@ -1,0 +1,23 @@
+@be 665
+@bl 0
+@title Hehe ho marsinondang
+@key D
+@meter 4/4
+@credit Lagu: Mache dich auf und Werde lihet, Kommunitat Gnadèntal, 1972 · Terj.: Dcs. Bonaria Hutabarat
+@pages 685 686
+@status Lirik dicek · 3/4 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 2 ("hehema" disambung, sesuai lirik "he-he-ma"). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 665" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 665) | https://bukuende.wordpress.com/2013/06/13/hehe-ho-marsinondang-buku-ende-no-665-buku-logu-no-665/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Jes. 60:1. Judul tercetak "Hehe ho marsinondang — Kanon 4 lagu" (kanon 4 suara; baris bertanda ① ② ③ ④ = tempat masuk suara 1–4).
+@check Kredit ditulis seperti tercetak ("Werde lihet", "Kommunitat Gnadèntal"; lazimnya: Mache dich auf und werde licht, Kommunität Gnadenthal).
+#A
+1 1+1 2 2+2 | 5, 5,+5, 1 . |
+3 3+3 4 4+4 | 2 2+2 3 . |
+1' 1'+1' 2'+1' 7+6 | 5 5 5 . |
+5 5 6 . | 7 . 1' . |]
+> He-he ma ho mar-si-non-dang ma ho, he-he-ma ho mar-si-non-dang ma ho, ai nu-nga ro Pa-non-dang-mi tu ho, ma-non-da-ngi ho.
+#V
+Hehe ma ho marsinondang ma ho,
+hehema ho marsinondang ma ho,
+ai nunga ro Panondangmi tu ho,
+manondangi ho.

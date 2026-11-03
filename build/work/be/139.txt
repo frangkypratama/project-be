@@ -1,0 +1,30 @@
+@be 139
+@bl 74
+@title Ndang tadingkononku Ho 2
+@key F
+@meter 4/4
+@credit Johann Ulrich, 1674
+@pages 125 126
+@status Lirik dicek · 6/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 6 dari 9 baris sama; 3 baris beda ejaan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 139) | https://bukuende.wordpress.com/2013/06/18/sada-siparmahan-i-buku-ende-no-139-buku-logu-no-74/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Angka "4*" bertanda pugar (B) di not balok; dibaca #4.
+#A
+3 3 5 2 | (1+2) 3 2 . v | 2 2 3 5 | 6 5 (5 4) | 3 . . 0 :|
+> Sa-da Si-par-ma-han i, Sa-pu-ngu-an dor-bi-a-na!
+> Di na jum-pang ha-ta i, Lo-ngang si-tu-tu ro-han-ta.
+#B
+2 2 (3+#4) 5 | 5 #4 5 . | 3 5 4 3 | 2 2 1 . |]
+> Sai ha-po-si Je-sus i, ing-kon saut ha-ta-Na i.
+#V
+Sada Siparmahan i, Sapunguan dorbiana!
+Di na jumpang hata i, Longang situtu rohanta.
+Sai haposi Jesus i, ingkon saut hataNa i.
+-
+Dao dope arina i, tatap ma ai nunga mullop
+Sangap ni Tuhanta i na tu bangso i naeng songgop.
+Loja do na lilu i mangoloi di begu i.
+-
+Jesus, ro ma Ho tibu manaluhon haholomon!
+Sai marlojong situtu baen hataM tu hajolmaon,
+Asa haru jumpang i na nidok ni hataMi!

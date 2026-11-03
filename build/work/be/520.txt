@@ -1,0 +1,33 @@
+@be 520
+@bl 357
+@title Partangisan do hape.
+@key D
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 491 492
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 12 baris sama; beda: L2 (sahi), L11 (atas), L12 (Dapotanta). Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 520) | https://bukuende.wordpress.com/2013/06/16/partangisan-do-hape-buku-ende-no-520-buku-logu-no-357/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "Z. No. 84.". Halaman judul bagian: "Na di ginjang i ma lului!".
+@check Baris 2 birama 4 tercetak "4.6" dengan satu garis atas, baris 4 dengan garis atas ganda; keduanya ditulis 4+.+.+6 (1/8 bertitik + 1/16).
+#A
+5 .+6 5+.+.+3 1+.+.+2 | 3 . . . | 2 .+2 5+.+.+2 3+.+.+4 |
+3 . . . | 5 .+6 5+.+.+3 1'+.+.+7 | 6 . . . | 2+.+.+3 4+.+.+6 5 7, | 1 . . . |
+1' .+1' 7+.+.+6 7+.+.+1' | 5 . 3 0 | 5 .+5 6+.+.+5 6+.+.+5 | (2 . 4) 0 |
+3 .+4 5+.+.+3 1'+.+.+7 | 6 . 1' 0 | 2+.+.+3 4+.+.+6 5 7, | 1 . . 0 |]
+> Par-ta-ngi-san do ha-pe ang-go ha-si-a-ngan on; Hol-so, ar-sak, sa-hi pe, Sai ma-no-sak do tong-tong Ing-kon song-gop ha-ma-te-an tu su-de-na jol-ma i; Ai su-de do na ma-ne-an U-hum a-la do-sa i.
+#V
+Partangisan do hape anggo hasiangan on;
+Holso, arsak, sahi pe, Sai manosak do tongtong
+Ingkon songgop hamatean tu sudena jolma i;
+Ai sude do na manean Uhum ala dosa i.
+-
+Ndang na tarpasiding be anggo hamatean i.
+Ingkon do dibolus be, di na lao tu surgo i.
+Sihirimon ni rohanta, hangoluan sogot i.
+Tau pangapul di rohanta. Angka na porsea i.
+-
+Unang marsak hita be naung mananda Jesus i;
+Ai inganan na rade dapot ho di surgo i.
+Tatadingkon pe luhutna. Na di atas tano on;
+Dapotanta di lambungNa hasonangan na tongtong.

@@ -1,0 +1,52 @@
+@be 805
+@bl 0
+@title Molo adong tingki pajumpang
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Biv. M. H. Sitorus / Pdt. J. A. U. Doloksaribu · Lagu: Tading ma ham; Lagu rakyat Simalungun
+@pages 884 885 886
+@status Lirik dicek · 15/18 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 kata 2 (na) beda, baris 4 kata 3 (suni) & baris 14 kata 1 (ala) beda ejaan; dicek ulang ke scan hlm 884/886 → buku tetap.
+@check Pembanding menyebut Buku Logu No. 805; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 805) | https://bukuende.wordpress.com/2013/06/16/molo-adong-tingki-pajumpang-buku-ende-no-805-buku-logu-no-805/ | teks ayat
+@check Bagian "TABE DOHOT PARSIRANGAN DOHOT BORHAT-BORHAT". Tidak ada "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Do = Bes (tanda mula 2 mol; not 5 = F4, 1̇ = Bes4) → @oct -1.
+@check "1̇ . 2̇ 1̇" dengan garis atas ganda pada 2̇ 1̇ ditulis 1' .+.+2'+1' (balok: Bes4 1/4 bertitik + C5–Bes4 1/16).
+@check Garis birama ganda tercetak setelah "do-ngan." (akhir bait) — dipakai sebagai batas bagian A/B; bagian B = "Tuhanta ma mangaramoti, paima jumpang musengani" (diulang di tiap ayat).
+#A
+0 5 1' (2'+3') | 3' . . (2'+1') |
+2' . . (1'+6) | (1' .+.+2'+1') 5 . |
+0 3 5 (6+5) | 5 . . (6+5) | 5 . . (6+1') |
+(1' .+.+2'+1') 5 . | 0 5 1' (2'+3') |
+3' . . (2'+1') | 2' . . (1'+6) | (1' .+.+2'+1') 5 . |
+0 3 5 (6+5) | 5 . . (6+5) | 5 . . (6+1') |
+(1' .+.+2'+1') 5 . |
+> Mo-lo a-dong ting-ki pa-jum-pang, ing-kon a-dong ting-ki mar-si-rang, han-sit na i la-o mar-si-rang, a-la ro su-ni na mar-do-ngan.
+#B
+0 3' 3' (2'+1') |
+2' . . 1' | 3' . . 2' | (2' .+.+3'+2') 1' . |
+0 3' 3' (2'+1') | 2' . . (1'+2') |
+3' . . 2' | (2'+3' 2'+1') 1' . |]
+> Tu-han-ta ma ma-nga-ra-mo-ti, pa-i-ma jum-pang mu-se-nga-ni.
+#V
+Molo adong tingki pajumpang,
+ingkon adong tingki marsirang,
+hansit na i lao marsirang,
+ala ro suni na mardongan.
+Tuhanta ma mangaramoti,
+paima jumpang musengani.
+-
+Tuhanta Jesus pardomuan,
+di hita angka na mardongan,
+dao donok pe maringanan,
+tongtong ma masitangiangan,
+Tuhanta ma mangaramoti,
+paima jumpang musengani,
+-
+Molo malungun rohamuna,
+ala sihol ni rohamuna,
+sai dok ma ditangiangmuna,
+goar ni na dirohamuna,
+Tuhanta ma mangaramoti,
+paima jumpang musengani.

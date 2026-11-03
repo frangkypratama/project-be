@@ -1,0 +1,38 @@
+@be 84
+@bl 195
+@title Aut na ginorga tu rohangku
+@key F
+@meter 3/4
+@credit Wilhem Amandus Auberlen, 1855
+@pages 75
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan baris 1,8,12; baris 4 pembanding punya kata tambahan di akhir (buku: "binahen ni!") — perlu dicek manusia.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 84) | https://bukuende.wordpress.com/2013/06/09/aut-na-ginorga-tu-rohangku-buku-ende-no-84-buku-logu-no-195/ | 8/12 baris sama
+@check Dua birama dicetak "4*.6 5 0" dan "5.4 3 0" (4 ketuk di birama 3/4). Dibaca not 5/3 dan tanda diam masing-masing ½ ketuk agar genap 3 ketuk — mohon dicek.
+@check Birama sebelum tanda ulang dicetak "5 . 0 ." — dibaca 5 (1/2) + diam (1/4).
+#A
+3 3 3 | 4 . 3 | (3 2) (1+2) | 1 7, 0 |
+2 5 4 | 3 . 6 | 5 . #4 | 5 . 0 :|
+> Aut na gi-nor-ga tu ro-hang-ku bo-huM di na lao ma-te Ho!
+> Aut na hu-i-ngot, o Tu-han-ku. tong-tong pang-ko-phop-Mi di au!
+#B
+2 5 7 |
+(7 6) 5 | 6 . 5 | (#4 .+6) 5+0 | 2 2 3 | 4 . 3 |
+2 . (3+2) | 2 . 0 | 3 3 3 | 6 . 2 | 2 . (3+4) |
+(5 .+4) 3+0 | 1 2 3 | (4 .+5) 3 | (2 1) 7, | 1 . . |]
+> Ai Ho do pa-lu-a-hon a-hu, do-sang-ku do pi-nor-san-Mi; Di-dao-ni Ho par-sa-hit-on-ku; Mar-tu-a au bi-na-hen ni!
+#V
+Aut na ginorga tu rohangku bohuM di na lao mate Ho!
+Aut na huingot, o Tuhanku, tongtong pangkophopMi di au!
+Ai Ho do paluahon ahu, dosangku do pinorsanMi;
+Didaoni Ho parsahitonku; Martua au binahen ni!
+-
+Sai jalo m'au, ale Tuhanku, baen upa ni na tinaonMi;
+Sai naeng ingoton ni rohangku tung sasude na binaenMi;
+Humophop au pardosa godang dibahen holong ni rohaM;
+Hinorhon ni tarbaen au sonang lao mandapothon banuaM.
+-
+Mauliate ma rohangku di Ho, O Jesus Tuhanki!
+Ho naeng tongtong haholonganku marningot denggan basaMi.
+Antong, sai tiop ma tanganku manogu au tu lambungMi;
+Dijalo Ho do tangiangku; Sai pos do rohangki disi.

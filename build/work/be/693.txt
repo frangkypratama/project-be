@@ -1,0 +1,47 @@
+@be 693
+@bl 0
+@title Jesus do Tuhan
+@key Db
+@meter 6/8
+@credit Syair: "He hideth my Soul; Willeam J. Krikpatrick; Terj.: Pdt. J.A.U Dokolsaribu; Lagu: Fanny J. Crosby
+@pages 723 724 725
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 2, 3, 8 beda (ejaan/kata hilang di pembanding); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 693) | https://bukuende.wordpress.com/2013/06/16/jesus-do-tuhan-buku-ende-no-693-buku-logu-no-693/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 693. Birama 6/8: satu token = 1/8. Nada dasar Des (5 mol), not gantung 5 = As4.
+@check Kredit ditulis seperti buku; tampaknya tertukar (lazim: syair Fanny J. Crosby, lagu William J. Kirkpatrick), ejaan "Willeam", "Krikpatrick", "Dokolsaribu" juga seperti buku.
+@check Reff birama 1 "7 . 6 7" dan baris 3 "1̇ . 1̇ 1̇" ditulis sebagai 1/4 + dua 1/16 sesuai balok.
+#A
+5 | 5 .+4 3 3 2 1 | 6 .+6 6 5 . 5 |
+5 .+4 3 3 4 3 | (2 . . 2) . 5 | 5 .+4 3 3 2 1 |
+6 .+6 6 1' . 6 | 5 .+5 5 5 4 2 | (1 . . 1 .) |]
+> Je-sus do Tu-han-ku Si-hop-hop au on. I-ba-na do ha-po-san-ki ta-ngan-Na-na go-go ma-no-gu au on, pa-to-gu au di lang-kang-ki
+#B
+5 | 7 .+7 7 7 . 6+7 | 1' .+7 6 5 . 5 |
+4 3 4 2 6 5 | (3 . . 3) . 5 |
+1' .+1' 1' 1' . 1'+1' | 2' .+1' 1' 1' . 6 |
+5 .+5 5 5 5 5 | (5 . . 5) . 6 |
+5 .+3 1 4 .+7, 7, | (1 . . 1 .) |]
+> Tu-han-ku tong-tong su-ma-ri-hon au on mar-tu-a so-nang ton-ding-kon ho-long ni ro-ha-Na pa-hi-sar au on mar-da-me tong-tong ro-hang-kon mar-da-me tong-tong ro-hang-kon.
+#V
+Jesus do Tuhanku Sihophop au on.
+Ibana do haposanki
+tanganNana gogo manogu au on,
+patogu au di langkangki
+Ref: Tuhanku tongtong sumarihon au on
+martua sonang tondingkon
+holong ni rohaNa pahisar au on
+mardame tongtong rohangkon
+mardame tongtong rohangkon.
+-
+Jesus do Tuhan Siramoti au on
+na margogoihon diringkon,
+nang gok parungkilon, godang na tinaon,
+sabam do dibaen rohangkon.
+Ref: Tuhanku tongtong . . .
+-
+Ndang montok asi ni rohana di au,
+digohi TondiNa do au,
+tama pujionku na marmudu au,
+Tuhanku Sipalua au.
+Ref: Tuhanku tongtong . . .

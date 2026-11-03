@@ -1,0 +1,35 @@
+@be 528
+@bl 362
+@title Tu dia ho dung mate ho
+@key F
+@meter 4/4
+@credit Z. No. 241 · Lagu: Rev. E.A. Hoffman
+@pages 499 500
+@check Birama "3 1̄ 3" (u-jung-na ro) dicetak tanpa titik; not balok: A ♩. F ♪ A ½ → ditulis "3 .+1 3 .".
+@check "‖" dicetak di tengah birama "(2 3̄) .4̿ 3 ‖ 3̄" (sebelum ketukan gantung "dung"); ditulis sebagai satu birama.
+@check Ayat 2 dicetak "Jsus manungkun" (kemungkinan "Jesus") — ditulis apa adanya.
+@status Lirik dicek · 5/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 5 dari 10 baris sama; baris 1, 2, 4, 5, 9 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 528) | https://bukuende.wordpress.com/2013/06/18/tu-dia-ho-dung-mate-ho-buku-ende-no-528-buku-logu-no-362/ | Pembanding lirik (tanda baca diabaikan).
+#A
+3 2+1 4 .+3 | 3 .+1 3 . | 5 4+3 2 .+2 |
+(3 4)+3 2 .+0 | 3 2+1 4 .+3 | 3 .+1 3 . |
+5 5+5 5 .+3 | (2 3)+.+.+4 3 .+3 | 4 .+3 3 0+5 |
+6 .+5 5 . | 1 1+2 3 .+1 | 2 .+1 1 . |]
+> Tu-di-a ho, dung ma-te ho, a-lu-si ma, a-lu-si-ma! Jem-pek ting-kim, u-jung-na ro Tu-di-a ho, dung ma-te ho, dung ma-te ho, dung ma-te ho, sai ping-kir ma. tu di-a ho?
+#V
+Tudia ho, dung mate ho, alusi ma, alusima!
+Jempek tingkim, ujungna ro
+Tudia ho, dung mate ho, dung mate ho, dung mate ho, sai pingkir ma. tu dia ho?
+-
+Ise mamalit Jesus i, sai olo ho, sai olo ho.
+Jsus manungkun dohot ho : Tu dia ho dung mate ho?
+Dung mate do ....
+-
+Lilu do ho di dosami, mago do ho, mago do ho.
+Unang be togang, mulak, ro! Tu dia ho, dung mate ho?
+Dung mate ho ....
+-
+Jangkon ma Jesus, Rajami, Sihophop ho, sihophop ho,
+las dibaen mudarNa ho, dung i rade tu surgo ho.
+Rade ma ho, rade ma ho. Tu surgo sai rade ma ho.

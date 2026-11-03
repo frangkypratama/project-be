@@ -1,0 +1,40 @@
+@be 68
+@bl 93
+@title Masilelean angka taon
+@key Eb
+@meter 4/4
+@credit Johann Hermann Schein, 1628
+@pages 59 60
+@status Lirik dicek · 12/15 baris sama dgn pembanding
+@check Judul di kepala lagu "Ihuthon au sude hamu" (nama Logu No. 93); judul di sini memakai baris pertama lirik.
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 15 baris sama persis; 3 baris beda ejaan ("pambenanku", "uhumMi", "Parbae"); "Parbae" dicek ke scan, dua lainnya belum dicek ulang.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 68) | https://bukuende.wordpress.com/2013/06/16/masilelean-angka-taon-buku-ende-no-68-buku-logu-no-93/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 3 4 5 5 | 4 3 2 v 5 |
+6 7 1' 7 | 6 . 5 :|
+> Ma-si-le-le-an ang-ka taon ro di u-jung-na so-got.
+> O Je-sus, le-hon par-ro-haon, na naeng tong-tong mar-ni-ngot
+#B
+5 | 1' 7 6 5 |
+4 3 2 v 5 | 5 3 4 5 | 3 2 1 |]
+> Di ha-la-lao ni a-ring-ki, Hu-hut ma-nim-bang u-jung ni.
+#V
+Masilelean angka taon ro di ujungna sogot.
+O Jesus, lehon parrohaon, na naeng tongtong marningot
+Di halalao ni aringki, Huhut manimbang ujung ni.
+-
+Diudut Ho do hosangki paidaida ahu,
+Manang adong parbue ni na niulaM di ahu.
+Hape jotjot tarhirim Ho: Parbue i ndang olo ro.
+-
+Ra naung tarrimas Debata marnida pambenanku.
+Ra naung didok: Tinaba ma, hau on na so dihangku,
+Ndang olo marparbue i tu aha be hasea i.
+-
+Alai na niondihonMi, do au, umbaen mangolu,
+Ho do mandok tu Ama i: Sai loas ma mangolu
+Hau on, asi ma rohaMi, taon i pe lalu uhumMi.
+-
+O Jesus, sai urupi au di taon na ro, mamboan,
+Parbae angka na sai tau padaohon hamagoan.
+Sai pargogoi ma au tongtong pasangap Ho di ngolungkon.

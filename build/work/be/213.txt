@@ -1,0 +1,39 @@
+@be 213
+@bl 115
+@title Dung sonang rohangku
+@key D
+@meter 4/4
+@credit Philipp Paul, Bliss 1876
+@pages 193 194
+@status Lirik dicek · 13/13 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 13 dari 13 baris sama; semua baris sama (refrein "d.u." tidak dihitung). Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 213) | https://bukuende.wordpress.com/2013/06/13/dung-sonang-rohangku-buku-ende-no-213-buku-logu-no-115/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Tanda birama di buku ¢ (alla breve); ditulis 4/4 dengan 4 ketuk per birama sesuai not angka.
+@check Pencipta lagu tercetak "Philipp Paul, Bliss 1876"; ejaan lazim Philip Paul Bliss.
+@check Bait 2–4 di buku diakhiri "Sonang do d.u." (refrein diulang).
+#A
+5 | 5 . 4 3 | 3 . 2 3 | (4 6) 5 4 | 3 . . v 5 |
+1' . 7 6 | 6 . 5 #4 | 5 . . v 5 | 1' . 1' 7 | 6 . 6 6 | 2' . 2' 1' |
+7 . v 6 5 | 1' . 1' 1' | 1' . 7 .+1' | 1' . |]
+> Dung so-nang ro-hang-ku di-baen Je-sus i, por-suk pe hu-ta-on di-son, na pos do ro-hang-ku di Tu-han-ta i, di-pa-so-nang tong-tong ro-hang-kon.
+#B
+5 5 | (5 . . . |
+5) . 5 5 | (5 . . . | 5) . 3 5 | 6 . 6 1' | 1' . 7 .+1' | 1' . . |]
+> So-nang do, so-nang do, di-pa-so-nang tong-tong ro-hang-kon.
+#V
+Dung sonang rohangku dibaen Jesus i,
+Porsuk pe hutaon dison,
+Na pos do rohangku di Tuhanta i,
+Dipasonang tongtong rohangkon. Sonang do d.u.
+-
+Nang dihaliangi sibolis pe au, naeng agohononna muse.
+Naung mate Tuhanku mangolu ma au,
+Utangki nunga sae sasude. Sonang do d.u.
+-
+Diporsan Tuhanku sandok dosangki,
+Bolong tu na dao do dibaen, nang sada na so jujuronna be i.
+Na martua tondingku nuaeng. Sonang do d.u.
+-
+Mangolu nang mate di Jesus do au,
+Ibana haporusanki, hataNa sambing do partogi di au,
+Ai na tau haposanku do i. Sonang do d.u.

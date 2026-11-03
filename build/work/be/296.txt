@@ -1,0 +1,25 @@
+@be 296
+@bl 231
+@title Holso rohangku ditatap Ho
+@key Eb
+@meter 6/8
+@credit Lagu: Theodor Kopp
+@pages 275
+@status Lirik dicek · 5/6 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 "Hoso" beda (buku tercetak Ho-so).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 296) | https://bukuende.wordpress.com/2013/06/13/holso-rohangku-ditatap-ho-buku-ende-no-296-buku-logu-no-231/ | 5/6 baris sama
+@check Lirik di bawah not tercetak "Ho-so ro-hang-ku", judul kepala lagu "Holso rohangku" — lirik ditulis apa adanya.
+#A
+5, 1 2 3 1 4 | 3 . 2 1 . . v |
+1 3 4 5 3 6 | 5 . 4 3 . 0 | 5 4 3 2 . 4 |
+4 3 2 1 . . v | 1' 7 6 6 5 1 | 3 . 2 1 . . |]
+> Ho-so ro-hang-ku di-ta-tap Ho; Ta-hu-tan a-hu-pa-nga-pul Ho. Naung tu ta-ngan-mu do sa-hat au, Je-sus Tu-han-ku ra-mo-ti au.
+#V
+Hoso rohangku ditatap Ho; Tahutan ahu, pangapul Ho.
+Naung tu tanganmu do sahat au, Jesus Tuhanku ramoti au.
+-
+Pos do rohangku di Ho antong, huhaholongi do Ho tongtong,
+Ho do hinirim ni rohangkon, Ho do pangiring di langkangkon!
+-
+Dame ni roha nang tuangki, mangolu, mate, Ho jambarhi,
+Ho do gogongku di dalanki patongon ahu tu surgo i.

@@ -1,0 +1,45 @@
+@be 783
+@bl 0
+@title Tuhan sitompa saluhut
+@key F
+@meter 3/4
+@credit Syair: O Lord of heaven and earth and sea; Christopher Wordswerth, 1653 · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: John Bacchus Dykes
+@pages 855 856
+@status Lirik dicek · 11/18 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di 7 baris ("na" setelah "ndang" tidak ada di pembanding pada ayat 1, 4, 6; ejaan di ayat 2, 3, 5, 8). Dicek ulang ke scan hlm 855–856: buku mencetak "ndang na tarasam", "ndang na tarbalos", "Silehon", "pelean" — ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 783) | https://bukuende.wordpress.com/2013/06/18/tuhan-sitompa-saluhut-buku-ende-no-783-buku-logu-no-783/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." → @bl 0.
+@check Kredit ditulis seperti buku ("Wordswerth, 1653"; lazimnya Christopher Wordsworth, 1807–1885).
+#A
+3 3 2 | 1 . 5, | 1 . 2 | 3 . . |
+5, 1 3 | 5 . 4 | (3 2) 1 | 2 . . |
+7, 1 2 | 1 . 1 | (3 4) 5 |
+6 . . | 1 3 .+2 | 1 . . |]
+> Tu-han si-tom-pa sa-lu-hut, Ho do na mar-mu-li-a i, ndang na tar-a-sam sa-lu-hut ni-le-hon-Mi.
+#V
+Tuhan sitompa saluhut, Ho do na marmulia i,
+ndang na tarasam saluhut nilehonMi.
+-
+Patar do asi rohaMi di sinondang ni ari i,
+di gogo ni huma i, nilehonMi.
+-
+Mauliate O Tuhan di rumahtangga na sonang,
+godang do pasupasu i, nilehonMi.
+-
+Ditongos Ho do AnakMi laho manobus jolma i,
+ndang na tarasam asiMi nilehonMi.
+-
+Silehon Ho do TondiMi ro di sude na ringkot i,
+holong, huaso, ngoluMi nilehonMi.
+-
+Ndang na tarbalos burjuMi disesa Ho do dosa i,
+togu do pangkirimon i nilehonMi.
+-
+Salpu do arta tano i, sada do na manongtong i,
+banua ginjang hot do i nilehonMi.
+-
+Luhut pelean nami on Ho do haroroan ni i,
+pelean na jinangkonMon nilehonMi.
+-
+Jalo ma somba nami on dohot pamuji nami i,
+arta nang ngolu nami on nilehonMi.

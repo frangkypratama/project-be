@@ -1,0 +1,38 @@
+@be 522
+@bl 359
+@title Surgo i sambulonta do i
+@key A
+@meter 4/4
+@credit R. L. No. 571 · Lagu: D.W.C Hutington
+@pages 493 494
+@check Kredit dicetak "D.W.C Hutington" (ejaan lazim: D. W. C. Huntington) — ditulis apa adanya.
+@check Birama "6̣ 4̄.4 4 4̄ 4̄" (baris refrein kedua): titik di antara 4 dan 4 dibaca sebagai pemisah; not balok menunjukkan dua not ½ (D5 D5).
+@check Ayat 2–4 hanya mencetak "Surgo i, surgo i......" untuk refrein; refrein diulang sama dengan ayat 1.
+@status Lirik dicek · 7/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 9 baris sama; baris 2 beda ejaan/kata tambahan, baris 5 kata hilang/tambahan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 522) | https://bukuende.wordpress.com/2013/06/18/surgo-i-sambulonta-do-i-buku-ende-no-522-buku-logu-no-359/ | Pembanding lirik (tanda baca diabaikan).
+#A
+5,+5, | 1 1+.+.+1 1 3+.+.+2 | 1 . 0 7,+1 |
+2 2+.+.+2 2 4+.+.+3 | 2 . . 1+2 | 3 3+.+.+3 3 2+.+.+1 |
+(1 . 6,) 4+4 | 3 3+.+.+3 2 3+.+.+2 | 1 . . |
+> Sur-go i sam-bu-lon-ta do i, ndang a-dong be si-ae-on di-si, na ma-mu-ji tong-tong na di-si, pi-na-lu-a ni Tu-han-ta i.
+#B
+7,+.+.+1 | 2 . . 1+.+.+2 | 3 . . 3+3 | 4 4+.+.+4 3 5+.+.+3 | 2 . . 5+.+.+4 |
+3 . . 2+.+.+1 | 6, 4+4 4 4+4 | 3 3+.+.+3 2 3+.+.+2 | 1 . . |]
+> Sur-go i, sur-go i, ndang a-dong be si-ae-on di-si, sur-go i, sur-go i, sur-go i, ndang a-dong be si-ae-on di-si
+#V
+Surgo i sambulonta do i, ndang adong be siaeon disi,
+na mamuji tongtong na disi, pinalua ni Tuhanta i.
+Surgo i, surgo i, ndang adong be siaeon disi, surgo i, surgo i, surgo i, ndang adong be siaeon disi
+-
+Na marloksa naung sahat tusi, tu inganan na sai denggan i.
+Aut naung domu ma au dohot i, gok ma las ni rohangku disi.
+Surgo i, surgo i......
+-
+Na mangkirim rohangku dison, paima sahat tusi nang au on.
+Taiti au, ale Tuhan tusi, asa rap dohot Ho au disi.
+Surgo i, surgo i,.....
+-
+Holan sada nama holsongki: Unang tading haholonganki,
+Na tu au pinalumenhonmi: Nang nasida sai togu tusi,
+Surgo i, surgo i,.....

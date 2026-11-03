@@ -1,0 +1,38 @@
+@be 144
+@bl 104
+@title Na hot padanku
+@key C
+@meter 4/4
+@credit J.G. Schicht, 1819
+@pages 129 130
+@check Bagian B baris 2 dicetak "| 1̇ 6̄4̄ | 3 2 | 1 . ‖" dengan garis birama di tengah; digabung menjadi satu birama 4/4 ("1' (6+4) 3 2") sesuai not balok.
+@check "7*" pada bagian B dibaca mol (♭7 = Bes) karena not balok buku memakai tanda mol.
+@check Ayat 2–5 diakhiri "Sai las d.u." (= ulangi refrein "Sai las rohangku…"), ditulis sesuai buku.
+@status Lirik dicek · 9/11 baris sama dgn pembanding
+@check Pembanding lirik: L6–L7 beda karena pembanding menulis refrein utuh per ayat, buku menulis "Sai las d.u.".
+@ref Lirik pembanding: bukuende.wordpress.com (BE 144) | https://bukuende.wordpress.com/2013/06/16/na-hot-padanku-buku-ende-no-144-buku-logu-no-104/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 5 3 1' 7 | 6 5 (5 4) | 3 v 6 2' 1' |
+7 (1'+6) 5 #4 | 5 . :|
+> Na hot pa-dan-ku tu Ja-ho-wa, bi-naen ni Je-sus Tu-han-ki;
+> Ai Hu-ta-ding-kon do na ro-a, hu-ja-lo Pan-di-di-on i
+#B
+3 | 4 4 5 5 |
+1' b7 6 . | 0 2' 7 5 | 1' (6+4) 3 2 | 1 . |]
+> Sai las ro-hang-ku a-la ni sa-le-leng-ni le-leng-na i.
+#V
+Na hot padanku tu Jahowa, binaen ni Jesus Tuhanki;
+Ai Hutadingkon do na roa, hujalo Pandidion i
+Sai las rohangku ala ni salelengni lelengna i.
+-
+Diparulosi Debatangku, tondingku na marjea i,
+Paboa sae sude dosangku, au hinaholonganna i. Sai las d.u.
+-
+Ianggo ulos ni tondingku tung mudar ni Jesusku do:
+I do nilehon ni Tuhanku, mamuri ahu dohot ho. Sai las d.u.
+-
+Disuru Debata Jahowa, tondiNa, mangajari au,
+Mangalo sasude na roa huhut pabadiahon au. Sai las d.u.
+-
+Nunga disurat Debatangku, goarhu di bukuNa i,
+Paboa nunga hot jambarhu, na di banuaginjang i. Sai las d.u.

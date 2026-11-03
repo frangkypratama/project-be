@@ -1,0 +1,62 @@
+@be 616
+@bl 0
+@title Uli na i diborngin na badia
+@key C
+@meter 4/4
+@credit Syair: O holy night, John S. Dwight · Terj.: Pdt. J. A. U. Soloksaribu · Lagu: Adolphe Adam
+@pages 615 616 617 618
+@status Lirik dicek · 9/17 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan/penulisan (Diborngin, portibion, borngin, linogihon, marlas, masomba) dan satu kata di baris refrein; dicek ke scan hlm 615–618: sesuai buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 616) | https://bukuende.wordpress.com/2013/06/18/uli-na-i-diborngin-na-badia-buku-ende-no-616-buku-logu-no-616/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 616".
+@check Birama berganti: birama 1 tercetak 4/4, birama 2 bertanda 2/4 ("6.6 4.6"), lalu 4/4 lagi; pola sama di baris "Diborngin i do tubu Sipa-". Birama 2/4 ditaruh di bagian tersendiri (#B 2/4, #D 2/4).
+@check Refrein baris 3: angka tercetak "1̇ . 7 . 6" (3 ketuk), not balok C5 setengah bertitik + B + A (4 ketuk) → ditulis "(1' . . 7)+.+.+6" mengikuti balok.
+@check Refrein baris 4 "1̇ . . 7": not balok C5 ½ lalu dua B ⅛ (berbeda sedikit dari angka); ditulis sesuai angka.
+@check Penerjemah tercetak "Pdt. J. A. U. Soloksaribu" (di lagu lain "Doloksaribu"); ditulis apa adanya.
+#A
+3 3+.+.+3 5 .+5 |
+> U-li na i di
+#B 2/4
+6+.+.+6 4+.+.+6 |
+> bor-ngin na ba
+#C
+1' . 5+.+.+5 #4+.+.+3 | 7 5+.+.+6 7 1'+.+.+7 |
+1 . . 0 | 3 3+.+.+3 5 .+5 |
+> di-a hu-mir-dop-hir-dop do bin-tang di-si. Di-bor-ngin i do
+#D 2/4
+6+.+.+6 4+.+.+6 |
+> tu-bu Si-pa
+#E
+1' . 5+.+.+5 #4+.+.+3 | 7 5+.+.+6 7 1'+.+.+7 |
+3 . . 0+5 | 5 6 2 5 |
+6+.+.+5 1'+.+.+3 6 5+.+.+5 | 5 6 2 5 |
+6+.+.+5 1'+.+.+3 5 0 |]
+> lu-a di-pang-ga-ga-tan di Bet-le-hem i, por-ti-bi-on da-ngol gok ha-ho-lo-mon mar-ni-da son-dang ni Tu-han-ta i,
+#F
+1' . . 7+.+.+6 | 7 . . 7 |
+(2' . 2')+.+.+6 6+.+.+6 | 1' . 1' 1' | (3' . 2') .+5 |
+(1' . . 7)+.+.+6 | (5 . 5)+.+.+5 6+.+.+5 | 5 . . 1' |
+2' . . 5 | 3' . . 2' | 1' . .+7 1'+.+.+2' | 1' . . 0 |]
+> U-li na i ma-ren-de do su-ru-an di bor-ngin i do tu-bu Kris-tus i di bor-ngin i do tu-bu Kris-tus i.
+#V
+Uli na i di borngin na badia humirdophirdop do bintang disi.
+Diborngin i do tubu Sipalua dipanggagatan di Betlehem i,
+portibion dangol gok haholomon marnida sondang ni Tuhanta i,
+Ref.: Uli na i marende do suruan di borngin i do tubu Kristus i
+di borngin i do tubu Kristus i.
+-
+Sian na dao parroha sian purba,
+ro do linogihon ni bintang i.
+Marsinggang be nasida lao marsomba,
+tu Jesus Kristus Sipalua i.
+Ibana ro sian banua ginjang,
+laho paluahon hita jolma i.
+Ref.: Uli na i . . .
+-
+Uli na i sude marlas ni roha,
+ala naung songgop harajaonNa i.
+Huria i ria do ro masomba,
+mamuji Raja na sun sangap i.
+Ibana do panondang hangoluan,
+namangalehon pangkirimon i
+Ref.: Uli na i . . .

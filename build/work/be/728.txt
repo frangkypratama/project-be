@@ -1,0 +1,49 @@
+@be 728
+@bl 0
+@title Husuru ho
+@key F
+@meter 4/4
+@credit Syair: "So send I you, E. Margaret Clarkson, 1937; Terj.: Dcs. Bonaria Hutabarat / Pdt. J.A.U. Doloksaribu; Lagu: W, Paterson, 1954
+@pages 773 774
+@status Lirik dicek · 15/20 baris sama dgn pembanding
+@check Bagian suplemen; tidak ada nomor "Logu No." di buku → @bl 0.
+@check Nama komponis tercetak "W, Paterson, 1954" (lagu "So Send I You" lazim dikreditkan ke John W. Peterson); ditulis apa adanya.
+@check Baris 2 birama 3 berisi 6 not untuk 5 suku kata ("i ja la di ar-"); tidak ada legato tercetak. Dianggap "ar" ditahan pada 4 3 (ditulis "ar _"), perlu dicek.
+@check Coda: birama 3 "1 3 2 . 1" + "1 . 0" berisi 5 not untuk "ma-nu-ru ho." → "ru" ditahan pada 2 . 1 (ditulis "ru _"), perlu dicek. Coda dinyanyikan sesudah ayat terakhir.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Pembanding lirik: baris 2, 4, 5, 13, 17 beda; ayat 4 tercetak "Husuru hi" (kemungkinan salah cetak "ho"). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 728) | https://bukuende.wordpress.com/2013/06/13/husuru-ho-buku-ende-no-728-buku-logu-no-728/ | proofreading per baris
+#A
+0+1 1+1 | 3 .+1 1+1 2+1 | 1 7, .+2 2+2 |
+4 .+2 2+2 1+2 | 3 . 0+3 3+3 | 5 .+3 3+3 4+3 |
+3 2 .+2 3+2 | 3 .+1 1+3 2+.+.+2 | 1 . . 0 |
+> Hu-su ru ho lao su-me-a hon di-ri; ra-dot ma ho di pan-jou on-mi, nang di-le-a-i ja la di ar _ sa-hi, Hu-su-ru ho ga-be na po-song-ki
+#B
+4 .+4 4 3+3 | 2 7, 5, . | 1 3 2 .+1 | 1 . 0 |]
+> Au si-nu ru-ni A-ma i, ma-nu-ru _ ho.
+#V
+Husuru ho lao sumeahon diri;
+radot ma ho di panjouonmi,
+nang dileai jala diarsahi,
+Husuru ho gabe na posongki
+-
+Husuru ho manaoum na marsuhut,
+apuli roha ni na marsak i,
+rade ma ho manaon sungsang duri
+Husuru ho mamolus dalanKi;
+-
+Husuru ho tu angka na tarpunjung,
+naso adong na parosehon i,
+dapothon ma na tumaon na porsuk
+Husuru ho patolhas holongKi
+-
+Husuru hi sumeahon hosamu.
+pompomi nasa roha daging i,
+tundalhon ma hagiot ni rohamu.
+Husuru ho pasauthon lomongKi,
+-
+Husuru ho gabe sijala jolma,
+palua angka na tarihot i,
+arahon ma asa tu hangoluan,
+Husuru ho ihuthon dalanKi,
+Coda: Au sinuruni Amai, manuru ho.

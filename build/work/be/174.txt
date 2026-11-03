@@ -1,0 +1,44 @@
+@be 174
+@bl 184
+@title Torop dope na siat i
+@key C
+@meter 6/8
+@credit Silias J. Vail, Abad 18
+@pages 157 158
+@status Lirik dicek · 16/20 baris sama dgn pembanding
+@check Pembanding lirik: baris 1, 6, 11, 13 beda ejaan satu kata; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 174) | https://bukuende.wordpress.com/2013/06/18/torop-dope-buku-ende-no-174-buku-logu-no-184/ | 16/20 baris sama
+@check Birama 6/8: satu token = not 1/8 (angka bergaris atas = 1/8, "x ." = 1/4, "x . ." = 1/4 bertitik).
+@check Baris 4 birama 1 angka tercetak "1̇" (titik atas), tetapi not balok menunjukkan C4 (oktaf bawah); dibaca 1.
+@check Kredit tercetak "Silias J. Vail Abad 18" (lazimnya Silas J. Vail, abad 19); ditulis sesuai buku.
+#A
+5 | 5 . 3 5 . 1' | 1' . 6 5 . v 3 | 6 . 5 3 . 1 |
+3 . . 2 . v 5 | 5 . 3 5 . 1' | 1' . 6 5 . v 1' | 3' . 1' 3' . 2' |
+2' . . 1' . v 1' | 2' . #1' 2' . 3' | 1' . 6 1' . v 6 | 5 . 5 6 . 5 |
+3 . 1 2 . v 5 | (5 . . 5 .) v 5 | (6 . . 1' .) v 1' | 3' . 1' 3' . 2' | (1' . . 1' .) |]
+> To-rop do-pe na si-at i di ha-sam-pu-ran re-a. I pe ha-mu par-do-sa i, sai o-lo ma por-se-a! Ai De-ba-ta man-jou ha-mu Tu ha-so-na-ngan si-tu-tu. Ha-mu, ha-mu di-jou De-ba-ta-mu.
+#V
+Torop dope na siat i di hasampuran rea.
+I pe hamu pardosa i, sai olo ma porsea!
+Ai Debata manjou hamu Tu hasonangan situtu.
+Hamu, hamu dijou Debatamu.
+-
+Tama longang roham, ale, umbege pangontangNa.
+Antong, sai unang jua be, tangihon pamioNa.
+Ai Debata mamio ho dibahen i sai ro ma ho!
+Sai ro, sai ro, tu surgo ma ho ro!
+-
+Pardosa ho, didok roham, na so tama be dohot?
+Ndang pola ala ni dosam umbaen na sundat bongot.
+Ai nunga sae do dosami digarar Tuhan Jesus i.
+Naung sae, naung sae, naung sae do dosami.
+-
+Haporseai ma hata i, ai i do haluaon;
+Haposi Tuhan Jesus i, mudarNa i ma golom.
+Ai nang gok dosa rohami, malua ho bahenon ni.
+Tutu, tutu, malua baenon ni.
+-
+Antong, beha roham disi? Sai rap ma hita bongot
+Tu hasampuran rea i, tu hasonangan sogot.
+Tapuji ma Tuhanta i dibaen asi rohaNa i
+Tongtong tongtong, asi rohaNa i.

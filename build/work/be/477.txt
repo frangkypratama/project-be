@@ -1,0 +1,37 @@
+@be 477
+@bl 323
+@title Mansai lam sihabiaran.
+@key G
+@meter 4/4
+@credit Ret. No. 119
+@pages 455 456
+@check Lirik di bawah not tercetak "Mansai lan"; judul "Mansai lam". Ditulis sesuai cetakan masing-masing.
+@check Birama "6 4 3 . 2̄" (Nasa na man-): angka "6" tanpa titik bawah, paranada E4 → ditulis 6,.
+@check Not akhir tercetak "1..." (paranada not 1/2 bertitik); karena ada ketukan gantung 1 ketuk, ditulis "1 . .".
+@check Tidak ada keterangan "Lagu :" untuk lagu ini di hlm 455–456.
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: pembanding menulis "Mansai lan habiaran" (buku: "sihabiaran"); beda juga di ayat 1 baris 2 ("di ida") dan ayat 2 baris 2 ("posea"); scan hlm 455–456 sesuai buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 477) | https://bukuende.wordpress.com/2013/06/16/mansai-lan-habiaran-buku-ende-no-477-buku-logu-no-323/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1+.+.+2 | 3 5 3 1 | 7, 6, . 6+.+.+6 | 5 3 2 1 |
+2 . . 1+.+.+2 | 3 5 3 1 | 7, 6, . 6+.+.+6 | 5 4 6, 7, | 1 . . |
+> Man-sai lan si-ha-bi-a-ran, nin-na, di da-lan-ta be. Ndang di i-da, di-do-nga-ni Tu-han Je-sus au ta-he.
+#B
+1+.+.+7, | 6, 4 3 .+2 | 2 1 0 1+.+.+2 | 3 6 5 3 |
+2 . . 1+.+.+2 | 3 5 3 1 | 7, 6, . 6+.+.+6 | 5 4 6, 7, | 1 . . |]
+> Na-sa na man-jang-kon Je-sus, na so tu-pa ma-go i. Aut sa-sa-da au mar-da-lan, ta-lu au sa-tong-kin i.
+#V
+Mansai lan sihabiaran, ninna, di dalanta be.
+Ndang di ida, didongani Tuhan Jesus au tahe.
+Nasa na manjangkon Jesus, na so tupa mago i.
+Aut sasada au mardalan, talu au satongkin i.
+-
+Ia songgop haporsuhon, ninna, ndang tartahan i.
+Na hugolom do hataNa, monang na posea,
+Nasa na manjangkon Jesus, na so tupa mago i.
+Aut..
+-
+Olo, da, tangkas huboto, hurang hot do rohangki,
+Tung marhitehite Jesus sahat au tu surgo i.
+Nasa na manjangkon Jesus, na so tupa mago i,
+Aut...

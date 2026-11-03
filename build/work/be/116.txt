@@ -1,0 +1,47 @@
+@be 116
+@bl 243
+@title Ditompa Ho do au
+@key D
+@meter 4/4
+@credit Franz Heinrich Christoph, 1729
+@pages 105
+@status Lirik dicek · 17/20 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 17 dari 20 baris sama persis; beda di baris 1, 17 (ejaan) dan 20 (kata lebih). Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 116) | https://bukuende.wordpress.com/2013/06/13/ditompa-ho-do-au-buku-ende-no-116-buku-logu-no-243/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 1 2 3 3 | 2 . 0 5 | 4 3 2 2 |
+1 . 0 :|
+> Di-tom-pa Ho do au, son-da-ngi ro-hang-kon:
+> Tung ba-sa-ba-sa-Mi su-de na di au on.
+#B
+5 | 6 6 7 7 | 1' 5 0 3 | 6 5 4 3 |
+2 2 0 :|
+> Gom-go-mi pa-ma-tang-ku, naeng Ho do o-lo-an-ku,
+> Sai le-hon ma go-gong-ku, lo-moM naeng u-la-on-ku
+#C
+5 | 1 1 2 3 | 4 4 3 v 6 | 5 1 2 2 | 1 . . |]
+> U-ru-pi, ta-tap au tu-tu, Pa-nom-pa na bur-ju.
+#V
+Ditompa Ho do au, sondangi rohangkon:
+Tung basabasaMi sude na di au on.
+Gomgomi pamatangku, naeng Ho do oloanku,
+Sai lehon ma gogongku, lomoM naeng ulaonku
+Urupi, tatap au tutu, Panompa na burju.
+-
+Tuhan, Sihophop au, sai buri tondingkon.
+Marhite mudarMi torusi ngolungkon.
+Pinuji ma goarMu, arga ma pangkophopMu,
+Dibaen pangalahongku, nang nasa ulaonku,
+O Jesus, Sipalua au tu Ho ma au patau.
+-
+Tu TondiMi, Tuhan, hulehon diringkon.
+Sai tong ma dirajai sandok pamatangkon.
+Ibana hutangihon, sai saut au ditogihon
+Tu ngolu partondion, manahan di ujian.
+O Tondi Parbadia i, sai Ho ma rajangki,
+-
+Ale Debatangki, Sitolusada i
+Bongoti rohangki, paarbadiai ma i.
+Sai Ho ma lam hutanda, gogongku lam paganda.
+Manangkup haluaon, maniop hatuaon
+Ni Ama, Anak, Tondi i, na tong pujion i.

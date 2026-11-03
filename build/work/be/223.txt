@@ -1,0 +1,34 @@
+@be 223
+@bl 244
+@title Husomba Ho Tuhan
+@key Ab
+@meter 4/4
+@credit H. Geerdes Odings
+@pages 203 204
+@check Birama 4 dicetak "2 . 0" (3 ketuk); not balok buku: not 1/2 bertitik + tanda diam 1/4 → dibaca "2 . . 0".
+@status Lirik dicek · 12/13 baris sama dgn pembanding
+@check Pembanding lirik: L3 kata 4 ("baenon Mi") beda penulisan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 223) | https://bukuende.wordpress.com/2013/06/13/husomba-ho-tuhan-buku-ende-no-223-buku-logu-no-244/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . 2 1 | 6, 1 5, . | 3 . 1 3 | 2 . . 0 |
+3 . 2 1 | 1 6, 6, . | (5, 1) 3 2 | 1 . . . |
+3 . 3 3 | 4 3 2 . | 2 . 2 4 | 4 3 3 . |
+2 . 1 6, | 6, . . 0 | (5, 1) 3 2 | 1 . . . |]
+> Hu-som-ba Ho Tu-han, ta-ngi-hon au! Sang-kap-mu ma tong-tong pa-saut tu au; Lam gan-da bae-non Mi ho-long ni ro-hang-ki Sai lam gan-dai ho-long tu Ho
+#V
+Husomba Ho Tuhan, tangihon au!
+Sangkapmu ma tongtong pasaut tu au;
+Lam ganda baenon Mi holong ni rohangki
+Sai lam gandai holong tu Ho
+-
+Uju na lilu au, dao sian Ho, sai dilului Ho au, laos jumpang do.
+Ala ni holong do rohangkinon di Ho,
+Sai lam gandai holong tu Ho!
+-
+Di na targogot au, hansit huae, Ho na mangapul au tu Ho au lao,
+Haposanki do Ho, Ho Sipangolu do,
+Sai lam tambai holong tu Ho!
+-
+Ia tung jumpang ma, ro ajalhi, asi rohaM nama di tondingki;
+Na las do rohangki marnida bohiMi
+Di lambungMi di surgo i.

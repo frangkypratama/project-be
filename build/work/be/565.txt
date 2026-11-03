@@ -1,0 +1,43 @@
+@be 565
+@bl 0
+@title Las rohangku lao mamuji
+@key G
+@meter 4/4
+@credit Syair: Joyful, Joyful, We adore Thee; Henry van Dyke, 1907; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: Ludwig van Beethoven
+@pages 534 535
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Psalm 145:10.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Birama 2 tercetak ".5 4 3 2" (titik lepas sebelum 5); balok = 4 not 1/4 → ditulis "5 4 3 2".
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 (asiMi/asi Mi) dan 13 (diGoarNa) beda ejaan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 565) | https://bukuende.wordpress.com/2013/06/16/las-rohangku-lao-mamuji-buku-ende-no-565-buku-logu-no-565/ | teks lirik
+#A
+3 3 4 5 | 5 4 3 2 | 1 1 2 3 | 3 .+2 2 . |
+> Las ro-hang-ku lao ma-mu-ji De-ba-ta Par-ho-long i,
+#B
+3 3 4 5 | 5 4 3 2 | 1 1 2 3 | 2 .+1 1 . |
+> so-ngon bu-nga na ma-nger-bang di na bin-sar a-ri i.
+#C
+2 2 3 1 | 2 (3+4) 3 1 | 2 (3+4) 3 2 | 1 2 5, . |
+3 3 4 5 | 5 4 3 2 | 1 1 2 3 | 2 .+1 1 . |]
+> Ar-sak, do-sa, ha-por-su-hon ma-go di baen a-si-Mi. las ni ro-ha na ma-nong-tong le-hon di au Tu-han-ki.
+#V
+Las rohangku lao mamuji Debata Parholong i,
+songon bunga na mangerbang di na binsar ari i.
+Arsak, dosa, haporsuhon mago di baen asiMi.
+las ni roha na manongtong lehon di au Tuhanki.
+-
+Sude jadijadianMu, laut, tano, langit i.
+angka bintang dohot bulan nang mata ni ari i.
+Hauma, ladang, nang harangan, rura dohot dolok i,
+saluhut na mangendehon sangap di Tuhanta i.
+-
+Debata Parholong roha, na manesa dosangki,
+ndang tarbaen so las rohangku lao mamuji asiMi
+Sai ajari sude hami mangulahon holong i,
+asa gok las rohanami dibagasan Tuhan i.
+-
+Rap ma hita mangendehon, sangap diGoarNa i,
+tapangiar soaranta lao mamuji Tuhan i.
+Sun do holong ni rohaNa na so marnamontok i,
+i do pasadahon hita salelenglelengna i.

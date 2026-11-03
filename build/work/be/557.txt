@@ -1,0 +1,34 @@
+@be 557
+@bl 0
+@title Dao dumenggan
+@key D
+@meter 4/4
+@credit Syair & Lagu: Thy Loving kindess, Hugh Mitchell; Terjemahan: Dcs. Bonaria Hutabarat/Pdt. J.A.U. Doloksaribu · Ayat bacaan: Psalm 63: 4 - 5
+@pages 525 526
+@check Bagian "Puji-pujian Manomba Debata" (BE 557 dst.): lagu tidak mencantumkan nomor "Logu No." → @bl 0 (tidak ada di buku).
+@check Kredit tercetak "Thy Loving kindess" (lazim "Thy Lovingkindness"); ditulis apa adanya.
+@check "3̄ .2̿" / "5 .6̿" = 1/8 bertitik + 1/16 (garis atas ganda), cocok dgn balok.
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 557) | https://bukuende.wordpress.com/2013/06/13/dao-dumenggan-buku-ende-no-557-buku-logu-no-557/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+0 5 5 4 | 3 . 3 . | 0 3 3+.+.+2 3 | 4 . . . |
+0 4 4 3 | 2 . 2 . | 0 5 5+.+.+6 5 | 3 . . . |
+0 3 2 3 | 1 . 1 . | 0 3 2 3 | 4 . 6 . |
+0 4 4 4 | 3 3 . 4 | 2 2 . 3 | 1 . . . |]
+> Da-o du-meng-gan, a-si ni ro-haM. da-o um-mar-ga si-an ngo-lung-kon. Sai pu-ji-on-ku ma Ho Tu-han-ku, da-o um-mar-ga, a-si ni ro-haM.
+#V
+Dao dumenggan, asi ni rohaM.
+dao ummarga sian ngolungkon.
+Sai pujionku ma Ho Tuhanku,
+dao ummarga, asi ni rohaM.
+-
+Ala goarMu ro do au tu Ho,
+herbang tanganhu lao mamuji Ho,
+dao ummarga sian ngolungku,
+dao dumenggan asi ni rohaM.
+-
+Dao dumenggan holong ni rohaM,
+dao ummarga sian ngolungkon,
+sai pujionku ma Ho Tuhanku,
+sandok ngolungku do mamuji Ho.

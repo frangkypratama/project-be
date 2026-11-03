@@ -1,0 +1,43 @@
+@be 833
+@bl 0
+@title Di na masipaidaan
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Free to face; Grant C. Tullar · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: Carrie E. Breck
+@pages 920 921
+@status Lirik dicek · 6/10 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris refrein (masipaidaan, sangapdi), ayat 2 (nisangapNa), ayat 3 (ndang); kata-kata itu tercetak jelas di scan, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 833) | https://bukuende.wordpress.com/2013/06/13/di-na-masipaidaan-buku-ende-no-833-buku-logu-no-833/ | bukan acuan utama; buku tetap acuan
+@check Buku tidak mencetak nomor Logu → @bl 0 (tidak dicantumkan).
+@check Kredit tercetak "Free to face" (lazim: Face to Face); nama Tullar (Syair) dan Breck (Lagu) tampak tertukar (lazimnya syair Carrie E. Breck, lagu Grant C. Tullar) — ditulis apa adanya.
+@check Pada "ha-mu-lia-on-Na" tanda lengkung di bawah "lia" (satu suku kata), bukan legato not.
+#A
+5 .+5 6+5 3+1' | 1' . 7 . |
+2' .+1' 7+6 5+6 | 5 . . 0 |
+5 .+5 6+5 3+1' | 2' . 6 6+6 |
+5 3' 3' .+2' | 1' . . 0 |]
+> Di na ma-si-pa-i-da-an so-got au di sur-go i, tung sing-kop las ni ro-hang-ku mi-da Je-sus Tu-han-ki.
+#B
+2' .+2' 3'+2' 1'+7 | 1' . 3' . |
+2' .+3' 2'+1' 7+6 | 5 . . 0 |
+3' .+3' 4'+3' 2'+1' | 2' . 4' 6+6 |
+5 3' 3' .+2' | 1' . . 0 |]
+> Di na ma-si pa-i-da-an so-got au di sur go i, sa-ngap-di ha-mu-lia-on-Na i-da-on-ku Tu-han-ki.
+#V
+Di na masipaidaan sogot au di surgo i,
+tung singkop las ni rohangku mida Jesus Tuhanki.
+Ref. : Di na masipaidaan sogot au di surgo i,
+sangapdi hamuliaonNa idaonku Tuhanki.
+-
+Tingki on ndang boi taida, sondang nisangapNa i,
+alai sogot ditingkina, boi idaon sangapNa i,
+Ref. : Di na masipaidaan . . . .
+-
+Sonang, dame dilambungNa, ndang ndong sitaonon i,
+nunga salpu hasusaan, dosa hamatean i,
+Ref. : Di na masipaidaan . . .
+-
+Di na masipaidaan, tandaonta ma disi,
+Tuhan Jesus Sipalua, Siparholong roha i,
+Ref. : Di na masipaidaan . . .

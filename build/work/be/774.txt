@@ -1,0 +1,47 @@
+@be 774
+@bl 0
+@title Tung mabaor sian Ho
+@key G
+@meter 4/4
+@credit Syair & Lagu: NN
+@pages 843 844 845
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0.
+@check Kelompok "1 7 1" (birama 1) dan "2 1 2" (baris 2) tercetak tiga 1/8 dalam satu garis atas tanpa angka 3 → ditulis triol agar birama 4/4 pas; triol "6 5 4" di baris akhir bertanda 3.
+@check Angka "7" dicoret (hlm 844 baris 2–3), balok = F♮ → ditulis b7 sesuai balok.
+@check Birama "3 2 1 5 5" (hlm 844 baris 3): balok tampak ada tanda diam 1/8 sesudah G; ditulis mengikuti angka (1 = 1 ketuk).
+@check Birama "5 . 4 3 0": titik di atas angka 3 diabaikan (balok = B4).
+@check Pembanding lirik: baris 5 (hagogoonMi), 14 (manadingkon) beda ejaan; dicek ke scan, buku ditulis apa adanya. Baris ulangan ayat tidak dibandingkan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 774) | https://bukuende.wordpress.com/2013/06/18/tung-mabaor-sian-ho-buku-ende-no-774-buku-logu-no-774/ | teks ayat
+#A
+5,+5, | 1 1 (1+7,+1 2)+1 | 7, . 0 7,+1 |
+2 2 (2+1+2 3)+2 | 1 . 0 3+4 | 5 5 5 (4+3) |
+6 5 0 5+5 | 4 2 (3+1) (5+3) | 3 2 0 2+2 |
+(2+1) 7, 0 4+.+.+4 | (4+3) 2 0 0 | 1 1 b7, b7, |
+b7, b7, 6, . | 6 6 5 4 | 3 2 1 5+5 |
+(5 . . 5)+5 | 5 .+4 3 0 | 6 6 5 (6+5+4) | 3 2 1 |]
+> Tung ma-ba-or si-an Ho, mu-al ha-ngo-lu-an i, ai to-rop pe ba-tang a-ek ang-ka do-lok do-hot ru-ra, nang pe la-ngit do-hot ta-no. Ho do na ma-nom-pa i, Ho do na ma-nom-pa i, Ho do na ma-nom-pa i, Ho do na ma-nom-pa i.
+#V
+Tung mabaor sian Ho, mual hangoluan i,
+ai torop pe batang aek angka dolok dohot rura,
+nang pe langit dohot tano.
+Ho do na manompa i, Ho do na manompa i,
+Ho do na manompa i, Ho do na manompa i.
+-
+Ai huboto do tangkas hagogoonMi Tuhan,
+Ho do na so hatudosan na tongtong Ho pasangapon
+las rohangku pasangaphon,
+ro marsomba tu joloM, ro marsomba tu joloM.
+ro marsomba tu joloM, ro marsomba tu joloM.
+-
+Tung tarapul rohangki mingot denggan ni basaMi,
+ndang tarasam be argana ndang marbatas
+nang godangna, disondangi do rohangku,
+lao mamereng holongMi, lao mamereng holongMi.
+lao mamereng holongMi, lao mamereng holongMi.
+-
+Huhilala holongMi na manogu rohangki,
+unang loas au be lilu manadingkon ho Tuhanku,
+pandang i do tujuongku,
+saleleng dingolungki, saleleng dingolungki,
+saleleng dingolungki, saleleng dingolungki.

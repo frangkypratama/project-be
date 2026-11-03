@@ -1,0 +1,38 @@
+@be 48
+@bl 16
+@title Ria ma hita sasude
+@key F
+@meter 4/4
+@credit Nikolaus Hermann, 1554
+@pages 41 42
+@status Lirik dicek · 13/14 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 3 (vokal kata pertama "Diungkup"). Buku tetap acuan.
+@check Legato di baris 3 tercetak dari 1 sampai melewati garis birama; dibaca sebagai melisma "ma" pada 1-2-3-4 (½ ketuk). Not 1 terakhir tidak diberi suku kata di buku (dibaca "ma" ditahan).
+@check Tanda ":,:" pada ayat 2–7 menandai frasa terakhir yang diulang; ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 48) | https://bukuende.wordpress.com/2013/06/16/ria-ma-hita-sasude-buku-ende-no-48-buku-logu-no-16/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 5 5 5 5 | 6 (5+4) 3 v 2 | 3 5 6 #4 |
+5 v 3 5 5 | 5 (3+4) 5 3 | 2 v 5 4 3 |
+2 2 (1+2 3+4) | 5 v 3 4 3 | 2 2 1 |]
+> Ri-a ma hi-ta sa-su-de ma-mu-ji De-ba-ta; Gir-gir ma par-en-den-ta be, ai i do na ta-ma. Ai i do na ta-ma _
+#V
+Ria ma hita sasude mamuji Debata;
+Girgir ma parendenta be, :,: ai i do na tama :,:
+-
+Diungkup Debatanta i, Banuaginjang i,
+Disuru do AnakNa i, :,: hangoluanta i :,:
+-
+Ampuan ni AmaNa do, tinadingkonNa i,
+Tu hasiangan on do ro, :,: tu pardangolan i :,:
+-
+Sitompa nasa na adong, sigomgom sasude
+Ro songon i tu tano on, :,: manaon na porsuk i :,:
+-
+Dibahen i las situtu do rohangkon nuaeng.
+Hujangkon Jesus i tutu, :,: ai sonang au dibaen :,:
+-
+Antong, hamuna sasude pardosa na tungki.
+Sai ungkap rohamuna be, :,: manjangkon Jesus i :,:
+-
+Ringgas ma hita sasude mamuji Debata;
+Gogo ma taendehon be: :,: Amen, Haleluya! :,:

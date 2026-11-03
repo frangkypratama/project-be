@@ -1,0 +1,53 @@
+@be 344
+@bl 84
+@title Ungkap bahal na umuli
+@key C
+@meter 4/4
+@credit Lagu : Joachim Neander 1680
+@pages 323 324
+@status Lirik dicek · 24/24 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama. Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 344) | https://bukuende.wordpress.com/2013/06/16/ise-do-angka-nasida-buku-ende-no-344-buku-logu-no-84/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot. Judul Logu "Ungkap bahal na umuli"; baris pertama lirik "Ise do angka nasida".
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+1 .+2 3 1 | 3 4 5 5 v | 1' (7+6) 5 3' |
+2' 2' 1' . :|
+> I-se do ang-ka na-si-da di lam-bung ni De-ba-ta,
+> Na mar-tum-pal be hu-i-da ja-la mar-si-non-dang do?
+#B
+3' .+3' 2' 2' | 1' 1' 7 . v |
+6 .+6 5 1' | 2' 7 1' . |]
+> Na mar-en-de do su-de, gir-gir pa-mu-ji-na be.
+#V
+Ise do angka nasida di lambung ni Debata,
+Na martumpal be huida jala marsinondang do?
+Na marende do sude, girgir pamujina be.
+-
+I do angka na malua, angka na tutu burju,
+Angka dongan na martua, naung porsea situtu
+Di Tuhanta Jesus i, na humophop sasude.
+-
+Haporsuhon do ditaon uju na di tano on ;
+Na marlea nasailaon, gabe hasangapon on
+Do turpukna i nuaeng, las rohana i dibaen.
+-
+Na marende do nasida, pasangaphon Jesus i;
+Ala naung tangkas diida sintong ni hataNa i;
+Naung pinarbagaNa i, sahat do sudena i.
+-
+Na so dais be tu nasida jea ni portibi on;
+Ndang adong disi tarida na manusa hita on;
+Dohot dosa sasude, ndang adong diingot be.
+-
+Haraparon, hauason, ngali ni arina i,
+Porhas, ronggur, halojaon, udan, las ni ari i,
+Uhum ala dosa i, ndang be dais tu na disi.
+-
+Ai di Debata nasida, na pasabam roha i;
+Jesus do tongtong diida di banuaginjang i.
+Sai martua do sude, ndang na mimbar i muse.
+-
+Ale Jesus Rajanami, na marasi roha i,
+Sesa nasa dosanami, tiop tangannami be.
+Dohot hami on sude sai pabongot ma muse.

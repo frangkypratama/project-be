@@ -1,0 +1,51 @@
+@be 749
+@bl 0
+@title Songon sorha ni podati
+@key D
+@meter 3/4
+@credit Syair: Love's rainbow · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: I.H. Meredith
+@pages 806 807 808
+@status Lirik dicek · 11/14 baris sama dgn pembanding
+@check Pembanding lirik: baris 6 (kata 5), 7 (kata 6), 11 (kata 4–5: "uanng biahaton") beda ejaan; kata-kata itu terbaca jelas di scan hlm 806–808, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 749) | https://bukuende.wordpress.com/2013/06/18/songon-sorha-ni-podati-buku-ende-no-749-buku-logu-no-749/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanda mula 2 kres (D mayor), not pertama 3 = Fis4 → 1 = D.
+@check "pangoluan i? | Tatap" — garis ganda Refrein jatuh di tengah birama (1 . ‖ 5 1'); ditulis sebagai akhir bagian A + ketukan gantung bagian B.
+@check Refrein birama 2: angka "1 5 5 5" tanpa titik atas, balok = D5 → ditulis 1'.
+@check "3 5 2 3" (3 dan 3 bergaris atas) = sinkop (1/8, 1/4, 1/4, 1/8) sesuai balok → ditulis 3+5 .+2 .+3.
+@check Ayat 1 disusun dari suku kata di bawah not (buku tidak mencetak ayat 1 terpisah).
+@check Ayat 3 tercetak "uanng" (kemungkinan salah cetak "uang") — ditulis apa adanya.
+@check "5 3 . 1 2": titik hanya pemisah (balok: A4 1/4, Fis4 1/4, D4 E4 1/8) → 5 3 1+2.
+#A
+3+4 | 5 .+3 4+6 | 5 3 5+5 | 4 .+2 5+4 |
+3 . 5+5 | 6 .+1' 7+6 | 5 3 3+3 |
+2 .+5 6+7 | 5 . 5+5 | 4 .+6 5+4 |
+3 5 5+5 | 4 .+6 5+4 | 3 . 3+4 |
+5 .+1' 7+1' | 7 6 1+2 |
+3+5 .+2 .+3 | 1 . |]
+> Song-on sor-ha ni po-da-ti do ngo-lu ni jol-ma i a-ri on mar-las ni ro-ha a-la pa-ngo-mo-an i ha-pe ro-ma so-ri ma-go, na ma-no-sak ro-ha i ha-po-go-son boi do song-gop, i-se pa-ngo-lu-an i?
+#B
+5+1' | 7 .+7 6+7 |
+1' 5 5+5 | 6 .+6 7+1' | 7 . 6+5 |
+1' .+2' 1'+6 | 5 3 1+2 |
+3+5 .+2 .+3 | 1 . |]
+> Ta-tap ma ha-li-bu-tong-an dung-kon sal-pu u-dan i pa-dan ho-long ni ro-ha-na di su-de-na jol-ma i.
+#V
+Songon sorha ni podati do ngolu ni jolma i,
+ari on marlas ni roha ala pangomoan i,
+hape ro ma sorimago, na manosak roha i,
+hapogoson boi do songgop, ise pangoluan i?
+Reff.: Tatap ma halibutongan dungkon salpu udan i
+padan holong ni rohana di sudena jolma i.
+-
+Molo ro pe halisungsung, holom humaliang ho
+pos roham ndang dipasombu sai paluaonna ho,
+molo manariur langit, tung uli idaon i,
+tanda holong ni roha na di natinompa na i.
+Reff.: Tatap ...
+-
+Sotung pola ho mandele uanng biahaton ho,
+hehe ho hatop langkahon ingot padan na tu ho,
+"haholongon do Tuhanmu" ima mangapuli ho,
+bahenon na ho martua asal ma porsea ho.
+Reff.: Tatap ...

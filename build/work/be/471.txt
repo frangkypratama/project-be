@@ -1,0 +1,40 @@
+@be 471
+@bl 318
+@title Hupilit Jesus donganki.
+@key F
+@meter 4/4
+@credit U.L. No. 310 · Lagu: Karl Kuhlo 1891
+@pages 449 450
+@check Ayat 4 mencetak reff dengan teks sendiri ("Jesus ngolungku, hatuaonku, ..."); ayat 2–3 menulis ":,: Di Ho ngolungku...".
+@check Lirik di bawah not tercetak "Hupil- lit" (pemenggalan); ditulis "Hupilit" sesuai judul.
+@status Lirik dicek · 8/11 baris sama dgn pembanding
+@check Pembanding lirik: pembanding menulis "Hupillit" (buku: judul "Hupilit", lirik "Hupil- lit"); beda juga di reff ("di ajal") dan ayat 4 baris 2 ("surgo", "do"); scan hlm 449–450 sesuai yang ditulis. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 471) | https://bukuende.wordpress.com/2013/06/13/hupillit-jesus-donganki-buku-ende-no-471-buku-logu-no-318/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 . 2 . | (3 . 4) 3 | (2 . 1) 3 | 2 . 0 5, | 2 . 3 . |
+(4 6 5) 4 | 3 . . . | 2 . 0 :|
+> Hu-pi-lit Je-sus do-ngan-ki lao ma-ngo-loi I-ba-na.
+> Nang mu-ruk pe to-rop di-si la-bang-ku do I-ba-na.
+#B
+3 . 2 3 | 5 . 4 . | 4 . 3 4 | 6 . 5 . |
+1' . 7 6 | 5 . (4 3) | 2 . 3 4 | 3 . 2 . | 3 . 2 3 | 5 . 4 . |
+4 . 3 4 | 6 . 5 . | 1' . 7 6 | 5 . (4 3) | (2 4) 3 2 | (1 . 7, .) | 1 . . 0 |]
+> Di Ho ngo-lung-ku ro di a-jal hu Je-sus di Ho au, ma-te, ma-ngo-lu. Di Ho ngo-lung-ku ro di a-jal-hu, Je-sus di Ho au, ma-te, ma-ngo-lu
+#V
+Hupilit Jesus donganki lao mangoloi Ibana.
+Nang muruk pe torop disi labangku do Ibana.
+Di Ho ngolungku ro di ajal hu Jesus di Ho au, mate, mangolu.
+Di Ho ngolungku ro di ajalhu, Jesus di Ho au, mate, mangolu
+-
+Arga ditobus tondingki, na mate do Ibana,
+Ngolungku hubaen upa nii, lao mangoloi hataNa
+:,: Di Ho ngolungku...
+-
+Rohangku baen ingananMi, patiur ma langkangku,
+Huhatindangkon ma disi: Ho Jesus palitongku,
+:,: Di Ho ngolungku...
+-
+Mangkophop goarMi dison, sai i las ni rohangku,
+Dung sahat au di surgo i, sai tong do dohononku;
+Jesus ngolungku, hatuaonku, Jesus di Ho au nasa diringku,
+Jesus ngolungku, hatuaonku, sangap di Ho, Jesusku, Tuhanku!

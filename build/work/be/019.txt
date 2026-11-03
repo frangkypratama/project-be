@@ -1,0 +1,32 @@
+@be 19
+@bl 32
+@title O Jesus, tatap ma tuson
+@key F
+@meter 4/4
+@credit Gochzheim, 1628
+@pages 17 18
+@check Nama komponis dicetak "Gochzheim/Gochzzheim" (kurang jelas); ditulis apa adanya.
+@status Lirik dicek · 6/10 baris sama dgn pembanding · melodi cocok Hymnary
+@check Pembanding lirik: bukuende.wordpress.com — 6 dari 10 baris sama persis; 4 baris beda (termasuk “Patingggil”, salah cetak buku). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 19) | https://bukuende.wordpress.com/2013/06/16/o-jesus-tatap-ma-tuson-buku-ende-no-19-buku-logu-no-32/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Pembanding melodi: 15 not pembuka (13532 34565 32117) sama persis dengan incipit tune HERR JESU CHRIST, DICH ZU UNS WEND di Hymnary.org.
+@ref Melodi pembanding: Hymnary.org — HERR JESU CHRIST, DICH ZU UNS WEND | https://hymnary.org/hymn/CCEH/21 | Incipit 13532 34565 32117 (derajat nada) cocok dengan not angka di sini.
+#A
+1 . 3 . | 5 3 . 2 | 3 #4 5 . v | 6 . 5 . | 3 2 . 1 |
+1 7, 1 . v | 2 . 3 . | 3 2 . 5 | 5 #4 5 . v | 3 . 4 . | 3 2 . 1 | 1 7, 1 . |]
+> O Je-sus, ta-tap ma tu-son pa-saor ton-diM tu ha-mi on, sai ro-ha-na-mi di-ra-jai, da-la-nan na-mi di pa-sae.
+#V
+O Jesus, tatap ma tuson pasaor tondiM tu hami on,
+Sai rohanami dirajai, dalanan nami di pasae.
+-
+Pamujinami baen ture buhai ma rohanami be,
+Patingggil pinggolnami i lao tumangihon hataMi.
+-
+Haporseaonnami on patogu ma sadari on,
+Papintor langkanami be tu surgo i, tu lambungMi.
+-
+Pamasuk hami on sude dung suda bohal nami be,
+Tu angka na di surgo i tongtong mamuji goarMi.
+-
+Di Ama na sumurung i, nang di AnakNa, Jesus i
+Di tondi parbadia pe, ma hasangapon sasude.

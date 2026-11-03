@@ -1,0 +1,34 @@
+@be 689
+@bl 0
+@title Diholong ni rohaNa
+@key Eb
+@meter 4/4
+@credit Syair: In heavenly love abiding, Anna L Waring; Lagu: Felix Mandelssohn; Terj.: Pdt. J.A.U. Doloksaribu
+@pages 718 719
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 4 (kata 2) dan 9 ('jampalan') beda ejaan/pemisahan kata; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 689) | https://bukuende.wordpress.com/2013/06/13/diholongi-rohana-buku-ende-no-689-buku-logu-no-689/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 689. Komponis tercetak "Felix Mandelssohn" (lazim: Mendelssohn) — ditulis apa adanya.
+@check Angka 4 dicoret (kres) = A♮ di balok → #4.
+#A
+5 | 3 1 7, .+1 | 3 . 2 1 | 4 3 6 .+6 |
+5 . . 5 | 1' 5 4 .+3 | 3 . 2 6 | 6 2 4 .+7, |
+1 . . 3 | 3 .+2 2 2 | 4 . 3 5 | 5 #4 #4 6 |
+5 . . 5 | 1' 5 4 .+3 | 3 . 2 6 |
+6 . 2 . | 4 . . 7, | 1 . . |]
+> Di ho-long ni ro-ha-Na, so-nang do ton-ding-ki, ma-po-rus na-sa bi-ar, ar-sak nang hol-song-ki, nang ro pe ha-ba-ha-ba, pa-lo-mos ro-hang-ki, pa-nga-ra-mo-ti-on-Na pa-pos-hon ro-hang-ki.
+#V
+Diholong ni rohaNa, sonang do tondingki,
+maporus nasa biar, arsak nang holsongki,
+nang ro pe habahaba, palomos rohangki,
+pangaramotionNa paposhon rohangki.
+-
+Tudia au diboan, ndang na sumurut au,
+Ibana do parmahan, birubiruNa au,
+diholong ni rohaNa disarihon do au,
+tu bagasan tanganNa ma hupasahat au.
+-
+Tu jampalan na lomak, tu aek na tio i,
+tusi do au diboan pabosur tondingki,
+ndang na tartimbang iba denggan basaNa i,
+haposan do holongNa ndang olo muba i.

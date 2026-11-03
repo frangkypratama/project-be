@@ -1,0 +1,61 @@
+@be 12
+@bl 15
+@title Dipuji rohangkon do Ho
+@key G
+@meter 4/4
+@credit Johann Crüger, 1653
+@pages 10 11
+@check Buku mencetak “Logu No. 15”; situs bukuende.wordpress.com menulis Buku Logu No. 150. Di sini mengikuti buku.
+@check Garis birama ganda di tengah lagu (akhir baris 1) dibaca sebagai garis biasa.
+@status Lirik dicek · 25/30 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 25 dari 30 baris sama persis; 5 baris beda (termasuk “mnatap”, “boasa na tungki”, “maambaen”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 12) | https://bukuende.wordpress.com/2013/06/13/dipuji-rohangkon-do-ho-buku-ende-no-12-buku-logu-no-150/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 6, 5, | 1 . 2 . | 3 3 2 . | 0 3 5 4 | 3 . 2 . | 1 . . . |
+5 . 3 5 | 6 . 5 . | 4 3 2 . | 0 5 1 4 | 3 . 2 . | 1 . . . |]
+> Di pu-ji ro-hang-kon do Ho, Ja-ho-wa, Tu-han-ki Hu-hut hu ba-ri-ta-hon do Su-de pam-bae-nan-Mi.
+#V
+Dipuji rohangkon do Ho, Jahowa, Tuhanki
+Huhut hubaritahon do Sude pambaenanMi.
+-
+Huboto, Ho do mual ni na denggan sasude,
+Dilehon Ho do sian i godang di hami be.
+-
+Ai aha ma adong hian di hami na lea?
+Sude di lehon Ho nian o Tuhan Debata!
+-
+Ai Ho do na margogo i sitompa sasude.
+Ho do napangoluhon i nang marmuduhon pe.
+-
+Di langit ni langitan i na hembang songon haen,
+Marriburibu bintang i tung ise do mambaen?
+-
+Tung ise do na basa i mnatap hita be.
+Na pabornokkon hauma i, parngolu di sude?
+-
+Gok eme angka sopo i tung ise do mala.
+nang sasude bohalta i, nda Tuhan Debata?
+-
+I ma tutu, o Debata dilehon Ho sude,
+Ai Ho do na tongtong basa manumpak jolma i.
+-
+Dipinsang Ho pe hami on dibahen dosa i.
+Sai dipalambas Ho tongtong rohaM na denggan i.
+-
+Ai molo marsak rohangki dibahen dosa i.
+Mura do mulak rohaMi manesa salangki.
+-
+Diapul Ho do sasude Na marsak roha i.
+Diduduk Ho iluna i tu parningotanMi.
+-
+Sai disarihon Ho sude di hasiangan on,
+Tu daging, nang tu tondi pe, panongos Ho tongtong.
+-
+Antong, boasa na tungki Ho ale tondingki?
+Haposi ma Debatami sitompa sasude.
+-
+Ndang dung marsala Debata tu ginomgomNa i
+Ai manang dia pe dibaen denggan ujungna i.
+-
+Antong, pasombu Debatam maambaen ture langkam,
+Asa tongtong sonang rohaM timbul dohot tuam.

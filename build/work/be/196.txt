@@ -1,0 +1,35 @@
+@be 196
+@bl 23
+@title Sai hujaha di Pustaha
+@key Eb
+@meter 4/4
+@credit Luoise Hansel 1876
+@pages 178 179
+@check "4*" dibaca #4 (balok: A natural).
+@check Birama 6 angka "7 1 2̇ 7": angka "1" tanpa titik atas, tetapi balok Es5 (sama dgn 1'); dipakai 1'.
+@check Kredit dicetak "Luoise Hansel" (ejaan lazim: Luise Hensel).
+@status Lirik belum ada pembanding
+@check Pembanding lirik: tidak ditemukan di indeks huruf bukuende.wordpress.com maupun pencarian web (2 Nov 2026).
+#A
+3 4 5 1' | 7 6 5 3 | 2 4 3 6 |
+5 . #4 . | 5 . . . v | 7 1' 2' 7 | 1' 5 4 2 v |
+3 4 5 1' | 1' . 7 . | 1' . . . |]
+> Sai hu-ja ha di pus-ta-ha, pa-dan na im-ba-ru i, na tong-tong lam-bok ro-ha-na, na so mar-pa-ngan-si i.
+#V
+Sai hujaha di pustaha, padan na imbaru i,
+Na tongtong lambok rohana, na so marpangansi i.
+-
+PanjangkonNa di dakdanak na pinarhamaolNa i;
+PanjamaNa di nasida, angka na hinaolNa i.
+-
+Dohot asi ni rohaNa di na marsitaonon i;
+Parmulia ni tanganNa, pabalihon begu i.
+-
+PanjangkonNa di pardosa na magopu roha i;
+PangapoiNa di nasida, paubahon roha i.
+-
+Tung lambok do ditogihon angka dorbiaNa i,
+Asat sahat boanonNa tu banuaginjang i.
+-
+Ingkon tontong jahaonku padan na imbaru i;
+Naeng tangkas ma botoonku holongni rohaNa i.

@@ -1,0 +1,53 @@
+@be 257
+@bl 201
+@title Raja na tumimbul
+@key G
+@meter 4/4
+@credit Lagu: Joachim Neader 1680
+@pages 236 237
+@status Lirik dicek · 19/25 baris sama dgn pembanding
+@check Pembanding lirik: beda: "Tapaholom" (ayat 1), "Debatanta" & "na" (ayat 2), "tanganMu" (ayat 3), "au" (ayat 4), "tutatap" (ayat 6); dicek ulang ke scan: tercetak demikian di buku. Pembanding mencatat Buku Logu No. 210; kepala lagu di buku jelas "Logu No. 201".
+@ref Lirik pembanding: bukuende.wordpress.com (BE 257) | https://bukuende.wordpress.com/2013/06/16/jonok-debatanta-buku-ende-no-257-buku-logu-no-210/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Judul di kepala lagu "Raja na tumimbul" berbeda dengan baris pertama lirik ("Jonok Debatanta").
+@check Kredit dicetak "Joachim Neader" (ejaan lazim: Joachim Neander).
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+3 3 3 3 | 2 . 2 . v | 1 1 1 1 | 7, . 7, . v |
+6, 6, 5, 1 | 2 3 2 . | 1 . . . :|
+> Jo-nok De-ba-tan-ta, un-duk be ma hi-ta, lao mar-som-ba tu Tu-han-ta.
+> Mi-jur De-ba-tan-ta, tu to-nga-to-ngan-ta, ta-pa-ho-lom ma ro-han-ta.
+#B
+3 3 4 . v | 2 2 3 . |
+5 5 4 3 | 2 . 3 . v | 5 5 4 3 | 2 . 1 . |]
+> Som-ba ma, De-ba-ta di ba-nu-a-gin-jang, na so ha-lom-po-an.
+#V
+Jonok Debatanta, unduk be ma hita,
+Lao marsomba tu Tuhanta.
+Mijur Debatanta, tu tongatonganta,
+Tapaholom ma rohanta.
+Somba ma, Debata di banuaginjang, na so halompoan.
+-
+Jonok Debatanta, surusuruanNa
+Do manungkap di joloNa, habadiaonNa
+Dipapujipuji, dohot ende na umuli.
+Hita pe sasude, sai girgir rohanta mangoloi Tuhanta.
+-
+O, ale Jahowa! Hutundalhon hami, dosa dohot jeanami.
+Tondi dohot daging, hupasahat hami
+Tu tanganMu, Tuhannami.
+Sada do, i ma Ho sioloannami, pasangaponnami.
+-
+Debata na songkal jala marmulia.
+Baen ma dohot au badia, lehon ma gogongku,
+Asa oloanku, Ho sobokkon suruanMu.
+Lomo ni, rohaMi naeng patupaonku, Ho haholonganku.
+-
+Baen tobok rohangku, sian dosa sirang,
+Sai mardame jala sonang, sai pabontor ahu,
+Asa idaonku, bohiMi muse, Tuhanku Debata,
+Taiti ma, tu hataM rohangku; Ho naeng oloanku.
+-
+Sai ingani ahu, joro baen tondingku,
+Bagas habadiaonMu, sai bongoti ahu,
+Baen holong rohangku di Ho, Tuhan Debatangku!
+So pe au, manang lao, Ho ma sai tutatap, jala hupasangap.

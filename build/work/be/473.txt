@@ -1,0 +1,43 @@
+@be 473
+@bl 320
+@title Ariari sai ramoti.
+@key F
+@meter 3/4
+@credit Selesele.
+@pages 451
+@check Irama rumit (banyak not 1/16); not ditulis per ketukan mengikuti paranada (angka buku kadang memakai titik sebagai pemisah).
+@check Ketukan gantung awal "1̿ 2̿" (dua not 1/16 = ½ ketuk) ditulis "0+0+1+2" (diawali istirahat 1/8) karena format ini memakai satuan 1 ketuk.
+@check Birama "1̂ . 0 | 5̄ |" (hlm 451 baris 3) tidak penuh 3/4 (1½ ketuk + ½ ketuk, dengan fermata); ditulis sebagai akhir bagian A ("1 .") dan ketukan gantung bagian B ("0+5").
+@check Fermata pada "3" (Mi.), "1" (i.), "3" (Tu mudarMi), "4" (i,) dan not akhir; tanda fermata tidak bisa ditulis di format ini.
+@check Letak lirik: "sai", "Do", dan "ma" masing-masing dinyanyikan pada dua not 1/16 (ditulis dengan "_"); "Do" bisa juga hanya pada not G — perlu dicek.
+@check Birama akhir tercetak "1̂ . . . 0" (paranada not 1/2 + istirahat 1/8); ditulis "1 ." (istirahat dihilangkan).
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di ayat 1 baris 2 ("do"), ayat 2 baris 2 ("dibaen"), ayat 3 baris 2 ("arga"); scan hlm 451 sesuai buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 473) | https://bukuende.wordpress.com/2013/06/09/ariari-sai-ramoti-buku-ende-no-473-buku-logu-no-320/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+0+1+2 | 3+.+.+3 3+3+1+. 5+5 | 5+.+1+. .+7,+1+. 2 |
+2+.+.+1 2+.+3+. .+.+1+2 | 3+.+.+3 3+2+1+. 5+.+.+5 |
+5+.+1+. .+7,+1+. 3+2 | 1 . |
+> A-ri-a-ri sai _ ra-mo-ti au di mu-dar-Mi, di mu-dar-Mi. Do _ sang-ku ma _ te do di-baen mu-dar na ar-ga i.
+#B
+0+5 | 4+3+3+. .+5 5+.+.+4 |
+4 4 2+2+3+4 | 4+.+.+3 3 .+.+3+3 |
+3+3 2+1 2+.+.+6, | 6,+.+5,+. .+1+4+. 3+.+.+2 | 1 . |]
+> Tu mu-dar-Mi, na ar-ga i, sai ma-po-rus do ro-hang-ki. A-ri-an, born-gin mar-go-go do mu-dar na ar-ga i.
+#V
+Ariari sai ramoti au di mudarMi, di mudarMi.
+Dosangku mate do dibaen mudar na arga i.
+Tu mudarMi, na arga i, sai maporus do rohangki.
+Arian, borngin margogo do mudar na arga i.
+-
+Maradian do pardosa i di mudarMi, di mudarMi.
+Na malum roha i dibaen mudar na arga i
+Tu mudarMi....
+-
+Dohot TondiMi sai gohi au, di mudarMi, di mudarMi.
+Sai pujionku gogo ni mudar na arga i.
+Tu mudarMi....
+-
+DameMi do na manggohi au di mudarMi, di mudarMi.
+Sai hatindangkononku do mudar na arga i.
+Tu mudarMi....

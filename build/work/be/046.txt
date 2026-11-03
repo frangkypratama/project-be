@@ -1,0 +1,49 @@
+@be 46
+@bl 33
+@title Na sian ginjang do au ro
+@key C
+@meter 4/4
+@credit Martin Luther, 1535
+@pages 39 40
+@status Lirik dicek · 16/22 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 11,13,17,18,20,22; pembanding: didok/tu, On, Marnida, dangolhon, sude, leleng na — dicek ulang di scan hlm 40: buku mencetak "dodok", "ta", "Ole", "mamida", "dongolhon", "sian i sude", "lelengna" (ditulis sesuai buku). Buku tetap acuan.
+@check Not "1" di awal baris 3 dicetak tanpa titik, tetapi not balok buku menunjukkan C5 (1'); not 1 di akhir lagu = C4.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 46) | https://bukuende.wordpress.com/2013/06/16/na-sian-ginjang-do-au-ro-buku-ende-no-46-buku-logu-no-33/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+1' | 7 6 7 5 | 6 7 1' 0+1' |
+1' 5 5 3 | 5 4 3 0+3 | 6 6 5 7 |
+1' 6 5 0+1' | 7 6 5 3 | 4 2 1 . |]
+> Na si-an gin-jang do au ro, Ba-ri-ta na im-ba-ru do, Hu-hut na u-li si-tu-tu Hu-bo-an tu su-de ha-mu.
+#V
+Na sian ginjang do au ro, Barita na imbaru do,
+Huhut na uli situtu Huboan tu sude hamu.
+-
+Naung tubu do saborngin on, anak ni na marbaju on,
+Anak na uli situtu na gabe las ni rohamu.
+-
+I ma Tuhanmu, Kristus i na ro mangontok jea i,
+Silehon tua di hamu huhut sisesa dosamu.
+-
+Diboan hangoluan i silua ni Amana i;
+Ai naeng tu harajaon ni pasuangonna jolma i.
+-
+On ma partinandaan ni: Di bara dapotonmu i,
+Peak di panggagatan do huhut na binalutan do.
+-
+Boti dodok barita i tinongos ta parmahan i;
+Tu nasa hajolmaon pe ditongos Debata dope.
+-
+Ole pe rohangku tanda ma, luhutna i patangkas ma,
+Ai ise Posoposo i? Jesus, alealem do i.
+-
+Tuani ma Ho, Jesus ro, dangolhu dieahi Ho,
+Ndang marsineang rohaMi di au parhamagoan i.
+-
+Longang tutu do rohangki mamida pangalahoMi;
+Nang gok di Ho portibi on, martohap Ho di dongolhon.
+-
+O Jesus, haholonganki bongoti dohot rohangki;
+Pabali sian i sude na tau mangago au muse.
+-
+Haleluya, Haleluya! Na ro tu hita Debata.
+Martua hita baenon ni saleleng ni lelengna i.

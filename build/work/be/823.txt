@@ -1,0 +1,30 @@
+@be 823
+@bl 0
+@title Salpu ari borngin ro
+@key G
+@meter 4/4
+@credit Syair : Abend Ward-Balt Kommt die Naht, Rudolf Alexander Schroder, 1942 · Terj. : Dcs. Bonaria Hutabarat · Lagu : Samuel Rothenberg, 1948.
+@pages 908 909
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (kata tambahan menurut pembanding) dan 5 (ejaan "pangidoangki") beda. Scan hlm 908–909 jelas → buku tetap.
+@check Pembanding menyebut Buku Logu No. 823; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 823) | https://bukuende.wordpress.com/2013/06/18/salpu-ari-borngin-ro-buku-ende-no-823-buku-logu-no-823/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Kepala lagu mencetak "Mat. 5:16: 1 Pet. 2:12".
+@check Tanda mula paranada baris 1 (hlm 908) tampak seperti 2 kres, tetapi baris 2 (hlm 909) 1 kres; letak not (1 = G4, 4 = C5 tanpa coretan di angka) sesuai G mayor → @key G.
+@check Birama 1 ketukan 4: angka "1̄ 5̣" (legato), tetapi not balok tampak A4–D4 (= 2 5̣). Ditulis sesuai angka.
+#A
+1 2 3 (1+5,) | 6, 7, 1 . | 4 3 2 2 | 3 . . . |
+3 4 5 .+5 | 4 3 2 . | 5, 1 2 2 | 1 . . . |]
+> Sal-pu a-ri bor-ngin ro lao ma mo-dom ho, De-ba-ta man-ja-ga ho na tong-tong du-ngo.
+#V
+Salpu ari borngin ro lao ma modom ho,
+Debata manjaga ho na tongtong dungo.
+-
+"Au donganmu" ninna do tu na lojai,
+tu Tuhanta ro ma ho, asa sonang ho.
+-
+On do pangidoangki ale Tuhanki,
+sai padao ma musu i sian lambungki.
+-
+Jesus hasonanganki hangoluanki,
+sogot di ulaonki, Ho pargogongki.

@@ -1,0 +1,45 @@
+@be 834
+@bl 0
+@title Na masihol do rohangku
+@key Eb
+@meter 4/4
+@credit Syair & lagu: NN
+@pages 922 923
+@status Lirik dicek · 10/11 baris sama dgn pembanding
+@check Pembanding lirik: ayat 2 'andingan' beda ejaan (scan jelas 'andingan'); ayat 3 tidak ada di pembanding (4 baris tanpa pembanding).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 834) | https://bukuende.wordpress.com/2013/06/16/na-masihol-do-rohangku-buku-ende-no-834-buku-logu-no-834/ | bukan acuan utama; buku tetap acuan
+@check Buku tidak mencetak nomor Logu → @bl 0 (tidak dicantumkan).
+@check Angka 4 dicoret (= #4) sesuai balok A♮.
+@check Birama akhir refrein tercetak "3 2 1" tanpa titik tahan; durasi ditulis "3 2 1 ." mengikuti balok (sama dengan akhir bait).
+#A
+3+4 | 5+5 #4+5 1'+1' 5+3 |
+5 #4 4 4+5 | 7 .+6 5+6 5+4 |
+3 . . 3+4 | 5+5 #4+5 1'+1' 3+5 |
+7 6 6 . | 1'+1' .+6 5+6 . | 3 2 1 . |]
+> Na ma-si-hol do ro-hang-ku tu na So-nang i tu i-nga-nan ni Tu-han-ta i, ta-no on ro di su-de na pa-ngi-si-na i su-sa sai su-sa ro-hang ki,
+#B
+1'+1' .+1' 1' 5 | 7 7 7 . |
+7+7 .+7 7 4 | 6 5 5 . |
+1'+1' 1'+1' 1'+5 #4+5 | 7+6 6+6 6 . |
+1'+1' .+6 5+6 . | 3 2 1 . |]
+> Mar-o-lop-o-lop ro-hang-ki di sur-go di na so-nang i, so-a-da na hu-rang sa-bam so-nang ro-hang-ki, mo-lo dung sa-hat au tu-si.
+#V
+Na masihol do rohangku tu na
+Sonang i tu inganan ni Tuhanta i,
+tano on ro di sude na pangisina i
+susa sai susa rohangki,
+Ref. : Marolop-olop rohangki di surgo di na sonang i,
+soada na hurang sabam sonang rohangki,
+molo dung sahat au tusi.
+-
+Ai andingan idaonku haholonganki,
+raphon Jesus ale-alengki,
+haholongan na badia sian Jesus i,
+sonang sai sonang rohangki.
+Ref. : Marolop-olop . . .
+-
+Di na hundul au manatap dompak langit i,
+di na ro sibalik hunik i,
+digombarhon i do ujung ni ngolunta i,
+ndang be mabiar au disi,
+Ref. : Marolop-olop . . .

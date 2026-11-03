@@ -1,0 +1,36 @@
+@be 858
+@bl 0
+@title Jesus Kristus
+@key D
+@meter 4/4
+@credit Syair: Jesus le Christ: Agustinus · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Jacques Berthier
+@pages 943 944
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: 9/12 baris sama; beda di ayat 2 baris 1 (ejaan kata ke-4), ayat 2 baris 2 (kata ke-2 tidak ada di pembanding), ayat 3 baris 2 (kata ke-6 "au" tidak ada di pembanding). Scan hlm 944 jelas; teks buku dipakai.
+@check Pembanding menyebut Buku Logu No. 858; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 858) | https://bukuende.wordpress.com/2013/06/16/jesus-kristus-buku-ende-no-858-buku-logu-no-858/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Lagu minor (la = 6 = B, tanda mula 2 kres); 5 dicoret = #5 (Ais), sesuai balok.
+@check Sinkop "6̄ 6 3̄" (1/8 – 1/4 – 1/8) ditulis 6+6 .+3.
+@check Hlm 943 baris 2: angka "3̄ 3" pada "nga-ra", tetapi not balok kedua tampak lebih tinggi (G/A); ditulis sesuai angka.
+#A
+6+6 .+3 | 4 0+2 5 5+2 |
+3 3 1 1+1 | 2 1+2 3+3 6+6 |
+#5 . 6+6 .+3 | 4 0+6 7 7+5 |
+3 3 1 1 | 2 1+2 3 6+#5 | 6 . |]
+> Je-sus Kris-tus son-da-ngi ro-hang-ku u-nang na ho-lom ma-nga-ra-ja-i au Je-sus Kris-tus son-da-ngi ro-hang-ku ho-long-Mi mang-go-hi ro-hang-kon.
+#V
+Jesus Kristus sondangi rohangku
+unang na holom mangarajai au
+Jesus Kristus sondangi rohangku
+holongMi manggohi rohangkon.
+-
+Jesus Kristus sondangi rohangku,
+unang na holom mangarajai au
+Jesus Kristus, sondangi rohangku
+sai TondiM ma manggomgomi au.
+-
+Jesus Kristus sondangi rohangku
+unang na holom mangarajai au,
+Jesus Kristus sondangi rohangku.
+sai dameM mangaramoti au.

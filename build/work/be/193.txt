@@ -1,0 +1,41 @@
+@be 193
+@bl 193
+@title Maribak langit
+@key Bb
+@meter 3/4
+@credit Johann Wolfgang Franck 1681
+@pages 175 176
+@check Birama "4 . 4" (bar 4): angka = setengah + seperempat, tetapi balok tampak not 1/8 + tanda diam 1/8; dipakai angka.
+@check Ayat 2–4 dicetak buram (huruf n tampak seperti u); dibaca ulang 600 dpi: "manggarari", "Ditaoni", "Antong", "maniru".
+@status Lirik dicek · 9/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 4, 6, 7, 8, 9, 13 beda; dicek ulang ke scan: "Ditaoni", "manggarari", "Antong" dikoreksi (cetakan buram), sisanya sesuai buku; diperbandingkan sebelum koreksi.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 193) | https://bukuende.wordpress.com/2013/06/16/maribak-langit-buku-ende-no-193-buku-logu-no-193/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+1 | 3 . (2+1) | 2 . 3 | 4 . 4 | 4 3 v 1 | 6, . 2 | 7, . 1 | (1 .+2) 7, | 1 . :|
+> Ma-ri-bak la-ngit ni la-ngi-tan, di-ba-hen ho-long ni ro-haM.
+> Di ha-mi ang-ka na han-si-tan, pa-pa-tar deng-gan ni ba-saM.
+#B
+5, | 1 . 1 | 6, . 6, | 2 . 2 |
+7, 7, v 7, | 3 . 3 | 6, . 7, | 7, . 6, | 5, . v 2 | 3 . 3 |
+1 . 1 | 4 . 4 | 2 2 v 2 | 5 . 3 | (1 .+7,) 1 | 3 . 2 | 1 . |]
+> Di-i-da na-sa ma-ni-si-a, pa-ngi-si ni por-ti-bi on; Ro Ho, o Je-sus na ba-di-a, hu-mop-hop ha-jol-ma-on on.
+#V
+Maribak langit ni langitan, dibahen holong ni rohaM.
+Di hami angka na hansitan, papatar denggan ni basaM.
+Diida nasa manisia, pangisi ni portibi on;
+Ro Ho, o Jesus na badia, humophop hajolmaon on.
+-
+Diporsan Ho do nasa dosa ni manisia sasude.
+I ma umbaen marutang hosa Ho, manggarari i sude.
+Ditaoni ho do hamatean di hau pinarsilang i,
+Pamasuk hami on, manean na uli na di surgo i
+-
+Mauliate ma rohangku di Ho, Jesus Tuhanki!
+Naung sae do saluhut dosangku binaen ni hamamateMi.
+Malua sian hamagoan do au binaen ni asiMi,
+Hupuji goarMi, o Tuhan, saleleng ni lelengna i
+-
+Antong, Ho ma nampuna ahu saleleng au di tano on,
+Denggan ma au marpangalaho, pasangap goarMi tongtong
+Sai tiruonku ma pambaenMu mangkaholongi dongan i;
+Seahononku ma diringku maniru Ho, o Tuhanki

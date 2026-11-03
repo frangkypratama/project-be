@@ -1,0 +1,38 @@
+@be 763
+@bl 0
+@title Molo Jesus donganmi
+@key G
+@meter 4/4
+@credit Syair & lagu: NN · Terj.: Gr. Jisman Hutapea
+@pages 827 828
+@status Lirik dicek · 5/10 baris sama dgn pembanding
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0.
+@check Ayat 1 dan refrein hanya tercetak di bawah not; teks disusun dari suku kata di bawah not.
+@check Birama baris 2: tercetak "2.2 | 2.2 2 2.3 |" (1 + 3 ketuk; angka & balok sama). Garis birama setelah "2.2" pertama tampak salah letak → dihapus agar birama = 4 ketuk.
+@check Baris 3: "3 .3̣" (titik bawah) padahal balok B4 → ditulis 3; "4 .1" padahal balok C5–C5 → angka 1 dipertahankan.
+@check Refrein: angka tercetak tanpa titik tahan/titik nilai ("3 343", "2 2 2 2", "3 5 5", "1"); durasi diambil dari balok (1/2 bertitik, 1/8 bertitik + 1/16, triol 3‿4 3).
+@check Ayat 2 tercetak ";as roham" (kemungkinan "las roham") — ditulis apa adanya.
+@check Pembanding lirik: baris 1, 2, 8 beda ejaan; refrein di pembanding memuat "Jesus i las roham" dan "bintang pangkirimon i" — buku tidak mencetak "i" di bawah not, padahal ada 1 not tanpa suku kata di kedua tempat → "i" diisi dari pembanding.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 763) | https://bukuende.wordpress.com/2013/06/16/molo-jesus-donganmi-buku-ende-no-763-buku-logu-no-763/ | teks ayat
+#A
+5,+.+.+5, | 1+.+.+1 1+.+.+1 1 1+.+.+2 | 3 . . 1+.+.+1 |
+2+.+.+2 2+.+.+2 2 2+.+.+3 | 4 . . 5+.+.+4 |
+3+.+.+3 3+.+.+3 3 5+.+.+5 | 6+.+.+6 4+.+.+1 6 5+.+.+4 |
+3+.+.+3 3+.+.+3 1 2+.+.+2 | 1 . . 5+.+.+5 | 5 . . 3+.+.+3 |
+3 . . (3+4)+3 | 2+.+.+2 2+.+.+2 2 5+.+.+4 | 3 . . 5+.+.+5 |
+6+.+.+6 6+.+.+6 5 3+.+.+3 | 4+.+.+4 4+.+.+4 3 2+.+.+2 |
+1+.+.+1 1+.+.+1 3 2+.+.+2 | 1 . . |]
+> Mo-lo Je-sus do-ngan-mi las ro-ham, Je-sus i pa-ngu-ru-pim las ro-ham, hot ha-por-se-a-on-mi do-hot pos ni ro-hi-mi mar-do-ngan-hon Je-sus i las ro-ham. Las ro-ham, las ro-ham mar-do-ngan-hon Je-sus i las ro-ham mar-si-non-dang ma di ho, bin-tang pang-ki-ri-mon i mar-do-ngan-hon Je-sus i las ro-ham.
+#V
+Molo Jesus donganmi las roham, Jesus i pangurupim las roham,
+hot haporseaonmi dohot pos ni rohimi,
+mardonganhon Jesus i las roham.
+Ref.: Las roham, las roham mardonganhon Jesus i las roham,
+marsinondang ma di ho, bintang pangkirimon i,
+mardonganhon Jesus i las roham.
+-
+Molo Jesus donganmi las roham.
+jagaonNa tondimi ;as roham,
+tiruonmu ma tongtong dame nang holongNa i
+saleleng dingolumi las roham
+Ref : Las roham

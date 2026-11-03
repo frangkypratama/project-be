@@ -1,0 +1,58 @@
+@be 359
+@bl 221
+@title Sai hehe ma Tuhanta i
+@key Eb
+@meter 4/4
+@credit Lagu : Matthaus Greitter 1525
+@pages 341 342
+@status Lirik dicek · 26/30 baris sama dgn pembanding
+@check Pembanding lirik: beda: "Malalasongan" (ayat 1), ayat 1 baris 5 (kata ke-2 "mago" tidak ada di pembanding), ayat 3 baris 4 (pembanding tanpa satu kata), "Di baen" (ayat 4). Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 359) | https://bukuende.wordpress.com/2013/06/18/sai-hehe-ma-tuhanta-i-buku-ende-no-359-buku-logu-no-221/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende Psalm, judul bagian "Psalm 68". Kredit dicetak "Matthaus Greitter" (ejaan lazim: Matthäus Greiter); ditulis sesuai buku.
+@check Ayat 1 disusun dari lirik di bawah not (pemenggalan baris mengikuti ayat 2).
+#A
+1 . | 1 2 3 1 | 3 4 5 . v | 5 . 4 3 |
+2 1 3 4 | 5 . v 6 . | 5 4 3 1 | 2 . 1 . :|
+> Sai he-he ma Tu-han-ta i, mam-baen ho-hom mu-su-Na i, ma-po-rus di jo-lo-Na.
+> So-bok-kon ti-mus lao su-de, ma-la-la-so-ngan pan-tis pe, ni-om-bus ni ho-sa-Na.
+#B
+1' . 1' 1' | 7 5 6 6 | 3 . v 1' . |
+1' 1' 7 5 | 6 6 5 . v | 3 . 5 6 | 5 3 (4 5) |
+3 . v 2 . | 3 4 5 .+4 | 3 3 2 . v | 5 . 6 7 |
+1' .+7 6 6 | 5 . v 1 . | 2 3 4 3 | 2 . 1 . |]
+> Ai na mang-a-lo Tu-han i, i ma su-de par-ja-hat i, Lao ma-go do lu-hut-na; Pa-me-reng ni Ja-ho-wa i, Na ma-no-ru-si sa-su-de, i do pa-se-rak-hon-sa.
+#V
+Sai hehe ma Tuhanta i, mambaen hohom musuNa i,
+Maporus di joloNa. Sobokkon timus lao sude,
+Malalasongan pantis pe, niombus ni hosaNa.
+Ai na mangalo Tuhan i, i ma sude parjahat i,
+Lao mago do luhutna; Pamereng ni Jahowa i,
+Na manorusi sasude, i do paserakhonsa.
+-
+Alai marlasniroha ma partigor i di Debata,
+Huhut marhasonangan, marolopolop ma sude,
+Girgir mamujimuji be, marroha hatorangan.
+Endehon Debatanta i, sai puji ma goarNa i
+Pasangap ma Ibana, patigor ma dalanNa i,
+Na sian halongonan i; Tuhanta do ibana.
+-
+Manungkap be ma hita on mamuji Debata tongtong,
+Dibaen denggan basaNa, taporsan pe na dokdok i,
+Tuhanta, siampehon i do mangurupi hita,
+Nda pujionta goarNi nampuna hatuaon i,
+Jahowa Debatanta? Ai ro pe hagogotan i,
+Nang songgop hamatean pe, sai dipalua hita.
+-
+O Israel, Debatami do mangalehon gogomi,
+Di baen asi rohaNa, o Debata, di bangsoMi
+Pahot na pinatupaMi, tambai hagogoonNa,
+Ai sian i tandaon ni na manggomgomi bangso i,
+O Debata, sangapMu, dung i sai ro ma sasude,
+Mamboan tu joroM muse, Jahowa, peleanmu.
+-
+Songkal do Debatanta i, ro sian ingananNa i
+Na marhabadiaon, Ibana do Debata ni
+BangsoNa, hinophopNa i, silehon hagogoon.
+Tutu, holong rohaNa i di nasa na porsea i,
+Ditatap do bangsoNa, antong sai tapasangap ma
+Na sasadasa Debata; Tapuji ma goarNa.

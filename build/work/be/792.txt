@@ -1,0 +1,61 @@
+@be 792
+@bl 0
+@title Pasu-pasu hami O Tuhan
+@key D
+@meter 8/4
+@credit Syair dan lagu: Herr, wir gitten; Komm und segne uns · Terj.: Pdt. W. P. Tampubolon / Pdt. J.A.U. Doloksaribu
+@pages 868 869 870
+@status Lirik dicek · 17/19 baris sama dgn pembanding
+@check Pembanding lirik: ayat 2 baris 1 ("dosa") beda ejaan; ayat 5 baris 1 buku mencetak "Siportibion" (ayat lain "Diportibion"). Dicek di scan hlm 870: buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 792) | https://bukuende.wordpress.com/2013/06/16/pasu-pasu-hami-o-tuhan-buku-ende-no-792-buku-logu-no-792/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanda mula 2 kres (D mayor); not 1 = D4. Tanda birama tercetak 4/2, tetapi angka ditulis per ketuk ♩ (8 angka per birama) → ditulis 8/4 (isi birama sama dengan 4/2).
+@check Lagu dimulai dengan Refrein (bagian A, berakhir "Fine"), lalu ayat (bagian B) dengan "DC al Fine" = kembali ke Refrein. Situs belum bisa memutar lompatan DC; Refrein dinyanyikan lagi sesudah tiap ayat.
+@check Bagian B birama 5: angka "3 . . 3 3 5 3 1", tetapi balok tampak F♯–E–E–A–F♯–D (not ke-2 & ke-3 = 2, bukan 3). Ditulis sesuai angka.
+@check Kredit ditulis seperti buku ("Herr, wir gitten", kemungkinan salah cetak "bitten").
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari suku kata di bawah not.
+#A
+1 . . 1 3 3 5 3 | 6 . . 5 5 . . . |
+6 . . 6 5 2 3 4 | (3 . . . 2) . . . |
+1 . . 1 3 3 5 3 | 6 . . 5 5 . . . |
+4 . . 4 3 3 2 2 | (1 . . . 1) . . . |]
+> Pa-su-pa-su ha-mi O Tu-han Sai u-se-hon da-me-Mi, sai am-pe-hon ta-ngan-Mi Tu-han, le-hon tu au go-go-Mi
+#B
+3 . . 3 3 2+(1 . 1) | 4 . . 4 4 3+(2 . 2) |
+3 . . 3 3 5 3 1 | (3 . . 4+3) 2 . . . |
+3 . . 3 3 2+(1 . 1) | 4 . . 4 4 3+(2 . 2) |
+3 . . 1 3 3 2 2 | (1 . . . 1) . . . |]
+> di por-ti-bi-on baen ma au Tu-han ha-baor-an ni las ni ro-ha tu na mar-sak i tu na da-ngol i ga-be pa-nga-pu-li i.
+#V
+Ref.: Pasu-pasu hami O Tuhan
+Sai usehon dameMi,
+sai ampehon tanganMi Tuhan,
+lehon tu au gogoMi
+-
+Di portibion baen ma au Tuhan
+habaoran ni las ni roha
+tu na marsak i tu na dangol i
+gabe pangapuli i.
+Ref.: Pasu-pasu hami O Tuhan ...
+-
+Diportibion, baen ma au Tuhan,
+monang maralohon dosa dibaen gogoMi,
+talu musu i sibolis pangago i.
+Ref.: Pasu-pasu hami O Tuhan ...
+-
+Diportibion, baen ma au Tuhan,
+sipatupa hadameon baen ma hataMi,
+saor tu roha ni na masihosoman i.
+Ref.: Pasu-pasu hami O Tuhan ...
+-
+Diportibion, baen ma au Tuhan,
+siradoti haholongon,
+togu-togu ma, hami on Tuhan,
+marparange na denggan.
+Ref.: Pasu-pasu hami O Tuhan ...
+-
+Siportibion baen ma au Tuhan,
+sipajongjong hatigoran,
+pargogoi ma au, raphon HuriaM,
+patupahon na denggan.
+Ref.: Pasu-pasu hami O Tuhan ...

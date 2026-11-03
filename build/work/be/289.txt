@@ -1,0 +1,27 @@
+@be 289
+@bl 220
+@title Pos ma ho, rohangku
+@key Eb
+@meter 4/4
+@credit Lagu: Henri Abraham Cesar Malan 1872
+@pages 269
+@status Lirik dicek · 6/7 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 "Ti rohaNa" beda (salah cetak buku, lihat atas).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 289) | https://bukuende.wordpress.com/2013/06/16/pos-ma-ho-rohangku-buku-ende-no-289-buku-logu-no-220/ | 6/7 baris sama
+@check Ayat 2 baris 2 tercetak "Ti rohaNa" (ayat 1 di bawah not: "tu ro-ha-Na") — ditulis apa adanya. 4* = A♮ (balok bertanda pugar) → #4.
+#A
+5 .+5 6 5 | 3 . 1 . v | 2 . 3 .+4 | 5 . . 0 |
+5 .+5 6 5 | 3 . 1 . v | 2 .+2 4 7, | 1 . . 0 | 4 . 4 3 |
+2 . . 0 | 5 .+6 5 4 | 3 . . 0 | #4 .+#4 6 6 | 5 . 1' . v |
+7 .+7 6 6 | 5 . . 0 | 5 . 6 5 | 3 . 1 . v | 2 . 3 .+4 |
+5 . . 0 | 5 .+5 1' 7 | 7 . 6 v 2' | 1' . 7 . | 1' . . 0 |]
+> Pos ma ho, ro-hang-ku, di De-ba-ta! Bo-nom ma ar-sak-mu tu ro-ha-Na, da! U-nang lo-mos, ti-op ma go-mos ha-por-se-a-on-mu, U-nang ho bo-bos! Pa-lu-a-on-Na ho ma an-tong si-an na-sa je-a di ta-no on.
+#V
+Pos ma ho, rohangku, di Debata! Bonom ma arsakmu tu rohaNa, da!
+Unang lomos, tiop ma gomos haporseaonmu, Unang ho bobos!
+PaluaonNa ho ma antong sian nasa jea di tano on.
+-
+Pos ma ho, rohangku di Debata! Bonom ma arsakmu
+Ti rohaNa, da! Lao mago pe na dison sude,
+Sonang bahenonNa sogot ho muse,
+Ale Jahowa, haposanki, sai togihon ahu tu surgo i!

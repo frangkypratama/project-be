@@ -1,0 +1,54 @@
+@be 817
+@bl 0
+@title Lambok sondang ni bulan
+@key F
+@meter 4/4
+@credit Syair: "Der mond ist aufgegangen". Mathias Claudens, 1760-1815 · Terj.: Dcs. Bonaria Hutabarat · Lagu: Johan Abraham Peter Schuldz, 1790.
+@pages 900 901
+@status Lirik dicek · 26/28 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 20 ("nii") dan 22 ("marngolu"); dicek di scan, tercetak demikian — buku tetap acuan. Pembanding menyebut Logu No. 817, buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 817) | https://bukuende.wordpress.com/2013/06/16/lambok-sondang-ni-bulan-buku-ende-no-817-buku-logu-no-817/ | perbandingan per baris
+@check Buku tidak mencetak nomor Logu → ditulis 0.
+@check Birama 1: angka "4" tercetak dengan noda/titik di atas, tetapi not balok = Bes4 (oktaf sama) → ditulis 4 tanpa titik.
+@check Ejaan kredit ditulis seperti buku ("Claudens", "Schuldz"; lazimnya Claudius, Schulz).
+#A
+1 | 2 1 4 3 | 2 . 1 3 | 3 3 6 5 |
+4 . 3 3 | 3 3 4 3 | 2 . 0 1 |
+2 1 4 3 | 2 . 1 3 | 3 3 6 5 |
+4 . 3 3 | 3 3 4 3 | 2 2 1 |]
+> Lam-bok son-dang ni bu-lan hu-mir-dop-hir-dop, bin-tang di par-la-ngi-tan i, ho-lom do hu-ma-li-ang di hu-ta di ba-li-an, ma-ra-di na ti-nom-pa i.
+#V
+Lambok sondang ni bulan humirdophirdop,
+bintang di parlangitan i,
+holom do humaliang di huta di balian,
+maradi na tinompa i.
+-
+Sonang ma saluhutna,
+dame soada mara di hajolmaon i,
+sudena halojaon, nang dohot parungkilon,
+maporus do diborngin i.
+-
+O, Ama pardisurgo,
+naeng sonang ahu modom, sesa ma dosangki
+saluhut na mardangol nang angka na marsahit,
+sai sahat ma tu tanganMi.
+-
+Di ida ho do bulan,
+suman do tu sasabi hape hibul do i,
+dibalik na tarida, boi do asing tarsirat,
+gabe hatuaonta i.
+-
+Pardosa sude jolma,
+ndang tuk na binotona tu hahomion i,
+molo tung di jugulhon mangasa binotona,
+api naroko ujung nii.
+-
+Ajari hami Tuhan,
+marngolu haserepon marroha na turut,
+basar, toman, parholong, lambok, basa, porsea,
+i tanda ni siseanMi.
+-
+O Jesus Tuhannami,
+pabulus langkanami tu hasonangan i,
+dung jumpang ajalnami, pamasuk tondinami,
+tu surgo salelengna i.

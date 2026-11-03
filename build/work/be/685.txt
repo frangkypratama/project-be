@@ -1,0 +1,39 @@
+@be 685
+@bl 0
+@title Pahehe au on
+@key F
+@meter 3/4
+@credit Syair: We praise Thee revive us again, William P. Mackay, 1863; Terj.: Pdt. J.A.U. Doloksaribu/Pdt. M.V. Simanjuntak; Lagu: John J. Husband, 1780-1885
+@pages 714 715
+@status Lirik dicek · 6/9 baris sama dgn pembanding
+@check Pembanding lirik: baris 4 (buku 'Pehehe'), 6 & 7 (ayat 3: 'Jesus sihohop au', 'pola mate') beda di pembanding; dicek ulang ke scan hlm 715, ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 685) | https://bukuende.wordpress.com/2013/06/16/pahehe-au-on-buku-ende-no-685-buku-logu-no-685/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 685. Tahun komponis tercetak "1780-1885" (lazim 1760–1825) — ditulis apa adanya.
+@check Ayat 2 tercetak "Pehehe au on" (ayat lain "Pahehe") — ditulis apa adanya.
+#A
+5, | 1 1 1 | 1 . 1+2 | 3 3 3 |
+3 . 1+3 | 5 5 5 | 6 5 3 | 3 2 2 |
+2 . |
+> Pa-he-he au on a-le De-ba-tang-ki, a-la Je-sus naung he-he ma-ngo-lu tong-tong.
+#B
+5+.+.+5 | 6 5 3+.+.+2 | 1 1 5+.+.+5 |
+6 5 3 | 2 . 5+.+.+5 | 6 5 3+.+.+2 |
+1 1 3 | 4 3 2 | 1 . |]
+> Ha-le-lu-ya pu-ji Tu-han, ha-le-lu-ya a-men, ha-le-lu-ya pu-ji Tu-han, pa-he-he au on.
+#V
+Pahehe au on ale Debatangki,
+ala Jesus naung hehe mangolu tongtong.
+Ref: Haleluya puji Tuhan, haleluya amen,
+haleluya puji Tuhan, pahehe au on.
+-
+Pehehe au on Tondi ni Tuhanki,
+na papatar tu hami Sipalua i.
+Ref: Haleluya, puji Tuhan . . .
+-
+Pahehe au on Jesus sihohop au,
+pola mate tarsilang Ho manobus au.
+Ref: Haleluya, puji Tuhan . . .
+-
+Pahehe au on sai patau ma au on,
+baen panondang tu dongan di na rodop on.
+Ref: Haleluya, puji Tuhan . . .

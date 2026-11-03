@@ -1,0 +1,18 @@
+@be 844
+@variant b
+@bl 0
+@title Amen (3 X)
+@key G
+@meter 2/4
+@credit Musik: Liturgi Denmark
+@pages 935
+@status Lirik dicek · 1/1 baris sama dgn pembanding
+@check Pembanding lirik: teks sama (Amen 3×); pembanding hanya memuat satu versi 844, tidak membedakan a/b.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 844) | https://bukuende.wordpress.com/2013/06/09/amen-3x-buku-ende-no-844-buku-logu-no-844/ | pembanding menulis Buku Logu No. 844; buku tidak mencetak nomor Logu
+@check Ini 844b; buku mencetak dua lagu bernomor 844 (844a di 844.txt).
+@check Bagian Ende Liturgi; buku tidak mencetak nomor Logu → @bl 0.
+#A
+3 2 | 1 7, | (6, 2 | 1 7,) | 1 . |]
+> A-men, a-men a-men.
+#V
+Amen, amen amen.

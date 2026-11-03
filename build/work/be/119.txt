@@ -1,0 +1,29 @@
+@be 119
+@bl 9
+@title Martua do dohonon
+@key F
+@meter 4/4
+@credit Friedrich Gottlieb Wetzel, 1819
+@pages 107 108
+@check Baris kedua dicetak dua kali (hlm. 107 dan 108) dengan birama "6 6 6 6" lalu "6 6 1' 6"; ditulis lengkap sesuai buku. Tanda ":,:" pada ayat 2–4 menandai baris yang diulang; ditulis sesuai buku.
+@check Birama 2 tercetak "1 . 5, ' 5,": di not balok ada tanda mirip diam 1/8 di dekat tanda napas; dibaca sebagai tanda napas.
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 8 baris sama persis; baris 8 kurang satu kata dibanding pembanding — buku tercetak 'na marsaraja ;'. Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 119) | https://bukuende.wordpress.com/2013/06/16/martua-do-dohonon-buku-ende-no-119-buku-logu-no-9/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 3 .+3 2 3 | 1 . 5, v 5, | 5 5 4 5 |
+3 . 0 1 | 6 6 6 6 | 5 . 3 v 5 | 5 (4+3) 4 5 |
+3 . 0 1 | 6 6 1' 6 | 5 . 3 v 5 | 5 (4+3) 4 5 | 3 . . |]
+> Mar-tu-a do do-ho-non na mar-sa-a-ma i, Na tong mar-par-ro-ha-on, ma-ni-op da-me i, na tong mar-par-ro-ha-on, ma-ni-op da-me i.
+#V
+Martua do dohonon na marsaama i,
+:,: Na tong marparrohaon, maniop dame i :,:
+-
+Sumorop anggo ombun, pabornok ladang i;
+:,: Laos songgop hatuaon, tu angka dongan i :,:
+-
+Dung i sumuang sogot, ma hasonangan i;
+:,: Malua naung tarihot, ias pardosa i :,:
+-
+Sudena na porsea, na masuk do tusi;
+:,: Na gabe sahuria, na marsaraja ; :,:

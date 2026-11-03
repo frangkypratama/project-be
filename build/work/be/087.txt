@@ -1,0 +1,50 @@
+@be 87
+@bl 91
+@title Jesus Kristus do manobus
+@key Eb
+@meter 4/4
+@credit Joachim Neander, 1680
+@pages 77 78
+@status Lirik dicek · 22/24 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 dan 23 pembanding lebih pendek (buku: "sai pabulus, sai patulus" — cocok dengan jumlah not).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 87) | https://bukuende.wordpress.com/2013/06/13/ho-tinobus-ni-tuhanmu-buku-ende-no-87-buku-logu-no-91/ | 22/24 baris sama
+@check Lagu bernada minor (la = 6 = C); tanda mula di scan tampak 2 mol, dipakai Es (3 mol) karena not 1 = Es dan ♮A/♮B ditulis #4/#5.
+@check Judul di buku "Jesus Kristus do manobus"; baris pertama lirik "Ho, tinobus ni Tuhanmu".
+#A
+3 3 6 6 | 5 .+4 3 1 v | 5 3 6 5 |
+4 .+4 3 . | 2 1 2 7, v | 1 2 3 3 v |
+3 #4 5 (6+5) | #4 #4 3 . v | 7 7 1' (7+6) |
+#5 6 7 3 v | 1' (7+6) #5 6 | 6 .+#5 6 . |]
+> Ho, ti-no-bus ni Tu-han-mu, tung jo-nok do De-ba-tam. Sai pa-sa-da ping-ki-ran-mu, A-sa tong tu-tu sa-bam. Sai pa-bu-lus, sai pa-tu-lus, tu Tu-han-mu ma ro-ham.
+#V
+Ho, tinobus ni Tuhanmu, tung jonok do Debatam.
+Sai pasada pingkiranmu, Asa tong tutu sabam.
+Sai pabulus, sai patulus, tu Tuhanmu ma roham.
+-
+Sai timbangi di rohamu pangkophopNa i sude;
+Ai tung ala ni dosamu do tarsilang Tuhanmi.
+Baen malua, baen martua, hita na tarjea i.
+-
+Haberengan ho Tuhanmu di hau pinarsilang i?
+So uhir tu pingkiranmu hansit na tinaonNa i?
+Sai tohoi, sai oloi, holong ni rohaNa i.
+-
+Naeng bagas arsakkononmu, sasudena dosami,
+Asa hangoluhononmu na tinaon ni Tuhanmi
+Sai ringkoti manopoti nasa hadosaonmi.
+-
+Mangasahon na tinaonmu, tundalanku dosangki.
+Sai pasonggop pangkophopMu tu sude pingkiranki.
+Naeng tondingku, nang dagingku, upa ni na tinaonMi.
+-
+Na so tupa datdatanku mangulahon dosa i.
+Na so jadi arsahanku, Ho Parngolu, Tuhanki.
+Sai tarhilas ma rohaMu mida au hinophopMi!
+-
+Nang dokdok pe siporsanon mian au di lambungMi
+Habengeton, hatomanon, disahaphon silangMi.
+Ho Rajangku, Ho Tuhanku, ro di hamamatengki.
+-
+Pangkophopon ni Tuhanku na tongtong hutiop i;
+Holan i pasaut langkangku masuk hasangapon i,
+Lao martomu, lao mardomu tu Tuhanku Jesus i.

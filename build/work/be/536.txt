@@ -1,0 +1,30 @@
+@be 536
+@bl 412
+@title Ditangihon Tuhan i
+@key C
+@meter 4/4
+@credit S.L. No. 130
+@pages 507
+@check Birama 4 angka "4 . . ." tetapi not balok tampak E4 (= 3); ditulis sesuai angka.
+@check Baris 1 "7 . . 1 | 2 7 5 4": titik oktaf atas pada 1 dan 2 tidak tercetak; not balok C5 dan D5 → ditulis 1' dan 2'.
+@check Baris 2 birama 3 dicetak "1̇ . 7" (3 ketuk); not balok C5 ½. + B ¼ → ditulis 1' . . 7.
+@check "ta-ngiang" tercetak "ngiang" di bawah dua not (3 . 5 .) → dipenggal ngi-ang. Not "2̇ . . ." (sebelum "Pu-ji") tidak punya suku kata sendiri → "ki" ditahan (_).
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 6 dari 8 baris sama; baris 3, 7 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 536) | https://bukuende.wordpress.com/2013/06/13/ditangihon-tuhan-i-buku-ende-no-536-buku-logu-no-412/ | Pembanding lirik (tanda baca diabaikan).
+#A
+5 . . #4 | (6 5) (4 3) | 5 . 4 . | 4 . . . | 7 . . 1' | (2' 7) (5 4) |
+3 . 5 . | 5 . . . | 1' . . 7 | (2' 1') 7 6 | 6 . 6 . | 2' . . . | 5 . . 5 | 6 . 7 . | 1' . . . |]
+> Di-ta-ngi-hon Tu-han i Ha-ta-ni ta-ngi-ang i, tung na pos do ro-hang-ki _ Pu-ji Tu-han i!
+#V
+Ditangihon Tuhan i Hatani tangiang i,
+tung na pos do rohangki Puji Tuhan i!
+-
+Dipasaut hataNa i, nasa bagabaga i.
+Ndang boi ganggu rohangki. Puji Tuhan i!
+-
+Tung na hot do hata i doshon batu mamak i,
+I do pos ni rohangki. Puji Tuhan i !
+-
+Tibu mulak Tuhan i, ndang binoto tingki i,
+Sai rade ma rohangki. Puji Tuhan i!

@@ -1,0 +1,35 @@
+@be 636
+@bl 0
+@title Jesus do Raja bolon i
+@key D
+@meter 8/4
+@credit Syair: Jesus shall reign where the Sion; Issac Walts, 1719 · Terj.: Pdt. M. H. Sihite / Pdt. M. V. Simanjuntak · Lagu: John Hattom, 1993
+@pages 646 647
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Ps. 72:1; Pang. 17:14. Kelompok "HANANAEK NI TUHAN JESUS".
+@check Tanda birama tercetak 8/4 (tiap birama 8 ketuk); ditulis apa adanya.
+@check Kredit ditulis seperti tercetak ("where the Sion", "Issac Walts", "John Hattom, 1993"; lazimnya "Jesus shall reign where'er the sun", Isaac Watts, John Hatton ±1793).
+@check Baris 4: angka "1 . . 4" tanpa titik atas; balok = D5 → ditulis 1'.
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 1 'harajaon na i', ayat 3 'nii' (salah cetak buku), ayat 4 'na hot i' berbeda. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 636) | https://bukuende.wordpress.com/2013/06/16/jesus-do-raja-bolon-i-buku-ende-no-636-buku-logu-no-636/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 3 4 5 . (6 7) | 1' . (7 6) 5 . . . |
+5 . 5 5 6 . 5 . | 4 . 3 . 2 . . . |
+3 . 3 2 (1 3) (5 1') | (6 5) (4 3) 3 . . . |
+5 . 6 7 1' . . 4 | 3 . 2 . 1 . . . |]
+> Je-sus do Ra-ja bo-lon i. Si-gom-gom na-sa na a-dong hot do ha-ra-ja-on na i, nang pe ma-ru-jung ta-no on.
+#V
+Jesus do Raja bolon i. Sigomgom nasa na adong
+hot do harajaon na i, nang pe marujung tano on.
+-
+Tangiang nang pujian i manaek tu habangsaNa i
+mansai hushus goarNa i binahen ni pelean i
+-
+Saluhut manisia i mian do di holongNa i
+soara ni dakdanak i manghatindanghon sangap nii.
+-
+Gok do asi ni roha i diharajaonNa na hot i
+malua na tarhurung i malua sian rante i.
+-
+O na tinompa hehe ma pasangap ma Rajanta i.
+suruan pe marende ma baen sangap di na monang i.

@@ -1,0 +1,47 @@
+@be 218
+@bl 146
+@title Tong do tau haposan
+@key Eb
+@meter 4/4
+@credit Friedrich Silcher 1860
+@pages 199 200
+@status Lirik dicek · 19/20 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 19 dari 20 baris sama; baris 7 kata 5 (ejaan). Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 218) | https://bukuende.wordpress.com/2013/06/18/tong-do-tau-haposan-buku-ende-no-218-buku-logu-no-146/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama "2 . 0" (akhir baris 1) dan "5 . ." (akhir baris 2) ditulis 2 . . 0 / 5 . . 0 sesuai not balok (not bertitik + diam 1/4).
+@check Not ke-4 baris 1 tercetak "4" bertitik atas; not balok menunjukkan As4 (4 biasa) → ditulis 4.
+@check Ketukan gantung bagian ulang "5 . 5" (1/8 bertitik + 1/16): not balok menunjukkan G4 (= 3) dan tanpa titik; ditulis sesuai not angka (5).
+@check Tanda ":,:" pada bait 2–5 baris 3: baris 3–4 diulang sesuai tanda ulang di notasi; ditulis sesuai buku.
+#A
+1 .+3 2 4 | 3 . 4 . | 5 .+6 5 3 | 2 . . 0 |
+2 .+5 #4 6 | 5 . 1' . | 7 .+5 (#4+5) (7+6) | 5 . . 0 |
+> Tong do tau ha-po-san Tu-han Je-sus i A-la naung di-por-san do do-san-ta i.
+#B
+5+.+.+5 | 5 . (6 7) | 1' . (7 6) | 5 .+3 4 6 |
+2 . . 0 | 3 .+3 4 5 | (6 1') (7+6) 5+4 | (3 . 5) 4 | 3 . . :|
+> Ha-ta, nang da-me-Na ha-ngo-lu-an ni ang-ka na por-se-a di ha-ta-Na i.
+#V
+Tong do tau haposan Tuhan Jesus i
+Ala naung diporsan do dosanta i.
+Hata, nang dameNa hangoluan
+Ni angka na porsea di hataNa i.
+-
+Sai tong didongani na porsea i,
+Jala ganup ari ro basaNa i
+:,: Tu na so marganggu, digogoNa i.
+Na mandok: Tuhanku, na sun denggan i.
+-
+Guru di Ibana, sude tano on.
+Sintong do hataNa, na tu hita on.
+:,: Asi ni rohaNa na sumurung i,
+Dipatongontongon tu lomoNa i.
+-
+Ale Tuhannami sai sondangi ma,
+Sude dongannami na di Sumatra
+:,: Dohot halak Nias, halak Borneo,
+Asa tung lam ias lao managam Ho.
+-
+Nang pe angka jolma na di Afrika,
+Ro di halak Sina, dohot Asia.
+:,: O Jesus panondang, sai sondangi ma,
+Asa ro marsomba tu Ho, Debata.

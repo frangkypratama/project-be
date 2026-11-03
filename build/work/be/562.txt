@@ -1,0 +1,26 @@
+@be 562
+@bl 0
+@title Hamuna ale jolma
+@key Ab
+@meter 3/4
+@credit Syair: Laudate Omnes Genies; Terj.: Pdt. M. Hutapea; Lagu: Musik Taize, Jaques Berthier
+@pages 531 532
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Psalm 117.
+@check Kredit tercetak "Laudate Omnes Genies" (lazim: Laudate omnes gentes) dan "Jaques Berthier" (lazim: Jacques) — ditulis apa adanya.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@status Lirik dicek · 3/4 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 beda ejaan kata 1 ("hamu na" vs "hamuna"); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 562) | https://bukuende.wordpress.com/2013/06/13/hamuna-ale-jolma-buku-ende-no-562-buku-logu-no-562/ | teks lirik
+#A
+0+3 | 3 .+3 4+3 | 2 1 0+1 | 1 .+2 3+4 |
+> Ha-mu na a-le jol-ma, sai pu-ji De-ba
+#B
+2 . 0+3 | 3 .+3 4+3 | 2 1 0+3 |
+2 .+1 1+7, | 1 . |]
+> ta, ha-mu na a-le jol-ma, sai pu-ji De-ba-ta.
+#V
+Hamuna ale jolma, sai puji Debata,
+hamu na ale jolma, sai puji Debata.
+-
+Gok asi ni rohaNa, sahat tu hita on,
+dohot HabonaronNa, sai hot do i tongtong.

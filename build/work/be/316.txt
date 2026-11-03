@@ -1,0 +1,57 @@
+@be 316
+@bl 175
+@title Sai marlas ni roha hita
+@key F
+@meter 4/4
+@credit Johann Schop 1642
+@pages 293 294
+@status Lirik dicek · 27/28 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di baris 2. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 316) | https://bukuende.wordpress.com/2013/06/16/nunga-lao-muse-sadari-buku-ende-no-316-buku-logu-no-175/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Judul Logu "Sai marlas ni roha hita"; baris pertama lirik "Nunga lao muse sadari".
+@check Birama akhir tercetak "1 1 . 0" — balok = dua not 1/4 + tanda diam 1/4 (3 ketuk, melengkapi ketukan gantung) → ditulis 1 1 0.
+#A
+3+4 | 5 5 4 3 | 2 2 0 3+4 |
+5 1 2 2 | 1 . 0 :|
+> Nun-ga lao mu-se sa-da-ri, Je-sus, si-an bo-hal-hon;
+> Sai pa-i-ngot au sao-na-ri, ma-nang bur-ju ro-hang-koh.
+#B
+2+3 | 4 4 3 3 |
+2 . 0 4+5 | 6 6 5 5 | 4 . 0 1+1 | 4 3 2 1 |
+2 2 0 3+4 | 5 1 2 .+3 | 1 1 0 |]
+> Ja-la tu-du ma su-de, na hu-baen na so tu-re, a-sa sae an-non do-sang-ku, ja-la so-nang ma ro-hang-ku.
+#V
+Nunga lao muse sadari, Jesus, sian bohalhon;
+Sai paingot au saonari, manang burju rohangkoh.
+Jala tudu ma sude, na hubaen na so ture,
+Asa sae annon dosangku, jala sonang ma rohangku.
+-
+Lan do dapot pambaenanku, sogo ni rohaM, hape;
+Ai gok dosa do rohangku, sala do hatangku pe.
+Ganup tongkin ma tutu ndang marningot au burju
+Di sude na pinatikMu, ala ni godang dosangku.
+-
+Sai asi rohaM, Tuhanku, sai palambas rohaMi;
+Ai dokdok tutu rohangku, sesa nasa dosangki!
+Patuduhon ma basaM dohot holong ni rohaM.
+Asa ganda ma ringgashu mangoloi sude patikMu.
+-
+Na badia baen rohangku dohot di na modom au;
+BasaMi baen bulusanku, dokkon na manjaga au.
+Sai intopi api i, jala jaga bagas i,
+Asa unang tangis hami, dung muse tarsunggul hami.
+-
+Sai togangi nasa jolma, na mambaen na jahat i,
+Unang ma laluhononna tahi ni rohaNa i
+Dompak hami, anakMi, angka haholonganMi;
+Sai tamparhon sian hami nasa na mangago hami.
+-
+Ndang na olo nok, o Tuhan, mataMi nang borngin i;
+Jesus, Ho do Siparmahan na dumenggan roha i;
+Borngin nang arian pe diramoti Ho sude,
+Ala ni ingani hami asa sonang modom hami.
+-
+Sai hipas pahehe hami di tingkina na ture,
+Asa hudapothon hami siulaonnami be.
+Manang naeng alaponMi borngin on au, Tuhanki,
+Sai na sahat tu tanganMu do pamatang nang tondingku.

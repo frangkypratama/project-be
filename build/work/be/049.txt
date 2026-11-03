@@ -1,0 +1,49 @@
+@be 49
+@bl 47
+@title Sai ro ma tu bara
+@key Eb
+@meter 2/4
+@credit Johann Peter Abraham Schultz, 1794
+@pages 42 43
+@status Lirik dicek · 15/20 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 1,2,4,8,9 (ejaan, mis. "roma"). Buku tetap acuan.
+@check Ketukan gantung di buku adalah not 1/8 (5, tanpa garis atas di angka); di sini ditulis "0+5" (diam ½ + 5) agar birama genap. Begitu juga "3" di awal bagian B.
+@check Garis birama setelah "4" di baris 3 (birama 1 ketuk) dibaca sebagai salah cetak; "4 5̄5̄" digabung jadi satu birama 2/4.
+@check Kredit dicetak "Johann Peter Abraham Schultz, 1794" (hlm. 43); ditulis sesuai buku, nama lazim J.A.P. Schulz.
+@check Angka birama di scan samar; dari isi birama dibaca 2/4.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 49) | https://bukuende.wordpress.com/2013/06/18/sai-ro-ma-tu-bara-buku-ende-no-49-buku-logu-no-47/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+5 | 5 3+5 | 5 3+5 | 4 2+2 | 3 0 :|
+> Sai ro-ma tu ba-ra di Bet-le-hem on,
+> Ha-mu na por-se-a, ha-top ma tu-son!
+#B
+0+3 | 2 2+2 | 4 4+4 | 3 3+3 | 6 0+6 |
+4 5+5 | 1' 5+3 | 4 2+2 | 1 0 |]
+> Mar-ni-da ha-la-san ni ro-han-ta i, Ti-no-ngos ni A-ma na di sur-go i.
+#V
+Sai roma tu bara di Betlehem on, Hamu na porsea, hatop ma tuson!
+Marnida halasan ni rohanta i, Tinongos ni Ama na di surgo i.
+-
+O, ida hamu ma di bara inon, Dakdanak na tubu disi borngin on,
+Uli do rupaNa, mataNa tiur. O bereng Ibana, ho gabe tiur!
+-
+Las roha maria, nang Josep disi, Marnida na metmet, na sorang tusi.
+Marsomba tu patNa do parmahan i, Di ginjang marende pardisurgo i.
+-
+Pasinggang ma totmu, hamuna sude, Maniru parmahan, marsomba muse,
+Marende hamu, na marlas roha i, Marniru suruan na di ginjang i.!
+-
+Sai dok ma: O Ana ni Debata i,
+Ho ro sian ginjang dibaen asiMi.
+Di hami sudena na mardosa on,
+Mambaen haluaon di hami tongtong.
+-
+Tung aha ulaning denggan di rohaM
+Silehononnami baen las ni rohaM?
+Nang sere, nang perak, ndang pinangidoM,
+Ai roha na ias sambing do lomoM.
+-
+Antong rohanami ma peleanMi,
+O Jesus, hasian, sai jalo ma i;
+Ias jala sonang ma baen angka i,
+Tongtong gabe domu ma tu rohaMi.

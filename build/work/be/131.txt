@@ -1,0 +1,41 @@
+@be 131
+@bl 87
+@title Batang aek usehononku
+@key Eb
+@meter 3/4
+@credit Sophie Harwig, 1865
+@pages 118 119
+@status Lirik dicek · 13/18 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 13 dari 18 baris sama; 5 baris beda ejaan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 131) | https://bukuende.wordpress.com/2013/06/09/batang-aek-usehononku-buku-ende-no-131-buku-logu-no-87/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Angka bertanda * (4*, 5*) bertanda pugar di not balok buku; dibaca #4 (A) dan #5 (B).
+#A
+(5 1') 1' | (1' 7) 1' | 2' . 4 | 4 . 3 v | (1' 7) 6 | 5 . 6 |
+4 . 5 | 3 . 0 | (3 #4) #5 | 6 . 6 | (2 3) #4 v | 5 . 5 v |
+(5 6) 7 | (7 6) 7 | 1' . #4 | 5 . 0 | 5 . 4 | 3 . 3 |
+4 . 5 | 6 . 0 | (1' 7) 6 | (6 5) 3 | 4 . 7, | 1 . 0 |]
+> Ba-tang aek u-se-ho-non-ku, Nin-na De-ba-tan-ta i; Ing-kon bor-nok ba-he-non-ku ia-no na ma-hi-ang i. Par-hor-si-han sa-su-de ing-kon ga-be por-lak be.
+#V
+Batang aek usehononku, Ninna Debatanta i;
+Ingkon bornok bahenonku iano na mahiang i.
+Parhorsihan sasude ingkon gabe porlak be.
+-
+Sai lambas dope na hasang ala hona toru i;
+Israel dope na jalang sian Mesiasna i,
+Nang sipelebegu pe na mansai torop dope.
+-
+Ingkon jumpang do hataNa, ai burju do Tuhan i;
+Ingkon saut inarbagaNa naeng sangap goarNa i.
+Ingkon do tandaon ni, nasa bangso Tuhan i.
+-
+Ala ni ringgas ma hita mangarahon dongan i;
+Tapaborhat ma Pandita tu sude na lili i,
+Asa bongotanna be, hasonangan i muse.
+-
+Nang leleng so marparbue, n tahalojahon i,
+Unang olo be mandele hita na porsea i;
+Na marhabengeton i do dapotan tumpal i.
+-
+Sai tangihon, ale Jesus, pangidoannami on,
+Sangkapnami ma patulus; Gok ma baen portibi on
+Dohot hasangaponMi; Sai pararat hataMi!

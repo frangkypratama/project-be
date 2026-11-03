@@ -1,0 +1,24 @@
+@be 854
+@bl 0
+@title Haleluya puji Tuhan
+@key G
+@meter 4/4
+@credit Syair & lagu: Hallelujah; NN
+@pages 940 941
+@status Lirik dicek · 4/4 baris sama dgn pembanding
+@check Pembanding lirik: urutan 23 kata sama persis (pemenggalan baris berbeda). Pembanding menyebut Buku Logu No. 854; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 854) | https://bukuende.wordpress.com/2013/06/13/haleluya-puji-tuhan-buku-ende-no-854-buku-logu-no-854/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Ketukan gantung "3 4" (1/16 + 1/16, garis atas ganda) hanya ½ ketuk; format per ketukan → ditulis 0+.+3,+4, (diam 1/8 tidak tercetak). Birama akhir "5 7.7 1 ." = 3½ ketuk (1 = ¼ bertitik di balok) → ditulis 1 .+0 (diam 1/8 tidak tercetak).
+@check Lirik tercetak dengan spasi/pemenggalan tak konsisten ("Ha le - lu ya", "hale- luya", "hale luya") → dipenggal seragam ha-le-lu-ya.
+#A
+0+.+3,+4, | 5,+5,+5,+5, 1+1+1+7, 6,+6,+6,+6, 4+4 |
+3 2+.+.+1 1 .+.+3,+4, | 5,+5,+5,+5, 1+1+1+7, 6,+6,+6,+6, 4+4 |
+3 2+.+.+1 1 . | 1 3+.+.+1 2+.+2+3 4+2 | 7, 2+.+.+7, 1+.+1+2 3+1 |
+1 3+.+.+1 2+.+2+3 4+2 | 5 7,+.+.+7, 1 .+0 |]
+> Ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, pu-ji Tu-han ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, pu-ji Tu-han pu-ji Tu-han ha-le-lu-ya pu-ji Tu-han ha-le-lu-ya pu-ji Tu-han ha-le-lu-ya pu-ji Tu-han.
+#V
+Haleluya, haleluya, haleluya, haleluya,
+puji Tuhan haleluya, haleluya, haleluya, haleluya,
+puji Tuhan puji Tuhan haleluya puji Tuhan haleluya
+puji Tuhan haleluya puji Tuhan.

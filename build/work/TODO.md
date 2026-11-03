@@ -1,0 +1,57 @@
+- Batch 7 (BE 121–140): transkripsi lengkap & lolos cek, tapi CEK LIRIK belum dijalankan (alat web kena limit). Kirim SendMessage ke batch-07 untuk menjalankan cek referensi setelah reset. BE 122 hanya ada di post rangkuman BE 101–150. Lirik BE 121 ("Naa jumujung", "saudena", "haholommon") perlu dicocokkan ulang ke scan.
+- Gelombang 1 (BE 21–140) selesai 2026-11-01 ~09:20 UTC; semua lirik dicek kecuali BE 29, 97, 122 (tidak ada pembanding). BE 55 sengaja tidak genap biramanya (buku memang begitu).
+- Renderer: L:1/16 + birama x/8 (1 token = 1/8) sudah didukung (unitOf).
+- Sedang jalan: batch-08 (141–160), batch-09 (161–180, lewati 171), batch-10 (181–200), batch-11 (201–220), batch-12 (221–240), batch-13 (241–260).
+- 2026-11-02 00:40 UTC: container sempat restart, agen lama (batch-08..13) mati; file tetap ada. Diluncurkan agen baru: batch-08b (cek lirik 141–160, lalu transkripsi 261–280), batch-09b (170,172–180 + cek 161–169), batch-10b (189–200 + cek 181–188), batch-11b (210–220 + cek 201–209), batch-12b (229–240 + cek 221–228), batch-13b (247–260 + cek 241–246).
+- batch-12b selesai transkripsi 221–240 (lolos cek) tapi CEK LIRIK belum: URL pembanding di ../b12chk/urls.txt; 229 tanpa pembanding, 238 belum ditemukan. Kirim SendMessage ke batch-12b setelah reset untuk menjalankan cek lirik 221–240.
+- 2026-11-02 05:37 UTC: dilanjutkan batch-08b (266–280), 10b/11b/12b/13b (cek lirik + sisa), batch-15 baru (281–300). batch-09b selesai (161–180 lengkap).
+- batch-10b selesai (181–200 lengkap + cek lirik). batch-16 diluncurkan (301–320).
+- batch-12b selesai (221–240 lengkap + cek lirik; indeks I juga di /i-2/). batch-17 diluncurkan (321–340).
+- 2026-11-02 05:42 UTC jadwal: 6 agen jalan (08b, 11b, 13b, 15, 16, 17); publish ulang.
+- batch-11b selesai (201–220 lengkap; 219 tanpa pembanding). batch-18 diluncurkan (341–360). Agen aktif: 08b, 13b, 15, 16, 17, 18.
+- batch-13b selesai (241–260 lengkap). Ditambah dukungan ganti birama per bagian (#B 3/4), BE 255 diperbaiki. batch-19 diluncurkan (361–380). Agen aktif: 08b, 15, 16, 17, 18, 19.
+- 2026-11-02 06:02 UTC: lanjut setelah batas; agen 08b (cek lirik 278–280), 15 (293–300), 16 (310–320), 17 (324–340), 18 (342–360), 19 (361–380) dijalankan lagi.
+- 06:05 UTC: batch-08b selesai (261–280 lengkap + cek lirik). Publish v18 (310 ende). batch-20 diluncurkan (381–400). Agen aktif: 15, 16, 17, 18, 19, 20.
+- 06:07 UTC: pengguna minta 12 agen paralel (TARGET SEKARANG 12, bukan 6). Diluncurkan batch 21–26 (401–520). id: b20 a6ad7e03e303fb9e8, b21 adbccf88d048a1604, b22 a6089d6e3fed2c2c7, b23 a68cd7b9cd379ab0b, b24 aba2117f6754ed683, b25 aff8ad3f9e532f9cd, b26 a461e8da5f0beea0b. Agen aktif: 15–26.
+- 06:10 UTC: batch-15 selesai (281–300; 281 tak lengkap, hlm awal hilang). BE 291 diubah ke ganti birama per bagian (A 3/4, B 4/4). batch-27 diluncurkan (521–540).
+- 06:14 UTC: publish v19 (379 ende). batch-16 selesai (301–320; 315 tanpa pembanding & pakai melodi 314; 309/310 tanda mula balok ≠ do angka → perlu cek). batch-28 diluncurkan (541–560).
+- 06:16 UTC: pengguna minta 20 agen paralel (TARGET SEKARANG 20). Diluncurkan batch 29–36 (561–720). id: b27 a143a581ec1da7746, b28 a7f5b03e829aa3a61, b29 a6c1d226bb7d86d00, b30 a2e08256204017f11, b31 ad5aec4c6bf0ea179, b32 a0d6eda58387b5554, b33 a8955c0a1a4cb1d86, b34 af25a10687524c2a8, b35 aa28da4b80714f3dd, b36 a42de6619f4fe71e6. Agen aktif: 17–36. Sisa belum dimulai: 721–864 (batch 37–44 → 8 batch).
+- 06:16 UTC: batch-17 selesai (321–340, 410/438 baris lirik sama; 323 & 330 angka≠balok). batch-37 diluncurkan (721–740).
+- 06:21 UTC: pengguna minta 50 agen, tapi BATAS SISTEM = 20 subagen bersamaan. Sisa dipecah jadi potongan 4–5 lagu, diluncurkan tiap ada slot kosong. batch-18 selesai (341–360). Jalan: 801–804 (id a385b7d2d29f7d8b5). ANTREAN: 741-744 745-748 749-752 753-756 757-760 761-764 765-768 769-772 773-776 777-780 781-784 785-788 789-792 793-796 797-800 805-808 809-812 813-816 817-820 821-824 825-828 829-832 833-836 837-840 841-844 845-849 850-854 855-859 860-864.
+- 06:21 UTC: batch-19 selesai (361–380). 741–744 diluncurkan dari antrean.
+- 06:22 UTC: publish v20 (564 ende). batch-20 selesai (381–400). 745–748 diluncurkan. Antrean berikut: 749-752 …
+- 06:24 UTC: batch-25 selesai (481–500). 749–752 diluncurkan.
+- 06:24 UTC: 801–804 selesai. 753–756 diluncurkan.
+- 06:25 UTC: publish v21 (633 ende). Tampilan Logu 0 → 'tidak dicantumkan'. Antrean berikut: 757-760 761-764 … (lihat baris ANTREAN; sudah jalan/selesai: 741-756, 801-804).
+- 06:26 UTC: batch-22 selesai (421–440). 757–760 diluncurkan.
+- 06:26 UTC: 741–744 selesai. 761–764 diluncurkan.
+- 06:27 UTC: batch-26 selesai (501–520). 765–768 diluncurkan.
+- 06:27 UTC: batch-24 selesai (461–480). Dukungan triol di not balok ditambahkan. 769–772 diluncurkan.
+- 11:03 UTC: batas pulih; 20 agen dilanjutkan (SendMessage ke id). Model sesi diganti ke fable atas permintaan pengguna.
+- 11:03 UTC: publish v22 (693 ende). batch-21 selesai (401–420; hlm buku 394 hilang di PDF → 410 & 411 tidak lengkap). 773–776 diluncurkan (id ae0535aaaec40d0b4). send_later dijadwalkan +300 mnt.
+- 11:04 UTC: 745–748 selesai. 777–780 diluncurkan.
+- 16:03 UTC: batas kedua (fable) habis 11:4x, pulih 16:00. Model kembali opus. batch-23 selesai (441–460, cek lirik lengkap). 19 agen dilanjutkan + 781–784 diluncurkan.
+- 16:04 UTC: 749–752 selesai. 785–788 diluncurkan.
+- 16:05 UTC: 753–756 selesai. 789–792 diluncurkan.
+- 16:05 UTC: batch-28 selesai (541–560; 548 dua suara, 551–556 kanon, kredit 560/561 ganda). 793–796 diluncurkan.
+- 16:06 UTC: batch-35 selesai (681–700). @bl 681–700 diubah ke 0 (agen mengisinya dari pembanding, bukan buku). 797–800 diluncurkan.
+- 16:06 UTC: 757–760 selesai. 805–808 diluncurkan.
+- 16:07 UTC: batch-36 selesai (701–720). 809–812 diluncurkan.
+- 16:07 UTC: 781–784, batch-27 (521–540), 773–776 selesai. 813–816, 817–820, 821–824 diluncurkan. Antrean tersisa: 825-828 829-832 833-836 837-840 841-844 845-849 850-854 855-859 860-864.
+- 16:12 UTC: selesai: 785–800, 761–768, 769–772, 777–780, 809–812, 805–808, 821–824, batch 27–29,31–36. Ditambah: dukungan @variant (641b) & key= per bagian (BE 579). @bl 601–620 → 0. Agen varian (603b,637b,796b,568b + cek lirik 612) diluncurkan. Belum ada: 827–849 sebagian, 853–864 sebagian (agen berjalan).
+- 16:47 UTC: SELESAI. BE 1–864 lengkap (870 file termasuk varian 568b,603b,637b,641b,796b,844b). Publish v26. Jadwal otomatis dihapus. Tidak lengkap karena halaman hilang di PDF: 281, 410, 411, 568b, 582.
+- 2026-11-03: BE 281 dilengkapi (hlm 261 salah cetak '581', sebenarnya BE 281 Logu 108 Martua do na marhaposan). Not balok menyala saat diputar (add_classes).
+- 2026-11-03: Artifact dibagi dua.
+  DEV  = https://claude.ai/artifact/BzZqi892bPy4b2EBENcPfz (judul "Buku Ende Digital Dev", sumber site/index.html; v29)
+  PROD = https://claude.ai/artifact/FMZuvkEobAoyPEiXHAwzNS (judul "Buku Ende Digital", sumber site-prod/index.html dibuat oleh build/make_prod.py; v1)
+  Alur: ubah site/index.html → python3 build/make_prod.py → uji → publish dev; data/scan prod disalin dari dev (files {artifact,path}).
+- 2026-11-03: PROD v2 — catatan draf, lirik pembanding, scan asli dihapus (make_prod.py); file scans/ dihapus dari prod (46 file, ±1,9 MB).
+
+## 2026-11-03 — Lirik ayat 2 dst di dalam notasi (Dev)
+- build/verse_align.py: pecah suku kata ayat 2+ (kamus dari baris ">" ayat 1 semua lagu + aturan KV/KVK, "ng" satu konsonan, varian gabung vokal) lalu DP pasang ke slot not ayat 1. Tangani ":,: X :,:", ":,:" tunggal (baris terakhir diulang), "(Nx)", refrein "d.u."/"Ref.: ..."/"..." (sisa lagu = lirik ayat 1 mulai kata isyarat).
+- build_site.py menulis h["vl"]: [null, {r: rows per bagian, c: biaya, n: catatan} | {x: alasan}].
+- Hasil: 2.578 dari 2.827 ayat dipasang (367 biaya 0, 1.669 biaya ≤1, 542 biaya >1), 249 belum.
+- Uji ayat 1 (kamus tanpa lagu itu sendiri): 638/866 identik per huruf dengan pemecahan manual.
+- UI: chip Ayat, label "Ayat k / n" di judul Not angka & Not balok, ayat aktif ditandai di bagian Ende, centang "Putar sampai ayat terakhir"; ayat belum cocok = chip garis putus + teks ayat.
+- make_prod.py: anchor pager diganti ke setVerse(VSEL.k,true).
+- Catatan: BE 864 "Amen" ikut tiap ayat (fallback refrein tanpa penanda) — belum benar.

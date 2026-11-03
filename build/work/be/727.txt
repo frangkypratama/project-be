@@ -1,0 +1,52 @@
+@be 727
+@bl 0
+@title Hupilit asa marparbue
+@key C
+@meter 4/4
+@credit Lagu & Syair: Pdt. J.A.U. Doloksaribu, 2001
+@pages 771 772 773
+@status Lirik dicek · 10/20 baris sama dgn pembanding
+@check Bagian suplemen; ayat bacaan Joh. 15:16. Tidak ada nomor "Logu No." di buku → @bl 0.
+@check Bagian A baris 2: angka "1 2 | 3 3 3 3 3 2" sebagian tanpa titik atas, balok = C5 D5 | E5…D5 → ditulis sesuai balok (1' 2' | 3' 3' 3'+3' 3'+2'); juga "1 6" di baris 5 → 1'+6.
+@check Bagian B baris 2 birama 1: angka "5 5 . 7 6" (4 ketuk), balok tampak G G B-A (3 ketuk). Ditulis sesuai angka.
+@check Pasangan bertitik (4.3, 5.4, 2̇.1̇) di bagian B dan "2̇ 1̇" di bagian A dinyanyikan satu suku kata (tanpa legato tercetak) → ditulis dengan _.
+@check Ayat 1 hanya tercetak di bawah not; ayat 2 tercetak sebagai teks (hlm 772–773).
+@check Pembanding lirik: 10 baris beda ejaan/pemisahan kata (namamilit, Tuhantai, Tasolsolli, pinilit, mangasahon, manjolo, dll.). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 727) | https://bukuende.wordpress.com/2013/06/13/hupillit-asa-marparbue-buku-ende-no-727-buku-logu-no-727/ | proofreading per baris
+#A
+3+2 | 1 1 1+2 3+4 | 5 5 0 1'+7 |
+1' 5 5+6 5+4 | 3 . 0 1'+2' | 3' 3' 3'+3' 3'+2' |
+2'+1' 1' 0 1'+6 | 5 5+5 5+6 5+4 |
+3 . 0 4+5 | 6+6 6+6 7+7 1'+2' |
+3' 1' . 1'+6 | 5 5+5 5+5 6+7 | 1' . 0 :|
+> So-ngon on di dok Tu-han-ta Je-sus: A-hu do na-ma mi-lit ha-mu a-sa lao ha-mu-na mar-par-bu _ e ja-la mi-an par-bu-e-mu-na i, Hu-pa-di-ri a-sa la-o mar-par-bu-e; ja-la mi-an par-bu-e-mu-na i,
+> Hi-ta na pi-ni-lit ni Tu-han-ta, i-ngot ma ha-ta ni Tu-han i par-bu-e-hon-ma na-sa na deng _ gan, na hom-bar tu pa-tik ni Tu-han i, na tar-jou do hi-ta pa-im-ba-ru di-ri, di-ba-ga-san Kris-tus Tu-han-ta-i.
+#B
+5+5 | 5 5 5+6 5+4 | 4+.+.+3 3 0 5+5 |
+5 5 . 7+6 | 5+.+.+4 3 0 4+5 | 6 6 7+7 1'+2' |
+(3' 2') 1' 1'+2' | 3' 3' 0 3'+2' | 2'+.+.+1' 1' 0 1'+2' |
+3' 3' 0 3'+2' | 2'+.+.+1' 1' 0 7+6 |
+5+5 5+5 2' 1'+7 | 1' . . 0 | 1' . . . | 1' . . . |]
+> Ta-sol-sol-li ma na-sa do-san _ ta ta-pa-u-ba ma ro-han _ ta, ta-pe-le-hon ma na-sa di-rin-ta, baen pe-le-an na ma-ngo _ lu na ba-di-a di Tu-han _ ta na hi-na-lo-mo-hon ni De-ba-ta A-men.
+#V
+Songon on didok Tuhanta Jesus: Ahu do namamilit hamu
+asa lao hamuna marparbue jala mian parbuemuna i,
+Hupadiri asa lao marparbue; jala mian parbuemuna i,
+Hita na pinilit ni Tuhanta, ingot ma hata ni Tuhan i
+parbuehonma nasa na denggan, na hombar tu patik ni Tuhan i,
+na tarjou do hita paimbaru diri, dibagasan Kristus Tuhantai.
+Tasolsolli ma nasa dosanta tapauba ma rohanta,
+tapelehon ma nasa dirinta, baen pelean na mangolu
+na badia di Tuhanta na hinalomohon ni Debata Amen.
+-
+Hita na pinilit ni Tuhanta, taradoti panjouon i,
+paturehon angka na badia, asa tang marhaporseaon i,
+jala monang disude parungkilonna
+mangasahon Kristus Tuhanta i.
+Tu timbo na pe parbinotoan, tu malona manisia i,
+lam doras pe angka parsaoran, lam soada na mamolati i,
+nang pe tingki tu hatopna mubauba
+sai na hot do hata ni Tuhan i.
+Pargogoi ma ruas ni Huria dohot rakyat ni bangsonta
+asa tau manjolo pasu-pasu, nang hatop pe parhusoran,
+di sude na partingkian, lam porsea hita tu Debata.

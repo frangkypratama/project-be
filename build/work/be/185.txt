@@ -1,0 +1,40 @@
+@be 185
+@bl 85
+@title Holan sada Debatanta
+@key F
+@meter 4/4
+@credit Johann Christian Bach, 1693
+@pages 167 168
+@check Kredit "Johann Christian Bach 1693" ditulis sesuai buku (J.C. Bach yang terkenal lahir 1735; kemungkinan Johann Christoph Bach).
+@status Lirik dicek · 15/15 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 185) | https://bukuende.wordpress.com/2013/06/13/holan-sada-debatanta-buku-ende-no-185-buku-logu-no-85/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+3 1 2 5 | 1 2 7, 5, v |
+6, 7, 1 1 | 2 5 3 . :|
+> Ho-lan sa-da De-ba-tan-ta, na tu-mom-pa sa-su-de;
+> Na ta-ri-da di ma-tan-ta, nang na so ta-ri-da pe.
+#B
+3 1 2 5 |
+5 #4 5 . v | 6 5 4 3 | 2 2 1 . |]
+> Tan-da ma ru-hut-na i, u-nang li-lu ro-ha-mi.
+#V
+Holan sada Debatanta, na tumompa sasude;
+Na tarida di matanta, nang na so tarida pe.
+Tanda ma ruhutna i, unang lilu rohami.
+-
+Ndang marmula Debatanta, nang ujungna pe, ndang ro;
+Ndang tarida di matanta, ai rupaNa tondi do.
+Holan mata ni rohaM, tau mananda Debatam.
+-
+Diingani Debatanta, parluhutan i sude,
+Diingani nang rohanta, digomgomi sasude;
+Nang hagogoonNa i, ndang marhatudosan i.
+-
+Na bonar do Debatanta, jala na badia pe;
+Na sun pistar Debatanta, pangoluhon sasude.
+Pos ni roha situtu, Debatanta na burju.
+-
+Sai na sintong do hataNa, na tinonahonNa i;
+Atik pe asi rohaNa, ndang paubaonNa i.
+Sai oloi ma i sude asa sonang ho muse.

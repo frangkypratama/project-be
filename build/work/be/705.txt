@@ -1,0 +1,38 @@
+@be 705
+@bl 0
+@title Goar ni Tuhan Jesus
+@key G
+@meter 6/8
+@credit Syair: There is a name I love to hear; Frederich Whitfield, 1855 · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Tradisional American Melody
+@pages 739 740
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0).
+@check Kredit tercetak "Frederich Whitfield" (ejaan lazim Frederick Whitfield) dan "Ter." untuk penerjemah — ditulis apa adanya.
+@status Lirik dicek · 6/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 1 (tabo, do, begeon), 2 (umuli), 5 (Golgota) beda ejaan/kata; buku tetap acuan. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 705"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 705) | https://bukuende.wordpress.com/2013/06/13/goar-ni-tuhan-jesus-buku-ende-no-705-buku-logu-no-705/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+1 | 3 . 3 (3 2) 3 | 1 . 1 1 . 1 | 2 . 2 (2 1) 2 |
+3 . . 5 . 4 | 3 . 3 (3 2) 3 | 1 . 1 1 . 1 |
+(2 3) 4 3 . 2 | (1 . . 1) . . |
+> Go-ar ni Tu-han Je-sus i ta-bo do i, be-ge-on tar-so-ngon en-de na um-u-li di por-ti-bi-on.
+#B
+3 . 3 2 . 3 |
+1 . . 1 . . | 2 . . (2 1) 2 | 3 . . (5 . 4) | 3 . . (3 2) 3 |
+1 . . 1 . 1 | (2 3) 4 3 . 2 | (1 . . 1) . |]
+> Ho-long do ro-hang-ku di Tu-han Je-sus ho-long ro-hang-ku di Je-sus Tu-han-ki.
+#V
+Goar ni Tuhan Jesus i tabo do i, begeon
+tarsongon ende na umuli di portibion.
+Ref. : Holong do rohangku di Tuhan Jesus, holong rohangku di Jesus Tuhanki.
+-
+Patar holong rohaNa i, tu au na hinophopNa,
+pola durus mudarNa i di dolok Golgota.
+Ref. : Holong do rohangku . . .
+-
+Sangkap ni Debatanta i pinarbaga-bagaNa,
+singkop di Jesus Kristus i Anak ni Debata.
+Ref. : Holong do rohangku . . .
+-
+Di goarNa umuli i mangihut do holongNa,
+tahop pe ro sitaonon i, donok do Debata,
+Ref. : Holong do rohangku . . .

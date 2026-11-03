@@ -1,0 +1,33 @@
+@be 654
+@bl 0
+@title Marpungu sude
+@key Db
+@meter 3/4
+@credit Syair: Wild heden me trden von God de; Here we Gather together. Adrian Valerius 1626 · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Sejarah Kenangan valerius, 1626, lagu rakyat Belanda terj. Theodor Boher, 1851-1934.
+@pages 672 673
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Kredit tercetak "Wild heden me trden von God de", "Theodor Boher" (lazim: Wilt heden nu treden voor God den Heere; Theodore Baker) — ditulis apa adanya.
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 1, 3, 11 beda (kata tambahan/ejaan); suku kata dicek ke scan hlm 672–673: sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 654) | https://bukuende.wordpress.com/2013/06/16/marpungu-sude-buku-ende-no-654-buku-logu-no-654/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5 | 5 .+6 5 | 3 .+4 5 | 4 .+3 2 |
+3 1 5 | 5 .+6 7 | 1' .+2' 7 | 6 .+5 6 |
+5 . 5 | 5 .+6 7 | 1' 5 5 | (5 .+6) 4+5 |
+3 1 1 | 4 .+5 6+4 | (5 .+4) 3 | 4 2 .+1 | 1 . |]
+> Mar-pu-ngu su-de ma-ngi-do tu Tu-han-ta a-si ni ro-ha-Na nang lo-mo-Na i, naeng pa-so-ho-ton-Na do pa-rung-ki-lon-ta sai ra-mo-tan-Na do Hu-ri-a-Na i.
+#V
+Marpungu sude mangido tu Tuhanta
+asi ni rohaNa nang lomoNa i,
+naeng pasohotonNa do parungkilonta
+sai ramotanNa do HuriaNa i.
+-
+Diparmudumudu Tuhanta do hita,
+sai di iringiring HuriaNa i,
+panumpahionNa do pamonang hita.
+Jahowa Debata nasun gogo i.
+-
+Tapuji Tuhanta na pamonang hita,
+huhut tumangianghon Huria i,
+asa monang disude parungkilonna,
+pasangap Tuhan i salelengna i.

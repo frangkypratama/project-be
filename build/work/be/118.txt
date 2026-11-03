@@ -1,0 +1,33 @@
+@be 118
+@bl 6
+@title Paian ma di hami
+@key Eb
+@meter 4/4
+@credit Melchior Vulpius, 1609
+@pages 107
+@check Tanda mula di hasil pindaian kurang jelas; nada dasar Eb diambil dari BE 20 (Logu No. 6 yang sama) — mohon dicek.
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 12 baris sama persis; beda di baris 2, 3 (ejaan) dan 10 (kata lain: 'no aloM'). Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 118) | https://bukuende.wordpress.com/2013/06/16/paian-ma-di-hami-buku-ende-no-118-buku-logu-no-6/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 3 2 3 6 | (5 4) 3 v 6 | 5 4 3 2 |
+3 . 0 5 | 6 7 1' 7 | 6 . 5 v 3 | 4 3 2 2 | 1 . . |]
+> Pa-i-an ma di ha-mi, o Je-sus, a-si-Mi, a-sa tung u-nang ha-mi di-an si mu-su i.
+#V
+Paian ma di hami, o Jesus, asiMi,
+Asa tung unang hami dian si musu i.
+-
+Paian, Tuhanami, HataM di hami be,
+Asa martua hami, nuaeng nang sogot pe.
+-
+Paian sinondangMu, ale Panondang i,
+Ambati ma na lilu, di parjalangan i.
+-
+Paian ma di hami, tongtong panumpakMi;
+Gandahon ma di hami, asi ni rohaMi
+-
+Paian panjagaMu, di hami naposoM,
+Sai unang hami talu, bahenon no aloM.
+-
+Paian, ale Tuhan, di hami burjuMi;
+Sai lehon hatongtongon, padao ma jea i.

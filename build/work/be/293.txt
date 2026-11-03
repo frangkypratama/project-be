@@ -1,0 +1,32 @@
+@be 293
+@bl 142
+@title Ndang jumpang hian
+@key Ab
+@meter 4/4
+@credit Lagu: Andrea Sulger 1829
+@pages 272 273
+@status Lirik dicek · 10/10 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 293) | https://bukuende.wordpress.com/2013/06/13/habot-pe-roham-buku-ende-no-293-buku-logu-no-142/ | 10/10 baris sama
+@check Judul kepala lagu "Ndang jumpang hian", sedangkan baris pertama lirik "Habot pe roham" — @title mengikuti kepala lagu.
+@check Birama 2 baris 1: tanda napas sesudah legato 2⌒1 tidak bisa ditulis di dalam satu ketukan (dihilangkan). Birama 4: angka "1 7̄ 1̄ 2 0 2̄" (4 ketuk) dipakai; balok tampak ♪ pada not pertama.
+@check 4* = D♮ (balok bertanda pugar) → #4. Birama akhir "1 0" (balok: ¼ + jeda ⅛).
+#A
+0+5, | 3 3+2 (2 1)+1 | 4 3+3 2 0+2 |
+5 5+3 4 3+2 | 1 7,+1 2 0+2 |
+2 5+2 (3+.+.+2) 2+5, | 5 #4+3 2 0+7, |
+1 1+1 1 6+6 | 5 7,+7, 1 0 |]
+> Ha-bot pe ro-ham, Por-suk jam-bar-mi, A-dong do pa-nga-pul, Tu-han-ta do i. I-ba-na do-ngan-mu ma-mor-san go-go, sai u-nang ho gang-gu, sai mo-nang ma ho.
+#V
+Habot pe roham, porsuk jambarmi,
+Adong do pangapul, Tuhanta do i.
+Ibana donganmu mamorsan gogo,
+Sai unang ho ganggu, sai monang ma ho.
+-
+Saleleng dison dokdok do roham, hansit pamatangmu,
+Marilu matam; Sai bereng tu ginjang, ai Jesus naeng ro!
+Sai taon ma satongkin, mangolu ma ho!
+-
+Dung sahat tondim tu Tuhanta i, tarapul rohamu
+Di lambungNa i, mansohot arsakmu,
+Sai sonang ma ho, sai unang ho ganggu, martua ma ho!

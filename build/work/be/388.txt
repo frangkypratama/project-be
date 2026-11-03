@@ -1,0 +1,40 @@
+@be 388
+@bl 257
+@title So ma jolo jala pingkir.
+@key F
+@meter 3/4
+@credit E.L. Bendry-J. Mayer
+@pages 372 373
+@check Kepala lagu juga mencetak "S.L No. 23". Ayat 4–5 dan nama komponis ada di atas hlm 373.
+@check "5.6", "3.4", "6.6" bergaris atas tunggal+ganda = 1/8 bertitik + 1/16, ditulis "5+.+.+6" dst.
+@check Lirik di bawah not "dangol", "boan" tidak dipenggal; dipakai "da-ngol", "bo-an" (2 not).
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L1, L2, L4 (pemenggalan "tudia", "nasadosami") dan L10 kata 5 (buku jelas "Tuhanta").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 388) | https://bukuende.wordpress.com/2013/06/18/so-ma-jolo-jala-pingkir-buku-ende-no-388-buku-logu-no-257/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5+.+.+6 | 5 3 3+.+.+4 | 3 1 7,+1 | 2 .+3 4+5 |
+3 . 5+.+.+6 | 5 3 3+.+.+4 | 3 1 1+1 | 1+4 3 2 |
+1 . 5+.+.+5 | 6 4 6+.+.+6 | 5 3 5+3 | 2+5 7 6 |
+5 . 5+.+.+6 | 5 3 3+.+.+4 | 3 1 1+1 | 1+4 3 2 | 1 . |]
+> So ma jo-lo, ja-la ping-kir, lao tu-di-a lang-ka-mi? O-tik nai ma ho tar-lom-bang, di-baen ha-tang-kang-on-mu. Mu-lak ma tu Tu-han Je-sus, Si-pa-lu-a ton-di-mi. Ndang di-tu-lak ho, na da-ngol, bo-an na-sa-do-sa-mi!
+#V
+So ma jolo, jala pingkir, lao tudia langkami?
+Otik nai ma ho tarlombang, dibaen hatangkangonmu.
+Mulak ma tu Tuhan Jesus, Sipalua tondimi.
+Ndang ditulak ho, na dangol, boan nasadosami!
+-
+Nunga leleng ho so sonang, guga nasa rohami.
+Sai tarponjot dihilala ho di angka dalanmi.
+Mulak....
+-
+Tung sibolis do manggohi rohami, na loja i.
+Tung maheu do rohamu di baen parungkilon i.
+Mulak....
+-
+Ro ma, jalo hagogoon sian Tuhan Jesus i.
+Ai parmonang do Tuhanta, ingkon talu musu i.
+Mulak....
+-
+Ndang tuk ho mangaramoti daging dohot tondimi;
+Holan Jesus do manjaga angka tinobusNa i.
+Mulak....

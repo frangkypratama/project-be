@@ -1,0 +1,36 @@
+@be 605
+@bl 0
+@title Las ma roham
+@key D
+@meter 2/4
+@credit Syair: Joy to the world; Issac Watts, 1719 · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: Lowell Mason, 1792-1872
+@pages 599 600
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — semua baris sama. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 605) | https://bukuende.wordpress.com/2013/06/16/las-ma-roham-buku-ende-no-605-buku-logu-no-605/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 605".
+@check Baris 3 dan 5: legato di angka di bawah "5 . 4" tampak menjangkau sampai not 3 berikutnya; dibaca (5.4 3) satu suku kata karena hanya itu yang cocok dengan jumlah suku kata (ham / jam / ren). Di not balok legato hanya A–G.
+@check Penulis tercetak "Issac Watts" (ejaan lazim: Isaac Watts); ditulis apa adanya.
+#A
+1' 7+.+.+6 | 5 .+4 | 3 2 | 1 .+5 |
+6 .+6 | 7 .+7 | 1' .+1' | (1'+7) (6+5) |
+(5+.+.+4 3)+1' | (1'+7) (6+5) | (5+.+.+4 3)+3 | 3+3 3+.+(3+4) |
+5 .+.+(4+3) | 2+2 2+.+(2+3) | 4 .+.+(3+2) |
+1+1' .+6 | (5+.+.+4 3)+4 | 3 2 | 1 . |]
+> Las ma ro-ham Tu-han-ta ro, gu-mom-gom sa-su-de ung-kap ro-ham, jang-kon ra-jam ma-ren-de ma su-de, ma-ren-de ma su-de, ma-ren-de, ma-ren-de ma su-de.
+#V
+Las ma roham Tuhanta ro, gumomgom sasude
+ungkap roham, jangkon rajam marende ma sude,
+marende ma sude, marende, marende ma sude.
+-
+Tano nang laut, harangan i, nang awang-awang i,
+hauma i, nang sunge i, olophon Raja i,
+olophon Raja i, olophon, olophon Raja i.
+-
+Bura binaen ni dosa i, marujung ma disi,
+ai nunga ro Mesias i, mamboan dame i,
+mamboan dame i, mamboan, mamboan dame i.
+-
+Ibana do Rajanta i Parasiroha i,
+natigor i, na bonar i, parholong roha i,
+parholongroha i, parholong, parholongroha i.

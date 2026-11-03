@@ -1,0 +1,50 @@
+@be 249
+@bl 122
+@title Ngot ma ho, o tondingki
+@key Eb
+@meter 4/4
+@credit Johann Rosenmüller, 1684
+@pages 228 229
+@status Lirik dicek · 17/21 baris sama dgn pembanding
+@check Pembanding lirik: beda: "dosalan" (ayat 1; di bawah not tercetak "do-sa lan" dengan noda di antaranya, perlu cek manusia), "i" di "na modom i", "pangunjunan", "salugut"; tiga terakhir dicek ulang ke scan: tercetak demikian di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 249) | https://bukuende.wordpress.com/2013/06/16/ngot-ma-ho-o-tondingki-buku-ende-no-249-buku-logu-no-122/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Buku menulis "Rosenmuller"; ejaan aslinya Rosenmüller.
+@check Bagian B baris 1: "ma-na-it" dicetak 3 suku kata tetapi hanya ada 2 not (salah satunya legato 3–4*); dibaca "ma-nait" agar suku kata pas dengan not.
+@check Lirik di bawah paranada sebagian kabur ("do - sa - lan"); ditulis seperti yang terbaca.
+#A
+3 (3+4) 5 5 | 1 2 3 . v | 6 7 1' 3 |
+2 . 1 . :|
+> Ngot ma ho, o ton-ding-ki, du-ngo, mar-ta-ngi-ang,
+> A-sa u-nang mu-su i, to-le so ti-na-gam,
+#B
+5 2 3 . v | 6 3 #4 . v | 5 2 (3+#4) 5 |
+(5 #4) 5 . v | 6 7 1' 3 | 2 . 1 . |]
+> Bi-suk ni se-tan i do ma-nait tu do-sa-lan na bo-nar ro-ha.
+#V
+Ngot ma ho, o tondingki, dungo, martangiang,
+Asa unang musu i, tole so tinagam,
+Bisuk ni setan i do manait tu dosalan na bonar roha.
+-
+Ngot ma ho, na modom i dibagasan dosa,
+Asa unang ala ni Ho marutang hosa.
+Ai hatop. Nang tahop, ro ma pangunjunan tu na so managam
+-
+Dungo, ai na so tarbaen tondi ni Jahowa
+Manorangi ho, mambaen sirang sian dosa.
+Ingkon do dungo ho asa lehononNa denggan ni basaNa.
+-
+Dungo, jaga rohami unang dililuhon
+Hisap ni dagingmu i jala ditaluhon
+Ginjang ni roha i do jumotjot ala pangalapan sala.
+-
+Martangiang ho huhut asa saut malua
+Sian jea saluhut gabe ho martua,
+Jesus do na gogo jala tau mangalo salugut pangago.
+-
+Ala ni sai jouhon ma goar ni Tuhanta,
+Na binaen ni Debata parsigantunganta,
+Meleng do dompak ho pinggol ni Jesusmu mangoloi sangkapmu,
+-
+Ala ni manongtong ma, hita martangiang
+Tu Amanta, Debata, di banuaginjang,
+Lam tibu, ro tutu, tingki binuhulNa, manguhumi jolma.

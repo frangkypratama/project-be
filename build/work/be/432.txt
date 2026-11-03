@@ -1,0 +1,35 @@
+@be 432
+@bl 292
+@title Sian hurungan ni dosangki.
+@key Ab
+@meter 6/4
+@credit F.H. No. 129. · Lagu: George Coles Stebbins 1945
+@pages 413 414
+@check "4*" = 4 kres (paranada D♮); "1*" = 1 kres (paranada A♮).
+@check Birama "1̂..1 0" (hlm 414) tercetak 5 ketuk; not balok = 1/2 bertitik diikat ke 1/2 + istirahat 1/4 → ditulis "(1 . . 1 .) 0". Birama akhir "1̂..1" ditulis sama "(1 . . 1 .)".
+@check Lirik di bawah not tercetak "ro au tu Ho, ro mu tu Ho" (ayat 2–3: ":,: Ro au tu Ho :,:"); "ro mu" kemungkinan salah cetak, ditulis apa adanya.
+@status Lirik dicek · 7/12 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 1 ("mu" — lih. catatan salah cetak), 4 (joangku), 8 ("to" tambahan), 9, 11 (ejaan); transkripsi mengikuti buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 432) | https://bukuende.wordpress.com/2013/06/18/sian-hurungan-ni-dosangki-buku-ende-no-432-buku-logu-no-292/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, .+#4, 5, 3 . 2 | 1 .+7, 6, 5, . . | 1 .+7, 1 2 . . |
+2 .+1 2 3 . . | 5, .+#4, 5, 3 . 2 | 1 .+7, 6, 5, . . |
+1 .+7, 1 3 . 2 | (1 . . 1 .) 0 | 1 .+7, 1 4 . 6, | 5, .+#4, 5, 3 . . |
+2 .+#1 2 5 . 7, | 2 .+1 6, 5, . . | 5, .+#4, 5, 3 . 2 |
+1 .+7, 6, 5, . . | 1 .+7, 1 3 . 2 | (1 . . 1 .) |]
+> Si-an hu-rung-an ni do-sang-ki ro au tu Ho, ro mu tu Ho. Tu ha-lu-a-on di mu-dar-Mi Je-sus au ro tu Ho Na-sa ro-hang-ku ma-lum, hi-pas, ga-be ma-mo-ra, nang pe po-gos Si-an jo-ang-ku ro au tu Ho, Je-sus au ro tu Ho.
+#V
+Sian hurungan ni dosangki ro au tu Ho, ro mu tu Ho.
+Tu haluaon di mudarMi Jesus au ro tu Ho.
+Nasa rohangku malum, hipas, gabe mamora, nang pe pogos
+Sian joangku ro au tu Ho, Jesus au ro tu Ho.
+-
+Sian ilangku, nang ramunhi :,: Ro au tu Ho :,:
+Gabe na ias nang rohangki, Jesus au ro tu Ho.
+Sian holsongku tu sonangMi, sian runduthu tu dameMi,
+Sian arsakku tu holongMi, Jesus, au to ro tu Ho.
+-
+Ganggu ni roha, tading ma i, :,: Jesus au ro :,:
+Sai haposanku ma hataMi, Jesus au ro tu Ho.
+Nang pandelean ni rohangki, sudo huauphon to holongMi,
+Gabe martua, las rohangki, Jesus au ro tu Ho.

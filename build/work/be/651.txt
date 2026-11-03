@@ -1,0 +1,51 @@
+@be 651
+@bl 0
+@title Huria na huhaholongi hami
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair & Lagu: NN
+@pages 668 669 670
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Do = Bes3 (not 5 pertama = F4 di balok) → @oct -1.
+@check Birama "1̇ . 4̇ ." (baris 1 & 3): angka 4 ketuk, tetapi balok tampak Bes4 1/4 + Es5 1/2 (3 ketuk) — ditulis sesuai angka.
+@check Refrein baris akhir: angka tercetak "1̇ 0 1 3" (3 ketuk); balok = Bes4 1/2, tanda diam 1/4, Bes3–D4 1/8 → ditulis 1' . 0 (1+3) mengikuti balok agar birama 4/4 genap.
+@check Ayat 3 tercetak "Ref : Manggopo pe angka . . ." (refrein di bawah not: "Mang-go-go") — ditulis apa adanya.
+@status Lirik dicek · 13/17 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 (di nasa), 6, 7, 11 (mangaradoti) beda; lirik refrein dicek ke scan hlm 669: 'Tuhanta do na pademakhon i, martua do na hot di Tuhan i' sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 651) | https://bukuende.wordpress.com/2013/06/13/huria-na-huhaholongi-hami-buku-ende-no-651-buku-logu-no-651/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+0+5 3'+.+.+2' | 1' 5 3 5 | 1' . 4' . | 3' 1' 0+1' 2'+3' |
+2' 7 5 6 | 7 . 2' . | 5 . 0+5 3'+.+.+2' | 1' 5 3 5 |
+1' . 4' . | 3' 1' 0+1' 2'+3' | 2' 7 5 6 |
+7 . 6 . | 5 . 0 5 | 6 .+6 2' .+2' |
+7 7 0 7 | 1' .+1' 4' .+4' | 2' 2' 0 |]
+> Hu-ri-a na hu-ha-ho-lo-ngi ha-mi na pi-na-jong-jong ni Tu-han-ta i, Tung na-so lu-pa si-an ro-ha-na-mi Hu-ri-a i do-hot ru-as-na i, di na-sa ha-su-sa-an tong-tong do i ma-na-han.
+#B
+5 | 1' . 1' . | 1' . . 1' | 3' 1' 4' 4' |
+3' . . 2' | 1' . 7 . | 6 4' 3' 2' | (1' 2') . 7 |
+1' . 0 (1+3) | 5 . 5 . | 3 1 3 5 | (1' 3') . 2' | 1' . |]
+> Mang-go-go pe ang-ka ga-lum-bang i, Tu-han-ta do na pa-de-mak-hon i, mar-tu-a do na hot di Tu-han i.
+#V
+Huria na huhaholongi hami
+na pinajongjong ni Tuhanta i,
+Tung na so lupa sian rohanami
+Huria i dohot ruasna i,
+di nasa hasusaan tongtong do i manahan.
+Ref: Manggogo pe angka galumbang i,
+Tuhanta do na pademakhon i,
+martua do na hot di Tuhan i.
+-
+Marpadan do au on tu Debatangku;
+tu Jesus Raja ni Huria i.
+Sai pangkeonku do nasa gogongku,
+mangaradoti huriaNa i,
+tung ro pe haleaon ingkon huhabengethon.
+Ref : Manggogo pe angka . . .
+-
+Huria na hinophop ni Tuhanta,
+sai mian ma di haholongon i.
+sahata ma pangula nang ruasNa,
+manomba Jesus na marsangap i,
+sai timbul hadameon lam tang haporseaon.
+Ref : Manggopo pe angka . . .

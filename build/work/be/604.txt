@@ -1,0 +1,26 @@
+@be 604
+@bl 0
+@title Ganup ari natal
+@key D
+@meter 4/4
+@credit Syair: Alle Jahre wieder; Wilhelm Hey, 1789-1854 · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: Friedrich Sikher, 1860
+@pages 598
+@status Lirik dicek · 6/6 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — semua baris sama. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 604) | https://bukuende.wordpress.com/2013/06/13/ganup-ari-natal-buku-ende-no-604-buku-logu-no-604/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 604".
+@check Lirik di bawah not tercetak "Ganup", "marsa - ringar" tanpa tanda penggal; dipenggal Ga-nup, mar-sa-ri-ngar sesuai jumlah not.
+@check Komponis tercetak "Friedrich Sikher" (ejaan lazim: Friedrich Silcher); ditulis apa adanya.
+#A
+5 .+6 5 4 | 3 . 2 . | 1 (2+3) 4 3 | 2 . . 0 |
+3 5 6 5 | (1' . 7) 6 | 5 (4+3) 4 5 | 3 . . 0 |]
+> Ga-nup a-ri na-tal mar-sa-ri-ngar do, nu-nga ro Tu-han-ta tu por-ti-bi-on.
+#V
+Ganup ari natal marsaringar do,
+nunga ro Tuhanta tu portibion.
+-
+Dibongoti Jesus do bagasta be,
+didongani Jesus pardalanta be.
+-
+Diurupi Jesus jolma na gale,
+Jesus do manobus dosami sude.

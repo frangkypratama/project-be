@@ -1,0 +1,61 @@
+@be 738
+@bl 0
+@title Lam jonok rohangki
+@key G
+@meter 6/4
+@credit 738a: Syair: Dcs. Bonaria Hutabarat; Lagu: Lowell Mason, 1856 · 738b: Syair: Nearer my God to Thee, Sarah F Adams, 1841; Terj.: Pdt. MV. Simanjuntak; Lagu: Lowell Mason 1856
+@pages 788 789 790
+@status Lirik dicek · 23/32 baris sama dgn pembanding
+@check Buku mencetak dua lagu: 738a "Lam jonok rohangki (1)" (Ps.31:2 + 6) dan 738b "Lam jonok rohangki (2)" (Ps. 73 : 28: 1 Musa 28:10-2) dengan melodi yang sama (Lowell Mason, 1856). Not & lirik di bawah not = 738a; teks 738b dimasukkan sebagai ayat tambahan di #V (bertanda "738b"). Tidak ada nomor "Logu No." → @bl 0.
+@check Perbedaan not 738b: legato pada "5̣ . 1" di baris 2 dan 4 (738a tanpa legato). Di 738a baris 2 dan 4 ada 11 not untuk 10 suku kata; mengikuti legato 738b, suku kata pertama birama 3 ditahan (ditulis "De _", "tu _").
+@check Ayat 1 masing-masing hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Pembanding lirik: 738a 8/12 (ayat 2 baris 2–4 kata pertama beda: paingot, alani, durus; baris 9 "ru Tuhanki" tercetak di buku, kemungkinan salah cetak "tu"); 738b 15/20 (beda ejaan di ayat 4–5). Dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 738a) | https://bukuende.wordpress.com/2013/06/16/lam-jonok-rohangki-1-buku-ende-no-738a-buku-logu-no-738a/ | proofreading per baris
+@ref Lirik pembanding: bukuende.wordpress.com (BE 738b) | https://bukuende.wordpress.com/2013/06/16/lam-jonok-rohangki-2-buku-ende-no-738b-buku-logu-no-738b/ | proofreading per baris
+#A
+3 . . 2 . 1 | 1 . 6, 6, . . | 5, . . 1 . 3 | (2 . . 2 . .) |
+3 . . 2 . 1 | 1 . 6, 6, . . | 5, . 1 7, . 2 | (1 . . 1 . .) |
+5 . . 6 . 5 | 5 . 3 5 . . | 5 . . 6 . 5 | 5 . 3 2 . . |
+3 . . 2 . 1 | 1 . 6, 6, . . | 5, . 1 7, . 2 | (1 . . 1 . .) |]
+> Lam jo-nok ro-hang-ki tu Tu-han-ki, hu-ti-op ta-ngan-Mi De _ ba-tang-ki, naeng lo-nong so-lung-ki di laut na ba-gas i. to-gu au Tu-han-ki tu _ lam-bung-Mi.
+#V
+Lam jonok rohangki tu Tuhanki,
+hutiop tanganMi Debatangki,
+naeng lonong solungki di laut na bagas i.
+togu au Tuhanki tu lambungMi.
+-
+Lam jonok rohangki tu Tuhanki,
+paingot rohangki di silangMi,
+alani holongMi di au pardosa i,
+durus do MudarMi, sae utangki.
+-
+Lam jonok rohangki ru Tuhanki,
+pabulus langkangki tu lambungMi,
+patau au Tuhanki mamuji GoarMi,
+raphon suruanMi, disurgo i.
+-
+738b. Lam jonok rohangki (2)
+Lam jonok rohangki Tuhan tu Ho,
+nang pe na porsuk do dalan tu Ho,
+sai ima endengki naeng lam jonok tu Ho,
+lam jonok rohangki jonok tu Ho.
+-
+738b ayat 2. Marbantal batu pe sonang do au,
+nang pe holom sude tiur do au
+asal di nipingki sai lam jonok tu Ho,
+lam jonok rohangki, jonok tu Ho.
+-
+738b ayat 3. Patar baen dalanki tu surgo i,
+tongoshon AsiMi na denggan i,
+suru-suruanMi pajonok au tu Ho,
+lam jonok rohangki, jonok tu Ho.
+-
+738b ayat 4. Partinaonanki na dokdok i,
+naeng pangkeonku i baen sangapMi,
+hehe i tondingki sai lam jonok tu Ho,
+lam jonok rohangki, jonok tu Ho.
+-
+738b ayat 5. Tung pe martua au dingolungki,
+songon na habang au tu ginjang i,
+sai i ma endengki naeng lam jonok tu Ho,
+lam jonok rohangki, jonok tu Ho.

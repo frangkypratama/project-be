@@ -1,0 +1,36 @@
+@be 243
+@bl 169
+@title Sai berengi partonggolan
+@key Eb
+@meter 4/4
+@credit Philipp Paul Bliss, 1876
+@pages 222 223
+@status Lirik dicek · 12/13 baris sama dgn pembanding
+@check Pembanding lirik: beda kata "hibul" (ayat 4); dicek ulang ke scan: tercetak "hibul" di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 243) | https://bukuende.wordpress.com/2013/06/18/sai-berengi-partongolan-buku-ende-no-243-buku-logu-no-169/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Baris ke-3 tiap ayat dicetak ":,: "Debata do dongannami!" d.u." (ulangan); ditulis seperti buku.
+#A
+5 .+6 5 3 | 1' .+2' 1' 6 v | 5 .+6 5 3 | 2 . 0 0 |
+5 .+6 5 3 | 1' .+2' 1' 6 v | 7 .+1' 7 6 | 5 . . . |
+> Sai be-re-ngi par-tong-go-lan na di gin-jang i i-da-on-mu ha-mo-na-ngan ni Tu-han-ta i.
+#B
+1' .+1' 1' .+1' | 1' 5 3 5 | 6 .+6 6 1' | 7 . . 0 |
+1' .+1' 1' .+1' | 2' 1' 7 6 | 5 .+5 6 7 | 1' . . 0 |]
+> De-ba-ta do do-ngan-na-mi I ma ta-jou be; tum-pal ha-ngo-lu-an i do ja-lo-on-ta be.
+#V
+Sai berengi partonggolan na di ginjang i
+Idaonmu hamonangan ni Tuhanta i.
+"Debata do dongannami" I ma tajou be;
+Tumpal hangoluan i do jaloonta be.
+-
+Ida, angka ulubalang ni sibolis ro;
+Naung torop tinaluhonna i pe dungo ho,
+:,: "Debata do dongannami!" d.u.
+-
+Tatap ma hau pinarsilang ni Tuhanta i;
+Ndang tarbaen hamu so monang, mangasahon i.
+:,: "Debata do dongannami!" d.u.
+-
+"Burju tole." ninna Jesus, "Ai tibu au ro".
+Ale Tuhan, rohanami sai hibul di Ho!
+:,: "Debata do dongannami!" d.u.

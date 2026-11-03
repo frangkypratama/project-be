@@ -1,0 +1,22 @@
+@be 862
+@bl 0
+@title Tuhan Jesus Kristus asi ma rohaM
+@key F
+@meter 2/4
+@credit Syair: Kyrie Eleison · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Amerika abad 18
+@pages 946
+@status Lirik dicek · 2/2 baris sama dgn pembanding
+@check Pembanding lirik: 2/2 baris sama (pembanding juga 1 ayat).
+@check Pembanding menyebut Buku Logu No. 862; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 862) | https://bukuende.wordpress.com/2013/06/18/tuhan-jesus-kristus-asi-ma-roham-buku-ende-no-862-buku-logu-no-862/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check "5 . 4" bergaris atas tunggal + ganda = 1/8 bertitik + 1/16 (balok: C5 bertitik, Bes4 1/16).
+@check Baris 2 tercetak "a - Si" (huruf S besar) — ditulis apa adanya.
+@check Hanya satu ayat tercetak (teks di bawah not).
+#A
+5+.+.+4 3+4 | 5 3 | 4+.+.+3 2+3 | (4 2) |
+5+.+.+4 3+4 | 5 6 | 5 4 | 3 . |]
+> Tu-han Je-sus Kris-tus a-si ma ro-haM, a-Si ma ro-haM di au Tu-han.
+#V
+Tuhan Jesus Kristus asi ma rohaM,
+aSi ma rohaM di au Tuhan.

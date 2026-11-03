@@ -1,0 +1,47 @@
+@be 355
+@bl 173
+@title Tongtong tutu na denggan do
+@key F
+@meter 4/4
+@credit Lagu : Severus Gastorius 1675
+@pages 335 336
+@status Lirik dicek · 19/20 baris sama dgn pembanding
+@check Pembanding lirik: beda: ayat 4 baris 3 "NajinouMi" (ejaan). Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 355) | https://bukuende.wordpress.com/2013/06/16/malungun-do-rohangkinon-buku-ende-no-355-buku-logu-no-173/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot (kepala hlm 336 sudah "Ende Psalm"). Judul Logu "Tongtong tutu na denggan do"; baris pertama lirik "Malungun do rohangkinon".
+@check Birama 3 tercetak "5 . 4 3 3" (5 ketuk); not balok empat not 1/4 → titik dibaca pemisah, ditulis 5 4 3 3.
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+5, | 1 2 3 6 | 5 4 3 v 6 | 5 4 3 3 |
+2 . 1 . :|
+> Ma-lu-ngun do ro-hang-ki-non di a-ri-Mi, o Tu-han!
+> An-di-gan jum-pang ha-ro-roM ma-no-pot ha-su-du-ngan
+#B
+5 | 6 6 2 v 2 | 5 5 1 v 3 |
+2 1 7, 7, | 6, . 5, v 5 | 6 5 4 3 | 2 . 1 |]
+> Ni ro-ha-mi, ai a-la nii so-nang do ro-ha-na-mi, Ha-taM hu-i-ngot ha-mi.
+#V
+Malungun do rohangkinon di ariMi, o Tuhan!
+Andigan jumpang haroroM manopot hasudungan
+Ni rohami, ai ala nii sonang do rohanami,
+HataM huingot hami.
+-
+Sai hupaima hami Ho, Ho do pangulunami.
+Ai nunga pola mate Ho pasaehon dosanami;
+Dibahen i pos rohangki, sai urupanMu hami
+Di pardalanannami.
+-
+Sai huhaposi hami Ho di sitaononnami
+Naung saor tu tondinami do tondiM, o Tuhannami.
+Asi rohaM, ale Tuhan, parade rohanami
+Di haroroM tu hami.
+-
+Masihol rohanami be di hasonangan sogot.
+Na so mansohot be tahe, tusi ma au pabongot!
+NajinouMi tu lambungMi, sai tong do las rohana
+Tiur huhut langkana.
+-
+Sai ro ma Ho tu hami on, ungkap do rohanami.
+Naeng ingananMu i tongtong, pasaut pangeleknami.
+Di haroroM tu hami on, marolopolop hami,
+Ho pasangaponnami.

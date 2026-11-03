@@ -1,0 +1,34 @@
+@be 582
+@bl 0
+@title Sangap ma di Debata
+@key G
+@meter 4/4
+@credit (tidak terbaca – halaman akhir lagu hilang di PDF)
+@pages 559 560
+@check Pembanding lirik: baris 4 ("sitolu sada") beda ejaan. Pembanding punya satu baris lagi sesudah "Amen haleluya endehon" (bagian dari halaman yang hilang di PDF); tidak ada kredit di pembanding.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 582) | https://bukuende.wordpress.com/2013/06/18/sangap-ma-di-debata-buku-ende-no-582-buku-logu-no-582/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@status Tidak lengkap · halaman buku 566 (akhir lagu, ayat & kredit) tidak ada di PDF · Lirik dicek 5/6 baris sama dgn pembanding
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0.
+@check PDF hlm 560 = hlm buku 565, PDF hlm 561 = hlm buku 567: hlm buku 566 tidak ada. Lagu terputus setelah baris bertanda segno + tanda ulang "A-men ha-le-lu-ya en-de-hon"; akhir lagu, ayat lain dan kredit tidak tersedia.
+@check Kelompok "3 3 3" / "1 1 1" di awal baris "A-men ha-le-lu-ya" bergaris atas tunggal dan not balok tiga 1/8 tanpa angka 3; supaya birama 4/4 genap ditulis sebagai triol (3+3+3). Tampilan not balok situs belum mendukung triol.
+@check Baris terakhir diawali tanda segno dan tanda ulang "|:" di not balok; ditulis sebagai bagian B. Melodi bagian A sama dengan BE 585 (Somba ma Jahowa), yang lengkap; akhir BE 582 kemungkinan sama, tetapi tidak diisi karena halamannya hilang.
+#A
+5+.+.+5 5+.+.+3 5+5+5+6 6+5 |
+3+3+3 3+.+.+3 3+.+0+5 5+3 |
+2+.+.+2 2+.+.+1 2+1+2+3 3+2 |
+1+1+1 1+.+.+1 1+0 1+3 |
+5+.+.+5 5+.+.+3 5+5+5+6 6+5 |
+3+3+3 3+.+.+3 3+.+0+3 5+.+.+3 |
+2+.+.+2 2+.+.+1 2+1+2+3 3+2 |
+1+1+1 1+.+.+1 1+.+0+1 1+1 |
+> Sa-ngap ma di De-ba-ta A-man-ta A-men ha-le-lu-ya sa-ngap ma di A-nak-Na Tu-han Je-sus Kris-tus A-men ha-le-lu-ya ha-sa-nga-pon ma di Ton-di par-ba-di-a A-men ha-le-lu-ya sa-ngap di Tu-han De-ba-ta si-to-lu sa-da A-men ha-le-lu-ya en-de-hon
+#B
+2+2+2 2+.+.+2 2+.+0+2 1+2 |
+> A-men ha-le-lu-ya en-de-hon
+#V
+Sangap ma di Debata Amanta
+Amen haleluya sangap ma di AnakNa Tuhan Jesus Kristus
+Amen haleluya hasangapon ma di Tondi parbadia
+Amen haleluya sangap di Tuhan Debata sitolu sada
+Amen haleluya endehon
+Amen haleluya endehon ...

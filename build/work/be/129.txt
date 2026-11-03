@@ -1,0 +1,35 @@
+@be 129
+@bl 177
+@title Ai beasa di balian?
+@key G
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 116 117
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 12 baris sama; 3 baris beda (ejaan, kata tambahan/hilang). Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 129) | https://bukuende.wordpress.com/2013/06/13/huhalashon-huringkoti-buku-ende-no-129-buku-logu-no-177/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 1 7, 1 | 2 3 (3+2) 2 v | 1 1 (2+3) (4+2) |
+1 7, 1 . :|
+> Hu-ha-las-hon, hu-ring-ko-ti ha-ro-roM tu ta-no on;
+> Je-sus; Si-pa-lu-a ha-mi, jol-ma na mar-da-ngol on.
+#B
+5 (6+5) 4 4 | 4 (6+4) 3 . v |
+3 2 1 7, | 6, (2+1) 7, . v | 1 (1+7,) (6,+7,) 1 |
+4 3 (3+2) 2 v | 5 4 3 (4+2) | 1 7, (7,+1) 1 |]
+> Ai mar-hi-te mu-dar-Mi Di-hop-ho-pi Ho do i; Hu-ri-aM a-sa ba-di-a Ja-la do-hot mar-mu-li-a.
+#V
+Huhalashon, huringkoti haroroM tu tano on;
+Jesus; Sipalua hami, jolma na mardangol on.
+Ai marhite mudarMi Dihophopi Ho do i;
+HuriaM asa badia Jala dohot marmulia.
+-
+Sai na di joloM do jongjong, huriaM na lea i,
+Ai ringkot dihaalungunhon naeng tu Ho, Rajana i.
+Dipaimaima Ho jala tung marhobas do,
+Mangihuthon Ho, Parmonang, toguonMu tu na sonang.
+-
+Ro, sai ro Ho, o Tuhanku I! Jesus ro ma Ho tibu!
+I panjou ni oroanMu, tatap haporsuhonki
+Ro ma Ho, o Jesuski, tatap haporsuhonki
+Sai tu hasampuran rea, alaponMu na porsea.

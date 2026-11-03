@@ -1,0 +1,33 @@
+@be 742
+@bl 0
+@title Ndang holan Sipalua i
+@key Ab
+@meter 6/4
+@credit Syair: Must Jesus Bear the Cross alone, Thomas Shepherd, 1693 · Terj.: Dcs. Bonaria Hutabarat · Lagu: George N. Allen, 1850
+@pages 795 796
+@status Lirik dicek · 6/10 baris sama dgn pembanding
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0. Ayat bacaan tercetak "Mat. 16 : 42".
+@check Baris 2 birama 1 tercetak "5 . 5 1 3" (hanya 5 ketuk); balok = Es setengah, Es seperempat, As setengah, C seperempat → ditulis "5, . 5, 1 . 3".
+@check "2 . . 2" (baris 2) dan "1 . . 1" (akhir) bertanda pengikat pada nada sama = ditahan.
+@check Pembanding lirik: baris 1 (mamorsan), 2 (kata "na" tidak ada di pembanding), 8 (saplu), 10 (hongoluanki) beda; dicek ulang ke scan, buku sesuai transkripsi.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 742) | https://bukuende.wordpress.com/2013/06/16/ndan-holan-sipalua-i-buku-ende-no-742-buku-logu-no-742/ | teks ayat
+#A
+(3,+4,) | 5, . 5, 1 . 3 | 2 . 1 .+(6, 1) .+6, |
+5, . 5, 1 . 3 | (2 . . 2) . (3+4) | 5 . 3 1 . 3 |
+2 . 1 .+(6, 1) .+6, | 5, . 1 3 . 2 | (1 . . 1) . |]
+> Ndang ho-lan Si-pa-lu-a i ma-mor-san si-lang i, nang hi-ta pe na ing-kon do ma-naon na han-sit i.
+#V
+Ndang holan Sipalua i mamorsan silang i,
+nang hita pe na ingkon do manaon na hansit i.
+-
+Huporsan na ma silang i, saleleng ngolungki,
+jambarhu tumpal na uli naso tarasam i.
+-
+Dung sahat au di surgo i, marsinggang au disi
+di pat ni Jesus Tuhanki Sipasangapon i.
+-
+Sonang ni na badia i dung tolhas ro disi,
+nga saplu parsorion i, pinuji Tuhan i.
+-
+O Silang na badia i Ho lombu-lombungki,
+Ho Jesus Sipalua i Ho hongoluanki.

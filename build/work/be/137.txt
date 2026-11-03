@@ -1,0 +1,36 @@
+@be 137
+@bl 164
+@title Raphon Tuhan Jesus I
+@key C
+@meter 4/4
+@credit Johann Georg Ebeling, 1666
+@pages 124
+@status Lirik dicek · 11/14 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 11 dari 14 baris sama; 3 baris beda ejaan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 137) | https://bukuende.wordpress.com/2013/06/16/nunga-ro-tu-hita-on-buku-ende-no-137-buku-logu-no-164-2/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 3 5 5 | 6 7 1' . v | 7 1' 2' 3' | 2' . 1' . :|
+> Nun-ga ro tu hi-ta on ha-ta ha-ngo-lu-an.
+> Na pa-so-nang sai tong-tong ro-ha na je-a-an:
+#B
+7 1' 2' 1' | 7 7 6 . v | 5 5 4 3 | 2 . 1 . v |
+5 5 6 7 | 6 6 5 . v | 6 7 (1'+2') 3' | 2' . 1' . |]
+> Mo-lo ji-na-lo-na i, Ga-be na por-se-a Di Tu-han-ta Je-sus i, Si-pa-ba-li je-a
+#V
+Nunga ro tu hita on hata hangoluan.
+Na pasonang sai tongtong roha na jeaan:
+Molo jinalona i, Gabe na porsea
+Di Tuhanta Jesus i, Sipabali jea
+-
+Ala nii tapuji ma, goar ni Tuhanta; Tapasangap Debata,
+Na palas rohanta. Mamestahon ari on, ari parningotan
+DibasaNa na tongtong, so marpansohotan.
+-
+Ale Tuhan Debata! Ho hupuji hami.
+Ipe halomohon ma, endeendenami, sangap ma di goarMi
+Dohot di AnakMu, Jesus Sipartogi i tu harajaonMu.
+-
+Tuhan, nang tu jolo on tatap hajolmaon.
+Sai pararat ma tongtong hata haluaon.
+Tu na so tumanda Ho dohot Tuhan Jesus,
+Asa sasudena ro mandapothon Kristus.

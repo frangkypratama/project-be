@@ -1,0 +1,33 @@
+@be 55
+@bl 68
+@title Borngin na badia i
+@key G
+@meter 6/8
+@credit (tidak dicantumkan di buku)
+@pages 47 48
+@status Lirik dicek · 8/9 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 8 ("manisia"); pembanding juga tidak mencantumkan komponis. Buku tetap acuan.
+@check Birama 6/8: 1 token = 1 not 1/8 (lihat catatan BE 54 soal penampil).
+@check BIRAMA TIDAK BERATURAN DI BUKU: birama 6 ("De-ba-tan-ta") dan 8 ("ga-be jol-ma") berisi 8 not 1/8, birama 7 ("Do A-nak-na") 7 not 1/8, birama 11 & 12 masing-masing 3 not 1/8 — baik di angka maupun paranada. Ditulis apa adanya; validator memberi peringatan. Perlu dicek manusia/pembanding melodi.
+@check Birama 6: angka "2̄.3̿" (bertitik) tetapi paranada A 1/8 tanpa titik; dipakai paranada. "4*" = kres (C#), sesuai paranada.
+@check "De-ba-tan-ta" dinyanyikan pada 6 kelompok not; letak lirik buku: "ba" pada C#–B, "tan" pada A–B → ditulis dengan "_".
+@check Tidak ada keterangan "Lagu :" untuk lagu ini di hlm 47–48.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 55) | https://bukuende.wordpress.com/2013/06/09/borngin-na-badia-buku-ende-no-55-buku-logu-no-68/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 1 (1 7,) 1 | 2 . 4 3 . . v | (5 4) 3 (3 2) 1 |
+4 . 3 2 . . v | 2 . 2 (2 .+3) 2 | (2 . 5) #4+3 .+2 .+3 2 0 |
+2 . 2 . (2 .+1) 7, | (1 .+2 3) 1 (7, .+1) 7, 0 | 1 . 1 (2 1) 2 |
+(3 4) 5 1 . . v | (4 3) 2 | (6 5) 4 | 3 . 2 1 . . |]
+> Born-gin na ba-di-a i. Tu-a do bi-no-an-Mi, Ai di-to-ngos De-ba _ tan _ ta Do A-nak-na ga-be jol-ma. A-la ni pi-nu-ji ma na ro si-an De-ba-ta.
+#V
+Borngin na badia i. Tua do binoanMi,
+Ai ditongos Debatanta Do Anakna gabe jolma.
+Ala ni pinuji ma na ro sian Debata.
+-
+Na mardosa sasude, ndada pola mago be;
+Dipalua Jesus hita sian saluhut dosanta.
+Nang na holom sasude dipatiur Jesus pe.
+-
+Sangap ma di Tuhan i na mamboan dame i.
+Na mambahen manisia tomo ni Tuhan Jahowa.
+Borngin na badia i, i do na binoanmi!

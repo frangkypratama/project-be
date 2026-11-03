@@ -1,0 +1,37 @@
+@be 59
+@bl 34
+@title O Jesuski hupuji Ho
+@key Ab
+@meter 4/4
+@credit Choral Buch 85, Genf 1533
+@pages 51
+@status Lirik dicek · 12/14 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 5,6 (ejaan). Buku tetap acuan.
+@check Baris 2 birama "2 ʔ 1 .": angka 2 tanpa titik, paranada 1/2 → "2 . v 1 .".
+@ref Lirik pembanding: bukuende.wordpress.com (BE 59) | https://bukuende.wordpress.com/2013/06/16/o-jesuski-hupuji-ho-buku-ende-no-59-buku-logu-no-34/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . | 1 7, 6, 5, | 1 . 2 . | 3 . v 3 . |
+3 3 2 1 | 4 . 3 . | 2 . v 1 . | 2 3 2 1 | 6, . 7, . |
+1 . v 5 . | 3 . 1 . | 2 4 3 . | 2 . 1 . |]
+> O Je-sus-ki hu-pu-ji Ho, di-baen naung ga-be jol-ma Ho; Di-to-pot Ho do ha-mi on, na da-ngol di por-ti-bi on.
+#V
+O Jesuski hupuji Ho, dibaen naung gabe jolma Ho;
+Ditopot Ho do hami on, na dangol di portibi on.
+-
+Peak di panggagatan i do Anak ni Jahowa i;
+partohap di sibukta on do na pangolu hita on.
+-
+Sigomgom parluhutan i, do na peak di baru i;
+Porsuk parniahapan ni na marmuduhon sasude.
+-
+Ibana na tiur hian na sangap sian nahinan
+Do patiurhon tano on lao manondangi hita on.
+-
+DiriNa dirumari do sangapNa ditinggalhon do.
+Manogu hajolmaon i tu Debata, AmaNa i.
+-
+Na pogos ma Tuhanta i manaon sude na porsuk i;;
+Mamora hita baenon ni saleleng ni lelengna i.
+-
+I ma binaen ni Jesus i pataridahon holong ni
+RohaNa na tongtong basa. I pe tapuji Debata.

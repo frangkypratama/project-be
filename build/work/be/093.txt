@@ -1,0 +1,35 @@
+@be 93
+@bl 94
+@title Pesta Paska, hatuaon!
+@key Eb
+@meter 4/4
+@credit Goottlieb Ferdinand Maxmilian
+@pages 83 84
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 5, 8, 11 pembanding punya kata tambahan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 93) | https://bukuende.wordpress.com/2013/06/16/pesta-paska-hatuaon-buku-ende-no-93-buku-logu-no-94/ | 9/12 baris sama
+@check Nama komponis tercetak "Goottlieb Ferdinand Maxmilian" (ejaan lazim: Gottlieb … Maximilian) → ditulis apa adanya.
+@check "4*" pada baris 3 = ♮A di paranada → #4.
+@check Ayat 1 mengulang "Sian hamatean i!" (53 suku kata); ayat 2–4 hanya 46 suku kata, jadi pembagian suku kata ayat 2–4 ke not tidak tercetak di buku.
+#A
+1 2 3 3 | (3+4) (3+2) (2+1) 1 v | 3 4 5 5 |
+(5+6) (5+4) (4+3) 3 v | 5 .+3 2 2 | 2 (3+1) 7, 0 | 2 (3+4) 3 (1'+7) |
+(7+6) (5+#4) 5 0 | 5 3 4 2 | 3 (2+1) (1+7,) 7, v |
+5 3 4 2 | 3 (2+1) (1+7,) 7, v | 6 6 (5+1') 3 | (5+4) (3+2) 1 0 |]
+> Pes-ta Pas-ka, ha-tu-a-on! Pes-ta Pas-ka, ha-lu-a-on si-an ha-ma-te-an i! Si-an ha-ma-te-an i! Tu-han Je-sus do pa-su-ang, ha-ngo-lu-an, ha-so-na-ngan tu sa-lu-hut jol-ma i.
+#V
+Pesta Paska, hatuaon! Pesta Paska, haluaon
+Sian hamatean i! Sian hamatean i! Tuhan Jesus do pasuang,
+Hangoluan, hasonangan tu saluhut jolma i.
+-
+Talu ho banuatoru, ndang tarbahen tiopanmu
+Raja Siparngolu i. Hamatean, hamagoan
+Na so pola habiaran; Nunga talu i sude.
+-
+Tuhan Jesus do na monang, Tuhan Jesus do pasuang
+Las ni roha, dame pe. Dongan, golom ma hataNa:
+Na porsea di Ibana ndang tarbahen mago be.
+-
+Sai tapuji ma Tuhanta na pabongot tu rohanta
+Roha pangkirimon i. Ia mate pe donganta,
+Sogot ingkon idaonta saluhut di surgo i.

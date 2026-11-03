@@ -1,0 +1,50 @@
+@be 307
+@bl 208
+@title Mata ni ari
+@key F
+@meter 3/4
+@credit Johann Georg Ebeling 1666
+@pages 285 286
+@status Lirik dicek · 18/24 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 3, 8, 11, 12, 14, 24 (ejaan; baris 8 kata kurang). Baris 8 dicek ke scan hlm 286: buku sesuai transkripsi. "mangalaslasi" (baris 2) sama dengan pembanding. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 307) | https://bukuende.wordpress.com/2013/06/16/mata-ni-ari-buku-ende-no-307-buku-logu-no-208/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Pemenggalan tercetak "ma-nga-las-" (akhir baris hlm 285) lalu "la-si san-dok" (hlm 286) → dinyanyikan ma-nga-las-la-si (10 not); di ayat ditulis "mangalaslasi" sesuai not.
+@check "nuaeng" dinyanyikan 2 suku kata (nu-aeng) sesuai letak lirik. Not "4*" = tanda pugar → #4 (B).
+@check Ayat 3 tercetak "dumengggan" (huruf g tiga) — salah cetak, ditulis apa adanya.
+#A
+5 5 6 | (5 .+4) 3 v | 5 4 2 | (3 .+2) 1 v |
+3 4 5 | 6 . 6 v | 2 3 4 | 5 . 5 v | 1 1 2 |
+3 .+4 5 | 2 1 7, | 1 . . v | 5 5 4 | 3 3 2 |
+1 .+7, 6, | 7, 5, 0 | 1 1 2 | 3 3 2 | 3 .+3 #4 |
+5 5 0 | 3 1 2 | 3 .+4 5 | 2 1 7, | 1 . . |]
+> Ma-ta ni a-ri Bin-sar sao-na-ri lao ma-non-da-ngi, lao ma-no-ra-ngi, ma-nga-las-la-si san-dok ta-no on. Di po-do-man-ku na-born-gin ba-dan-ku, he-he ma a-hu nu-aeng. a-sa la-ho, a-sa hu-i-da ti-ur a-ri on.
+#V
+Mata ni ari Binsar saonari
+lao manondangi, lao manorangi, mangalaslasi sandok tano on.
+Di podomanku naborngin badanku, hehe ma ahu nuaeng.
+asa laho, asa huida tiur ari on.
+-
+Nasa na uli, na pinauli ni Debatangku,
+Diida matangku na marmulia do Debatangki.
+Laos na hutanda huhut na huida jambar na uli ni
+Angka na muli sogot lambung ni Tuhanta i.
+-
+Sai taendehon ma hasangapon di Debatanta,
+Jala rohanta sai tapelehon tu Tuhanta i.
+I ma pelean na tongtong dumengggan,
+Endeendenia do doshon daupa, lomo ni roha ni Tuhanta i.
+-
+Borngin, arian do sinarihon ni Debatanta,
+Hasonanganta pinatupaNa sambing do tongtong.
+Modom pe hita, disi do Ibana, hehe dagingta
+Sogot manogotna, sai disondangi muse hita on.
+-
+Las ni rohanta sian Tuhanta, nang pe arsakta
+Do tinongosNa, sai na hasea do i sasude.
+Hangoluanta dilehon Tuhanta asal ditogu do hita tu surgo,
+Ingkon manumpak tusi sasude.
+-
+Sai na marujung do haporsuhon dung salpu borngin,
+Dung pur pe angin, sai na sumisi ma ombun sude.
+Las ma rohanta dibahen Tuhanta di hasonangan di
+Banua ginjang, ia dung sahat tusi hita be.

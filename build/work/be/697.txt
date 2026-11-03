@@ -1,0 +1,40 @@
+@be 697
+@bl 0
+@title Molo Ho do huihuthon
+@key D
+@meter 4/4
+@credit Syair & Lagu: I will Follow Thy, My Savior. J. Elqinbury; Terj.: Pdt. MH. Hutapea / Blv. MH. Sitorus
+@pages 729 730
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 ('nasa na'), 6, 9 beda ejaan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 697) | https://bukuende.wordpress.com/2013/06/16/molo-ho-do-huihothon-buku-ende-no-697-buku-logu-no-697/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 697.
+@check Birama 1 tercetak "1 .2" di bawah garis atas; balok = dua 1/8 (D–E) → 1+2.
+@check Reff birama 5 tercetak "2 . 5.5" (3 ketuk), balok = E 1/2 bertitik + A 1/8 bertitik + A 1/16 → ditulis 2 . . 5+.+.+5. Reff birama 7 tercetak "5 . . 3 1 2" (5 ketuk), balok = A 1/2 + Fis + D–E → ditulis 5 . 3 1+2.
+@check Ayat 2 reff tercetak "ihutonongku" (ayat lain "ihuthonongku") — ditulis apa adanya.
+#A
+3 3 1+2 3+4 | 5 . 3 . | 3 3 1+3 5+3 | 2 . . 0 |
+3 3 1+2 3+4 | 5 . 6 6+6 | 5 (1+2) 3 2 | 1 . . 0 |]
+> Mo-lo Ho do hu-i hut-hon da-me so-nang ro-hang-ki sai ho-ras ja-la mar-tu-a na-sa na hi-nop-hop-Mi
+#B
+5+.+.+5 | 1' 1' 7 6 | 5 . 3 1+2 |
+3 3 5 (5+.+.+3) | 2 . . 5+.+.+5 | 1' 1' 7 6 |
+5 . 3 1+2 | 3 (5+4) 3 2 | 1 . . 0 |]
+> Ho tong-tong i-hut-ho-nong-ku, Je-sus na pa-lu-a au. Ho sam-bing do-o-lo-an-hu a-la nii mar-tu-a au.
+#V
+Molo Ho do huihuthon dame sonang rohangki
+sai horas jala martua nasa na hinophopMi
+Ref: Ho tongtong ihuthonongku, Jesus na palua au.
+Ho sambing do oloanhu ala nii martua au.
+-
+Na rade do au manaon, mangasahon padanMi,
+molo ho na margogoihon talu haholomon i.
+Ref: Ho tongtong ihutonongku . . .
+-
+Hupelehon ma diringku mangihuthon lomoMi,
+ndada be na olo salpu na manggohi rohangki.
+Ref: Ho tongtong ihuthonongku . . .
+-
+Marparenge na badia ma au diadopanMi,
+sai patau ma au tiruan, songon pinangidoMi.
+Ref: Ho tongtong ihuthonongku . . .

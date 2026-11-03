@@ -1,0 +1,58 @@
+@be 78
+@bl 158
+@title O ulu na sap mudar
+@key C
+@meter 4/4
+@credit Hans Leo Hassler, 1601
+@pages 68 69 70
+@status Lirik dicek · 27/32 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 27 dari 32 baris sama persis; 5 baris beda ("janggar-janggar", "do diporsan", "au na di joloM", "naung olo", "o Jesus, di"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 78) | https://bukuende.wordpress.com/2013/06/16/o-ulu-na-sap-mudar-buku-ende-no-78-buku-logu-no-158/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 | 6 5 4 3 | 2 . 3 v 7 | 1' 1' 7 7 | 6 . . :|
+> O u-lu na sap mu-dar, bi-naen ni bu-gang-Mi,
+> Na si-an jang-gar-jang-gar si-sung-sang du-ri i!
+#B
+1' | 7 5 6 7 | 1' . 1' v 5 | 6 5 6 4 | 3 . . v 1' |
+7 2' 1' 7 | 6 . 7 v 3 | 4 3 2 2 | 3 . . |]
+> O u-lu ha-to-nga-mon hi-an do tum-pal-Mi; Di-taon Ho ha-le-a-on: Ho naeng som-ba-on-ki!
+#V
+O ulu na sap mudar, binaen ni bugangMi,
+Na sian janggar-janggar sisungsang duri i!
+O ulu hatongamon hian do tumpalMi;
+Ditaon Ho haleaon: Ho naeng sombaonki!
+-
+O bohi parsinondang, na sangap situtu,
+Beasa tung marlangan sap ijur hurumMu?
+Tung aha ma alana, umbaen homur mataM?
+Na mintop do sondangna di na lao tos hosaM.
+-
+Au on tama, o Tuhan, manaon na tinaonMi;
+Dosangku do diporsan Ho na tarsilang i!
+Sai tatap ale Tuhan, au na di joloM on,
+Huhut sai patuduhon basaM tu rohangkon!
+-
+Ai Ho do Siparmahan au pinarmahanMi;
+Sai Ho do haroroan ni hatuaonki.
+Sai Ho do haolhaolonku marningot bugangMi;
+Sai Ho do tioponku marningot mudarMi.
+-
+Las situtu rohangku huhut mansai sonang,
+Marningot pangkophopMu di ahu nahinan.
+Ndang be huhabiari nuaning dosangki;
+Tung mate au saonari, martua au disi.
+-
+Mandok mauliate do rohangkon nuaeng
+Di Ho naung olo mate, ai sonang au dibaen
+MudarMu i na durus, nang angguhanggukMi.
+Sai jalo au; o Jesus, di hamamatengki!
+-
+Di na tadingkononku sude di tano on.
+Disi, ale Tuhanku, dapothon ma au on!
+Di na ponjot rohangku manostos hosangki,
+Sai jangkon ma tondingku marhite mudarMi!
+-
+Ho ma pangondinganku, siapul rohangki.
+Di na lao tos hosangku, di hamamatengki.
+Disi ma ingotonku sude na tinaonMi.
+Na timbul do tuangku lao mate songon i.

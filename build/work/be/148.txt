@@ -1,0 +1,35 @@
+@be 148
+@bl 59
+@title Tuhan Debata
+@key Ab
+@meter 3/4
+@credit Adam Drese, 1698
+@pages 133
+@check Judul kepala lagu (judul Logu) "Tuhan Debata"; baris pertama lirik "Sian surgo i suru TondiMi".
+@check Baris 1: garis birama pertama tercetak sebelum not "1" kedua ("1̄ 1̄ 7̣ | 1 2 . 0"), sehingga birama 2 jadi 4 ketuk; dipindah agar setiap birama 3/4 (sama dengan pola baris 3).
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: L11 kata 6 beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 148) | https://bukuende.wordpress.com/2013/06/18/sian-surgo-i-buku-ende-no-148-buku-logu-no-59/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |
+3+4 5 4 | 3+2 3 2 v | 1+2 3 2 |
+1+7, 1 7, v | 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |]
+> Si-an sur-go i su-ru Ton-di-Mi, a-le Je-sus Tu-han-na-mi, ai naeng pa-sa-ha-ton-na-mi tu Ho ha-mi on, na di jo-lo-Mon.
+#V
+Sian surgo i suru TondiMi, ale Jesus Tuhannami,
+Ai naeng pasahatonnami tu Ho hami on, na di joloMon.
+-
+Nasailaonna i, hinangkungan ni, natorasna be do hami,
+Olat na tardidi hami, di huriaMi na badia i.
+-
+Na malua be hami on sude sian na mangkangkung hami,
+Jadi sarihononnami, langkanami on na tu jolo on
+-
+Na poso dope hami on sude, ala ni urupi hami,
+Ale Jesus, Tuhannami, asa sai tongtong burju hami on.
+-
+Sai asi rohaM, suan ma hataM tu bagasan rohanami.
+I ma pangguruannami, sai hombar tusi pambaennami be.
+-
+Togu hami on di na rodop on, Ho ma huihuthon hami,
+Sahat ro di ajalnami asa masuk be tu na sonang pe.

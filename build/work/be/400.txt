@@ -1,0 +1,29 @@
+@be 400
+@bl 401
+@title O ho di hamagoanmi.
+@key Ab
+@meter 3/4
+@credit Dora Rappard
+@pages 383 384
+@check Kepala lagu juga mencetak "Chr. L. No. 11". Ayat 2–4 dan nama komponis ada di atas hlm 384.
+@check Fermata pada "4" (Tuhan-mi) dan pada "1" akhir (tidak bisa ditampilkan di format ini). Legato "5.. | 7.." dan "3.. | 3.." melintasi garis birama (satu suku kata: "top").
+@status Lirik dicek · 5/8 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L1 ("hamagoanmi", "portibi on"), L2 kata 5, L7 kata 5 ("hudok").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 400) | https://bukuende.wordpress.com/2013/06/16/o-ho-di-hamagoanmi-buku-ende-no-400-buku-logu-no-401/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | (5, 6,) 7, | (1 2) 3 | 3 . 2 | 1 v 0 5, |
+6, . 6, | 1+.+.+7, 1 6, | (6, 5,) 5, | 3 . 1 | 1 . 1 |
+6 . 4 | 4 v 0 6, | (5, . . | 7,) . . | 1 v 0 5, | (3 . . | 3) . . | 1 . |]
+> O ho di ha-ma-go-an-mi, por-ti-bi on nam-pu-na ho, Sai mu-lak ma tu Tu-han-mi, Ha-top ro, ha-top ro.
+#V
+O ho di hamagoanmi, portibi on nampuna ho,
+Sai mulak ma tu Tuhanmi, Hatop ro, hatop ro.
+-
+Molo dibege ho panjou ni Jesusmi, na tong mamio,
+Girgir ma ungkap rohami! Dipio, dipio.
+-
+Hansit sipata rohami binaen ni parsorionmi,
+Hatop ma ho tu Jesusmi pamalum rohami.
+-
+Martua dibaen Jesus au. Antong hudok sahali nari:
+Nang ho dijangkon Jesus i saonnari, saonnari.

@@ -1,0 +1,36 @@
+@be 758
+@bl 0
+@title Jahowa pangurupi
+@key C
+@meter 4/4
+@credit Syair/Lagu/Terj: NN
+@pages 820 821
+@check Buku tidak mencetak nomor Logu (ditulis 0).
+@check Bar 1: tercetak "pangu" di bawah dua not (4 dan 6) — dipenggal pa-ngu agar satu suku kata per not.
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan baris 1 (pangurupi) & 3 (nang pe); baris 12 pembanding tanpa kata "nuaeng" (tercetak jelas di buku). Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 758) | https://bukuende.wordpress.com/2013/06/16/jahowa-pangurupi-buku-ende-no-758-buku-logu-no-758/ | pembanding menyebut Buku Logu No. 758
+#A
+5 | 1' .+3 4 6 | 5 . 3 5 | 5 .+3 2 (3+4) |
+3 . 0 3 | 6 .+7 1' 2' | 3' . 2' 1' |
+7 .+7 1' (7+6) | 5 . . 5 |
+5 .+5 4 (3+2) | (3 .+4) 5 5 |
+6 6 (2'+1') (7+1') | 2' . . 5 |
+5 (6+7) 1' (2'+3') | 4' . 3' 2' |
+1' (7+1') 2' .+1' | 1' . . 0 |]
+> Ja-ho-wa pa-ngu-ru-pi di si u-la-on-mi di-le-hon pos ni ro-ha di ga-nup ting-ki i, nang pe si-pa-ta gang-gu ha-por-se-a-on-mi ja-mot tong-tong Tu-han-mu man-ja-ga ngo-lu-mi.
+#V
+Jahowa pangurupi di si ulaonmi
+dilehon pos ni roha di ganup tingki i,
+nang pe sipata ganggu haporseaonmi
+jamot tongtong Tuhanmu manjaga ngolumi.
+-
+Jahowa las ni roha saleleng ngolumi,
+Ibana haroroan ni nasa na uli
+ai disarihon Jesus sude naringkot i,
+halashon panoguon ni Jesus Tuhanmi.
+-
+Jahowa pandongani di na porsea i
+Ibana patuduhon nang sidalananmi
+asa marolop-olop ho di ujungna i,
+Ibana do donganmu nuaeng nang sogot i.

@@ -1,0 +1,40 @@
+@be 759
+@bl 0
+@title Jahowa siparmahan au
+@key F
+@meter 3/4
+@credit Syair: The Lord is my shepherd, based on psalm 3; Scottish Psalter · Terj.: Team Suplemen sian BE No. 188 · Lagu: Jessie Se. Irvine
+@pages 822
+@check Buku tidak mencetak nomor Logu (ditulis 0). Kepala lagu mencantumkan "Ps. 23"; kredit tercetak "psalm 3" (kemungkinan salah cetak 23) — ditulis apa adanya.
+@check Angka 4 dicoret (#4) = B natural di balok (tanda mula 1 mol).
+@check Komponis tercetak "Jessie Se. Irvine" (lazim: Jessie Seymour Irvine) — ditulis apa adanya.
+@status Lirik dicek · 11/14 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan baris 1 & 2; baris 14 ada kata tambahan di pembanding. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 759) | https://bukuende.wordpress.com/2013/06/16/jahowa-siparmahan-au-buku-ende-no-759-buku-logu-no-759/ | pembanding menyebut Buku Logu No. 759
+#A
+5, | 3 . (4+2) | 5 . (4+2) | 1 . 7, |
+1 . 3 | (3 2) 2 | #4 . #4 | 5 . 3 |
+(3 4) 3 | 2 . 3 | (4 5) 4 |
+3 . 3 | (2 4) 6 | 1 . 7, | 1 . |]
+> Ja-ho-wa Si-par-ma-han au ndang na hu-ra-ngan au; to-ngon di baen na lo-mak i pa-ngo-lu ton-ding-ku.
+#V
+Jahowa Siparmahan au ndang na hurangan au;
+tongon di baen na lomak i pangolu tondingku.
+-
+Di togu au tu na tio, aek hangoluan i,
+di baen do tondingki sio, dihasonangan i.
+-
+Sai dipasabam rohangki, ditogu tondingki,
+tu dalan hatigoran i ala goarNa i.
+-
+Di rura hamatean pe, ndang be mabiar au,
+ai disondangi do sude sonang mardalan au.
+-
+Batahi dohot tungkotmi do mangapuli au,
+di dalan sidalananki. Ho mandongani au.
+-
+Rade dibaen ho meja i, gok panginumanki,
+Ho mamiahi ulungki, di ida musungki.
+-
+Tongtong do denggan basaMi, jambar ni ngolungki,
+bongot ma au tu jabuMi, dung suda bohalhi.

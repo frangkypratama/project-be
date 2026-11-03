@@ -1,0 +1,26 @@
+@be 808
+@bl 0
+@title Horas ma hita sude
+@key Eb
+@meter 3/4
+@credit Syair & lagu: Gr. D. Simanungkalit
+@pages 890
+@status Lirik dicek · 3/4 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 kata 2 beda ejaan (buku: "di ra-mo-ti" di bawah not); dicek ulang ke scan hlm 890 → buku tetap.
+@check Pembanding menyebut Buku Logu No. 808; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 808) | https://bukuende.wordpress.com/2013/06/13/horas-ma-hita-sude-buku-ende-no-808-buku-logu-no-808/ | teks ayat
+@check Tidak ada "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Do = Es (tanda mula 3 mol; 3 = G4, 1̇ = Es5).
+@check Balok birama 1 tampak ada titik di samping not pertama, tetapi angka "3 2 1" dan birama 3/4 → titik dianggap noda cetak.
+@check Hanya satu bait tercetak.
+#A
+3 2 1 | 3 2 1 | 3 2 1 | 2 . 0 |
+3 2 1 | 3 2 1 | 3 2 1 | 2 . 0 |
+3 2 1 | 3 2 1 | 5 4 3 | 6 . 0 |
+1' 7 6 | 5 3 4 | 3 1 2 | 1 . 0 |]
+> Ho-ras ma ho-ras ma hi-ta su-de, na di pa-so-git nang di ran-to pe, sai di ra-mo-ti Tu-han-ta ma ho, mar-so-nang so-nang ngo-lun-ta tong-tong.
+#V
+Horas ma horas ma hita sude,
+na di pasogit nang di ranto pe,
+sai diramoti Tuhanta ma ho,
+marsonang sonang ngolunta tongtong.

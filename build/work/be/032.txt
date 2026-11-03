@@ -1,0 +1,24 @@
+@be 32
+@bl 78
+@title Jesus, hami ro dison, asa
+@key Ab
+@meter 4/4
+@credit Johann Rudolph Ahle, 1664
+@pages 27 28
+@check Lirik ayat 1 dimulai "Nang lao ruar, masuk pe"; melodi sama dengan BE 23 (Logu 78). Hanya satu ayat dicetak.
+@status Lirik dicek · 2/3 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 2 dari 3 baris sama persis; 1 baris beda pemisahan kata (“banua ginjang”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 32) | https://bukuende.wordpress.com/2013/06/16/nang-lao-ruar-masuk-pe-buku-ende-no-32-buku-logu-no-78/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 1 2 (5+4) | 3 (2+1) 2 . v | 1 .+7, (6,+7,) 1 |
+2 3 2 . | 1 . . . :|
+> Nang lao ru-ar, ma-suk pe, Je-sus sai do-nga-ni ha-mi.
+> Pa-su-pa-su ha-mi be Do-hot ha-ngo-lu-an-na-mi.
+#B
+5, .+5, 6, 7, | 1 (2+1) 7, 5, v |
+1 .+1 2 3 | 4 3 2 . | 1 . . . |]
+> To-gu ha-mi, a-le Tu-han. Sa-hat tu ba-nu-a gin-jang!
+#V
+Nang lao ruar, masuk pe, Jesus sai dongani hami.
+Pasupasu hami be Dohot hangoluannami.
+Togu hami, ale Tuhan. Sahat tu banua ginjang!

@@ -1,0 +1,41 @@
+@be 24
+@bl 59
+@title Tuhan Debata
+@key Eb
+@meter 3/4
+@credit Adam Drese, 1698
+@pages 21
+@check Judul tercetak "Tuhan Debata"; lirik ayat 1 dimulai "Tatap hami on".
+@check Ayat 5 hanya tercetak satu baris di buku; ditulis apa adanya.
+@status Lirik dicek · 16/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 16 dari 16 baris sama persis; semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 24) | https://bukuende.wordpress.com/2013/06/18/tatap-hami-on-buku-ende-no-24-buku-logu-no-59/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |
+3+4 5 4 | 3+2 3 2 v | 1+2 3 2 | 1+7, 1 7, v |
+1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |]
+> Ta-tap ha-mi on, na pu-ngu di-son: Ai na naeng pu-ji-on-na-mi deng-gan ni ba-saM di ha-mi. Ta-tap ha-mi on, na pu-ngu di-son.
+#V
+Tatap hami on, na pungu dison:
+Ai na naeng pujionnami denggan ni basaM di hami.
+Tatap hami on, na pungu dison.
+-
+Togu hami on na mardosa on, ale Jesus, Tuhannami
+Sai asi rohaM di hami! Togu ma tongtong na mardosa on.
+-
+Sai ramoti be hami on sude, maradophon musunami,
+Asa unang mago hami, Sai ramoti be hami on sude.
+-
+Sai urasi be hami on sude asa muba rohanami
+Jala ias tondinami. Sai urasi be hami on sude.
+-
+Sai ajari be hami on sude. Asa lam huboto hami,
+-
+Sai pintori be hami on sude molo unduk rohanami,
+Manopoti dosanami. Sai pintori be hami on sude.
+-
+Sai padungo be hami on sude unang loas modom hami
+Di bagasan dosanami. Sai padungo be hami on sude.
+-
+Sai pamasuk be hami on sude di na jumpang ajalnami,
+Molo suda bohalnami tu ingananMi hasonangan i.

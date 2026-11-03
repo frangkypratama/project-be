@@ -1,0 +1,41 @@
+@be 47
+@bl 103
+@title Di na saborngin i
+@key F
+@meter 4/4
+@credit Johann Balthasar König, 1738
+@pages 40 41
+@status Lirik dicek · 13/15 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 9,13. Buku tetap acuan.
+@check Judul cetak di buku: "Aut na saribu hali ganda" (nama lagu, sama dengan BE 15 / Logu 103); judul di sini dari baris pertama lirik.
+@check Melodi sama dengan BE 15 (Logu No. 103).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 47) | https://bukuende.wordpress.com/2013/06/13/di-na-saborngin-i-do-binsar-buku-ende-no-47-buku-logu-no-103/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0 5 3 5 | 6 5 4 3 | 2 . 1 v 3 |
+2 1 2 3 | 4 3 2 . :|
+> Di na sa-bor-ngin i do bin-sar pa-non-dang di ton-din-ta i,
+> Pa-dao-hon sa-lu-hut na sim-par, lao pa-ti-ur-hon sa-su-de.
+#B
+0 2 2 2 |
+3 5 5 #4 | 5 . 0 5 | 3 1 6 4 | 3 2 1 . |]
+> Son-da-ngon ni Pa-non-dang on mu-se san-dok por-ti-bi on.
+#V
+Di na saborngin i do binsar panondang di tondinta i,
+Padaohon saluhut na simpar, lao patiurhon sasude.
+Sondangon ni Panondang on muse sandok portibi on.
+-
+Ianggo ho, ale tondingku, sai jangkon ma Panondang i!
+Sai unang ma lea rohamu dibaen hametmetonna i;
+Pabalionna do sude, Sibolis dohot dosa pe.
+-
+Panondang on do papatarhon na so hea niidami
+Dibahen i sai hangoluhon, sondangNa i tu tondimi;
+Ai i do hasonanganmi di na lao sego sasude.
+-
+Dibahen i sai marsinondang ma baen haporseaonmI;
+Padenggan jala sai patorang roham ro di parangemi,
+Paboa na marguna do Panondang na ro i di ho.
+-
+Jesus, Panondang na umuli na pasonangkon rohangki,
+Togihon ma tondingku muli tu surgo, tu ingananmi!
+Sai pujionku Ho disi saleleng ni lelengna i.

@@ -1,0 +1,36 @@
+@be 389
+@bl 258
+@title Ale dongan ro tu Jesus
+@key D
+@meter 9/8
+@credit Charles C. Case 1918
+@pages 373 374
+@check Kepala lagu juga mencetak "Ev. II No. 31". Ayat 4 dan nama komponis ada di atas hlm 374.
+@check Tanda mula tercetak dua kres (F, C) → D mayor; not pertama A4 = 5.
+@check Birama 9/8: 1 token = 1 not 1/8. Angka sering tanpa titik penuh ("6 5", "4 . 3 4 . 2 .", ketukan gantung "5 . i . ."); durasi dilengkapi dari not balok: "6 . 5", "4 . 3 4 . . 2 . .", ketukan gantung "5 . 1'".
+@check Lirik "si-lu- / ro!" (akhir baris 2 ke baris 3) ditulis apa adanya.
+@status Lirik dicek · 7/9 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L2 kata 7 ("siluro", tercetak "si-lu- / ro!") dan L8 kata 3.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 389) | https://bukuende.wordpress.com/2013/06/09/ale-dongan-ro-tu-jesus-buku-ende-no-389-buku-logu-no-258/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 . 1' | 7 . . 2 . . 7 . 6 | 5 . . 3 . . 6 . 5 | 4 . . 2 . . 5 . 4 |
+(3 . . 3) . . 5 . 1' | 7 . . 2 . . 7 . 6 | 5 . . 3 . . 6 . 5 | 4 . 3 4 . . 2 . . |
+(1 . . 1) . . 1' . 7 | (6 . . 6) . . 7 . 6 | (5 . . 5) . . 6 . 5 | 4 . 3 4 . . 5 . . |
+(2 . . 2) . . 1' . 7 | (6 . . 6) . . 7 . 6 | (5 . . 5) . . 6 . 5 | 4 . 3 4 . . 2 . . | (1 . . 1) . . |]
+> A-le do-ngan, ro tu Je-sus, naeng pang-ku-li-ngan-Na ho, U-nang toi-shon pan-jou-on-Na, ro tu Je-sus, si-lu-ro! Ro nu-aeng, ro nu-aeng, Je-sus do ma-na-gam ho, ro nu-aeng, ro nu-aeng, Je-sus do ma-na-gam ho.
+#V
+Ale dongan, ro tu Jesus, naeng pangkulinganNa ho,
+Unang toishon panjouonNa, ro tu Jesus, siluro!
+:,: Ro nuaeng, ro nuaeng, Jesus do managam ho. :,:
+-
+Boan dosami tu Jesus unang leleng togang be.
+Dipalua do tondimu sian arsak sasude.
+:,: Ro nuaeng....
+-
+Ndang boi sonang be tondimu baenon ni portibi on.
+Sada sipasonang roha, Jesus Kristus do tongon.
+:,: Ro nuaeng...
+-
+Boan nasa haboratan, nasa ganggu ni roham.
+Sai haposi ma gogoNa, sonang ho, sabam roham.
+:,: Ro nuaeng...

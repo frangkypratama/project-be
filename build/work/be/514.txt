@@ -1,0 +1,35 @@
+@be 514
+@bl 395
+@title Sai lului dongan na mago,
+@key A
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 486
+@status Lirik dicek · 6/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 6 dari 10 baris sama; beda: L2 (boan na ni ago), L8, L9 (kata 11 berbeda), L10. Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 514) | https://bukuende.wordpress.com/2013/06/18/sai-lului-dongan-na-mago-buku-ende-no-514-buku-logu-no-395/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "Ret. No. 192".
+@check Birama "2 . . 3 . 2" (baris 3) tercetak tanpa garis atas; not balok B 1/2 bertitik, Cis 1/8 bertitik, B 1/16, ditulis 2 . . 3+.+.+2.
+#A
+3,+.+.+4, | 5, .+5, 6, 5, | 5, (1 1) 1+.+.+2 |
+3 .+1 2 2 | 1 . . :|
+> Sai lu-lui do-ngan na ma-go, ha-top sal-pu a-ri-mi,
+> Mu-lak bo-an na ni a-go, so tung sal-pu a-ri-mi,
+#B
+1+.+.+2 | 3 .+2 3 4 | 5 . . 3+.+.+4 |
+5 .+3 4 3 | 2 . . 3+.+.+2 | 1 .+2 1 6, | 5, . . 1+.+.+2 |
+3 .+1 2 2 | 1 . . 1+.+.+2 | 3 . . 1+.+.+6, | 5, . . 1+.+.+3 | 5 . . 3+.+.+1 |
+2 . . 1+.+.+2 | 3 3 2 1 | 5, . . 1+.+.+2 | 3 .+1 2 2 | 1 . . |]
+> Son-dang ni Tu-han-mu ho, pai-ma nang a-jal-mu ro. So tung lem-ba ro-ha-mi, ha-top sal-pu a-ri-mi. Ha-top ni ting-ki i. ha-top ni ting-ki i. Tung go-dang u-la-on-Mi, Ha-top sal-pu a-ri-mi
+#V
+Sai lului dongan na mago, hatop salpu arimi,
+Mulak boan na ni ago, so tung salpu arimi,
+Sondang ni Tuhanmu ho, paima nang ajalmu ro.
+So tung lemba rohami, hatop salpu arimi.
+Hatop ni tingki i. hatop ni tingki i.
+Tung godang ulaonMi, Hatop salpu arimi
+-
+Hatuiton do niula, hatop salpu arimi.
+So tung mago ho, pangula, so tung salpu arimi. Topot na tarhurung i
+Boan Jesusmi tusi, Jesus haluaon i. So tung salpu tingki mi,
+;,; Hatop ni tingki :,: Tung godang ulaonmi, Hatop salpu arimi

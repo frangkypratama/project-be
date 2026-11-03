@@ -1,0 +1,34 @@
+@be 394
+@bl 400
+@title O Jesus Tuhanki.
+@key G
+@meter 4/4
+@credit Lowell Mason 1872
+@pages 378
+@check Kepala lagu juga mencetak "R.L. No. 444". Judul bagian di kepala halaman: "Dapothon ma Jesus" (394–395).
+@check Angka 1 di lagu ini tercetak mirip "i" (bertitik atas), tetapi paranada G4 (oktaf tengah); ditulis 1.
+@check Birama akhir baris 1 "1 . . ." tercetak 4 ketuk; paranada not 1/2 bertitik sebelum :||.
+@status Lirik dicek · 5/10 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L1, L3, L4, L6 dan L9 kata 7 (buku jelas "Sai i pargogongki").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 394) | https://bukuende.wordpress.com/2013/06/16/o-jesus-tuhanki-buku-ende-no-394-buku-logu-no-400/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 1 2 | 3 .+2 1 . | 2 . 1 7, | 1 . . . :|
+> O Je-sus Tu-han-ki, si-hop-hop au!
+> Ma-si-hol au di Ho, naeng Ho di au!
+#B
+5 . 6 5 | 5 (4+3) 4 . | 4 . 5 4 | 4 (3+2) 3 . |
+6 . 4 6 | 5 .+3 5 . | 1 . 2 7, | 1 . . . |]
+> Tan-da do ho-long-Mi, so-nang ma ro-hang-ki ma-ni-op ta-ngan-Mi na lam-bok i.
+#V
+O Jesus Tuhanki, sihophop au!
+Masihol au di Ho, naeng Ho di au!
+Tanda do holongMi, sonang ma rohangki
+Maniop tanganMi na lambok i.
+-
+Dosangku sasude, na dokdok i, na huarsakkon do,
+Sai sesa i! Sai pargogoi au on mangalo rohangkon.
+Roha portibi i, taluhon i.
+-
+Naeng tong maringan au di dameMi;
+Sai togu rohangki tu hataMi. Sai i pargogongki manulus dalanki,
+Paima tolhas au tu jabuMi.

@@ -1,0 +1,38 @@
+@be 632
+@bl 0
+@title Nunga hehe Kristus
+@key F
+@meter 4/4
+@credit Syair dan Lagu: Pdt. J. A. U. Doloksaribu, 1997
+@pages 639 640 641
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Mark 16:6; 1 Kor 15:58.
+@check Bagian "Lam sumurung …" bertanda ulang dengan volta 1 dan 2 (lirik sama, "(2x)" di ayat); di sini ditulis lengkap dua kali.
+@check Birama 2: angka "6 6‿0 0 6 6" (6 6 terakhir = dua 1/8); balok tampak dua not 1/4 → angka diikuti.
+@check Volta 1 dan 2: angka mulai dengan "1 ." (F), balok tampak G setengah → angka diikuti.
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 1 baris 2–4 (teks ayat 1 disusun dari lirik di bawah not: pemenggalan 'Radot ma …' & 'Amen'), ayat 2 'heheKristus' (spasi hilang di buku). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 632) | https://bukuende.wordpress.com/2013/06/16/nunga-hehe-kristus-buku-ende-no-632-buku-logu-no-632/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+6 .+5 3 .+5 | 6 6+0 0 6+6 | 5 .+3 (3+.+.+2 3)+5 | (5 . 5)+0 0 |
+> Nu-nga he-he Kris-tus mar-si-ho-hot ma ha-mu.
+#B
+3 .+2 1 .+1 | 2 . 2 2+2 | 3 .+1 (2+.+.+3 2)+1 | 1 . 1 0 |
+3 .+2 1 .+1 | 2 . 2 2+2 | 3 .+1 (2+.+.+3 2)+1 | 1 . 1+.+.+3 3+.+.+1 |
+2+2 2+2 3+3 2+.+.+3 | 2+1 . 0+3 3+.+.+1 |
+2+2 2+2 3+3 2+.+.+3 | 2+(1 1) 0 0 | (6 . 1' .) | 1' . . . |]
+> Lam su-mu-rung hi-ta di u-la-on ni Tu-han-ta Lam su-mu-rung hi-ta di u-la-on ni Tu-han-ta ra-dot ma hi-ta lao ma-ngu-la tu Tu-han-ta ra-dot ma hi-ta lao ma-ngu-la tu Tu-han-ta A-men.
+#V
+Nunga hehe Kristus marsihohot ma hamu.
+Lam sumurung hita di ulaon ni Tuhanta. (2x)
+Radot ma hita lao mangula tu Tuhanta,
+radot ma hita lao mangula tu Tuhanta. Amen.
+-
+Nunga heheKristus marlas roha ma hamu.
+Lam benget ma hita di sude parungkilonta. (2x)
+Jugul ma hita martangiang tu Tuhanta,
+jugul ma hita martangiang tu Tuhanta.
+-
+Nunga hehe Kristus lam margogo ma hamu.
+Lao manghamonanghon paraloan dingolunta (2 x)
+Paima monang hita di paraloanta,
+paima monang hita di paraloanta.

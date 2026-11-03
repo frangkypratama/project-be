@@ -1,0 +1,37 @@
+@be 73
+@bl 74
+@title Bintang ni si Jakob i
+@key F
+@meter 4/4
+@credit Johann Ulich, 167(?), Choral Buch 146
+@pages 64 65
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Judul di kepala lagu "Ndang tadingkononku Ho 2" (nama Logu No. 74); judul di sini memakai baris pertama lirik.
+@check Kredit dicetak "Johann Ulich 167. Choral Buch 146" (tahun terpotong); ditulis apa adanya.
+@check Pembanding lirik: bukuende.wordpress.com — 11 dari 12 baris sama persis; 1 baris beda ejaan (ayat 4 "sombangki"); belum dicek ulang ke scan. Di situs judulnya "Ndang Tadingkononku Ho.2".
+@ref Lirik pembanding: bukuende.wordpress.com (BE 73) | https://bukuende.wordpress.com/2013/06/16/ndang-tadingkononku-ho-2-buku-ende-no-73-buku-logu-no-74/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 3 5 2 | (1+2) 3 2 . v | 2 2 3 5 |
+6 5 (5 4) | 3 . . 0 :|
+> Bin-tang ni si Ja-kob i, pi-nar-ba-ga ni Ja-ho-wa,
+> Na ring-kot do ro-hang-ki pa-sa-ngap-hon Ho, pa-bo-a:
+#B
+2 2 (3+#4) 5 |
+5 #4 5 . | 3 5 4 3 | 2 2 1 . |]
+> Na hu-ha-ho-lo-ngi Ho, na dung si-an sur-go ro.
+#V
+Bintang ni si Jakob i, pinarbaga ni Jahowa,
+Na ringkot do rohangki pasangaphon Ho, paboa:
+Na huhaholongi Ho, na dung sian surgo ro.
+-
+Sere naeng hulehon do, i ma haporseaonku;
+Ai naung dilopokkon Ho i tu au baen ugasanku.
+Sai polin ma serengki nang di haporsuhon i.
+-
+Timus ni haminjon i na manaek tu habangsaMu,
+Tangiangku nama i na huboan tu joloMu,
+Sai pasiat hatangki na mamuji goarMi.
+-
+Dohot mir huboan do i ma arsak ni rohangku,
+Ala huarsahi Ho dohot godang ni dosangku.
+Sesa nasa dosangki jala jalo sombangki.

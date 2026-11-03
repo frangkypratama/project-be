@@ -1,0 +1,46 @@
+@be 691
+@bl 0
+@title Hupasahat ma tu Jesus
+@key Eb
+@meter 4/4
+@credit Syair: All for Jesus; Mary D. James; Lagu: NN; Terj.: Pdt. J.A.U. Doloksaribu
+@pages 721 722
+@status Lirik dicek · 11/13 baris sama dgn pembanding
+@check Pembanding lirik: baris 8, 12 beda ejaan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 691) | https://bukuende.wordpress.com/2013/06/13/hupasahat-ma-tu-jesus-buku-ende-no-691-buku-logu-no-691/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 691.
+@check Birama "1 . ." dan "3 . ." (akhir bait & tengah reff) tercetak dengan 2 titik, balok = not penuh (4 ketuk) → ditulis 4 ketuk. Not terakhir reff tercetak "| . . ." (angka 1 tidak tercetak), balok = Es4 penuh → ditulis 1 . . .
+#A
+3 .+3 3+3 2+3 | 5 . 3 . | 2 .+2 5+5 4+2 |
+3 . . . | 3 .+3 3+3 2+3 | 5 . 3 . |
+2 .+2 5+5 4+2 | 1 . . . |]
+> Hu-pa-sa-hat ma tu Je-sus sa-lu-hut-na ngo-lung-ki, ro-ha nang pam-ba-e-nan-ku sa-lu-hut-na ting-king-ki.
+#B
+6 .+6 4+4 6+6 | 5 . 3 . | 2 .+2 5+5 4+2 | 3 . . . |
+6 .+6 4+4 6+6 | 5 . 3 . | 2 .+2 5+5 4+2 | 1 . . . |]
+> Hu-pa-sa-hat ma tu Je-sus sa-lu-hut-na di-ring-ki, hu-pa-sa-hat ma tu Je-sus sa-lu-hut-na ngo-lung-ki.
+#V
+Hupasahat ma tu Jesus saluhutna ngolungki,
+roha nang pambaenanku saluhutna tingkingki.
+Ref: Hupasahat ma tu Jesus saluhutna diringki,
+hupasahat ma tu Jesus saluhutna ngolungki.
+-
+Pangkeonku ma tanganku, mangula lomoNa i.
+langka nang simanjojakku mangihuthon Tuhanki.
+Ref: Hupasahat ma . . .
+-
+Nang pamereng ni matangku, mandompakkon Jesus,
+soara ni pamanganku, mamuji goarNa i.
+Ref: hupasahat ma . . .
+-
+Dung huida Tuhan Jesus, hutundalhon dosangki
+lohot rohangki tu Jesus, Sipalua tondingki
+Ref: Hupasahat ma . . .
+-
+Tarhalomong do rohangku dipandok ni Tuhanku,
+ale-ale ni Tuhanku, au di goar Jesus i.
+Ref: Hupasahat ma . . .
+-
+Mauliate ma rohangku, ala au hinonghopMi.
+pujionku ma goarMu, salelengna i.
+Ref: Hupasahat ma . . .

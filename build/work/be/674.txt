@@ -1,0 +1,30 @@
+@be 674
+@bl 0
+@title Dihaholongi do ho
+@key A
+@oct -1
+@meter 3/4
+@credit Syair & Lagu: O How he loves You and me, Kurt Kaiser. · Terjemahan: Pdt. J.A.U. Doloksaribu
+@pages 698 699
+@status Lirik dicek · 5/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 3 ("ndang na tarasam" — scan jelas "ndang na tar-a-sam"), baris 5–6 (ejaan). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 674" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 674) | https://bukuende.wordpress.com/2013/06/13/dihaholongi-do-ho-buku-ende-no-674-buku-logu-no-674/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0).
+@check Nada dasar: tanda mula 3 kres (A mayor). Not 3 = Cis4 (garis bantu bawah), 1' = A4 → do = A3 (@oct -1).
+@check Lengkung "1' . . | 1' . ." dan "3' . . | 3'" = not diikat. Akhir lagu bertanda ulang (untuk ayat 2).
+#A
+3 3 4 | 5 6 7 | (1' . . | 1') . . |
+6 6 7 | 1' 1' 2' | (3' . . | 3') . 0 | 3' 4' 3' |
+2' . 3'+2' | 1' 2' 3' | 1' . . | 5 1' 7 | 6 2' . |
+5 1' 7 | 6 2' . | 5 1' 7 | 6 2' 7 | (1' . . | 1') . . |]
+> Di ha-ho-lo-ngi do ho, di ha-ho-lo-ngi do au, ho-sa-Na do di-se-a-hon tu ho, ndang na tar-a-sam ho-long ro-ha-Na pa-lu-a hi-ta su-de.
+#V
+Dihaholongi do ho, dihaholongi do au,
+hosaNa do diseahon tu ho,
+ndang na tarasam holong rohaNa
+palua hita sude.
+-
+Jesus lao tu Golgota, tarsilang singkatta be,
+ndang mao be na porsea muse,
+ndang tarasam holong rohaNa.
+palua hita sude.

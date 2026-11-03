@@ -1,0 +1,41 @@
+@be 246
+@bl 116
+@title Jesus urupi
+@key E
+@meter 3/4
+@credit Köthen, 1733
+@pages 225 226
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan "tadingkuon", "roangku", "masungku"; dicek ulang ke scan: tercetak demikian di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 246) | https://bukuende.wordpress.com/2013/06/16/jesus-urupi-buku-ende-no-246-buku-logu-no-116/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Buku menulis "Kothen 1733" (kota Köthen).
+#A
+1 5, 1 | 3 .+2 1 | 3 3 #4 | 5 5 . v |
+5 5 5 | 1' 5 3 | 6 5 3 | 2 . . :|
+> Je-sus, u-ru-pi, pa-mo-nang ma ha-mi, Ta-tap ma go-go ni na ho-lom i,
+> Na so man-sa-di ma-ngong-gop di ha-mi, Naeng pol-ga-han-na do ha-mi su-de.
+#B
+2 2 2 | 7, .+6, 5, | 4 5 3 | 2 2 . v |
+1 3 5 | 1' 5 4 | 3 4 2 | 1 1 . |]
+> Sai di-ping-ki-ri si-bo-lis da-lan-na. ma-nang be-ha au tong-tong ar-sa-han-na.
+#V
+Jesus, urupi, pamonang ma hami, Tatap ma gogo ni na holom i,
+Na so mansadi mangonggop di hami, Naeng polgahanna do hami sude.
+Sai dipingkiri sibolis dalanna. manang beha au tongtong arsahanna.
+-
+Jesus pamonang au, Ho do manobus jala nampuna au on do tongtong
+Holan tu Ho nama ahu maporus mida pangela ni portibi on.
+Molo sai masirapusan rohangku, unang tadingkuon au, ale Tuhanku!
+-
+Jesus pamonang au, sai huhilala,
+Dokdok ni dosa sude na hubaen; Sai dipaingot rohangku do sala,
+Angka na sian posongku hubaen.
+Loas ma i paserephon roangku, jala paingot ma au di mudarMu.
+-
+Jesus, pamonang au jala intopi api ni hisap ni daging di au;
+Togang ma au molo naeng manolopi tahi ni roha na jahat i au;
+Ho ma, o Jesus manggohi rohangku asa malua au sian masungku.
+-
+Jesus, pamonang au molo marujung ariaringku di na rodop on
+Ho ma patauhon au asa diusung surusuruan au on tu joloM,
+Jesus, urupi au jala pamonang asa tongtong di lambungMu au sonang.

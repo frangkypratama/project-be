@@ -1,0 +1,42 @@
+@be 96
+@bl 101
+@title Nunga talu hamatean
+@key G
+@meter 3/4
+@credit Theodor Kubler, Abad 19
+@pages 86 87
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 96) | https://bukuende.wordpress.com/2013/06/16/nunga-talu-hamatean-buku-ende-no-96-buku-logu-no-101/ | 12/12 baris sama
+@check Pola not bergaris satu + garis dua ("5 . 5") = 1/8 bertitik + 1/16 → ditulis 5+.+.+5.
+@check Bagian Haleluya memakai volta (akhir 1 "4 . 4 3 . 2 | 3 ." lalu ulang; akhir 2 "4 . 4 3 . 2 | 1 ."); di sini ditulis dua kali berurutan (bagian B dan C).
+@check Ayat 2–4 di buku: ":,: Haleluya d.u." (= refrein Haleluya).
+#A
+5+.+.+5 | 5 .+3 2+.+.+3 | 1 5, v 1+.+.+1 |
+2 .+4 3+.+.+2 | 3 . v 5+.+.+5 | 5 .+3 2+.+.+3 | 1 5, v 1+.+.+1 |
+2 .+4 3+.+.+2 | 1 . |
+> Nu-nga ta-lu ha-ma-te-an di-baen Tu-han Je-sus i; Ai na he-he do I-ba-na, son-gon na ni-dok-Na i.
+#B
+1+.+.+1 | 6 .+6 6+.+.+6 |
+5 3 v 3+.+.+5 | 4 .+4 3+.+.+2 | 3 . |
+> Ha-le-lu-ya, Ha-le-lu-ya! Nu-nga he-he Je-sus i.
+#C
+1+.+.+1 | 6 .+6 6+.+.+6 |
+5 3 v 3+.+.+5 | 4 .+4 3+.+.+2 | 1 . |]
+> Ha-le-lu-ya, Ha-le-lu-ya! Nu-nga he-he Je-sus i.
+#V
+Nunga talu hamatean dibaen Tuhan Jesus i;
+Ai na hehe do Ibana, songon na nidokNa i.
+:,: Haleluya, Haleluya! Nunga hehe Jesus i. :,:
+-
+Ia angka boruboru lao do tu tanoman i;
+Ndang disi be Tuhan Jesus nunga hehe sian i.
+:,: Haleluya d.u.
+-
+Marlasroha be ma hita ala hehe Jesus i;
+Ai malua sude hita sian hamagoan i.
+:,: Haleluya d.u.
+-
+Sai tapuji ma Tuhanta na marholongroha i,
+Tapasangap ma Ibana na marasiroha i.
+:,: Haleluya d.u.

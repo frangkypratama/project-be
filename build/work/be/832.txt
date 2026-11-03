@@ -1,0 +1,34 @@
+@be 832
+@bl 0
+@title Pintu na sasada
+@key G
+@meter 2/4
+@credit Syair: Pintu satu-satunya Tuhan Jesus, LS. Kijne (1899-1970) · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: Joseph David Jones, 1827-1870 · (Joh. 10:7; Mat. 6:13-14)
+@pages 919 920
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 832) | https://bukuende.wordpress.com/2013/06/16/pintu-na-sasada-buku-ende-no-832-buku-logu-no-832/ | dibandingkan per baris
+@check Buku tidak mencetak nomor Logu → @bl 0.
+@check Birama 2: "sa - - sa": suku kata pertama "sa" ada di bawah A, not B berikutnya tanpa suku kata (angka tanpa legato) → ditulis "sa _".
+#A
+3 5 | 1 2+3 | 4 3 | 2 . |
+3 4 | 2 . | 1 . | 3 5 | 1 (2+3) | 4 3 | 2 . |
+7, 1 | 6, . | 5, . | 5, 1 | 7, 5, | 1 2 |
+3 . | 3 5 | (5 #4) | 5 . | 3 5 | 1 (2+3) |
+4 3 | 2 . | 3 4 | 2 . | 1 . |]
+> Pin-tu na sa _ sa-da i, i ma Je-sus, ti-gor do da-lan-Na i, i-ma tu-lus, sai tos-to-si i-hot i, ro tu Je-sus, be-ta por-san si-lang-mi so-ngon Kris-tus.
+#V
+Pintu na sasada i, i ma Jesus,
+tigor do dalanNa i, ima tulus,
+sai tostosi ihot i, ro tu Jesus,
+beta porsan silangmi songon Kristus.
+-
+Hata na badia i sian ginjang,
+sai radoti hata i hangoluan,
+angkal ni parjahat i hamagoan,
+Tondi Parbadia i, hasintongan.
+-
+Anak hatiuron i na porsea,
+sai radoti hata i hangoluan,
+mangihuthon Jesus i pos rohanta,
+nunga mungkap surgo i sambulonta.

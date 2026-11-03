@@ -1,0 +1,31 @@
+@be 376
+@bl 251
+@title Ise na di pintu i
+@key Db
+@meter 4/4
+@credit Lagu : E.O. Excell 1921
+@pages 360 361
+@status Lirik dicek · 7/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 9 baris sama; beda ejaan di baris 1 (manuktuk) dan 3 (Tuhanmi); sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 376) | https://bukuende.wordpress.com/2013/06/16/ise-na-di-pintu-i-buku-ende-no-376-logu-no-251/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian "Dijou Tuhan i do ho!". Kepala lagu juga mencetak "V. No. 129". Baris 1 hlm 360 tertutup coretan tinta di scan; not dibaca dari not balok dan pola baris 2 (5 3̇ 1̇ 6 | 5 . . 0 | 5 . . 6).
+@check Baris 3 birama 3: angka dan not balok tercetak "5 . 3̄ 4̄" (1/2 + dua 1/8 = 3 ketukan); ditulis 5 . . 3+4 seperti birama sejajar di baris 2 agar genap 4/4. Perlu dicek.
+@check "nuaeng" dinyanyikan nu-aeng (2 not), sesuai jumlah suku kata ayat 2.
+#A
+3+4 | 5 3' 1' 6 | 5 . . 0 | 5 . . 6 |
+5 . . 3+4 | 5 3' 1' 6 | 5 . . 0 | 5 . . (6+7) |
+1' . . 5+5 | 6 1' 7 6 | 5 . . 3+4 | 5 1' 7 6 |
+2' . . 3'+2' | 1' 5 6 6 | 5 . . 0 | 5 . . (6+7) | 1' . . |]
+> I-se na di pin-tu i? Ung-kap ma! Na jot-jot ma-nuk-tuk i. Ung-kap ma? Ai di pin-tu ni ro-haM jong-jong do nu-aeng Ra-jam. Je-sus Kris-tus Tu-han-mi. Ung-kap ma!
+#V
+Ise na di pintu i? Ungkap ma! Na jotjot manuktuk i.
+Ungkap ma? Ai di pintu ni rohaM jongjong do nuaeng Rajam.
+Jesus Kristus Tuhanmi. Ungkap ma!
+-
+Bege soaraNa i! Ungkap ma, jala loas masuk i,
+Loas ma! Asa bongot Jesus i mambaen las ni rohami,
+Salelenglelengna i. Loas ma!
+-
+Unang toishon Jesus i, ungkap ma, jangkon alealemi,
+Ungkap ma! Na manesa dosami, na mamboan dame i,
+Na manogu, tondimi, tu surgo i.

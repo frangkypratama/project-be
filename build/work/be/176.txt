@@ -1,0 +1,38 @@
+@be 176
+@bl 3
+@title Na mungkap do surgo
+@key Bb
+@meter 3/4
+@credit Lagu: Basel 1875
+@pages 159 160
+@status Lirik dicek · 9/14 baris sama dgn pembanding
+@check Pembanding lirik: baris 3, 4, 7, 9, 12 beda ejaan satu kata (Golgata, Disi, hasumba, mangkolsohon, muse); dicek ulang di scan: tercetak seperti ditulis.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 176) | https://bukuende.wordpress.com/2013/06/16/na-mungkap-do-surgo-buku-ende-no-176-buku-logu-no-3/ | 9/14 baris sama
+@check Baris kedua diulang (|: ... :|) dengan lirik yang sama; di ayat ditandai ":,:".
+#A
+5, | (1+5,) 5, (6,+4,) | (4,+3,) 3, (1+2) | 3 3 (5+3) | 2 . |
+> Na mung-kap do sur-go, di-baen a-ha do
+#B
+5, | 4 (4+3) 2 | 3 3 1 | 2 2 7, | 1 . :|
+> Di-baen naung ro Je-sus ma-ngung-kap di ho
+#V
+Na mungkap do surgo, dibaen aha do
+:,: Dibaen naung ro Jesus mangungkap di ho.
+-
+Dosam do tinaonNa di Golgata i,
+:,: Disi dipasae do sude utangmi.
+-
+Antong, o tondingku tu Jesus ma ro,
+:,: Ai las do rohaNa manjangkon nang ho.
+-
+Tar songon hasumba rara dosami,
+:,: Sesaon ni mudar ni Jesus do i.
+-
+Roham mangkolsohon parsorionmi,
+:,: Tu Jesus pasahat sude arsakmi.
+-
+Neang bahenonNa na hansit sude,
+:,: Basar ho ditogu tu surgo muse.
+-
+O Jesus, sai Ho do parjambaranki
+:,: Pasonang rohangku pasabam ma i!

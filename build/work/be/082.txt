@@ -1,0 +1,26 @@
+@be 82
+@bl 21
+@title O, Jesusku, tu bugangMu
+@key G
+@meter 4/4
+@credit Grafschaft Glatz Schlesien
+@pages 73
+@status Lirik dicek · 6/6 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 82) | https://bukuende.wordpress.com/2013/06/16/o-jesusku-tu-bugangmu-buku-ende-no-82-buku-logu-no-21/ | 6/6 baris sama
+@check Baris kredit terpotong di scan ("Lagu Grafschaft Glatz Schlesien cbad 1?"); tahun tidak terbaca.
+@check Birama 6 dicetak "1  2 3" tanpa titik; not balok buku menunjukkan 1 sebagai not 1/2.
+#A
+1 . 2 . | (4 3) 3 . v | 5 . (4 3) | (3 2) 2 . v | 2 . (3 2) |
+1 . (2 3) | 4 . 3 . | 2 . . 0 | 2 . (3 4) | (3 2) 2 . v |
+2 . (3 4) | (3 2) 2 . v | 1 . 2 . | 3 . (5 4) | 3 . 2 . | 1 . . 0 |]
+> O Je-sus-ku, tu-bu-gang-Mu ro mar-som-ba ro-hang-kon. Sai tar-pu-ji, sai tar-pu-ji na pa-ma-lum ton-ding-kon.
+#V
+O Jesusku, tu bugangMu ro marsomba rohangkon.
+Sai tarpuji, sai tarpuji na pamalum tondingkon.
+-
+Tung di patMu, o Jesusku, solsolanku rohangki,
+Tangisanku na tinaonMu ala jat ni rohangki.
+-
+Tu tanganMu ma tondingku, jumpa hamamatengki,
+Tu lambungMu, o Tuhanku, alap na tinobusMi!

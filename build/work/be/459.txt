@@ -1,0 +1,40 @@
+@be 459
+@bl 310
+@title Sonang do langkangku
+@key G
+@meter 3/4
+@credit Wilhelm Knieplamp 1894
+@pages 439 440
+@check Kepala lagu juga mencantumkan "Jug. L. No. 199". Judul kepala "Sonang do langkangku"; baris pertama lirik "Sonang do langkalangkangku".
+@check Baris 2 birama 4 "2 5 5 4 2": not balok = A 1/4, D4 1/8, D5–C5 (legato), A 1/8 → ditulis 2 5,+(5 4)+2 (5 pertama tanpa titik bawah di angka; balok D4).
+@check Baris 4 birama 1 "5 . 5 . 6": 3 not untuk "Ho-lan" (letak lirik: "Tu-" di birama berikut) → "lan" ditahan ke not 6 (_).
+@check Baris 4 birama 3 "4 3 3 1 3": tiga not terakhir bertanda 3 (triol) di balok → ditulis (3+1)+3. Nama komponis ditulis sesuai buku ("Knieplamp").
+@status Lirik dicek · 12/16 baris sama dgn pembanding
+@check Pembanding lirik: L3 (halisungsung), L9 (kata hilang di pembanding), L12 (Haleson), L16 (AbingonNa) beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 459) | https://bukuende.wordpress.com/2013/06/18/sonang-do-langkangku-buku-ende-no-459-buku-logu-no-310/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3+.+.+2 | 2 1 1+.+.+2 | 1 7, 4+.+.+3 | 3 2 5+.+.+4 |
+3 0 3+.+.+4 | 3 2 2+.+.+1 | 1 7, 2+.+.+#1 | 2 5,+(5 4)+2 |
+1 0 1+.+.+7, | 7, 6, 2+.+.+1 | 1 7, 2+.+.+3 | 4+2 6+.+.+5 5 |
+5 . 5+.+.+6 | 5 4 4+.+.+2 | 4 3 (3+1)+3 | 5+.+.+4 3 2 | 1 . |]
+> So-nang do lang-ka-lang-kang-ku, lao ma-mo-lus ta-no i, Ndang boi si-rang be ro-hang-ku si-an Je-sus. Tu-han-ki, ja-la ro pe ha-ba-ha-ba mo-nang ha-li-sung-sung pe Ho-lan _ Tu-han-ki hu be-reng ga-be de-mak i mu-se
+#V
+Sonang do langkalangkangku, lao mamolus tano i,
+Ndang boi sirang be rohangku sian Jesus. Tuhanki,
+Jala ro pe habahaba monang halisungsung pe
+Holan Tuhanki hubereng gabe demak i muse
+-
+Uju mate Tuhan Jesus di hau pinarsilang i,
+Dohot au disi ditobus, ala ni las rohangki.
+Dibaen i hibul hulehon daging dohot tondingki.
+Tuhan Jesus nampunasa, tung so boi be sirang i.
+-
+Malum au dibaen bugangNa, ias dibaen mudar i.
+Tung na sonang do rohangku, Jesus pardameanki.
+Dihosomi jolma ahu insahinsak ndang boi so.
+Haleson ni Tuhanku olo porsanonku do.
+-
+Jala ho, ale donganku, tongtong loja, sorat ho.
+Dohot ho mangido sonang, hatop ma tu Jesus ro,
+Holan Jesus pasonangkon rohami na marsak i.
+AbingonNa ho, na loja, ro tu ampuanNa i.

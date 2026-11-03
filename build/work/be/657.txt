@@ -1,0 +1,36 @@
+@be 657
+@bl 0
+@title Uli na i HuriaMi
+@key Eb
+@meter 3/4
+@credit Syair & Lagu: Gr. Diapari Simanungkalit
+@pages 676 677
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Ketukan gantung tercetak 3 not 1/8 (3 | 2 3) dan not akhir 5 bertitik (1/4 bertitik); ditulis "0+3 2+3" dan "5 .+0" — tanda diam 1/8 tambahan hanya pengisi ketukan, tidak tercetak.
+@check Birama "5 . 4" (baris 6): angka 3 ketuk, balok tampak Bes4 1/4 + As4 1/4 — ditulis sesuai angka.
+@check "ta-ngiang" (baris 3): suku kata "ngiang" di bawah dua not 1/8 (#1 2) tanpa busur → ditulis "ngiang _".
+@status Lirik dicek · 10/11 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (napinapungupunguMi, pemisahan kata) beda.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 657) | https://bukuende.wordpress.com/2013/06/18/uli-na-i-huriami-buku-ende-no-657-buku-logu-no-657/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+0+3 2+3 | 5 .+5 #4+5 | 1' . 6 |
+2+.+.+3 4+7 6+.+.+5 | 5 .+3 2+3 | 5 .+5 #4+5 |
+1' .+1' 7+6 | 5+.+.+7 7 5 | 1' . #4 | 5 0+2 #1+2 |
+4 .+4 3+5 | 2 .+2 #1+2 | 6 .+6 5+3 |
+2 0+5, 6,+7, | 1 .+7, 1+2 | 3 .+1 2+3 |
+4 .+3 4+5 | 6 .+6 7+1' | 1' . (7+6) | 5 . 4 |
+3 .+6 7+1' | 1' . (3+6) | 6 . 5 | 5 .+0 |]
+> U-li na i Hu-ri-a-Mi na-pi-na-pu-ngu-pu-ngu-Mi mar-pu-ngu do su-de-na i ma-mu-ji Ho Tu-han na sa-ngap i, ta-ngiang _ nang en-de-na i na pa-sa-ngap-hon go-ar-Mi, sai to-pot ma Hu-ri-a-Mi na pi-na-pu-ngu-pu-ngu-Mi. Tum-pa-hi ma Hu-ri-a-Mi, tum-pa-hi ma Hu-ri-a-Mi.
+#V
+Uli na i HuriaMi napinapungupunguMi
+marpungu do sudena i mamuji Ho Tuhan na sangap i,
+tangiang nang endena i na pasangaphon goarMi,
+sai topot ma HuriaMi na pinapungupunguMi.
+Tumpahi ma HuriaMi, tumpahi ma HuriaMi.
+-
+Huria ni Tuhanta i, hinophop ni mudarNa i,
+pahot tongtong pingkiranmi,
+maniop Tuhanmi parholong i,
+sai unang olo talu ho, bahenon ni Sibolis i,
+sai pangidohon ma gogo tu Raja ni Huria i.
+Tumpahi ma HuriaMi, tumpahi ma HuriaMi.

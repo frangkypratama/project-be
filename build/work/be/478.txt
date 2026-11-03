@@ -1,0 +1,33 @@
+@be 478
+@bl 408
+@title Sai malungun do
+@key Eb
+@meter 4/4
+@credit U.L. No. 282. · Lagu: Karl Kuhlo 1891.
+@pages 456
+@check Kepala lagu mencetak judul Logu "Sai malungun do" (melodi sama dengan BE 472); baris pertama lirik: "Dohot sihol hupaherbang".
+@check Nada dasar mengikuti BE 472 (letak not di paranada cocok dengan do = Es); tanda mula di scan tidak jelas.
+@check Birama 4 tercetak "2 . 2̄ 3" (tanpa titik sesudah 3); paranada not terakhir 1/2 → ditulis "2 .+2 3 ." seperti BE 472.
+@check Kredit "Lagu : Karl Kuhlo 1891." berbeda dengan BE 472 (melodi sama, "Lagu : Magdalene Fritzche 1863"); ditulis sesuai buku.
+@status Lirik dicek · 9/10 baris sama dgn pembanding
+@check Pembanding lirik: pembanding menulis "siholhu paherbang"; buku mencetak "si-hol hu- paherbang" (suku kata sama). Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 478) | https://bukuende.wordpress.com/2013/06/13/dohot-siholhu-paherbang-buku-ende-no-478-buku-logu-no-408/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 .+2 1 1 | 4 .+3 2 2 | 3 5 4 3 | 2 .+2 3 . |
+5 (6+7) 1' 5 | 6 (5+4) 3 2 | 3 5 (5+4) 3 | 2 2 1 . |]
+> Do-hot si-hol hu-pa-her-bang tu Ho Je-sus ta-ngan-ki. Lao ma-nge-lek Ho o Tu-han ro ma Ho tu ro-hang-ki
+#V
+Dohot sihol hupaherbang tu Ho Jesus tanganki.
+Lao mangelek Ho o Tuhan ro ma Ho tu rohangki
+-
+Rapar, o pabosur ahu, pogos, sai pamora au,
+Loja di pardalananku Jesus, sai urupi au.
+-
+Ndang adong tarboan ahu, tung rumar do tanganki.
+Tu bagasMu ro langkangku, gohi, Jesus rohangki.
+-
+Ho sambing nampuna ahu ndang tarpunjung langkangki,
+Ganup ari dongananmu au hombar tu hataMi
+-
+HamoraonMi, o Tuhan. Ragam ni siluaMi
+Lao pahisar au, o Tuhan lehon ma tu tondingki,

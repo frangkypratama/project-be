@@ -1,0 +1,47 @@
+@be 508
+@bl 348
+@title Sai Patogu
+@key G
+@meter 3/4
+@credit Marcus M. Weills 1895
+@pages 479 480
+@status Lirik dicek · 8/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 8 dari 16 baris sama; beda: L2, L3, L5, L7, L8 (marssak rogangki), L9 (to, sodang), L10 (apoi ao), L12. Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dicek ulang ke scan (zoom 600 dpi); transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 508) | https://bukuende.wordpress.com/2013/06/18/sai-patogu-buku-ende-no-508-buku-logu-no-348/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "E. A. No. 170.". Birama pertama penuh (5 . 5), bukan ketukan gantung.
+@check Birama akhir tercetak "1 . . ." (4 ketuk); not balok 1/2 bertitik (3 ketuk), ditulis 1 . .
+#A
+5, . 5, | 1 . 1 | (3 .+2) 1 | 2 . . | 3 . 4 | 5 . 1 |
+(7, .+1) 2 | 1 . . :|
+> Sai-pa-to-gu ro-hang-ki, a-le Je-sus Tu-han-ki
+> Go-lom do-hot ta-ngan-Mi au di par-da-la-nan-ki
+#B
+4 . 4 | 3 . 3 | (2 .+3) 4 | 3 . . |
+5 . 5 | 3 . 3 | 4 . 3 | 2 . . | 5, . 5, | 1 . 1 |
+(3 .+2) 1 | 2 . . | 3 . 4 | 5 . 1 | (7, .+1) 2 | 1 . . |]
+> Mo-lo lo-ja au di-son par-go-go-i au tong-tong. Dok tu au: Hu-to-gu pe ho tu sur-go i mu-se
+#V
+Sai patogu rohangki, ale Jesus Tuhanki
+Golom dohot tanganMi au di pardalananki
+Molo loja au dison pargogoi au tongtong.
+Dok tu au: Hutogu pe ho tu surgo i muse
+-
+Mian ma di lambungki, molo ro ujian i.
+Unang loas ganggu au sian sinondangMu dao.
+Molo maol dalan i jala ponjot rohangki
+Dok tu au: Hutogu ......
+-
+Ro ma parsahitan i jala marssak rogangki.
+Hatop to ma au tu Ho, di lambungMu sodang do,
+Molo punjung au dison. Sai apoi ao tongtong.
+Dok tu au: Hutogu ......
+-
+Lehon hagogoonMi, maralohon dosa i.
+Unang talu au disi sai marporus musangki.
+Lehon di portibi on hamonangan di au on.
+Dok tu au: Hutogu .........
+-
+Molo suda bohalhi, sai patalak pintuMi.
+Tu adian di jolom, masuk ahu tu jorom,
+Bura hamatean i, tolong au mamolus i.
+Dok tu au: Hutogu ......

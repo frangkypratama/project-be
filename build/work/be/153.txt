@@ -1,0 +1,42 @@
+@be 153
+@bl 126
+@title O Jesus, naung sineat
+@key F
+@meter 4/4
+@credit Mikolaus Decius 1522
+@pages 137 138
+@check Komponis tercetak "Mikolaus Decius" (lazim: Nikolaus Decius).
+@check Baris lirik 2 tercetak "da-ulat"; dinyanyikan 3 suku kata da-u-lat agar sesuai jumlah not.
+@check Birama 3 bagian A: angka "4 3" bergaris lengkung, dibaca dua not 1/8 (sama dengan birama padanan di akhir lagu yang paranadanya jelas 1/8 berbalok).
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: L7 (kata 1, kata 7 tambahan) dan L14 (kata 5–6) beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 153) | https://bukuende.wordpress.com/2013/06/16/o-jesus-naung-sineat-buku-ende-no-153-buku-logu-no-126/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 3 4 5 5 | 6 . 5 v 5 | 1 2 3 (4+3) |
+2 . 1 :|
+> O-Je-sus, naung si-ne-at di hau na pi-nar-si-lang,
+> Ro-haM tong-tong da-u-lat, nang u-ju Ho tar-hi-lang.
+#B
+3 | 3 2 1 7, | (1 6,) 5, v 5 |
+5 4 3 6 | 5 . 3 v 6 | 5 4 3 (4+3) | 2 . 1 |]
+> Mar-u-tang ho-sa ha-mi, di-taon Ho do-sa-na-mi. A-si ro-haM o Je-sus.
+#V
+O Jesus, naung sineat di hau na pinarsilang,
+RohaM tongtong daulat, nang uju Ho tarhilang.
+Marutang hosa hami, ditaon Ho dosanami.
+Asi rohaM o Jesus.
+-
+Pelean na badia, na masuk tu Jahowa,
+Singkat ni manisia, na so daulat roha.
+Ditaon Ho dosanami, so i, lao mago hami.
+Asi rohaM, o Jesus!
+-
+Pelean na badia, jinalo ni Debata,
+Panaon ni manisia, na pasohothon bada.
+Sai sesa dosanami, Ho hatigorannami,
+Asi rohaM, o Jesus!
+-
+Pelean na badia, dagingMu sipanganon,
+Di angka na porsea, mudarna siinumon.
+Sai ro ma maringanan marhite parpadanan
+Di hami on, o Jesus!

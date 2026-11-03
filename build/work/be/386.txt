@@ -1,0 +1,29 @@
+@be 386
+@bl 399
+@title O dangol ni hapariron i.
+@key Eb
+@meter 4/4
+@credit Johannes Conrad 1817
+@pages 370 371
+@check Kepala lagu juga mencetak "U.L. No. 286". Ayat 4 dan nama komponis ada di atas hlm 371.
+@check Lirik di bawah not "dangol" tidak dipenggal; dipakai "da-ngol" (2 not).
+@status Lirik dicek · 4/8 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L2, L4, L6 dan L3 kata 8 (buku jelas "dosana"); buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 386) | https://bukuende.wordpress.com/2013/06/16/o-dangol-ni-hapariron-i-buku-ende-no-386-buku-logu-no-399/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+(1+2) | 3 3 3 4+3 | 3 2 2 2+3 |
+4 (4+4) 4 (5+4) | 4 3 3 3+4 | 5 5 1' (7+6) |
+5 4 3 (1+2) | 3 3 6 4+2 | 1 7, 1 |]
+> O da-ngol ni ha-pa-ri-ron i, na so bo-las ha-su-ha-tan i, do-shon do-lok si-ma-na-bun i, su-man tu tao si-lu-man-lan i.
+#V
+O dangol ni hapariron i, na so bolas hasuhatan i,
+Doshon dolok simanabun i, suman tu tao silumanlan i.
+-
+I ma dangol ni na parir i, mongkihongkik ala dosana i,
+Na mabakbak do iluna i, langan bohi ala dosa i.
+-
+O dangol ni hapariron i, so adong na boi pamalum i;
+Ndang tuk daonan ni manang ise i nang mate, ndang olo sonot i.
+-
+Dibahen parir ni sisongon i, dilehon Jesus mudarNa i.
+Marhite mudar ni Kristus i, na malum luhut na ngotngot i.

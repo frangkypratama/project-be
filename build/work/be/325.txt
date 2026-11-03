@@ -1,0 +1,57 @@
+@be 325
+@bl 58
+@title Bodari on
+@key Eb
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 302 303
+@status Lirik dicek · 25/27 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 13 (nampua) dan 25 (do); dicek ulang ke scan hlm 303, buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 325) | https://bukuende.wordpress.com/2013/06/09/bodari-on-buku-ende-no-325-buku-logu-no-58/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check "4*" dan "5*" = not dinaikkan (not balok: A♮, B♮) → #4, #5.
+@check Tanda napas setelah not 1/4 bertitik ("3 .’4" dan "5* .’6") tidak dapat diletakkan di tengah ketukan; ditaruh sebelum ketukan berikutnya.
+@check Birama akhir "2 . 1 1 .": not balok F 1/4 bertitik dilegato ke Es 1/8 (satu suku kata "hang"), lalu Es 1/2.
+#A
+5 . 5 5 | 1 . . v 1 | 3 2 3 #4 | 5 . . v 5 |
+6 5 4 5 | 3 v .+#4 5 6 | 7 . 7 . v |
+> Bo-da-ri on na du-ngo do au on, sai naeng pu-ji-on-ki Ho. De-ba-tang-ku.
+#B
+3 . 1 1 | 7, . . v 3 | 5 5 4 3 | 2 . . v 3 |
+3 1' 7 6 | #5 v .+6 6 (4+3) | (2 .+1) 1 . |]
+> Sai par-go-goi ma au, lao ma-ngo-loi Ho si-an na-sa ring-gas ni ro-hang-ku.
+#V
+Bodari on na dungo do au on,
+sai naeng pujionki Ho. Debatangku.
+Sai pargogoi ma au, lao mangoloi Ho sian nasa ringgas ni rohangku.
+-
+Sonangna i mamingkir basaMi!
+Pahohom rohangki di adopanMu,
+Pabali ma, o Tuhan Debata, sude na tau manggaori pingkiranku.
+-
+O Jesuski, hupuji goarMi dibaen tinoguMi au tu lambungMu.
+Aut na tongtong burju ma rohangkon.
+Pasauthon hataMi, ale Tuhanku.
+-
+Parbasa i, lambas do rohaMi,
+Manesa dosangki tinopotanku;
+Sai diapoi huhut dipargogoi Ho rohangkon muse di tangiangku.
+-
+Ho ma tongtong nampua rohangkon, sai taiti ma au on,
+Pahot langkangku, andigan pe badia au muse.
+Nang sun denggan dope Ho pujionku?
+-
+Alai basaM nang asi ni rohaM, dibaen na pinungkaM,
+Tangkas marujung. Pos rohangki,
+Sai patoguonMi do au, ai goarMi tongtong hujujung.
+-
+Ho artangki; na pinarsinta ni rohangku na las i,
+Dibaen holongMu, pagalak ma di au, o Debata,
+Gurasa i; Ho naeng haholonganku.
+-
+Ojahanki, di na humordit i sude di tano i, Ho, o Tuhanku!
+Nang songgop pe na hansit i muse,
+Ho ma halungunhonon ni rohangku.
+-
+Lam ganda ma do Ho, o Debata,
+Hamuliaon dohot hasangapon, di orbuk on,
+Muse ma di joloM, dung binongotanku banuaginjang.

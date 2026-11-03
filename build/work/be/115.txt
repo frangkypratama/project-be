@@ -1,0 +1,25 @@
+@be 115
+@bl 59
+@title Tuhan Debata
+@key Ab
+@meter 3/4
+@credit Adam Drese, 1698
+@pages 104 105
+@check Lirik di bawah not tercetak "daging dahot tondinami" — kemungkinan salah cetak untuk "dohot"; ditulis apa adanya.
+@status Lirik dicek · 5/6 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 5 dari 6 baris sama persis; beda ejaan di baris 1 (dahot). Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 115) | https://bukuende.wordpress.com/2013/06/18/tuhan-debata-buku-ende-no-115-buku-logu-no-59/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |
+3+4 5 4 | 3+2 3 2 v | 1+2 3 2 |
+1+7, 1 7, v | 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |]
+> Tu-han De-ba-ta, sai ra-mo-ti ma da-ging da-hot ton-di-na-mi, i do pa-ngi-do-an-na-mi. Sai pa-hi-pas be ha-mi on su-de!
+#V
+Tuhan Debata, sai ramoti ma daging dahot tondinami,
+I do pangidoannami. Sai pahipas be hami on sude!
+-
+Jesus Ho tutu, Raja na burju, sai palua tondinami
+Sian pardosaonnami, pasupasu be hami on sude !
+-
+Sai parbadiai, sai tongtong rajai, ale Tondi Parbadia.
+Rohanami asa ria, mangoloi hataM, hombar tu rohaM !

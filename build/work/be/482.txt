@@ -1,0 +1,32 @@
+@be 482
+@bl 326
+@title Asa on ma na tutu.
+@key Eb
+@meter 4/4
+@credit Hernemt 1740
+@pages 459
+@check Kepala lagu juga mencetak "E.P. No. 382".
+@check Kredit tercetak "Hernemt 1740" (kemungkinan maksudnya Herrnhut 1740); ditulis sesuai buku.
+@check "4*" = 4 kres (paranada: A natural), ditulis #4.
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 1 (kata 'na', 'naburju') dan 6 ('amboleng'); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 482) | https://bukuende.wordpress.com/2013/06/09/asa-on-ma-na-tutu-buku-ende-no-482-buku-logu-no-326/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 (5+4) 3 2 | 1 3 2 . | 5 (5+4) 3 2 | 1 3 2 . |
+5 5 6 (5+4) | 3 #4 (5 5) | 6 7 1' 4 | 3 2 (1 1) |]
+> A-sa on ma na tu-tu, Je-sus i do na-bur-ju. Ma-go pe por-ti-bi-on, tu I-ba-na ro-hang-kon.
+#V
+Asa on ma na tutu, Jesus i do naburju.
+Mago pe portibion, tu Ibana rohangkon.
+-
+Jesus do ummaol di au, ai arga ditobus au,
+Nang musuNa au nian, jala mago au hian.
+-
+Holan Ho, ale Tuhan, na tau pos ni rohangkon,
+Ndang na mago, amboleng, na marningot Ho tongtong.
+-
+Antong songon dia pe, asal au tu Ho muse:
+Buat sian rohangki na hinasogohonMi.
+-
+Amen, on ma na sintong: Dihalashon rohangkon,
+Jesus pangondianki, Jesus hangoluanki.

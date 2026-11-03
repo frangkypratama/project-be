@@ -1,0 +1,36 @@
+@be 690
+@bl 0
+@title Hibul rohangku
+@key C
+@meter 4/4
+@credit Syair: I Have decided to follow Jesus; Terj.: Dcs. Bonaria Hutabarat/Pdt. J.A.U. Doloksaribu; Lagu: Rakyat India
+@pages 720
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 ('ha portibion' dipisah di buku) beda; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 690) | https://bukuende.wordpress.com/2013/06/13/hibul-rohangku-buku-ende-no-690-buku-logu-no-690/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 690.
+#A
+0+1 1+3 | 5 5 .+5 6+5 | 3 1 0+1' 1'+1' |
+1' 1' .+1' 2'+1' | 6 5 0+1 1+3 | 5 5 .+5 6+5 |
+3 1 0+5 6+5 | 3 . . 0+1 | 2+2 1 |]
+> Hi-bul ro-hang-ku tu Tu-han Je-sus su-de ngo-lung-ku di Tu-han Je-sus, i-hu-tho-non-ku do Tu-han Je-sus ndang o-lo au su-mu-rut be.
+#V
+Hibul rohangku tu Tuhan Jesus,
+sude ngolungku di Tuhan Jesus,
+ihuthononku do Tuhan Jesus,
+ndang olo au sumurut be.
+-
+Sai hutundalhon ha portibion,
+silang ni Kristus ma hudapothon,
+sai hutundalhon haportibion,
+ndang olo au sumurut be.
+-
+Tung so adong pe na olo dohot,
+alai rohangku sai marsihohot,
+tung so adong pe na olo dohot,
+ndang olo au sumurut be.
+-
+Beta ihuthon ma Tuhan Jesus,
+ho na dijou do, roham patulus,
+beta ihuthon ma Tuhan Jesus,
+sai unang ho sumurut be.

@@ -1,0 +1,40 @@
+@be 30
+@bl 135
+@title Jesus lehon hatorangan
+@key Eb
+@meter 4/4
+@credit Johann Anastasius Frelinghausen, 1733
+@pages 26 27
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 14 dari 16 baris sama persis; 2 baris beda (“mala”, “hngoluannami” — salah cetak di buku, situs “hangoluannami”; dibiarkan sesuai buku). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 30) | https://bukuende.wordpress.com/2013/06/16/jesus-lehon-hatorangan-buku-ende-no-30-buku-logu-no-135/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, 1 2 3 | 4 (5+4) 3 1 v | 5 (5+4) 3 2 v |
+5 (5+4) 3 4 | 3 2 1 . :|
+> Je-sus le-hon ha-to-ra-ngan, ha-pis-ta-ran ma-ngan-tu-si ha-ta-Mi;
+> Le-hon ma-la na mar-ni-da do-hot ro-ha na um-bo-to da-lan-Mi.
+#B
+1' 5 6 5 v |
+1' 5 6 5 v | 3 (3+4) 5 6 | 5 (4+3) 2 2 |
+5 (5+4) 3 2 | 5 (5+4) 3 4 | 3 2 1 1 |]
+> A-sa tong-tong mar-a-dop-hon bo-hi-Mi mar-da-lan ha-mi, A-sa di-gom-go-mi Ton-di-Mi ma ha-mi,
+#V
+Jesus lehon hatorangan, hapistaran mangantusi hataMi;
+Lehon mala na marnida dohot roha na umboto dalanMi.
+Asa tongtong maradophon bohiMi mardalan hami,
+Asa digomgomi TondiMi ma hami,
+-
+Ganup ari ma ajari hami na di haotoon i dope;
+Asa lam porsea hami, Ho sambing do hngoluannami i.
+Lam lumeleng lam pasolhot tu rohaM ma rohanami,
+Hombar tu hataM ma pangalahonami.
+-
+Sai martua ma nasida na mambahen Jesus haposanna i.
+Aut tung sura olo hita, Jesus i baen parsigantunganta i.
+Ale Jesus, sai patogu hami na di parporangan,
+Asa dapot di ujungna hamonangan.
+-
+Sai tangihon, ale Tuhan molo martangiang hami be tu Ho.
+Pasupasu marlobian, lehononMu tu na ro manopot Ho.
+Sai dongani nama hami asa hot di parpadanan;
+Mian hami sahat ro tu hasonangan.

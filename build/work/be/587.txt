@@ -1,0 +1,44 @@
+@be 587
+@bl 0
+@title Taendehon las ni roha
+@key D
+@meter 3/4
+@credit Syair dna Lagu: Last uns frohlich Leider Singen; Karl Rohrig; Terj.: Gr. Jisman Hutapea
+@pages 568 569 570
+@status Lirik dicek · 11/15 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di "sipasangap", "parinaloan", "sirihimon", "sipaholong"; dicek ulang ke scan, ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 587) | https://bukuende.wordpress.com/2013/06/18/taendehon-las-ni-roha-buku-ende-no-587-buku-logu-no-587/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Eps. 5:19; 1 Pet. 1:8-10.
+@check Tanda mula di baris pertama tercetak tebal/kabur (tampak 3–4 kres), baris berikutnya jelas 2 kres; posisi not balok cocok dengan do = D → @key D.
+@check Kelompok tiga angka di bawah satu garis atas ("1̇ 7 6", "5 6 7", "3 5 1̇", "5 1̇ 2̇", "5 4 3") = tiga 1/8 di not balok tanpa angka 3; ditulis sebagai triol supaya birama 3/4 genap. Tampilan not balok situs belum mendukung triol.
+@check Birama "2̇.1̇ 7 . 6": titik antara 7 dan 6 hanya pemisah (not balok: 1/4 + 1/4).
+@check Dua angka tercetak tanpa titik oktaf padahal not balok di oktaf atas: "3" (birama "3 1̇ 3.6", not balok Fis5) dan "1" (birama "1 5 5 4 3", not balok D5) → ditulis 3' dan 1'.
+@check Birama "1 5 5 4 3": not 4 (dalam triol 5 4 3) tidak diberi suku kata di buku ("lo" di 5, "an" di 3) → ditulis "lo _ an" (lo ditahan).
+@check Kredit tercetak "Syair dna Lagu", "Last uns frohlich Leider Singen" (lazim: Lasst uns fröhlich Lieder singen) — ditulis apa adanya.
+#A
+5+.+.+5 | 3' 1' (1'+7)+6 | 6 5 5+.+.+5 |
+2' 7 4+.+.+6 | 5 . 5+.+.+5 | 1' 1' 7+.+.+6 |
+2' 5 (5+6)+7 | 2'+.+.+1' 7 6 | 5 . 6+.+.+5 |
+5 4 4+.+.+3 | 3 2 2+.+.+1 | 7,+.+.+1 2 3 |
+4 . (3+5)+1' | 1' 5 (5+1')+2' | 3' 1' 3+.+.+6 |
+5+.+.+#4 3 #4 | 5 . 5+.+.+5 | 1' 5 5+4+3 |
+6 . 1'+.+.+6 | 6 5 3'+.+.+2' | 1' . |]
+> Ta-en-de-hon las ni ro-ha pa-sa-ngap-hon Tu-han i, ro-ha ho-long na ma-ngon-jar la-ho ma-ngen-de-hon i, ga-nup a-ri ga-nup bor-ngin u-nang lu-pa ho di-si. Ang-ka en-de na um-mu-li si-pa-sa-ngap Tu-han i, nang par-i-na-lo _ an i baen pa-sa-ngap Tu-han i.
+#V
+Taendehon las ni roha pasangaphon Tuhan i,
+roha holong na mangonjar laho mangendehon i,
+ganup ari ganup borngin unang lupa ho disi.
+Angka ende na ummuli sipasangap Tuhan i,
+nang parinaloan i baen pasangap Tuhan i.
+-
+Taendehon las ni roha, sipadame roha i.
+tung dao do bada-bada, dohot angka hosom i.
+Hadameon ni Tuhanta, i do sirihimon i
+tapalambas ma rohanta, mida angka dongan i
+na martua do sude, na lambok maroha i.
+-
+Taendehon las ni roha, siapuli roha i
+marsinondang pangkirimon, mingot siteamon i
+Tu sambulo ni tondinta, huta na manongtong i
+idaonta ma Tuhanta, sipaholong roha i
+las ni roha na tongtong, jaloonta ma disi.

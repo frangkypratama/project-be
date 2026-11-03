@@ -1,0 +1,41 @@
+@be 62
+@bl 172
+@title Halalas ni roha godang
+@key Eb
+@meter 4/4
+@credit Robert Lawry, abad 19
+@pages 54 55
+@status Lirik dicek · 16/16 baris sama dgn pembanding
+@check Buku menulis "Robert Lawry Abad 19"; nama lazimnya Robert Lowry.
+@check Pola 1/8 bertitik + 1/16 ditulis a+.+.+b.
+@check Baris 4: "6̄.6̿" kedua tidak diberi suku kata tersendiri; dianggap "ni" ditahan.
+@check Pembanding lirik: bukuende.wordpress.com — 16 dari 16 baris sama persis.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 62) | https://bukuende.wordpress.com/2013/06/13/halalas-ni-roha-godang-buku-ende-no-62-buku-logu-no-172/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 3 3+.+.+2 3+.+.+4 | 5 . 3 . v | 4 4 4+.+.+5 4+.+.+3 |
+(2 . 5 .) v | 3 3 3+.+.+2 3+.+.+4 | 5 . 3 v (3+4) |
+2 (2+3) 4 (3+2) | 1 . . . | 6 6 1'+.+.+7 1'+.+.+6 | 5 . 3 .+3 |
+4+.+.+3 4+.+.+3 4+.+.+3 4+.+.+2 | 3 . 5 . v | 6+.+.+6 6+.+.+6 1'+.+.+7 1'+.+.+6 |
+5 . 3 v 3 | 2 (2+.+.+3) 4 (3+2) | 1 . . . |]
+> Ha-la-las ni ro-ha go-dang, Na hu-ba-ri-ta-hon on: Nu-nga tu-bu Si-pa-lu-a Di hi-ta jol-ma on. Ha-sa-nga-pon di De-ba-ta, Laos da-me, da-me, da-me ma di jol-ma, Lo-mo ni _ ro-ha ni De-ba-ta Do hi-ta jol-ma on.
+#V
+Halalas ni roha godang, Na hubaritahon on:
+Nunga tubu Sipalua Di hita jolma on.
+Hasangapon di Debata, Laos dame, dame, dame ma di jolma,
+Lomo ni roha ni Debata Do hita jolma on.
+-
+Ai saborngin on do binsar bintang di na holom i,
+Sumondangi hagolapon na di rohanta i.
+Hasangapon di Debata d.u.
+-
+Tuhan Jesus hadomuan na disuru Debata,
+Na pasaehon sude dosa, di dolok Golgata.
+Hasangapon di Debata d.u.
+-
+Sai sondangi ma rohangku, ale Tuhan Jesus i,
+Asa dohot au maruli di hatutubuMi.
+Hasangapon di Debata d.u.
+-
+Halalas ni roha godang, sai songgopi rohangki;
+Asa dohot au ummalo, mamuji goarMi.
+Hasangapon di Debata d.u.

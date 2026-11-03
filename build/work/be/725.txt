@@ -1,0 +1,47 @@
+@be 725
+@bl 0
+@title Ai sitiruon do Hulehon tu hamu.
+@key F
+@meter 2/4
+@credit Syair & Lagu: Pdt. J.A.U. Doloksaribu, 2001
+@pages 767 768
+@status Lirik dicek · 10/14 baris sama dgn pembanding
+@check Bagian suplemen "PASAHAT TOHONAN"; ayat bacaan Joh. 13 : 15. Tidak ada nomor "Logu No." di buku → @bl 0.
+@check Bait 2/4, refrein (dengan tanda ulang) 4/4 sesuai balok.
+@check Baris 3: angka dan balok mencetak dua birama ½ ketuk-pasangan ("5 5 | 3 5") yang masing-masing hanya 1 ketuk; digabung menjadi satu birama 2/4.
+@check Refrein: titik bawah tercetak di bawah not ke-2 ("5 2̣"), balok = C4 untuk not pertama → ditulis 5, 2.
+@check Lirik di bawah not tercetak "Hu-ria-a"; ditulis apa adanya.
+@check Ayat 1 dan refrein hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Pembanding lirik: baris 5, 6, 11, 12 beda ejaan (Huria-a, Tahangoluhon, dll.). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 725) | https://bukuende.wordpress.com/2013/06/09/ai-sitiruon-do-hulehon-tu-hamu-buku-ende-no-725-buku-logu-no-725/ | proofreading per baris
+#A
+5 5+5 | 3 1+1 | 6+6 6+6 | 5 3 |
+1+1 1+2 | 3+3 6+5 | 3+3 5+3 | 2 2 |
+5+5 5+5 | 6 6+6 | 5+5 3+5 |
+5+3 2+5, | 1+1 1+2 | 3+3 1+3 |
+2+1 3+2 | 1 1 |
+> Tu-han-ta Je-sus man-dok tu si-se-an-Na, a-i si-ti-ru-on do Hu-le-hon tu ha-mu-na a-sa baen ha-mu so-ngon na hu-ba-en tu ha-mu, mar-tu-a ma ha-mu-na ang-ka na ma-ngu-la-hon-sa.
+#B 4/4
+5,+2 2+2 2+2 3+2 |
+1+3 3+3 3 3 | 5,+2 2+2 2+2 3+2 |
+1+1 1+1 1 1 :|
+> A-sa pa-su-pa-su ho di ngo-lu ni Hu-ria-a ja-la pa-su-pa-su ho di ngo-lu ni bang-son-ta.
+#V
+Tuhanta Jesus mandok tu siseanNa,
+ai sitiruon do Hulehon tu hamuna
+asa baen hamu songon na hubaen tu hamu,
+martua ma hamuna angka na mangulahonsa.
+Ref.: Asa pasupasu ho di ngolu ni Huria-a
+jala pasupasu ho di ngolu ni bangsonta.
+-
+Songon Tuhanta tabaen parrohaonta,
+patoru diri lao manghophop hita jolma,
+ita patuduhon ma serep ni rohanta be
+dipanghobasionta di Huria nang bangsonta.
+Ref : Asa pasupasu . . .
+-
+Tahangoluhon ma hata ni Tuhanta,
+asa tau tiruan ma di angka na porsea,
+dipanghataion nang diholong ni roha pe
+tiruan diparange tu na humaliang hita.
+Ref : Asa pasupasu . . .

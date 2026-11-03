@@ -1,0 +1,48 @@
+@be 202
+@bl 102
+@title Huhaholongi Ho
+@key Eb
+@meter 4/4
+@credit Johann Balthasar König, 1758
+@pages 183 184
+@status Lirik dicek · 13/21 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 13 dari 21 baris sama; 8 baris beda ejaan (baris 3, 4, 7, 8, 13, 14, 15, 17). Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 202) | https://bukuende.wordpress.com/2013/06/13/huhaholongi-ho-buku-ende-no-202-buku-logu-no-102/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Buku menulis "JohannBalthasar Konig 1758"; ejaan lazim Johann Balthasar König.
+#A
+0 1 3 5 | 1' 5 6 5 | 4 . 3 . |
+0 2 3 #4 | 5 1' 7 6 | 5 . . . :|
+> Hu-ha-ho-lo-ngi Ho, go-gong-ku, hu-ha-ho-lo-ngi Ho tong-tong,
+> Mar-hi-te-hi-te pam-bae-nan-ku, nang si-an na-sa ro-hang-kon.
+#B
+0 2 2 2 |
+3 2 3 4 | 2 . 0 5 | 1 4 3 2 | 1 . . . |]
+> Ai Ho do su-mon-da-ngi au, ro-di na ma-te au.
+#V
+Huhaholongi Ho, gogongku, huhaholongi Ho tongtong,
+Marhitehite pambaenanku, nang sian nasa rohangkon.
+Ai Ho do sumondangi au, rodi na mate au.
+-
+Huhaholongi Ho, ngolungku, ai Ho do ale alengki;
+Sai naeng tongtong Ho pujionku saleleng au sinondangMi.
+Holong mamolin rohangki di Ho, o Jesuski!
+-
+Tung so jumolo Ho hutanda, ro di na hina uliMi;
+Tung so jumolo Hu huida, Ho arta na sumurung i!
+Na marsak au huhut tungki dibahen otongki.
+-
+Na lilu au huhut mapitung umbaen na so hutanda Ho;
+Na sorat au dibaen huusung, sude pardosaonku do.
+Alai nuaeng mananda do rohangkinon di Ho.
+-
+Mauliate ma rohangku di Ho na manondangi au;
+Hupuji Ho, ale Tuhanku dibaen natingkupMu au.
+Hisar do tondingki dibaen hutanda Ho nuaeng.
+-
+Tongtong ramoti ma langkangku di dalan hatigoran i
+Huhut sai pargogoi rohangku mangarodoti hataMi.
+O sondang sian surgo i, sondangi rohangki!
+-
+Huhaholongi Ho, tumpalhu, Ho, Debatangku na tutu;
+Manang beha parsorionku, ihuthononku Ho burju
+Haholonganku Ho tongtong, nang tos pe hosangkon.

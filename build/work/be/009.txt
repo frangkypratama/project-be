@@ -1,0 +1,44 @@
+@be 9
+@bl 110
+@title Hupuji holong ni
+@key C
+@meter 3/4
+@credit Dimitri Bortniansky, 1877
+@pages 8
+@check Tahun 1877 sesuai buku; Dmitry Bortniansky sendiri wafat 1825, jadi angka ini kemungkinan tahun terbit/aransemen.
+@check Baris 4: tanda "," di bawah angka 7 ("1 7, 6") dibaca sebagai noda/napas, bukan oktaf rendah — not balok buku menunjukkan B4.
+@status Lirik dicek · 18/18 baris sama dgn pembanding · melodi cocok Hymnary
+@check Pembanding lirik: bukuende.wordpress.com — 18 dari 18 baris sama persis.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 9) | https://bukuende.wordpress.com/2013/06/13/hupuji-holong-ni-buku-ende-no-9-buku-logu-no-110/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Pembanding melodi: 15 not pembuka (53451 21715 61653) sama persis dengan incipit tune ST. PETERSBURG (Bortniansky) di Hymnary.org.
+@ref Melodi pembanding: Hymnary.org — ST. PETERSBURG (Bortniansky) | https://hymnary.org/hymn/CCEH/396 | Incipit 53451 21715 61653 (derajat nada) cocok dengan not angka di sini.
+#A
+5 | 3 . 4 | 5 . 1' | (2' 1') 7 | 1' . 5 v | 6 1' 6 | 5 . 3 |
+(5 4) 3 | 2 . v 5 | 3 . 4 | 5 . 1' | (2' 1') 7 | 1' . 5 |
+6 1' 6 | 5 . 3 | (6 .+5) (4+3) | 2 . v 5 | 7 . 5 | 1' . 5 |
+(3' 2') 1' | 1' . 7 v | 1' 7 6 | 5 . 3 | (6 5) 4 | (3 . . | 2 . .) | 1 . |]
+> Hu pu-ji ho-long ni ro-ha-Mu, o Tu-han Je-sus, Ra-jang-ki! Tu Ho hu-le-hon ma ton-ding-ku, ai i do pi-na-ngi-do-mi. Hu-ha-lu-pa-hon ma di-ring-ku, Ma-ming-kir ho-long ni ro-ha-mu
+#V
+Hupuji holong ni rohaMu, o Tuhan Jesus, Rajangki!
+Tu Ho hulehon ma tondingku, ai i do pinangidomi.
+Huhalupahon ma diringku, Mamingkir holong ni rohamu.
+-
+Sai dilului Ho do ahu, Au pe huhalungunhon Ho;
+Ditaiti rohaMi rohangku, dibahen i hulehon do.
+Dipillit Ho hian tondingku, i pe hutodo Ho, Tuhanku.
+-
+Huhilala, ingkon mar-Tuhan, ingkon mangolu au di Ho;
+Ndang jumpang au be hangoluan aut unang dipatupa Ho.
+Sai Ho do paradiananku, sai gok di Ho nama langkangku.
+-
+Di Ho saleleng ni lelengna, au on o Jesus, Tuhanki!
+Ho ma nampuna sasudena gogongku ro di artangki!
+Ai naung dilehon Ho mudarMu manggarar utang ni dosangku.
+-
+Ai nunga tung diparhatoban Sibolis dohot dosa au;
+Tuani ma Ho ro, o Tuhan mamorsan uhum na tu au;
+Ditaoni Ho do hamatean mambaen di ahu hangoluan.
+-
+O Jesus, uhir ma goarMu torang, bagas tu rohangkon.
+Asa tarsurat di jolongku holong ni rohaMi tongtong.
+Hatangku ro di parangengku ingkon dipuji do goarMu.

@@ -1,0 +1,32 @@
+@be 810
+@bl 0
+@title Sai dame ma di hamuna
+@key F
+@meter 4/4
+@credit Syair: Havenu Schalom · Terj.: Dcs. Bonaria Hutabarat · Lagu: Israel
+@pages 892 893
+@status Lirik dicek · 9/10 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 ("dame di hamu") beda — pembanding tanpa "dame" di awal baris (pemenggalan baris); scan hlm 892 mencetak "da-me di ha-mu" → buku tetap.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 810) | https://bukuende.wordpress.com/2013/06/18/sai-dame-ma-di-hamuna-buku-ende-no-810-buku-logu-no-810/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Nada minor (la = 6 = D4, tanda mula 1 mol). Durasi beat "7 6 . 0 6" dll. disusun menurut not balok (♪ + ♩. lalu diam ♪).
+@check Ketukan gantung 1½ ketuk (3̣ 6̣ 1 = tiga ♪) ditulis dengan diam ½ ketuk di depan (0+3,) karena format butuh ketukan utuh.
+@check Lirik di bawah not hanya ayat 1; ayat 2 (Horas ma hita sudena) dicetak terpisah dan dipasang sebagai baris kedua (tanda ulang :|| di akhir). Baris 1 tercetak "da-me madi ha-muna" (madi digabung), ditulis ma di.
+#A
+0+3, 6,+1 | 3 . 1 .+7, | 7,+6, . 0+6, 1+3 | 6 . 4 .+3 |
+3+2 . 0+2 3+4 | (3 .+7,) 3 .+2 | 2+1 . 0+1 7,+6, |
+3 3+0 3 3+0 | 3+2 1+7, 6, :|
+> Sai da-me ma di ha-mu-na, sai da-me ma di ha-mu-na, sai da-me ma di ha-mu-na, sai da-me, da-me, da-me, da-me di ha-mu.
+> Ho-ras ma hi-ta su-de-na, ho-ras ma hi-ta su-de-na, ho-ras ma hi-ta su-de-na, ho-ras ma, ho-ras, ho-ras, ho-ras hi-ta be.
+#V
+Sai dame ma di hamuna,
+sai dame ma di hamuna,
+sai dame ma di hamuna,
+sai dame, dame, dame,
+dame di hamu.
+-
+Horas ma hita sudena,
+horas ma hita sudena,
+horas ma hita sudena,
+horas ma, horas, horas,
+horas hita be.

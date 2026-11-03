@@ -1,0 +1,38 @@
+@be 515
+@bl 410
+@title Ringgas ma ta paboa.
+@key G
+@meter 4/4
+@credit H. E. Alexander
+@pages 487
+@status Lirik dicek · 11/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 11 dari 16 baris sama; beda: L1 (tapaboa), L2 (dohasesaan), L4, L5, L15 (Sibolis, ni). Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 515) | https://bukuende.wordpress.com/2013/06/16/ringgas-ma-ta-paboa-buku-ende-no-515-buku-logu-no-410/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "U.L No. 427".
+@check Baris 2 birama "3 . 3 4": not balok tampak B 1/2, B 1/2, C 1/4 (5 ketuk); dipakai angka (sama dengan baris 1 dan 4).
+#A
+5, | 1 5, 1 2 | 3 . 3 4 | 3 (2+1) 2 7, |
+1 . . 5, | 1 5, 1 2 | 3 . 3 4 | 3 (2+1) 2 7, | 1 . . 5, |
+5 .+5 5 5 | 5 .+3 1 5, | 5 .+5 5 5 | 5 . . 5, |
+1 5, 1 2 | 3 . 3 4 | 3 (2+1) 2 7, | 1 . . |]
+> Ring-gas ma ta-pa-bo-a naung mo-nang Kris-tus i, Ra-de do-ha-se-sa-an ni ang-ka do-sa i. Di go-ar ni Tu-han-ta i do ha-mo-na-ngan i! Ring-gas ma ta-pa-bo-a naung mo-nang Kris-tus i.
+#V
+Ringgas ma tapaboa naung monang Kristus i,
+Rade dohasesaan ni angka dosa i.
+Di goar ni Tuhanta i do hamonangan i!
+Ringgas ma tapaboa naung monang Kristus i.
+-
+GoarNa tapaboa tu liat tano on,
+Ai i do na manggohi tongtong rohanta on.
+Taaithon ma gogoNa i na so dung talu i.
+GoarNa tapaboa tu liat tano i.
+-
+Tung tano bato goar ni Jesus Tuhan i.
+Tu goar i maporus sude na gale i.
+Nang mangalantap udan i, nang pur alogo i,
+Tung tano bato goar ni Jesus Tuhan i.
+-
+Taboan ma goarNa tu angka jolma i.
+Torop na so mananda Jesus Tuhanta i.
+Sibolis nioloan ni i, ai dililuhon i.
+Taboan ma goarNa tu angka jolma i.

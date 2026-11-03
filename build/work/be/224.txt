@@ -1,0 +1,36 @@
+@be 224
+@bl 232
+@title Jalo tanganku
+@key Ab
+@meter 2/4
+@credit Hubert P. Main, 1925
+@pages 204 205
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: L10 kata 2 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 224) | https://bukuende.wordpress.com/2013/06/16/jalo-tanganku-buku-ende-no-224-buku-logu-no-232/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, #4,+5, | 6, .+5, | 5,+3 2+1 |
+1 7, | 2 7,+1 | 2 3 | 5,+.+.+5, 7,+.+.+6, |
+5, . | 5, #4,+5, | 6, .+5, | 1+3 5+4 |
+3 2 | 5 4+3 | 6, 2 | 1+7, 3+.+.+2 | 1 . |]
+> Ja-lo ta-ngan-ku, ti-op au, o Tu-han, ai na ga-le au so mar-do-ngan Ho. Rap do-hot Ho hi-pas do au mar-da-lan. Ma-mo-lus par-ma-ra-an, so-nang do.
+#V
+Jalo tanganku, tiop au, o Tuhan,
+Ai na gale au so mardongan Ho.
+Rap dohot Ho hipas do au mardalan.
+Mamolus parmaraan, sonang do.
+-
+Sai togu au, sihol di Ho rohangku
+Naeng lam sumolhot au tu lambungMi.
+Ai unang i, mura dope au lilu,
+Manimbil sian hasintonganMi
+-
+Ajari au, urmun dope huida,
+Maol huantusi pambaenMi sude.
+Dung pe ro songgop Tondi Parbadia,
+Tangkas huida, sasude ture.
+-
+Urupi au di ujung ni langkangku,
+Mamolus rura hamatean i;
+Sai bohiMi panondang di atashu
+Laos boan au tu undungundungMi.

@@ -1,0 +1,34 @@
+@be 286
+@bl 144
+@title Unang ma tangishon
+@key Bb
+@oct -1
+@meter 12/8
+@credit Lagu: Philipp Paul Bies 1876
+@pages 266 267
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (satu kata tak ada di pembanding) & 7 (kata ke-7) beda; scan hlm 266–267 ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 286) | https://bukuende.wordpress.com/2013/06/18/unang-ma-tangishon-buku-ende-no-286-buku-logu-no-144/ | 10/12 baris sama
+@check Birama 1: angka "1̇ ." dan balok not pertama tampak ¼ tanpa titik; ditulis ¼ bertitik (3/8) seperti birama-birama sejajar agar birama 12/8 genap.
+@check 4* = E♮ (balok bertanda pugar) → #4.
+#A
+1' . . 1' 7 6 6 . . 5 . . v | 4 . . 4 6 5 3 . . . . . |
+1' . . 1' 7 6 6 . . 5 . . v | #4 . . #4 5 6 5 . . . . . |
+7 . . 7 1' 2' 2' . . 5 . . v | 5 . . 7 1' 2' 3' . . . . . |
+3' . . 3' 2' 7 1' . . 6 . . v | 5 . . 5 5 5 5 . . . . . |]
+> U-nang ma ta-ngis-hon Hol-so ni ro-ham; Tu Je-sus a-lu-hon Ar-sak ni ro-ham, mo-lo hu-ma-li-ang gaor pe sa-su-de, Sai por-se-a, so-nang do lu-hut mu-se.
+#V
+Unang ma tangishon Holso ni roham;
+Tu Jesus aluhon Arsak ni roham,
+Molo humaliang gaor pe sasude,
+Sai porsea, sonang do luhut muse.
+-
+Jesus do umboto holso ni roham;
+Tatap ma Ibana, bulus ma langkam.
+Nang pe di na rodop, nang ni surgo i,
+Sai marolopolop Ho na sonang i.
+-
+Sai adong do deba marsak songon ho,
+Ho ma paboahon na mangapul ho.
+Rap ho martangiang dohot angka i.
+Paima dipasonang Jesus sasude.

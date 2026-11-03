@@ -1,0 +1,35 @@
+@be 431
+@bl 291
+@title Adong na jolo sada ina.
+@key D
+@meter 6/8
+@credit Ev. L. No. 90 · Lagu: George Frederick Root 1895
+@pages 412 413
+@check Birama 6/8: 1 token = 1 not 1/8. "4*" = 4 kres (paranada Gis). Angka "3..3.", "5..5.", "2..2.", "1..1." dengan lengkung = ikatan (1/4 bertitik + 1/4).
+@check Ayat 2–4 di buku diakhiri "Gomos...." = ulangi bagian "Gomos ma tangkup Ibana ... dibahen Jesus i."
+@status Lirik dicek · 5/10 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan/kata di baris 1, 2, 4 ("Malaa"), 6, 9; transkripsi mengikuti buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 431) | https://bukuende.wordpress.com/2013/06/05/adong-na-jolo-sada-ina-buku-ende-no-431-buku-logu-no-291/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 5 . 5 5 . 5 | (5 #4) 5 6 5 3 | 2 . 3 5 . 4 |
+(3 . . 3 .) 5 | 5 . 5 5 . 5 | (5 #4) 5 6 5 6 | 2' . 1' 7 . 6 |
+(5 . . 5 .) |
+> A-dong na jo-lo sa-da i-na na ro tu Je-sus i, Di-ja-ma ram-bu ni u-los-na, tung pin-tor ma-lum i,
+#B
+5 | 1' . 1' 7 6 5 | 6 . . 5 . 5 | 6 . 1' 5 . 3 |
+(2 . . 2 .) 2 | 3 . 3 5 . 5 | 1' . 1' (2' 1') 6 | 5 . 5 6 . 7 | (1' . . 1' .) |]
+> Go-mos ma tang-kup I-ba-na, go-mos ha-po-si i, ma-la-a do-hot ton-di-mi di-ba-hen Je-sus i.
+#V
+Adong na jolo sada ina na ro tu Jesus i,
+Dijama rambu ni ulosna, tung pintor malum i,
+Gomos ma tangkup Ibana, gomos haposi i,
+Malaa dohot tondimi dibahen Jesus i.
+-
+Barani ho sai ro jumonok tu Jesus Tuhanmi.
+Paboa ma sude na hansit, sadena sahitmi, Gomos....
+-
+Paboa nasa hasintongan, paullop ma sude,
+Ndang tulahonNa angka jolma, pardosa godang pe. Gomos....
+-
+Dung malum ho sian sahitmu dibahen Jesus i,
+Paboa ma sude basaNa tu angka dongan i, Gomos....

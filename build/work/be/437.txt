@@ -1,0 +1,38 @@
+@be 437
+@bl 390
+@title Tung na muba do rohangku.
+@key A
+@meter 4/4
+@credit Z.No. 671. · Lagu: Charles H. Gabriel 1932
+@pages 419 420
+@check Kepala lagu tercetak "Logu No. 390"; ditulis sesuai buku. "4*" = 4 kres (Dis).
+@check Birama "5̣ . . 3̣̄ 4̣̄": angka = 4 ketuk (dipakai), not balok tampak 1/2 tanpa titik (3 ketuk).
+@check Lirik di bawah not tercetak "do-baen" dan "dong Jesus" — ditulis apa adanya.
+@check Ayat 2–3 di buku diakhiri "Dung Jesus ...." = ulangi bagian "Dung Jesus maringan di au ... Jesus maringan di au."
+@status Lirik dicek · 3/9 baris sama dgn pembanding
+@check Pembanding lirik: beda susunan/ejaan di ayat 1 ("dobaen", "Dong", pembagian baris refrein) dan pengulangan "Dung Jesus maringan di au" di ayat 2–3; transkripsi mengikuti buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 437) | https://bukuende.wordpress.com/2013/06/18/tung-na-muba-do-rohangku-buku-ende-no-437-buku-logu-no-390/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3,+4, | 5, 6,+7, 1 1+2 | 3 3+4 3 .+2 |
+1 1+6, 1 1+1 | 5, . . 3,+4, | 5, 6,+7, 1 1+2 |
+3 3+4 3 .+3 | 3 2+2 #4 3+2 | (5 . 5) |
+> Tung na mu-ba ro-hang-ku do-baen Tu-han-ki, dung Je-sus ma-ri-ngan di au. Nu-nga so-nang au on, tung da-me ro-hang-ki, dong Je-sus ma-ri-ngan di au
+#B
+5 | 3 3+2 3 3+1 | 3 . . 2 |
+1 1+6, 1 1+1 | 5, . . 3,+4, | 5, 6,+7, 1 1+2 |
+3 3+4 5 .+4 | 3 3+1 3 3+2 | 1 . . |]
+> Dung Je-sus mar-i-ngan di au, dung Je-sus ma-ri-ngan di au, tung na so-nang do au, dung tu Je-sus au lao, dung Je-sus mar-i-ngan di au.
+#V
+Tung na muba rohangku dobaen Tuhanki,
+Dung Jesus maringan di au. Nunga sonang au on, tung dame rohangki,
+Dong Jesus maringan di au.
+Dung Jesus maringan di au, dung Jesus maringan di au, tung na sonang do au,
+Dung tu Jesus au lao, dung Jesus maringan di au.
+-
+Au na lilu hian dapot sambulongki,
+Dung Jesus maringan di au. Nunga sae dosangki dibaen mudarNa i.
+Dung Jesus maringan di au. Dung Jesus ....
+-
+HaroroNa hutagam, ndang uhum tahe,
+Dung Jesus maringan di au. Dohot au ma partohap di sangap muse.
+Dung Jesus maringan di au. Dung Jesus....

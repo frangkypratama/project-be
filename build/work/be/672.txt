@@ -1,0 +1,40 @@
+@be 672
+@bl 0
+@title Tung godang situtu
+@key C
+@meter 4/4
+@credit Syair & Lagu: NN
+@pages 695 696
+@status Lirik dicek · 10/14 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 1, 3, 4 (ejaan/pemisahan kata dari lirik di bawah not), baris 10 & 12 (ejaan). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 672" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 672) | https://bukuende.wordpress.com/2013/06/18/tung-godang-situtu-buku-ende-no-672-buku-logu-no-672/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0).
+@check Refrein baris 3: angka "6 6.1" tercetak tanpa titik oktaf pada 1; balok = C5 → ditulis 1' (sama dengan bagian A).
+@check "Sai" bertanda lengkung (satu suku kata).
+#A
+3+4 | 5 5+.+.+5 5 3+5 | 6 6+.+.+6 6 6+6 |
+5 1'+.+.+1' 1' 7+1' | 2' . . 1'+2' | 3' 3'+.+.+2' 1' 1'+7 |
+6 6+.+.+1' 5 5+5 | 6+1' 1'+2' 3' 2'+.+.+2' | 1' . . |
+> Tung go-dang si-tu-tu u-la-on-mu an-tong di pa-sa-hat Tu-han-ta tu ho ndang a-dong be ting-kim mar-na-lem-ba ta-he ngo-lu-mi ba-hen ti-ru-an tong-tong.
+#B
+1'+2' | 3' 5+.+.+5 5 1'+7 | 6 6+1' 5 5+5 |
+1' 1'+.+.+1' 1' 7+1' | 2' . . 1'+2' | 3' 3'+.+.+2' 1' 1'+7 |
+6 6+.+.+1' 5 5+5 | 6+7 1'+2' 3' 2'+.+.+2' | 1' . . |]
+> Sai pa-tu-pa ma i a-la-ni Tu-han i so mang-ki-rim ba-los-na tu ho, De-ba-ta do mar-ni-da na-ni u-la-mi ma-nang na a-dong par-bu-e-ni i.
+#V
+Tung godang situtu ulaonmu antong di pasahat Tuhanta tu ho
+ndang adong be tingkim marnalemba tahe ngolumi bahen tiruan tongtong.
+Ref : Sai patupa ma i alani Tuhan i so mangkirim balosna tu ho,
+Debata do marnida nani ulami manang na adong parbueni i.
+-
+Ai lambok do soara ni Tuhanta i,
+ro ma ho las ma nang rohami,
+sai taingot tongtong Hata ni Tuhan i
+mangarahon jolma tu Tuhan i.
+Ref : Sai patupa . . .
+-
+Alanji boan ma, sondang na tiur i,
+boan ma Hata ni Tuhan i,
+sai urupi na pogos na madangol i,
+asa ro tu Jesus Tuhanta i.
+Ref : Sai patupa . . .

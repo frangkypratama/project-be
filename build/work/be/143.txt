@@ -1,0 +1,38 @@
+@be 143
+@bl 171
+@title Jerusalem, Jerusalem
+@key F
+@meter 4/4
+@credit Christian Barth, 1862
+@pages 128 129
+@check Baris 1 birama 2: ada lengkung di atas "4 . 3̄", tetapi lirik "Je-ru-sa-lem" butuh dua suku kata di situ (seperti baris 4); lengkung dibaca sebagai frase, bukan melisma.
+@check "langitan" dicetak terpisah baris ("langit / an"), dinyanyikan la-ngit-an.
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Pembanding lirik: L9, L11, L13 beda ejaan satu kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 143) | https://bukuende.wordpress.com/2013/06/16/jerusalem-jerusalem-buku-ende-no-143-buku-logu-no-171/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 5 .+4 3 5 | 4 .+3 2 4 | 3 1 6, 2 |
+(1 . 7,) v 5 | 5 .+4 3 5 | 4 .+3 2 v 4 | 3 (4+2) 1 7, |
+1 . 0 2 | 2 .+1 7, v 5, | 4 .+3 2 v 2 | 3 3 #4 #4 |
+5 . . v 5 | 5 .+4 3 v 5 | 4 .+3 2 v 4 | 3 (4+2) 1 7, | 1 . 0 |]
+> Je-ru-sa-lem, Je-ru-sa-lem, na tim-bul na-hi-nan! Na di-pa-tim-bo De-ba-ta Ho ro di la-ngit-an. Nu-aeng mar-se-rak pa-ngi-sim, hu-hut ma-gar-gar ho, Je-ru-sa-lem, Je-ru-sa-lem hu-ta-ta-ngi-si ho!
+#V
+Jerusalem, Jerusalem, na timbul nahinan!
+Na dipatimbo Debata Ho ro di langitan.
+Nuaeng marserak pangisim, huhut magargar ho,
+Jerusalem, Jerusalem hutatangisi ho!
+-
+Girgir najolo parendem mamuji Tuhan i.
+Alai nuaeng sai marsak do sude anakkonmi.
+Na hundul ho di orbuk i sai mangandungi do.
+Jerusalem, Jerusalem, hutatangisi ho.
+-
+Jerusalem, Jerusalem! Rodi na mulak ho,
+Pasangap birubiru i naung dibolongkon ho;
+Rodi pananda ni roham, di na tinullangMi,
+Jerusalem, Jerusalem, ho tatangisanki.
+-
+O Jesus, tatap ma bangsoM na tong marserak i,
+Rohana na tongtong holom, sondangi ma muse;
+Sungguli Israel sude na manundalhon Ho
+Jerusalem, Jerusalem, hutangiangkon Ho!

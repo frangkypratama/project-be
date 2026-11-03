@@ -1,0 +1,48 @@
+@be 581
+@bl 0
+@title Sangap di Jahowa
+@key Ab
+@meter 3/4
+@credit Syair: To God be the Glory; Fanny J. Crosby, 1875; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: William H. Doane, 1875
+@pages 557 558 559
+@status Lirik dicek · 13/15 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 ("dilehon AnakNa", ejaan/pemisahan kata) dan 11 ("baen") beda ejaan; dicek ulang ke scan, ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 581) | https://bukuende.wordpress.com/2013/06/18/sangap-di-jahowa-buku-ende-no-581-buku-logu-no-581/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0 (tidak ada di buku). Ayat bacaan: Psalm 29:2.
+@check Halaman PDF 261 (seharusnya BE 281) juga berisi halaman BE 581; transkripsi ini dari hlm 557–559 (hlm buku 562–564).
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not. Ayat 2–3 mencetak "Ref. : Puji ma Debata ....." (refrein sama).
+@check Refrein "las roham" ditulis apa adanya (buku: "las ro-ham las ro-ham").
+#A
+5, | 5, . 6,+7, | 1 5, 1 | 2 5, 2 |
+3 . 3 | 4 6, 4 | 3 1 3 | 3 2 6, |
+2 . 5, | 5, . 6,+7, | 1 5, 1 | 2 5, 2 |
+3 . 3 | 5 4 2 | 1 7, 1 | 3 3 2 |
+1 . |
+> Sa-ngap di Ja-ho-wa na sun tim-bul i, bal-ga ni ho-long-Na ndang ta-ra sam i, di-le-hon A-nak-Na na sa-sa-da i, ma-no-bus hi-ta jol-ma par-do-sa i.
+#B
+3+.+.+4 | 5 . 3+.+.+4 | 5 . 5+.+.+3 |
+1 2 3 | 2 . 2+.+.+3 | 4 . 2+.+.+3 |
+4 . 4+2 | 5 5 4 | 3 . 5, |
+5, . 6,+7, | 1 5, 1 | 2 5, 2 | 3 . 3 |
+5 4 2 | 1 7, 1 | 3 3 2 | 1 . |]
+> Pu-ji ma De-ba-ta a-le ma-ni-si-a, las ro-ham las ro-ham som-ba ma De-ba-ta da-pot-hon Ja-ho-wa na sun tim-bul i, mar-hi-te A-nak-Na Tu-han Je-sus i.
+#V
+Sangap di Jahowa na sun timbul i,
+balga ni holongNa ndang tarasam i,
+dilehon AnakNa na sasada i,
+manobus hita jolma pardosa i.
+Ref. : Puji ma Debata ale manisia, las roham las roham;
+somba ma Debata dapothon Jahowa na sun timbul i,
+marhite AnakNa Tuhan Jesus i.
+-
+Tung so hasuhatan do basaNa i,
+marhite AnakNa ni lehonNa i.
+MudarNa durus do di hau silang i,
+rara pe dosanta ias di baen i.
+Ref. : Puji ma Debata .....
+-
+Balga situtu pambaenMi Debata,
+tung so hasuhatan holong ni rohaM,
+Tu jolma pardosa asi do rohaM,
+di ungkap Ho dalan lao tu banuaM.
+Ref. : Puji ma Debata . . .

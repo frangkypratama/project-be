@@ -1,0 +1,34 @@
+@be 530
+@bl 364
+@title Tu Sambulo ni tondingku
+@key Eb
+@meter 4/4
+@credit R.L. No. 572
+@pages 501 502
+@check Kelompok "3̄ 4̄ 5̄" dan "1̄ 7̄ 6̄" di not balok bertanda 3 (triol), dua not pertama berlegato; ditulis sebagai triol (3+4)+5 / (1'+7)+6. Tampilan not balok situs belum mendukung triol, jadi durasinya bisa tampak tidak tepat.
+@check Ayat 2 baris 3 dicetak "Di sambolu" (baris 1 "sambulo") — ditulis apa adanya.
+@status Lirik dicek · 7/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 12 baris sama; baris 2, 4, 6, 7, 11 beda ejaan (termasuk "sambolu"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 530) | https://bukuende.wordpress.com/2013/06/18/tu-sambulo-ni-tondingku-buku-ende-no-530-buku-logu-no-364/ | Pembanding lirik (tanda baca diabaikan).
+#A
+1 (1+2) 3 (3+4) | 5 1' 6 1' |
+5 3 6+5 3+1 | 2 . . 0 | 1 (1+2) 3 (3+4) | 5 1' 6 1' |
+5 3 2+4 3+2 | 1 . . (3+4)+5 | 6 . 4 (1'+7)+6 |
+5 . 3 2+3 | 4 .+3 4 6 | (5 . 3) (3+4)+5 |
+6 . 4 (1'+7)+6 | 5 . 3 3+4 | 5 5 6 7 | 1' . . 0 |]
+> Tu sam-bu-lo ni ton-ding-ku do ma-lu-ngun au tong-tong Ai di-si do da-po-ton-ku Ho-so-na-ngan i to-ngon. Tu sam-bu-lo ni-ton-ding-ku do ma-lu-ngun au tong-tong. Au na so-rat ja-la lo-ja sa-le-leng di ta-no on.
+#V
+Tu sambulo ni tondingku do malungun au tongtong
+Ai disi do dapotonku Hosonangan i tongon.
+Tu sambulo ni tondingku do malungun au tongtong.
+Au na sorat jala loja saleleng di tano on.
+-
+Di sambulo ni tondingku, idaonku Jesus i
+Tong di lambung ni Tuhanku, sonang, saban rohangki.
+Di sambolu ni tondingku dapot au do Tuhanki,
+Tuhan Jesus, Tuhan Jesus, Sipalua tondingki.
+-
+Tu sambulo ni tondingku tole hita borhat be,
+Mandapothon Debatanta dohot dongan sasude.
+Tu sambulo ni tondingku, tole hita borhat be,
+Unang tinggal nanggo sada. Naeng ma sahat sasude.

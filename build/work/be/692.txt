@@ -1,0 +1,35 @@
+@be 692
+@bl 0
+@title Hupasahat tu tanganMu
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Huria Jerman; Lagu: WK Fued Lied, 1900; Terj.: Biv. MH. Sitorus
+@pages 722 723
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 ('pangkirimanku') beda ejaan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 692) | https://bukuende.wordpress.com/2013/06/13/hupasahat-tu-tanganmu-buku-ende-no-692-buku-logu-no-692/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 692. Angka 5 dicoret (kres) = Fis di balok → #5.
+@check Birama akhir tercetak "1 . . 0" tanpa titik atas, balok = Bes4 (oktaf atas) → ditulis 1'. Birama 3 baris 5 "5" bertitik atas = F5 di balok.
+#A
+3+4 | 5 1' 2' 7 | 1' . 5 6 | 4 . 5 . |
+3 . . (3+4) | 5 1' 2' (3'+4') | 3' . 2' 1'+6 | (5 1') . 7 |
+1' . 0 3' | 2' 1' 7 6 | (6 #5) 6 1' |
+(2' 1') (7 6) | 5 . . 6 | 5 1' 2' (3'+4') |
+3' . 5' 1' | (6 2'+1' 7) 7 | 1' . . 0 |]
+> Hu pa-sa-hat tu ta-ngan-Mu ma ton-ding-ki, ndang o-lo si-rang a-hu si-an Tu-han-ki, Ho do pang-ki-ri-man-ku nang ngo-lung-ki, ha-la-san ni ro-hang-ku O Tu-han-ki.
+#V
+Hupasahat tu tanganMu ma tondingki,
+ndang olo sirang ahu sian Tuhanki,
+Ho do pangkirimanku nang ngolungki,
+halasan ni rohangku O Tuhanki.
+-
+Hupasahat tu tanganMu ma ngolungki,
+hosangku nang tondingku sai di Ho ma i,
+Hatangku, pambaenanku, Parangengki,
+sai sahat tu tanganMu O Tuhanki.
+-
+Hupasahat tu tanganMu ma diringki.
+Manongtong ma rohangku hot dameMi.
+Ndang lupa sian ahu panghophopMi,
+nang holong ni rohaMu O Tuhanki.

@@ -1,0 +1,35 @@
+@be 227
+@bl 26
+@title Jesus ngolu ni
+@key Ab
+@meter 9/8
+@credit Ernst Lachenmann, 1899
+@pages 207 208
+@check Birama 9/8: satu token = not 1/8. Birama 2 dicetak "2 . 5 ." — not balok buku menunjukkan dua not 1/4 bertitik (3 + 3 per delapan), dipakai itu.
+@check Birama akhir dicetak "1 . ."; not balok buku not 1/2 bertitik (6/8) melengkapi ketukan gantung 3/8.
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: L2 kata 4 beda ejaan; L3 kata 8 buku tercetak "pangkophopMi" (dicek scan hlm 207).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 227) | https://bukuende.wordpress.com/2013/06/16/jesus-ngolu-ni-tondingku-buku-ende-no-227-buku-logu-no-26/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+(5, 6,) 5, | 1 . . 3 . . (3 2) 1 | 2 . . 5, . . v (5, 6,) 5, |
+2 . . 4 . . (4 3) 2 | 3 . . . . . v (3 2) 3 | 5 . . 3 . . (3 2) 1 |
+1 . . 6, . . v (2 1) 6, | 5, . . 1 . . 3 . 2 | 1 . . . . . |]
+> Je-sus ngo-lu ni ton-ding-ku, Ho do ha-po-ru-san-ki. Gok di Ho na-ma di-ring-ku, ro di na-sa lang-kang-ki
+#V
+Jesus ngolu ni tondingku, Ho do haporusanki.
+Gok di Ho nama diringku, ro di nasa langkangki
+-
+Lam tangkas ma patuduhon tu au on pangkophopMi,
+Asa i huhalungunhon; Hot ma au di lambungMi.
+-
+Jangkon au baen siseanMu, na girgir tu podaMi.
+Sai surdukkon ma tanganMu asa tong hutiop i.
+-
+Tangkup au Jesus Tuhanku, tiop au mansai gomos,
+Asa unang runsur pathu sian dalan na tingkos.
+-
+Raphon Ho do au mangalo dosa dohot hisaphi;
+Ai sumurut do pangago, anggo Ho di lambungki.
+-
+TondiMi sai tong paian di au on tinobusMi!
+Tung patau ma au manean, pinarbagabagaMi.

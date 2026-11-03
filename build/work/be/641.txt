@@ -1,0 +1,44 @@
+@be 641
+@bl 0
+@title O Tondi Porbadia i
+@key F
+@meter 3/4
+@credit Syair: Der Geist des Hern erfult das All; Maria Luise Thurmair, 1941 · Terj.: Dcs. Bonaria Hutabarat / Pdt. Esra Pangaribuan · Lagu: Melchior Vulvius, 1609
+@pages 655 656
+@check Buku mencetak dua lagu bernomor 641: "641a. O Tondi Porbadia i" (hlm 655–656, ditranskrip di sini) dan "641b. O Tondi Parbadia i" (hlm 657, melodi & syair lain: Come Holy Ghost our hearts inspire / The Este's Psalter 1592). Format hanya punya satu entri per nomor → 641b belum masuk (draf disimpan terpisah oleh agen).
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Kredit tercetak "Der Geist des Hern erfult", "Melchior Vulvius" (ejaan lazim: Herrn erfüllt, Melchior Vulpius) — ditulis apa adanya.
+@check Not 7 di "7 1 6" dan "1 . 7" tidak jelas bertitik bawah; balok = E4 → ditulis 7,.
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 & 7 beda (kata 'i' setelah Porbadia; 'do'); dicek ulang ke scan hlm 656: buku mencetak 'Porbadia i' dan 'do'.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 641) | https://bukuende.wordpress.com/2013/06/16/o-tondi-porbadia-i-buku-ende-no-641a-buku-logu-no-641a/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5 5 5 | (3 .+2 1) | 7, 1 6, | 5, . . |
+5 5 3 | (6 .+5) 4 | (3 . 2) | 1 . . :|
+> O Ton-di Por-ba-di-a i, Si-go-hi par-lu-hu-tan.
+> mar-o-lop-o-lop do-lok i, mar-ha-sak nang ga-lum-bang.
+#B
+1 1 2 | 3 . 5 | 4 . 3 | 2 . 0 |
+1 2 3 | 2 . 1 | 7, . 6, | 5, . 0 |
+1 3 5 | (4 .+3) 2 | (1 . 7,) | 1 . . |]
+> Sa-lu-hut na ti-nom-pa i, gok be las ni ro-ha-Na i, mar-su-rak Ha-le-lu-ya.
+#V
+O Tondi Porbadia i, Sigohi parluhutan.
+marolopolop dolok i, marhasak nang galumbang.
+Saluhut na tinompa i, gok be las ni rohaNa i,
+marsurak Haleluya.
+-
+O Tondi Porbadia i, pabangkit panurirang,
+papatar asi holongMi, tu angka na hansitan.
+Sumurut do na holom i, tubu ma panghiromon i,
+endehon Haleluya.
+-
+Di Tondi Porbadia i, raphon Debata Ama,
+dohot Tuhanku Jesus i, Sitobus manisia.
+Naung mate di hau silang i, hehe manaek tu surgo i,
+endenta Haleluya.
+-
+O, Tondi Porbadia i, sigohi langit tano,
+pajongjong harajaonMi, disaluhutna bangso.
+Sai parrohai HuriaMi, pasangap Kristus Tuhan i,
+olophon Haleluya.

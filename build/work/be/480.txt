@@ -1,0 +1,38 @@
+@be 480
+@bl 409
+@title Songon sada batang aek
+@key F
+@meter 4/4
+@credit Ret. No. 77 · Lagu: J. Montain
+@pages 457 458
+@check Bagian "Koor" (Lam bagas ... / Dame ni Tuhanku ...) dicetak dengan dua baris lirik tanpa tanda ulang; kedua baris ditulis sebagai dua putaran bagian B.
+@check Ayat 2–3 menulis reff "Dame ni ...." saja.
+@status Lirik dicek · 6/14 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di 8 baris (antara lain "tongtong", "marna montok", "Tuhan ku", "holsoholso", "begu", "mubauba", "habasaronMi"); dicek ulang di scan hlm 457–458: buku mencetak seperti yang ditulis ("marna montok" dan "Tuhan ku" disesuaikan dengan cetakan). Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 480) | https://bukuende.wordpress.com/2013/06/18/songon-sada-batang-aek-buku-ende-no-480-buku-logu-no-409/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 1 2 2 | 3 . 5 . | 4 4 2 2 | 3 . . . |
+1 1 2 2 | 3 . 1 . | 7, 7, 6, 6, | 5, . . . |
+> So-ngon sa-da ba-tang aek do da-me-Mi. na tong-tong ma-ba-or do tu ro-hang-ki.
+#B
+5 5 5 5 | 6 . 5 . | 4 4 3 3 | 2 . . . |
+3 3 2 2 | 1 . 2 . | 3 3 2 2 | 1 . . . |]
+> Lam ba-gas, lam go-go a-ri-a-ri, i Nang born-gin ndang o-lo mar-na mon-tok i,
+> Da-me ni Tu-han ku ha-so-na-ngan, ki, Na-sa hol-so-hol-so do di-aup-hon i.
+#V
+Songon sada batang aek do dameMi.
+na tongtong mabaor do tu rohangki.
+Lam bagas, lam gogo ariari, i
+Nang borngin ndang olo marna montok i,
+Dame ni Tuhan ku hasonangan, ki,
+Nasa holsoholso do diauphon i.
+-
+Molo hasonanganMi manggohi au,
+Ingkon sorimago dohot begu lao.
+Ndang be na tahutan, ndang tarsonggot au,
+Molo dameMi mangkaliangi au. Dame ni ....
+-
+Sude mubauba do di tano i.
+Sondang ni dameNa do so sundut i.
+Sonang maradian disi rohangki,
+Tongtong pujionku habasaronMi. Dame ni....

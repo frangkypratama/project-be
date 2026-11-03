@@ -1,0 +1,42 @@
+@be 732
+@bl 0
+@title Di las ni roha nang sitaonon
+@key F
+@meter 6/8
+@credit Syair: In dir ist Freude, Cyriakus Schneegass, 1546-1598; Terj.: Dcs. Bonaria Hutabarat; Lagu: Giovanni Giacomo Gastoldi, 1591
+@pages 779 780
+@status Lirik dicek · 11/13 baris sama dgn pembanding
+@check Bagian suplemen; tidak ada nomor "Logu No." di buku → @bl 0.
+@check Baris 2 not pertama tercetak "3̇" (titik atas), balok = A4 → ditulis 3.
+@check Bagian B: angka "6 7̸ 5" (7 dicoret), balok = Es5 (tanda mol) → ditulis b7.
+@check Bagian B diakhiri garis ganda tanpa titik ulang, tetapi ada dua baris lirik → ditulis :| (diulang).
+@check Ayat 1 (dua baris lirik di bawah not) disusun ke #V; ayat 2 tercetak sebagai teks.
+@check Pembanding lirik: baris 2 dan 5 beda ejaan. Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 732) | https://bukuende.wordpress.com/2013/06/13/di-las-ni-roha-nang-sitaonon-buku-ende-no-732-buku-logu-no-732/ | proofreading per baris
+#A
+5 5 4 | 3 . 1 5 5 4 |
+3 . 1 5 . 4 | (3 .+2) 1 2 . 2 |
+1 . . :|
+> Di las ni ro-ha nang si-ta-o-non Je-sus Kris-tus do-ngan-ki,
+> di-le-hon go-go ni par-ton-di-on di a-pu-li ro-hang-ki.
+#B
+3 4 5 | 6 . 4 6 b7 5 |
+6 . 4 5 3 4 | 5 . 5 4 2 3 |
+4 . 4 4 4 3 | (2 .+1) 7, 1 1 7, | 1 . 0 :|
+> U-ru-pi a-hu O Tu-han Je-sus ho do go-gong-ku ha-tu-a-on-ku pos ni ro-hang-ku Ha-le-lu-ya.
+> di ha-ngo-lu-an nang ha-ma-te-an sai di ling-go-man ni a-si ro-ha au ma-ri-nga-nan Ha-le-lu-ya.
+#V
+Di las ni roha nang sitaonon Jesus Kristus donganki,
+dilehon gogo ni partondion di apuli rohangki.
+Urupi ahu O Tuhan Jesus ho do gogongku hatuaonku
+pos ni rohangku Haleluya.
+di hangoluan nang hamatean sai di linggoman ni asi
+roha au maringanan Haleluya.
+-
+Molo di ho au o Tuhan Jesus talu do sibolis i
+ai na maruba do sitaonon gabe las ni rohangki
+alani i ma pasangapon hu,
+sai pujionhu tongtong goarMu
+O Tuhan Jesus haleluya,
+sai boan ahu ale Tuhanku tu sambulongku,
+na dilambungMu, pangkirimanhu, Haleluya.

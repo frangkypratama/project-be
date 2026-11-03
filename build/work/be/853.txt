@@ -1,0 +1,22 @@
+@be 853
+@bl 0
+@title Haleluya ( 12 x )
+@key G
+@meter 4/4
+@credit Syair dan lagu: "Alleluya". Jerry Sinclair
+@pages 940
+@status Lirik dicek · 3/3 baris sama dgn pembanding
+@check Pembanding lirik: 3/3 baris sama (12× haleluya). Pembanding menyebut Buku Logu No. 853; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 853) | https://bukuende.wordpress.com/2013/06/13/haleluya-12x-buku-ende-no-853-logu-no-853/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Lirik tercetak dengan pemenggalan tak konsisten ("Hale - luya", "ha-le-luya") → dipenggal seragam ha-le-lu-ya.
+#A
+5,+5, | 1 1 . 1+7, | 6, 6, . 6,+1 | 7, 7, . 6,+7, |
+6, 5, . 5,+5, | 1 1 . 1+7, | 6, 6, . 6,+1 | 7, 7, . 6,+7, |
+1 1 . 0 | 3 . . 3 | 4 4 . . | 2 . . 2 | 3 3 . . |
+1 . . 1 | 2 2 . . | 7, . . 7, | 1 1 . |]
+> Ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya.
+#V
+Haleluya, haleluya, haleluya, haleluya,
+haleluya, haleluya, haleluya, haleluya,
+haleluya, haleluya, haleluya, haleluya.

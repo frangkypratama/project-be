@@ -1,0 +1,60 @@
+@be 361
+@bl 157
+@title Na denggan situtu
+@key Bb
+@oct -1
+@meter 4/4
+@credit Lagu: Johann Georg Ebeling 1666
+@pages 344 345
+@status Lirik dicek · 29/32 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 29 dari 32 baris sama; beda ejaan di baris 18 (Ima), 28 (dialamanna), 30 (matua); dicek ulang ke scan, sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 361) | https://bukuende.wordpress.com/2013/06/16/na-denggan-situtu-do-buku-ende-no-361-buku-logu-no-157/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian Ende Psalm, judul bagian "Psalm 92".
+#A
+1 | 3 5 1' 3' | 2' 2' . v 7 | 1' 5 5 .+4 | 3 . . :|
+> Na deng-gan si-tu-tu do ma-mu-ji De-ba-ta.
+> Ja-ho-wa na tu-mim-bo na sai tong-tong ba-sa!
+#B
+1' | 5 5 6 6 | 5 5 . v 3' | 2' 1' 7 7 | 6 . . v 5 |
+1' 2' 3' 1' | 4' . 3' v 2' | 1' 1' 1' 7 | 1' . . |]
+> Deng-gan do pa-bo-a-hon ma-no-got a-si-Mi, bo-da-ri mang-en-de-hon bur-juM nang sin-tong-Mi.
+#V
+Na denggan situtu do mamuji Debata.
+Jahowa na tumimbo na sai tongtong basa!
+Denggan do paboahon manogot asiMi,
+Bodari mangendehon burjuM nang sintongMi.
+-
+Mardongan sipiltihon na denggan situtu,
+Naeng ma tongtong pujion ni nasa na burju
+Ho, Tuhan Debatangku Ai las ni rohangki
+Do na tongtong binaenMu di pambahenanMi.
+-
+Ai jadijadianMu mansai balga do i.
+Nang angka pingkiranMu mansai bagas do i.
+Ndang dapot i tandaon ni baoa na bodo,
+Ai holan sibotoon ni na porsea do.
+-
+Martumbur pe parjahat di atas tano on.
+Sobokkon duhutduhut, ndang mian i tongtong.
+Tompu do disiaphon Ho saluhutna i;
+Alai Ho do manongtong, Ho na tumimbul i!
+-
+MusuM, o Debatangku! Sibaen na jahat i,
+Ima siaphononMu, marserak ma sude.
+Alai patimboonMu ma au naposoMon,
+Huhut pargogoanMu mamuji Ho tongtong.
+-
+Pamereng ni matangku sombu ma baenonMi,
+Marnida hadadabu ni angka alongki.
+Au naeng agohononna, hape na sundat do
+Tinahi ni rohana, o Tuhan, dibaen Ho.
+-
+Martumbur do partigor tudoshon bagot i,
+Martunas do nasida songon hau ares i.
+Nasida, na sinuan di bagasjoro, i
+Do na marbungabunga dialamanna i.
+-
+Sai tubu pinomparna di na ubanon i.
+Margogo do nasida di na matua i.
+Girgir dibaritahon na tigor Tuhan i;
+Na so marhageduhon pambaenNa sasude.

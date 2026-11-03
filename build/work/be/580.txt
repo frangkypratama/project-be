@@ -1,0 +1,34 @@
+@be 580
+@bl 0
+@title Ro do au Tuhan tu Ho
+@key Eb
+@meter 4/4
+@credit Syair dan Lagu: I just come tu praise the Lord; Wayne Romero; Terj.: Pdt. J.A.U. Doloksaribu
+@pages 556 557
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Ps. 72 : 19-20.
+@check Tanda mula balok tercetak 4 mol, tetapi do angka = Es (1 = Es4 di garis bawah balok) → not 7 di balok = Des; ditulis b7 sesuai balok. Perlu dicek.
+@check Garis birama tercetak setelah ketukan gantung "3 5" sehingga birama berikutnya hanya 3 ketuk (5 3 5 . 6); di sini digabung menjadi satu birama 4 ketuk.
+@check Birama akhir "2 . 1" (garis atas) ditulis 1/8 bertitik + 1/16; balok tampak dua 1/8.
+@check Lirik di bawah not tercetak "Tu-hon" (ayat lain: Tuhan) — ditulis apa adanya; judul "Ro do au Tuhan tu Ho".
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 beda: buku tercetak "Tuhon" (salah cetak) di lirik bawah not.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 580) | https://bukuende.wordpress.com/2013/06/16/ro-do-au-tuhan-tu-hobuku-ende-no-580-buku-logu-no-580/ | teks lirik
+#A
+3+5 5+3 5 .+6 | 1 . . . |
+6+1' 1'+6 1' .+2' | (4 .+.+5+6 5) . |
+3+5 5+3 5 .+6 | 3 (1+2+3+.) 1 . |
+3+2 1+1 (b7,+1) (2+.+.+1) | 1 . . . |]
+> Ro do au Tu-hon tu Ho ro au lao ma-mu-ji Ho ro do au lao man-da-pot-hon Ho ro au lao ma-mu-ji Ho
+#V
+Ro do au Tuhon tu Ho, ro au lao mamuji Ho
+ro do au lao mandapothon Ho, ro au lao mamuji Ho
+-
+Ro do au Tuhan tu Ho, ro au lao sumomba Ho
+ro do au lao mandapothon Ho, ro au lao sumomba Ho.
+-
+Ro do au Tuhan tu Ho, lao manghaholongi Ho
+ro do au lao mandapothon Ho, lao manghaholongi Ho.
+-
+Mauliate ma Tuhan, di Ho ala basaMi
+hamauliateon ma Tuhan di Ho ala basaMi

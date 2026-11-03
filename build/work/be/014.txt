@@ -1,0 +1,41 @@
+@be 14
+@bl 57
+@title Puji hamu Jahowa tutu
+@key Bb
+@oct -1
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 13 14
+@check Not pertama dicetak dengan titik di bawah ("1̣"), tetapi not balok dan not lain menunjukkan do = Bes rendah; titik dianggap noda.
+@status Lirik dicek · 15/18 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 15 dari 18 baris sama persis; 3 baris beda pemisahan kata. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 14) | https://bukuende.wordpress.com/2013/06/16/puji-hamu-jahowa-tutu-buku-ende-no-14-buku-logu-no-57/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 3 1 | 5 . 0 5 | 1' . 2' 2' | 3' . 0 3' | 4' . 3' . |
+3' . 2' v 2' | 3' 2' 1' 7 | 6 . 2' . | (2' 1') (1' 7) | 1' v 3' 3' 3' |
+4' . 2' . | 3' v 1' 1' 1' | 2' . 7 . | 1' . . 0 |]
+> Pu-ji ha-mu Ja-ho-wa tu-tu, par-deng-gan ba-sa, par-a-si-ro-ha sa-le-leng-na i; Par-deng-gan ba-sa i, par-a-si-ro-ha i.
+#V
+Puji hamu Jahowa tutu, pardenggan basa,
+Parasiroha salelengna i;
+Pardenggan basa i, parasiroha i.
+-
+Ingot tongtong ale tondingkon sude na denggan,
+Na dipasonggop Debata tu ho:
+Denggan basaNa do na pangoluhon ho.
+-
+Nda tung adong pargogo tongon,
+Na martudosan tu Tuhan Debata di surgo i,
+Sun hinagogo i, sun hinagogo i,
+-
+Songkal tongtong Jahowa tongon,
+Na marmulia di sasude na tinompaNa i.
+Hamuliaon ma di Tuhan Debata.
+-
+Somba hamu Jahowa burju.
+Marhapantunon ma hita di Tuhanta Debata.
+Burju tasomba ma Tuhanta Debata.
+-
+Sai burju be marende sude.
+Mamuji-muji Tuhanta Debata Jahowa i.
+Parasiroha i na marmulia i.

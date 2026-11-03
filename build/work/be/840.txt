@@ -1,0 +1,41 @@
+@be 840
+@bl 0
+@title Ale Amanami
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair & Lagu : Pdt. W. Silitonga (Pensilwally), 1986
+@pages 931 932 933
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 8: pembanding hanya memuat dua 'Amen'; buku mencetak tiga (A-men A-men A-men).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 840) | https://bukuende.wordpress.com/2013/06/09/ale-amanami-buku-ende-no-840-buku-logu-no-840/ | Pembanding menyebut Buku Logu No. 840; buku tidak mencetak nomor Logu.
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan). Lagu pertama bagian "ENDE LITURGI"; kepala lagu mencantumkan "Mat. 6:9-13".
+@check Hlm 931 baris 1 birama 3: angka "2̇ ⌣ . 2̇ 4  4 4" (2̇ bertali), balok C5 2 ketuk + C5–Es4 1/8 + Es4 Es4 → ditulis (2' . 2')+4 4+4.
+@check Hlm 932 baris 4 birama 3: angka tercetak "3̇  3̇  2̇ 2̇" (3 ketuk) tanpa titik, balok D5 1/2 + D5 1/4 + C5 C5 → ditulis 3' . 3' 2'+2' mengikuti balok.
+@check Hlm 932 baris 3 birama 3: "pa-ne - sa": suku kata "ne" ditahan atas (2̇ 1̇) + 2̇ (ditulis `_`).
+@check Lagu tanpa bait terpisah; teks di #V disusun dari lirik di bawah not.
+#A
+5 | 1' . 3 3 | (3 .+2) 2 .+2' | (2' . 2')+4 4+4 |
+(4 .+3) 3 3 | 1' 1'+1' 1'+1' 2'+3' | (3'+2') 2' . 2' |
+3' .+3' 4' 4'+4' | 4' 3' . 3' | 5' .+2' 2'+2' 3'+4' |
+(4' 3') . 3'+3' | 2'+2' 2'+2' 2' 2'+2' | 2' 2'+2' 2' 2' |
+2' . 2' . | 3' .+3' 4' .+4' | (3' .+2') 1' 1' |
+4' 4' 3' 3'+3' | 2' .+2' 2' .+2' | 2' . 2' . |
+3' .+3' 4' 4'+4' | (3' .+2') 1' 1' | 1' .+1' (2'+1') 2'+3' |
+3' . 3' .+3' | 4' . 4' .+4' | 3' . 3' 2'+2' |
+3' . 2' .+1' | 1' . 1' . | 1' .+3 3 3+3 |
+(3 .+2) 2 . | 2' . 2 .+4 | (4 .+3) 3 3 |
+1' 1' 1' .+1' | 1'+1' 2'+3' (3' .+2') | 2' . . 2' |
+3' 1'+1' 2'+2' 2'+2' | 3' 1' 2'+2' 2'+2' |
+3' 1' 3'+3' 3'+3' | 4' . 3' 2' | 5' . 4' 3' |
+2' . . . | 1' . . . | 1' . 1' . | 3' . 3' . | 5' . 5' . |]
+> A-le A-ma-na-mi na di-ba-nu-a gin-jang, sai pi-nar-ba-di-a ma go-ar-Mu, sai ro ma Ha-ra-ja-on-Mu, sai saut ma lo-mo ni-ro-ham di ba-nu-a to-nga on so-ngon na di ba-nu-a gin-jang. Le-hon ma di ha-mi sa-da-ri-on ha-ngo-lu-an si-ap a-ri! Se-sa ma do-sa-na-mi so-ngon pa-ne _ sa-na-mi di do-sa ni do-ngan na-mar-do-sa tu-ha-mi, u-nang-ha-mi to-gi-hon tu pang-un-jun-an! Pa-lu-a ma ha-mi si-an pang-a-go! Ai Ho do nam-pu-na Ha-ra-ja-on do-hot ha-go-go-on ro di ha-sa-ngap-on, sa-le-leng-le-leng-na. A-men A-men A-men.
+#V
+Ale Amanami na di banua ginjang,
+sai pinarbadia ma goarMu, sai ro ma HarajaonMu,
+sai saut ma lomo ni roham di banua tonga on songon na di banua ginjang.
+Lehon ma di hami sadarion hangoluan siap ari!
+Sesa ma dosanami songon panesanami di dosa ni dongan na mardosa tu hami,
+unang hami togihon tu pangunjunan! Palua ma hami sian pangago!
+Ai Ho do nampuna Harajaon dohot hagogoon ro di hasangapon, salelenglelengna.
+Amen Amen Amen.

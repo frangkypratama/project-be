@@ -1,0 +1,22 @@
+@be 859
+@bl 0
+@title Mauliate ma Tuhan
+@key G
+@meter 4/4
+@credit Syair: Voor al uw goede gaven, heer/For health and strenght; Kanon Bolanda · Terj.: Biv. M. H. Sitorus
+@pages 944
+@status Lirik dicek · 2/3 baris sama dgn pembanding
+@check Pembanding lirik: 2/3 baris sama; ayat 3 beda ejaan kata ke-7 (buku tercetak jelas "Amien"); teks buku dipakai.
+@check Pembanding menyebut Buku Logu No. 859; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 859) | https://bukuende.wordpress.com/2013/06/16/mauliate-ma-tuhan-buku-ende-no-859-buku-logu-no-859/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Kanon 4 suara (angka berlingkar ①–④ = masuknya suara); hanya satu baris melodi yang ditranskrip. Tanda ulang di akhir.
+#A
+5, | 5 5 5 4 | 3 3 3 2 | 1 1 1 7, | 1 . . :|
+> Ma-u-li-a-te ma Tu-han a-la ni ba-sa-Mi.
+#V
+Mauliate ma Tuhan ala ni basaMi.
+-
+Panganon nang inumon nang sude ni lehonMi.
+-
+Puji Tuhan, puji Tuhan, Puji Tuhan. Amien.

@@ -1,0 +1,52 @@
+@be 71
+@bl 156
+@title O Raja na sumurung
+@key C
+@meter 4/4
+@credit Joachim Neander, 1655
+@pages 62 63
+@status Lirik dicek · 21/24 baris sama dgn pembanding
+@check Judul di kepala lagu "Beha ma panjalongku" (nama Logu No. 156); judul di sini memakai baris pertama lirik.
+@check Ayat 3 baris 1–2: ujung baris memudar di scan ("o Tuha…", "roha…i"); ditulis "o Tuhanku" (sesuai pembanding dan jumlah suku kata) dan "rohaMi" — mohon dicek di buku.
+@check Melodi ini lazim dikenal sebagai VALET WILL ICH DIR GEBEN (Teschner); buku mencantumkan Joachim Neander 1655.
+@check Pembanding lirik: bukuende.wordpress.com — 21 dari 24 baris sama persis; 3 baris beda: ayat 1 "paro harajaonMu" (dicek ke scan, sesuai buku), ayat 5 "tigor" (ejaan), ayat 3 baris 1 kata akhir — scan pudar, kini ditulis "Tuhanku" mengikuti pembanding.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 71) | https://bukuende.wordpress.com/2013/06/16/o-raja-na-sumurung-buku-ende-no-71-buku-logu-no-156/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 5 5 6 7 | 1' . 1' v 3' | 2' 1' 6 7 |
+1' . . :|
+> O Ra-ja na su-mu-rung, o Je-sus, Tu-han-ki!
+> Na so he-a mar-u-jung do ha-ra-ja-on-Mi.
+#B
+1' | 3' 3' 2' 1' | 2' . 7 v 5 | 1' 7 6 6 |
+5 . . v 5 | 3 5 6 5 | 5 . 3 v 5 | 6 1' 1' 7 | 1' . . |]
+> Pa-sa-ngap ma go-ar-Mu di ha-si-a-ngan on. pa-ro ha-ra-ja-on-Mu di a-tas ta-no on.
+#V
+O Raja na sumurung, o Jesus, Tuhanki!
+Na so hea marujung do harajaonMi.
+Pasangap ma goarMu di hasiangan on.
+paro harajaonMu di atas tano on.
+-
+Parroha sian purba, na ro sumomba Ho,
+Diboan siluana, lao pasangaphon Ho.
+Diida do bintangMu na marsinondang i,
+Paboa nunga tubu, Ho, Sipalua i.
+-
+Ho do marhasangapon hian, o Tuhanku
+Alai di hamoraon ndang ringkot rohaMi,
+Ndang ro Ho manjalahi. Ugasan tano on;
+Na porsuk do ditaoni Ho di portibi on.
+-
+Laos tong do Ho marsangap huhut na songkal pe,
+BasaM do na gumortap, nang hatigoranMi;
+Sude na burju roha do diramoti Ho.
+Alai na jungkat roha sai aloonMu do.
+-
+Asi rohaM di ahu, pamasuk ma au on
+Tu na nirajaanMu, pasonang au tongtong.
+Sude na tau pangago, pabali sian au;
+Ai naeng tigor tu surgo, tongtong mardalan au.
+-
+Lopokkon tu rohangku HataM na sintong i,
+Patiur ma rohangku marhite bintangMi.
+Ho ingkon oloanku rap dohot dongan i,
+Tongtong do Ho Rajangku nuaeng nang sogot pe.

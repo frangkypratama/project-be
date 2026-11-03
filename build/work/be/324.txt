@@ -1,0 +1,35 @@
+@be 324
+@bl 65
+@title Hamu saluhut halak
+@key G
+@meter 4/4
+@credit Heinrich Isack 1517
+@pages 301 302
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 4 (rohaMu) dan 8 (Huhur); dicek ulang ke scan hlm 302, buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 324) | https://bukuende.wordpress.com/2013/06/16/na-ro-muse-na-holom-buku-ende-no-324-buku-logu-no-65/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Judul di kepala lagu "Hamu saluhut halak" (nama Logu No. 65); baris pertama lirik "Na ro muse na holom".
+#A
+3 | 1 2 3 5 | 4 . 3 v 3 |
+5 5 2 3 | 1 . 7, v 5, | 1 2 3 3 | 2 . v 3 |
+> Na ro mu-se na ho-lom, ju-mo-lo a-sa mo-dom hu pu-ji go-ar-Mi. O
+#B
+1 2 3 5 | 4 . 3 v 3 | 5 5 2 3 |
+1 . 7, v 5, | 1 2 (3+4) (5+4) | 3 2 1 |]
+> Je-sus, ta-tap a-hu; Sai pa-su-pa-su a-hu, Hu-hut pa-ti-ur ro-hang-ki.
+#V
+Na ro muse na holom, jumolo asa modom hupuji goarMi.
+O Jesus, tatap ahu; Sai pasupasu ahu,
+Huhut patiur rohangki.
+-
+Nuaeng pasahatonku tu asi ni rohaMu
+Dagingku, tondi pe, ulaon ni pamatang.
+Pambaenan haholoman, padao ma sian au sude,
+-
+Ho do mangkaholongi, Ho do mangkaliangi,
+Huhur mamio au, Ho do palas rohangku,
+Balga ma etongonku rohaM na denggan i di au.
+-
+Sai masipaboaan arian dohot borngin,
+Mandok : mardalan au tumopot hasonangan,
+Na di banuaginjang, tusi, o Jesus, taiti au.

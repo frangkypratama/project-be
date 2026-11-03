@@ -1,0 +1,49 @@
+@be 40
+@bl 153
+@title Las situtu rohangku
+@key F
+@meter 4/4
+@credit Michael Schirmer, 1596
+@pages 33 34
+@check Kredit tercetak "Lagu : Michael Schirmer 1596" ditulis sesuai buku (Michael Schirmer lazimnya dikenal sebagai penulis syair, lahir 1606) — perlu dicek manusia.
+@status Lirik dicek · 19/24 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 19 dari 24 baris sama persis; 5 baris beda ejaan (a.l. “sangkapNa”, “mandali”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 40) | https://bukuende.wordpress.com/2013/06/16/las-be-ma-rohamuna-buku-ende-no-40-buku-logu-no-153/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 1 5 3 1 | (1 3) 2 v 3 | 5 4 3 2 | 1 . . :|
+> Las be ma ro-ha-mu-na, na ti-gor ro-ha i!
+> Naung ro do Ra-ja-mu-na, mam-bo-an tu-a i,
+#B
+3 | 3 5 5 3 | 2 . . 1 | 3 4 5 2 | 3 . 1 v 3 |
+5 4 3 1 | (1 3) 2 v 3 | 5 4 3 2 | 1 . . |]
+> Ndang mar-pang-gor-tap i ang-go di ha-ro-ro-na; A-lai tuk do go-go-na pa-dao-hon je-a i.
+#V
+Las be ma rohamuna, na tigor roha i!
+Naung ro do Rajamuna, mamboan tua i,
+Ndang marpanggortap i anggo di harorona;
+Alai tuk do gogona padaohon jea i.
+-
+Ndang dilului rohaNa, dison sonangNa i;
+Di surgo habangsaNa, harajaonNa i,
+Ai naeng buni dope di tano on sangapNa;
+Duang tulus pe sangkapNa, patar ma i sude.
+-
+Hamuna, angka raja, oloi ma Raja on;
+Ai hangoluanmuna do dipatupa on
+Ai molo tois hamu, manjua di hataNa.
+Sai lalu do rimasNa mangago tu hamu.
+-
+Hamu angka na sangap didok portibi on,
+Ibana do sumangap di hasiangan on.
+Sai bege hata i, sai unang ma mandali
+HataNa nang sahali tu rohamuna i.
+-
+Hamu na marsak roha di hasiangan on,
+Dibaen godang ni dosa na di portibi on,
+Sai hehe ma hamu padirgak ulumuna,
+Ai hamoraonmuna, do Jesus i tutu.
+-
+Tibu ma ulahanNa manapot jolma i,
+Sude hasangaponNa tarida ma disi.
+Sai borhat ma hamu manomu Rajamuna;
+Pagalak sulumuna Ibana ro tibu.

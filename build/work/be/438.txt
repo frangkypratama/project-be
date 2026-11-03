@@ -1,0 +1,35 @@
+@be 438
+@bl 391
+@title Beta sai taendehon ma.
+@key D
+@meter 4/4
+@credit Z. No. 438
+@pages 420 421
+@check Kepala lagu tercetak "Logu No. 391"; ditulis sesuai buku. "4*" = 4 kres (Gis), "1*" = 1 kres (Dis).
+@check Hlm 420 baris 2: garis birama tercetak sesudah "7̣̄ 1̄" (birama 1 ketuk lalu 3 ketuk); digabung menjadi satu birama 4 ketuk.
+@check Akhir bagian pertama tercetak "1̇ . . 0" (titik atas), tetapi paranada = D4 → ditulis 1 (oktaf tengah).
+@check Ayat 2 di buku diakhiri "Tung Mudar...." = ulangi bagian "Tung mudar ni Tuhanku ... mate Tuhanki".
+@status Lirik dicek · 6/9 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan "diUsehon", "humophop" dan kata tambahan di baris 4. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 438) | https://bukuende.wordpress.com/2013/06/09/beta-sai-taendehon-ma-buku-ende-no-438-buku-logu-no-391/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+5 | 5+5 #4+5 6+5 3+1 |
+7,+1 2+3 4 .+4 | 4+4 3+4 7+6 5+4 |
+3+4 5+6 5 .+5 | 5+5 #4+5 1' .+3 |
+3+2 #1+2 6 .+6 | 5+5 7+6 5+4 3+2 |
+1 . . 0+5 | 5+5 #4+5 6+5 3+1 |
+7,+4 4+4 4 .+4 | 4+4 3+4 7+6 5+4 |
+3+5 5+5 5 .+5 | 5+5 #4+5 1' .+3 |
+3+2 #1+2 6 .+6 | 5+5 7+6 5+4 3+2 | 1 . . 0 |]
+> Be-ta, sai ta-en-de-hon ma Tu-han-ta Je-sus i. Ho-sa-na di-U-se-hon do mang-kop-hop jol-ma i. Mu-dar ni Tu-han i do ha-ngo-lu-an-ki. Tung da-me ja-la las do ro-hang-ki, Tung mu-dar ni Tu-han-ku do ma-mu-ri ro-hang-ki, mar-o-lop-o-lop ton-ding-ki mar-ni-ngot a-si-Mi. O ha-tu-a-on i, na so boi sal-pu i! Hu-mop-hop au do ma-te Tu-han-ki
+#V
+Beta, sai taendehon ma Tuhanta Jesus i.
+Hosana diUsehon do mangkophop jolma i.
+Mudar ni Tuhan i do hangoluanki. Tung dame jala las do rohangki,
+Tung mudar ni Tuhanku do mamuri rohangki, marolop-olop tondingki marningot asiMi.
+O hatuaon i, na so boi salpu i! Humophop au do mate Tuhanki
+-
+Goar na asing ndang adong na doshon goar ni Tuhanku
+Jesus Kristus, dipamalum rohangki.
+O ho na marsak i, sai ro tu Tuhanmi.
+Nang ho boi malum dibaen Jesus i. Tung Mudar....

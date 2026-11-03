@@ -1,0 +1,48 @@
+@be 647
+@bl 0
+@title Ale Tuhan Debatangki
+@key C
+@meter 4/4
+@credit Syair: O God, our help in ages past; Isaac watts, 1674-1748) · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: William Croft - St. Anne
+@pages 664 665
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator. Kepala bagian: "TRINITATIS".
+@check Judul tercetak "Ale Tuhan Debatangki" (= awal ayat 2); ayat 1 mulai "Di Debata Amanta i".
+@check Ayat 2 tercetak "salelengnilelengna,i" (tanpa spasi) — ditulis apa adanya.
+@status Lirik dicek · 13/18 baris sama dgn pembanding
+@check Pembanding lirik: baris 2, 4, 6, 12, 18 beda ejaan (a.l. 'salelengnilelengna,i'); dicek ke scan hlm 664–665: sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 647) | https://bukuende.wordpress.com/2013/06/09/ale-tuhan-debatangki-buku-ende-no-647-buku-logu-no-647/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5 | 3 6 5 1' | 1' 7 1' 5 | 1' 5 6 #4 |
+5 . . 7 | 1' 6 2' 7 | 1' 6 7 5 |
+6 1' 2' 7 | 1' . . . |]
+> Di De-ba-ta A-man-ta i, ma ha-sa-nga-pon i, do-hot di A-nak, Ton-di i Si-to-lu sa-da i.
+#B
+1' . 1' . |]
+> A-men.
+#V
+Di Debata Amanta i, ma hasangapon i,
+dohot di Anak, Tondi i Sitolu sada i.
+-
+Ale Tuhan Debatangki Ho haporusanki
+salelengnilelengna,i, Ho do haposanki
+-
+Ho Tuhan sian nahinan, Ho parlinggoman i
+di angka na posea i, Ho marmuduhon i.
+-
+Tagan so ojak tano on dohot portibion
+Ho do na marmulia i na so marujung i.
+-
+Saribu taon di jolma i, sadari do di Ho
+Ho Debata na songkal i, tongtong sangap do Ho
+-
+Rumingkot do di jolma i, na olo salpu i
+alai na manontong i ndang disarihon i.
+-
+Tarsongon bunga-bunga i ngolu ni jolma i
+mangerbang manogotna i malos bodari i.
+-
+Sai parrohai ma hami be mamilang tingki i
+asa marbisuk hami be martua, sonang i.
+-
+O Debata na songkal i, linggomi hami be
+tu surgo i na sonang i, parmasuk hami be,

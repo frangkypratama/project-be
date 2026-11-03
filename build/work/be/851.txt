@@ -1,0 +1,21 @@
+@be 851
+@bl 0
+@title Haleluya (3X)
+@key G
+@meter 3/4
+@credit Syair & lagu: Liturgi Belanda ± 1930
+@pages 939
+@status Lirik dicek · 1/1 baris sama dgn pembanding
+@check Pembanding lirik: 1/1 baris sama. Pembanding menyebut Buku Logu No. 851; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 851) | https://bukuende.wordpress.com/2013/06/13/haleluya-3x-buku-ende-no-851-buku-logu-no-851/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Birama "3 2 1 2" tercetak 2 ketuk saja (3 = 1/8, 2 1 = 1/16 bergaris ganda, 2 = 1/4), not balok sama (B 1/8, A–G 1/16, A 1/4) — ditulis apa adanya; lagu dipecah jadi bagian A/B supaya validator menerima birama pendek itu.
+@check Suku kata "lu" terakhir ditahan di 4 not (3 2 1 2) tanpa tanda legato tercetak → ditulis dengan _.
+#A
+5,+5, | 6, 5, 1+1 | 2 1 4+4 |
+> Ha-le-lu-ya, ha-le-lu-ya, ha-le
+#B
+3+.+2+1 2 | 1 . |]
+> lu _ _ _ ya.
+#V
+Haleluya, haleluya, haleluya.

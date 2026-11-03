@@ -1,0 +1,44 @@
+@be 11
+@bl 185
+@title Aha ma endehononku
+@key Ab
+@meter 4/4
+@credit Christoph Anton, 1643
+@pages 9 10
+@check Birama ke-4 dicetak "2 1 2'.." sebelum tanda ulang; dibaca 2 1 2 (1/2 ketuk dua) agar genap 4 ketuk — mohon dicek.
+@status Lirik dicek · 16/20 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 16 dari 20 baris sama persis; 4 baris beda (termasuk ayat 3 baris 4 “mambu” — buku tercetak “mambu”, ayat lain “marribu”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 11) | https://bukuende.wordpress.com/2013/06/06/aha-ma-endehononku-buku-ende-no-11-buku-logu-no-185/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 .+1 7, 5, | 6, 7, 1 1 v | 3 5 4 3 | 2 1 2 . :|
+> A-ha ma en-de-ho-non-ku a-sa pu-ji-on-ku Ho,
+> A-le Tu-han De-ba-tang-ku, sai u-ru-pi au go-go.
+#B
+3 .+4 5 1 | 7, 6, 7, 5, v | 3 .+3 2 2 | 1 6, 7, 7, v |
+1 1 2 2 | 3 .+3 4 . v | 3 2 (1+2) 3 | 2 2 1 . |]
+> Ai ndang tar-pa-jo-jor a-hu a-si ni ro-haM di a-hu A-la ni hu-pu-ji Ho tung mar-ri-bu ha-li do.
+#V
+Aha ma endehononku asa pujionku Ho,
+Ale Tuhan Debatangku, sai urupi au gogo.
+Ai ndang tarpajojor ahu asi ni rohaM di ahu
+Ala ni hupuji Ho tung marribu hali do.
+-
+Sai sungguli ma rohangku mangendehon gogoMi.
+Dohot asi ni rohaMu ro di habasaronMi.
+Ai i do di hatindangkon tondi dohot pamatangku
+Ala ni hupuji Ho, Tung marribu hali do.
+-
+Ia godang ni dosangku dipingkiri rohangki,
+Longan situtu rohangku manimbangi lambas ni
+Rohami ale Tuhanku mida pangalaosingku.
+Ala ni hupuji Ho tung mambu hali do.
+-
+Haholongon, habasaron, hata hangoluan i.
+Dohot angka haporsuhon, i do parhiteanMi,
+Manogihon au anakMu masuk tu harajaonMu.
+Ala ni hupuji Ho tung marribu hali do.
+-
+Sai patogu ma rohangku pasangaphon goarMi,
+Dohot haporseaonku asa tu gandana i.
+Sai pamasuk ale Tuhan, tondingki tu hangoluan,
+Mangendehon sangapMi salelenglelengna i.

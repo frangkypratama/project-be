@@ -1,0 +1,44 @@
+@be 707
+@bl 0
+@title Hagogoon dohot apul-apul
+@key Eb
+@meter 4/4
+@credit Syair: Blott en dag / Day by day, Carolina Sandell Borg, 1865 · Terj: Pdt. M. Hutapea, Pdt. J.A.U. Doloksaribu · Lagu: Oscar Ahnfelt
+@pages 741 742 743
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0).
+@check Birama terakhir dicetak "1 . 0" (balok: Es setengah bertitik) — angka diikuti.
+@check Bagian A (dengan tanda ulang) punya 2 baris lirik; ayat 1 di buku: 4 baris di bawah not + 4 baris bagian B.
+@status Lirik dicek · 19/20 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 2 baris 2 beda ejaan "sai". Buku tetap acuan. (Pembanding menulis "Buku Logu No. 707"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 707) | https://bukuende.wordpress.com/2013/06/13/hagogoon-dohot-apul-apul-buku-ende-no-707-buku-logu-no-707/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3+.+.+2 | 1 .+1 1+1 2+3 | 3 2 . 2+1 | 7, .+7, 7,+1 2+7, | 1 . . :|
+> Ha-go-go-on do-hot a-pul-a-pul do di-le-hon Tu-han i tu au,
+> ga-nup a-ri au di-to-gu-to-gu ga-nup ting-ki di-on-di-ngi au,
+#B
+3+.+.+4 | 5 .+5 5+5 1'+7 | 7 6 . 2+.+.+3 | 4 .+4 4+6 5+4 |
+3 . . 3+.+.+2 | 1 .+1 1+1 2+3 | 3 2 . 2+.+.+1 | 7, .+7, 7,+1 2+7, | 1 . 0 |]
+> Ai hom-bar tu lo-mo ni ro-ha-Na do di-le-hon Tu-han i tu au ro mar-so-rin ar-sak las ni ro-ha ha-por-se-a-on hu di pa-tau
+#V
+Hagogoon dohot apul-apul do dilehon Tuhan i tu au,
+ganup ari au ditogu-togu ganup tingki diondingi au,
+Ai hombar tu lomo ni rohaNa do dilehon Tuhan i tu au
+ro marsorin arsak las ni roha haporseaon hu di patau
+-
+Ganup tingki Tuhan raphon ahu
+jala sai dupasu-pasu au.
+Sai di togu au molo madabu,
+talu musu jala monang au.
+Ai pargogo nasohatudosan,
+Debatangku salelengna i
+mangalehon dame dohot tua,
+tu angka nabojok roha i.
+-
+Songon Ama do tu anakkonNa
+holong ni Tuhanta i tu au.
+Ndang mansadi pangurupionNa
+hombar tu padanNa na tu au.
+Debata Amanta na di ginjang
+i do haposanhu sai tongtong.
+Dipangiringiring ni tanganNa,
+dame, sonang do rohangkinon.

@@ -1,0 +1,36 @@
+@be 151
+@bl 136
+@title Na sonang au
+@key G
+@meter 4/4
+@credit Johann Rudolf Ahle 1662
+@pages 136
+@check Judul kepala lagu (judul Logu) "Na sonang au"; baris pertama lirik "Asi rohaM! O Jesus Tuhanki".
+@check Tanda istirahat 1/4 di paranada tampak seperti tanda napas; not angka menulis 0.
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: L10 kata 7 dipisah di pembanding; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 151) | https://bukuende.wordpress.com/2013/06/09/asi-roham-o-jesus-tuhanki-buku-ende-no-151-buku-logu-no-136/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . | 2 . 2 . | 3 . 0 3 | 5 2 2 4 |
+3 . 0 2 | (3+#4) 5 5 #4 | 5 . :|
+> A-si ro-haM! O Je-sus Tu-han-ki, sai jang-kon ma au on.
+> "Sai ro ma ho," laos i do ha-ta-Mi tu au par-do-sa-on.
+#B
+0 2 | 2 2 3 2 | 4 3 3 . | 2 . 0 2 | 2 2 3 2 | 4 3 3 . |
+2 . 0 5 | 3 . 2 . | 1 . 0 5 | 3 . 2 . | 1 . |]
+> Di-son hu-bo-an pe-le-an-Mu, i ma ton-ding-ku, pa-ma-tang-ku, A-si ro-haM, sai ja-lo ma!
+#V
+Asi rohaM! O Jesus Tuhanki, sai jangkon ma au on.
+"Sai ro ma ho," laos i do hataMi tu au pardosaon.
+Dison huboan peleanMu, i ma tondingku, pamatangku,
+Asi rohaM, sai jalo ma!
+-
+Asi rohaM! Sai jangkon ma au on, gok dosa rohangki.
+Asi rohaM! Urasi rohangkon na tuk do gogoMi.
+Sai Ho tongtong ihuthononku,
+PatikMu sai ulahononku! Asi rohaM, urupi au.
+-
+Masihol au di Ho, o Jesuski, pasolhot au tu Ho!
+Ai ndang na tuk patupa lomoMi, so dongannami Ho;
+Ai Ho do parhiteannami, Ho, Jesus Sipangolu hami.
+O tua ni na solhotMi!

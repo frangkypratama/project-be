@@ -1,0 +1,38 @@
+@be 247
+@bl 159
+@title Sai hehe ma hamuna, hamu
+@key G
+@meter 4/4
+@credit G.J. Webb, 1837
+@pages 226 227
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Pembanding lirik: beda: "Kristus" (ayat 1), "i" di "di surgo i" dan "manggomgom" (ayat 4); dicek ulang ke scan: tercetak demikian di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 247) | https://bukuende.wordpress.com/2013/06/18/sai-hehe-ma-hamuna-hamu-buku-ende-no-247-buku-logu-no-159/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Ketukan gantung "5" di awal tiap baris digabung ke birama sebelumnya (birama "2 . 0" + 5 = 4 ketuk) supaya hitungan ketukan genap.
+@check Baris 3 dicetak "2 . 2̣": titik di bawah 2 kedua dianggap noda (not balok menunjukkan not 1/8 setelah not 1/4 bertitik).
+#A
+5, | 1 .+1 3 1 | 1 . 6, v 1 | 5, 1 2 3 | 2 . 0 5, |
+1 .+1 3 1 | 1 . 6, v 1 | 5, 1 3 2 | 1 . 0 5, |
+2 .+2 1 2 | 3 . 3 v 3 | 4 3 6, 2 | (1 . 7,) 5, |
+1 .+1 3 1 | 1 . 6, v 1 | 5, 1 3 2 | 1 . 0 |]
+> Sai he-he ma ha-mu-na, ha-mu pa-ra-ngan ni Tu-han-ta Je-sus Kris-tus, tu pa-ra-lo-an i. Ai ndang tar-baen ho mo-nang nda na ma-nga-lo ho; Ai mu-su ni Tu-han-ta, tung ing-kon ta-lu do.
+#V
+Sai hehe ma hamuna, hamu parangan ni
+Tuhanta Jesus Kristus, tu paraloan i.
+Ai ndang tarbaen ho monang nda na mangalo ho;
+Ai musu ni Tuhanta, tung ingkon talu do.
+-
+Tangihon panjouonNa tu hamusuon i;
+Ihuthon ma hataNa, mangalo dosa i.
+Ibana do donganmu mandopang musu i.
+I pe tongtong haposi Tuhanta Jesus i.
+-
+Ndang jadi haposanmu, gogom sandiri, da,
+Ai tung na so hasea, do i di Debata.
+Sai naeng basahononNa di ho sinjatami;
+Ai ndang tarbaen so talu musuna baenon ni.
+-
+Manaon ma ho satongkin di paraloan i.
+Tibu do i marujung dibaen Tuhanta i,
+Dung i partumpalanNa ma ho di surgo i.
+DonganNa ho manggomgom harajoanNa i.

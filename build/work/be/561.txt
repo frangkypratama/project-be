@@ -1,0 +1,37 @@
+@be 561
+@bl 0
+@title Endehon Debata
+@key A
+@meter 4/4
+@credit Syair: Masithi Amen (ay. 2-3 Pdt. J.A.U. Doloksaribu, M Min); Terj.: Pdt. J.A.U. Doloksaribu, M.Min; Lagu: Afrika Selatan
+@pages 530 531
+@check Bagian Puji-pujian (BE 557 dst.): lagu tidak mencantumkan nomor "Logu No." → @bl 0 (tidak ada di buku). Ayat bacaan: Ps. 96 : 1-2.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Salah cetak dibiarkan: ayat 3 "haleluya wAmen".
+@status Lirik dicek · 6/10 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 3 (hitabe), 4 (taendehon), 8 (kata 'i' tambahan di buku), 9 (wAmen) — ejaan/salah cetak; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 561) | https://bukuende.wordpress.com/2013/06/13/endehon-debata-buku-ende-no-561-buku-logu-no-561/ | teks lirik
+#A
+1 . 7, 1 | 6, 1 5, . | 3 1 4 2 | (1 7,) 1 . |
+> En-de-hon De-ba-ta ha-le-lu-ya A-men
+#B
+1 . 7, 1 | 6, 1 5, . | 3 1 4 2 | (1 7,) 1 . |
+> A-ma par-ho-lo-ngi ha-le-lu-ya A-men
+#C
+3 . 2 3 | 4 3 2 . | 3 . 2 3 |
+4 3 2 . | 1 . 7, 1 | 6, 1 5, . |
+3 1 4 2 | (1 7,) 1 . | 1 . 1 . |]
+> ri-a ma hi-ta-be di a-do-pan-Na-i rap ta-en-de-hon-ma ha-le-lu-ya A-men A-men
+#V
+Endehon Debata haleluya Amen,
+Ama parholongi haleluya Amen,
+ria ma hitabe di adopanNa i
+rap taendehon ma haleluya Amen. Amen.
+-
+Bereng tu Jesus i Haleluya Amen Parmahan Bolon i,
+haleluya Amen, Anak ni Debata Parasi roha i
+hot do holongNa i haleluya Amen.
+-
+Pasangap Tondi i Haleluya Amen, na mangapuli i
+haleluya wAmen, Tondi Panompa i, gohi ma rohangki
+paimbaru rohangki, haleluya Amen

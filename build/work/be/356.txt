@@ -1,0 +1,72 @@
+@be 356
+@bl 179
+@title Na malungun do rohangku
+@key G
+@meter 4/4
+@credit Lagu : Matthias Jorssen 1823
+@pages 336 337 338
+@status Lirik dicek · 36/40 baris sama dgn pembanding
+@check Pembanding lirik: beda: ayat 2 baris 2 (pembanding tanpa satu kata), "do" (ayat 4 baris 4), "i" (ayat 5 baris 2), "paurak" (ayat 10); ayat 2 baris 2 dicek ulang ke scan: tercetak "Asa ihuthononku, ale Tuhan, togu au". Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 356) | https://bukuende.wordpress.com/2013/06/16/na-malungun-do-rohangku-buku-ende-no-356-buku-logu-no-179/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende Psalm, judul bagian "Psalm 25".
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+1 7, 6, 5, | 1 2 3 . | 1 . . . v | 3 3 4 3 |
+1 2 1 . :|
+> Na ma-lu-ngun do ro-hang-ku tu Ho, o De-ba-tang-ki
+> Ho do na hi-na-po-san-ku ja-la ha-po-ru-san-ki
+#B
+1 2 3 1 | 4 4 3 . v |
+1 6, 7, 5, | 6, 1 7, . | 1 . . . v | 3 3 1 4 |
+3 2 1 . v | 3 5 4 3 | 2 1 2 . | 1 . . . |]
+> Sa-su-de na ro tu Ho, ndang ta-ru-rak ba-he-non-mu; Na-sa na ma-noi-si Ho, i do na pa-i-la-on-Mu.
+#V
+Na malungun do rohangku tu Ho, o Debatangki
+Ho do na hinaposanku jala haporusanki
+Sasude na ro tu Ho, ndang tarurak bahenonmu;
+Nasa na manoisi Ho, i do na pailaonMu.
+-
+Pabotohon ma dalanMu dohot bogasMi di au,
+Asa ihuthononku, ale Tuhan, togu au
+Sian dalan na ture dohot tu hasintonganMu;
+Ho do hatuaonki, tolongMi do paimaonku.
+-
+Ingot ma, ale Tuhanku, angka denggan ni basaM,
+Naung di au pinasahatMu, dohot asi ni rohaM!
+Unang ingot dosangki na hubahen di posongku,
+Sai asi ma rohaMi, ala lambas ni rohaMu.
+-
+Ndang marolat denggan basa ni Jahowa na bonar;
+Diajarhon tu pardosa dalan angka na tigor.
+Na serep marroha i ditogihon tu na sonang,
+Na lambok marroha i do diboan tu na torang.
+-
+Hasintongan, asi roha, do dalanna sasude
+Di sude na burju roha mangoloi patikNa i.
+Tuhan, ala goarMi, sesa ma sude dosangku,
+Ai mansai godang do i, lobi asa bilanganku.
+-
+Ise do mangkabiari Debata Jahowa i?
+Halak i do diajari, lao tu hangoluan i.
+Sonang do tondiNa i dibagasan hasonangan,
+Jala pinomparNa i do tumean hasiangan.
+-
+Hasudungan ni Jahowa do na bonar roha i,
+Hahomion ni Tuhanna jadi do botoon ni.
+Sai tongtong do matangki mangaranap tu Tuhanku;
+Dipalua do pathi sian jorgong ni musungku.
+-
+Au na punjung jala dangol, tatap ma, o Tuhanki;
+Ai tu Ho do au masihol, sai palua tondingki.
+Tu gandana do tongtong hagogotan ni rohangku,
+Sai palua ma au on, ale Tuhan Debatangku!
+-
+Tatap ma pardangolanku dohot hangalutanki;
+Sesa ma sude dosangku, sai papir ma tondingki.
+Lam torop do musungki, lam jorbut do pamuraina;
+Tuhan, tatap au disi, asa unang saut tahina.
+-
+Sai ramoti ma tondingku, Tuhan, sai palua au;
+Ho, haposan ni rohangku, unang ma paurak au.
+Sai jamot ma tondingki ala ni halidangonku.
+Bangso na pinillitMi naeng tangkas paluaonMu.

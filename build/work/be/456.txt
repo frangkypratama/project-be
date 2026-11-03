@@ -1,0 +1,37 @@
+@be 456
+@bl 307
+@title O Tuhanku, Ho jambarhu
+@key C
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 436 437
+@check Kepala lagu juga mencantumkan "S.L.No.85".
+@check Baris 2 birama 1 tercetak "2 3 4 4" (tanpa titik setelah 2); not balok = 1/4 bertitik + 1/8 seperti birama "3 . 4 5 5" → ditulis 2 .+3 4 4.
+@status Lirik dicek · 11/14 baris sama dgn pembanding
+@check Pembanding lirik: L1 (jambarhu), L6 (ingkop), L10 (matabuni) beda ejaan; ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 456) | https://bukuende.wordpress.com/2013/06/16/o-tuhanku-ho-jambarhu-buku-ende-no-456-buku-logu-no-307/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 .+4 5 5 | 6 7 1' 5 | 6 6 5 4 | 3 . 0 0 |
+2 .+3 4 4 | 3 .+4 5 5 | 6 (3'+2') 1' 7 | 1' . 0 0 |]
+> O Tu-han-ku, Ho jam-bar-hu, las ni ro-hang-ki Ho da-meng-ku, Ho ngo-lung-ku, ha-tu-a-on-ki
+#V
+O Tuhanku, Ho jambarhu, las ni rohangki
+Ho damengku, Ho ngolungku, hatuaonki
+-
+Aut so Ho jambarhu, Jesus, tung tu dia au ?
+Hamagoan bagianku, ingkon mago au.
+-
+So padohot Ho Tuhanku ingkon lonong au
+Tu bagasan gambo lisop, ingkop mago au.
+-
+Sai baluti ma rohangku dohot holongMi,
+Asa sonang maradian au hinophopMi.
+-
+Ro pe dohot pangunjunan, boi do sonang au,
+matabuni au tu Jesus, na mangkophop au.
+-
+Ho, o Jesus, do marporang, au hohom nama.
+Diondihon Ho, Tuhanku, au tu Debata.
+-
+IringiringonMu ahu dohot tanganMi.
+Paima sahat au tu surgo, na di ginjang i.

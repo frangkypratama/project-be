@@ -1,0 +1,38 @@
+@be 107
+@bl 207
+@title O Tondi Parbadia i, sai masuk
+@key F
+@meter 4/4
+@credit Marthin Luterh, 1524
+@pages 97 98
+@check Buku menulis "Marthin Luterh"; maksudnya Martin Luther.
+@check Ritme sinkop "3 5 . 4" (baris 3 & 5) dibaca 1/8–1/4–1/8 sesuai not balok buku ("3+5 .+4"). "0 5" bergaris atas = istirahat 1/8 + not 1/8.
+@status Lirik dicek · 15/15 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 15 dari 15 baris sama persis; semua baris sama. Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 107) | https://bukuende.wordpress.com/2013/06/16/o-tondi-parbadia-i-sai-masuk-buku-ende-no-107-buku-logu-no-207/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 . (6 5) | 3 5 2 . | 3 #4 5 0+5 | 6 5 2 4 |
+3 2 1 0+1 | 2 4 (3+4) 5 | 2 (1+6,) 5, 0+5, |
+1 2 (3+5) .+4 | 3 2 3 0+3 | 5 6 5 2 |
+3 #4 5 0+5 | 6 5 2 4 | 3 2 1 0+1 |
+2 4 (3+4) 5 | 2 (1+6,) 5, 0+5, | 1 2 (3+5) .+4 |
+3 2 (6, 7,) | 1 0+2 3 1 | 6, 2 3 2 | 1 . . . |]
+> O Ton-di Par-ba-di-a i, sai ma-suk Ho tu ro-hang-ki! Pa-saor-hon a-si ni ro-haM ro di su-de deng-gan ba-saM tu au mar-hi-te son-dang-mi, nang pe tu jol-ma sa-su-de; Ai naeng pa-pu-ngu-on-mu pe tu Tu-han Je-sus jol-ma su-de, Ha-le-lu-ya, Ha-le-lu-ya!
+#V
+O Tondi Parbadia i, sai masuk Ho tu rohangki!
+Pasaorhon asi ni rohaM ro di sude denggan basaM
+Tu au marhite sondangmi, nang pe tu jolma sasude;
+Ai naeng papunguonmu pe tu Tuhan Jesus jolma sude,
+Haleluya, Haleluya!
+-
+O sondang na badia i, pasaor hataM tu rohangki!
+Tiur ma baen rohangkinon mananda Debata tongtong.
+Padao ma haliluon i, sinabur ni sibolis i;
+Hubaen ma Tuhan Jesus i sambing gurungku, ihutanki,
+Haleluya, Haleluya!
+-
+Pangapul na sumurung i! Tarapul bahen rohangki,
+Manaon na porsuk sai tongtong saleleng au di tano on,
+Humophop goarMi tahe, Sai pargogoi ma au muse
+Mangalo angka musungki; Ai naeng au bongot tu surgo i.
+Haleluya, Haleluya!

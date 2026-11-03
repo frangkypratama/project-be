@@ -1,0 +1,44 @@
+@be 179
+@bl 20
+@title Adong do sada mual
+@key G
+@meter 3/4
+@credit Lagu: William Cowper 1800
+@pages 162 163
+@status Lirik dicek · 15/18 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 ("i ma") dan 17 ("pujionki") beda ejaan, baris 11 kata "i" lebih di buku; dicek ulang di scan: tercetak demikian.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 179) | https://bukuende.wordpress.com/2013/06/05/adong-do-sada-mual-buku-ende-no-179-logu-no-20/ | 15/18 baris sama
+@check Kredit tercetak "Lagu: William Cowper 1800"; Cowper lazimnya penulis syair ("There is a fountain filled with blood"), bukan penggubah lagu — perlu dicek.
+@check Tanda "'" di angka = tanda napas (v). Baris 2 birama 1: 4 5 bergaris atas/legato dibaca dua not 1/8 (not balok: 1/8 berbalok).
+#A
+1 | 7,+2 2 2 | 1+3 3 v 3 |
+2+3 (4+5) 6 | 5 0 (3+5) | 5+4 4 (2+4) |
+4+3 3 v (1+3) | 3+2 4 7, | 1 0 |]
+> A-dong do sa-da mu-al i di na mar-do-sa i, man-sai deng-gan do mu-al i, pa-so-nang ro-hang-ki
+#V
+Adong do sada mual i di na mardosa i,
+Mansai denggan do mual i, pasonang rohangki.
+-
+Aek mual na badia i, i ma di Jesus i,
+Disesa do tihasta i, dibuat arsak i.
+-
+Ai mudar ni Tuhanta i do mual i sintong,
+Durus di Golgata do i mangkophop hita on.
+-
+I ma tutu, ai dohot au ias dibahen Ho,
+Asi do rohaMi di au nang di luhut na ro.
+-
+Parjahat di siamunMi di dolok Golgata,
+Digolom i do hataMi dibaen porsea do.
+-
+Dung i jalo malua i sian pangago i,
+Dibaen porsea roha nii, di Ho, Rajana i.
+-
+Sai dohot au palua ma, padao ma jea i,
+Di hami sai patongtong ma haporseaon i.
+-
+Ai na margogo do tongtong mudarMu na use;
+Ias dibahen rohangkon, bontor huhut ture.
+-
+Dibahen i pujionki tongtong ma goarMi.
+Sai i ma sogot endengki dung au di lambungMi

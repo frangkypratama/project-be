@@ -1,0 +1,40 @@
+@be 17
+@bl 210
+@title Raja na tumimbul
+@key G
+@meter 4/4
+@credit Joachim Neander, 1680
+@pages 16
+@status Lirik dicek · 12/15 baris sama dgn pembanding · melodi cocok Hymnary
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 15 baris sama persis; 3 baris beda (termasuk ayat 4 baris 3 “ingotong”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 17) | https://bukuende.wordpress.com/2013/06/16/raja-na-tumimbul-buku-ende-no-17-buku-logu-no-210/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Pembanding melodi: 15 not pembuka (33332 21111 77665) sama persis dengan incipit tune ARNSBERG / Wunderbarer König (Neander 1680) di Hymnary.org.
+@ref Melodi pembanding: Hymnary.org — ARNSBERG / Wunderbarer König (Neander 1680) | https://hymnary.org/tune/arnsberg_neander | Incipit 33332 21111 77665 (derajat nada) cocok dengan not angka di sini.
+#A
+3 3 3 3 | 2 . 2 . v | 1 1 1 1 | 7, . 7, . v |
+6, 6, 5, 1 | 2 3 2 . | 1 . . . :|
+> Ra-ja na tu-mim-bul si-gom-go-mi ha-mi, Ja-lo ma pu-ji-an-na-mi.
+> Deng-gan ni ba-saM do pa-ngo-lu-hon ha-mi, A-tik pe mar-do-sa ha-mi.
+#B
+3 3 4 . v | 2 2 3 . |
+5 5 4 3 | 2 . 3 . v | 5 5 4 3 | 2 . 1 . |]
+> Sai a-poi par-go-goi ha-mi ma-ngen-de-hon sa-ngap-Mi, o Tu-han!
+#V
+Raja na tumimbul sigomgomi hami, Jalo ma pujiannami.
+Denggan ni basaM do pangoluhon hami, Atik pe mardosa hami.
+Sai apoi pargogoi hami mangendehon sangapMi, o Tuhan!
+-
+Sai dipuji langit jadijadianMu saluhut pambahenanMu.
+Parsinondang bolon na marpamongguri.
+Ho, o Tuhan do puji, bulan i bintang pe,
+Ho do pinujina dohot sinondangna.
+-
+Dohot do tondingku tungkap di adopan ni habangsaMi, o Tuhan!
+Nang sude donganku nasa na marhosa
+Pujionna do jahowa, sai tongtong na sintong;
+Holan Debatanta do sipujionta.
+-
+Nasa na tumanda Tuhan Jesus Kristus, sai endehon ma goarNa!
+Nasa na porsea sai ringgas patulus na sinangkap ni Tuhanta!
+Sai tongtong ingotong tongtong pujionta
+Sogot Debatanta.

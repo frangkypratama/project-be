@@ -1,0 +1,43 @@
+@be 230
+@bl 182
+@title Ho tongtong ihuthononku
+@key Bb
+@oct -1
+@meter 4/4
+@credit Samuel Hofer, 1862
+@pages 210 211
+@check Kepala lagu mencetak judul Logu "Ho tongtong ihuthononku"; baris pertama lirik "Na malungun do rohangku".
+@check Tanda birama dicetak ¢ dan 4/4; ditulis 4/4.
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: L10 kata 1 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 230) | https://bukuende.wordpress.com/2013/06/16/na-malungun-do-rohangku-buku-ende-no-230-buku-logu-no-182/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5+5 | 1' .+3' (2'+1') (7+6) | (5 .+4) 3 v 5+5 |
+(6+7) (1'+2') 3' 2' | 1' . 0 :|
+> Na ma-lu-ngun do ro-hang-ku Mi-da Je-sus, Tu-han-ki,
+> Ai di-se-sa do do-sang-ku, Di-u-ra-si ro-hang-ki,
+#B
+7+1' | 2' 3' 4' 3' |
+3' 2' 0 5+6 | 7 1' 7 6 | 5 . 0 5+5 |
+1' .+3' 1' 6 | (5 .+4) 3 v 5+5 | (6+7) (1'+2') 3' 2' | 1' . . |]
+> Di-ba-ga-san par-sa-hi-tan mar-si-gan-tung au tu Ho, o-lo do au ma-ngi-hut-hon pa-no-gu-on-Mi tu Ho.
+#V
+Na malungun do rohangku Mida Jesus, Tuhanki,
+Ai disesa do dosangku, Diurasi rohangki,
+Dibagasan parsahitan marsigantung au tu Ho,
+olo do au mangihuthon panoguonMi tu Ho.
+-
+Sai palua ma rohangku sian na di tano on,
+Asa Ho hangoluanku dohot hasonangankon.
+Beta hita tu Ibana, tabege hataNa i,
+Holong situtu rohaNa, patut oloanta i.
+-
+Sangkap nang pangidoanta dohot na tahirim pe.
+Rodi angka pingkiranta di Tuhanta ma sude.
+Tapararat ma hataNa tu na so porsea i,
+Atik saut dope mardame angka na manjua i.
+-
+Molo pos roham di Jesus, tinggal di tanganNa i,
+Sonang ma roham, sai tulus do huhut sinangkapMi;
+Jadi sai togihononNa ho muse tu surgo i,
+Gabe nasa ugasanNa dohot ho manean i.

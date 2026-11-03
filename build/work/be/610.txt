@@ -1,0 +1,48 @@
+@be 610
+@bl 0
+@title Pasangap ma
+@key Eb
+@meter 4/4
+@credit Syair: Ere zij God; Luk. 2 : 14 · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: F. A. Schulz, 1870
+@pages 605 606 607 608
+@status Lirik dicek · 6/7 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan satu kata pada baris "Pasangap ma Debatanta"; sesuai scan hlm 606. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 610) | https://bukuende.wordpress.com/2013/06/16/pasangap-ma-buku-ende-no-610-buku-logu-no-610/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 610".
+@check Angka coret "4̸" (hlm 612 & 613) = #4; not balok A♮ — sesuai.
+@check Birama "1 . 7 1 2" (Da-me ni, hlm 612): angka 7 tercetak tanpa titik bawah, not balok D4 (di bawah Es4) → dibaca 7,.
+@check Lagu dicetak lengkap tanpa tanda ulang (bagian "Pasangap ma!… Amen" diulang tertulis); hanya satu teks (tidak ada ayat lain).
+#A
+5 . 5 4 | 3 . . 0 | 5 . 5 4 | 3 . 0 5+5 |
+6 6 0 5+5 | 6 6 0 5+5 | (6 . 7 .) | 1' . . 0 |
+> Pa-sa-ngap ma! Pa-sa-ngap ma! De-ba-tan-ta De-ba-tan-ta na di gin-jang
+#B
+5 . 4 3 | 3 . 2 0 | (2 3) 4 5 |
+4 . 3 2+2 | (3 4) 5 3 | (6 . 5) 4 |
+(3 . 2 .) | 1 . . . | 5 . 5 5 |
+5 . 6 7 | 1' . 5 0 | 1' . 1' 1' |
+7 . 1' 6 | (5 . #4 .) | 5 . . 0 |
+(1 .+7,) 1 2 | (3 .+2) 1 0 | (3 .+2) 3 4 |
+(5 .+4) 3 0 | 2 . 2 2 | 2 . 2 0 |
+(5 .+#4) 5 6 | (7 .+6) 5 5+5 |
+5 . 5 5+5 | 5 . 5 5 | 5 . 1' . |
+7 5 0 1'+1' | 7 5 0+1' 1'+1' |
+7 5 0+5 5+6 | (7 . 6 .) | 5 . . 0 |
+> Da-me ni Tu-han sa-or tu hi-ta ang-ka jol-ma ha-lo-mo-an-Na. Pa-sa-ngap ma De-ba-tan-ta, pa-sa-ngap ma De-ba-tan-ta! Da-me ni Tu-han, sa-or tu hi-ta, da-me ni Tu-han sa-or tu hi-ta ang-ka jol-ma, ang-ka jol-ma ha-lo-mo-an-Na, ang-ka jol-ma ha-lo-mo-an-Na, ha-lo-mo-an-Na.
+#C
+5 . 5 4 | 3 . . 0 | 5 . 5 4 |
+3 . . 5+5 | 6 6 0 5+5 |
+6 6 0 5+5 | (6 . 7 .) | 1' . . 0 |
+5 . 4 3 | 3 . 2 0 | (2 3) 4 5 |
+4 . 3 2+2 | (3 4) 5 3 | (6 . 5) 4 |
+(3 . 2 .) | 1 . . . | (2 3 4 5) |
+3 . . 0 | (3 . 2 .) | 1 . . . |]
+> Pa-sa-ngap ma! Pa-sa-ngap ma! De-ba-tan-ta, De-ba-tan-ta na di gin-jang. Da-me ni Tu-han, sa-or tu hi-ta ang-ka jol-ma ha-lo-mo-an-Na. A-men, A-men
+#V
+Pasangap ma! Pasangap ma! Debatanta Debatanta na di ginjang
+Dame ni Tuhan saor tu hita angka jolma halomoanNa.
+Pasangap ma Debatanta, pasangap ma Debatanta!
+Dame ni Tuhan, saor tu hita, dame ni Tuhan saor tu hita
+angka jolma, angka jolma halomoanNa, angka jolma halomoanNa, halomoanNa.
+Pasangap ma! Pasangap ma! Debatanta, Debatanta na di ginjang.
+Dame ni Tuhan, saor tu hita angka jolma halomoanNa. Amen, Amen

@@ -1,0 +1,42 @@
+@be 228
+@bl 246
+@title Jesus haposanku
+@key A
+@meter 4/4
+@credit George Duffield, 1888
+@pages 208 209
+@check Ayat 4–5 dan kredit lagu tercetak di halaman 209 (sebelumnya terlewat, sudah ditambahkan).
+@status Lirik dicek · 14/20 baris sama dgn pembanding
+@check Pembanding lirik: L1 kata 4: buku "unang ma pasombu" (dicek scan hlm 208); L2, L3, L13, L17, L19 beda ejaan satu kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 228) | https://bukuende.wordpress.com/2013/06/16/jesus-haposanku-buku-ende-no-228-buku-logu-no-246/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 5, 1 3 | (5 .+4) 3 . | 4 3 2 1 | 3 . 2 . |
+1 5, 1 3 | (5 .+4) 3 . | 6, 2 1 7, | 2 . 1 . |
+2 2 3 2 | 1 . 6, . | 2 1 7, 6, | 6, . 5, . |
+1 1 2 3 | 4 . 3 . | 6, 2 1 7, | 2 . 1 . |]
+> Je-sus ha-po-san-ku, u-nang ma pa-som-bu au di ha-pun-ju-ngan, di na so-mar-do-ngan Ho tong-tong do-ngan-ku di-par-da-la-nan-ku Je-sus ha-po-san-ku, u-nang au pa-som-bu
+#V
+Jesus haposanku, unang ma pasombu
+Au di hapunjungan, di na somardongan
+Ho tongtong donganku dipardalananku
+Jesus haposanku, unang au pasombu
+-
+Ho sambing Rajangku, Ho do oloanku,
+NaposoM do ahu di harajaonMu,
+Sonang ma rohangku, dung tangkas di ahu,
+Ho sambing Rajangku jala oloanku.
+-
+Di harajaonMu tigor do uhumMu.
+Ho ma huihuthon lao tu hangoluan,
+Naung torang tarida, sonang do nasida
+Di harajaonMu ala ni uhumMu.
+-
+Masa asi roha mida si pardosa,
+Jesus do manesa dosa sasudena,
+Na gogo mudarNa mamintori hita;
+Angka asi roha, masa di pardosa.
+-
+Jesus do Tuhanku, parsigantunganku.
+Jesus do ojahan ni haporseaon.
+Ndada au tahutau, nang di parmaraan,
+Jesus do Tuhanku, parsigantunganku.

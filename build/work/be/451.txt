@@ -1,0 +1,30 @@
+@be 451
+@bl 302
+@title O Tuhanki di goarMi
+@key A
+@meter 3/4
+@credit (tidak dicantumkan di buku)
+@pages 432
+@check Kepala lagu tercetak "Lagu No. 302" (bukan "Logu No."); juga mencantumkan "F.B. No. 105".
+@check Baris 2: "2 . 5 ." (titik setelah 5 dianggap noda) dan "3 2" (titik tahan tidak tercetak); not balok = 1/2 + 1/4 → ditulis 2 . 5, dan 3 . 2.
+@check Suku kata "ki." ditahan dari 3 . . ke 2 . (tidak ada lirik di bawah not 2; letak "Ta" di bawah 5) → ditandai "_".
+@status Lirik dicek · 4/8 baris sama dgn pembanding
+@check Pembanding lirik: L1 (Tuhanki), L3 (dibahen), L4 (dibahen), L5 (pangunjunan) beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 451) | https://bukuende.wordpress.com/2013/06/16/o-tuhanki-di-goarmi-buku-ende-no-451-buku-logu-no-302/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 3 . 2 | 1 . 7, | (7, 6,) 1 | 5, . 5 |
+(5 4) 3 | (3 2) 1 | 3 . . | 2 . 5, | 3 . 2 | 1 . 7, |
+(7, 6,) 1 | 5, . 5 | (5 4) 2 | (1 3) 2 | (1 . . | 1) 0 |]
+> O Tu-han-ki di go-ar-Mi do ha-so-na-ngan-ki. _ Ta-ra-pul au di ar-sak-ki, Ho Je-sus go-gong-ki
+#V
+O Tuhanki di goarMi do hasonanganki.
+Tarapul au di arsakki, Ho Jesus gogongki
+-
+Na malum manisia i dibahen goarMi,
+Na ganggu roha sonang do dibahen Jesus i.
+-
+Maporus au tu goarMi, di pangunjunan i.
+Sumurut do sibolis i dihorhon goarMi.
+-
+Na loja diabing Ho, na gogo tanganMi,
+Paima sahat au tu Ho, hu puji goarMi.

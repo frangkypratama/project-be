@@ -1,0 +1,41 @@
+@be 492
+@bl 334
+@title Na mora tutu.
+@key F
+@meter 3/4
+@credit Godfried Kinkel 1882
+@pages 467 468
+@check Kepala lagu juga mencetak "U.L. No. 458".
+@check "4*" = 4 kres (paranada B natural), ditulis #4.
+@check Birama 15 tercetak "3 . 5̣ 1"; paranada = A 1/2, C 1/8, F 1/8 → ditulis "3 . 5,+1".
+@check Lirik baris 2 tercetak "su-de-ar-ta. i," (titik sebelum "i") — ditulis sesuai buku.
+@check Ayat 2 hanya tercetak 3 baris; ayat 2–3 diakhiri ":,: AnakkonNa :,:" = reff (bagian B).
+@status Lirik dicek · 11/13 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 2 dan 12; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 492) | https://bukuende.wordpress.com/2013/06/16/na-mora-tutu-buku-ende-no-492-buku-logu-no-334/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+(1+3) | 5 .+#4 5 | 3 . 3 | 3 .+2 3 | 1 . 1 |
+2 2 .+2 | 2 3 .+4 | 6 .+5 #4 | 5 . 3 | 5 .+5 5 |
+3 .+3 3 | 4 .+3 4 | 6 . 6 | 5 .+6 5 | 3 . 5,+1 |
+3 3 .+2 | 1 . |
+> Na mo-ra tu-tu, sa-ngap da-mang i, I-ba-na nam-pu-na su-de-ar-ta. i, Nang se-re, nang pe-rak, nang he-peng su-de. Ta-pu-ji I-ba-na, un-duk hi-ta be.
+#B
+1+3 | 5 5 .+5 | 3 . 3+3 | 3 2 .+1 |
+5 . 5 | 1' .+7 6 | 5 3 6+6 | 3 3 .+2 | 1 . |]
+> A-nak-kon-Na do au, a-nak-kon-Na do au, di-baen Tu-han Je-sus, a-nak-kon-Na do au.
+#V
+Na mora tutu, sangap damang i,
+Ibana nampuna sudearta. i,
+Nang sere, nang perak, nang hepeng sude.
+Tapuji Ibana, unduk hita be.
+AnakkonNa do au, anakkonNa do au,
+dibaen Tuhan Jesus, anakkonNa do au.
+-
+Na ro Jesus i, AnakNa do i lao mate, lao hehe,
+Manaek sian i. Rade ingananku dibaen Jesuski.
+Di surgo hutangku, disi damang i, :,: AnakkonNa :,:
+-
+Nang mate pe au, nang tos hosangki,
+Ndang olo mabiar disi rohangki,
+Jangkonon ni damang ma ahu disi,
+Di lambung ni damang sonang rohangki, :,: AnakkonNa :,:

@@ -1,0 +1,39 @@
+@be 265
+@bl 192
+@title Naung moru do muse sataon.
+@key F
+@meter 4/4
+@credit J.A. Freyl Inghausen 1704
+@pages 245
+@check Judul kepala lagu (judul Logu) "Naung moru do muse sataon."; baris pertama lirik "Mauliate, ale Tuhan".
+@check "4*" bagian A = 4 kres (paranada: tanda pugar pada B).
+@check Baris lirik 2 bagian A tercetak "ba- au- a gin-jang" (kemungkinan salah cetak "banua"); ditulis sesuai buku.
+@check Komponis tercetak "J.A. Freyl Inghausen" (lazim: Johann Anastasius Freylinghausen).
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: L1 kata 6, L2 kata 4 (buku "baaua", kemungkinan salah cetak), L12 kata 2 berbeda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 265) | https://bukuende.wordpress.com/2013/06/16/mauliate-ale-tuhan-buku-ende-no-265-logu-no-192/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 2 3 1 | 5 5 3 1 | 0 3 2 5 |
+3 6 5 #4 | 5 . . . :|
+> Ma-u-li-a-te, a-le Tu-han, a-la ni ha-ho-ho-long-Mi.
+> Ro Ho si-an ba-au-a gin-jang pa-ngo-lu au na ma-go i.
+#B
+2 | 2 2 7, 5, | 1 2 3 1 |
+0 3 2 3 | 1 7, 6, 6, | 5, . . 5, | 1 2 3 1 |
+5 5 3 1 | 0 5 1 4 | 7, (1+2) 3 2 | 1 . . |]
+> Hu-dok di Ho ma-u-li-a-te, Naung sing-kop ha-ngo-lu-an-ki, a-la ho-long hu-hut mar-a-si Ro-haM di au par-do-sa i.
+#V
+Mauliate, ale Tuhan, ala ni haholongMi.
+Ro Ho sian baaua ginjang pangolu au na mago i.
+Hudok di Ho mauliate, Naung singkop hangoluanki,
+ala holong huhut marasi RohaM di au pardosa i.
+-
+Tu Ho hulehon ma tondingku, sai baen ma i ingananMi.
+Sai suru ma tondiM tu ahu, manogunogu rohangki
+Najolo holong ni rohaM do manaiti Ho tu tano on:
+Laos i mandasdas Ho nuaning, pangolu au na dangol on.
+-
+Urati ma, huhut tutungi sude na jat di rohangki;
+marhite rante manang tali tarihot au di dosa i,
+Ndang dia imbar nii, o Tuhan, boi do malua au disi.
+Hasian ni rohaM ma ahu, pardosa na malua i.

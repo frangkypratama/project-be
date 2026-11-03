@@ -1,0 +1,44 @@
+@be 200
+@bl 106
+@title Di surgo do alealenta
+@key Eb
+@meter 3/4
+@credit Benyamin Schmolck 1737
+@pages 181 182
+@check Ayat 2–6 baris ketiga dicetak "Antong, d.u." (= ulangi "Antong tabaen ma Jesus i ..."); ditulis apa adanya.
+@status Lirik dicek · 11/14 baris sama dgn pembanding
+@check Pembanding lirik: dibandingkan 14 baris isi (baris "Antong, d.u." dilewati); 3 baris beda ejaan 1 kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 200) | https://bukuende.wordpress.com/2013/06/13/di-surgo-do-alealenta-buku-ende-no-200-buku-logu-no-106/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+1 | 5 . 5 | (5 4) 3 | (5 4) 3 | 2 1 v 5, | (4 3) 2 |
+3 . 3 | (5 4) 3 | 2 . :|
+> Di sur-go do a-le-a-len-ta, na bur-ju ro-ha si-tu-tu.
+> Ndang pi-ga di ba-nu-a to-nga do-ngan-ta na tong-tong bur-ju.
+#B
+2 | 2 . 2 | 3 . 3 |
+(4 3) 4 | 5 . v 5 | (1' 7) 6 | (5 .+6) (5+4) | 3 . 2 | 1 . |]
+> An-tong ta-baen ma Je-sus i tong-tong a-le-a-len-ta i.
+#V
+Di surgo do alealenta, na burju roha situtu.
+Ndang piga di banua tonga donganta na tongtong burju.
+Antong tabaen ma Jesus i tongtong alealenta i.
+-
+Na meoleol songon arung do dongan na di tano on;
+Na hot do Jesus na sumurung, donganna pe hot do tongtong,
+Antong, d.u.
+-
+Sai marpambuat angka dongan di holong ni rohaNa i;
+Hape ianggo so dapotan, holong do parsaoranna i.
+Antong, d. u.
+-
+Humophop hita do tinaonNa, na bernit i di Golgata,
+Sude dosanta pinorsanNa, pasaehon i tu Debata.
+Antong, d.u.
+-
+Sai dingkan hita do rohaNa, sintong do parsaoranNa i;
+Manongtong holong ni rohaNa di nasa na nianna i.
+Antong, d.u.
+-
+O Jesus, alealenami sai tiop tangannami be,
+Tongtong rajai ma rohanami tu surgo togu hami be.
+Disi ma hot parsaoran i saleleng ni lelengna i.

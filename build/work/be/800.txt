@@ -1,0 +1,49 @@
+@be 800
+@bl 0
+@title Paboa tu dakdanak i
+@key F
+@meter 4/4
+@credit Syair: Let Children hear the mighty deeds, Isaac Watts. 1674 - 1748; Bernhard schumacher, 1886 - 1978 (ayat 4) · Terj.: Pdt. M. V. Simanjuntak · Lagu: Johann Cruger, 1598 - 1662
+@pages 878
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 2 (buku "ulaon Na" terpisah), 3 (Sai), 5 (anakkonta); dicek ulang di scan hlm 878, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 800) | https://bukuende.wordpress.com/2013/06/16/paboa-tu-dakdanak-i-buku-ende-no-800-buku-logu-no-800/ | teks ayat; pembanding menyebut Logu No. 800, buku tidak mencetak nomor Logu
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Birama berganti-ganti 4/4 dan 6/4 (tercetak di balok) → dipecah per bagian A 4/4, B 6/4, C 4/4, D 6/4, E 4/4.
+@check Ayat acuan tercetak: 5 Musa 6 : 7.
+#A
+1 . 6, 5, |
+> Pa-bo-a
+#B 6/4
+1 . 2 . 3 3 |
+2 . 0 3 5 4 |
+> tu dak-da-nak i, bi-naen ni
+#C 4/4
+3 . 2 . |
+1 . . . | 5 . 3 5 |
+> Tu-han i, u-laon Na
+#D 6/4
+6 . 5 . 4 3 |
+2 . 0 5 1 4 |
+> gok hu-a-so i, pi-na-tu
+#E 4/4
+3 . 2 . | 1 . . . |]
+> pa-Na i.
+#V
+Paboa tu dakdanak i, binaen ni Tuhan i,
+ulaon Na gok huaso i, pinatupaNa i.
+-
+Sai baen ma las rohaNa i, umboto sasude,
+ulaon nang huasoNa i, dohot asiNa pe.
+-
+Bibirta paboahon, tu anakkonta i,
+asa patolhasonna i, tu pinoparna i.
+-
+Sai tapodahon ma, burju hataNa na tutu,
+sai pos rohana situtu, biar huhut burju.
+-
+Sai diguruhon ma tongtong, di Debata sambing.
+ojahan ni haporseaon, nang pangkirimon i.
+-
+Unang dihagangguhon be, holong ni Tuhan i
+marpangalaho ma sude, hombar tu patik i.

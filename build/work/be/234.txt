@@ -1,0 +1,48 @@
+@be 234
+@bl 32
+@title O Jesus tatap ma tuson
+@key F
+@meter 4/4
+@credit Gosheim Franken, 1628
+@pages 214 215
+@check Judul kepala lagu "O Jesus tatap ma tuson" berbeda dengan baris pertama lirik ("Di rumang ni portibi on").
+@check Birama "2 . 3 ." dan "3 . 4 .": not balok mencetak not kedua seperti 1/4, tetapi not angka jelas 1/2; ikut not angka (birama 4 ketuk).
+@check Ayat 7–10 dan kredit tercetak di halaman 215.
+@status Lirik dicek · 16/20 baris sama dgn pembanding
+@check Pembanding lirik: L7 & L8 kata 1, L15 kata 7, L20 kata 2 & 7 beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 234) | https://bukuende.wordpress.com/2013/06/13/di-rumang-ni-portibi-on-buku-ende-no-234-buku-logu-no-32/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 3 . | 5 3 . 2 | 3 #4 5 . v | 6 . 5 . |
+3 2 . 1 | 1 7, 1 . v | 2 . 3 . | 3 2 . 5 |
+5 #4 5 . v | 3 . 4 . | 3 2 . 1 | 1 7, 1 . |]
+> Di ru-mang ni por-ti-bi on, sai tong do li-lu ro-hang-kon. Hu-ju-jur ha-ti-go-ran-ki, hu-pa-nga-sa-hon bur-jung-ki.
+#V
+Di rumang ni portibi on, sai tong do lilu rohangkon.
+Hujujur hatigoranki, hupangasahon burjungki.
+-
+Dung na hutatap Tuhanki, hutanda hahuranganki.
+Lam tu balgana i antong, ai lam huboto dangolhon.
+-
+Hurangan au di sasude, sipangasahononhon i;
+Na so barani rohangkon manaringoti diringkon.
+-
+Marhahurangan saluhut, sap dosa do sude huhut;
+Ndang na manahan rohangki, di jolo ni Debatangki.
+-
+Na gabe tunduk nama au tu Tuhan Jesus do au lao;
+Naung mate Ho di Golgata, padomu au tu Debata.
+-
+Di tingki ni Tuhanta i do songgop hatiuron i;
+Mulai mauas rohangkon tarsunggul do hot rohangkon.
+-
+Huhalungunhon hata ni Tuhanku, Sipangolu i.
+Na hubege, sai hutohoi mardongan Tuhan huoloi.
+-
+Haimbaruon do soluk tu halumlamon na sotuk.
+Mardame do huhilala dibaen Jesusku, Debata.
+-
+Jesusku, hatigoranki, sasada Ho paheanki,
+Saleleng au di tano on nang dung marujung ngolungkon.
+-
+Ndang na tarhirim au disi saleleng ni lelengna i.
+Asal ngolungku situtu, tung Ho, Tuhanku naburju

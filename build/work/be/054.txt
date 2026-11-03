@@ -1,0 +1,33 @@
+@be 54
+@bl 64
+@title Sonang ni bornginna i
+@key C
+@meter 6/8
+@credit Frans Gruber (abad 18)
+@pages 46 47
+@status Lirik dicek · 8/9 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 3 ("Anakna"). Buku tetap acuan.
+@check Birama 6/8: di file ini 1 token = 1 not 1/8 (6 token per birama, sesuai validator). Catatan untuk penampil: penampil saat ini menganggap 1 token = 1/4.
+@check Birama 2 ("born-gin-na i"): buku mencetak legato 5.6 seperti birama 1, tetapi ada 4 suku kata untuk 4 not → legato tidak dipakai di sini.
+@check Birama "1̇ . . 3̇ . ." (Anak-na): buku mencetak legato, tetapi jumlah suku kata baris 3 (13, sama di ayat 2–3) hanya pas bila "nak" dan "na" masing-masing satu not; legato birama berikut (Je-) tetap dipakai sesuai letak lirik di hlm 47.
+@check Not tinggi (1̇ 2̇ 3̇ 4̇) mengikuti paranada; "3" di birama "1̇..3.." tanpa titik atas di angka, paranada = E5 → 3'.
+@check Melodi kemungkinan STILLE NACHT (belum dibandingkan dengan sumber melodi); buku menulis "Frans Gruber (abad 18)" — ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 54) | https://bukuende.wordpress.com/2013/06/18/sonang-ni-bornginna-i-buku-ende-no-54-buku-logu-no-64/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+(5 .+6) 5 3 . . | 5 .+6 5 3 . . v | 2' . 2' 7 . . | 1' . 1' 5 . . v |
+6 . 6 1' .+7 6 | 5 .+6 5 3 . . v | 6 . 6 1' .+7 6 |
+5 .+6 5 3 . . v | 2' . 2' 4' .+2' 7 | 1' . . 3' . . v |
+(1' .+5) 3 5 .+4 2 | 1 . . . . . |]
+> So-nang ni born-gin-na i, u-ju ro Je-sus i! So-nang mo-dom do ha-lak su-de; Ho-lan du-a na du-ngo do-pe ma-ngi-nga-ni A-nak-na Je-sus, Tu-han-ta i.
+#V
+Sonang ni bornginna i, uju ro Jesus i!
+Sonang modom do halak sude; Holan dua na dungo dope
+Mangingani Anakna Jesus, Tuhanta i.
+-
+Denggan ni bornginna i, uju ro Jesus i!
+Tu parmahan di Betlehem i, dipaboa na di surgo i:
+Nunga ro Sipangolu, Jesus, Tuhanta i.
+-
+Godang ni tua disi di na ro Jesus i!
+Tung malua pardosa muse, sian hamagoanna sude,
+Ala ro Sipangolu, Jesus Tuhanta i.

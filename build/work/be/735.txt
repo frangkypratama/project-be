@@ -1,0 +1,50 @@
+@be 735
+@bl 0
+@title Hohom ma ho
+@key F
+@meter 4/4
+@credit Syair: Be Still, My soul, Katharina von Schlegee, 1607; Terj.: Dcs. Bonaria Hutabarat; Lagu: Jeasn Sibeltus, 1865-1959.
+@pages 783 784 785
+@status Lirik dicek · 22/24 baris sama dgn pembanding
+@check Bagian suplemen; ayat bacaan Ps. 50 : 15. Tidak ada nomor "Logu No." di buku → @bl 0.
+@check Kredit tercetak "Katharina von Schlegee, 1607" dan "Jeasn Sibeltus" (lazim: Katharina von Schlegel, 1752; Jean Sibelius); ditulis apa adanya.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Pembanding lirik: baris 2 (sa tongkin) dan 8 beda ejaan. Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 735) | https://bukuende.wordpress.com/2013/06/13/hohom-ma-ho-buku-ende-no-735-buku-logu-no-735/ | proofreading per baris
+#A
+3 2 3 | 4 . . 3 | 2 3 1 .+2 |
+2 (3 . . | 3) 3 2 3 | 4 . . 3 | 2 3 1 .+2 |
+(3 . . . | 3) 5 5 5 | 6 . . 3 | 3 5 5 .+2 |
+2 (4 . . | 4) 4 3 2 | 3 . . 1 |
+1 2 2 .+3 | (3 . . . | 3) 5 5 5 | 6 . . 3 |
+3 5 5 .+2 | 2 (4 . . | 4) 4 3 2 |
+3 . . 1 | 1 2 2 .+1 | (1 . . . | 1) |]
+> Ho-hom ma ho, ho-hom a-le ton-ding-ku sa tong-kin taon ma pa-rung-ki-lon-mi, tu Tu-han i pa-sa-hat ma hol-so-mu i-lu-i-lum nang do-hot lu-ngun-mi ha-po-si ma hu-a-so ni Tu-han-mu da-ging ton-dim sai ra-mo-tan-Na i.
+#V
+Hohom ma ho, hohom ale tondingku
+sa tongkin taon ma parungkilonmi,
+tu Tuhan i pasahat ma holsomu
+ilu-ilum nang dohot lungunmi
+haposi ma huaso ni Tuhanmu
+daging tondim sai ramotanNa i.
+-
+Hohom ma ho, hohom ale tondingku,
+ai Jesus do tongtong partigimi,
+marungkil ho di tingki naung salpu
+tingki na ro gok las ni rohami,
+ndang lonong ho nang gumalunsang laut,
+ai Debata do donganmi disi.
+-
+Hohom ma ho, hohom ale tondingku,
+paborhat ma hinaholonganmi,
+ponjot roham marabur iluilu,
+na sai laon rosu parsaoranmi,
+pos ma roham di Tuhan Debatamu,
+na margogoi mangapul rohami.
+-
+Hohom ma ho, hohom ale tondingku,
+satongkinnai boi ma pajumpang ho,
+pos rohami satia do Tuhanmu,
+tu surgo i do boanonNa ho,
+raphon sude na hinaholonganmu,
+dohot suruan i marende ho.

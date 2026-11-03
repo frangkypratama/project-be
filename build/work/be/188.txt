@@ -1,0 +1,44 @@
+@be 188
+@bl 131
+@title Jahowa siparmahan au
+@key G
+@meter 4/4
+@credit Wittenberg 1524, M. Luther
+@pages 171
+@check Birama akhir sebelum ":|" dan birama penutup tercetak "1 ." (1/4 bertitik) karena lagu berketuk gantung 1/8; ditulis `.+0` agar hitungan ketukan genap.
+@status Lirik dicek · 19/20 baris sama dgn pembanding
+@check Pembanding lirik: baris 19 beda ejaan 1 kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 188) | https://bukuende.wordpress.com/2013/06/16/jahowa-siparmahan-au-buku-ende-no-188-buku-logu-no-131/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+0+1 | 1 6, 5, 1 | 2 3 1 v .+7, | 1 2 3 4 | 2 . 1 .+0 :|
+> Ja-ho-wa Si-par-ma-han au, ndang hu-rang ma-nang a-ha,
+> Ai na-sa je-a di-pa-dao do si-an dor-bi-a-na.
+#B
+0+1 | 6, 7, 1 6, | 5, #4, 5, v .+5, |
+1 2 3 4 | 3 2 3 v .+2 | 3 4 5 3 | (2+1 2) 1 .+0 |]
+> To-ngon di-baen na lo-mak i, lao pa-ngo-lu-hon ton-ding-ki, di-baen a-si ro-ha-na.
+#V
+Jahowa Siparmahan au, ndang hurang manang aha,
+Ai nasa jea dipadao do sian dorbiana.
+Tongon dibaen na lomak i, lao pangoluhon tondingki,
+Dibaen asi rohana.
+-
+Ditogu au tu na tio, aek mata hangoluan;
+Dibaen do tondingki sio, di dalan hasonangan.
+Sabam rohangku do tongtong, saleleng au di tano on,
+Baen sangap di goarNa.
+-
+Di rura hamatean pe ndang pola au tahutan,
+Ai disondangi do sude, sonang do au mardalan.
+Batahi dohot tungkotMi do mangapuli rohangki.
+Ho do sitiopanku.
+-
+Rade dibaen Ho meja i di jolo ni matangku.
+Paadopadop musungki na so habiaranku.
+Ulungku dimiahi Ho, panginumanku suksuk do,
+Binaen ni panumpakMu.
+-
+Tongtong do denggan ni basaM, jambarhu di ngolungku,
+Tongon do asi ni rohaM, mangihut di langkangku.
+Dung i, dung suda bohalhi sai inganangku jabuMi
+Saleleng ni lelengna.

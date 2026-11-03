@@ -1,0 +1,56 @@
+{
+ "be": 2,
+ "bl": 113,
+ "title": "Naeng pujionku Ho, Jahowa",
+ "key": "C",
+ "meter": "4/4",
+ "credit": "J.A. Freylinghausen, 1690",
+ "pages": [
+  2,
+  3
+ ],
+ "checks": [
+  "Not 4 pada birama ke-3 bertanda coret di scan dan bertanda kres (♯) di not balok buku — dibaca fis (♯4).",
+  "Pembanding lirik: bukuende.wordpress.com — 8 dari 9 baris sama persis; 1 baris beda ejaan (ayat 3 baris 2: “asai”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku."
+ ],
+ "sections": [
+  {
+   "notes": "5 | 1' 5 6 6 | 5 .+4 3 1 | 0 2 3 #4 |\n5+6 7+1' 7 6 | 5 . . :|",
+   "rows": [
+    "Naeng pu-ji-on-ku Ho, Ja-ho-wa, ai Ho do De-ba-ta na tu-tu i!",
+    "Sai su-ru Ton-di Par-ba-di-a tu au, a-sa hu-pu-ji go-ar-Mi."
+   ]
+  },
+  {
+   "notes": "5 | 1' 2' 3' 1' |\n4'+3' 2'+1' 2' . | 3' 2'+1' 7 6 | 5 1' 1' 7 | 1' . . |]",
+   "rows": [
+    "Mar-hi-te-hi-te Je-sus, A-nak-Mi, a-sa lo-mo ro-haM di en-deng-ki."
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Naeng pujionku Ho, Jahowa, ai Ho do Debata na tutu i!",
+   "Sai suru Tondi Parbadia tu au, asa hupuji goarMi.",
+   "Marhitehite Jesus, AnakMi, asa lomo rohaM di endengki."
+  ],
+  [
+   "Togihon ma au tu anakMu asa tu Ho ditogu au muse.",
+   "TondiM pasaorhon tu tondingku manogu au di dalan na ture.",
+   "Asa tongtong gok dame rohangki huhut girgir mamuji goarMi."
+  ],
+  [
+   "Asi rohaM, ale Jahowa! Pamalo au mamuji goarMi.",
+   "Sai unang asai puas hata, ingkon tutu dipuji rohangki.",
+   "Ho, Ama, Anak dohot Tondi i, doshon na jongjong au dijoloMi."
+  ]
+ ],
+ "status": "Lirik dicek · 8/9 baris sama dgn pembanding",
+ "refs": [
+  {
+   "t": "Lirik pembanding: bukuende.wordpress.com (BE 2)",
+   "u": "https://bukuende.wordpress.com/2013/06/16/naeng-pujionku-ho-jahowa-buku-ende-no-2-buku-logu-no-113/",
+   "n": "Pembanding lirik (ejaan tanda baca diabaikan)."
+  }
+ ]
+}

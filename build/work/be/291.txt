@@ -1,0 +1,31 @@
+@be 291
+@bl 41
+@title Binsar ma, binsar ma
+@key Ab
+@meter 3/4
+@credit Lagu: Karl Kuhlo 1385
+@pages 270 271
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 (parsahitan) beda ejaan; scan hlm 271 ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 291) | https://bukuende.wordpress.com/2013/06/09/binsar-ma-binsar-ma-buku-ende-no-291-buku-logu-no-41/ | 7/8 baris sama
+@check Birama berganti: 4 birama pertama dicetak 3/4, lalu "(4/4)" — ditulis sebagai bagian A 3/4, bagian B 4/4.
+@check Kredit tercetak "Karl Kuhlo 1385" (tahun jelas salah cetak, kemungkinan 1885) — ditulis apa adanya.
+#A
+1+.+.+1 1 . | 1+.+.+2 3 . | 4+.+.+3 3 2 | 1 . v 3+3 |
+> Bin-sar ma bin-sar ma mar-si-non-dang ma. Ha-ti
+#B 4/4
+4 3 3 1 | 2 . 2 v 3+3 | 2 7, 1 7, |
+6, . 5, v 1+1 | 1 2 3 . | 0 5,+5, 6, 7, | 1 . 0 0 |]
+> u-ron si-an gin-jang, pa-ngo-lu-hon hu-ma-li-ang ha-mi sa-su-de, ha-mi sa-su-de.
+#V
+Binsar ma binsar ma marsinondang ma. Hatiuron sian ginjang,
+Pangoluhon humaliang hami sasude, hami sasude.
+-
+Ngalut ni ngolungki, sitaononki parsahitan, halojoan
+Jambarmi, o hajolmaon di portibi on, di portibi on.
+-
+Tuhanki, tua ni hajolmaon i, Ho partanobatoanku,
+Ho tongtong pangkirimanku, Jesus, goarMi, pos ni rohangki.
+-
+Bereng i jambarmi, salelengna i unang lohot ho di toru,
+Unang jambarmi lam moru tuju ngolumi na di ginjang i.

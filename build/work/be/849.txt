@@ -1,0 +1,20 @@
+@be 849
+@bl 0
+@title Dok mauliate
+@key C
+@meter 4/4
+@credit Syair: Lob und Dank und Ehre; Ludwig Gebhardi 1787 - 1862 · Terj.: Dcs. Bonaria Hubarat
+@pages 938
+@status Lirik dicek · 0/1 baris sama dgn pembanding
+@check Pembanding lirik: kata 6 beda ejaan — buku mencetak "si tom-pa" terpisah (hlm 938); buku tetap acuan.
+@check Pembanding menyebut Buku Logu No. 849; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 849) | https://bukuende.wordpress.com/2013/06/13/dok-mauliate-buku-ende-no-849-buku-logu-no-849/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Kanon 4 suara: angka berlingkar ①②③④ di birama 1, 3, 5, 7 = titik masuk tiap suara; hanya satu baris melodi yang ditranskrip.
+@check Bar 3 "1̇ 5 - 3̇": tanda "-" = tahan (5 not 1/2, sesuai balok G4 setengah).
+#A
+1 3 5 1' | (1' 7+6) 7 . | 1' 5 . 3' | 2' . . 5 |
+3' .+2' (1'+7) (6+5) | 5 . 5 . | 1' . 1 . | 5 . 5 . |]
+> Dok ma-u-li-a-te tu De-ba-ta si tom-pa sa-lu-hut-na Ha-le-lu-ya.
+#V
+Dok mauliate tu Debata sitompa saluhutna Haleluya.

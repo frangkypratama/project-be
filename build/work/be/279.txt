@@ -1,0 +1,50 @@
+@be 279
+@bl 260
+@title Pasahat ma sudena
+@key Eb
+@meter 4/4
+@credit Michael Haydn 1806
+@pages 259 260
+@check URL pembanding menyebut "buku-logu-no-160"; buku mencetak "Logu No. 260"; ditulis sesuai buku.
+@check Kepala bagian berganti menjadi "Ende Pangapulon" mulai lagu ini.
+@check "4*" baris 2 = 4 kres (paranada: A pugar di Es mayor).
+@check Not "7" sebelum birama akhir tercetak tanpa titik bawah, paranada D4 (di bawah do); ditulis 7,.
+@status Lirik dicek · 18/24 baris sama dgn pembanding
+@check Pembanding lirik: L4 kata 3 & 5, L9 kata 3, L16 kata 4, L21 kata 4 beda ejaan; L8 kata 5 berbeda (buku "ratulis"); buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 279) | https://bukuende.wordpress.com/2013/06/16/pasahat-ma-sudena-buku-ende-no-279-buku-logu-no-160/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 5 .+3 (5+4) (3+2) | (1 3) 2 v 6 | 5 (6+4) 3 2 |
+3 . 0 5 | 5 .+3 (5+4) (3+2) | (1 3) 2 v 1' | 7 (1'+6) 5 #4 |
+5 . 0 5 | 5 .+4 3 5 | (5+4) 4 0 4 | 3 .+5 (1'+5) (4+3) |
+2 . 0 1 | 1 .+3 3 .+5 | (5+6) 6 0 (5+4) | 3 (4+2) 1 7, | 1 . 0 |]
+> Pa-sa-hat ma su-de-na, na hi-nol-so-hon-mi, tu De-ba-ta Ja-ho-wa, par-deng-gan ba-sa i, Ai gu-ru di I-ba-na do ta-no do-hot laut; Lan pe di-ta-hi jol-ma ro-ha-na do na saut
+#V
+Pasahat ma sudena, na hinolsohonmi,
+tu Debata Jahowa, pardenggan basa i,
+Ai guru di Ibana do tano dohot laut;
+Lan pe ditahi jolma rohana do na saut
+-
+Tung ingkon haposanmu Jahowa, Debatam;
+Disi ma dapotonmu sinangkap ni roham.
+Ai ndang adong gunana, nang pe holsoan ho;
+Tangiang do dalanna asa ratulis ho.
+-
+Diboto Debatanta parasiroha i
+Na denggan nang na roa di hita sasude.
+Na denggan di patongon tu hita sai tongtong;
+Na roa dipadaohon manjaga hita on.
+-
+Ipe sai tong haposi ma Debatanta i;
+Sian roham tostosi ma pandelean i.
+Ai dung dihabengethon Ho na hinolsomi,
+Tibu ma ro langkaNa mambuat arsakmi.
+-
+Pasombu ma Ibana pature langkami.
+Na pistar do rohaNa patupa sasude
+Tung sungkot pingkiranNa lao paluahon ho ?
+Sai naeng patarhononNa gogoNa i tu ho.
+-
+Antong, o Tuhannami, paujung ma sude
+Na mangarsahi,hami, saluhut jea pe.
+Sai sahat tu tanganMu ma hami on sude;
+Tu surgo toguonMu ma tondinami be.

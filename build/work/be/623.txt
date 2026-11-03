@@ -1,0 +1,34 @@
+@be 623
+@bl 0
+@title Tarsilang Ho
+@key G
+@meter 3/4
+@credit Syair: Alas! and did my savior bleed; Hugh Wilson · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: Isaac Watts
+@pages 627 628
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: 1 Kor. 1:23-24.
+@check Kredit ditulis seperti tercetak; lazimnya syair "Alas! and did my Savior bleed" oleh Isaac Watts dan lagu (MARTYRDOM) oleh Hugh Wilson — nama tampak tertukar di buku.
+@check Birama 6: angka tercetak "5 3‿2" (kurang titik); balok = D5 setengah + B–A 1/8 → ditulis 5 . (3+2).
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — semua baris sama. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 623) | https://bukuende.wordpress.com/2013/06/18/tarsilang-ho-buku-ende-no-623-buku-logu-no-623/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 . 6, | 5, . (1+2) | 3 . 2 |
+1 . 3 | 5 . (3+2) | 1 . 3 | (2 . . | 2) . 5 |
+3 . 2 | 1 . 3 | 4 . 3 | 2 . 3 |
+(5, 6,) (1+2) | 3 . 2 | (1 . . | 1) . |]
+> Tar-si-lang Ho, ma-no-bus au, tung lo-ngang ro-hang-ki, mu-dar-Mu na ba-di-a i, ma-ne-sa do-sang-ki.
+#V
+Tarsilang Ho, manobus au,
+tung longang rohangki,
+mudarMu na badia i,
+manesa dosangki.
+-
+Ndang na tarasam balga ni,
+holong ni rohaMi,
+durus mudarMu Tuhanki,
+ala ni dosangki.
+-
+Hulehon ma Tuhan tu Ho,
+saluhut diringkon.
+lao mangoloi Ho Tuhanki,
+saleleng ngolungki.

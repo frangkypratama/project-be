@@ -1,0 +1,44 @@
+@be 818
+@bl 0
+@title Longang au
+@key Bb
+@oct -1
+@meter 3/4
+@credit Syair & Lagu: The Wonder of it all, George Beverly Shea · Terj.: Pdt. J.A.U. Doloksaribu / Dcs. Bonaria Hutabarat
+@pages 902 903
+@status Lirik dicek · 8/11 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 4 (kata hilang di pembanding), 5 (ejaan), 11 (kata 4 berbeda); baris ayat 2 terakhir tidak ada di pembanding (halaman terpotong). Dicek di scan — buku tetap acuan. Pembanding menyebut Logu No. 818, buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 818) | https://bukuende.wordpress.com/2013/06/16/longang-au-buku-ende-no-818-buku-logu-no-818/ | perbandingan per baris
+@check Buku tidak mencetak nomor Logu → ditulis 0.
+@check Baris 3 birama terakhir tercetak "5̄ 5 . 5̄" (angka & balok: 1/8 – 1/4 bertitik – 1/8 = 2½ ketuk dalam 3/4); not terakhir ditulis 1/4 agar birama genap 3 ketuk.
+@check "maol" (ayat 2: "ummaol") dipenggal ma-ol mengikuti jumlah not.
+@check Ayat 2 hanya mencetak bait; refrein diulang ("Ref: Tung longang do ...").
+#A
+5+5 | 5 .+5 5 | 5 4 2 | 3 (5 . | 5) . 1' |
+1' .+1' 1' | 1' 7 6 | (5 . . | 5) . 5+5 | 2' .+2' 2' |
+2' 1' 2' | 3' . 3'+2' | 1' . 6+6 | 5+5 . 5 |
+5 5 5 | (5 . . | 5) . |
+> Lo-ngang au mi-da sun-dut ni a-ri, nang bu-ha si-ang a-ri i, na um-ma-ol huan-tu-si di-ro-hang-ki-non, De-ba-ta mang-ha-ho-lo-ngi au.
+> Ha-lo-nga-ngan do pam-ba-he-nan-Na u-dan, nang las ni a-ri i, na um-ma-ol huan-tu-si di-ro-hang-ki-non. ndang ta-ra-sam ho-long-Na tu au,
+#B
+5+5 | 5 .+5 5+4 |
+3 . 1' | 1' .+1' 1'+7 | 6 . 6+6 | 5 . 5 |
+5 4 2 | (3 . . | 3) . 5+5 | 3' .+3' 3'+2' |
+1' . 1' | 1' .+1' 1'+7 | 6 . 6+6 |
+5 . 5 | 7 1' 2' | (1' . . | 1') . |]
+> Tung lo-ngang do ro-hang-kon, lo-ngang do ro-hang kon, a-la ni ho-long Na tu au, ndang na ha-su-ha-tan au, ho-long-Na na tu au tung bal-ga ho-long-Na tu au.
+#V
+Longang au mida sundut ni ari,
+nang buha siang ari i,
+na ummaol huantusi dirohangkinon,
+Debata manghaholongi au.
+Ref: Tung longang do rohangkon, longang do rohangkon,
+ala ni holongNa tu au,
+ndang na hasuhatan au, holongNa na tu au
+tung balga holongNa tu au.
+-
+Halongangan do pambahenanNa
+udan, nang las ni ari i,
+na ummaol huantusi dirohangkinon.
+ndang tarasam holongNa tu au,
+Ref: Tung longang do ....

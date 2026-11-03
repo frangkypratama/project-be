@@ -1,0 +1,41 @@
+@be 591
+@bl 0
+@title Boru sion
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Tochier Zion; Freue Dich, Fredrich Hainrich Ranke, 1820; Terj.: Drs. T. Manurung; Lagu: George friedrich Handel, 1714
+@pages 575 576
+@status Lirik dicek · 6/9 baris sama dgn pembanding
+@check Pembanding lirik: beda di "Rajami", refrein "Jesus rusalem" (pembanding: Jerusalem) dan "bangsomoMon"; scan dicek ulang, ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 591) | https://bukuende.wordpress.com/2013/06/09/boru-sion-buku-ende-no-591-buku-logu-no-591/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Zak. 9:9; Mat. 21:9.
+@check Kredit tercetak "Tochier Zion; Freue Dich, Fredrich Hainrich Ranke" (lazim: Tochter Zion, freue dich; Friedrich Heinrich Ranke) dan "George friedrich Handel" — ditulis apa adanya.
+@check Refrein di buku tercetak "Je-sus ru-sa-lem" dengan "Je-sus" berdua di bawah satu not (kemungkinan salah cetak "Je-ru-sa-lem"); ditulis apa adanya, "Jesus" pada satu not.
+@check Not 4 sebelum "tongtong" dan sesudah "me-hon": balok memberi tanda pugar (E), angka di baris "ho tongtong" tercetak 4 polos → ditulis #4 mengikuti balok.
+@check Akhir ayat "ho tong-tong": dua suku kata "tong" di not #4 bertitik dan 5 (1/8); not 5 panjang di birama berikutnya tanpa suku kata → ditulis `_` (ditahan).
+@check Legato angka mencakup 2 3 4 5 + not 4 (1/4) sesuai legato not balok (satu suku kata "las"); begitu pula 3 4 5 6 5 dan 3 2 3 4 3.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not. Ayat 2–3 tidak mencetak "Ref." tetapi refrein (bagian B) berlaku.
+#A
+5 . (3 .+4) | 5 . 1 . | (2+3 4+5 4) 3 | 2 . . 0 |
+(3+4 5+6 5) 5 | 1' . 5 . | (4 3 2) .+1 | 1 . . 0 |
+(3+2 3+4 3) 3 | 2 . 1 . | (4 3 2) 1 |
+7, . . 0 | (1+7, 1+2 1) 1 | 6 . #4 . |
+(5 6+5) #4 .+5 | 5 . . 0 |
+> Bo-ru si-on las ro-ham las ro-ham Je-ru-sa-lem ai na ro do Ra-ja-mi pa-da-me-hon ho tong-tong _
+#B
+5 . (3 .+4) | 5 . 1 . | (2+3 4+5 4) 3 | 2 . . 0 |
+(3+4 5+6 5) 5 | 1' . 5 . | (4 3 2) .+1 | 1 . . 0 |]
+> Bo-ru si-on las ro-ham las ro-ham, Jesus ru-sa-lem.
+#V
+Boru sion las roham las roham Jerusalem
+ai na ro do Rajami padamehon ho tongtong.
+Ref. : Boru sion las roham las roham, Jesus rusalem.
+-
+Anak Daud ro ma Ho! pasu-pasu bangsomon,
+harajaonMu hot tongtong dame ma di tano on,
+hosianna ro ma Ho! Pasu-pasu bangsomoMon.
+-
+Hosianna ro ma Ho! Masuk Ho tu rohangkon.
+baen mardame tondingkon lao manjangkon haroroM,
+Anak Daud ro ma Ho! Masuk Ho tu rohangkon.

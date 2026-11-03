@@ -1,0 +1,39 @@
+@be 630
+@bl 0
+@title Marlas ni roha hita on
+@key D
+@meter 3/4
+@credit Syair: Wir wollen alle frohlich sein; Resurexit Dominus, Jerman abad 12 · Terj.: biv. N. A. Sirait · Lagu: Michael Praetortus, 1609
+@pages 637 638
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: 1 Kor. 15:54-57.
+@check Kredit ditulis seperti tercetak ("frohlich", "Resurexit", "Praetortus"; ejaan lazim: fröhlich, Resurrexit, Praetorius).
+@check Ayat 4 di buku tidak diakhiri "Ref.".
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 1 baris 2 & ayat 2 baris 1 (kata 'i' di akhir tak ada di pembanding), ayat 3 'hamataen' (salah cetak buku, dibiarkan). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 630) | https://bukuende.wordpress.com/2013/06/16/marlas-ni-roha-hita-on-buku-ende-no-630-buku-logu-no-630/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 1 . 3 | 5 . 6 | (5 3) 4 |
+5 . 1' | (7 6) 7 | 1' . 5 | (5 . 4) |
+3 . 3 | (2 3) 4 | (3 2) 3 | (1 6,) 7, | 1 . |]
+> Mar-las ni ro-ha hi-ta on di a-ri ha-he-he-on ta-pu-ji ma Tu-han-ta i,
+#B
+1 | 1 . 3 | 5 . 6 | (5 3) 4 |
+5 . 1' | (7 6) 7 | 1' . 5 | 5 . 4 |
+3 . 3 | 2 . 4 | (3 2) 3 | (1 6,) 7, | 1 . |]
+> Ha-le-lu-ya, Ha-le-lu-ya, ha-le-lu-ya; ha-le-lu-ya ha-le-lu-ya ha-le-lu-ya.
+#V
+Marlas ni roha hita on, di ari haheheon
+tapuji ma Tuhanta i,
+Ref.: Haleluya, Haleluya, haleluya;
+haleluya haleluya haleluya.
+-
+Ai nunga hehe Jesus i, naung mate di hau silang i
+sai puji ma Tuhanta i.
+Ref.: Haleluya . . .
+-
+Naung talu hamataen i, setan banua toru i
+Tuhanta manaluhon i.
+Ref.: Haleluya . . .
+-
+Ai nunga mungkap surgo i, di angka na porsea i
+Ala naung monang Kristus i

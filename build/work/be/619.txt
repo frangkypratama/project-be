@@ -1,0 +1,39 @@
+@be 619
+@bl 0
+@title Di Golgota
+@key Ab
+@meter 4/4
+@credit Syair: At the cross: Elisha A. Hoffman · Terj.: Dcs. Bonaria Hutabarat · Lagu: John H. Stockton
+@pages 621 622
+@status Lirik dicek · 5/11 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda karena pemecahan baris refrein, "di baen" (buku dipisah), dan "martua au" (buku ada "au"); dicek ke scan hlm 621–622: sesuai buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 619) | https://bukuende.wordpress.com/2013/06/13/di-golgota-buku-ende-no-619-buku-logu-no-619/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 619".
+@check Refrein birama 1 tercetak "1 . 2 1̇ 6̣" (titik atas pada 1 ketiga); not balok As4 (sama dengan not pertama) → dibaca 1 tanpa titik.
+#A
+3 3+.+.+2 1 1+.+.+7, | 6, 1 5, . |
+3 3+.+.+3 5 5+.+.+3 | 1 3 2 . |
+3 3+.+.+2 1 1+.+.+7, | 6, 1 5, . |
+3 .+1 3 2 | 1 . . 0 |]
+> Di Gol-go-ta hu-sol-so-li do su-de do-sang-ku na jor-but i i-as au di baen mu-dar Na i, pu-ji Je-sus i.
+#B
+1 .+2 1 6, | (5, .+6,) 1 0 | 3 .+3 3 1 | (2 .+3) 2 0 |
+3 3+.+.+2 1 1+.+.+7, | 6, 1 5, . |
+3 .+1 3 2 | 1 . . 0 |]
+> Pu-ji ma Go-ar-Na pu-ji ma go-ar-Na mu-dar-Na pa-i-as ro-hang-ki pu-ji Je-sus i.
+#V
+Di Golgota husolsoli do
+sude dosangku na jorbut i
+ias au di baen mudarNa i, puji Jesus i.
+Ref.: Puji ma GoarNa puji ma goarNa
+mudarNa paias rohangki puji Jesus i.
+-
+Malua au sian dosangki,
+nunga tung sonang martua au
+di tano on dongananNa au. puji Jesus i.
+Ref.: Puji goarNa . . .
+-
+MudarNa do namamuri au
+nunga ias songon hapas au
+unang ramun diramoti au, puji Jesus i.
+Ref.: Puji goarNa . . .

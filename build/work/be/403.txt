@@ -1,0 +1,28 @@
+@be 403
+@bl 402
+@title Pos rohangku di Tuhanku
+@key Ab
+@meter 3/4
+@credit J.A. Naumann 1801
+@pages 386 387
+@status Lirik belum ada pembanding
+@check Kepala lagu juga mencetak "U.L. No. 30".
+@check Nilai not "4 .", "7 ." dsb. diambil dari not balok buku (4. = 1½ ketuk; 7 . = 2 ketuk).
+@check Pembanding lirik: BE 403 tidak ditemukan di indeks huruf bukuende.wordpress.com maupun pencarian web.
+#A
+5,+5, 5,+1 1+3 | 2 1 3+5 | 4 .+2 3+4 | (3 2) 0 :|
+> Pos ro-hang-ku di Tu-han-ku, ndang tar-baen tar-hi-rim au.
+> On do tong-tong ta-ngi-ang-ku: Tu lam-bung-Mu au pa-tau.
+#B
+7,+2 | 2 .+7, 1+2 | 7, . 1+3 |
+3 .+1 2+3 | 1 . 1+7, | 6,+.+.+6, 5, 5, | 5, . 0 |]
+> Lo-bi pos do ro-hang-ki, sai pa-tu-lu-son-na i, bo-an-on-na au tu-si.
+#V
+Pos rohangku di Tuhanku, ndang tarbaen tarhirim au.
+On do tongtong tangiangku: Tu lambungMu au patau.
+Lobi pos do rohangki, sai patulusonna i, boanonna au tusi.
+-
+Huhilala ganup ari paniopNa di au on.
+Sai tong dipasarisari, naeng badia rohangkon.
+Naeng lam tu tinggilna i,
+Pinggol partondionki lao mambaen lomoNa i.

@@ -1,0 +1,40 @@
+@be 848
+@bl 0
+@title Dison adong huboan Tuhan
+@key F
+@meter 4/4
+@credit Syair & Lagu: Pdt. W. Silitonga (Pensilwally), 1986
+@pages 936 937
+@status Lirik dicek · 11/15 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 1 ("Tuh-han" tercetak), 2 ("ngo lung-ku"), 4 ("si-de deng-gan" — pemisahan kata tak jelas di buku), 11 ("HattaM" tercetak jelas hlm 937). Buku tetap acuan.
+@check Pembanding menyebut Buku Logu No. 848; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 848) | https://bukuende.wordpress.com/2013/06/13/dison-adong-huboan-tuhan-buku-ende-no-848-buku-logu-no-848/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Ketukan gantung ½ ketuk (5) ditulis "0+5"; birama akhir tercetak 3½ ketuk ("… 1 0" dgn 0 = ½) ditulis "1 0" (diam 1 ketuk).
+@check Birama akhir ketukan 4: "1 . 0 2" dibaca 1 (1 ketuk) + ". 0 2" (1/8 + 1/16 diam + 1/16), sesuai garis atas; balok tampak diam 1/8.
+@check Lirik baris 1 tercetak "Tuh-han" (judul: "Tuhan") — ditulis apa adanya.
+#A
+0+5 | 5 .+5 5 .+5 | 5 4+3 2 .+2 |
+2+2 3+2 4 4+.+.+4 | 3+.+(2+1) 2+.+.+2 2 .+5 |
+5 .+5 5 .+5 | 5 4+3 2 .+2 |
+2+2 3+2 4 4+.+.+4 | 3+.+(2+1) 2+2 2 . |
+3+.+.+1 2+.+.+2 1 .+.+0+2 | (3+.+.+1) 2+.+.+2 1 0 |]
+> Di-son a-dong hu-bo-an Tuh-han, par-bu-e ni ngo-lung-ku na-so tar-dok-ni-an. Sa-di-a ma ar-ga-na Tu-han mo-lo-sai ni ra-jum-an si-de deng-gan ba-saM? Ja-lo ma Tu-han, sai las ma ro-haM.
+#V
+Dison adong huboan Tuhhan,
+parbue ni ngolungku naso tardoknian.
+Sadia ma argana Tuhan
+molo sai ni rajuman side denggan basaM?
+Jalo ma Tuhan, sai las ma rohaM.
+-
+Tanganku na metmet da, Tuhan,
+na so hea mansari dope au on Tuhan;
+rohangku ma hulehon, Tuhan
+na boi pelehononku gabe las ni rohaM,
+jalo ma Tuhan, sai las ma rohaM
+-
+Huingot do HattaM da, Tuhan,
+ingkon sarihononhon anggim na metmetan;
+ampehon ma tanganMu sangkan,
+itak na otik i unang suda nian,
+jalo ma Tuhan, sai las ma rohaM.

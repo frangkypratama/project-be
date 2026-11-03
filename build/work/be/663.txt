@@ -1,0 +1,39 @@
+@be 663
+@bl 0
+@title Boto ma sude hamu
+@key F
+@meter 4/4
+@credit Syair & Lagu: Every body ought to know, Anonim · Terj.: Biv. MH. Sitorus / Pdt. J.A.U. Doloksaribu
+@pages 683 684
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 1 ("Botoma" disambung, sesuai lirik di bawah not) dan baris 6 (kata ekstra di salah satu sisi). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 663" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 663) | https://bukuende.wordpress.com/2013/06/09/boto-ma-sude-hamu-buku-ende-no-663-buku-logu-no-663/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0).
+@check Susunan: bagian A s.d. "Fine", bagian B lalu "D.C. al Fine" (A diulang). Lengkung "3 . . . | 3" dan "2 . . . | 2" = not diikat (tie).
+@check Birama 3 bagian B baris 2 ("5 .5"): balok tercetak 1/4 bertitik dua + 1/16, angka tercetak seperti 1/4 bertitik + 1/8 → mengikuti angka.
+@check "4 .4" di bagian A baris 2 dibaca 1/8 bertitik + 1/16 (supaya birama 4 ketuk, sama dengan pola 3.3).
+#A
+5,+.+.+5, 6,+.+.+5, #4,+.+.+5, | (3 . . . | 3) 5,+.+.+5, 6,+.+.+5, #4,+.+.+5, |
+(3 . . . | 3) 3+.+.+3 4+.+.+4 3+.+.+3 | (2 . . . | 2) 4 3 2 |
+(1 . . . | 1) |]
+> Bo-to-ma su-de ha-mu bo-to ma su-de ha-mu bo-to ma su-de ha-mu Je-sus, Kris-tus.
+#B
+5 .+5 6+5 3+1 | 1 . 6, . |
+5, .+1 3+1 5+3 | 2 . . . | 5 .+5 6+5 3+1 |
+1 . 6, . | 5, .+1 3+2 1+7, | 1 . . 0 |]
+> So-ngon bu-nga na di la-dang bin-tang ha-ti-u-ron i na su-mu-rung do u-li-na ga-nup ma um-bo-to i.
+#V
+Botoma sude hamu boto ma sude hamu
+boto ma sude hamu Jesus, Kristus.
+Songon bunga na di ladang bintang hatiuron i
+na sumurung do ulina ganup ma umboto i.
+-
+Boto ma sude hamu, Boto ma sude hamu,
+boto ma sude hamu, Jesus, Kristus.
+Jesus do pamalum ahu, na palua tondingki.
+mamandidihon tu ahu Tondi Parbadia i.
+-
+Boto ma sude hamu, boto ma sude hamu,
+boto ma sude hamu, Jesus, Kristus.
+Biru-biru ni Debata, na mamorsan dosa i,
+Raja ni sudena raja,, ganup ma umboto i.

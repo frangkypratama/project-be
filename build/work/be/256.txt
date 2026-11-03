@@ -1,0 +1,48 @@
+@be 256
+@bl 95
+@title Jesus Kristus i do Raja
+@key F
+@meter 4/4
+@credit Lagu: Wolfgang Amadeus Mozart 1781
+@pages 235 236
+@status Lirik dicek · 13/21 baris sama dgn pembanding
+@check Pembanding lirik: beda: "Manggongomi", "Tuibana" (ayat 1, di bawah not "manggongo-mi", "Tu-i-ba-na"), "tano", "marunjung", "ohamuna"; 3 baris ayat 7 dinilai "kata tambahan" di awal (kemungkinan pergeseran baris/tanda ulang); semua dicek ulang ke scan: tercetak demikian di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 256) | https://bukuende.wordpress.com/2013/06/16/jesus-kristus-i-do-raja-buku-ende-no-256-buku-logu-no-95/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Birama 2 dicetak "5 3 5̄ 3" dan birama 3 "5̄4 4̄ 0 2̄3̄"; garis atas pada 5 dan 4 tunggal tidak cocok dengan not balok (not 1/4) dan jumlah ketuk → ditulis 5 3 5 3 dan (5+4) 4 0 2+3.
+@check Birama "1 . 1 . ’ 7̄ 6̄" (hlm 236): not balok F4 1/4 legato ke F5 1/2, napas, E5–D5 1/8 → ditulis (1 1' .) v 7+6.
+@check Baris 1 dicetak "manggongo-mi" lalu ulangan "Mang-gom-go-mi"; ditulis sesuai cetakan.
+@check Ayat 1 disusun dari lirik di bawah not; ":,:" = frasa diulang.
+#A
+1+3 | 5 3 5 3 | (5+4) 4 0 2+3 |
+4 2 4 (3+4) | (5+4) 3 0 1+3 | 5 3 2 2 |
+(1 1' .) v 7+6 | 5 3 5 4 | 3 . 0 :|
+> Je-sus Kris-tus i do Ra-ja, Pi-na-bang-kit ni A-ma-na, mang-go-ngo-mi sa-su-de. Mang-gom-go-mi sa-su-de.
+> Ja-la na-sa ha-jol-ma-on, Tu-i-ba-na do mar-Tu-han, par-ha-to-po-ton-na be. Par-ha-to-po ton-na be.
+#V
+Jesus Kristus i do Raja, Pinabangkit ni Amana,
+:,: Manggongomi sasude. Jala nasa hajolmaon,
+Tuibana do marTuhan, :,: Parhatopotonna be.
+-
+Angka surusuruanNa humaliang habangsaNa,
+:,: Pasangaphon Raja i. Na di ginjang marhuaso,
+Harajaon na di tano. :,: Mangaloi patikNa i.
+-
+Debata do sasadasa, holan Jesus do tudosNa,
+:,: Anak tu AmaNa i. Na so meret habangsaNa,
+So marunjung do ngoluNa. :,: Tongtong gomgomanNa i.
+-
+Holan Jesus patupahon na malua hajolmaon
+:,: Ala ni mudarNa i. Nunga sahat hangoluan,
+Sai tongtong do partuaon :,: Dibagasan Jesus i.
+-
+Hamu, angka na mardosa, nang hamu, na ponjot hosa
+:,: Ala ni na porsuk i. Sai pasahat ohamuna,
+Nang na hinolsohonmuna :,: Tu Tuhanta Jesus i.
+-
+O hamuna na badia nang na tigor i, na ria,
+:,: Nang sude naung monang i. Tole ma hamu natorop,
+Tole ma marolopolop, :,: Puji ma Tuhanta i!
+-
+Dohot au pe di na rodop, naeng porsea, naeng marolop,
+:,: Naeng mamuji Tuhanki. Jesus Kristus i do Raja.
+ingkon tunduk saluhutna :,: Mangoloi Rajanta i.

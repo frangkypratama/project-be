@@ -1,0 +1,40 @@
+@be 797
+@bl 0
+@title Jesus parmahan i
+@key F
+@meter 3/4
+@credit Syair: Shepherd of tender youth; Clemen of Alexander, C 170 - C 220 · Terj.: Pdt. M. V. Simanjuntak · Lagu: Felice de Giandini, 1716 - 1796
+@pages 875
+@status Lirik dicek · 12/15 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 12 (dalanMi), 13 (roha), 14 (dakdanak); dicek ulang di scan hlm 875, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 797) | https://bukuende.wordpress.com/2013/06/16/jesus-parmahan-i-buku-ende-no-797-buku-logu-no-797/ | teks ayat; pembanding menyebut Logu No. 797, buku tidak mencetak nomor Logu
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Baris 1: suku kata "ma" ditahan ke not berikut (2 1) tanpa legato tercetak (tanda "-" di bawah not 1) → ditulis dengan "_".
+@check Birama 2 angka "2 1 7"; not pertama di balok tampak setinggi A4 (= 3) — kabur, ditulis sesuai angka.
+@check Kredit ditulis seperti buku ("Clemen of Alexander", "Felice de Giandini"; ejaan lazim: Clement of Alexandria, Felice de Giardini).
+#A
+5 3 1 | 2 1 7, | 1 . . | 1 2 3 |
+(4+5 4) 3 | 2 . . | 5 3 1 | 5, . . |
+2 3 4 | 3 .+2 1 | 2 3 4 | 3 .+2 1 |
+1 3 5 | 5 .+6 5 | 4 3 2 | 1 . . |]
+> Je-sus par-ma _ han i to-gu na-po-so i di na maol i. Ro au tu jo-lo-Mi rap-hon dak-da-nak i, ma-mu-ji go-ar-Mi par-mo-nang i.
+#V
+Jesus parmahan i togu naposo i di na maol i.
+ro au tu joloMi raphon dakdanak i,
+mamuji goarMi parmonang i.
+-
+O na badia i, Tuhan na serep i, pardame i
+na gabe pangoloi manobus jolma i
+sian dosana i na jorbut i.
+-
+Malim na bolon i parade pesta i na sonang i
+di dangol nami i, soara nami i
+dibege Ho do i, O Tuhanki.
+-
+Kristus partogi i haposan nami i, pargogo i
+marhite hataMi togu ma sasude
+mamolus dalanMi margogo be.
+-
+Suanhon ma tongtong tu roha nami be, pujianMi
+pahinsa ma tongtong dakdanak nami be
+na di huriaMi, mamuji Ho.

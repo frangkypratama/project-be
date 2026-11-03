@@ -1,0 +1,26 @@
+@be 855
+@bl 0
+@title Huboan pelean
+@key G
+@meter 4/4
+@credit Syair dan lagu: In ons vreugdepolje: H. J. W. Modderman · Terj.: Pdt. M. H. Sihite / Pdt. J. A. U. Doloksaribu
+@pages 941
+@status Lirik dicek · 6/6 baris sama dgn pembanding
+@check Pembanding lirik: 6/6 baris sama.
+@check Pembanding menyebut Buku Logu No. 855; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 855) | https://bukuende.wordpress.com/2013/06/13/huboan-pelean-buku-ende-no-855-buku-logu-no-855/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check "baen" bertanda busur di bawah (satu suku kata). Kredit "vreugdepolje" ditulis seperti buku.
+#A
+5, 3 3 5 | 5 . 4 . | 5, 7, 2 4 | 3 . . 0 |
+5, 3 3 5 | (5 4) 6, . | 5, 3 3 2 | 1 . . 0 |]
+> Hu-bo-an pe-le-an tu Ho Je-sus i baen pu-ji pu-ji-an tu Ho Tu-han-ki
+#V
+Huboan pelean tu Ho Jesus i
+baen pujipujian tu Ho Tuhanki
+-
+Sian las ni roha husombahon i
+na mambaen mamora au di Tuhanki
+-
+Sian las ni roha tapasahat ma
+angka peleanta i tu Tuhanta da.

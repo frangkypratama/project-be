@@ -1,0 +1,35 @@
+@be 201
+@bl 168
+@title Na martungkot sere au
+@key C
+@meter 3/4
+@credit Johannes Baptist Berger, 1888
+@pages 182 183
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 11 dari 12 baris sama; ayat 2 baris 1 kata 2 (ejaan). Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 201) | https://bukuende.wordpress.com/2013/06/16/na-martungkot-sere-au-buku-ende-no-201-buku-logu-no-168/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5+5 | 1' 1' 3'+1' | 5 . v 3+5 |
+4 (4+3) 4+5 | 3 . :|
+> Na mar-tung-kot se-re au di da-lan-ku tu na dao;
+> Si-an sur-go i do ro, sur-go i di-tu-du do;
+#B
+5+4 | 3 3 3+4 |
+(6+5) 5 v 5+4 | 3 3 3+4 | (6+5) 5 5+5 |
+1' 1' 3'+1' | 5 . v 3+5 | 4 (4+3) 4+5 | 3 . |]
+> I ma ha-por-se-a-on-ku, na pa-hot-hon par-da-lan-ku, na pa-to-gu lang-kang-ki sa-hat ro di Sur-go i
+#V
+Na martungkot sere au di dalanku tu na dao;
+Sian surgo i do ro, surgo i ditudu do;
+I ma haporseaonku, na pahothon pardalanku,
+Na patogu langkangki sahat ro di Surgo i.
+-
+Sada pardisurga i, do disuru Tuhanki,
+Manginganhon rohangkon, mangajari au tongtong:
+I ma holong ni rohaNa; Sian denggan ni basaNa
+Do dilehon i tu au asa unang mago au.
+-
+Marsinondang do tongtong dibagasan rohangkon
+Sada bintang na torang, na mambahen au sonang:
+Pangkirimon ni rohangku, i ma sian Debatangku,
+Patiurhon dalanki tu banuaginjang i.

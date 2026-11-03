@@ -1,0 +1,33 @@
+@be 4
+@bl 148
+@title Sai puji Debata
+@key F
+@meter 4/4
+@credit Choral Buch 156, Johann Crüger, 1647
+@pages 4
+@check Buku menulis "Johann Cruger"; nama komponis lazimnya Johann Crüger.
+@check Suku kata "au - aeng" dicetak terpisah tanda hubung; di teks ayat ditulis "auaeng".
+@status Lirik dicek · 9/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 10 baris sama persis; 1 baris beda ejaan (ayat 1 baris 4: “auaeng”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 4) | https://bukuende.wordpress.com/2013/06/18/sai-puji-debata-buku-ende-no-4-buku-logu-no-148/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 5 5 6 6 | 5 . . v 3 | 4 3 2 3 | 2 . 1 . :|
+> Sai pu-ji De-ba-ta di-baen a-si ro-ha-Na.
+> Hu-hut tong-tong ba-sa di na-sa ti-nom-pa-Na.
+#B
+2 | 2 2 3 3 | 2 . . v 2 | 3 5 5 #4 | 5 . . v 5 |
+6 5 4 3 | 4 . . v 3 | 2 3 2 2 | 1 . . |]
+> Ri-a ma hi-ta be ma-mu-ji De-ba-ta; Ai se-sa do au-aeng do-san-ta i di-baen.
+#V
+Sai puji Debata dibaen asi rohaNa.
+Huhut tongtong basa di nasa tinompaNa.
+Ria ma hita be mamuji Debata;
+Ai sesa do auaeng dosanta i dibaen.
+-
+Disuru Debata anakNa Jesus Kristus,
+Jadi mansai arga do hita on ditobus.
+Diporsan Jesus i dosanta sasude asa mudarNa i paias hita be,
+-
+Dibahen i tama pujion ni rohanta, Tuhanta Debata,
+Nang Jesus pe anakNa, nang Pangondian i,
+Naung ro tu hita on manggonti Jesus i, Pujion do tongtong.

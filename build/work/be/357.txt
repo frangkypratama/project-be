@@ -1,0 +1,57 @@
+@be 357
+@bl 177
+@title Ai beasa di balian?
+@key G
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 338 339
+@status Lirik dicek · 27/28 baris sama dgn pembanding
+@check Pembanding lirik: beda: ayat 5 baris 4 "Denggan" (ejaan). Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 357) | https://bukuende.wordpress.com/2013/06/18/songon-ursa-na-binuru-buku-ende-no-357-buku-logu-no-177/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende Psalm, judul bagian "Psalm 42". Judul Logu "Ai beasa di balian?"; baris pertama lirik "Songon ursa na binuru".
+@check Ayat 1 disusun dari lirik di bawah not; jarak lirik di scan rapat, pemenggalan disesuaikan jumlah not: "mauas" = mau-as, "aek" 1 suku kata (perlu cek manusia).
+#A
+1 1 7, 1 | 2 3 (3+2) 2 v | 1 1 (2+3) (4+2) |
+1 7, 1 . :|
+> So-ngon ur-sa na bi-nu-ru mau-as di aek ta-bar i,
+> So-ngon i do au ma-ngi-do, naeng sol-hot tu Tu-han-ki
+#B
+5 (6+5) 4 4 | 4 (5+4) 3 . v |
+3 2 1 7, | 6, (2+1) 7, . v | 1 (1+7,) (6,+7,) 1 |
+4 3 (3+2) 2 v | 5 4 3 (4+2) | 1 7, (7,+1) 1 |]
+> Ho-lan Ho, De-ba-tang-ki do hu-ha-u-as-hon i. Ai an-di-gan i-da-on-ku bo-hi-Mi, a-le Tu-han-ku.
+#V
+Songon ursa na binuru mauas di aek tabar i,
+Songon i do au mangido, naeng solhot tu Tuhanki
+Holan Ho, Debatangki do huhauashon i.
+Ai andigan idaonku bohiMi, ale Tuhanku.
+-
+Iluilu ni matangku do hupangan sai tongtong,
+Ala sai didok musungku: tung di dia Debatam?
+Jala maras rohangki mingot parmasuhonki,
+Ro di girgir ni endengku, lao tu joro ni Tuhanku.
+-
+TungkiMi, ale tondingku! Tung beasa rusak ho?
+Sai haposi Debatamu, ai paluaonNa do ho,
+Na marsak i nuaeng, las roham muse dibaen,
+Asa tong pasangaponmu goar ni partuaonmu.
+-
+Sai manungkap do rohangku di na mangandungi au;
+Jordan do habuanganku dohot Hermon na sai dao,
+Songon aek sampuran i tinggang tu tondolan ni,
+Songon i do martinggangan tu au angka pangunjunan.
+-
+Diparbaga Debatangku asi ni rohaNa i
+Di au, jadi las rohangku, molo sai huingot i.
+Borngin nang arian pe huendehon do sude
+Denggan basa ni Jahowa, na manolong naposoNa.
+-
+O partanobatoanku, ndang be ingotonmu au?
+Ai lam ganda do arsakku, diinsahi musu au.
+Ai holiholingku pe naung magopu do sude,
+Ala sai didok musungku: tung di dia Debatamu?
+-
+Tungkimi, ale tondingku! Tung beasa rusak ho?
+Sai haposi ma Tuhanmu, ndang tadingkononNa ho.
+Pujionku do muse Tuhan Debata dope,
+Hatuaon ni bohingku na tongtong naeng haposanku.

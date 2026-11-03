@@ -1,0 +1,76 @@
+{
+ "be": 171,
+ "bl": 49,
+ "title": "Tandai ma au",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "William Howard Doane, 1865",
+ "pages": [
+  155,
+  156
+ ],
+ "status": "Lirik cocok 3 sumber · notasi perlu dicek",
+ "checks": [
+  "Lirik 3 ayat cocok kata per kata dengan 3 sumber online (beda hanya tanda baca/huruf besar), termasuk “Olo ditanda Ho au Debata”.",
+  "Tahun lagu: buku menulis 1865. Menurut Hymnology Archive, lagu PASS ME NOT karya Doane pertama terbit 1870 di <i>Songs of Devotion</i> (teks Inggris Fanny Crosby, 1868). Di sini tetap ditulis sesuai buku.",
+  "Di buku lagu ini berakhir dengan garis birama biasa (bukan garis akhir ganda); saya tandai sebagai akhir lagu karena halaman berikutnya langsung ayat 2.",
+  "Tidak ada sumber online yang memuat not angka/balok BE 171 dalam bentuk teks; notasi hanya dicek silang dengan not balok di buku sendiri."
+ ],
+ "refs": [
+  {
+   "t": "Lirik: bukuende.wordpress.com — Tandai Ma Au (BE 171 / BL 49)",
+   "u": "https://bukuende.wordpress.com/2013/06/18/tandai-ma-au-buku-ende-no-171-buku-logu-no-49/",
+   "n": "Lirik 3 ayat cocok."
+  },
+  {
+   "t": "Lirik: anyreff.wordpress.com — BE-171, Tandai Ma Au, BL-049",
+   "u": "https://anyreff.wordpress.com/2011/01/29/be-171-tandai-ma-au-bl-49/",
+   "n": "Lirik cocok; kredit Doane 1865 sama dengan buku. Ada unduhan MIDI & PDF (belum bisa saya buka)."
+  },
+  {
+   "t": "YouTube: BE 171 Tandai Ma Au — Panduan Menyanyikan Buku Ende",
+   "u": "https://www.youtube.com/watch?v=niB2nYruS4A",
+   "n": "Lirik di deskripsi cocok. Musik: Music Box Gereja."
+  },
+  {
+   "t": "YouTube: BE 171 Tandai Ma Au (Musik Box Original), 3 ayat",
+   "u": "https://www.youtube.com/watch?v=02w-3_INzeo",
+   "n": "Iringan untuk dibandingkan dengan pemutar di halaman ini."
+  },
+  {
+   "t": "YouTube: BE 171 / BL 49 Tandai Ma Au (Vokal & Musik)",
+   "u": "https://www.youtube.com/watch?v=F3MeBN5Q0AY",
+   "n": "Versi dengan vokal."
+  },
+  {
+   "t": "Hymnary.org — tune PASS ME NOT (Doane)",
+   "u": "https://hymnary.org/tune/pass_me_not_doane",
+   "n": "Pencarian melodi Hymnary dengan 8 not pembuka BE 171 (3-5-3-2-1-1-2-2) hanya menemukan lagu ini. Hymnary mencatat nada dasar G (sebagian A♭); buku Ende memakai Es."
+  }
+ ],
+ "sections": [
+  {
+   "notes": "3 | 5 . 3 2 | 1 . 0 1 | 2 2+2 2 3+4 |\n3 1 0 0 | 6 . 4 3 | 2 . 0 2 | 3 3+3 3 4+5 |\n4 2 0 0 | 7 . 7 7 | (1' .+5) 5 3 | 4 . 2 2 | 1 . . |]",
+   "rows": [
+    "Tan-da-i ma au! Sung-ka-pi ma do-hot ro-hang-ku. U-ji ma au. Pa-ma-nat hu-hut ma da-lan-ku. O-lo-di-tan-da Ho au De-ba-ta!"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tandai ma au! Sungkapi ma dohot rohangku.",
+   "Uji ma au. Pamanat huhut ma dalanku.",
+   "Olo ditanda Ho au Debata!"
+  ],
+  [
+   "Asi ma rohaM taringot tu pangalahongku.",
+   "Olo, tutu, jotjot do na lilu dalanku",
+   "Sesa dosangku sude Debata"
+  ],
+  [
+   "Sai tatap ma au! Tambai ma haporseaonku.",
+   "Togu ma au tu surgo papintor langkangku,",
+   "Ala AnakMu ma i Debata!"
+  ]
+ ]
+}

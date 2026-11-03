@@ -1,0 +1,34 @@
+@be 16
+@bl 12
+@title Tapuji ma Tuhanta
+@key A
+@meter 3/4
+@credit Karl Friedrich Schulz, 1810
+@pages 15
+@check Tanda mula di scan berbayang (cetakan ganda); terbaca 3 kres (A mayor), cocok dengan letak not 1 = A dan 7 = Gis.
+@check Not pertama adalah ketukan gantung walau tidak diberi garis birama di buku.
+@status Lirik dicek · 7/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 12 baris sama persis; 5 baris beda (termasuk “todinta”, kemungkinan salah cetak “tondinta”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 16) | https://bukuende.wordpress.com/2013/06/18/tapuji-ma-tuhanta-sian-buku-ende-no-16-buku-logu-no-12/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 1 . 7, | 6, . 1 | 2 . . | 1 . v 1 | 1 . 2 | 7, . 2 | 1 . . |
+7, . v 7, | 1 . 1 | 2 . 3 | 2 . . | 2 . v 3 | 4 . 3 | 2 . 1 | 2 . . | 1 . |]
+> Ta-pu-ji ma Tu-han-ta si-an san-dok ro-han-ta, di-baen deng-gan ba-sa-Na di hi-ta hu-ri-a-Na.
+#V
+Tapuji ma Tuhanta sian sandok rohanta,
+Dibaen denggan basaNa di hita huriaNa.
+-
+Dilehon do di hita pamatang nang tondinta,
+Diudut do hosanta, di jaga nang ngolunta.
+-
+Disuru Debatanta do Jesus i. AnakNa,
+Mamboan hatuaon di nasa hajolmaon.
+-
+Naung sesa do dosanta, mangolu do todinta,
+Godang nuaeng jambarta di surgo jaloonta.
+-
+I pe hupuji hami basaM, o Tuhannami,
+Ho na marasiroha di nasa manisia.
+-
+Sai pargogoi ma hami paringgas rohanami,
+Mamuji Ho, Jahowa, saleleng ni lelengna.

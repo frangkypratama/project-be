@@ -1,0 +1,37 @@
+@be 603
+@bl 0
+@title Dipanggagatan i
+@key F
+@meter 3/4
+@credit 603a — Syair: Away in a manger, ay 1-2: NN, C 1883; ay. 3: John T. MC. Farland, 1851-1913 · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: James R. Murray
+@pages 595 596
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 603a: beda di baris 1 (pembanding "dipanggagatan" disambung; buku di bawah not "di pang-ga-ga-tan") dan ayat 3 baris 3 (buku "tugo", pembanding/603b "togu"). Pembanding 603b juga ada (11/12 baris sama dgn teks 603b). Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 603) | https://bukuende.wordpress.com/2013/06/13/dipanggagatan-i-buku-ende-no-603a-buku-logu-no-603a/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@ref Lirik pembanding 603b: bukuende.wordpress.com | https://bukuende.wordpress.com/2013/06/13/dipanggagatan-i-buku-ende-no-603b-buku-logu-no-603b/ | Versi melodi 603b.
+@check Buku mencetak DUA lagu bernomor 603: 603a (hlm 595–596, melodi James R. Murray) dan 603b (hlm 597–598, melodi William J. Kirk Patrick, 1838-1921; Syair: Away in manger; John T. MC. Farland). Notasi di bawah = 603a. Teks ayat kedua versi hampir sama (beda ejaan: 603a "sinok tingki i." / "met-met" / "sai tugo"; 603b "sinok tingki i," / "metmet" / "sai togu").
+@check Versi b ada di BE 603b.
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 603".
+@check Ayat 3 (603a) tercetak "sai tugo luhut" (603b: "sai togu luhut"); ditulis apa adanya.
+#A
+5 | 5 .+4 3 | 3 2 1 | 1 7, 6, |
+5, . 5, | 5, .+6, 5, | 5, 2 7, | 6, 5, 1 |
+3 . 5 | 5 .+4 3 | 3 2 1 |
+1 7, 6, | 5, . 5, | 4 .+3 2 |
+3 2 1 | 2 6, 7, | 1 . . |]
+> Tung di pang-ga-ga-tan pe-ak Ho Tu-han, da-ngol pe Ho so-rang sa-bam do ro-haM, bin-tang-Mu di la-ngit hu-mir-dop to-rang, ma-na-tap Ho Je-sus na mo-dom so-nang.
+#V
+Tung di panggagatan peak Ho Tuhan,
+dangol pe Ho sorang sabam do rohaM,
+bintangMu di langit humirdop torang,
+manatap Ho Jesus na modom sonang.
+-
+Nang gaor humaliang pinahan disi,
+alai Ho O Jesus sinok tingki i.
+holong do rohangku di Ho Tuhanki,
+di dalan na holom Ho ma donganki.
+-
+Sai Ho ma O, Jesus donganku tongtong,
+sarihon na met-met diportibion
+sai tugo luhut hami siseanMon
+tu ngolu na sonang di surgo inon.

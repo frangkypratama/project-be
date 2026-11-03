@@ -1,0 +1,41 @@
+@be 816
+@bl 0
+@title Dung Salpu Borngin
+@key Eb
+@meter 4/4
+@credit Syair: Beyond The Sunset, Virgil P. Brock 1936 · Terj.: Dcs. Bonaria Hutabarat · Lagu: Blanche K Brock, 1936
+@pages 899 900
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 kata 3 ("mansohot"; di bawah not tercetak "manso hot") dan baris 7 kata 4 ("manghaol", jelas di scan hlm 900) beda → buku tetap. Ayat 1 disusun dari lirik di bawah not.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 816) | https://bukuende.wordpress.com/2013/06/13/dung-salpu-borngin-buku-ende-no-816-buku-logu-no-816/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Lagu pertama bagian "ENDE MANOGOT DOHOT BODARI".
+@check Ketukan gantung 1½ ketuk (balok: Bes3, Es4, G4 1/8) → ditulis 0+5, 1+3 (diam ½ ketuk tidak tercetak).
+@check Baris 2 birama 1 "3 2 . 5̣ 7̣ . 2": titik antara 7 dan 2 hanya pemisah; balok = G 1/4, F 1/4., Bes3 1/8, D4 1/8, F4 1/8 → 3 2 .+5, 7,+2.
+@check Baris 2 birama 2: titik di bawah angka 6 (". 6̣"), balok C5 → ditulis 6 (bukan 6,).
+@check Baris 4: garis/coretan panjang setelah angka 7 (artefak cetak); balok D5 1/4 → ditulis 7.
+@check Birama akhir: balok Es4 1/2 bersambung ke 1/8 (2½ ketuk, melengkapi ketukan gantung); ditulis 1 . . (dibulatkan 3 ketuk).
+#A
+0+5, 1+3 | 6 5 .+1 7,+1 | 3 2 .+5, 7,+2 | 6 5 .+6 5+4 |
+3 . .+5, 1+3 | 6 5 .+1' 1'+7 | 7 6 .+6 7+1' |
+1' 5 .+4 3+2 | 1 . . |]
+> Dung sal-pu bor-ngin ro bu-ha i-juk rap do-hot Je-sus so-nang do au, nu-nga man-so-hot su-de-na por-suk dung sal-pu bor-ngin ro na ti-ur.
+#V
+Dung salpu borngin ro buha ijuk
+rap dohot Jesus sonang do au,
+nunga mansohot sudena porsuk
+dung salpu borngin ro na tiur.
+-
+Dung salpu borngin di togu ahu,
+manopot Ama parholongi
+jonok Tuhanku manghaol ahu;
+dung salpu borngin lao biarhi.
+-
+Dung salpu borngin tiur sudena,
+maporus ombun, galumbang i
+marpos ni roha do saluhutna;
+dung salpu borngin las roha i.
+-
+Dung salpu borngin pajumpang hita,
+dohot donganta naung monang i
+di sambulonta ndang be marsirang;
+dung salpu borngin martua i.

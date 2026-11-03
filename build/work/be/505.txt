@@ -1,0 +1,30 @@
+@be 505
+@bl 345
+@title Jesus do manogu au
+@key Bb
+@meter 3/4
+@credit (tidak dicantumkan di buku)
+@pages 477 478
+@status Lirik dicek · 6/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 6 dari 9 baris sama; beda: L5 (Susude), L6 (hinagogoMi), L8 (pasongan). Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 505) | https://bukuende.wordpress.com/2013/06/16/jesus-do-manogu-au-buku-ende-no-505-buku-logu-no-345/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu tercetak "505. Lagu No. 345" (bukan "Logu") dan "F.H. No. 205".
+@check Not balok birama 1 dan 9: Bes bertitik, A 1/8, lalu C–Bes–G dengan angka "3" (triol); angka tercetak "2 1 6" (baris 3: "2 1 .6"). Ditulis sebagai triol (2+1)+6, (tampilan not balok situs belum mendukung triol, jadi durasinya bisa tampak tidak tepat).
+@check Garis birama tercetak di antara "5 ." dan "4 .3" (dan "1 ." dengan ketukan gantung berikutnya); digabung menjadi birama 3/4 penuh.
+#A
+3+.+.+2 | 1 .+7, (2+1)+6, | 5, . 4+.+.+3 | 3 .+2 1+7, |
+1 . 2+.+.+2 | 2 .+5, 6,+5, | 1 . 2+.+.+2 | 2 .+5, 6,+5, |
+1 . 3+.+.+2 | 1 .+7, (2+1)+6, | 5, . 4+.+.+3 | 3 .+2 1+7, | 1 . |]
+> Je-sus, do ma-no-gu au, pa-nga-mu-di tu na dao, nang bal-ga ga-lum-bang i, jor-but ha-ba-ha-ba i, Je-sus, ha-po-ru-san-ki, ndang mar-ma-ra so-lung-ki
+#V
+Jesus, do manogu au, pangamudi tu na dao,
+nang balga galumbang i, jorbut habahaba i,
+Jesus, haporusanki, ndang marmara solungki
+-
+Demak do galumbang i, dung dibege hataMi,
+Susude tinompaMI mangoloi parentaMi.
+Sun do hinagogoMi, sonang nama solungki.
+-
+Molo dapot ajalhi lao tu hamatean i,
+Sai hugolom hataMi, na pasongan rohangki
+Sahat au pujionki pangamudi solungki

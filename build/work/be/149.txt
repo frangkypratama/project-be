@@ -1,0 +1,43 @@
+@be 149
+@bl 182
+@title Ho tongtong ihuthononku
+@key Bb
+@oct -1
+@meter 4/4
+@credit Fanny J. Crosby, 1915
+@pages 134
+@check Tanda birama di buku "¢ 4/4"; ditulis 4/4. Do = Bes rendah (1̇ = Bes4 di not balok).
+@check Kredit "Lagu: Fanny J. Crosby 1915" sesuai buku (Crosby lazimnya penulis syair, bukan komponis).
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: L8 kata 7 beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 149) | https://bukuende.wordpress.com/2013/06/13/ho-tongtong-ihuthononku-buku-ende-no-149-buku-logu-no-182/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5+5 | 1' .+3' (2'+1') (7+6) | (5 .+4) 3 v 5+5 |
+(6+7) (1'+2') 3' 2' | 1' . 0 :|
+> Ho tong-tong i-hut-hon-on-ku, Je-sus Si-pa-ngo-lu au.
+> Tung na so ta-ding-ko-non-ku Ho, na Pa-lu-a-hon au.
+#B
+7+1' | 2' 3' 4' 3' |
+3' 2' 0 5+6 | 7 1' 7 6 | 5 . 0 5+5 |
+1' .+3' 1' 6 | (5 .+4) 3 v 5+5 | (6+7) (1'+2') 3' 2' | 1' . . |]
+> Si-an sa-su-de do-sang-ku do-hot si-an u-hum i. Na tong-tong ha-bi-a-ran-ku a-la par-do-sa-on-ki.
+#V
+Ho tongtong ihuthononku, Jesus Sipangolu au.
+Tung na so tadingkononku Ho, na Paluahon au.
+Sian sasude dosangku dohot sian uhum i.
+Na tongtong habiaranku ala pardosaonki.
+-
+Tung di dia jumpang ahu Tuhan sada songon Ho,
+Na manogunogu ahu tu na sonang songon Ho?
+Naung ditaon Ho hamatean lao humophop tondingki,
+Asa masuk au manean, tohap na sumurung i.
+-
+Manang aha pe na masa, las ni roha, arsak pe,
+Tioponku Ho na basa na marholong roha pe.
+Tung saleleng au mangolu, nang dung suda bohalhon,
+Ingkon Ho, o Sipangolu, pujionku sai tongtong.
+-
+Sai ingani ma rohangku, Jesus dohot tondiMi;
+Ro di ujung ni langkangku, togu au, o Tuhanki!
+Di na tos muse hosangku, di na homur matangki.
+Sai tiopi ma tanganku, togu au tu lambungMi.

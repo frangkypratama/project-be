@@ -1,0 +1,38 @@
+@be 622
+@bl 0
+@title Mansai nalnal diangka partingkian
+@key D
+@meter 4/4
+@credit Syair: Above the hills of times: Thomas Tiplady, 1882 · Terj.: Pdt. M.V. Simanjuntak · Lagu: Tradisional Irlandia
+@pages 625 626 627
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: 1 Pet. 2:24-25.
+@check Judul tercetak "Mansai nalnal diangka partingkian"; lirik di bawah not "di ang-ka".
+@check Birama 3 (hlm 625): angka "6 . 1" (not ke-3 = do), balok tampak E (= re); angka diikuti.
+@check Buku hanya mencetak 2 ayat.
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 5 kata 4 (bangso) beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 622) | https://bukuende.wordpress.com/2013/06/16/mansai-nalnal-diangka-partingkian-buku-ende-no-622-buku-logu-no-622/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+7, 1+2 | 3 .+2 3+6 5+3 | (2+1) 6, .+1 3+4 | 5 .+6 5+3 1+3 |
+2 . 0+7, 1+2 | 3 .+2 3+6 5+3 | (2+1) 6, .+7, 1+2 | 3 .+4 3+2 1+2 |
+1 . 0+5 6+7 | 1' .+7 7+6 5+3 | (5+3) 1 .+5 6+7 | 1' .+7 7+6 5+3 |
+2 . 0+5 5+5 | 3' .+2' 2'+1' 6+1' | (5+3) 1 .+7, 1+2 | 3+6 5+3 (2+1) (6,+7,) | 1 . |]
+> Man-sai nal-nal di ang-ka par-ting-ki-an, si-non-dang ni si-lang-Mu Tu-han-ki, si-an ha-ti-u-ron na mar-si-non-dang ho-long-Na na so ha-lam-po-an i su-de na bang-so do mar-pang-hi-ri-mon tu son-dang ni a-si ni ro-ha i, so-ngon par-lu-ga na mang-ha-lu-ngun-hon par-bin-sar ni ma-ta ni a-ri i,
+#V
+Mansai nalnal di angka partingkian,
+sinondang ni silangMu Tuhanki,
+sian hatiuron na marsinondang
+holongNa na so halampoan
+i sude na bangso do marpanghirimon
+tu sondang ni asi ni roha i,
+songon parluga na manghalungunhon
+parbinsar ni mata ni ari i,
+-
+SilangMu Kristus tanda ni holongMu
+pahisar tondi na magopu i
+mangalononghon sasude dosangku
+mabaor tu laut asi ni rohaMi.
+Naung tubu hami gabe na imbaru,
+na ni urasan sian dosa i
+ala mudarMu na ni usehonMu
+di Golgota di hamamateMi.

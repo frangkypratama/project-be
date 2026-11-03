@@ -1,0 +1,54 @@
+@be 323
+@bl 204
+@title Sonang do rohangku
+@key Bb
+@oct -1
+@meter 4/4
+@credit Johann Cruger 1653
+@pages 300 301
+@status Lirik dicek · 24/24 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 323) | https://bukuende.wordpress.com/2013/06/18/siparmahan-bolon-buku-ende-no-323-buku-logu-no-204/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Not angka memakai do = Bes (4 = Es), tetapi tanda mula not balok hanya satu mol sehingga not "4" tampak E (bukan Es). Ditulis mengikuti not angka (4 = Es) — mohon dicek.
+@check "1'*" = Si naik (not balok: B♮) → #1'; "7*" = La turun (not balok: As) → b7.
+@check Birama "6 7 1'.6": not balok empat not 1/4 → titik dianggap pemisah, ditulis "6 7 1' 6".
+@check Birama "6 ’ 4 6": not balok 6 = 1/2 (tanda napas tercetak di tempat titik) → ditulis "6 . v 4 6".
+#A
+6 6 5 4 | 3 . 2 . v | 6 7 1' 6 |
+2' . #1' . v | 2' 4' 3' 3' | 2' . . . :|
+> Si-par-ma-han bo-lon, na so o-lo mo-dom, ta-tap ma au on.
+> Ba-sa-Mi, o Tu-han, do ma-nga-ra-mot-hon au sa-da-ri on,
+#B
+6 6 b7 6 | 5 5 4 . v | 6 7 1' 6 | 2' 1' 7 . |
+6 . v 4 6 | 5 4 3 . | 2 . . . |]
+> Born-gin pe Ho ma mu-se, na man-ja-ga hu-ma-li-ang A-hu, a-sa so-nang.
+#V
+Siparmahan bolon, na so olo modom, tatap ma au on.
+BasaMi, o Tuhan, do mangaramothon au sadari on,
+Borngin pe Ho ma muse, na manjaga humaliang Ahu,
+asa sonang.
+-
+Ho ma manamparhon nasa parmaraan dohot basaMi.
+Sesa ma dosangku, ias ni rohangku hasonanganki.
+AnakMi, naung mate i, i do na padao dosangku;
+Ipe las rohangku.
+-
+Dohot ma donganku, hinaholonganku, sahat ma tu Ho
+Sai tong diranapi, mataMi ma hami.
+Asa sonang do Ho tongtong di lambungkon,
+Jala au di Ho o Tuhan, i do hasonangan.
+-
+Nasa parmaraan dohot hasusaan sai padao sude.
+Ale Amanami, sai ondingi hami,
+Asa sonang be, sai orai pangago i,
+Unang hami diarsahi jala disusai.
+-
+Aik beha ajalhu, suda ni bohalhu, ro saborngin on?
+Molo i Tuhanku, rohaMi di ahu, alap ma au on
+Asal lao tu surgo au pasahaton ni Jesusku,
+Sonang do rohangku.
+-
+Pos nuaeng rohangku, pitpit ma matangku, mangasahon Ho.
+Sahat tu tanganMu daging nang tondingku, ramotanMu do.
+HataMi do mandok i, dung i, molo ngot manogot,
+Ho muse hutopot.

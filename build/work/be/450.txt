@@ -1,0 +1,40 @@
+@be 450
+@bl 301
+@title Tung na tarapul do
+@key G
+@meter 6/8
+@credit Philipp Paul Bliss 876
+@pages 431 432
+@check Birama 6/8: 1 token = 1 not 1/8 (6 token per birama).
+@check Kepala lagu juga mencantumkan "F.B. No. 2". Tahun kredit tercetak "876" (kemungkinan 1876); ditulis sesuai buku.
+@check Refrein baris 1: angka tercetak bergeser ("5 5 5 5 . | 3 2 1 6 | 6 . ."); ditulis mengikuti not balok dan letak lirik: 5 5 5 5 . 3 | 2 1 6, 6, . . (not "6" = E4 di balok, titik bawah tidak tercetak).
+@status Lirik dicek · 7/13 baris sama dgn pembanding
+@check Pembanding lirik: L1 (rohang kinon), L2 (tuau), L3 (diau) ejaan ikut buku; L7/L10/L13 refrein buku disingkat 'Las rohangki...'.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 450) | https://bukuende.wordpress.com/2013/06/18/tung-na-tarapul-do-buku-ende-no-450-buku-logu-no-301/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 5, 6, 5, 5, 5, | 5, 1 2 3 . . |
+4 2 2 2 1 2 | 3 3 2 1 . . :|
+> Tung na tar-a-pul do ro-hang ki-non, Di-ha-ho-lo-ngi Tu-han-ku au on.
+> Go-dang ba-sa-na di-le-hon tu-au, Tung na um-ar-ga ho-long-Na di au,
+#B
+5 5 5 5 . 3 | 2 1 6, 6, . . |
+5, 5, 5, 2 . . | 5, 1 2 3 . . | 5 5 5 5 . 3 |
+2 1 6, 6, . . | 5, 5, 5, 2 . 3 | (1 . . 1) . . |]
+> Las ro-hang-ki, ho-long Je-sus i, Je-sus di su, Je-sus di-au, Las ro-hang-ki, ho-long Je-sus I tong-tong di au, di au.
+#V
+Tung na tarapul do rohang kinon, Dihaholongi Tuhanku au on.
+Godang basana dilehon tuau, Tung na umarga holongNa di au,
+Las rohangki, holong Jesus i, Jesus di su, Jesus diau,
+Las rohangki, holong Jesus I tongtong di au, di au.
+-
+Tung na jotjot marsak rohaNa i ala dosangku na sai godang i,
+Dung hutopoti sude dosangki, ias do ahu dibaen mudar i.
+Las rohangki........
+-
+Ndang mubauba haholongon i ndang boi mansohot pangkophopNa i.
+Tung mate Jesus mangkophop au on, nang di ngoluNa ditiop au on.
+Las rohangki.........
+-
+On ma endengku saleleng dison : Holong ni roha ni Jesus inon,
+Sai Haposanku pangkophopNa i, sahat tu surgo hugolom do i.
+Las rohangki .......

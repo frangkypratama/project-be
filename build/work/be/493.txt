@@ -1,0 +1,30 @@
+@be 493
+@bl 335
+@title Naeng modom do sudena
+@key G
+@meter 6/8
+@credit (tidak dicantumkan di buku)
+@pages 468
+@check Kepala lagu juga mencetak "U.L. No. 99".
+@check Birama 6/8: 1 token = 1/8 (not bergaris atas = 1/8, angka tanpa garis = 1/4).
+@check Baris "Na maradian hita dijaga Ama i" dicetak dua kali (baris 2 dan 3, lirik sama). Birama akhir baris 2 "1..1" (4/8) dan birama awal baris 3 "5 . 5 0 1" (5/8) tercetak tidak penuh 6/8; ditulis sesuai buku sebagai akhir bagian A dan ketukan gantung bagian B.
+@check Birama terakhir "1 . 1 0": dua not untuk satu suku kata "i"; ditulis "i _".
+@status Lirik dicek · 5/6 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 6; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 493) | https://bukuende.wordpress.com/2013/06/16/naeng-modom-do-sudena-buku-ende-no-493-buku-logu-no-335/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 . 1 (7, 6,) 7, | 1 . . 5, . 5, | 6, . 6, (1 7,) 6, |
+(1 . . 1) 0 1 | 3 . 3 (3 6) 5 | 4 . . 5 . 4 | 3 . 3 (4 2) 7, | (1 . . 1) |
+> Naeng mo-dom do su-de-na, naung sae u-la-on i. Na ma-ra-di-an hi-ta di-ja-ga A-ma i
+#B
+(5, . 5,) 0 1 | 3 . 3 (3 6) 5 | 4 . . 5 . 4 | 3 . 3 (4 2) 7, | 1 . 1 0 |]
+> i. Na mar-a-di-an hi-ta di-ja-ga A-ma i _
+#V
+Naeng modom do sudena, naung sae ulaon i.
+Na maradian hita dijaga Ama i.
+-
+Mardalan angka bintang di langit i na dao,
+Tuhanta i manjaga, sude na ro, na lao.
+-
+Nang au pe disarihon Tuhan na basa i.
+Sai sonang maradian di ampuanNa i.

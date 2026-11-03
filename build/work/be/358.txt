@@ -1,0 +1,51 @@
+@be 358
+@bl 194
+@title Hamu saluhut harajaon
+@key Ab
+@meter 4/4
+@credit Lagu : Louis Bourgeois 1561
+@pages 339 340 341
+@status Lirik dicek · 20/24 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan: "manida" (ayat 2), "namarningot" (ayat 4), "marasi", "denggan" (ayat 6). Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 358) | https://bukuende.wordpress.com/2013/06/13/hamu-saluhut-harajaon-buku-ende-no-358-buku-logu-no-194/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende Psalm, judul bagian "Psalm 66". Logu No. 194 sama dengan BE 362/363; notasi cocok dengan transkripsi BE 363.
+@check Birama 1: ada bintik di atas angka 1 pertama, tetapi not balok As4 (sama dengan 1 lain) → ditulis 1.
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+1 . 6, 5, | 1 1 2 4 | 3 . 2 . | 0 0 5 . |
+3 3 1 4 | 3 . 2 . | 1 . 0 0 | 1 . 6, 5, |
+1 1 2 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 |
+1 7, 1 . | 0 0 5 . | 5 4 3 . | 2 . 1 7, | 6, . 5, . |
+0 0 5, . | 1 1 7, 6, | 1 . 2 . | 3 . 0 0 | 1 . 1 2 |
+3 1 4 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 | 1 7, 1 . |]
+> Ha-mu sa-lu-hut ha-ra-ja-on, mar-o-lop-o-lop ma ha-mu! En-de-hon ma ha-mu-li-a-on ni go-ar ni De-ba-ta-mu! Tu De-ba-ta ma dok ha-mu-na na song-kal do pam-bae-nan-Mi; Ai mu-su-mi pe sa-lu-hut-na mar-som-ba do di jo-lo-Mi.
+#V
+Hamu saluhut harajaon, marolopolop ma hamu!
+Endehon ma hamuliaon ni goar ni Debatamu!
+Tu Debata ma dok hamuna na songkal do pambaenanMi;
+Ai musumi pe saluhutna marsomba do di joloMi.
+-
+Tu Ho, o Tuhan do marsomba muse sandok portibi on;
+GoarMu do endehononna, pasangaponna Ho tongtong.
+Ro ma hamu saluhut jolma, manida pambahenan ni
+Jahowa, na sai marmulia di nasa manisia i.
+-
+Endehon ma Debatanami saluhut bangso, puji be
+Na pangoluhon tondinaMi, huhut na pasonangkon pe.
+O Tuhan, nunga dipapita Ho hami doshon perak i,
+Lao pabalihon nasa tihas, patauhon tu na denggan i.
+-
+JoroM do na naeng masuhanku, mambaen di Ho pelean i;
+Marlasniroha gararonku sude, naung huparbaga i.
+Ai namarningot do rohangku di angka bagabagangki,
+Na puas sian pamanganku, andorang na targogot i.
+-
+Hamuna, na mangkabiari Jahowa, ro ma sasude,
+Ro ma hamu mananginangi binaenNa i di au sude!
+Joujou do au tu Debatangku di na tarsosak au dope,
+Lam tu tangkasna di rohangku na tau mambaen sangapNa pe.
+-
+Girgir hupuji Debatangku, na sai marasi roha i;
+Ndang ditulakkon tangiangku, dibege do soarangki.
+Na dangol do au jala pogos, huhut tarhilang sai tongtong.
+Alai Tuhanku do manongos, denggan basaNa di au on.

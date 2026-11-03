@@ -1,0 +1,41 @@
+@be 331
+@bl 6
+@title Paian ma di hami
+@key Eb
+@meter 4/4
+@credit Melchior Valpius 1609
+@pages 309 310
+@status Lirik dicek · 16/16 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 331) | https://bukuende.wordpress.com/2013/06/18/sai-kristus-do-ngolungku-buku-ende-no-331-buku-logu-no-6/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Judul di kepala lagu "Paian ma di hami" (nama Logu No. 6); baris pertama lirik "Sai Kristus do ngolungku".
+@check Komponis tercetak "Melchior Valpius" (ejaan lazim: Melchior Vulpius).
+@check Birama akhir dicetak "1 ." tetapi not balok 1/2 bertitik (3 ketuk, melengkapi ketukan gantung) → ditulis "1 . .".
+#A
+1 | 3 2 3 6 | (5 4) 3 v 6 | 5 4 3 2 |
+3 . 0 5 | 6 7 1' 7 | 6 . 5 v 3 | 4 3 2 2 | 1 . . |]
+> Sai Kris-tus do ngo-lung-ku, lao, ma-te un-tung do: Tu-si do lao ro-hang-ku, tu-si ma-si-hol do.
+#V
+Sai Kristus do ngolungku, lao, mate untung do:
+Tusi do lao rohangku, tusi masihol do.
+-
+Las situtu rohangku, manopot Jesuski:
+Di lambung ni Tuhanku sai mian tondingki.
+-
+Naung saut do ditaluhon sude na jorbut i;
+MudarNa padomuhon au dohot Ama i.
+-
+Di na homur matangku, sai ponjot hosangki,
+Ndang puas be hatangku, sai ro ma Ho disi.
+-
+Dung mampar pingkiranku, sobokkon lampu i.
+Na sai humillohillo, na so marmiak be.
+-
+Disi, ale Tuhanku, padomu anakMon;
+Huhut tu ingananMu togihon tondingkon.
+-
+Sai loas ma au lohot di Ho, o Jesuski;
+Paian ma au sogot tongtong di surgoMi.
+-
+Disi ma pujionku Ho dohot Ama i,
+Nang Tondi Parbadia di hasonangan i.

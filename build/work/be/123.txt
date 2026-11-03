@@ -1,0 +1,42 @@
+@be 123
+@bl 180
+@title Ale dongan na saroha
+@key G
+@meter 4/4
+@credit Choral Buch 169, Brüdergemeine, um 1740
+@pages 111 112
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 14 dari 16 baris sama; ay1 b3 dan ay4 b4 beda ejaan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 123) | https://bukuende.wordpress.com/2013/06/09/ale-dongan-na-saroha-buku-ende-no-123-buku-logu-no-180/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Buku menulis "Choral Buch 169 Bruder gemeine, um, 1740".
+@check Not terakhir dicetak "1̇ ." tetapi not balok buku menunjukkan G4 (sama dengan 1); dibaca 1.
+#A
+1 2 3 5 | 4 3 2 2 v | 3 2 1 2 |
+1 7, 1 . :|
+> A-le do-ngan na sa-ro-ha man-ja-la-hi da-me i,
+> Dom-pak Je-sus ta-pa-sa-da ho-long ni ro-han-ta i!
+#B
+7, 1 2 2 | 1 7, 6, 6, |
+7, 1 2 3 | 4 3 2 . v | 1 2 3 5 |
+4 3 2 2 v | 3 2 1 2 | 1 7, 1 . |]
+> Ai I-ba-na do u-iun-ta, hi-ta do ru-as-Na i; Tu-han Je-sus do gu-run-ta, hi-ta si-se-an-Na i.
+#V
+Ale dongan na saroha manjalahi dame i,
+Dompak Jesus tapasada holong ni rohanta i!
+Ai Ibana do uiunta, hita do ruasNa i;
+Tuhan Jesus do gurunta, hita siseanNa i.
+-
+Tanda asi ni rohaNa, na bagas, na timbo i,
+Tanda holong ni rohaNa, na so hadodoan i
+Didongani Debatanta, Ama na sumurung i.
+Dohot Jesus pe, Tuhanta; Hita na porsea i
+-
+Sai pasada, ale Tuhan angka na porsea i,
+Asa masihaholongan songon na pinatikMi
+Dibagasan hasintongan, i do pinangidoMi;
+Sai padomu angka dongan na tutu sinondangMi
+-
+Sai pasada rohanami, doshon Ho tu Ama i
+Asa unang sian hami nanggo sada lilu be.
+Ho tongtong hutiru hami, di ulaon i sude;
+I ma patandahon hami, gabe siseanMu be

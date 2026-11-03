@@ -1,0 +1,49 @@
+@be 633
+@bl 0
+@title Nunga hehe Kristus i
+@key C
+@meter 4/4
+@credit Syair: Christ the Lord is risem today; Charles Wesley, 1739 · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: Lyra Davidica London, 1708
+@pages 641 642
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: 1 Kor. 15:54-57; Pang. 19:6.
+@check "Haleluya" baris 1: legato panjang "3 4 5 1 ‿ 4" dibaca sampai not 4 birama berikut (seperti baris 2–4); di baris 2 legato tercetak terpisah (3‿4)(5 1‿4) → suku kata "ha" ditahan (_).
+@check Kredit ditulis seperti tercetak ("risem"; lazimnya "risen").
+@status Lirik dicek · 23/24 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 3 baris 1 (naroko) beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 633) | https://bukuende.wordpress.com/2013/06/16/nunga-hehe-kristus-i-buku-ende-no-633-buku-logu-no-633/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 3 | 5 1 4 6 | (6 5) (3+4 5+1 | 4) (3+4) (3 2) |
+1 . 4 5 | 6 5 4 3 | (3 2) (3+4) (5+1 | 4) (3+4) (3 2) |
+1 . 7 1' | 2' 5 1' 2' | 3' . (7+1' 2'+5 | 1') . (7+1') (7+6) |
+5 . (5+6) (7+5) | 1' 3 4 6 | (6 5) (1'+7 1'+5 | 6+7) (1'+2') (1' 7) | 1' . |]
+> Nu-nga he-he Kris-tus i ha-le-lu-ya si-an ha-ma-te-an i ha _ le-lu-ya par-la-ngit-an jou-hon ma. ha-le-lu-ya ta-no on a-lu-si ma ha-le-lu-ya.
+#V
+Nunga hehe Kristus i, Haleluya
+sian hamatean i, Haleluya
+parlangitan jouhon ma. Haleluya
+tano on alusi ma, Haleluya.
+-
+Singkop panghophopNa i, Haleluya
+gok hamonanganNa i, Haleluya
+sondang haluaon i, Haleluya
+patiur dalanta i, Haleluya.
+-
+Tartaban naroko i, Haleluya
+di baen Tuhan Jesus i, Haleluya
+nunga mungkap surgo i, Haleluya
+di na tinobusNa i, Haleluya.
+-
+Monang do Tuhanta i, Haleluya
+talu hamatean i, Haleluya
+mago do sorop na i, Haleluya
+ala monang Tuhan i, Haleluya.
+-
+Sangap ma di Tuhan i, Haleluya
+puji ma goarNa i, Haleluya
+baen hamonanganNa i, Haleluya
+banondangi ngolumi, Haleluya.
+-
+Raja hangoluan i, Haleluya
+na sun hinagogo i, Haleluya
+jalo ma pujianki, Haleluya
+nang holong ni rohangki, Haleluya.

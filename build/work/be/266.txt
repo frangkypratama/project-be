@@ -1,0 +1,56 @@
+@be 266
+@bl 151
+@title Tu banuaginjang do
+@key G
+@meter 4/4
+@credit Georg David Schmid 1754
+@pages 246 247
+@check Scan halaman 246 sangat kabur (not balok & angka pecah-pecah); nada dasar G dibaca dari satu tanda kres + letak not 1 di garis ke-2 paranada; mohon dicek manusia.
+@check Ayat 7 tercetak "banuagijang" (tanpa n); ditulis sesuai buku.
+@check Kepala lagu tercetak "Lagu No. 151" (bukan "Logu").
+@check Titik/garis atas banyak yang hilang di scan; durasi dilengkapi agar tiap birama 4 ketuk sesuai bentuk not balok yang masih terbaca: "5, . 6, 6,", "5, .+4, 3, .", "3 3 . 2", "3 1 2 .", "(1+2) 3 . 2".
+@check Akhir bagian A memakai volta: I = "1" (lirik "i"), II = "1 0" lalu ketukan gantung "3" ("si. Ang-"); di sini disederhanakan menjadi "1 . . :|" dan bagian B mulai dengan ketukan gantung 3.
+@check Ayat 5, 6, dan 7 hanya dicetak 3 baris; ditulis sesuai buku.
+@status Lirik dicek · 20/25 baris sama dgn pembanding
+@check Pembanding lirik: L6, L15 (2 kata), L19, L22, L23 (kata 1 berbeda, "banuagijang") beda; scan hlm 246 kabur, buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 266) | https://bukuende.wordpress.com/2013/06/18/tu-banuaginjang-do-buku-ende-no-266-buku-logu-no-151/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 5, . 6, 6, | 5, .+4, 3, . v | (1+2) 3 2 2 | 1 . . :|
+> Tu ba-nu-a-gin-jang do par-da-lan-ta i;
+> Na di-ha-lu-ngun-hon ho, tu-lus ma di-si.
+#B
+3 | 6, (2+1) 7, . v | 2 2 2 (1+2) | 3 3 . 2 v |
+2 2 2 (1+2) | 3 1 2 . | (1+2) 3 . 2 | 1 . . . |]
+> Ang-go di-son Mu-ba-u-ba do su-de, so sa-di-a na tu-re di ta-no on.
+#V
+Tu banuaginjang do pardalanta i;
+Na dihalungunhon ho, tulus ma disi.
+Anggo dison Mubauba do sude,
+so sadia na ture di tano on.
+-
+Tu banuaginjang i sai tabereng be,
+Molo ngot manongot i, nang bodari pe:
+Olo tongtong martangiang ho gogo,
+Ia naeng maruli ho di Jesus i
+-
+Tu banuaginjang i bereng ma tongtong,
+Molo na hurangan ho di portibi on
+Ndang jadi be ganggu rohaMi disi;
+Debata patupa i, singkop sude.
+-
+Tu banuaginjang i lao do sasude,
+Dongan na porsea i di Tuhanta i.
+Donot ma ho, alo sipangago i;
+Taon nama hansitna i, satongkin i
+-
+Tu banuaginjang i lao Tuhanta i,
+Sian haleaon i, na tinaonna i; Ihuthon ma
+Sian hatoruan i dalan na tu surgo i, tu Debata,
+-
+Tu banuaginjang i lao ma ho muse,
+Gari hamatean i parhiteanMi. Diida ho
+Ujungni dalanta i, bagas ni Amanta i di surgo do.
+-
+Di banuagijang i, hasonangan i.
+Rap marende ma disi na porsea i.
+Haleluya I do diolophon be di parmonang Jesus i, Haleluya!

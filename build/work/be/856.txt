@@ -1,0 +1,21 @@
+@be 856
+@bl 0
+@title Hupasahat husombahon pelean
+@key D
+@meter 4/4
+@credit Syair & lagu: Aku bawa dan berikan: 100 Nyanyian rohani anak-anak · Terj.: Pdt. M. H. Sihite / Pdt. J. A. U.: Doloksaribu
+@pages 942
+@status Lirik dicek · 2/2 baris sama dgn pembanding
+@check Pembanding lirik: 2/2 baris sama. Pembanding menulis judul "Hupasahat Husomahon Pelean".
+@check Pembanding menyebut Buku Logu No. 856; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 856) | https://bukuende.wordpress.com/2013/06/13/hupasahat-husomahon-pelean-buku-ende-no-856-buku-logu-no-856/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Not akhir tercetak "1 ." tanpa titik atas, tetapi not balok setengah di garis ke-4 (D5) setelah 7 = Cis5 → ditulis 1' mengikuti balok.
+@check Buku hanya mencetak satu ayat (teks di bawah not).
+#A
+1'+1' 5+5 6+6 3+3 | 4+3 2+1 5 . |
+1'+1' 5+5 6+1' 7+6 | 7+7 6+7 1' . |]
+> Hu-pa-sa-hat hu-som-ba-hon ma pe-le-an-ki tu Ho Je-sus Tu-han si-pa-lu-a ngo-lung-ki.
+#V
+Hupasahat husombahon ma peleanki
+tu Ho Jesus Tuhan sipalua ngolungki.

@@ -1,0 +1,42 @@
+@be 539
+@bl 371
+@title Sai hutagam do Tuhanku
+@key G
+@meter 3/4
+@credit Zuk.
+@pages 510 511
+@check Struktur cetakan: ketukan gantung "5̣ . 5̿" (Sai hu) ‖: 8 birama, lalu "5̣̄ 5̣̄" (Sai mar-) ‖ — lirik baris 1 = bait, baris 2 = Koor ("do-ngan o-lop-o-lop ..."). Ketukan gantung akhir "Sai mar-" mengantar ke Koor; ditulis sebagai bagian C terpisah setelah ulangan.
+@check Birama "3 . 1. 1̿" ditulis 3 . + 1+.+.+1 (½ + ⅛. + ⅟16) sesuai not balok (B ½, G ♪. G ♬).
+@check Ayat 2 "(Koor) Sai mardongan …" = Koor diulang.
+@status Lirik dicek · 9/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 10 baris sama; baris 2 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 539) | https://bukuende.wordpress.com/2013/06/18/sai-hutagam-do-tuhanku-buku-ende-no-539-buku-logu-no-371/ | Pembanding lirik (tanda baca diabaikan).
+#A
+5,+.+.+5, |
+> Sai hu
+#B
+1 .+7, 2+1 | 1 7, 5,+5, |
+4 .+2 5+2 | 3 . 1+.+.+1 | 6 .+5 4+6 |
+5 3 5,+.+.+5, | 3 .+2 4+7, | 1 . :|
+> ta-gam do Tu-han-ku, Sai ma-si-hol ro-hang-ki di ha-ro-ro ni Tu-hang-ku so-ngon na ni-dok-Na i.
+> do-ngan o-lop-o-lop hu-ri-aM ma-na-gam Ho. Ma-ra-na-ta, ro, o Tu-han, A-men, sai ti-bu ma ro!
+#C
+5,+5, |]
+> Sai mar
+#V
+Sai hutagam do Tuhanku, Sai masihol rohangki
+di haroro ni Tuhangku songon na nidokNa i.
+(Koor) Sai mardongan olop-olop huriaM managam Ho.
+Maranata, ro, o Tuhan, Amen, sai tibu ma ro!
+-
+Las ni roha ndang hapalang do manggohi rohangki.
+Dung binege soaraNa di na ro Tuhanta i.
+(Koor) Sai mardongan . . .
+-
+Sai rade, ale tondingku, tagam panjouonNa i,
+Sai tu langit an manomu ho di Jesus Tuhanmi.
+(Koor) Sai mardongan . . .
+-
+Ai tagamon nunga borhat, Ho, Tuhanku, sian i?
+So tung unang au tarlalap. tading di na rodop i.
+(Koor) Sai mardongan . . .

@@ -1,0 +1,35 @@
+@be 826
+@bl 0
+@title Gohi au Tuhan
+@key C
+@meter 4/4
+@credit Syair & Lagu: Fill me with Thy Words, NN · Terjemahan: Pdt. J.A.U. Doloksaribu
+@pages 911 912
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@check Pembanding menyebut Buku Logu No. 826; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 826) | https://bukuende.wordpress.com/2013/06/13/gohi-au-tuhan-buku-ende-no-826-buku-logu-no-826/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check "au" bertanda ‿ di buku = satu suku kata pada satu not.
+@check "1 . . . | 1 . " dan "5 . . . | 5 ." bersambung (tie) di angka dan balok → satu suku kata.
+#A
+1 2 | 3 .+3 3 5 | 4 2 1 7, | (1 . . . | 1) . 3 4 |
+5 .+5 5 1' | 6 5 4 6 | (5 . . . | 5) . 6 7 |
+1' .+1' 1' 1' | 2' 1' 7 6 | 5 1' 5 4 | 3 . 1 2 |
+3 .+3 3 5 | 4 2 1 7, | (1 . . . | 1) . |]
+> Go-hi au Tu-han mar-hi-te Ha-ta-Mi go-hi au Tu-han mar-hi-te Ha-ta-Mi, so-ngon hu-don na ru-mar do au Tu-han di su-mur-Mi, go-hi au Tu-han mar-hi-te Ha-ta-Mi.
+#V
+Gohi au Tuhan marhite HataMi
+gohi au Tuhan marhite HataMi,
+songon hudon na rumar do au Tuhan di sumurMi,
+gohi au Tuhan marhite HataMi.
+-
+Gohi au Tuhan marhite HataMi
+gohi au Tuhan marhite HataMi
+na mauas do tondingku O Tuhan di HataMi
+gohi au Tuhan marhite HataMi.
+-
+Gohi au Tuhan marhite HataMi
+gohi au Tuhan marhite HataMi
+asa tang jala matoras au marhite HataMi
+gohi au Tuhan marhite HataMi.

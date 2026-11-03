@@ -1,0 +1,39 @@
+@be 576
+@bl 0
+@title Puji ma Debatanta
+@key F
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 551
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Tidak ada baris Syair/Lagu/Terj. di bawah lagu.
+@check Not 5 setelah :| adalah ketukan gantung yang melengkapi birama "5, . 0" (3 ketuk).
+@check Bagian A diulang (:|) dengan dua baris lirik (Puji ma Debatanta… / tapuji ma Tuhanta…).
+@check Birama "5 . 4 3 2 1": garis atas tercetak di atas "5 . 4", tetapi balok = C 1/4 bertitik + Bes 1/8 + A 1/4 + G–F 1/8 (4 ketuk) → ditulis 5 .+4 3 2+1.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 beda ejaan (marhite). Pembanding juga tidak mencantumkan pengarang.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 576) | https://bukuende.wordpress.com/2013/06/16/puji-ma-debatanta-buku-ende-no-576-buku-logu-no-576/ | teks lirik
+#A
+1 | 1 .+7, 1 2 | 7, . 5, 2 | 3 .+2 1 6, | 5, . 0 :|
+> Pu-ji ma De-ba-tan-ta O hu-ri-a-Na i,
+> ta-pu-ji ma Tu-han-ta ha-mu ru-as-Na i.
+#B
+5 | 4 3 2 1 | (4 3) 2 5 | 4 3 2 1 |
+2 . 5, . | 1 2 3 4 | 5 . 2 . |
+4 . 3 2 | (5 .+4 3 2+1 | 2) 2 1 |]
+> Nang gok pe pa-rung-ki-lon nang ha-su-sa-an i, ndang po-la ho ma-bi-ar jo-nok do Tu-han i.
+#V
+Puji ma Debatanta O huriaNa i,
+tapuji ma Tuhanta hamu ruasNa i.
+Nang gok pe parungkilon nang hasusaan i,
+ndang pola ho mabiar jonok do Tuhan i.
+-
+Ho do naung pinilit na marhite hata i.
+nunga diuarihon marhite padan i,
+ingkon parmuduonNa, dilele musu i
+Tuhanta ma haposi haporseai ma i.
+-
+Ina na pantas roha, Na holong roha i
+tung so tadingkononna, tinubuhon na i,
+nang holong ni Tuhanta, ndang olo mose i
+tung so tadingkononNa ho hasianNa i.

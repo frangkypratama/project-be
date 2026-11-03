@@ -1,0 +1,62 @@
+@be 262
+@bl 149
+@title Jahowa Tuhanki
+@key F
+@meter 4/4
+@credit Hieronymus Gradenthaler 1675
+@pages 241 242
+@check Bagian B "4*" = 4 kres (paranada: tanda pugar pada B di F mayor).
+@check Ayat 7 baris 1 tercetak "hahchheon" (huruf ke-4 kabur, bisa "c"/"e"); ditulis seperti tampak di scan.
+@check Ayat 5 dicetak 5 baris (baris 3 dipecah); ditulis sesuai buku.
+@status Lirik dicek · 29/33 baris sama dgn pembanding
+@check Pembanding lirik: L4 kata 2, L12 kata 1, L20 kata 2, L26 kata 5 ("hahchheon", huruf kabur di scan) beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 262) | https://bukuende.wordpress.com/2013/06/16/jahowa-tuhanki-buku-ende-no-262-buku-logu-no-149/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0 0 1 . | 3 6 5 .+4 | 3 . 0 3 | 5 1 2 3 | 2 . 1 . :|
+> Ja-ho-wa Tu-han-ki, Ho mu-al ni na deng-gan;
+> Si-tom-pa sa-su-de, si-le-hon ha-ngo-lu-an!
+#B
+0 0 2 . | 2 3 4 4 | 3 . 0 3 | 2 5 5 #4 |
+5 . 0 5 | 5 3 4 5 | 6 . v 5 . | 4 3 2 2 | 1 . . |]
+> Sai le-hon ma di au pa-ma-tang na hi-pas. Ma-ri-ngan ma di au, baen ro-ha-na i-as.
+#V
+Jahowa Tuhanki, Ho mual ni na denggan;
+Sitompa sasude, silehon hangoluan!
+Sai lehon ma di au pamatang na hipas.
+Maringan ma di au, baen rohana ias.
+-
+Urupi au mandok na patut dohononku,
+Asa ture hudok na roa oromonku,
+Tung baen ma au gomos mandok na patut i;
+Margogo ma antong, baen dohot hatangki!
+-
+Di na tarsosak au, padao ma pandelean;
+Sitaonon na di au, urupi au mamorsan;
+Pamonang au tongtong palambok rohangki;
+Patroha na holong, baen angka donganki.
+-
+Padame au Tuhan, pasaor tu angka dongan!
+Ai i do na hombar tu hataMi, o Tuhan.
+Molo mararta au binaen ni asiMi.
+Sai unang be di au na geduk saor tusi.
+-
+Ramoti au tongtong saleleng au mangolu;
+Matua pe au on, pabenget ma rohangku,
+So tung marlindang maon
+Tongtong perangengki, ubanon pe au on
+Naeng hot do sangaphi.
+-
+Di hasusuda ni bohalhu, o Tuhanku,
+Paingot au disi, di nasa na tinaonMu!
+Tu hasonangan i pasahat tondingki;
+Nang di tanomanki, ramoti orbukki!
+-
+Di hamumulakMi di ari hahchheon,
+Sungguli au disi, baen au marhasangapon!
+Padomu au disi tu dongan sasude,
+Naung pinaluaMi sian dosana be.
+-
+Antong, pinuji Ho, o Debata, Amangku;
+Pinuji dohot Ho, o Jesuski, Tuhanku!
+O Tondi, nang di Ho ma hasangapon i,
+Sitolusada i sai jalo endengki!

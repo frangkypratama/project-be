@@ -1,0 +1,38 @@
+@be 741
+@bl 0
+@title Nang ro pe haba-haba
+@key F
+@meter 4/4
+@credit Syair: The Lord's our rock, in Him we hide; Vernon J. Charlesworth, 1880 · Terj.: Dcs. Bonaria Hutabarat
+@pages 793 794 795
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0. Ayat bacaan: Jes. 32:2.
+@check Kredit tidak mencantumkan baris "Lagu:" (baris "Lagu: Ira D. Shankey, 1885" di hlm 799 milik BE 740).
+@check "Ai" di awal refrein bertanda pengikat (satu suku kata pada satu not).
+@check Pembanding lirik: baris 2 (pangondianmi) & 5 (dohot) beda ejaan; dicek ulang ke scan, buku sesuai transkripsi.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 741) | https://bukuende.wordpress.com/2013/06/16/nang-ro-pe-haba-haba-buku-ende-no-741-buku-logu-no-741/ | teks ayat
+#A
+5, | 1 1 1 2 | 3 4 5 .+3 | 3+.+.+3 3+.+.+3 4 3 |
+2 . . 5, | 1 1 1 2 | 3 4 5 .+1 | 3+.+.+3 3+1 2 2 | 1 . |
+> Nang ro pe ha-ba-ha-ba i Tu-han do pa-ngon-di-an-mi, nang pe hu-mun-tal ta-no i Tu-han do pa-ngon-di-an-mi.
+#B
+5 . | 6+.+.+6 6+.+.+6 6 7+.+.+6 | 5 5 5 .+3 | 4 4 4 .+5 | 3 3 3 5 |
+6+.+.+6 6+.+.+6 6 7+.+.+6 | 5 5 5 .+1 | 3+.+.+3 3+1 2 2 | 1 . . |]
+> Ai Je-sus do par-ta-no-ba-to-an i di ta-no-on di ta-no-on, ai Je-sus do par-ta-no-ba-to-an i, do-lok par-ta-ha-nan-ta i.
+#V
+Nang ro pe haba-haba i, Tuhan do pangondianmi,
+nang pe humuntal tano i, Tuhan do pangondianmi.
+Ref.: Ai Jesus do partanobatoan i di tano on, di tano on,
+ai Jesus do partanobatoan i, dolok partahananta i.
+-
+Arian dohot borngin i, Tuhan do pangondianmi.
+maporus nasa biar i, Tuhan do pangondianmi.
+Ref.: Ai Jesus do ...
+-
+Tompu ro parungkilon i, Tuhan do pangondianmi,
+sonang pangkilalaanmi, Tuhan do pangondianmi.
+Ref.: Ai Jesus do ...
+-
+O Batu mamak na togu, sai Ho ma pangondianki,
+di ganup ombas tingki pe, sai Ho ma pangondianki.
+Ref.: Ai Jesus do ...

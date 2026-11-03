@@ -1,0 +1,47 @@
+@be 222
+@bl 163
+@title Tu jolo ni Tuhanku
+@key G
+@meter 6/4
+@credit Karl Voightlander, 1853
+@pages 202 203
+@check Buku menulis "Voightlander"; ejaan lazim Voigtländer.
+@check Birama terakhir dicetak "1..1" dengan legato (dua not 1/2 bertitik bersambung); ditulis sebagai dua not bersambung.
+@status Lirik dicek · 18/20 baris sama dgn pembanding
+@check Pembanding lirik: L4 kata 2 & 5 dan L19 kata 4 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 222) | https://bukuende.wordpress.com/2013/06/18/tu-jolo-ni-tuhanku-buku-ende-no-222-buku-logu-no-163/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 | (5 4) 3 (3 2) 1 | 1 . . 7, . v 2 |
+(4 3) 2 (2 1) 7, | 1 . . 0 0 :|
+> Tu-jo-lo ni Tu-han-ku hu-bo-an di-ring-kon;
+> I-ba-na do Ra-jang-ku, si-gom-gom ro-hang-kon;
+#B
+3 | 2 . 2 (2 3) #4 |
+5 . . 2 . v 2 | (#4 3) 2 (2 3) #4 | 5 . . 0 0 3 |
+(5 4) 3 (3 2) 1 | 1 . . 7, . v 2 | (4 3) 2 (2 1) 7, | (1 . . 1 . .) |]
+> Sai gu-ru di I-ba-na su-de-na lang-kang-ki; Sai a-si-ni ro-ha-Na pa-tu-re bo-gas hi.
+#V
+Tu jolo ni Tuhanku huboan diringkon;
+Ibana do Rajangku, sigomgom rohangkon;
+Sai guru di Ibana sudena langkangki;
+Sai asini rohaNa pature bogas hi.
+-
+Ai nang pe au targogot, hutatap Rajangki,
+Sai ro do ganup sogot, pangurupiNa i:
+Na so pasombuonNa di pangunjunan i,
+Sai saut paluaonNa, na hinophopNa i.
+-
+Tutu, ndang sai mansohot, tompu na mohop i,
+Sipata leleng lohot tu au na dokdok i.
+Alai gogongku ganda mamorsan silang i
+Tuhanku do hutanda, jonok di lambungki.
+-
+Ditiop do tanganku, sai dihehei do au,
+Sai tong jonok Tuhanku, ndang dung Ibana dao.
+TondiNa patorangkon tu au holongNa i
+Sai lam huhadengganhon hansit ni silang i.
+-
+Di holong ni rohaNa, dibuhul tingkingki.
+Disi do alaponNa au tu lambungNa i.
+HolongNa pujionku, tung selelengna i,
+Siala sitaonon, niampehonNa i.

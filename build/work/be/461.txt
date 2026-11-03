@@ -1,0 +1,32 @@
+@be 461
+@bl 407
+@title Songgop tu hami
+@key G
+@meter 4/4
+@credit Z No. 28
+@pages 441 442
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: beda di ayat 2 baris 3 ("daging" pada "hisap daging"); dicek ulang di scan hlm 442: buku mencetak "hisap daging". Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 461) | https://bukuende.wordpress.com/2013/06/18/songgop-tu-hami-buku-ende-no-461-buku-logu-no-407/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 1+2 3 3+4 | 5 6+5 3 . | 5 4+3 2 . |
+4 3+2 1 . | 1 1+2 3 3+4 | 5 6+5 3 . |
+5 4+3 2 . | 4 3+2 1 . | 5 4+3 2 5,+5, | 6 5+4 3 . |
+5 4+3 2 5,+5, | 6 5+.+.+4 3 . | 1 1+2 3 3+4 |
+5 6+5 3 . | 5 4+3 2 . | 4 3+2 1 . |]
+> Song-gop tu ha-mi na di jo-lo-Mon, o ton-di ni De-ba-tang-ki. U-hir pa-tik-Mu tu ro-hang-ki-non, O Ton-di ni De-ba-tang-ki. Be-reng si-hol-hu di ha-ro-ro-Mi. mo-lo Ho ro, nda hi-sar ton-ding-ki, Di-di-hon ma tu au on a-pi-Mi. O Ton-di ni De-ba-tang-ki.
+#V
+Songgop tu hami na di joloMon, o tondi ni Debatangki.
+Uhir patikMu tu rohangkinon, O Tondi ni Debatangki.
+Bereng siholhu di haroroMi. molo Ho ro, nda hisar tondingki,
+Didihon ma tu au on apiMi. O Tondi ni Debatangki.
+-
+Suru TondiM paluahon au on, Palua ma, o Debata.
+Bereng dagingku, tondingku dison, palua ma, o Debata.
+Dao ma pangambat di soaraMi, hisap daging, sandok diringki,
+na mangarsahi tongtong TondiMi. Palua ma, o Debata
+-
+Lehon hataM, i ma tau podangki, Debatangki na gogo i,
+Asa sai talu sude musuMi. Debatangki na gogo i.
+Mangkatindangkon tongtong goarMi, asa malua pardosa disi,
+Asa dijangkon Tuhanta ma i. Debatangki na gogo i.

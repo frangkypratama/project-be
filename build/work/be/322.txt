@@ -1,0 +1,35 @@
+@be 322
+@bl 36
+@title O Jesus, Sipangolu au
+@key F
+@meter 3/4
+@credit Wilheim Hauff
+@pages 299 300
+@status Lirik dicek · 8/8 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 322) | https://bukuende.wordpress.com/2013/06/16/o-jesus-sipangolu-au-buku-ende-no-322-buku-logu-no-36/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Melodi sama dengan Logu No. 36 di BE 70; penulisan mengikuti BE 70.
+@check Ketukan gantung tiga not 1/8 ditulis dengan diam 1/8 di depan (0+5, 1+2) agar ketukan tetap rapi; begitu juga awal bagian ulangan (0+1 1+1).
+@check Tanda napas setelah "5 3" (baris 3) tidak dapat diletakkan di dalam ketukan; dihilangkan.
+@check Birama akhir dicetak "3 . . :‖" tetapi not balok 1/4 bertitik (melengkapi ketukan gantung bagian ulangan) → ditulis "3 .".
+@check Baris ke-2 tiap ayat diulang (tanda :,: di ayat 2–4 dan tanda ulang ‖: … :‖ di not); lirik ayat ditulis tanpa tanda :,:.
+#A
+0+5, 1+2 | 3 .+4 2+3 | 1 v .+2 3+4 |
+5 .+6 4+5 | 3 . |
+> O Je-sus, Si-pa-ngo-lu au, tu po-do-man-ku naeng au lao;
+#B
+0+1 1+1 | 6 .+6 1'+6 |
+(5 3)+5 5+5 | 4 .+2 5+4 | 3 . :|
+> Naeng ma-ra-di-an da-ging-ki, Ho ma mang-kin-su pin-tu i.
+#V
+O Jesus, Sipangolu au, tu podomanku naeng au lao;
+Naeng maradian dagingki, Ho ma mangkinsu pintu i.
+-
+Sai sesa dosangki sude, pasonang au na modom pe:
+Saborngin on ramoti au, suruanMi manjaga au
+-
+Sude na tau mangago au, aek manang api pe padao,
+Nang hamatean na tompu, pasonang ahu situtu
+-
+Laos songon i ma donganki, ramoti ma luhutna i,
+Pahehe au muse hipas, asa hupuji Ho ringgas

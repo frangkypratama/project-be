@@ -1,0 +1,45 @@
+@be 278
+@bl 234
+@title Bangso na sumurung i
+@key C
+@meter 3/4
+@credit Nicolaus Ludwig Graf von ZInzendorf 1760
+@pages 257 258
+@check Birama 1: "7 6" dua not 1/8 berbalok untuk satu suku kata "so" tanpa tanda legato; ditandai "_" di baris lirik.
+@check "4*" = 4 kres (paranada Fis).
+@check Komponis tercetak "ZInzendorf" (huruf I besar); ditulis sesuai buku.
+@status Lirik dicek · 16/20 baris sama dgn pembanding
+@check Pembanding lirik: L2 kata 3, L4 kata 1, L19 kata 4 beda ejaan; L7 kata 5 tidak ada di pembanding; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 278) | https://bukuende.wordpress.com/2013/06/09/bangso-na-sumurung-i-buku-ende-no-278-buku-logu-no-234/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1' . 7+6 | 5 . 6 | (2 3) 4 | 3 . 0 | 2 . 5 |
+(3 #4) 5 | (6 7) (1'+2') | 7 5 0 | 1' . 7 | 6 6 0 |
+(2 3) 4 | 3 . 5 | (6 7) 1' | 7 . 0 | (6 7) 1' | 7 . 0 |
+5 . 4 | 3 . 1' | 6 . 7 | 3 3 0 | (5 6) 5 | 4 . 5 |
+(3 5) 1' | 7 5 0 | (1' 5) 1' | (6 7) 1' | 3 . 2 | 1 . . |]
+> Bang-so _ na su-mu-rung i. na hi-nop-hop ni Tu-han-ta, De-ba-tan-ta; naung par-da-me-na sin-tong, na tong-tong ho-lan ang-ka i hu-ri-a ni Tu-han-ta na ba-di-a, na-mang-hop-hop hi-ta on
+#V
+Bangso na sumurung i. na hinophop ni Tuhanta,
+Debatanta; naung pardamena sintong,
+na tongtong holan angka i huria ni Tuhanta na badia,
+namanghophop hita on
+-
+Ndang sae, naung tardidi ho;
+Naeng marunduk tu Tuhanmu pingkiranmu;
+Ai parroha na haru, ndang goaron be huria ni Tuhanta na badia
+Sioloan situtu
+-
+Nunga masuk ho tusi mangihuthon Tuhan Jesus?
+Nunga tulus dipasahat ho burju, situtu,
+Rohami tu hasintongan, gabe dohot ho golongan
+Ni bangsoNa na burju?
+-
+Parsidohot ho tutu, lao mangalo isaramu, nang dosamu?
+Naung rapet tu Tuhanmi rohami?
+I do tanda ni bangsoNa, dipasiding do sogoNa;
+Diihuthon Tuhan i.
+-
+Bangso ni Tuhanta i, marsihohot do i jongjong,
+Ndang malonglong, sai marhamonangan i di sude;
+Gari ro pe hahamtean, holan dalan i manean.
+Ipe, masuk ho tusi.

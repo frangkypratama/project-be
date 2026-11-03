@@ -1,0 +1,51 @@
+@be 569
+@bl 0
+@title O Debata tung longang do rohangku
+@key C
+@meter 4/4
+@credit Syair: O store Gud, Carl Gustaf Boberg, 1859 - 1940; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: Swedish folk melody
+@pages 539 540 541
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0.
+@check Ketukan gantung tercetak 3 not 1/8 (5 55) didahului tanda diam di balok → ditulis "0+5 5+5".
+@check "Refrein" tercetak di atas ketukan gantung kedua (0 5 5 1, "Marende au ..."); ayat 2–4 diakhiri "Ref.: Marende au . . .". Ayat 1 = lirik di bawah not.
+@check Lengkung di balok antara "Mi" (3 . .) dan not 5 berikutnya diabaikan karena jumlah suku kata = jumlah not ("sa-lu-hut" pada 3 not 5).
+@status Lirik dicek · 15/18 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 (tinompa Mi), 4 (manghantindanghon), 5 (sangapdo) beda ejaan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 569) | https://bukuende.wordpress.com/2013/06/16/o-debata-tung-longang-do-rohangku-buku-ende-no-569-buku-logu-no-569/ | teks lirik
+#A
+0+5 5+5 | 3 .+5 5+5 6+6 | 4 6 .+6 6+6 |
+5 .+3 5+5 4+4 | 3 . .+5 5+5 |
+3 .+5 5+5 6+6 | 4 6 .+6 6+6 |
+5 .+3 5+5 4+4 | 3 . .+5 5+1' |
+> O, De-ba-ta, tung lo-ngang do ro-hang-ku, mo-lo hu-be-reng na ti-nom-pa Mi, sa-lu-hut bin-tang, hi-lap do-hot rong-gur, mang-han-tin-dang-hon ha-sa-nga-pon-Mi, ma-ren-de
+#B
+3' .+2' 1'+7 1'+6 | 5 . .+1' 1'+7 | 2 . .+4 6+5 | 3 . |]
+> au Tu-han ma-mu-ji Ho. O, De-ba-ta, sa-ngap-do Ho.
+#C
+0+5 5+1' | 3' .+2' 1'+7 1'+6 | 5 . .+1' 7+1' | 2' . .+3' 4'+7 | 1' . . . |]
+> Ma-ren-de au Tu-han ma-mu-ji Ho. O, De-ba-ta, sa-ngap do Ho
+#V
+O, Debata, tung longang do rohangku,
+molo hubereng na tinompa Mi,
+saluhut bintang, hilap dohot ronggur,
+manghantindanghon hasangaponMi,
+Marende au Tuhan mamuji Ho. O, Debata, sangapdo Ho.
+Marende au Tuhan mamuji Ho. O, Debata, sangap do Ho.
+-
+Di ladang di adaran dohot tombak,
+marende pidong tung mansai sonang
+punsu ni dolok, sunge, dohot rura,
+mamaritahon sangapMi Tuhan.
+Ref.: Marende au . . .
+-
+Molo huingot balga ni holongMu,
+marhite Jesus na tarsilang i.
+Anak sasadaMi O Debatangku,
+dilehon Ho manobus jolma i.
+Ref.: Marende au . . .
+-
+Molo ro Kristus lao mangalap ahu,
+tu hasonangan salelengna i.
+di surgo i Ho do pasangaponku,
+rap dohot angka na badia i.
+Ref.: Marende au . . .

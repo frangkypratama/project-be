@@ -1,0 +1,48 @@
+@be 372
+@bl 99
+@title Rohangku sai halashon ma
+@key Eb
+@meter 4/4
+@credit Lagu : Augustin Harder 1813
+@pages 355 356
+@status Lirik dicek · 16/21 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 16 dari 21 baris sama; beda di baris 4, 6, 7 (umuli), 14 (Dibahen), 20; sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 372) | https://bukuende.wordpress.com/2013/06/16/rohangku-sai-halashon-ma-buku-ende-no-372-buku-logu-no-99/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian Ende parujungan. "4*" = #4 (A♮ di not balok).
+@check Hlm 355 baris 3 akhir: angka "5" tercetak tanpa titik bawah, tetapi not balok = B♭3 (di bawah paranada), sama seperti akhir baris 3 awal ("5̣") → ditulis 5,.
+@check Ayat 2–7 memakai tanda ":,:" (ulangi frasa terakhir), sesuai buku.
+#A
+5 | 5 .+4 3 3 | (3+4) (3+2) 1 v 5 |
+1' (7+6) 5 3 | (2+3) (4+5) 3 v 3 | 2 .+5 (7+6) (5+#4) |
+6 . 5 v 5, | 4 .+3 2 2 | (5+6) (5+4) 3 v 5, |
+4 .+3 2 2 | (5+6) (5+4) 3 v (3+4) | 5 (3+4) 5 (3+4) |
+5 . 3 v 5 | 1' .+6 (5+4) (3+2) | 2 . 1 |]
+> Ro-hang-ku sai ha-las-hon ma su-de na si-an De-ba-ta, lu-hut deng-gan ba-sa-Na. Sai ta-tap hau-ma i su-de, nang por-lak do-hot tom-bak pe; na u-li do ru-pa-na, na u-li do ru-pa-na.
+#V
+Rohangku sai halashon ma sude na sian Debata,
+Luhut denggan basaNa. Sai tatap hauma i sude,
+Nang porlak dohot tombak pe; na uli do rupana, na uli do rupana.
+-
+Sude na di balian i do pasangaphon
+Goar ni Tuhanta Debatanta. Nang eme na di hauma i,
+Nang hau sude na rata i, :,: Dipuji do Tuhanta.
+-
+Nang angka bungabunga pe, na'ndul umuli sasude
+Sian na hinadenggan ni si Salomo, raja i,
+I do paganda sangap ni :,: Tuhanta na di ginjang.
+-
+Ia mangkuling pidong i, na denggan marsoara i,
+Tuhanta diendehon; Sibigo, ambaroba pe,
+Ro di donganna sasude, :,: Na denggan i begeon
+-
+Antong, beha ma au disi! Tung sip ma au umbege i?
+Palias i rohangku. Dibahen i sai dohot au
+Tumiru sasudena, lao :,: Mamuji Debatangku.
+-
+Ia na denggan songon i di tano on sudena i,
+Beha tagamon sogot, na uli na di surgo i?
+I ma pingkiri, rohangki; :,: Tusi ma ho palohot.
+-
+I ma tutu, sai naeng tusi palungunonku tondingki,
+Tu jolo ni Tuhanku. Disi marendeende au,
+Disi marhasangapon au, :,: Mamuji Debatangku.

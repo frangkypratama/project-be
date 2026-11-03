@@ -1,0 +1,35 @@
+@be 484
+@bl 328
+@title O Tuhan au ma donganMi.
+@key Eb
+@meter 3/4
+@credit (tidak dicantumkan di buku)
+@pages 460
+@check Kepala lagu juga mencetak "H. N. 225".
+@check "4*" = 4 kres (paranada: A natural), ditulis #4.
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 2, 7, 10 (ejaan); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 484) | https://bukuende.wordpress.com/2013/06/16/o-tuhan-au-ma-donganmi-buku-ende-no-484-buku-logu-no-328/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 3 3 | 2 . 1 | 1 . 7, | 1 . . | 2 2 2 |
+3 . 5 | 5 . #4 | 5 . . | 6 6 6 | 7 . 1' |
+5 . 4 | 3 . . | 3 3 3 | 2 . 1 | 1 . 7, | 1 . . |]
+> O Tu-han, au ma do-ngan-mi, rap hi-ta sa-u-du-ran i. Ma-si-tung-ka-ran ha-ta ma, au do-hot Ho, o De-ba-ta.
+#V
+O Tuhan, au ma donganmi, rap hita sauduran i.
+Masitungkaran hata ma, au dohot Ho, o Debata.
+-
+Sai naeng arahononku do sude, na lilu, asa ro.
+Tu Ho, o Jesus Tuhanki, asa martua dohot i.
+-
+Lam benget ma rohangkinon manganju angka dongankon.
+Lam sesaonku dosa nii, ai au do niasianMi.
+-
+Paboaonku holongMi tu sasude na holom i,
+Sai lam tiur ma roha nii dibaen asi ni rohaMi.
+-
+Mardalan au, rap dohot Ho, so marnaloja, ndang dung so.
+Mangalului na mago i apala i ulaonMi.
+-
+Paima sae ulaon i, sude mananda asiMi,
+Rap hita lao tu jabuMi saleleng ni lelengna i.

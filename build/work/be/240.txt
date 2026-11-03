@@ -1,0 +1,40 @@
+@be 240
+@bl 222
+@title Ngot ma ho dijou soara
+@key C
+@meter 4/4
+@credit Philipp Nocolai, 1599
+@pages 220
+@check Judul kepala lagu "Ngot ma ho dijou soara" berbeda dengan baris pertama lirik ("O hamuna, na porsea").
+@check Nama komponis dicetak "Philipp Nocolai" (ejaan lazim: Philipp Nicolai).
+@check Birama "6 7 1' 1'": not balok tampak seperti 1' bertitik + tanda napas; ikut not angka (empat 1/4).
+@status Lirik dicek · 13/14 baris sama dgn pembanding
+@check Pembanding lirik: L6 kata 3 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 240) | https://bukuende.wordpress.com/2013/06/16/o-hamuna-na-porsea-buku-ende-no-240-buku-logu-no-222/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 3 | 5 5 5 5 | 6 . 5 . | 0 5 1' 5 |
+1' 3' 2' 1' | 2' . 5 . | 0 5 1' 5 | 6 3 4 2 | 1 . :|
+> O-ha-mu-na, na por-se-a, sai tong ha-mu ma-nga-lo-je-a, u-ti-an ni pa-nga-go-i.
+> Ha-ta ni De-ba-ta-mu-na, ma baen ha-mu sin-ja-ta-mu-na, ndang ta-lu be ha-mu di-si
+#B
+0 5 |
+5 4 3 2 | 1 . . v 5 | 5 4 3 2 | 1 . v 2 3 | 4 . 3 v 5 |
+6 7 1' 1' | 3' 2' 1' . | 0 5 1' 5 | 6 3 4 2 | 1 . |]
+> Bi-suk pe mu-su i, di-tan-da ro-ha-mi, jou ma Je-sus. Sai mo-nang do bae-non-Na ho, a-lai mu-sun-ta ta-lu do.
+#V
+O hamuna, na porsea, sai tong hamu mangalojea, utian ni pangagoi.
+Hata ni Debatamuna, ma baen hamu sinjatamuna, ndang talu be hamu disi
+Bisuk pe musu i, ditanda rohami, jou ma Jesus.
+Sai monang do baenonNa ho, alai musunta talu do.
+-
+Sai paias rohamuna huhut sai alo hisapmuna,
+Ai halak Kristen do hamu, sai papos ma rohamuna
+Di Tuhan Jesus Rajamuna, ai urupanNa do hamu,
+Naeng suda pe gogom sai tatap sambulom, na di ginjang
+Sonang disi tondinta i, dung sahat hita ro disi.
+-
+Ale Jesus, pargogoi ma nasa jolma, sioloi
+HataM di hasiangan on, paimbaru rohanami,
+Huhut papir ma tondinami, ai na gale do hami on.
+Tu rohanami be, pasaor ma TondiMi na badia.
+Sai burju be di Ho sude, mangolu manang mate pe

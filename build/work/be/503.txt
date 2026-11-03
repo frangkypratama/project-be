@@ -1,0 +1,34 @@
+@be 503
+@bl 343
+@title Na loja ho, o donganki.
+@key C
+@meter 4/4
+@credit William J. Kirkpatrick 1921
+@pages 475 476
+@status Lirik dicek · 4/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 4 dari 8 baris sama; beda: L1 (hasusaan), L3 (ungut), L4 (ho hom), L6 (satongkinnai). Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 503) | https://bukuende.wordpress.com/2013/06/16/na-loja-ho-o-donganki-buku-ende-no-503-buku-logu-no-343/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "Ev. S. No. 146.".
+@check Tanda birama tercetak tampak 6/8, tetapi setiap birama (angka dan not balok) berisi 4 ketuk 1/4; ditulis 4/4.
+@check Lirik "u-ngut *" di akhir hlm 479 buku bertanda bintang (tanpa catatan kaki yang terlihat).
+@check Baris 2 hlm 480: angka tercetak "3 . 1 | 1 . . 6" tanpa titik oktaf, sedangkan not balok E5 (setengah bertitik) dan C5; ditulis 3' . . 1' | 1' . . 6.
+#A
+5 | 5 .+5 #4+5 6+5 | 1' . . 3 |
+4 .+3 2+6 5+4 | 3 . . 5 | 1' .+1' 7+2' 1'+5 |
+6 . . 6 | 5 .+5 7+7 6+7 | 1' . . 5 | 5 . . 3+5 |
+5+4 4+4 4 4 | 7 . . 6+7 | 1'+5 5+5 5 5 |
+3' . . 1' | 1' . . 6 | 5 .+5 7 (6+7) | 1' . . |]
+> Na lo-ja ho, o do-ngan-ki, di ba-hen ha-su-sa-an i, Ra-de di ho a-di-an i, sai be-reng dom-pak Je-sus i. So ho, u-ngut u-ngut-mi pa-so, so ho, u-ngut-u-ngut-mi pa-so, ho hom ma ho, pa-so sa-ri-ta-mi
+#V
+Na loja ho, o donganki, di bahen hasusaan i,
+Rade di ho adian i, sai bereng dompak Jesus i.
+So ho, ungut ungutmi paso, so ho, ungut-ungutmi paso,
+ho hom ma ho, paso saritami
+-
+Rahis dalanmu jala maol, mansai dokdok do silangmi,
+Tu ginjang panailimi, satongkinnai, ma salpu i.
+So ho .......
+-
+Satongkin nari nama i, dung i ro haluaon i.
+Jonok do hasonangan i, paso ma holsoholsomi!
+So ho ....

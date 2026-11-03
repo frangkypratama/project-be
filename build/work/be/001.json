@@ -1,0 +1,71 @@
+{
+ "be": 1,
+ "bl": 223,
+ "title": "Ringgas ma ho, tondingku",
+ "key": "Eb",
+ "meter": "3/4",
+ "credit": "Hanns Kugelmann, 1530",
+ "pages": [
+  1,
+  2
+ ],
+ "checks": [
+  "Ketukan terakhir lagu: scan menulis “1 .” samar, not balok di buku memperlihatkan not 1/2 bertitik — saya pakai 3 ketukan.",
+  "Birama ke-2 baris 3 (“1 6”) tidak terbaca titiknya; disamakan dengan pola yang sama di baris 5 (“1 6 .”).",
+  "Pembanding lirik: bukuende.wordpress.com — 20 dari 21 baris sama persis; 1 baris beda ejaan (ayat 3 baris 1: “anakhonna”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku."
+ ],
+ "sections": [
+  {
+   "notes": "1 | 1 . 7, | 6, . 5, | (1 . 2) | 3 . v 3 | 3 . 3 |\n3 . 2 | 1 . 7, | 1 . :|",
+   "rows": [
+    "Ring-gas ma ho, ton-ding-ku, ma-mu-ji De-ba-tan-ta i;",
+    "Ai di-par-mu-du-mu-du Ho, u-nang ha-lu-pa-hon i."
+   ]
+  },
+  {
+   "notes": "1 | 1 . 3 | 2 . 3 | (1 . 7,) | 6, . v 6, |\n2 . 7, | 1 6, . | 5, . . | 0 0 5, | 1 . 1 | 2 . 2 | 3 . . | 1 . v 1 |\n4 . 4 | 3 . 3 | 2 . . | 0 0 2 | 3 . 3 | 4 . 4 | 5 . . | 1 . v 3 |\n2 . 7, | 1 6, . | 5, . . | 0 0 5, | 1 . 7, | 6, . 5, |\n2 . . | 2 . v 3 | 4 . 3 | (1 3) 2 | 1 . . |]",
+   "rows": [
+    "Di-se-sa do do-sa-mu, Di dao-ni sa-hit-mi, Di-u-dut do ho-sa-mu, Di bu-ri ton-di-mi. Hu-hut di-a-pul-a-pul Ro-ham, na mar-sak i; A-sa tung lam hu-mi-bul mi-ngot u-hum-na i."
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Ringgas ma ho, tondingku, mamuji Debatanta i;",
+   "Ai diparmudu-mudu Ho, unang halupahon i.",
+   "Disesa do dosamu, Di daoni sahitmi,",
+   "Diudut do hosamu, Di buri tondimi.",
+   "Huhut diapul-apul Roham, na marsak i;",
+   "Asa tung lam humibul mingot uhumna i."
+  ],
+  [
+   "Na tolhas do tu hita uhumNa na sumurung i,",
+   "Dibaen holong rohaNa diangka na porsea i;",
+   "Ai ndada dilaluhon tu hita rimas i;",
+   "Sai lam dipatuduhon denggan basaNa i; Ai songon hasundutan,",
+   "Dao sian purba i, holang dibaen Ibana sude dosanta i."
+  ],
+  [
+   "Asi roha ni ama marnida anakhonna i,",
+   "Suman tusi Jahowa marnida na porsea i,",
+   "Diboto do mulanta na sian tano i",
+   "Tudoshon bunga bunga, tudoshon bulung i, disi ro habahaba.",
+   "Mamintor habang be, suman tusi do jolma, sai mate do sude."
+  ],
+  [
+   "Tung asi ni rohaNa sambing do na manongtong i",
+   "Saleleng ni lelengna di tonga huriaNa i,",
+   "Di surgo habangsaNa, hinaliangan ni sude parhaladoNa,",
+   "Na sun badia i na sai tongtong mamuji, pasangap Tuhan i.",
+   "Ho pe tondingku, puji tongtong goarNa i!"
+  ]
+ ],
+ "status": "Lirik dicek · 20/21 baris sama dgn pembanding",
+ "refs": [
+  {
+   "t": "Lirik pembanding: bukuende.wordpress.com (BE 1)",
+   "u": "https://bukuende.wordpress.com/2013/06/16/ringgas-ma-ho-tondingku-buku-ende-no-1-buku-logu-no-223/",
+   "n": "Pembanding lirik (ejaan tanda baca diabaikan)."
+  }
+ ]
+}

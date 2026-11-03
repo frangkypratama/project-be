@@ -1,0 +1,37 @@
+@be 377
+@bl 381
+@title Ro ma hamu sudena
+@key D
+@meter 3/4
+@credit Lagu : James Mc. Granahan 1907
+@pages 361 362
+@status Lirik dicek · 10/14 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 10 dari 14 baris sama; beda di baris 2–5 (pengulangan/ejaan dalam refrein); sesuai pemenggalan lirik di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 377) | https://bukuende.wordpress.com/2013/06/16/ro-ma-hamu-sudena-buku-ende-no-377-buku-logu-no-381/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian "Dijou Tuhan i do ho!". Kepala lagu juga mencetak "R.L No. 144". "4*" = #4 (G♯). Ketukan gantung awal = not 1/8 (ditulis 0+5).
+#A
+0+5 | #4+5 1' .+5 | 7 6 .+6 | 7 .+6 4+6 |
+(5 . 5)+5 | #4+5 1' .+5 | 7 6 .+6 | 7 .+5 4+2 | 1 . 0+3 |
+3+6 6 .+1' | 1' 7 .+7 | 1' .+6 3+#4 | 5 . 0+5 |
+#4+5 1' .+5 | 7 6 .+6 | 7 .+5 6+7 | 1' . . |
+5 .+6 5+6 | (7 1') 7 | 6 .+7 6+7 | (6 2') 1' |
+7 .+7 6+7 | 1' 5 6 | 7 .+6 4+6 | 5 . . | 5 .+6 5+6 |
+(5 1') 7 | 6 .+7 6+7 | (6 2') 1' | 7 .+7 6+7 |
+1' 5 6 | 7 .+5 6+7 | (1' . 1') |]
+> Ro ma ha-mu su-de-na, di-jou Tu-han-ta i. Ha-mu su-de na lo-ja, hu-hut na so-rat i! Ting-gang-hon ma su-de-na, na pa-so-rat-hon ho, tu Je-sus na man-jou-hon Ha-ta-Na on tu ho: Ro ha-mu su-de, sai ro ha-mu su-de, na lo-ja ja-la so-rat, sai ro ha-mu su-de, ro ha-mu su-de, Sai ro ha-mu su-de, ai so-nang be hu-ba-hen ha-mu, na ro su-de.
+#V
+Ro ma hamu sudena, dijou Tuhanta i.
+Hamu sude na loja, huhut na sorat i!
+Tingganghon ma sudena, na pasorathon ho,
+Tu Jesus na manjouhon HataNa on tu ho:
+Ro hamu sude, sai ro hamu sude, na loja jala sorat,
+Sai ro hamu sude, ro hamu sude, Sai ro hamu sude,
+Ai sonang be hubahen hamu, na ro sude.
+-
+Lam ringkot do panjouMu di au pardosa on,
+Antong, lam las rohangku, manggolom hataMon:
+Na mangihuthon Jesus, parroha na burju,
+Dapotan parjambaran, na denggan situtu,
+Ro ma dohot au, na loja jala sorat,
+Na ro ma dohot au, ro ma dohot au, na ro ma dohot au,
+Naeng sonang dohot au, Naeng sonang dohot au

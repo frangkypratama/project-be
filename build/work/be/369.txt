@@ -1,0 +1,32 @@
+@be 369
+@bl 143
+@title O Jesus Panondang
+@key Bb
+@oct -1
+@meter 4/4
+@credit Lagu: Karl August Groos 1817
+@pages 353
+@status Lirik dicek · 8/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 8 dari 9 baris sama; baris 5 beda ejaan; setelah dicek ulang ke scan buku tercetak "ngolunta" (transkripsi awal "ngoluta" dikoreksi).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 369) | https://bukuende.wordpress.com/2013/06/16/na-marhahaanggi-buku-ende-no-369-buku-logu-no-143/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian Ende di dakdanak. Judul Logu "O Jesus Panondang" berbeda dari baris pertama lirik ("Na marhahaanggi hita sasude").
+#A
+5 3 1' 5 | 6 . 5 0 | 3' 1' 7 (1'+3') | 2' . . 0 :|
+> Na mar-ha-ha-ang-gi hi-ta sa su-de.
+> Ndang mar-di-a im-bar ma-nang i-se pe.
+#B
+2' .+1' 7 5 | 3' . 1' v 2'+3' | 4' . 3' . | 2' . . 0 |
+3' 2' 1' 7 | 6 4' 3' 2' | 1' . 7 . | 1' . . 0 |]
+> A-sing be ha-tan-ta, nang lu-at-ta pe sa-da do A-man-ta, i ta-i-ngot be.
+#V
+Na marhahaanggi hita sasude. Ndang mardia imbar
+Manang ise pe. Asing be hatanta, nang luatta pe
+Sada do Amanta, i taingot be.
+-
+Sada do Amanta, Sipangolu i, sumarihon hita
+Salelengna i. Sasude ngolunta, nang bohalta i,
+Sada do Amanta paradehon i.
+-
+Sai diranapranap hita on sude jumpa marsikola
+Nang marmeam pe; ndang tarula hita sasude tahe
+Molo so Amanta di lambungta be.

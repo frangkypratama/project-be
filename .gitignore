@@ -1,0 +1,13 @@
+node_modules/
+__pycache__/
+dist/
+site/scans/
+site-prod/scans
+site/backup.json
+build/work/scan-cache/
+build/work/pg/
+build/work/hdr/
+*.png
+!icon/*.png
+*.pdf
+*.zip

@@ -1,0 +1,40 @@
+@be 518
+@bl 355
+@title Marsinondang dibaen
+@key Ab
+@meter 6/4
+@credit Philip Paul Bliss 1876
+@pages 489 490
+@status Lirik dicek · 6/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 6 dari 10 baris sama; beda: L2, L3 (Tapagalak palitonta), L4, L7 (mangkuphupi). Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 518) | https://bukuende.wordpress.com/2013/06/16/marsinondang-dibaen-jesus-buku-ende-no-518-buku-logu-no-355/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "Jug. L. No. 84.".
+@check Tanda birama tercetak 3/2; setiap birama berisi 6 ketuk 1/4 (angka dan not balok), ditulis 6/4 agar satu angka = 1/4.
+@check Tanda mula di scan kurang jelas; dipakai As (1 = As) karena not 5 ketukan gantung berada di garis Es.
+#A
+5, .+6, | 5, . . 3 2 1 | 7, . 6, . 6, .+6, |
+2 . . 1 7, 1 | 2 . . . 5, .+6, | 5, . . 1 2 3 | 4 . 6, . 1 .+2 |
+3 1 2 . . 7, | 1 . . . |]
+> Mar-si-non-dang di-baen Je-sus a-si ni ro-ha-na i, Ja-la hi-ta do di-su-ru, a-sa ta-pa-bo-a i.
+#B
+1 .+1 | 4 . . 4 4 .+4 |
+4 . 3 . 3 .+3 | 3 . . 2 6, .+2 | 2 . . . 6, .+6, |
+5, . . 1 2 3 | 4 . 6, . 1 .+2 | 3 1 2 . . 7, | 1 . . . |]
+> Ta-pa-ga-lak pa-li-ton-ta, ta-pa-ti-ur da-lan i, Ai to-rop do-pe na li-lu, sai ha-top ma mu-lak i
+#V
+Marsinondang dibaen Jesus asi ni rohana i,
+Jala hita do disuru, asa tapaboa i.
+Tapagalak palitonta, tapatiur dalan i,
+Ai torop dope na lilu, sai hatop ma mulak i
+-
+Nang au on na dao najolo, di na holom lilu au.
+Alai sondang ni Tuhanku do mamboan mulak au,
+Tapagalak ......
+-
+Haholomon mangkuphupi toropan di tano i,
+Tung torop mangkalungunhon, sondang tu dalanna i.
+Tapagalak ......
+-
+Dongan, so tung mintop lampu na ringkot tu dongan i,
+So tung mago angka jolma dibaen halembaonmi.
+Tapagalak ......

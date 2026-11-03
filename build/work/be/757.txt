@@ -1,0 +1,43 @@
+@be 757
+@bl 0
+@title Ise do na naeng martua
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Fried lied, NN · Lagu: NN · Terj.: Gr. Jesman Hutapea
+@pages 819 820
+@check Buku tidak mencetak nomor Logu (ditulis 0).
+@check Refrein "Di pasangap ma Jahowa" diapit tanda ulang (‖: … :‖); ditulis sebagai bagian B satu baris lirik (kata sama di kedua kali).
+@check Not #4' (angka 4 dicoret) = E natural di balok (tanda mula 2 mol).
+@check Ayat 3: "Saj porsea" tercetak dengan lengkung di bawah "ai" — ditulis "Sai".
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan kata 1 baris 3 & 7 (pembanding kemungkinan menulis "Dipasangap"/"Dihaposima" disambung); scan menulis "Di pasangap", "Di haposima" — buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 757) | https://bukuende.wordpress.com/2013/06/16/ise-do-na-naeng-martua-buku-ende-no-757-buku-logu-no-757/ | pembanding menyebut Buku Logu No. 757
+#A
+5+5 | 1' 1' 5 5 |
+(3 5+3) 1 1'+1' | 2' 3' 2' (3' |
+2'+5' #4'+3') 2' 1'+1' | 7 .+1' 2' .+2' |
+5 . 0 |
+> I-se do na naeng mar-tu-a i-se do na naeng sa-ngap i-se do na naeng sa-ngap?
+#B
+5+5 | 4' .+2' 3' .+1' | (3' .+2') 2' :|
+> Di pa-sa-ngap ma Ja-ho-wa,
+#C
+5+5 | 1' 1' 2' 2' | (5' .+3' 1') 1'+7 |
+(6+4' 3')+2' 3' 2' | 1' . 0 |]
+> a-sa tung tu-tu sa-ngap, a-sa tung tu-tu sa-ngap.
+#V
+Ise do na naeng martua ise do na naeng sangap
+ise do na naeng sangap?
+Di pasangap ma Jahowa, di pasangap ma Jahowa
+asa tung tutu sangap, asa tung tutu sangap.
+-
+Ise do na naeng mamora ise do na naeng sonang
+ise do na naeng sonang ?
+Di haposima Jahowa, di haposima Jahowa
+asa tung tutu sonang, asa tung tutu sonang.
+-
+Ise do na naeng tu surgo ise do na naeng tu si
+ise do na naeng tu si ?
+Sai porsea ma ibana, sai porsea ma ibana
+di Tuhanta Jesus i, di Tuhanta Jesus i,

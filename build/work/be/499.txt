@@ -1,0 +1,38 @@
+@be 499
+@bl 340
+@title Ale dongan sai tangihon
+@key Bb
+@meter 3/4
+@credit (tidak dicantumkan di buku)
+@pages 472
+@check Kepala lagu juga mencetak "E. B. No. 110"; tercetak "Lagu No. 340" (bukan "Logu").
+@check Tanda birama tercetak kabur (terbaca seperti 8/4); isi tiap birama = 3 ketuk, ditulis 3/4.
+@check Ayat 2–4 diakhiri "Unang ma......" = reff (bagian B).
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 4, 5 (ejaan) dan 6 ('angka'); baris 'Unang ma......' tidak dibandingkan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 499) | https://bukuende.wordpress.com/2013/06/09/ale-dongan-sai-tangihon-buku-ende-no-499-buku-logu-no-340/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5,+1 | 3 .+2 1+6, | 5, 3, 5,+5, | 6, .+1 7,+2 | 1 . :|
+> A-le do-ngan, sai ta-ngi-hon Ha-ta a-pul-a-pul on.
+> Si-an De-ba-ta A-man-ta na sun go-go i tong tong
+#B
+2+3 | 4 .+3 2+1 | 3 2 2+3 | 4 .+3 2+1 |
+2 . 3+2 | 1 .+6, 5,+3, | 5, 1 3+4 | 5 .+3 2+3 | 1 . |]
+> U-nang ma ha-mu ma-bi-ar, Hu-do-nga-ni pe ha-mu. A-la nii sai lam pa-hin-sa ro-ha do-hot ton-di-mu
+#V
+Ale dongan, sai tangihon Hata apulapul on.
+Sian Debata Amanta na sun gogo i tongtong
+Unang ma hamu mabiar, Hudongani pe hamu.
+Ala nii sai lam pahinsa roha dohot tondimu
+-
+Lao taripar laut hamuna, nang aek na magondang i,
+Na so tupa do auponna angka na porsea i.
+Unang ma......
+-
+Tung mardalan pe hamuna di bagasan api i,
+Tung na so tarmosokkonsa, nanggo sada obukmi.
+Unang ma......
+-
+Antong rap marende hita lao mamuji Tuhan i;
+Tapaserep ma rohanta, lao manggolom hata i.
+Unang ma......

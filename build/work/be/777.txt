@@ -1,0 +1,49 @@
+@be 777
+@bl 0
+@title Unang sai holsoan ho
+@key C
+@meter 6/8
+@credit Syair: His eye is on the Sparrow, Mrs. CD. Martin Chas H Gabriel; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: NN
+@pages 847 848 849
+@status Lirik dicek · 9/11 baris sama dgn pembanding
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Birama 6/8: 1 token = 1 not 1/8 (6 token per birama). Tanpa tanda mula; 1 = C4 di paranada → do = C.
+@check Birama "3 . . 3 5" (ro-ham, ai) tercetak kurang satu titik; paranada E. (3/8) + E (2/8) + G (1/8) → ditulis (3 . . 3 .) 5.
+@check Birama "1 7 2 1" (De-ba-ta A-) tercetak tanpa titik dan tanpa not terakhir; paranada C5 1/4, B 1/8, D5–C5 1/8 (legato), E4 1/8 → ditulis 1' . 7 (2' 1') 3.
+@check Bagian akhir refrein memakai tanda ulang dengan volta 1 dan 2 (format belum mendukung volta): ditulis bagian C (volta 1) lalu bagian D (volta 2), lirik sama.
+@check Pembanding lirik: beda ejaan di baris 4 (kata 6, parulosi) dan baris 5 (kata 4, marende); ditulis sesuai scan hlm 847–848.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 777) | https://bukuende.wordpress.com/2013/06/18/unang-sai-holsoan-ho-buku-ende-no-777-buku-logu-no-777/ | Pembanding lirik (tanda baca diabaikan).
+#A
+5 6 5 3 . 1 | 2 (3 . 3 . .) | 4 5 6 1' . 1' |
+(5 . . 5 .) 0 | 5 4 3 6 . 3 | 5 (4 . 4 . .) |
+4 3 2 5 . 5 | (3 . . 3 .) 5 | 1' . 7 (2' 1') 3 |
+5 (5 . 5 .) 5 | 1' . 7 (2' 1') 5 | (6 . . 6 .) |]
+> U-nang sai hol-so-an ho, su-ma-ri-hon ho-sam, tu a-bit si-pa-nga-non u-nang su-sa ro-ham, ai De-ba-ta A-man-ta na su-ma-ri-hon ho,
+#B
+6 | 7 . 7 (7 6) 7 | 1' (5 . 5 .) 3+3 | 5 . 6 5 . 6 |
+(5 . . 5 .) 5 | 1' . 1' 1' . 1' | 1' (1 . 1 .) 1+1 |
+(5 . 3) 3 2 . | 1 . . 1 . 5 | 5 . 7 2' . 5 |
+5 (1' . 1' .) 5 | 5 7 . 2' . 5 | (3' . . 3' .) |]
+> Ai ga-ri ang-ka bu-nga, sai di pa-ru-lo-si do am-po-rik le-ang-le-ang, di-par-mu-du De-ba-ta, tu Tu-han De-ba-tang-ku ma-ren-de en-de au.
+#C
+1'+1' | 1' . 1' 1' . 1' | 1' (1 . 1 .) 1+1 | 5 . 6 5 . 6 | (5 . . 5 .) :|
+> Sa-su-de hol-so-hol-song-ku, di pa-da-o-si-an au,
+#D
+1'+1' | 1' . 1' 1' . 1' | 1' (1 . 1 .) 1+1 | 5 . 3 3 . 2 | (1 . . 1 .) 0 |]
+> Sa-su-de hol-so-hol-song-ku, di pa-da-o-si-an au.
+#V
+Unang sai holsoan ho, sumarihon hosam,
+tu abit sipanganon unang susa roham,
+ai Debata Amanta na sumarihon ho,
+Ref.: Ai gari angka bunga, sai di parulosi do amporik leangleang, diparmudu Debata,
+tu Tuhan Debatangku marende ende au. Sasude holsoholsongku, di padaosian au. (2×)
+-
+Tangihon HataNa i, bolongkon holosomi,
+pasahatma ngolumi du Debatanta i,
+Tuhan na sumarihon na tinompaNa i,
+Ref.: Ai gari angka ...
+-
+Molo ro ujian i nang parungkilonmi,
+pangido tu Debata Pardenggan basa i,
+ingkon tangihononna tinangiangkonmi.
+Ref.: Ai gari angka ...

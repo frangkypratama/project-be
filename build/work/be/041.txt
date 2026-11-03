@@ -1,0 +1,51 @@
+@be 41
+@bl 153
+@title Parripe ni Tuhanta
+@key F
+@meter 4/4
+@credit Johann Rist, 1596
+@pages 33 34 35
+@status Lirik dicek · 19/24 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 7,12,16,18,20. Buku tetap acuan.
+@check Buku hanya mencetak lirik dengan keterangan "Songon Ende No. 40" (Logu No. 153). Notasi diambil dari BE 40 di halaman 33 dan lirik ayat 1 BE 41 dipasangkan ke melodi itu.
+@check Kredit "Lagu: Johann Rist 1596" tercetak di bawah ayat 6 (hlm. 35); ditulis sesuai buku walau Johann Rist lahir 1607.
+@check Judul tidak dicetak (judul buku: "Songon Ende No. 40"); judul di sini diambil dari baris pertama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 41) | https://bukuende.wordpress.com/2013/06/16/parripe-ni-tuhanta-buku-ende-no-41-buku-logu-no-153/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 1 5 3 1 | (1 3) 2 v 3 | 5 4 3 2 | 1 . . :|
+> Par-ri-pe ni Tu-han-ta, sai he-he ma ha-mu,
+> Sai jang-kon ma Ra-jan-ta mar-ro-ha na bur-ju.
+#B
+3 | 3 5 5 3 | 2 . . 1 | 3 4 5 2 | 3 . 1 v 3 |
+5 4 3 1 | (1 3) 2 v 3 | 5 4 3 2 | 1 . . |]
+> Gir-gir ma hi-ta be ma-ren-de di I-ba-na, Man-jou-hon Ho-si-an-na, bur-ju ma sa-su-de,
+#V
+Parripe ni Tuhanta, sai hehe ma hamu,
+Sai jangkon ma Rajanta marroha na burju.
+Girgir ma hita be marende di Ibana,
+Manjouhon Hosianna, burju ma sasude,
+-
+Hamu na marsak roha jonok do raja i,
+Na ro mangapul roha ni nasa na tungki,
+Torop nuaeng tahe, inganan hasonangan,
+I ma partangiangan ni na porsea i.
+-
+Hamu na so mararta di hasiangan on,
+Na mora do Rajanta na ro tu hita on.
+SarihononNa do saluhut na hasea;
+Alai saluhut jea pabalioNa do,
+-
+Antong girgir ma hita manomu Raja i,
+Mangungkap di Ibana sandok rohanta i.
+Denggan tabaen nuaeng dalanNa tu rohanta
+Na naeng pasonanganNa tiur ma i tabaen.
+-
+Godang do lehononNa di hita sasude;
+Sai naeng do bongotanNa nuaeng rohanta be,
+Tung ise hita on manjua paluaon,
+Manjua pasonangon ni Raja ai antong?
+-
+O Jesus, sai bongoti ma dohot rohangkon;
+Asi rohaM, ingani ma tondingki tongtong.
+Patiur langkangki lao tu banuaginjang;
+Ai naeng marsonangsonang, hupuji Ho disi.

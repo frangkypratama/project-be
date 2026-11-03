@@ -1,0 +1,45 @@
+@be 255
+@bl 187
+@title Holan sada do na ringkot
+@key D
+@meter 4/4
+@credit Lagu: Adam Krieger 1657
+@pages 234 235
+@status Lirik dicek · 16/18 baris sama dgn pembanding
+@check Pembanding lirik: beda: "ahu" dan "hihorhon" (ayat 1, dari lirik di bawah not); dicek ulang ke scan: tercetak demikian di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 255) | https://bukuende.wordpress.com/2013/06/13/holan-sada-do-na-ringkot-buku-ende-no-255-buku-logu-no-187/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Kepala lagu dicetak "Lagu No. 187" (bukan "Logu No.").
+@check BIRAMA BERGANTI: bagian A dicetak 4/4, bagian B (mulai "0 0 1") dicetak 3/4 — ditulis dengan "#B 3/4".
+@check "3 . 3 ’ 3" (awal hlm 235): not balok 3 not 1/4 → titik dianggap pemisah, ditulis 3 3 v 3.
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+5 5 6 7 | 1' 1' 7 7 v | 6 6 5 3 | 4 2 1 :|
+> Ho-lan sa-da do na ring-kot, Je-sus le-hon i di au!
+> Ma-nang a-hu pe na da-pot, ndang tuk pa-so-nang-kon au.
+#B 3/4
+0 0 1 | 3 3 3 | 2 2 2 | 4 4 4 |
+3 3 v 3 | 6 6 6 | 5 .+4 3 | 4 3 2 |
+1 1 v 1 | 3 3 3 | 2 2 2 | 4 4 4 |
+3 . v 3 | 6 6 6 | 5 .+4 3 | 4 3 2 | 1 . . |]
+> Nang ar-ta, nang sa-ngap, su-de ha-mo-ra-on, ndang tau ma-nga-le-hon di au ha-so-na-ngan. A-lai mo-lo da-pot na sa-sa-da i, tong-tong las ro-hang-ku hi-hor-hon ni i.
+#V
+Holan sada do na ringkot, Jesus lehon i di au!
+Manang ahu pe na dapot, ndang tuk pasonangkon au.
+Nang arta, nang sangap, sude hamoraon,
+Ndang tau mangalehon di au hasonangan.
+Alai molo dapot na sasada i,
+Tongtong las rohangku hihorhon ni i.
+-
+Molo naeng di Ho, tondingku, arta na sasada i.
+Ndang tarbahen luluanMu, anggo so di ginjang i.
+Disi, di siamun ni Tuhan Jahowa
+Do hundul AnakNa na dung gabe jolma.
+Ibana do jambar na sun denggan i.
+Antong, o tondingku, jalahi ma i.
+-
+Suang songon si Maria tumangihon hataMi,
+Naeng, o Jesus na badia, hundul au di lambungMi.
+Antong, ale Tuhan, pasada rohangku,
+Palua ma au sian nasa dosangku.
+Sai Ho ma, o Jesus nampuna au on.
+Sai Ho ma manggohi rohangku tongtong!

@@ -1,0 +1,31 @@
+@be 659
+@bl 0
+@title Angka parbegu na di haholomon
+@key Eb
+@meter 4/4
+@credit Syair & Lagu: NN
+@pages 679
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator. Kepala bagian: "ZENDING".
+@check "mai mai" tanpa busur diftong di buku → dipenggal ma-i ma-i (sesuai jumlah not).
+@status Lirik dicek · 11/11 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 659) | https://bukuende.wordpress.com/2013/06/09/angka-parbegu-na-di-haholomon-buku-ende-no-659-buku-logu-no-659/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3 3+3 1' 7+6 | 6 6+5 3 1 | 2 2+2 5 6+5 |
+2 4+.+.+4 3 1 | 3 3+3 1' 7+6 | 6 (6+5) 3+1 3 |
+3+2 1+2 3 . | 3+2 7,+1 6, . |]
+> Ang-ka par-be-gu na di ha-ho-lo-mon, ma-i ma-i ma do di ha-ti-u-ron, nu-nga be lo-ja di ha-por-su-hon i, i-se ma na ro ma-ngu-ru-pi i.
+#V
+Angka parbegu na di haholomon, mai mai ma do
+di hatiuron, nunga be loja di haporsuhon i,
+ise ma na ro mangurupi i.
+-
+Tuhanta Jesus manatap parbegu,
+dihalungunhon do naeng mangolu
+angka naposo na gomos roha i,
+borhat do burju tu parbegu i.
+-
+Nunga tiur be parbegu na jolo,
+nunga torop naung manghirim di surgo,
+alai torop do nang sijouon i.
+pangke ma gogom mangarahon i.

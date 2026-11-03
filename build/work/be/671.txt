@@ -1,0 +1,40 @@
+@be 671
+@bl 0
+@title Torop dope na lilu
+@key Ab
+@meter 4/4
+@credit Syair dan Lagu: Far. far away in sin and darkness Dwelling: James Mc. Granahan. · Terj.: Pdt. J.A.U. Doloksaribu
+@pages 694 695
+@status Lirik dicek · 12/14 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 1 ("di na dao" — scan jelas), baris 4 (ejaan), baris 13 (kata "i" di akhir, tercetak). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 671" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 671) | https://bukuende.wordpress.com/2013/06/18/torop-dope-na-lilu-buku-ende-no-671-buku-logu-no-671/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Mat. 28:18-20.
+@check "dao" (baris 1) jatuh pada dua not (3 2) tanpa lengkung → ditulis "dao _". "lao" bertanda lengkung (satu suku kata). "1̸" = kres (A♮ di balok).
+#A
+3 1+.+.+6, 5, .+3, | 5,+6, 7,+1 3 2 | 2 2+.+.+#1 2 .+2 |
+3+1 1+6, 5, . | 3 1+.+.+6, 5, .+3, | 5,+6, 7,+1 3 2 |
+4 3+.+.+2 3+1 1+6, | 5, 7, 1 . |
+> To-rop do-pe na li-lu di na dao _ gi-nong-go-man-ni ha ho-lo-mon i, i-se na o-lo lao ma-ma-ri-ta-hon pa-ra-rat ba-ri-ta na u-li i.
+#B
+5, . 1 7, |
+7,+.+.+6, 6,+.+.+6, 6, . | 6, . 2 1 | 1+.+.+7, 7,+.+.+7, 7, . |
+5,+5, 6,+7, 1+.+.+1 1+3 | 3 2 4 3+5 |
+5 4+2 1 7, | 2 . 1 . |]
+> Pa-ra-rat ma ba-ri-ta i sa-hat tu li-at ta-no on di-ta-ngan ni Je-sus do na-sa hu-a-so, I-ba-na tong-tong do-ngan-mu.
+#V
+Torop dope na lilu di na dao, ginonggomanni haholomon i,
+ise na olo lao mamaritahon pararat barita na uli i.
+Ref : Pararat ma barita i sahat tu liat tano on
+ditangan ni Jesus do nasa huaso, Ibana tongtong donganmu.
+-
+Tangihon ma panjouon ni Tuhanmu,
+ale parangan, borhat ma hamu,
+tostosi rante ni banua toru,
+marhite Barita na uli i.
+Ref : Pararat ma . . .
+-
+Jesus manjou ho asa unang mago,
+alusi ma jou-jouNa i,
+Tuhanta ro, paluahon na mago,
+borhat ma ho mamaritahon i.
+Ref : Pararat ma . . .

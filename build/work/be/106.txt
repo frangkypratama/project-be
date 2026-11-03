@@ -1,0 +1,52 @@
+@be 106
+@bl 176
+@title Ale Tuhan, Amanami
+@key F
+@meter 6/4
+@credit Jenewa, 1551
+@pages 96 97
+@check Birama "4 3 2 .'" (baris 3) hanya 4 ketuk di buku; dibaca "4 . 3 . 2 ." mengikuti BE 113 (Logu 176 yang sama) agar genap 6/4 — mohon dicek.
+@check Titik di antara angka (mis. "1 . 2 . 3 . 2") dibaca sesuai not balok: 1/2 lalu 1/4.
+@status Lirik dicek · 21/24 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 21 dari 24 baris sama persis; beda di baris 1 (ejaan), 16 dan 24 (kata lebih). Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 106) | https://bukuende.wordpress.com/2013/06/09/ale-tuhan-amanami-buku-ende-no-106-buku-logu-no-176/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 2 3 . 2 | 1 7, 6, . 5, . v | 1 . 2 3 . 4 |
+3 . 2 . 1 . :|
+> A-le Tu-han, A-ma-na-mi, na mar-ho-long ro-ha i,
+> Su-ru Ton-di-mi tu ha-mi, ang-ka na ti-no-gu-Mi.
+#B
+3 . 3 5 . 4 | 3 . 2 . 3 . v |
+5 . 5 6 . 5 | 4 . 3 . 2 . v | 3 . 5 4 . 3 |
+1 2 3 . 1 . v | 3 . 3 4 . 3 | 2 1 (1 7,) 1 . |]
+> Pa-im-ba-ru ton-ding-ki, ga-be jo-ro-Mi ma i. Sai o-loi pa-ngi-do-an-ku si-an a-si ni ro-ha-Mu
+#V
+Ale Tuhan, Amanami, na marholong roha i,
+Suru Tondimi tu hami, angka na tinoguMi.
+Paimbaru tondingki, gabe joroMi ma i.
+Sai oloi pangidoanku sian asi ni rohaMu
+-
+Ndang adong hangoluanku, anggo so ro TondiMi,
+Maringanan di rohangku, jala ndang margogo i,
+Patupahon hataMi, pasangaphon goarMi;
+Sai tongtong holom rohangku, molo so patiuronMu.
+-
+Tung beha ma tandaonku, Ho, o Jesus Tuhanki?
+Tung beha ma tolopanku; Ho do hangoluanki,
+Molo so ro TondiMi manondangi rohangki?
+Ipe suru ma Ibana asa saor tu au hataNa.
+-
+Arta na tongtong manahan salelenglelengna i.
+Ingkon Ho do marbasahon jala mangalehon i.
+Tondi sian Debata; ala ni tangihon ma
+Hata ni pangidoanku: Sai bongoti ma rohangku,
+-
+Patandahon ma tu ahu, dosa na buni dope,
+Angka na paholang ahu sian Debata tahe,
+Asa topotanku i tu Tuhanku Jesus i,
+Jala au paluaonNa sian dosa saluhutna,
+-
+Tondi, sai ajari ahu, jala togutogu ma,
+Asa au marpangalaho na badia, na tama.
+Sai paburju rohangkon mangoloi hataM tongtong.
+Asa molo ro ajalhu, sahat au tu ingananMu

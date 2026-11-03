@@ -1,0 +1,32 @@
+@be 398
+@bl 265
+@title Beha na so mardame
+@key Ab
+@meter 6/8
+@credit J. Hoff.
+@pages 381 382
+@check Kepala lagu juga mencetak "U.L No. 269".
+@check Birama 6/8: 1 token = 1 not 1/8. "1*" = 1 kres (paranada: A pugar). Legato "1 . . 1", "3 . 3" = not 1/4 bertitik diikat ke not 1/4 (satu suku kata).
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L2 dan L4 (mis. "Marilu", "baenonNa").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 398) | https://bukuende.wordpress.com/2013/06/09/beha-na-so-mardame-buku-ende-no-398-buku-logu-no-265/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 . 7, 1 . 2 | 3 . . 3 . 4 | 2 . #1 2 . 3 |
+(1 . . 1) . 5, | 1 . 7, 1 . 2 | 3 . . 3 . 4 | 2 . #1 2 . 3 |
+(1 . . 1) . 1 | 4 . 4 4 . 4 | 3 . . 3 . 3 | 2 . #1 2 . 2 |
+(3 . . 3) . 1 | 4 . 4 4 . 4 | 3 . . 3 . 3 | 2 . #1 2 . 3 | (3 . . 3) . . |]
+> Be-ha, na so mar-da-me ro-ham na lo-ja i? Mar-i-lu do ma-ta-mu di-baen ar-sak-na i. Sai o-lo ho por-se-a di Je-sus Tu-han-mi, ma-lu-a ho bae-non-Na, di-baen ho-long-Na i.
+#V
+Beha, na so mardame roham na loja i?
+Marilu do matamu dibaen arsakna i.
+Sai olo ho porsea di Jesus Tuhanmi,
+Malua ho baenonNa, dibaen holongNa i.
+-
+Ibana mengalehon tu ho tondiNa i.
+Sonang pangkilalaan dibaen dameNa i. Sai olo.....
+-
+Dosam do diarsakkon ho, ale donganki?
+Sai ro tu Tuhan Jesus pasaehon dosami. Sai olo....
+-
+BugangNa i do mual ni hatuaonmi,
+Sai minum, asa malum tondim na bonos i. Sai olo.....

@@ -1,0 +1,36 @@
+@be 773
+@bl 0
+@title Tuhan mata ni aringku
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair/Lagu/Terj.: NN
+@pages 842 843
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0.
+@check Tanda mula 2 mol; not 3 pertama = D4 → do = Bes3 (@oct -1).
+@check Pembanding lirik: baris 2 (napatiur), 3 (sumurung), 4 (alanii), 6 (pardalananku) beda ejaan; dicek ke scan, buku ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 773) | https://bukuende.wordpress.com/2013/06/18/tuhan-mata-ni-aringku-buku-ende-no-773-buku-logu-no-773/ | teks ayat
+#A
+3 .+4 5 5 | 6 7 1' 5 | 3' .+1' 5 3 |
+4 6 5 . | 3 .+4 5 5 | 6 7 1' 5 |
+3' .+2' (2'+7) (5+6) | 7 6 5 . | 7 .+1' 2' 3' |
+4' 3' 3' 2' | 3' .+4' 5' 3' | 5' (4'+3') 2' . |
+3' .+2' 1' 1' | 2' 3' 5' 4' |
+3' .+3' 2' 1' | 1' . 7 . | 1' . 0 0 |]
+> Tu-han ma-ta ni a-ring-ku, Ho do a-le-a-leng-ki, na-pa-ti-ur par-ni-da-an si-a-pu-li ro-ha i, tung an-dul do Ho su-mu-rung si-an na di ta-no i, a-la-nii da-pot-ho-nong-ku Tu-han na su-mu-rung i.
+#V
+Tuhan mata ni aringku, Ho do alealengki,
+napatiur parnidaan siapuli roha i,
+tung andul do Ho sumurung sian na di tano i,
+alanii dapothonongku Tuhan na sumurung i.
+-
+Sian harbangan na gogot borhat au tu Tuhanki,
+tung punjung pardalananku TondiMi do donganki,
+nang adong pe panginsahi hupabenget rohangki,
+alanii dapothonongku Tuhan na sumurung i.
+-
+Nang sipata ndang hujalo muntul pangidoanki,
+nang tung sura pe au bobos hot holong ni Tuhangki,
+ai alogo na mamolus saluhut di tano i,
+alanii dapothonongku Tuhan na sumurung i.

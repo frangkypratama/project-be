@@ -1,0 +1,47 @@
+@be 209
+@bl 136
+@title Na sonang au.
+@key G
+@meter 4/4
+@credit Johann Rudolf Ahle, 1662
+@pages 189 190
+@status Lirik dicek · 17/20 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 17 dari 20 baris sama; baris 1 kata 6 & baris 13 kata 6 beda kata; baris 11 beda ejaan. Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 209) | https://bukuende.wordpress.com/2013/06/16/na-sonang-au-buku-ende-no-209-buku-logu-no-136/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Angka "4*" di birama 6 dibaca #4 (not balok buku: tanda kres di depan C5).
+@check Tanda ":,:" pada ayat 2–5 menandai seruan penutup yang diulang; ditulis sesuai buku.
+#A
+1 . | 2 . 2 . | 3 . 0 3 | 5 2 2 4 |
+3 . 0 2 | (3+#4) 5 5 #4 | 5 . :|
+> Na so-nang au, dung na mar-Tu-han au tu Tu-han Je-sus i;
+> Ai ndang a-dong, dung na-po-so-na au, si-hol-so-ho-non-ki,
+#B
+0 2 | 2 2 3 2 | 4 3 3 . | 2 . 0 2 |
+2 2 3 2 | 4 3 3 . | 2 . 0 5 | 3 . 2 . |
+1 . 0 5 | 3 . 2 . | 1 . |]
+> I-ba-na na-ma hu-i-hut-hon, por-ti-bi on ma hu-tun-dal-hon. Na so-nang au! Na so-nang au!
+#V
+Na sonang au, dung na marTuhan au tu Tuhan Jesus i;
+Ai ndang adong, dung naposona au, siholsohononki,
+Ibana nama huihuthon,
+Portibi on ma hutundalhon. Na sonang au! Na sonang au!
+-
+Na sonang au, bolong do sasude na mangarsahi au.
+Las rohangki, nuaeng nang sogot pe, diapul Jesus au.
+Ndang huholsohon be ngolungku,
+Sude do guru di Amangku. :,: Na sonang au!
+-
+Na sonang au! Burju do Amangki na manarihon au:
+Huhut basa, sude na ringkot i dilehon do tu au.
+Parbegu do na humolsolsohon,
+Ngoluna dohot sipanganon :,: Au sonang do!
+-
+Na sonang au! HarajaonNa do rodi ruhutNa i
+I ma antong na hujalahi do sude dapot disi
+Sai on ma sangkap ni rohangku,
+Pasauthon roha ni Amangku, :,: Na sonang au!
+-
+Na sonang au! Na maradian au di ampuanNa i.
+Na bernit i maporus sian au, hudai holongNa i.
+Nuaeng sinolom ni rohangku,
+Naeng surgo i ma bongotanku, :,: Martua au!

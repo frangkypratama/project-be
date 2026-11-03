@@ -1,0 +1,31 @@
+@be 545
+@bl 413
+@title Na saor di hita be
+@key G
+@meter 3/4
+@credit Jug L. No. 56; Lagu: Hans Geor Nageli
+@pages 516
+@check Kepala lagu "Na saor di hita be", baris pertama lirik "Na saor do hita be".
+@check Kredit tercetak "Hans Geor Nageli" (lazim Hans Georg Nägeli); ditulis apa adanya.
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 & 6 beda ejaan satu kata. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 545) | https://bukuende.wordpress.com/2013/06/16/na-saor-di-hita-be-buku-ende-no-545-buku-logu-no-413-2/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3 | (3 1) 3 | (2 7,) 2 | 1 . 1 | (1 6,) 1 | (1 5,) 1 | 7, . 2 |
+(2 7,) 2 | (1 3) 5 | (5 2) 4 | (3 5) 6 | (5 3) 4 | (3 1) 2 | 1 . |]
+> Na saor do hi-ta be di-baen Tu-han-ta i, I-ba-na do tu-mo-bus au rap do-hot do-ngan i.
+#V
+Na saor do hita be dibaen Tuhanta i,
+Ibana do tumobus au rap dohot dongan i.
+-
+Sai hot parsaoran i, nang sirang hita be.
+Sude naung ro tu Jesus i pajumpang do muse.
+-
+HataNa do tutu tabaen sinjata i,
+Na gogo pe musunta i, na talu dibaen i.
+-
+Sai pos ma roha i tung monang Jesus i.
+Porsea ma rohanta i di panghophopna i.
+-
+Dung sahat hita be tu adopanNa i,
+Apuson ni holongNa i iluilunta i.

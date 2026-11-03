@@ -1,0 +1,34 @@
+@be 173
+@bl 63
+@title Sai Mulak
+@key Eb
+@meter 4/4
+@credit William Howard Doane, 1916
+@pages 157
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 kata 7 ("siantuam") beda ejaan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 173) | https://bukuende.wordpress.com/2013/06/18/sai-mulak-buku-ende-no-173-buku-logu-no-63/ | 11/12 baris sama
+@check Tahun kredit dicetak 1916; W. H. Doane wafat 1915 — ditulis sesuai buku.
+@check Ayat 2–4 menulis ":,:" (ulang "Mulak, mulak ma ho!") sesuai buku.
+#A
+5 | 5 . 3 3 | 3 . 1 5+5 | 6 . 5 3 |
+2 . . v 2+2 | 2 . 3 4 | (3 . 5) 3+1 | 2 . 3 4 |
+(3 . 5) 0 | (6 . 6)+1' 7+6 | 5 . . 3 | 2 . 5 4+2 |
+1 . . 0 | 4 . . . | 3 . . . | 5 . 4 2 | 1 . . |]
+> Sai mu-lak, sai mu-lak Ho naung lao ja-lang i! Ai na dao ho nu-aeng, Ho-lang si-an-tu-am. o par-ja-lang, ho! Mu-lak, mu-lak ma ho! Mu-lak, mu-lak ma ho
+#V
+Sai mulak, sai mulak Ho naung lao jalang i!
+Ai na dao ho nuaeng, Holang siantuam.
+O parjalang, ho! Mulak, mulak ma ho! Mulak, mulak ma ho
+-
+Sai mulak, sai mulak, na sininta leleng!
+Sai magopu roham, ai godang do dosam.
+O parjalang ho! :,: Mulak, mulak ma ho!
+-
+Sai mulak, sai mulak, sian tano na dao!
+Sidangolon sambing do turpukmu disi.
+O parjalang ho! :,: Mulak, mulak ma ho!
+-
+Sai mulak, sai mulak, ai na sonang ma ho!
+Molo sesa dosam jala sabam roham.
+O parjalang ho! :,: Mulak, mulak ma ho!

@@ -1,0 +1,40 @@
+@be 544
+@bl 419
+@title Molo ro panjou ni Tuhan
+@key G
+@meter 2/4
+@credit G.2. No. 66; Lagu: James M. Black 1938
+@pages 515 516
+@check Ayat 2 & 3 di buku menulis "lau tusi" (ayat 1 "lao tusi"); ditulis apa adanya.
+@check Ayat 2–3 hanya mencetak 4 baris + "Molo jouon ..." (refrein sama dgn ayat 1).
+@status Lirik dicek · 12/14 baris sama dgn pembanding
+@check Pembanding lirik: baris 10 & 14 beda ejaan kata 5 ('lau' di buku, pembanding kemungkinan 'lao'). Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 544) | https://bukuende.wordpress.com/2013/06/16/molo-ro-panjou-ni-tuhan-buku-ende-no-544-buku-logu-no-419/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+1 2 | 3 3 | 3 3 | 3 2 | 1 1 | 2 1 |
+1 6, | 5, . | 1 2 | 3 3 | 3 3 | 3 3 | 2 1 |
+(2 . | 2) . | 1 2 | 3 3 | 3 3 | 3 2 | 1 1 | 2 1 |
+1 6, | 5, . | 1 2 | 3 3 | 3 1 | 2 2 | 2 7, | (1 . | 1) . |
+> Mo-lo ro pan-jou ni Tu-han, mo-lo sal-pu ting-ki on, mo-lo bin-sar bin-tang si-pa-i-as i, Ja-la sa-hat ma tu gin-jang ang-ka na ti-no-bus i, do-hot au di-baen Tu-han-ta lao tu-si.
+#B
+3 4 | (5 . | 5) 4 | 3 4 | 5 . | 3 . | 2 3 | (4 . | 4) 4 |
+2 3 | 4 . | 2 . | 3 4 | (5 . | 5) 3 | 2 1 | 1 . | 4 . | 4 4 |
+3 3 | 3 1 | 2 2 | 2 7, | (1 . | 1) . |]
+> Mo-lo jou-on ni Tu-han-ta ang-ka go-ar di pus-ta-ha, di-baen a-si ni ro-ha-na, a-lu-san-ku: O Tu-han-ku, au di-son,
+#V
+Molo ro panjou ni Tuhan, molo salpu tingki on,
+molo binsar bintang sipaias i,
+Jala sahat ma tu ginjang angka na tinobus i,
+dohot au dibaen Tuhanta lao tusi.
+Molo jouon ni Tuhanta angka goar di pustaha,
+dibaen asi ni rohana, alusanku: O Tuhanku, au dison,
+-
+Molo dapot tingki, hehe angka na tinobus i,
+Idaon nasida Tuhan Jesus i.
+Di pangkuling ni sarune lao manomu Tuhan i.
+Dohot au dibaen Tuhanta lau tusi. Molo jouon ...
+-
+Dibaen i, o, ale dongan, ringgas be ma hita on,
+Pararathon harajaonNa i tongtong.
+Ai dung salpu tingki on, na masuk be tu surgo i,
+Dohot au dibaen Tuhanta lau tusi. Molo jouon ...

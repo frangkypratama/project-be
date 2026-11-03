@@ -1,0 +1,53 @@
+@be 349
+@bl 188
+@title Hatiha na so salpu be
+@key Eb
+@meter 4/4
+@credit Lagu : Johann Schop 1642
+@pages 329 330
+@status Lirik dicek · 22/24 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan: ayat 3 baris 2 ("Tung", "ma"), ayat 4 baris 1 "dahu". Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 349) | https://bukuende.wordpress.com/2013/06/13/hatiha-na-so-salpu-be-buku-ende-no-349-buku-logu-no-188/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot.
+@check Ayat 1 disusun dari lirik di bawah not (pemenggalan baris mengikuti ayat 2).
+@check Birama 6 "4 3 2 .": ada bintik di bawah angka 2, tetapi not balok F4 (2 biasa) → ditulis 2.
+#A
+1 . 3 4 | 5 . 5 . | 6 7 1' . |
+0 1 3 4 | 5 . 5 . | 4 3 2 . | 0 3 3 1 |
+4 3 2 . | 1 . . . :|
+> Ha-ti-ha na so sal-pu be, So-bok-kon rong-gur do ta-he, sa-ri-ngar-mi di a-hu.
+> So-bok-kon po-dang na ta-jom Di-ti-ham Ho do ro-hang-kon tu di-a na-ma a-hu!
+#B
+0 5 2 3 | 4 4 3 3 |
+2 . 0 5 | 6 7 1' . | 1 . 2 2 | 1 . . . |]
+> Tung ang-ka dot-dot do au on, Di na hu-ping-kir ha-ro-roM.
+#V
+Hatiha na so salpu be, sobokkon ronggur do tahe,
+Saringarmi di ahu. Sobokkon podang na tajom
+Ditiham Ho do rohangkon tu dia nama ahu!
+Tung angka dotdot do au on, Di na hupingkir haroroM.
+-
+Ai jea di portibi on sai na marujung do tongtong
+Di ujung ni luhutna, alai na masa sogot i.
+Ndang dung marujung anggo i saleleng ni lelengna.
+Ndang be malua sian i na lao tu hamagoan i.
+-
+Mabiar do au mida ho, hatiha na naeng sogot ro,
+Tung gait ma rohaniba, mamingkir borngin na holom,
+Nang pe na bernit na tongtong, nda jut ma rohaniba?
+Ai na jumorbut sian i nda tung adong di tano i.
+-
+O Debata, pintor do Ho, parjahat i di dahu Ho
+Tu api na so mintop, hatiha pardosaon i
+Jempek do anggo uhum i ndang olo be mansohot.
+O jolma, ingot i tongtong saleleng ho di ngolumon.
+-
+Sai ngot ma ho, na modom i, di dosa hamagoanmi,
+Pauba ma rohamu, jonok do paruhuman i;
+Sai jaloonmu do disi hombar tu na binaenmu
+Aik tung beha ajalmu ro andorang so ditagam ho.
+-
+Hatiha na so salpu be, na doshon podang i hape,
+Naeng manorusi ahu hatiha so martingki i,
+Mansai gondok do rohangki, tu dia nama ahu?
+O Jesus, sai asi rohaM, pabongot au tu banuaM!

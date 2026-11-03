@@ -1,0 +1,34 @@
+@be 681
+@bl 0
+@title Ale amang asi rohaM
+@key G
+@meter 4/4
+@credit Syair: NN; Lagu: John H. Stockton, 1847
+@pages 708 709
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (kata 'di'), 4 (buku: 'sai sai puhon', pembanding tanpa 'sai' kedua), 5 ('dihasiangan'), 6 (buku: 'TonsiM', kemungkinan salah cetak 'TondiM') beda; dicek ulang ke scan hlm 708–709, ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 681) | https://bukuende.wordpress.com/2013/06/09/ale-amang-asi-roham-buku-ende-no-681-buku-logu-no-681/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu (bagian Tangiang Manopoti Dosa); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 681.
+@check Baris 4 ayat 1 tercetak "sai sai pu-hon sai sal-pu-hon" — ditulis apa adanya.
+#A
+5, | 5, .+6, 5, 1 | 3 .+3 2 1 | 5 5 3 1 |
+2 . . 3 | 5 .+5 3 1 | 1 .+1 6, 5, |
+5, 1 3 2 | 1 . . 0 | 5 .+3 (3+2) 1 |
+1 .+6, 6, 5, | 5, 1 3 1 | 2 . . 0 |
+5 .+3 (3+2) 1 | 1 .+6, 6, 5, | 5, 1 3 2 | 1 . . |]
+> A-le A-mang a-si ro-haM di au par-do-sa on, un-duk do ro-hang-kon nu-aeng mar-som-ba di jo-loM U-nang ju-jur u-nang ju-jur ang-ka do-sang-ki. sai sai pu-hon sai sal-pu-hon si-an ro-ha-Mi.
+#V
+Ale Amang asi rohaM di au pardosa on,
+unduk do rohangkon nuaeng marsomba di joloM
+Unang jujur unang jujur angka dosangki.
+sai sai puhon sai salpuhon sian rohaMi.
+-
+Amang sai pargogoi ma au dihasiangan on,
+TonsiM pasaor tu tondingkon pamalum rohangkon.
+Sai usehon, sai usehon TondiMi tu au,
+asa monang maralohon parungkilon au.
+-
+Mauliate ma di Ho O Tuhan Debata,
+sai jalo ma au on muse tu surgo banuaM.
+Asa sonang asa sonang raphon Ho disi,
+pujionku ma goarMu salelengna i.

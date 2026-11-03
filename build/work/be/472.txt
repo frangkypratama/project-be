@@ -1,0 +1,32 @@
+@be 472
+@bl 408
+@title Sai malungun do.
+@key Eb
+@meter 4/4
+@credit U.L. No. 282 · Lagu: Magdalene Fritzche 1863
+@pages 450
+@check Tanda mula di scan hanya jelas terlihat dua mol, tetapi letak not di paranada (3 = G4, 1 = Es4, 4 = As4) cocok dengan do = Es → ditulis Es mayor. Perlu dicek.
+@check Birama 4 "2 . 2̿ 3 ." tercetak garis atas ganda pada 2 kedua; paranada = 1/4 bertitik + 1/8 + 1/2 → ditulis "2 .+2 3 .".
+@check Kredit tercetak "Magdalene Fritzche 1863"; ditulis sesuai buku.
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di ayat 1 baris 1–2 ("rohangku", "topot") dan ayat 4 baris 2 ("bagabaga"); scan hlm 450 sesuai buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 472) | https://bukuende.wordpress.com/2013/06/18/sai-malungun-do-buku-ende-no-472-buku-logu-no-408/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 .+2 1 1 | 4 .+3 2 2 | 3 5 4 3 | 2 .+2 3 . |
+5 (6+7) 1' 5 | 6 (5+4) 3 2 | 3 5 (5+4) 3 | 2 2 1 . |]
+> Sai ma-lu-ngun do ro-hang-ku di Ho, a-le Je-sus-ki Ho-lan Ho ha-po-ru-san-ku, to-pot ba-le-ba-leng-ki
+#V
+Sai malungun do rohangku di Ho, ale Jesuski
+Holan Ho haporusanku, topot balebalengki
+-
+Sagusagu hangoluan dipangido rohangki,
+Ai na pogos au, o Tuhan, loja au didalanki.
+-
+Ndang adong siboanonku.' ndang marisi tanganki,
+Lehon ngolu sian ginjang lao pasabam tondingki.
+-
+Pos rohangku, ale Tuhan, ndang pasidingonMu au.
+PasautonMu bagabaga naung nilehonMi di au.
+-
+Asi ni rohaM, o Tuhan, sai manggohi diringkon.
+Asa malum, asa sonang huhilala rohangkon.

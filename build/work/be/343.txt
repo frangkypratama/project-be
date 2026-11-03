@@ -1,0 +1,69 @@
+@be 343
+@bl 198
+@title Jerusalem, ho huta na timbo
+@key Eb
+@meter 4/4
+@credit Lagu : Melchior Franck 1663
+@pages 322 323
+@status Lirik dicek · 32/36 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan: "marlas", "nampunasai" (ayat 2), "naso" (ayat 4), "Na jolo" (ayat 6); "marlas" dan "nampunasai" dicek ulang ke scan: tercetak demikian. Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 343) | https://bukuende.wordpress.com/2013/06/16/jerusalem-ho-huta-na-timbo-buku-ende-no-343-buku-logu-no-198/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot.
+@check Baris pertama memakai ulangan dengan volta (akhir 1 "5 . . ." lalu ulang, akhir 2 "5 . . ' 6"); di sini ditulis dua kali berurutan (bagian A dan B).
+@check Birama "2 . ' 1": titik oktaf di atas 1 tidak terlihat jelas, not balok Es5 → ditulis 1'. "4*" bertanda pugar di not balok (A) → #4.
+@check Ayat 1 disusun dari lirik di bawah not; "ginjang" tercetak tanpa tanda pemenggalan (ditulis gin-jang).
+#A
+1' . 5 3 | 1 . v 0 3 | 4 5 6 6 |
+5 . 0 6 | 5 2 3 #4 | 5 . . . |
+> Je-ru-sa-lem, ho, hu-ta na tim-bo, ang-gi-at au di ho!
+#B
+1' . 5 3 | 1 . v 0 3 | 4 5 6 6 |
+5 . 0 6 | 5 2 3 #4 | 5 . . v 6 |
+6 .+7 1' 6 | 5 . 3 v 5 | 6 5 4 3 | 2 . v 1' . |
+6 5 4 3 | (2 3+4) 5 v 3 | 4 3 2 2 | 1 . . . |]
+> Ma-si-hol au, hu-hut ma-lu-ngun do sai naeng ma-no-pot ho. Dao si-an laut nang ta-no, dao si-an om-bun i, tu gin-jang ni su-de-na do bor-hat ro-hang-ki.
+#V
+Jerusalem, ho, huta na timbo, anggiat au di ho!
+Masihol au, huhut malungun do sai naeng manopot ho.
+Dao sian laut nang tano, dao sian ombun i,
+Tu ginjang ni sudena do borhat rohangki.
+-
+O ari na tumiur situtu, andigan tingkimi?
+Asa disi marlas ni roha au pasahat tondingki
+Tu tangan ni Debata, tu nampunasai,
+Asa tongtong martua di sambulona i.
+-
+Satongkin ma asa tondingkinon mareak langit i;
+Molo manaek, tumading na dison, tiur langkana i.
+Ai surusuruanNa disuru Jesus i,
+Mangabing di tanganNa na tinobusNa i.
+-
+Jerusalem, malungun au di ho, sai ungkap bahalmi!
+Mansai leleng masihol au di ho, tagan so borhat i
+Dope au sian ngolu, na mansai dangol i,
+Tagan naso hujalo dope tineanki.
+-
+Ai ise do sude, na ro disan, torop, marsangap be ?
+I ma antong, na monang i hian, na sian tano i.
+Naung sonang do nasida, huhut marsanggul be,
+Andorang dao huida na naeng di au muse.
+-
+Kristen torop, nang panurirang pe, nang angka ompu i,
+Na jolo i do pinorsanna be hau pinarsilang i.
+Nuaeng di haluaon marhasangapon be.
+Nuaeng di hatiuron huida sasude.
+-
+Dung i muse, dung sahat au tutu, bongot tu huta i,
+Debatangki ro di Jesusku pe huida do disi.
+Disi pe timbul tua, gok las ni rohangki,
+Marende Haleluya di na badia i.
+-
+Tole sude, na rap marende do, luhut di surgo i,
+Hasapi pe ro di sarune i dipalu do disi,
+Mamuji Debatanta, nang Tuhan Jesus i,
+Nang Tondi Parbadia, mambaen sangapNa i.
+-
+Ho ma tutu dituju rohangki, o huta na timbo;
+Naung mahap do au on di tano i, naeng sahat au tu ho.
+Na naeng tadingkononku na olo mago i,
+Asa pareahonku parsambuloanki.

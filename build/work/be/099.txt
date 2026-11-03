@@ -1,0 +1,52 @@
+@be 99
+@bl 206
+@title O Tondi parbadia i, bongoti.
+@key Eb
+@meter 4/4
+@credit Philipp Nicolai, 1599
+@pages 88 89
+@status Lirik dicek · 19/24 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 3, 5 (kata ke-3 "mamiburju" berbeda), 7, 9, 21; scan ayat 2–5 buram — perlu dicek manusia.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 99) | https://bukuende.wordpress.com/2013/06/16/o-ulubalang-na-gogo-buku-ende-no-99-buku-logu-no-206/ | 19/24 baris sama
+@check Sesudah tanda ulang ada birama berisi satu "0" (tanda diam ¼ di paranada) sebelum bagian B → ditulis sebagai ketukan gantung "0 |".
+@check Scan ayat 2–5 (hlm 89) sangat buram/berbintik; beberapa kata dibaca dengan ragu (mis. ayat 5 baris 3 "Mardame manang sonang").
+@check Judul "O Tondi parbadia i, bongoti.", baris pertama lirik "O ulubalang na gogo".
+#A
+1 | 5 3 1 5 | 6 6 5 v 5 | 6 7 1' 7 |
+6 6 5 v 3 | 6 5 4 3 | 2 . 1 :|
+> O u-lu-ba-lang na go-go, son-gon sa-da-ri on do Ho ma-naek tu ha-sa-nga-pon!
+> Naung si-dung do u-la-on-Mi; na ring-kot pa-tu-pa-on-Mi, hu-mop-hop ha-jol-ma-on.
+#B
+0 |
+5 . 3 . v | 5 . 3 . v | 4 3 2 3 | 4 3 2 3 |
+4 3 2 . | 1 . v 1' 7 | 6 5 4 3 | 2 . 1 . |]
+> Sa-bam, to-ngan do Ho mu-li tu na u-li mar-ha-bang-sa di-si-a-mun ni Ja-ho-wa.
+#V
+O ulubalang na gogo, songon sadari on do Ho manaek tu hasangapon!
+Naung sidung do ulaonMi; na ringkot patupaonMi, humophop hajolmaon.
+Sabam, tongan do Ho muli tu na uli
+Marhabangsa disiamun ni Jahowa.
+-
+Marloksaloksa Serapim, mamiburju Kerubim
+Mamuji Ho na monang dibaen naung pinadomuMi
+Saluhut manusia i tu Debata di ginjang.
+Puji, Puji. Jesus Kristus naung patulus saluhutna
+Timonahon ni AmaNa.
+-
+O Jesus, Ho do ulu ni luhutna na porsea i;
+Ruasmu anggo hami, Ho hangoluannami on,
+Ho hasonangannami on, Ho hagogoonnami!
+Suru, togu, rohanami asa hami mangalehon
+Tu Ho nasa hasangapon.
+-
+Sai taiti rohanami on, urupi hami on tongtong
+Mangalo dosanami, paias rohanami be,
+Parangenami baen ture, nang pangkataionnami.
+Tompa roha, na imbaru, asa haru monang hami
+Maralohon dosanami.
+-
+Pabulus langkanami be, patigor dalannami pe,
+Lao tu banuaginjang. O Jesus, tatap hami on,
+Na so tarbaen di tano on, Mardame manang sonang
+Sonang, monang, di lambungMu bahenonMu hami sogot,
+Dung tu surgo hami bongot.

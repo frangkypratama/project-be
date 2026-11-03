@@ -1,0 +1,38 @@
+@be 197
+@bl 8
+@title Na marmahani hita
+@key Db
+@meter 4/4
+@credit Christian Barth 1862
+@pages 179
+@check Nada dasar dari balok: 5 = As4, jadi 1 = Des (tanda mula dibaca 5 mol). "4*" = #4 (balok G natural).
+@check Ayat 2–7 memakai ":,:" (frasa akhir diulang) seperti dicetak; ayat 1 ditulis lengkap sesuai lirik di bawah not.
+@status Lirik dicek · 14/14 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama (tanda :,: dan ulangan frasa diabaikan).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 197) | https://bukuende.wordpress.com/2013/06/16/na-marmahani-hita-buku-ende-no-197-buku-logu-no-8/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+5 | 5 .+1' 3 4 | (5 .+6) 5 v 1' |
+7 .+5 2 #4 | 5 . 0 5 | 5 .+4 (3+2) (1+2) | (3 4+5) 6 v 6 |
+5 .+3 5 (6+7) | 1' . . 1' | (2'+1') (7+6) 5 (4+2) | 1 . 0 |]
+> Na mar-ma-ha-ni hi-ta, par-ho-long ro-ha i, i ma Tu-han-ta Je-sus, si-le-hon tu-a i, si-le-hon tu-a i.
+#V
+Na marmahani hita, parholong roha i,
+I ma Tuhanta Jesus, silehon tua i, silehon tua i.
+-
+Ditatap pardangolan ni manisia i;
+Soada hasonangan :,: Na lilu do sude.
+-
+Alai ro ma Ibana tu hasiangan on,
+Manobus huriaNa, :,: Humophop hita on.
+-
+DiriNa dipasahat tu hamatean i
+Ibana gabe singkat :,: Ni manisia i.
+-
+Dibahen i, o jolma, naung sae do dosami,
+Ai molo ho porsea, :,: Taruli ho disi.
+-
+Antong, hamu na loja binaen ni dosa i,
+Sai ro hamu sudena :,: Tu Tuhan Jesus i.
+-
+Sai naeng pasonangonNa hamuna sasude,
+Sai naeng togihononNa :,: Hamu tu surgo i.

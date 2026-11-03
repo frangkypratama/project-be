@@ -1,0 +1,39 @@
+@be 382
+@bl 255
+@title Sangga ro di harorona.
+@key Eb
+@meter 4/4
+@credit George Frederick Root 1895
+@pages 366 367
+@check Kepala lagu juga mencetak "R.L. No. 183". Ayat 3–4 dan nama komponis ada di atas hlm 367.
+@check "4*" baris 2 = 4 kres (paranada: A pugar). Birama "1 . . 0" = not 1/2 bertitik + istirahat 1/4.
+@check Lirik di bawah not "Tangi" tidak dipenggal; dipakai "Ta-ngi" (2 not).
+@status Lirik dicek · 11/16 baris sama dgn pembanding
+@check Pembanding lirik: beda L1–L4 (ayat 1, mis. pembanding "Sangga do harorona"; buku jelas "Sangga ro di harorona" dan "Tuhan-mu, so-a-ra-na" di bawah not) dan L11; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 382) | https://bukuende.wordpress.com/2013/06/18/sangga-do-harorona-buku-ende-no-382-buku-logu-no-255/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 .+3 3 3 | 3 3 4 3 | 2 .+2 3 2 | 1 . . 0 |
+3 .+3 3 3 | 3 3 4 3 | 2 .+2 3 #4 | 5 . . 0 |
+4 .+4 4 4 | 4 3 3 2 | 6 5 4 3 | 2 . . 0 |
+3 .+3 3 3 | 3 3 4 3 | 2 .+2 3 2 | 1 . . 0 |]
+> Sang-ga ro di ha-ro-ro na. Ta-ngi, a-ha do? Sai tong-tong do ma-nuk-tu-hi! Ndang di-be-ge ho? U-nang dok i ta-rok-tok-mu ma-nang pu-su-mi. Je-sus Kris-tus i, Tu-han-mu, so-a-ra-na i!
+#V
+Sangga ro di harorona. Tangi, aha do?
+Sai tongtong do manuktuhi! Ndang dibege ho?
+Unang dok i taroktokmu manang pusumi.
+Jesus Kristus i, Tuhanmu, soarana i!
+-
+Tung godang dipasingothon do tu rohami,
+Dohot do naung leleng salpu angka dosami.
+Tole angka hahurangan, halembaon pe.
+Ro di nasa pardosaon digoari be.
+-
+Jotjot so tinagamtagam hamatean ro,
+Ai so pola ro manungkun, pintor masuk do.
+Jesus sai maimaima mangapoi ho.
+So tung salpu jo langkana, gabe mago ho.
+-
+So tung salpu jolo tingki parasian i,
+Jongjong ho di lambung pintu manuktuk i.
+Ndang tarungkap pintu i be, naung disordak do.
+DohonoNa mangalusi: "Ndang hutanda ho".

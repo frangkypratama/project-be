@@ -1,0 +1,39 @@
+@be 413
+@bl 275
+@title Hutanda haporusanki
+@key Eb
+@meter 6/8
+@credit (tidak dicantumkan di buku)
+@pages 396 397
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Kepala lagu juga mencetak "T.B. No. 95."
+@check Birama 6/8: 1 token = 1 not 1/8. Bagian B = refrein "Parsilangmi, ..." (ayat 2–4 menyingkatnya).
+@check Pembanding lirik: bukuende.wordpress.com — 8/10 baris sama; beda pemisahan kata "niasiani" dan ejaan "pardengganan"; scan dicek, mengikuti buku. Pembanding 4 ayat.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 413) | https://bukuende.wordpress.com/2013/06/13/hutanda-haporusanki-buku-ende-no-413-buku-logu-no-275/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 1 . 3 5 . 5 | (6 7) 1' 5 . 5 | 6 . 5 5 . 3 |
+(1 2) 3 2 . 1 | 1 . 3 5 . 5 | (6 7) 1' 5 . 5 |
+6 . 5 5 . 1 | 3 . 2 1 . |]
+> Hu-tan-da ha-po-ru-san-ki, na so-nang i ma si-lang i. Mar-en-de-en-de au di-si, ai au na ni-a-si-an-i.
+#B
+1' | 1' . 7 (2 3) 4 |
+6 . 5 5 . 1' | 7 . 7 (1' 7) 6 | (5 . . 5 .) 1' | 1' . 7 (2 3) 4 |
+6 . 5 5 . 1' | (7 6) 5 (4 3) 2 | (1 . . 1 .) |]
+> Par-si-lang-mi, o Tu-han-ki, do ha-po-ru-san-ki. Par-si-lang-mi, o Tu-han-ki, tung so-nang au di-si.
+#V
+Hutanda haporusanki, na sonang i ma silang i.
+Marendeende au disi, ai au na niasiani.
+Parsilangmi, o Tuhanki, do haporusanki.
+Parsilangmi, o Tuhanki, tung sonang au disi.
+-
+Marlas ni roha ma disi do ganup na porsea i
+Di pardengganan naung sun i, di hau na pinarsilang i.
+Parsilangmi,...
+-
+Mardame na marmusu i, di hau na pinarsilang i.
+Na talu do sibolis i uju na mate Kristus i.
+Parsilangmi,...
+-
+Nang parungkilon bolon ro, manggaori au naung sonang do,
+Boi monang jala sonang au marningot na mangkophop au.
+Parsilangmi,...

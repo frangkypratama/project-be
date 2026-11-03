@@ -1,0 +1,39 @@
+@be 306
+@bl 112
+@title Hupuji Ho, ale Tuhanku
+@key F
+@meter 4/4
+@credit Johannes Zahn 1852
+@pages 284 285
+@status Lirik dicek · 11/15 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di baris 2, 8, 10, 15. Buku tetap acuan. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 306) | https://bukuende.wordpress.com/2013/06/13/hupuji-ho-ale-tuhanku-buku-ende-no-306-buku-logu-no-112/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Not "4*" = Bes dengan tanda pugar → #4 (B).
+@check Birama "3̄.4̄ 5 6" (legato 3–5) ditulis (3 .+4 5) 6; "5 4̄3̄ 2." legato 5–3 ditulis (5 4+3) 2 . sesuai busur di balok.
+#A
+5, . | 1 . 2 . | 3 5 4 3 | 2 . 1 . | 0 0 2 . |
+2 . 3 . | 2 7, 1 7, | 6, . 5, . | 0 0 5, . | 1 2 3 6 |
+5 . #4 . | 5 . . . | 0 0 5 . | 1 . 2 . | 3 5 4 3 |
+2 . 1 . | 0 0 2 . | 2 . 3 . | 2 7, 1 7, | 6, . 5, . |
+0 0 5, . | 1 . 2 . | (3 .+4 5) 6 | (5 4+3) 2 . | 1 . . . |]
+> Hu-pu-ji Ho, a-le Tu-han-ku, ai born-gin i do di-pa-sal-pu Ho, a-sa tung-ti-ur mu-se por-ti-bi on, naung ni-ling-go-man ni ha-ra-ja-on ha-ho-lo-man; To-rang di-ba-hen Ho su-de.
+#V
+Hupuji Ho, ale Tuhanku, ai borngin i do dipasalpu
+Ho, asa tungtiur muse portibi on, naung nilinggoman
+ni harajaon haholoman; Torang dibahen Ho sude.
+-
+Sai hehe ho, ale tondingku, pelehon ma tu Debatamu
+mauliate ni roham! Tandai ma denggan ni basaNa,
+Na ganup sogot tinongosNa, girgir ma puji Debatam.
+-
+On do sinangkap ni rohangku, Tiur dibahen Debatangku
+Na dibagasan rohangki, siman tu langit ma rohangku,
+Jesusku, mata ni aringku baen sangap di Debatangki,
+-
+Anggiat bali,ale Tuhan, sude pambaenan haholoman
+Sian rohangku dibaen Ho huhut imbaru pingkiranku
+Dihorhon, Jesus, panondangmu, papintor langkangki tu Ho.
+-
+I ma nuaeng pangidoanku: Sai lehon i di au, Amangku,
+Sai dok ma: Amen, saut ma i, antong, dung gok ariaringku,
+Panondang! Ho ma topotonku; sonang ma au dilambungMi.

@@ -1,0 +1,41 @@
+@be 466
+@bl 314
+@title Nunga ro au
+@key Eb
+@meter 4/4
+@credit Lagu: Winfield S. Weeden 1896
+@pages 445
+@check Birama 6 ("i,"): angka "4.0" dan paranada (not 1/2 + tanda istirahat 1/4) hanya 3 ketuk dalam birama 4/4; ditambah satu ketuk istirahat ("4 . 0 0") agar birama penuh. Perlu dicek.
+@check Pembanding melodi: Hymnary.org tune SURRENDER (W. S. Weeden 1896), incipit 33432 23211 43231. Kontur 15 not pertama buku (5 5 6 5 4 4 5 4 3 3 6 5 4 5 3) sama persis tetapi bergeser satu terts (buku mulai dari 5, Hymnary dari 3); angka dan paranada buku sama-sama mulai dari Bes (= 5 di Es mayor). Tidak disimpulkan "cocok"; perlu dicek.
+@status Lirik dicek · 12/14 baris sama dgn pembanding
+@check Pembanding lirik: beda di ayat 1 baris 1 ("pinor silangMi" ditulis terpisah di buku) dan ayat 6 baris 1 ("hahoholong"); scan hlm 445 sesuai buku. Buku tetap acuan.
+@ref Melodi pembanding: Hymnary.org SURRENDER | https://hymnary.org/tune/surrender_weeden | incipit 33432 23211 43231 (kontur sama, bergeser satu terts)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 466) | https://bukuende.wordpress.com/2013/06/16/nunga-ro-au-buku-ende-no-466-buku-logu-no-314/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 .+5 6 5 | 4 .+4 5 4 | 3 .+3 6 5 | 4 5 3 . :|
+> Nun-ga ro au. O Tu-han-ku tu hau pi-nor si-lang-Mi.
+> Hu pe-le-hon ma di-ring-ku u-pa ha-lo-ja-on-Mi.
+#B
+1' .+7 6 5 | 4 . 0 0 | 7 .+6 5 4 | 3 . . 0 |
+3 .+4 6 5 | 1' .+7 7 6 | 5 .+4 3 2 | 1 . . 0 |]
+> Ha-tu-a-on, i, las ni ro-hang-ki Ai hi-bul do hu-pe-le-hon na-sa di-ring-ki.
+#V
+Nunga ro au. O Tuhanku tu hau pinor silangMi.
+Hu pelehon ma diringku upa halojaonMi.
+Hatuaon, i, las ni rohangki
+Ai hibul do hupelehon nasa diringki.
+-
+Ndang adong naeng tioponku, saluhut tu tanganMi.
+Maradian do tondingku dibagasan lomoMi. Hatuaon i....
+-
+Sai sahaphon tu tondingku Tondi Parbadia i.
+JoroMi ma baen rohangku, sai ingani diringki. Hatuaon i....
+-
+Sai gok Tondi ma rohangku, mate roha diri i.
+Angka arta sian tano, ndang tusi be rohangki. Hatuaon i....
+-
+Nang gale dope rohangku, marsahala gogoMi.
+HolongMi mangiringiring ganup langkalangkangki. Hatuon i....
+-
+Tung bagas do hahoholong ni rohaM, o Tuhanki,
+Holan Ho huhaholongi, Ho nampuna diringki, Hatuon i....

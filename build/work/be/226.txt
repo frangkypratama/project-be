@@ -1,0 +1,31 @@
+@be 226
+@bl 247
+@title Adong do hasonangan
+@key Eb
+@meter 4/4
+@credit Frieda von Bethmann Hollweg, 1926
+@pages 206 207
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: L2 kata 3 ("homaporus") dan L7 kata 5 ("di paima") beda penulisan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 226) | https://bukuende.wordpress.com/2013/06/05/adong-do-hasonangan-buku-ende-no-226-logu-no-247/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 3 .+3 4 7, | 2 . 1 v 3 | 2 .+2 (2+3) (4+5) |
+3 . . 5, | 3 .+3 4 7, | 2 . 1 v 3 | 2 .+5 #4 6 |
+5 . . v 5 | 6 .+2 2 3 | (5 .+4) 4 v 4 | 3 .+3 5 (4+3) |
+2 . . 5 | 1' .+1' 7 7 | 6 . 5 v 4 | 3 3 4 .+2 | 1 . . |]
+> A-dong do ha-so-na-ngan Di ho par-ja-lang i Ha-top-ma ho-ma-po-rus Tu Tu-han Je-sus i. O, jang-kon ma I-ba-na, a-sa da-po-tan ho, A-dong do ha-so-na-ngan. An-tong sai ro ma ho.
+#V
+Adong do hasonangan Di ho parjalang i
+Hatop ma homaporus Tu Tuhan Jesus i.
+O, jangkon ma Ibana, asa dapotan ho,
+Adong do hasonangan. Antong sai ro ma ho.
+-
+Adong paradianan di ho na loja i,
+Di Tuhan Jesus Kristus, pardenggan basa i.
+Pareak ma Ibana, ai di paima ho.
+Adong paradianan, antong, sai ro ma ho.
+-
+Sai parhaseang tingki, halehetanna i.
+So tung ho maon mago binaen ni dosami
+Unang sai marhusari, unang tarlalap ho.
+Adong do hasonangan, antong sai ro ma ho.

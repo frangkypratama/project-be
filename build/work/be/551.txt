@@ -1,0 +1,23 @@
+@be 551
+@bl 414
+@title Itapuji ma Tuhanta
+@key Bb
+@oct -1
+@meter 4/4
+@credit Sitolu logu (kanon 3 suara; nama komponis tidak dicantumkan di buku)
+@pages 522
+@check Ende kanon: angka kecil 1–3 di atas not = tempat masuk suara 1–3; situs memutar satu suara saja (melodi utuh berurutan).
+@check Baris 2 (masuk suara 2) dicetak tanpa titik oktaf atas, tetapi balok menunjukkan D5–F5 (oktaf atas) → ditulis 3' 5' dst. sesuai balok; baris 3 memakai titik atas di angka dan cocok dgn balok.
+@check Tanda fermata (penutup kanon) di atas "1" birama 4 dan di beberapa tempat lain tidak ditulis di format ini.
+@status Lirik dicek · 2/2 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 551) | https://bukuende.wordpress.com/2013/06/16/itapuji-ma-tuhanta-buku-ende-no-551-buku-logu-no-414/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+1 . 2 . | 5 . 1 . | 5 . (6 4) | 5 . 1 . |
+3' 3'+3' (5'+4') 4' | 2' .+2' (4'+3') 3' | 1' 1'+3' (2'+1') 1' |
+7 7+2' 1' 0 | 1' 1'+1' (3'+2') 2' | 7 .+7 (2'+1') 1' |
+3 3+3 (2+4) 6 | 5 5+4 3 . |]
+> I-ta-pu-ji ma Tu-han-ta, ai di-pa-lu-a hi-ta jol-ma, ta-ma ta-pu-ji go-ar-Na i, Ai di-pa-lu-a hi-ta jol-ma ta-ma ta pu-ji go-ar-Na i,
+#V
+Itapuji ma Tuhanta, ai dipalua hita jolma, tama tapuji goarNa i,
+Ai dipalua hita jolma tama ta puji goarNa i,

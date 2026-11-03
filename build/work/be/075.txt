@@ -1,0 +1,43 @@
+@be 75
+@bl 206
+@title Naung binsar do panondang i
+@key Eb
+@meter 4/4
+@credit Philipp Nicolai, 1599
+@pages 66
+@status Lirik dicek · 15/18 baris sama dgn pembanding
+@check Judul di buku "Logu No. 206 : O Tondi parbadia i, bongoti" (nama lagu); judul di sini diambil dari baris pertama lirik.
+@check Akhir bagian pertama ada birama "0" (istirahat) sesudah tanda ulang; di sini dipakai sebagai ketukan awal bagian kedua.
+@check Pembanding lirik: bukuende.wordpress.com — 15 dari 18 baris sama persis; 3 baris beda ("panondang", "na lea, na porsea" — di situs tanpa "na" kedua, "loas/hinophopMu"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 75) | https://bukuende.wordpress.com/2013/06/16/naung-binsar-do-panondang-i-buku-ende-no-75-buku-logu-no-206/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 5 3 1 5 | 6 6 5 v 5 | 6 7 1' 7 |
+6 6 5 v 3 | 6 5 4 3 | 2 . 1 :|
+> Naung bin-sar do pa-non-dang i, na ma-nga-ta-si sa-su-de, na o-lo mar-si-non-dang.
+> Son-da-ngan ni do sa-su-de, na di na ho-lom i do-pe ma-lu-ngun di na to-rang.
+#B
+0 | 5 . 3 . v | 5 . 3 . v | 4 3 2 3 | 4 3 2 3 |
+4 3 2 . | 1 . v 1' 7 | 6 5 4 3 | 2 . 1 |]
+> Je-sus, tu-lus ma sang-kap-Mu: Son-da-ngan-Mu na-sa jol-ma, a-sa un-duk di De-ba-ta.
+#V
+Naung binsar do panondang i, na mangatasi sasude, na olo marsinondang.
+Sondangan ni do sasude, na di na holom i dope malungun di na torang.
+Jesus, tulus ma sangkapMu: SondanganMu nasa jolma, asa unduk di Debata.
+-
+Ho do mangapul rohangkon, o Raja ni portibi on,
+Saleleng au mangolu sai Ho ma parjambaranki,
+Ndang olo au lohotan ni sude na olo salpu.
+Tu Ho ro do au na lea, na porsea di hataMu,
+Mangidohon panumpakMu.
+-
+Tung ise pasonangkon au? Manang tu dia pe au lao,
+Sasada Ho huboto pangkilalahon holong ni
+RohaM di au na bojok i, na pogos jala oto.
+Unang loas au be lilu, hinophopMu do tondingku.
+Ingkon Ho do tioponku.
+-
+Las do rohangku mida Ho, o Jesus Kristus na dung ro,
+Mamboan hangoluan! Naeng pujionku Ho tongtong
+Saleleng au di tano on, nang di banua ginjang.
+Sangap, sangap, di goarMu, Ho Rajangku; huendehon
+HamuliaonMu, Tuhan.

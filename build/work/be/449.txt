@@ -1,0 +1,33 @@
+@be 449
+@bl 300
+@title Sai solhot tu silangMi
+@key F
+@meter 6/8
+@credit William Howard Doane 1915
+@pages 430 431
+@check Birama 6/8: 1 token = 1 not 1/8 (6 token per birama).
+@check Kepala lagu juga mencantumkan "F.H. No. 72".
+@check Angka tidak genap 6/8 di beberapa birama; ditulis mengikuti not balok: baris 1–2 "5 1 1 . 3/7" (5 tanpa titik tahan; balok 1/4) → 5, . 1 1 . 3; baris 2 akhir "2 . 1 0" → 2 . . 1 . 0; baris 3 akhir "3 . 2 0" → 3 . . 2 . 0 (pola sama dgn baris 1); baris 4 "1.6.6.0" → 1 . 6, 6, . 0; akhir "2 . . : . 0" → 2 . . 1 . 0 (balok: G 1/4 bertitik, F 1/4).
+@status Lirik dicek · 9/10 baris sama dgn pembanding
+@check Pembanding lirik: L6 kata 6 (tolak) beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 449) | https://bukuende.wordpress.com/2013/06/18/sai-solhot-tu-silangmi-buku-ende-no-449-buku-logu-no-300/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . 4 3 . 2 | 1 . 6, 6, . 0 | 5, . 1 1 . 3 | 3 . . 2 . 0 |
+3 . 4 3 . 2 | 1 . 6, 6, . 0 | 5, . 1 1 . 7, | 2 . . 1 . 0 |
+3 . 5 5 . . | 4 . 6 6 . . | 5 . 6 5 . 3 | 3 . . 2 . 0 |
+3 . 4 3 . 2 | 1 . 6, 6, . 0 | 5, . 1 1 . 7, | 2 . . 1 . 0 |]
+> Sai sol-hot tu si-lang-Mi, Je-sus i-nga-nan-ku mu-al na ma-baor di-si, i ma i-nu-mon-ku si-lang-Mi, Tu-han-ki i ma pu-ji-on-ku, pai-ma so-got sa-hat au, i en-de-ho-non-ku,
+#V
+Sai solhot tu silangMi, Jesus ingananku
+Mual na mabaor disi, i ma inumonku
+SilangMi, Tuhanki i ma pujionku,
+Paima sogot sahat au, i endehononku,
+-
+Lao ma au tu silangMi, i haporusanku.
+Sai asi ma rohaMi unang tolak ahu, SilangMi....
+-
+Domu ma tu silangMi, i ma tioponku,
+Asa unang lilu au, Ho ihuthononku, SilangMi.....
+-
+Laos maniop silangMi sai paimaonku
+GokkonMi tu surgo i, tu siteanonku, SilangMi.....

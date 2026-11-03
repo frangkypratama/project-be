@@ -1,0 +1,33 @@
+@be 205
+@bl 90
+@title Na dison do au, Tuhanku
+@key Eb
+@meter 4/4
+@credit J.A. Melchior, 1853
+@pages 186 187
+@status Lirik dicek · 8/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 8 dari 9 baris sama; baris 1 "Tuhanami" (pembanding: "Tuhannami"). Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 205) | https://bukuende.wordpress.com/2013/06/09/ale-jesus-tuhannami-buku-ende-no-205-buku-logu-no-90/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Judul di kepala lagu ("Na dison do au, Tuhanku") berbeda dengan baris pertama lirik ("Ale Jesus tuhanami"); judul itu adalah baris pertama BE 206 yang memakai lagu sama.
+@check Bagian A baris 2: buku memberi garis birama di antara "3 2" dan "1 ." (dua birama 2 ketuk); dibaca satu birama 4 ketuk.
+#A
+5 (4+3) 2 1 | 6 (5+4) 3 2 v |
+2 2 5 4 | 3 2 1 . :|
+> A-le Je-sus tu-ha-na-mi, Be-reng ha-mi na di-son!
+> Pi-nar-ma-han-Mi do ha-mi, Sa-lu-hut-na na di-son.
+#B
+3 5 4 3 |
+2 4 3 2 v | 5 3 6 4 | 3 2 1 . |]
+> Sai a-si ro-haM di ha-mi, sai pa-ngo-lu ha-mi on.
+#V
+Ale Jesus tuhanami, Bereng hami na dison!
+PinarmahanMi do hami, Saluhutna na dison.
+Sai asi rohaM di hami, sai pangolu hami on.
+-
+Ale Jesus, togu hami asa unang mago be
+Manang ise sian hami, sai porsea ma sude
+Sai na hot di Ho ma hami, dao ma jea sasude.
+-
+Disangkapi rohanami, naeng malua situtu
+Sian pardosaonnami. Asa sai tongtong burju.
+Sai urupi rohanami asa ias situtu.

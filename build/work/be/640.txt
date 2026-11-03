@@ -1,0 +1,42 @@
+@be 640
+@bl 0
+@title Haholongon sian ginjang
+@key A
+@meter 4/4
+@credit Syair: Love divine all love excelling; Charles Wesley, 1707, 1788 · Terj.: Pdt. J.A.u. Doloksaribu/Pdt. M.V. Simanjuntak · Lagu: John Zendel, 1870
+@pages 654 655
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Kol. 3:14.
+@check Kredit ditulis seperti tercetak ("John Zendel"; lazimnya John Zundel, melodi BEECHER).
+@check Ayat 3 baris 2 tercetak "joroMi656" — angka 656 adalah nomor halaman yang terselip; tidak ditulis.
+@check Baris 4: angka "5" dicoret = kres (#5, = E♯4, balok mencetak ♯).
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 1 'Haholongon' (pembanding: Haholongan) beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 640) | https://bukuende.wordpress.com/2013/06/13/haholongan-sian-ginjang-buku-ende-no-640-buku-logu-no-640/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, 5, 6, 5, | 3 (2+3) 2 1 | 7, 6, 1 6, | 5, (4,+5,) 3, . |
+5, 5, 6, 5, | 3 (2+3) 2 1 | 6, 4 3 1 |
+7, (6,+7,) 1 . | 1 1 1 7, |
+6, (7,+6,) #5, 3, | 3 3 4 3 |
+2 (2+3) 2 . | 5, 5, 6, 5, |
+3 (2+3) 2 1 | 6, 4 3 1 | 7, (6,+7,) 1 . |]
+> Ha-ho-lo-ngon si-an gin-jang las ni ro-ha na hot i tum-pal ni a-si ni ro-ha sai bo-ngo-ti ro-hang-ki, Je-sus na gok a-si ro-ha do-hot ha-ho-lo-ngon i baen ma-lu-a baen mar-tu-a ha-mi na-ta-hu-tan i.
+#V
+Haholongon sian ginjang las ni roha na hot i
+tumpal ni asi ni roha sai bongoti rohangki,
+Jesus na gok asi roha dohot haholongon i
+baen malua baen martua hami natahutan i.
+-
+Lehon tondi haholongon tu parroha na bojok
+baga-baga hadameon, sahat baen tu hami on
+Jesus Alpha nang Omega bona ni haporseaon
+sai padao ma angka dosa, sai palua hami on.
+-
+Sipalua na sun gogo lehon tu au ngoluMi
+ro ma Ho sai marsihohot mangingani joroMi
+asa Ho husomba hami raphon pardisurgo i
+rap mamuji mangoloi, Ho di hasangaponMi.
+-
+Sai pasingkop tinompaMu, lam pita baen hami on
+haluaon na sumurung lehon ma tu hami on
+boan hami tu na uli di banua ginjang i
+paima Ho pujiannami salelenglelengna i.

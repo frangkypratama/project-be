@@ -1,0 +1,39 @@
+@be 467
+@bl 315
+@title Asi ni rohaM hupuji.
+@key A
+@meter 3/4
+@credit Jug. L. No. 143 · Lagu: A. Rose
+@pages 445 446
+@check Titik di "3 . 1" dan "6 . 6" hanya pemisah (paranada: dua not 1/4).
+@check Birama "2 . 5̄ 1̄" (au. Di pa-, hlm 446): paranada mencetak not 1/4 untuk "2" (birama jadi 2 ketuk); angka "2 ." = 2 ketuk → ditulis not 1/2 agar birama 3/4 penuh. Perlu dicek.
+@check Reff hanya dicetak lengkap di ayat 1; ayat 2–4 menulis "IngananMu....." / "Ingananmu.....".
+@status Lirik dicek · 10/10 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama (baris singkatan reff tidak dihitung). Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 467) | https://bukuende.wordpress.com/2013/06/09/asi-ni-roham-hupuji-buku-ende-no-467-buku-logu-no-315/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5,+1 | 3 1 6,+1 | 6, 5, 5,+1 | 7, .+1 2+3 |
+2 . 5,+1 | 3 1 6,+1 | 6, 5, 5,+1 | 7, .+1 2+3 |
+1 . |
+> A-si ni ro-haM hu-pu-ji a-la Ho ma-no-bus au. Di pa-i-as Ho ro-hang-ku, ga-be so-ran-gan-Mu au.
+#B
+3+4 | 2 2 2+3 | 1 1 1+7, | 6, 6, 1+6, |
+5 . 3+4 | 2 2 2+3 | 1 1 2+3 | 4 6, 7,+.+.+1 | 1 . |]
+> I-nga-nan-Mu ro-ha-na-mi. Ton-di-Mi mang-go-hi i. Pang-ke do-hot ngo-lu-na-mi ga-be u-la-u-la-Mi.
+#V
+Asi ni rohaM hupuji ala Ho manobus au.
+Di paias Ho rohangku, gabe soranganMu au.
+IngananMu rohanami. TondiMi manggohi i.
+Pangke dohot ngolunami gabe ulaulaMi.
+-
+Sai ramoti ma rohangku, asa boi gohanMu au.
+Sai mabaor ma pasupasu nang marhite sian au,
+IngananMu.....
+-
+Naeng huhatindangkon hami hagogoonMi tongtong,
+Paluahon na mardosa, nang parjahat na bolong.
+Ingananmu.....
+-
+Sai papulik rohanami gabe pangoloi di Ho.
+Asa marsahala hami lao mangkatindangkon Ho.
+Ingananmu.....

@@ -1,0 +1,63 @@
+@be 282
+@bl 80
+@title Tung beasa au holsoan
+@key F
+@meter 4/4
+@credit Johann Georg Ebeling, 1666
+@pages 262 263
+@status Lirik dicek · 30/36 baris sama dgn pembanding
+@check Pembanding lirik: baris 10,14,21,22,23,34 beda ejaan/kata; dicek ulang di scan hlm 262–263, buku ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 282) | https://bukuende.wordpress.com/2013/06/18/tung-beasa-au-holosan-buku-ende-no-282-buku-logu-no-80/ | 30/36 baris sama
+#A
+1 . 2 . | 3 . . 2 | 3 5 6 . | 5 . . . v | 5 6 4 . |
+4 5 3 . v | 3 5 4 3 | 2 . 1 . v | 5 . 4 . | 3 . . 2 |
+1 7, 6, . | 5, . . . v | 5 6 4 . | 4 5 3 . v | 3 2 4 3 | 2 . 1 . |]
+> Tung be-a-sa au hol-so-an? Kris-tus i Tur-puk-ki, na so ha-ram-pa-san. I-se do na tuk mang-kin-su Sur-go i di au i, dung tu-si di-to-gu.
+#V
+Tung beasa au holsoan? Kristus i Turpukki,
+Na so harampasan.
+Ise do na tuk mangkinsu Surgo i di au i, dung tusi ditogu.
+-
+Marsaemara do au tubu, so adong di au on, otik ugasanku,
+Songon i tadingkononku ngolungkon,
+Tano on, di na tos hosangku.
+-
+Tondi dohot pamatangku. Debata do mala, nang sude artangku;
+Naeng muse i buatonNa,
+Huoloi, hutohoi nasa pambaenanNa.
+-
+Molo tung diparporsanhon, na hansit, na bernit, ndang huhadelehon
+Ai Ibana mangkusorhon
+Soro ni aringki, dung na tuk dihorhon
+-
+Lan do ari las ni roha binaen ni Tuhanki, di au naposoNa
+Ipe ndang uriphononku silang i,
+Molo i ingkon porsanonku.
+-
+Setan manang musu jolma, dihangki ma disi, nang au insahanna.
+Di nasida ma rohana;
+Tuhanki, jambarhi, do paurakkonsa.
+-
+Na so tupa do tahutan roha ni Kristen i, nang marhabiaran
+Nang maradu tos hosaNa
+Baenon ni musu i, ingkon pir tondina
+-
+Ndang tarbunu hamataen hita on na tongtong marhaporseaon,
+I do ujung ni na bernit, na tataon, nasaitaon
+Lapang lao tu langit.
+-
+Sahat ma disi jambarhu, na denggan, na torang do hasonanganku.
+Ndang adong di tano arta, na tongtong olo gong;
+Mago do luhutna
+-
+Doshon na sanggolom rihit arta di tano i, sipatubu sahit
+Holan di banuaginjang do ture
+Sasude arta na dumenggan.
+-
+Jesus, mual hangoluan, di au Ho, au di Ho, ndang tarbaen be sirang.
+Au di Ho, ai tinobusMu do au on,
+Asa tong Ho pasangaponku.
+-
+Ho di au, ai sai digolom rohangkon Ho tongtong di haporseaon,
+Sai pamasuk au tu ginjang;
+Ingkon ro au tu Ho, masipaidaan.

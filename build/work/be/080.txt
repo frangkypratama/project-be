@@ -1,0 +1,34 @@
+@be 80
+@bl 39
+@title Mauas Jesus
+@key A
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 71 72
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Nama komponis tidak tercetak di buku untuk BE 80.
+@check Pembanding lirik: bukuende.wordpress.com — 10 dari 12 baris sama persis; 2 baris beda ("Ise ma na tuk", "parsintaonku"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 80) | https://bukuende.wordpress.com/2013/06/16/mauas-jesus-buku-ende-no-80-buku-logu-no-39/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 1 7, 6, | 5, 1 6, 5, | 4, . 3, 0 |
+5, 7, 2 7, | 2 1 7, 6, | 7, . . 0 | 5, 1 1 6, |
+1 4 3 2 | 1 . 7, 0 | 3 5 5 4 | 3 2 1 7, | 1 . . 0 |]
+> Ma-uas Je-sus, a-tik pe I-ba-na mu-al ha-ngo-lu-an i hi-an, ing-kon ta-ha-non-Na do u-as-Na di hau pi-nar-si-lang na-hi-nan.
+#V
+Mauas Jesus, atik pe Ibana mual hangoluan i hian,
+Ingkon tahanonNa do uasNa di hau pinarsilang nahinan.
+-
+Holong ni rohaM, o Tuhan Jesus! Ise ma na tuk mandodo i?
+ParungkilonMi do na manobus au na mago ala dosa i.
+-
+Aha, Jesus hinauashonMu, uju songon i marsipal Ho?
+O, huboto, na hinophopanMu, au ro di saluhut jolma do.
+-
+Tung tarbaen au jongjong di lambungMu, majal jala mingguk rohangki?
+Dao ma i, sai naeng parsintaonku. Ho, o Jesus, hatuaonki!
+-
+Dohot do au mauas, tung leleng do hulului hasonangan i;
+Loja au, andorang so huboto, Ho sambing, o Jesus, mual ni.
+-
+Sai asi rohaM di au, Tuhanku, sai sombu ma bahen uashi:
+Buri au ale, dohot mudarMu, asa tong mangolu tondingki!

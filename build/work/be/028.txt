@@ -1,0 +1,49 @@
+@be 28
+@bl 203
+@title Hata ni Jahowa
+@key Eb
+@meter 4/4
+@credit Christian Friedrich Witt, 1915
+@pages 24 25
+@check Birama buku ¢ (alla breve); di sini ditulis 4/4 karena not angka dihitung per 1/4.
+@check Tahun tercetak 1915; C.F. Witt hidup 1660–1716, kemungkinan maksudnya 1715.
+@status Lirik dicek · 15/21 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 15 dari 21 baris sama persis; 6 baris beda (“tinahiNa”, “dijamitai”, “mamabaen”; ayat 5 baris 1–3 tidak ditemukan di situs). Kata yang berbeda belum dicek ulang satu per satu ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 28) | https://bukuende.wordpress.com/2013/06/13/hata-ni-jahowa-buku-ende-no-28-buku-logu-no-203/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 2 (3+2) 1 | (5 .+4) 3 . | 6 6 5 1' | (5 .+4) 3 . |
+2 3 2 (1+7,) | 1 . . . :|
+> Ha-ta ni Ja-ho-wa, Si-pa-da-me jol-ma Ha-ngo-lu-an i!
+> Ha-la-las ni ro-ha, si-a-pu-li ro-ha Ni na mar-sak i!
+#B
+3 (2+1) 2 3 | 4 3 2 . |
+5 5 6 7 | 1' 7 6 . | 5 . v 6 7 | 1' 3 2 . | 1 . . . |]
+> Go-go ni De-ba-tang-ki, pa-lu-a-hon na por-se-a si-an na-sa je-a.
+#V
+Hata ni Jahowa, Sipadame jolma Hangoluan i!
+Halalas ni roha, siapuli roha Ni na marsak i!
+Gogo ni Debatangki, paluahon na porsea sian nasa jea.
+-
+Nasa tinahiNa, tagan so ditompa tano on dope,
+Nang na tinuduan ni sude pelean, jumpang do muse.
+Sangkap ni AmaNa i dipatulus Jesus Kristus; Jolma i ditobus.
+-
+Na rade di hita asi ni rohaNa nang basaNa pe.
+Nunga mate Kristus, nunga sun ditobus hita on sude,
+Sangap ma di Debata! Na porsea di hataNa do pangoluonNa.
+-
+Hata hangoluan do nuaeng diboan Parjamita i.
+Na lambok begeon i nuaeng dilehon tu rohanta i.
+Hita on dijamitai, ai didokkon be do hita paubahon roha.
+-
+Ro ma ho na marsak molo naung marosak rohami, ale!
+Ro ma tu Jahowa pasesahon dosa, ala mudar ni Jesus i,
+AnakNa i, I do gabe haluaan siaan nasa utang.
+-
+I do haojahan na tongtong manahan salelengna i.
+I hajongjonganku i do haposanku, hangoluanki;
+Gogongki tongtong mai mangihuthon tu hataNa, lao mamabaen lomoNa,
+-
+Jesus, sai tangihon na hupangidohon, sai asi rohaM!
+Lehon sipargogo, asa lao tu surgo au tu banuaM
+Unang so tu Ho au ro. I pe molo tos hosangku, tiur baen dalanku.

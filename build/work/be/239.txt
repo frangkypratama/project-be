@@ -1,0 +1,53 @@
+@be 239
+@bl 22
+@title Binsan ro asi ni roha
+@key F
+@meter 4/4
+@credit Johann Josef Winckler, 1722
+@pages 218 219
+@check Birama "3 ' 6 5": not balok mencetak 3 sebagai 1/2 (angka tanpa titik), ditulis "3 ." agar 4 ketuk.
+@check Birama akhir tercetak "3 2̇ i̇ ." (titik di atas), tetapi not balok G4–F4 (oktaf tengah); ditulis 2 dan 1 tanpa oktaf atas.
+@status Lirik dicek · 22/24 baris sama dgn pembanding
+@check Pembanding lirik: L7 kata 3 dan L23 kata 5 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 239) | https://bukuende.wordpress.com/2013/06/09/binsan-ro-asi-ni-roha-buku-ende-no-239-buku-logu-no-22/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 2 3 2 | 3 4 5 . | 3 . v 6 5 |
+4 3 2 2 | 3 . v 5 5 | 5 (2+3) 4 5 |
+3 . 2 . v | 1 2 3 4 | 3 2 1 . |]
+> Bin-san ro-a-si ni ro-ha ni Tu-han-ta i di ho, a-lo ma di-rim, pa-bo-a jo-ra si-tu-tu do ho.
+#V
+Binsan ro asi ni roha ni Tuhanta i di ho,
+Alo ma dirim, paboa jora situtu do ho.
+-
+Sai tundali nasa jea sai tahopi Debata,
+Tanda na tutu porsea ho di Tuhan Debata.
+-
+Ia dalan hangoluan na gogot tutu do i
+Unang ho marhamaluan, tagam nasa musumi.
+-
+Anggo dalan hamagoan na lambas tutu do i:
+Tung tu api do diboan na disi dirina i.
+-
+Sai papos roham mangalo alo dosami gogo,
+Asa unang ho na talu, unang na sumurut ho.
+-
+Angkup ni sai martangiang asa ganda gogomi,
+Jala sai tongtong ho sirang sian angka musumi.
+-
+Unang sai matamatahon arta na di tano on,
+Jaga ma roham salahon roha ni portibi on.
+-
+Hisapmi tongtong pompomi, sai patunduk dagingmi,
+Asa unang diintopi dosa i palitomi.
+-
+Sai momosi ma luhutna naung hinamonangkonmi,
+Unang loas be malua, ai mansai jorbut do i.
+-
+Ia dung dapotan uli ho, sai unang tois roham,
+Ai ndang sahat dope muli tondimi tu banuam.
+-
+Sasude na burju roha mangihuthon Jesus i,
+Sai dialo do musuna, paima tos hosana i.
+-
+Dirimu do musumuna dohot sipangago i;
+Ia hangoluanmuna, i ma Tuhan Jesus i

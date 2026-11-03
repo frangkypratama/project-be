@@ -1,0 +1,30 @@
+@be 822
+@bl 0
+@title Sadarion
+@key F
+@meter 4/4
+@credit Syair & Lagu : This is the day, NN · Terjemahan : Pdt. J.A.U. Doloksaribu
+@pages 907 908
+@status Lirik dicek · 3/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (pembanding tanpa kata ke-4 "ni"), 2, 3, 4 (ejaan "Sadarion"/"rim"), 5 (ejaan) beda. Scan hlm 907–908: "ji-na-di-hon ni Tu-han" jelas → buku tetap.
+@check Pembanding menyebut Buku Logu No. 822; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 822) | https://bukuende.wordpress.com/2013/06/18/sadarion-buku-ende-no-822-buku-logu-no-822/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Kepala lagu mencetak "Psalm 118:24".
+@check Ritme sinkop "1̄ 1 2̄ 3 ." = 1/8 · 1/4 · 1/8 · 1/2 (sesuai balok) → ditulis 1+1 .+2 3 .
+#A
+1+1 .+2 3 . | 1+1 .+2 3 3+4 | 3 2 2 3+4 |
+3 2 2 . | 7,+7, .+1 2 . | 7,+7, .+1 2 2+3 |
+2 1 1 2+3 | 2 1 1 . | 6+6 .+6 6 6+6 |
+5 (3+2) 1 . | 6+6 .+6 6 6+6 | 5 (3+2) 1 . |
+1+1 .+2 3 . | 1+1 .+2 3 3+4 | 3 . 2 . | 1 . . . |]
+> Sa-da-ri on, sa-da-ri on ji-na-di-hon ni Tu-han De-ba-ta rim ma hi-ta rim ma hi-ta mar-las ni ro-ha, mar-las ni ro-ha, sa-da-ri on a-ri ni Tu-han, rim ma hi-ta mar-las ni ro-ha, sa-da-ri on, sa-da-ri on a-ri ni Tu-han.
+#V
+Sadarion, sadarion jinadihon ni Tuhan Debata
+rim ma hita rim ma hita marlas ni roha, marlas ni roha,
+sadarion ari ni Tuhan, rim ma hita marlas ni roha,
+sadarion, sadarion ari ni Tuhan.
+-
+Ari Senen, ari Slasa jinadihon Tuhan Debata,
+ari Rebo, ari Kamis jinadihon ni Tuhan Debata
+ari Jumat, ari ni Tuhan, ari Sabtu ari ni Tuhan,
+ari Minggu, ganup ari-ari ni Tuhan.

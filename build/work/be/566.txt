@@ -1,0 +1,23 @@
+@be 566
+@bl 0
+@title Na badia
+@key D
+@meter 4/4
+@credit Syair: Santo, santo; Terj.: Pensilwally; Lagu: Argentina
+@pages 535
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Psalm 99 : 9.
+@check Tanda birama tidak terbaca jelas di scan; tiap birama berisi 4 ketuk → 4/4.
+@check Birama 6 "5 . 6 7 1 ." (garis atas di atas ". 6 7"): balok = A 1/4 bertitik, B–C# 1/16, D 1/2 → ditulis 5 .+.+6+7 1' .
+@check Hanya satu bait (lirik di bawah not); teks #V disusun dari lirik di bawah not.
+@status Lirik dicek · 0/2 baris sama dgn pembanding
+@check Pembanding lirik: beda hanya pemenggalan "di / boto" (pembanding: diboto); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 566) | https://bukuende.wordpress.com/2013/06/16/na-badia-buku-ende-no-566-buku-logu-no-566/ | teks lirik
+#A
+3 .+3 3 .+2 | 2 1 . 1 | 1' .+1' 7 .+6 | 6 5 . 1 |
+> Na ba-di-a do Ho di pu-ji ro-hang-kon do di
+#B
+1' .+1' 7 .+6 | 5 .+.+6+7 1' . | 1 .+3 2 .+1 | 1 . . . |]
+> bo-to ro-hang-kon do man-dok ba-di-a do Ho.
+#V
+Na badia do Ho di puji rohangkon do di
+boto rohangkon do mandok badia do Ho.

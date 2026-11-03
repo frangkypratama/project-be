@@ -1,0 +1,36 @@
+@be 656
+@bl 0
+@title Parhahamaranggion
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Bewart op aard den broederband, H. Hasper, 1935 · Terj.: Pdt. MH. Sihite/Pdt. J. A. U. Doloksaribu · Lagu: Ellacombe Gesangbuch der Herzogl, Winternberg, 1784
+@pages 675 676
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Do = Bes3 (not 5 pertama = F4 di balok) → @oct -1.
+@check Baris 3 akhir "1̇ 2̇" (dua 1/8) di bawah suku kata "mar-" tanpa busur di buku → ditulis "mar _" (ditahan).
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 & 4 beda ejaan (Parhahamaranggion, marlasroha); sesuai scan hlm 675.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 656) | https://bukuende.wordpress.com/2013/06/16/parhahamaranggion-buku-ende-no-656-buku-logu-no-656/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5 | 1' (7+6) 5 1' | 3 4 5 5 | (6+7) 1' 2' 2' |
+3' . . 5 | 1' (7+6) 5 1' | 3 4 5 5 | (6+7) 1' 1' 7 |
+1' . . (1'+2') | 3' 2' 3' 4' | 2' (7+1') 2' 1'+2' |
+3' 2' 3' 4' | 2' . . 5 | 1' (7+6) 5 1' |
+3 4 5 5 | (6+7) 1' 1' 7 | 1' . . |]
+> Par-ha-ha-mar-ang-gi-on i, lam-hot ja-la to-gu, sing-hop ma ha-sa-da-on i, di Je-sus i bur-ju, rap sa-u-du-ran hi-ta be mar _ ho-long na tu-tu, mar-da-me mar-las-ro-ha ma di Je-sus i tu-tu.
+#V
+Parhahamaranggion i, lamhot jala togu,
+singhop ma hasadaon i, di Jesus i burju,
+rap sauduran hita be marholong na tutu,
+mardame marlasroha ma di Jesus i tutu.
+-
+Togu ma hasadaon i; di ojahanna i,
+sada haporseaon i, di Tuhan Jesus i,
+ai sada pandidion i, ai sada Ama i,
+sada ma hita Kristen i manomba Tuhan i.
+-
+Ai disagihon do ganup asi-asiNa i,
+asa ringgas huhut burju, di ulaonna i,
+sai lam serep ma rohamu hombar tu Hata i,
+parholong roha ma hamu maniru Tuhan i.

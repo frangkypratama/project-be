@@ -1,0 +1,46 @@
+@be 145
+@bl 186
+@title Nasa jolma ingkon mate
+@key C
+@meter 4/4
+@credit Jakob Hintze, 1678
+@pages 130 131
+@check Judul kepala lagu (judul Logu) "Nasa jolma ingkon mate"; baris pertama lirik "Ndang hapalang las ni roha".
+@status Lirik dicek · 18/20 baris sama dgn pembanding
+@check Pembanding lirik: L3 (kata 6 & 8) dan L10 (kata 3) beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 145) | https://bukuende.wordpress.com/2013/06/16/ndang-hapalang-las-ni-roha-buku-ende-no-145-buku-logu-no-186/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 1' 5 6 | 5 .+4 3 3 v | 5 5 4 3 |
+2 .+2 1 . :|
+> Ndang ha-pa-lang las ni ro-ha, a-la na tar-di-di au.
+> Ai di-si bo-long na ro-a do-hot do-sa si-an au.
+#B
+2 2 3 5 | 5 .+#4 5 5 v |
+6 7 1' 1' | 7 .+7 6 6 v | 3 3 6 5 |
+5 .+#4 5 . v | 6 7 (1'+2') 3' | 2' . . 2' | 1' . . . |]
+> I-se na tu-man-da ar-ta, Na u-mu-li, na um-ar-ga si-an ha-tu-a-on-ki sa-le-leng-le-leng-na i.
+#V
+Ndang hapalang las ni roha, ala na tardidi au.
+Ai disi bolong na roa dohot dosa sian au.
+Ise na tumanda arta, Na umuli, na umarga
+Sian hatuaonki salelenglelengna i.
+-
+Nunga sae sude utangku ala na tardidi au;
+Uhum ndang habiaranku, diondihon Jesus au;
+Ai mudarNa huparidi di na masuk au tardidi,
+Ala nii las rohangki, salelenglelengna i.
+-
+Bolis, bege ma hatangku: Nunga na tardidi au!
+Ingkon ho taluhononku molo unjunanmu au.
+Ndang adong diham di ahu, Jesus do nampuna ahu.
+Ala nii las rohangki, salelenglelengna i.
+-
+Di na mate au, hudok ma: Nunga na tardidi au!
+I do gabe pos ni roha, ai tu surgo ma au lao.
+Topotonku ma Amangku dohot Jesus i, Tuhanku.
+Ala nii las rohangki, salelenglelengna i.
+-
+Naung tarapul do rohangku nang manangkarnangkar au.
+Tu tanoman pe dagingku, tondingki tu surgo lao.
+Di na homur i matangku sai dohonon ni rohangku:
+Halak na tardidi au, sonang au tu surgo lao.

@@ -1,0 +1,31 @@
+@be 507
+@bl 327
+@title Habangsa parasian i.
+@key Bb
+@meter 6/4
+@credit (tidak dicantumkan di buku)
+@pages 478 479
+@status Lirik dicek · 4/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 4 dari 8 baris sama; beda: L2 (maporus), L5 (tarunjan), L6 (hamobangan), L7 (masak). Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 507) | https://bukuende.wordpress.com/2013/06/13/habangsa-parasian-i-buku-ende-no-507-buku-logu-no-347/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "F.H. No. 241".
+@check Tanda birama tercetak 6/8, tetapi not balok memakai not 1/2 dan 1/4 dengan 6 ketuk 1/4 per birama (angka juga 6 ketuk); ditulis 6/4.
+@check Birama akhir tercetak "1 . . 1 ." (5 ketuk + ketukan gantung 1), not balok dua not 1/2 bertitik yang diikat; ditulis (1 . . 1 .).
+@check Lirik tercetak "par-si-lang ni Tu-han-ta i! Tu-si ha-top ma-po-rus su di"; ditulis seperti tercetak.
+#A
+(3,+4,) | 5, . 5, (5, 4,) 3, | 6, . 6, 5, . (7,+1) |
+2 . 2 (2 1) 7, | 1 . 3 2 . 2 | 3 . 2 1 . 6, |
+5, . 3, 2, . (3,+4,) | 5, . 5, (5, 4,) 3, | 6, . . 7, . . | (1 . . 1 .) |]
+> Ha-bang-sa par-a-si-an i. par-si-lang ni Tu-han-ta i! Tu-si ha-top ma-po-rus su di na mar-ha-su-sa-an au
+#V
+Habangsa parasian i. parsilang ni Tuhanta i!
+Tusi hatop maporus su di na marhasusaan au
+-
+Habangsa parasian i di angka na targogot i,
+Tarapul au dibahen i, ai Jesus sipalua i.
+-
+Habangsa parasian i di angka na tarunjan i.
+Ai hamobangan bolon do rade di ganup na saut ro.
+-
+Tu dia ma maporus au, punjung jot-jot nang masak au?
+Hutopot haporusanki, habangsa parasian i.

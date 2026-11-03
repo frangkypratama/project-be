@@ -1,0 +1,40 @@
+@be 614
+@bl 0
+@title Ro ma Ho tu au
+@key G
+@meter 4/4
+@credit Syair: Nu zijt wellekome, Ende Natal Bolanda / Jerman abad pertengahan · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: Eropa ± 1000, Jerman abad ke 14, Bolanda 1627
+@pages 612 613
+@status Lirik dicek · 16/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — semua baris sama. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 614) | https://bukuende.wordpress.com/2013/06/16/ro-ma-ho-tu-au-buku-ende-no-614-buku-logu-no-614/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 614".
+@check Tanda birama tercetak 2/2; ditulis 4/4 (tiap angka = ¼, 4 ketuk per birama) karena format menghitung ketuk per angka.
+@check Birama "2 1 . 2 3" (Da-me bi-no, baris 4): not balok A–G–A–B (4 × ¼) → titik dianggap pemisah, ditulis "2 1 2 3".
+#A
+1 1 1 7, | 6, . 5, . | 1 1 2 2 | 3 . . 3 |
+3 3 3 3 | 5 . 3 3 | 2 . 3 . | 1 . . . |
+1 1 2 3 | 4 3 2 1 | 1 7, 6, 6, |
+5, . . . | 2 1 2 3 | 4 . 3 2 |
+1 6, 7, 1 | 2 . . . | 5, . 6, 7, | 1 . . . |]
+> Ro ma Ho tu au O Je-sus Tu-han-ki, Si-an ba-nu-a gin-jang tu ro-hang-ki, Ro ma Ho tu au O Tu-han Si-pa-lu-a i, Da-me bi-no-an-Mu ndang na-ta-ra-sam i, O Tu-han-ki.
+#V
+Ro ma Ho tu au O Jesus Tuhanki,
+Sian banua ginjang tu rohangki,
+Ro ma Ho tu au O Tuhan Sipalua i,
+Dame binoanMu ndang natarasam i, O Tuhanki.
+-
+Asi ma roham di au O Tuhanki,
+sai jalo ma tangiang nang endengki.
+Songon si Maria ina na martua i,
+baen nang au martua ala haroroMi, O Tuhanki.
+-
+Ende ni suruan pardisurgo i,
+binege ni parmahan di ladang i.
+Nunga tubu Raja Kristus Sipalua i
+di huta Betlehem peak di bara i, O Tuhanki.
+-
+Nang parhapistaran sian purba i,
+manungkap do marsomba tu Tuhan i.
+Sere dohot na angur ro di haminjon i,
+dipelehon tu Ho Raja na sorang i, O Tuhanki.

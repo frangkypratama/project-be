@@ -1,0 +1,39 @@
+@be 353
+@bl 37
+@title Di surgo hasonangan i
+@key F
+@meter 6/4
+@credit Lagu : Hans Jakob Breiter 1893
+@pages 334
+@status Lirik dicek · 14/14 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama. Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 353) | https://bukuende.wordpress.com/2013/06/13/di-surgo-hasonangan-i-buku-ende-no-353-buku-logu-no-37/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot.
+@check Birama akhir tercetak "1 . 0 0" (4 ketuk) setelah ketukan gantung 1 ketuk; ditulis apa adanya.
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+5, | 1 . . 3 2 1 | 7, .+1 2 . 0 5, |
+2 . . 4 3 2 | 3 .+4 5 . 0 5 | 1' . . 1' 7 6 |
+5 .+4 3 . 0 6 | 5 .+5 5 .+5 5 7, | 1 . 0 0 |]
+> Di sur-go ha-so-na-ngan i, i-nga-nan na du-meng-gan i; tu-si naeng la-ho mu-li au, a-sa rap do-hot Je-sus au.
+#V
+Di surgo hasonangan i, inganan na dumenggan i;
+Tusi naeng laho muli au, asa rap dohot Jesus au.
+-
+Tutu godang dope adong marningot au di tano on,
+Sai tostosanku nama i, lao mandapothon surgo i.
+-
+Na dao dope au sian i; aik tung disungkun rohangki:
+Tung ise be mandok tu au; na holang sian Jesus au.
+-
+Na porsuk nang na bernit pe, mansohot ma di surgo i.
+Disi soada dosa be, mansohot nasa jea pe.
+-
+Ndang parmianan tano on, sai surgo i do na tongtong.
+Ai rura partangisan on, di ginjang sonang rohangkon.
+-
+Dibahen i, o tondingki, jalahi na di surgo i.
+Tibu ma ro mangalap ho Jesusmu, Sipangolu ho.
+-
+Denggan do tohapmi disi, di lambung ni Tuhanta i.
+Padoras ma tongtong langkam, naeng sonang ho di banuam!

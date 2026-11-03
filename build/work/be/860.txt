@@ -1,0 +1,29 @@
+@be 860
+@bl 0
+@title Mauliate, Puji Tuhan
+@key D
+@meter 3/4
+@credit Syair dan lagu: Confitemini Domino · Terj.: Pdt. J.A.U. Doloksaribu
+@pages 945
+@status Lirik dicek · 8/8 baris sama dgn pembanding
+@check Pembanding lirik: 8/8 baris sama.
+@check Pembanding menyebut Buku Logu No. 860; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 860) | https://bukuende.wordpress.com/2013/06/16/mauliate-puji-tuhan-buku-ende-no-860-buku-logu-no-860/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check "Mauli" bertanda busur di bawah "au" (diftong); tetap 4 suku kata Mau-li-a-te sesuai jumlah not.
+#A
+3+3 3+3 3 | 3+1 1 . | (3+4) (4+3) 3+5 | 2 2 . |
+4+4 4+4 4 | 4+2 2 . | 4+6 (5+4 3+2) | 3 . . |]
+> Mau-li-a-te Pu-ji Tu-han di-deng-gan ba-sa-Na, Mau-li-a-te Pu-ji Tu-han Ha-le-lu-ya.
+#V
+Mauliate, puji Tuhan, didenggan basaNa,
+Mauliate, puji Tuhan, Haleluya.
+-
+Mauliate, puji Tuhan, di panarihonNa,
+mauliate, puji Tuhan, haleluya.
+-
+Mauliate, puji Tuhan, asi do rohaNa,
+mauliate, puji Tuhan, haleluya.
+-
+Mauliate, puji Tuhan, holong do rohaNa,
+mauliate, puji Tuhan, haleluya.

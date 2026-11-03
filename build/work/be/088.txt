@@ -1,0 +1,37 @@
+@be 88
+@bl 106
+@title Di surgo do alealenta
+@key Eb
+@meter 3/4
+@credit Benjamin Schmolck, 1698
+@pages 78 79
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan baris 4 kata ke-1 ("Tarsolsolbagi").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 88) | https://bukuende.wordpress.com/2013/06/16/jesusku-naung-manobus-ahu-buku-ende-no-88-buku-logu-no-106/ | 11/12 baris sama
+@check Ayat 2–4 di buku diakhiri singkatan "Hupuji d.u." (= refrein "Hupuji nasa asiMi, alai gumodang holongMi"); ditulis apa adanya.
+@check Judul "Di surgo do alealenta", baris pertama lirik "Jesusku naung manobus ahu".
+#A
+1 | 5 . 5 | (5 4) 3 | (5 4) 3 | 2 1 v 5, |
+(4 3) 2 | 3 . 3 | (5 4) 3 | 2 . :|
+> Je-sus-ku naung ma-no-bus a-hu, sai naeng ha-ho-lo-ngan-ku Ho.
+> Tu do-lok Gol-ga-ta Ho la-ho, ni-on-jar ni ho-long-Mu do.
+#B
+2 | 2 . 2 | 3 . 3 |
+(4 3) 4 | 5 . v 5 | (1' 7) 6 | (5 .+6) (5+4) | 3 . 2 | 1 . |]
+> Hu pu-ji na-sa a-si-Mi, a-lai gu-mo-dang ho-long-Mi.
+#V
+Jesusku naung manobus ahu, sai naeng haholonganku Ho.
+Tu dolok Golgata Ho laho, nionjar ni holongMu do.
+Hupuji nasa asiMi, alai gumodang holongMi.
+-
+Tarsolsolbagi do rohangku paidaida dangolMi,
+Marningot sasude dosangku, ai i do na tinaonMi.
+Hupuji d.u.
+-
+Jotjotna i husoadahon Ho, Sipangolu tondingkon.
+Mabiar lao mangkatindangkon Ho na mangkophop au tongon.
+Hupuji d.u.
+-
+Bagas uhirhon tu rohangku, pangkophopMi humophop au;
+Tusi ma togu pingkiranku, guru di Ho sambing ma ahu.
+Hupuji d.u.

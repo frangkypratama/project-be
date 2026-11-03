@@ -1,0 +1,30 @@
+@be 384
+@bl 398
+@title Ro ma hamu rade
+@key F
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 368 369
+@check Kepala lagu juga mencetak "Z. No. 204". "4*" = 4 kres (paranada: B pugar).
+@check Baris terakhir (hlm 369) tercetak "3 . 4 3̇ 2 | i . . 0" dengan titik atas pada 3 dan 1, tetapi paranada A4 dan F4 (oktaf tengah); ditulis 3 dan 1 sesuai not balok.
+@check Lirik refrein tercetak "Ro ho, / ho ro, ru-ma i-nga-nan-mi" (pindah halaman); ditulis apa adanya.
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L2 kata 12 ("ingananmi", disusun dari i-nga-nan-mi) dan L8 kata 5 ("tartading", jelas di scan).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 384) | https://bukuende.wordpress.com/2013/06/16/ro-ma-hamu-rade-buku-ende-no-384-buku-logu-no-398/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 #4+.+.+5 3 0+1 | 3+.+.+3 2+1 2 . |
+4 5+.+.+2 4 3 | 2+.+.+5 #4+6 5 . | 5 . 3 v 0 |
+5 . 3 0+1 | 3 .+4 3 2 | 1 . . 0 |]
+> Ro ma ha-mu, ra-de do sa-su-de! Di jou-hon Tu-han i tu hi-ta be; Ro ho, ho ro, ru-ma i-nga-nan-mi.
+#V
+"Ro ma hamu, rade do sasude!"
+Dijouhon Tuhan i tu hita be; Ro ho, ho ro, ruma ingananmi.
+-
+Rade sude tu pardengganan i,
+Sai ro ma ho, di ho basaNa i. Ro ho....
+-
+Saksak do ulos sijaloonmi,
+Ro ma, topoti sude dosami. Ro ho....
+-
+Torop naung ro, sai unang togang ho,
+So tung tarlat, unang tartading ho. Ro ho....

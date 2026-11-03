@@ -1,0 +1,47 @@
+@be 167
+@bl 108
+@title Martua do na marhaposan
+@key Bb
+@oct -1
+@meter 3/4
+@credit George Neumark, 1641
+@pages 151 152
+@status Lirik dicek · 17/18 baris sama dgn pembanding
+@check Pembanding lirik: baris 10: pembanding tanpa "na" (kata 6); dicek ulang: buku tercetak "di hau na pinarsilang i".
+@ref Lirik pembanding: bukuende.wordpress.com (BE 167) | https://bukuende.wordpress.com/2013/06/13/dijangkon-jesus-do-pardosa-buku-ende-no-167-logu-no-108/ | 17/18 baris sama
+@check Buku menulis "George Neumark"; ejaan aslinya Georg Neumark.
+@check Lagu bernada minor (la = 6 = G); kres F (#5) dan F natural (5) ditulis sesuai angka.
+@check Kepala lagu mencetak "Martua do na marhaposan"; baris pertama lirik "Dijangkon Jesus do pardosa".
+#A
+3 6 7 | 1' . 7 | 6 . 7 | #5 3 0 |
+5 5 4 | 3 . 6 | 6 . #5 | 6 . . :|
+> Di-jang-kon Je-sus do par-do-sa, na ma-ngar-sak-kon do-sa i,
+> Na ma-ngun-duk-kon hi-na-ro-a ni pam-baen-an-na sa-su-de,
+#B
+7 1' 2' | 3' . 3' |
+2' . 2' | 1' . . v | 1' 7 6 | #5 . 6 | 6 . #5 | 6 . . |]
+> A-lai di-tang-kup ha-ta on: di-jang-kon Je-sus nang au on.
+#V
+Dijangkon Jesus do pardosa, na mangarsakkon dosa i,
+Na mangundukkon hinaroa ni pambaenanna sasude,
+Alai ditangkup hata on: dijangkon Jesus nang au on.
+-
+Pardosa na tarsolsol bagi, na ponjot roha situtu,
+Huhut na olo manopoti, dosana i mansai burju,
+I do dijangkon Jesus i asa paluaonNa i.
+-
+Banuaginjang ditadingkon, humophop hajolmaon i.
+GoarNa i do sipujion ni nasa na malua i;
+Ai nunga sae utangna i binaen ni Tuhan Jesus i.
+-
+Ditaoni Jesus hamatean di hau na pinarsilang i,
+Mambaen di hita pardamean tu Debata, AmaNa i.
+Nuaeng ndang pola marsak be na ro tu Jesus i sude.
+-
+Antong hamu na marsak roha, tangihon ma hataNa i,
+Hatop ma ro hamu paboa, ditangkup rohamuna i
+Barita ni Tuhanta i naung ro pasaehon dosa i.
+-
+Dison do hami, ale Tuhan, asi rohaM, paias ma;
+Togihon hami on tu ginjang, tu surgo i, tu Debata.
+Pujionnami ma disi! Ho, Sipalua jolma i.

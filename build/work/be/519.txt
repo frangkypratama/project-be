@@ -1,0 +1,36 @@
+@be 519
+@bl 356
+@title Tarbege do panjou
+@key F
+@meter 4/4
+@credit Eugen Weltin 1918
+@pages 490 491
+@status Lirik dicek · 6/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 6 dari 10 baris sama; beda: L1, L3 (rade), L4 (dilele, da), L9 (Ulahon). Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 519) | https://bukuende.wordpress.com/2013/06/18/tarbege-do-panjou-buku-ende-no-519-buku-logu-no-356/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "Jug. L. No. 54".
+@check Birama 3 tercetak "2 3 4 . 5"; not balok empat not 1/4 (G A Bes C), titik diabaikan. "4*" = B natural, ditulis #4.
+@check Baris akhir birama 3 tercetak "5 . 7 . 5" (titik bawah oktaf); not balok C 1/4(?), E 1/4 bertitik, C 1/8; ditulis 5, . 7, .+5, mengikuti angka.
+#A
+5, | 3 .+2 1+1 4+3 | 2 6, 0+1 7,+1 | 2 3 4 5 |
+3 0 0+5 #4+5 | 1' 5 4 3 | 2 6, 0+4 3+2 |
+1 7, 6, 7, | 1 . . 0 | 5, 7,+.+.+5, 2 . | 1 3+.+.+1 5 . |
+1'+7 6+5 4 . | 2 5+4 3 . | 5, . 7, .+5, | 1 . 0 |]
+> Tar-be-ge do pan-jou ni Kris-tus to-rus di ta-no Ba-tak i: I-se na su-me-a-hon ho-sa, i-se mang-kop-hop do-ngan i? Hi-ta su-de, naeng ma ra-de Nang di-le-le, da, ha-po-san ma di De-ba-ta
+#V
+Tarbege do panjou ni Kristus torus di tano Batak i:
+Ise na sumeahon hosa, ise mangkophop dongan i?
+Hita sude, naeng ma rade
+Nang dilele, da, haposan ma di Debata
+-
+Na olo hita paboahon holong do Jesus Tuhan i.
+Naung saut malua do dibahen ama nang ina Batak i.
+Hita ....
+-
+Antong, ringgas ma lao mamboan barita ni Tuhanta i.
+Tu angka marga di na holom, asa dapotan dohot i.
+Hita .......
+-
+Ulahon ma mangkatindangkon Kristus nampuna hita on,
+Asa torop dope barani marsomba tu Rajanta on.
+Hita ......

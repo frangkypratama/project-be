@@ -1,0 +1,52 @@
+@be 195
+@bl 140
+@title Holong do roha
+@key Eb
+@meter 4/4
+@credit August Rische 1906
+@pages 177 178
+@check Ayat 2–12 baris kedua dicetak "Dibahen i hudok : Holong do roha ni Debatangku, tongtong di au." lalu disingkat "d. u."; ditulis apa adanya.
+@status Lirik dicek · 12/14 baris sama dgn pembanding
+@check Pembanding lirik: dibandingkan 14 baris isi (baris singkatan "d. u." dilewati); baris ayat 7 beda ejaan, ayat 12 pembanding tanpa 1 kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 195) | https://bukuende.wordpress.com/2013/06/13/holong-do-roha-buku-ende-no-195-buku-logu-no-140/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+0 1 1 3 | 5 . 3 v 5 | 1' 6 5 . | 3 v 5 6 5 |
+4 . 2 v 2 | 5 5 3 . | 0 3 3 5 | 4 4 2 v 4 |
+4 6 5 . | 3 v 3 3 5 | 4 . 2 v 2 | 5 5 3 . |]
+> Ho-long do ro-ha ni De-ba-tang-ku, ho-long ro-ha-Na tong-tong di au. Ai di-pa-tu-pa do ha-lu-a-on-ku mar-hi-te Je-sus, A-nak-Na i.
+#V
+Holong do roha ni Debatangku, holong rohaNa tongtong di au.
+Ai dipatupa do haluaonku marhite Jesus, AnakNa i.
+-
+Tarihot ahu dibahen dosa na so tarbahen, malua au.
+Dibahen i hudok : Holong do roha ni Debatangku, tongtong di au.
+-
+Peak do ahu, di hamatean, dibaen sibolis, pangago i
+Dibahen i hudok : d. u.
+-
+Na ro do Jesus pardameanku, Parmahan bolon na burju i,
+Dibahen i hudok : d. u.
+-
+Ditaoni Jesus do hamatean manggarar utang ni dosangki,
+Dibahen i hudok : d. u.
+-
+Mangolu ahu binaen ni hata ni Tuhan Jesus tu tondingki.
+Dibahen i hudok : d. u.
+-
+Hangoluanku, tongtong hataNa sombu uashu, binahen ni,
+Dibahen i hudok : d. u.
+-
+Tonggi do holong ni Debatangku, na tau mangapul, rohangkinon.
+Dibahen i hudok : d.u.
+-
+Na dipamalum haholongonNa sude na bernit, ni rohangki.
+Dibahen i hudok : d. u.
+-
+Marlasniroha huhut mardame do au dibahen, holongNa i.
+Dibahen i hudok : d.u.
+-
+Sai teanonku, do hasonangan rodi saleleng lelengna i,
+Dibahen i hudok : d.u.
+-
+Sai pujionku do roha holong pinatuduhon ni Debata.
+Dibahen i hudok : d.u.

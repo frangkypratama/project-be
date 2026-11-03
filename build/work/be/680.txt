@@ -1,0 +1,36 @@
+@be 680
+@bl 0
+@title Sai togihon au mulak
+@key C
+@meter 4/4
+@credit Terj: Pdt. J.A.U. Dolosaribu · Lagu: NN
+@pages 706 707
+@status Lirik dicek · 8/11 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 2, 3, 7 (ejaan). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 680" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 680) | https://bukuende.wordpress.com/2013/06/18/sai-togihon-au-mulak-buku-ende-no-680-buku-logu-no-680/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Rom 8:14. Kredit tercetak "Dolosaribu".
+@check Akhir bagian A dan birama 2 refrein tercetak "1 . ." / "5 . ." (3 ketuk); balok = 1/2 bertitik + tanda diam 1/4 → ditulis "1 . . 0" / "5, . . 0".
+@check "4̸" = kres (Fis). "Sai", "au", "baen", "lao", "Tai" = satu suku kata.
+#A
+3 .+4 #4 5 | 6 . 5 3 | 1' .+1' 7 6 | 5 . . 0 |
+4 .+5 2' 7 | 1' . 3 1' | 7 .+2 3 #4 | 5 . . 0 |
+4 .+4 4 4 | 4 . 3 0 | 6 .+6 6 6 | 5 . . 0 |
+4 5 3' .+2' | 2' 1' 6 4 | 3+5 .+5 4 2 | 1 . . 0 |
+> Sai to-gi-hon a-u mu-lak tu A-ma i, nu-nga lo-ja a-u di-par-ja-la-ngan-ki. u-nang lo-as ma-go au di do-sang-ki, sai to-gi-hon mu-lak au tu ba-gas ni A-ma i,
+#B
+5 .+3 1 6, | 5, . . 0 | 5 .+3 1 6, | 5, . . 0 |
+3 5 3' .+2' | 2' 1' 6 4 | 3+5 .+5 4 2 | 1 . . 0 |]
+> Sai to-gi-hon au. a-sa mu-lak au. a-le Ton-di Par-ba-di-a to-gi-hon mu-lak au.
+#V
+Sai togihon au mulak tu Ama i,
+nunga loja au diparjalanganki.
+unang loas mago au di dosangki,
+sai togihon mulak au tu bagas ni Ama i,
+Refrein : Sai togihon au. asa mulak au.
+ale Tondi Parbadia togihon mulak au.
+-
+Ale Debatanku baen ma au naposoM,
+Taiti ma rohangku lao mangoloi Ho,
+Haporseaonku baen gomos tu Ho,
+ale Jesus togu ahu, asa jonok tu Ho.
+Refrein : Sai togihon . . .

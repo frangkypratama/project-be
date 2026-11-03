@@ -1,0 +1,24 @@
+@be 33
+@bl 65
+@title Hamu saluhut halak
+@key G
+@meter 4/4
+@credit Heinrich Isaak, 1539
+@pages 28
+@check Judul tercetak "Hamu saluhut halak"; lirik dimulai "Antong, sai dok ma amen". Hanya satu ayat dicetak.
+@check Birama “2 . 3” (akhir frasa 1) hanya 3 ketuk seperti di buku (frasa baru mulai dengan ketukan gantung); di situs ditampilkan sebagai bagian A/B.
+@check Baris akhir: buku memberi garis birama di tengah "1 2 | 3̄4̄ 5̄4̄" (dua birama 2 ketuk); di sini digabung jadi satu birama 4 ketuk.
+@status Lirik dicek · 1/2 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 1 dari 2 baris sama persis; 1 baris beda pemisahan kata (“Tuhan nami”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 33) | https://bukuende.wordpress.com/2013/06/09/antong-sai-dok-ma-amen-buku-ende-no-33-buku-logu-no-65/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 | 1 2 3 5 | 4 . 3 v 3 | 5 5 2 3 |
+1 . 7, v 5, | 1 2 3 3 | 2 . 3 |
+> An-tong, sai dok ma a-men, Pa-to-rus ro-ha-na-mi tu-mang-kup ha-ta-Mi. O
+#B
+1 2 3 5 | 4 . 3 v 3 |
+5 5 2 3 | 1 . 7, v 5, | 1 2 (3+4) (5+4) | 3 2 1 |]
+> Je-sus Tu-han na-mi pa-tong-tong ro-ha-na-mi mar-hi-te-hi-te Ton-di-Mi!
+#V
+Antong, sai dok ma amen, Patorus rohanami tumangkup hataMi.
+O Jesus Tuhan nami patongtong rohanami marhitehite TondiMi!

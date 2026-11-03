@@ -1,0 +1,42 @@
+@be 6
+@bl 56
+@title Puji Jahowa na sangap
+@key F
+@meter 3/4
+@credit J.A. Freylinghausen, 1665
+@pages 5 6
+@check Tanda mula pada scan samar; nada dasar F dipastikan dari letak not 1 (F) di paranada.
+@status Lirik dicek · 12/15 baris sama dgn pembanding · melodi cocok Hymnary
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 15 baris sama persis; 3 baris beda ejaan (“sudena”, “Ibanu”, “ditumpakkon/hanagoluanmu”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 6) | https://bukuende.wordpress.com/2013/06/16/puji-jahowa-na-sangap-buku-ende-no-6-buku-logu-no-56/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Pembanding melodi: 15 not pembuka (11532 17656 7121) sama persis dengan incipit tune LOBE DEN HERREN (Stralsund 1665) di Hymnary.org.
+@ref Melodi pembanding: Hymnary.org — LOBE DEN HERREN (Stralsund 1665) | https://hymnary.org/hymn/CCEH/10 | Incipit 11532 17656 7121 (derajat nada) cocok dengan not angka di sini.
+#A
+1 1 5 | 3 .+2 1 | 7, 6, 5, | 6, 7, 1 |
+2 . . | 1 . 0 :|
+> Pu-ji Ja-ho-wa na sa-ngap hu-hut mar-mu-li-a,
+> Ha-mu su-de-na par-ro-ha na ring-gas na ri-a;
+#B
+5 5 5 | 6 . . v | 3 4 5 | 5 .+4 3 |
+2 . . v | 5, 6, 7, | 1 2 3 | 2 . . | 1 . . |]
+> Mar-pu-ngu be, mar-o-lop-o-lop su-de, ha-mu su-de ma-ni-si-a.
+#V
+Puji Jahowa na sangap huhut marmulia,
+Hamu sudena parroha na ringgas na ria;
+Marpungu be, marolop-olop sude, hamu sude manisia.
+-
+Puji Jahowa sigomgom sude parluhutan,
+Na manogihon ho songon niiring ni tangan dohot hosam
+Songon hombar tu roham sai diramoti Ibanu.
+-
+Puji Jahowa, naung tipak manompa dagingmu,
+Jala na tongtong manumpak hisar pamatangmu;
+Jotjot do ro pangurupiNa tu ho, uju na ro hagogotan.
+-
+Puji Jahowa situmpak sude ulaonmu;
+Ai ditumpakkon tu ho tongtong hanagoluanmu,
+Ingot ma i denggan basaNa do i, tomutomuNa sambing do.
+-
+Puji Jahowa tondingku, pasangap goarNa!
+Dohot sude na marhosa mamuji Ibana.
+I do ture baenon ni hita sude. Sai taendehon ma amen!

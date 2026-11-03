@@ -1,0 +1,45 @@
+@be 541
+@bl 373
+@title Na mulak Jesus i
+@key Eb
+@meter 3/4
+@credit Z. No. 649; Lagu: Lewis Horisough 1872
+@pages 511 512
+@check Kredit tercetak "541 Lagu : Lewis Horisough 1872" di bawah ayat (ejaan lazim kemungkinan Lewis Hartsough); ditulis apa adanya.
+@check Ayat 2–6 di buku hanya mencetak 2 baris + "Hutundalhon ma . . ." (refrein sama dgn ayat 1).
+@status Lirik dicek · 10/18 baris sama dgn pembanding
+@check Pembanding lirik: baris 1,2,3,5,7,11,14,17 beda ejaan/kata (mis. kata ke-5 baris 5 'rohangkon' beda; kata tambahan di baris 2,3,11). Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 541) | https://bukuende.wordpress.com/2013/06/16/na-mulak-jesus-i-buku-ende-no-541-buku-logu-no-373/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+(1+3) | 5 .+3 2+1 | 1 . 1 | 2 .+4 6+5 |
+3 . 5 | 1' .+7 6+5 | 6+5 3 1 | 2 .+1 3+2 |
+1 . 0 |
+> Na mu-lak Je-sus i di ha-sa-nga-pon i. Ma-nga-lap na ba-di-a i tu ha-so-na-ngan i.
+#B
+1' .+7 6+5 | 6 . . | 5 .+3 2+1 | 2 . . |
+5 .+6 5+3 | 1+2 3 1 | 2 .+1 3+2 | 1 . |]
+> Hu-tun-dal-hon ma, na di pu-ding-ki. Je-sus ma ha-po-san-ki di ha-ro-ro Na i.
+#V
+Na mulak Jesus i di hasangapon i.
+Mangalap na badia i tu hasonangan i.
+Hutundalhon ma, na di pudingki. Jesus ma haposanki di haroroNa i.
+-
+So tung na tading au di harorona i.
+So tung ditiop rohangkon ma olo sega i!
+Hutundalhon ma . . .
+-
+Nang arta, sangap i, tu aha rongkot i?
+Na tinggal do sudena i di hamagoan i.
+Hutundalhon ma . . .
+-
+Ias ma rohangki dibaen mudarNa i.
+So tung di haroroNa i ramun sambing ma i!
+Hutundalhon ma . . .
+-
+Tinggil ma pinggolhi di soaraNa i,
+So tung so begeonku i di haroroNa i.
+Hutundalhon ma . . .
+-
+Hugolom mudar ni Tuhanku Jesus i.
+Ai i do haporusanki di haroroNa i.
+Hutundalhon ma . . .

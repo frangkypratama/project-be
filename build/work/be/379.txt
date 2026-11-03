@@ -1,0 +1,33 @@
+@be 379
+@bl 252
+@title Ndang sadihari
+@key F
+@meter 6/8
+@credit Lagu : Philipp Paul Bliss 1876
+@pages 363 364
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 12 baris sama; beda di baris 3 (hansitna i), 4 (musemuse), 6 (mago); dicek ulang ke scan, sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 379) | https://bukuende.wordpress.com/2013/06/16/ndang-sadihari-buku-ende-no-379-buku-logu-no-252/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian "Dijou Tuhan i do ho!". Kepala lagu juga mencetak "R.L. No. 125". Birama 6/8: 1 token = 1 not 1/8.
+@check Hlm 363 baris 1 birama 4 tercetak "3 . ." dan not akhir hlm 364 tercetak "1 . . ." (kurang dari 6/8), tetapi not balok keduanya 1/2 bertitik → ditulis 3 . . . . . dan 1 . . . . .
+#A
+3 . . 4 . 4 | 3 . . 1 . . | 1 . . 2 . 2 | 3 . . . . . | 3 . . 4 . 4 |
+3 . . 1 . . | 2 . . 3 . 2 | 1 . . . . . | 4 . . 4 . 4 | 4 . 3 3 . . | 5 . . 2 . 4 |
+4 . 3 3 . . | 1 . . 1 . 1 | 1 . 2 3 . . | 3 . . 3 . 2 | 1 . . . . . |]
+> Ndang sa-di-ha-ri i di-dok ho, ho-ras par jo-lo, par-pu-di ro. Bi-lang ma a-ri-mi, ti-bu do sal-pu-i, a-tik so sa-nga be, han-sit-na i.
+#V
+Ndang sadihari i didok ho, horas parjolo, parpudi ro.
+Bilang ma arimi, tibu do salpu i,
+Atik so sanga be, hansitna i.
+-
+Ndang sadihari, alang dope, sai ro do ahu musemuse.
+Sai pinaingot ho, sai tong ditoishon ho.
+Tu dia nama ho? Lao mago do!
+-
+Manjou do Jesus sadari on, Ho naeng ditopot nuaeng tongon.
+Sai jangkon Jesus i, silehon tua i,
+Holong rohaNa i, sai golom i!
+-
+Roham pauba, lam, lam bot ne. Lam toras daging, ajal talpe.
+Tupa so sahat ho, sai naeng tu surgo ho.
+Elehelekku i, oloi ma i!

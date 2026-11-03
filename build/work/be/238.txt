@@ -1,0 +1,47 @@
+@be 238
+@bl 93
+@title Ihuthon Au sude hamu
+@key Eb
+@meter 4/4
+@credit Johann Hermann Schein, 1628
+@pages 217 218
+@status Lirik dicek · 20/21 baris sama dgn pembanding
+@check Pembanding lirik: L20 kata 3 beda ejaan; scan hlm 218 "nang", buku dipakai. Ditemukan lewat indeks /i-2/.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 238) | https://bukuende.wordpress.com/2013/06/16/ihuthon-au-sude-hamu-buku-ende-no-238-buku-logu-no-93/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 3 4 5 5 | 4 3 2 v 5 |
+6 7 1' 7 | 6 . 5 :|
+> I-hut-hon Au su-de ha-mu! Di-dok Tu-han-ta Je-sus,
+> Sai so-a-da-hon di-ri-mu, ha-tang-ku ma pa-tu-lus;
+#B
+5 | 1' 7 6 5 |
+4 3 2 v 5 | 5 3 4 5 | 3 2 1 |]
+> A-lai bo-long-kon ma su-de pa-ru-lan-mu na so tu-re.
+#V
+Ihuthon Au sude hamu! Didok Tuhanta Jesus,
+Sai soadahon dirimu, hatangku ma patulus;
+Alai bolongkon ma sude parulanmu na so ture.
+-
+Sai Au panondang di hamu di dalan hangoluan.
+Naeng unang lilu be hamu, dao dohot hamagoan.
+Au parhitean di hamu tu hasonangan situtu.
+-
+Hupatuduhon di hamu, sipasidingonmuna;
+Sude geduk ni rohamu, sipaubaonmuna;
+Ai naeng ias ma tondimu di na lao suda bohalmu.
+-
+Na serep roha do Au on huhut holong rohangku,
+Lambok rohangku ai tongtong na lambok do hatangku.
+Tongtong hutatap Debata, i pe Au on ihuthon ma!
+-
+Ndang tarpatupa hami i dipingkir rohamuna.
+Unang mabiar ala ni, ai Au do donganmuna.
+Taluhononku musu i, sai pos ma rohamu disi.
+-
+Siparhamaol hosana i, i ma agoan hosa;
+Alai na sumeahon i, i do pangoluhonsa,
+Na so mamorsan silang i na so tama di Au ma i.
+-
+Antong girgir ma hita be lao mangihuthon Jesus,
+Dagingta, nang tondinta pe talehon ma tu Jesus;
+Ai na manjua Tuhan i ndang dapot hasonangan i.

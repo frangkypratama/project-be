@@ -1,0 +1,56 @@
+@be 187
+@bl 200
+@title Denggan do panoguM
+@key C
+@meter 4/4
+@credit Gottfried Arnold, 1714
+@pages 169 170
+@check Not "3 2" di bagian akhir tercetak tanpa titik atas, tetapi not balok buku menunjukkan E5–D5; dibaca 3' 2'.
+@check Birama "5 4* 5" (baris terakhir hlm 170) tercetak tanpa titik tahan; not balok buku menunjukkan 5 sebagai not 1/2.
+@status Lirik dicek · 22/28 baris sama dgn pembanding
+@check Pembanding lirik: baris 1, 2, 6, 15, 24, 28 beda (umumnya ejaan/penggabungan kata); buku dipakai, belum dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 187) | https://bukuende.wordpress.com/2013/06/13/denggan-do-panogum-buku-ende-no-187-buku-logu-no-200/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+0 1' 7 5 | 6 7 1' (3+4) | 5 3 2 . | 1 . 0 1' |
+7 5 6 2' | 1' 7 6 6 | 5 . . . :|
+> Deng-gan do pa-no-guM a-le Ja-ho-wa, di ang-ka na pi-nar-ma-ha-nan-Mi!
+> Ta-ga-mon ba-he-non-Mu ma na-ro-a, so tar-bu-ni-hon Ho do bur-ju-Mi?
+#B
+0 5 3 5 |
+(6+7) 1' 4 6 | 5 5 4 . | 0 3 5 (2+3) | 4 5 3 5 |
+5 #4 5 . | 0 3 5 (2+3) | 4 5 3 5 | 5 #4 5 . |
+0 1' (3'+2') 1' | 7 5 6 1' | 1' 7 1' . |]
+> Jot-jot su-har do pam-ba-he-nan-Mi di ro-ha ni na so tu-man-da Ho, a-lai mar-hi-te si-an i do ro tu ha-ti-u-ron na ti-no-gu-Mi.
+#V
+Denggan do panoguM ale Jahowa, di angka na pinarmahananMi!
+Tagamon bahenonMu ma naroa, so tarbunihon Ho do burjuMi?
+Jotjot suhar do pambahenanMi di roha ni na so tumanda Ho,
+Alai marhite sian i do ro tu hatiuron na tinoguMi.
+-
+Tung patik angka na binaen ni jolma,
+Ma ihuthonon ni tondim disi?
+Ho na tongtong sumurung i marroha,
+Sai ingkon pasautonMu tahiMi.
+Sai talu do na hum mangalo Ho, dipangke pe sude gogona i,
+Ai Ho do na so halompoan i; Na tinahiM sai ingkon jumpang do.
+-
+Dialo Ho sude na jungkat roha,
+Na timbo i dipatutoru Ho;
+Alai sude na serep i marroha,
+I do na sai diasiasi Ho.
+Parhata na gogo di tano on dihagigihon rohaMi sude,
+Na dangol i ditatap Ho hape naeng urupanMu angka i tongtong.
+-
+O Tuhan, sai pinuji ma goarMu,
+Ai dipangolu Ho do hami on!
+Tandaonnami ma pambahenanMu,
+Dung dipatiur Ho do mata on.
+O Debata, lomo do rohaMi manogu hami di na rodop on,
+Holong do rohaMi di hami on, naeng sahat tu lambungMu baenonMi.
+-
+Jahowa, sai pasabam ma rohangku,
+Mangkadengganhon nasa pambaenMi;
+Ajari au, patiur ma langkangku,
+Lao mandapothon Ho di surgo i.
+Sai unang loas ahu lilu be, pasaor ma TondiMi tu rohangkon,
+Mangiringiring au di tano on, anggiat sahat au tu Ho muse.

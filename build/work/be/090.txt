@@ -1,0 +1,47 @@
+@be 90
+@bl 175
+@title Sai marlas ni roha hita
+@key F
+@meter 4/4
+@credit David Denicke, 1642
+@pages 80 81
+@status Lirik dicek · 17/20 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 pembanding punya kata tambahan sesudah "hajolmaon" (buku mencetak "!" di bawah not akhir → cocok dengan not yang kurang suku kata); baris 5 ejaan; baris 17 kata ke-3–4 berbeda (scan: "On tongtong do huhalashon").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 90) | https://bukuende.wordpress.com/2013/06/18/sai-tapuji-debatanta-buku-ende-no-90-buku-logu-no-175/ | 17/20 baris sama
+@check Buku memberi legato pada ketukan gantung "3 4", tetapi baris lirik ke-2 ("Ai naung") memakai 2 suku kata → legato tidak dipakai; baris 1 ("Sai ta-") juga 2 suku kata. Akibatnya baris 1 kurang satu suku kata: di bawah not akhir "1" buku hanya mencetak "!" → ditulis "_" (suku kata "on" ditahan).
+@check Judul "Sai marlas ni roha hita", baris pertama lirik "Sai tapuji Debatanta".
+#A
+3+4 | 5 5 4 3 | 2 2 0 3+4 |
+5 1 2 2 | 1 . 0 :|
+> Sai ta-pu-ji De-ba-tan-ta, a-le ha-jol-ma-on _
+> Ai naung he-he do Tu-han-ta si-an ha-ma-te-an i
+#B
+2+3 | 4 4 3 3 |
+2 . 0 4+5 | 6 6 5 5 | 4 . 0 1+1 |
+4 3 2 1 | 2 2 0 3+4 | 5 1 2 .+3 | 1 1 0 |]
+> Di-pa-si-dung Je-sus i u-la-on-na sa-su-de. Pa-tu-pa-hon ha-lu-a-on di sa-lu-hut ha-jol-ma-on.
+#V
+Sai tapuji Debatanta, ale hajolmaon!
+Ai naung hehe do Tuhanta sian hamatean i.
+Dipasidung Jesus i ulaonna sasude.
+Patupahon haluaon di saluhut hajolmaon.
+-
+Anggo utang ni dosangku digarar Jesus i;
+I do haporseaonku di na tinaonNa i.
+Nunga tulus patik i, nunga mintop rimas i;
+Di na hehe i Ibana, ro di au hangoluanna.
+-
+Ia ho banuatoru, nunga harhar talimi;
+Ai dung hehe na gumogo, loha do hurunganmi.
+Surgo i tarungkap do, dung ditaban Jesus ho,
+Gabe tu hangoluanna, diarahon do donganna.
+-
+Dohot ho, o hamatean, nunga mago soropmi,
+Suruhonku pe udean, ndang na tinggal au disi,
+"Anggo au mangolu do sai mangolu dohot ho!"
+Ninna Jesus tu rohangku molo ro hamateanku.
+-
+On tongtong do huhalashon; Nunga hehe Jesuski.
+Dohot ma hamu donganku angka na tinobus i,
+Sai tapuji Debata, sai tadok: Haleluya!
+Na mangolu do Tuhanta ala ni sai las rohanta.

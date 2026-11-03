@@ -1,0 +1,35 @@
+@be 648
+@bl 0
+@title Sangap di Debata Ama
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Praise God for His Love; Nyanyian Gereja latin Abad VII · Terj.: Pdt. M. H. Sihite. · Lagu: Henry T. Smart, 1813 - 1879
+@pages 665 666
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Do = Bes3 (not 5 pertama = F4 di balok) → @oct -1.
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 648) | https://bukuende.wordpress.com/2013/06/18/sangap-di-debata-ama-buku-ende-no-648-buku-logu-no-648/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5 3 1' 5 | 3' .+2' 1' 5 | 6 6 5 1' | 5 4 3 . |
+5 3 1' 5 | 3' .+2' 1' 7 | 1' 7 6 (7+1') |
+7 6 5 . | 2' .+2' 7 5 | 3' .+2' 1' 6 |
+4' 3' 2' 1' | 1' 7 1' . |]
+> Sa-ngap di De-ba-ta A-ma, sa-ngap di A-nak-Na i, nang di Ton-di Por-ba-di-a De-ba-ta na song-kal i, ha-le-lu-ya pu-ji Tu-han sa-le-leng-le-leng-na i.
+#V
+Sangap di Debata Ama, sangap di AnakNa i,
+nang di Tondi Porbadia Debata na songkal i,
+haleluya puji Tuhan saleleng-lelengna i.
+-
+Puji Raja siparholong Sipalua jolma i
+na patauhon hita bongot tu harajaonNa i
+haleluya puji Tuhan Raja na tarsilang i.
+-
+Puji Raja sian surgo Raja ni huria i
+Raja ni saluhut bangso Tuhan na sun sangap i
+langit tano sai endehon sangap di goarNa i.
+-
+Hasangapon salelengna tarbege di surgo i
+marsaringar do soara ni na tinompaNa i
+haleluya puji Tuhan Debata na songkal i.

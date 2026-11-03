@@ -1,0 +1,18 @@
+@be 845
+@bl 0
+@title Amen (3 X) HKBP
+@key Eb
+@meter 4/4
+@credit Syair & Lagu: Liturgi Belanda 1930
+@pages 935
+@status Lirik dicek · 1/1 baris sama dgn pembanding
+@check Pembanding lirik: 1/1 baris sama.
+@check Pembanding menyebut Buku Logu No. 845; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 845) | https://bukuende.wordpress.com/2013/06/09/amen-3x-buku-ende-no-845-buku-logu-no-845/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Suku kata "a" pada "a - men" ditahan dari 5 ke 4 (tanpa legato tercetak) → ditulis "a _ men".
+#A
+5 . 6 . | 5 . 6 . | 5 . 4 . | 3 . . . |]
+> A-men, a-men, a _ men.
+#V
+Amen, amen, amen.

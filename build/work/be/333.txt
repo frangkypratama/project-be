@@ -1,0 +1,45 @@
+@be 333
+@bl 75
+@title Jesus hinaposan ni
+@key C
+@meter 4/4
+@credit Johann Cruger 1662
+@pages 311 312
+@status Lirik dicek · 17/18 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 18 (tujuanki); dicek ulang ke scan hlm 312, buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 333) | https://bukuende.wordpress.com/2013/06/18/sai-banuaginjang-do-buku-ende-no-333-buku-logu-no-75/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Judul di kepala lagu "Jesus hinaposan ni" (nama Logu No. 75, melodi sama dengan BE 329); baris pertama lirik "Sai banuaginjang do situjuon".
+@check "4*" dan "5*" = not dinaikkan (not balok: F♯, G♯) → #4, #5.
+#A
+5 . 3 . | 6 7 1' 1' | 7 . v 6 . | 1' . 5 3 |
+4 3 2 . | 1 . . . :|
+> Sai ba-nu-a-gin-jang do si-tu-ju-on ni ro-han-ta:
+> Ho-lan pa-i-so-lat do hi-ta di ba-nu-a-to-nga.
+#B
+3 . #4 . | #5 6 6 5 |
+6 . v 1' . | 2' . 3' 3' | 2' 2' 1' . |]
+> Par-da-ga-ngan ta-no i, sur-go do sam-bu-lo i
+#V
+Sai banuaginjang do situjuon ni rohanta:
+Holan paisolat do hita di banuatonga.
+Pardagangan tano i, surgo do sambulo i
+-
+O Tondingku, tuju ma surgo i haroroanmu;
+Tano on tundalhon ma, na so tau parmiananMu.
+Surgo do tinuju ni na torang marroha i.
+-
+Jesus do mandok tu au : "Sai tu ginjang ma tujui,
+Asa unang ho mandao sian sambulom adui,"
+Ia tong huingot i, sahat au muse tusi.
+-
+Sai tu ginjang au, manat do tinatap ni rohangku;
+Parjambaranki na hot, na di lambung ni Amangku.
+Nang tiur pe bintang i, marsinondangan do i,
+-
+Sai tu surgo ma au lao, hitengki ma hamatean;
+Jadi sai malua au sian nasa hasusaan
+Jesus pajolohon au, ipe las rohangku lao.
+-
+Holan surgo i nama siringkotan ni tondingku,
+Asa gotaponku ma roharoha ni dagingku.
+Surgo do tujuanki, pama sahat au tusi.

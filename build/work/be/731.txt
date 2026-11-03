@@ -1,0 +1,53 @@
+@be 731
+@bl 0
+@title Benget ma ho
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Sel Nur getreu, Christoph Blumharb, 1888; Terj.: Biv. MH. Sitorus; Lagu: Conrad Kocher, 1838
+@pages 777 778
+@status Lirik dicek · 12/19 baris sama dgn pembanding
+@check Bagian suplemen "PARUNGKILON"; tidak ada nomor "Logu No." di buku → @bl 0.
+@check Not 1̇ = Bes4 (balok), maka @oct -1.
+@check Buku mencetak tanda birama 4/4 dan 2/4: birama "2̇ 2̇ | 1̇ ." (masing-masing 2 ketuk) digabung menjadi satu birama 4/4 sebelum tanda ulang; birama 2 ketuk "7 ." di bagian kedua dijadikan akhir bagian B (bagian C mulai sesudahnya).
+@check Not terakhir tercetak "1" tanpa titik atas, balok = Bes4 → ditulis 1'.
+@check Bagian C berisi 15 not untuk 14 suku kata: "mo" dianggap ditahan pada 2̇ 1̇ (ditulis "mo _"), perlu dicek.
+@check Kredit tercetak "Sel Nur getreu, Christoph Blumharb" (lazim: Sei nur getreu, Blumhardt); ditulis apa adanya.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Pembanding lirik: baris 2, 3, 5, 6, 15, 17, 19 beda; ayat 4 tercetak "Jesuu" (salah cetak). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 731) | https://bukuende.wordpress.com/2013/06/09/benget-ma-ho-buku-ende-no-731-buku-logu-no-731/ | proofreading per baris
+#A
+1' 7 1' | 2' . . 5 | 1' 7 1' 2' | 3' 3' 6 (4'+3') |
+2' 2' 1' . :|
+> Ben-get ma ho di pa-rung-ki-lon-mi ai Je-sus do-ngan-mi,
+> ben-get ma ho ra-his pe da lan i di ti-op ta-ngan-mi
+#B
+5 1' 1' | 7 6 2' 6 | 7 . |
+> Na ro do Ra-ja Si-par-mo
+#C
+6 2' 3' 7 | 1' 1' 4' 3' |
+2' 1' 2' 5 | 6 . 7 . | 1' |]
+> nang lao ma-ngu-ru-pi a-sa mo _ nang, ben-get ma ho.
+#V
+Benget ma ho di parungkilonmi ai Jesus donganmi,
+benget ma ho rahis pe dalan i di tiop tanganmi
+Na ro do Raja Siparmonang lao mangurupi asa monang,
+benget ma ho.
+-
+Benget ma ho sai tiop hata i, asa margogo ho,
+benget ma ho di paraloanmi sai na monang do ho.
+Ai nunga dirapuhon Jesus saluhut rante ni sibolis,
+benget ma ho.
+-
+Benget ma ho tongtong ma ho dungo
+unang tarpodom ho,
+benget ma ho partumpalanNa do molo manahan ho.
+Nang pe manosak hasusaan
+marujung do tu las ni roha,
+benget ma ho.
+-
+Benget ma ho parmonang Jesuu i, dijaga tondimi,
+benget ma ho rade do upami dibaen Tuhanta i.
+Di ho ma tumpal hangoluan
+di surgo sogot di na sonang,
+benget ma ho.

@@ -1,0 +1,39 @@
+@be 191
+@bl 170
+@title HosaNa do nilehon ni
+@key Eb
+@meter 4/4
+@credit J.W Wilms
+@pages 173 174
+@check Birama ke-2 "1 . 7 6" dibaca 1/4 + (titik 1/8 + dua not 1/16 berlegato) sesuai not balok.
+@check Angka "4*" dibaca #4 (A♮); ayat 2–4 memuat tanda ":,:" (ulang frasa akhir) dan ditulis seperti di buku.
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 8 pembanding kurang 1 kata, baris 14 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 191) | https://bukuende.wordpress.com/2013/06/13/hosana-do-nilehon-ni-buku-ende-no-191-buku-logu-no-170/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+5, | 1 1 3 2 | 1 .+.+(7,+6,) 5, v 1 | 7, 1 4 3 |
+(3 2) 0 5, | 1 1 3 2 | 1 .+7, 6, v (7,+1) |
+(2+3) (#4+5) 7, 6, | 5, . 0 5, | 4 .+3 2 2 | 3 .+2 1 v (1+3) |
+5 5 3 1 | (3 2) 0 5, | 1 1 (3+2) (1+7,) | 6, 6, 4 .+2 |
+1 1 (7,+1) (2+3) | 1 . v 2 . | 3 (1+3) 5 7, | 1 . . |]
+> Ho-sa-na do ni-le-hon ni Tu-han-ta Je-sus i ma-no-bus hi-ta sa-su-de, di-baen ba-sa-Na i. Na du-rus do mu-dar-Na i di do-lok Gol-ga-ta; Di-ga-rar do u-tang-ta i tu Tu-han De-ba-ta, tu Tu-han De-ba-ta.
+#V
+HosaNa do nilehon ni Tuhanta Jesus i
+Manobus hita sasude, dibaen basaNa i.
+Na durus do mudarNa i di dolok Golgata;
+Digarar do utangta i tu Tuhan Debata, tu Tuhan Debata.
+-
+Sai timbang ma holongNa i di ho pardosa i;
+Patangkas pangkophopNa i na patandahon i.
+Antong pauba ma roham, oloi ma Jesus i;
+Sai hagigihon ma dosam, :,: Nang nasa jeami.
+-
+Sai dasing ma na bernit i, tinaon ni Jesus i.
+Huhut parsaulihon i baen hangoluanMi.
+Pasahat dosami sude tu Jesus, Tuhanmi;
+Sai sonang tondimi muse, :,: Lao tu lambungNa i.
+-
+Antong ihuthon ma tongtong siporsan dosami;
+Saleleng ho di tano on, paburju rohami.
+Pasangap ma Tuhanta i. Papujipuji ma
+MudarNa na badia i, :,: Tobusmu na arga.

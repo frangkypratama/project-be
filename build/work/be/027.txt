@@ -1,0 +1,51 @@
+@be 27
+@bl 86
+@title Debata do manggomgomi
+@key G
+@meter 4/4
+@credit Heinrich Albert, 1642
+@pages 23 24
+@check Judul tercetak "Debata do manggomgomi" (sama dengan BE 31); lirik ayat 1 dimulai "Haleluya! Ari Minggu". Kredit tercetak "Heindrich Albert".
+@status Lirik dicek · 20/24 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 20 dari 24 baris sama persis; 4 baris beda ejaan (“jumpang”, “umarga”, “pasonggop”, “SabatMi”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 27) | https://bukuende.wordpress.com/2013/06/13/haleluya-ari-minggu-buku-ende-no-27-buku-logu-no-86/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 2 3 5 | 1 7, 6, . | 5, . 6, 7, | 1 2 3 2 |
+1 . . . :|
+> Ha-le-lu-ya! A-ri Ming-gu, a-ri na du-meng-gan i;
+> Mo-lo i-ba lao mar-pu-ngu do-hot do-ngan Kris-ten i;
+#B
+3 3 2 3 | 4 3 2 . | 6, 7, 1 2 | 3 2 1 . |]
+> A-ri na su-mu-rung i, las ni ro-hang-ki do i.
+#V
+Haleluya! Ari Minggu, ari na dumenggan i;
+Molo iba lao marpungu dohot dongan Kristen i;
+Ari na sumurung i, las ni rohangki do i.
+-
+Maradian do tondingku di na jumpang Minggu i;
+Nasa arsak ni rohangku. Hulonongkon do disi
+Tu bagasan roha ni Jesus Kristus Tuhanki.
+-
+Na huula ganup ari hutundalhon do disi,
+Asa tarpasarisari au ngolu ni tondingki;
+Arta na umarga i jumpang au di Minggu i.
+-
+Lomo ni rohaM, o Tuhan, naeng patupaonku do;
+Parangengku hupadenggan asa hupasangap Ho.
+Ulos hatigoran i, lehon ma di tondingki.
+-
+Sai pahehe ma rohangku sai ajari ma au on,
+Jala tongos pangapulMu tu bagasan rohangkon
+Baen sombu sadari on, uas ni tondingkinon.
+-
+Pasupasu ma jamita di huriaMi sude;
+Sai pasonggop tu Pandita nang tu angka guru pe
+Tondi Parbadia i; Marsahala baen sude.
+-
+Paimbaru ma padanMu dohot na porsea i;
+Pargogoi ma siseanMu pasangaphon goarMi,
+Tangiangna, ende pe, sai tangihon ma sude
+-
+Sai urupi au Tuhanku, paujungkon ari on
+Di bagasan tangiangku songon na hupungka on.
+Sai huhalungunhon ma SabatMi, o Debata

@@ -1,0 +1,45 @@
+@be 159
+@bl 201
+@title Martua dongan angka na
+@key C
+@meter 2/4
+@credit Gutersloh 1854
+@pages 143 144
+@check Judul kepala lagu tercetak terpotong "Martua dongan angka na"; baris pertama lirik "Martua dongan angka na sabagas".
+@check Tanda birama tercetak 3/4, tetapi setiap birama penuh berisi 2 ketuk (not angka & paranada), jadi ditulis 2/4.
+@check Akhir bagian A tercetak "1' 0̄" (1/4 + istirahat 1/8) dan bagian B mulai dengan ketukan gantung 1/8 "5̄"; di sini ditulis "1'" lalu "0+5" agar ketukan tepat.
+@check Komponis tercetak "Gutersloh 1854" (lazim: Gütersloh).
+@status Lirik dicek · 12/16 baris sama dgn pembanding
+@check Pembanding lirik: L6, L8, L10, L15 beda satu kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 159) | https://bukuende.wordpress.com/2013/06/16/martua-dongan-buku-ende-no-159-buku-logu-no-201/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+1 3+5 | 1' 1' | 7+6 5+4 | 4 3 v |
+5 3+5 | 6 .+5 | 6+7 1'+2' | 1' :|
+> Mar-tu-a do-ngan ang-ka na sa-ba-gas, na mar-do-ngan-hon Tu-han Je-sus i.
+> Na ma-ngo-loi I-ba-na man-sai ring-gas, na so mar-ho-lang ta-ngi-ang-na i.
+#B
+0+5 |
+5+.+.+2 2+3 | 4+6 5+4 | 4 3 | 1 3+1 | 5 .+3 |
+6+5 3+1 | 2 . | 0+1 3+5 | 1' 1' | 7+6 5+4 |
+4 3 v | 5 3+5 | 6+7 1'+2' | 3' 2' | 1' . |]
+> Tong-tong ho-long ro-ha-Na di i-ba-na, ma-nung-kun lo-mo ni ro-ha-Na i, hu-hut tong-tong mar-gu-ru tu ha-ta-Na di-baen san-dok pa-nga-la-ho-na i.
+#V
+Martua dongan angka na sabagas, na mardonganhon Tuhan Jesus i.
+Na mangoloi Ibana mansai ringgas, na so marholang tangiangna i.
+Tongtong holong rohaNa di ibana, manungkun lomo ni rohaNa i,
+Huhut tongtong marguru tu hataNa dibaen sandok pangalahona i.
+-
+Martua baoa dohot inaina, sisadaroha mida Jesus i.
+Na rap marholong roha di Tuhanna, marsaulihon hatuaon i,
+Na sahat sian asi ni rohaNa tu halak na porsea sasude;
+I do dibaen nasida haposanna, manang beha parsorionna pe.
+-
+Martua na saripe, pangajari, di anakkonna, asa tong burju.
+Naso marpansohotan ganup ari, tumangiangkon angka i tutu
+Tu Tuhan Jesus, asa sai Ibana, mamasumasu sasudena i,
+Huhut dilehon asi ni rohaNa, manogihonsa tu lambungNa i.
+-
+Martua dongan, angka na sajabu, parlas ni roha dibagasan Ho.
+O Jesus, na ringkot mamasumasu, angka na holong roha i di Ho.
+Martua ma tutu sude nasida. Nang di na songgop hasusaan pe;
+Ai sai diapul Ho rohanasida, paima ditogu Ho tu jabuMi.

@@ -1,0 +1,33 @@
+@be 578
+@bl 0
+@title Puji Tuhan diholongNa
+@key C
+@meter 3/4
+@credit Syair: Lobi den hern, Freud Krummacher; Terj.: Biv. N. A. Sirait / Blv. M. N. Sitorus; Lagu: Karl Ziliner, 1800-1860
+@pages 553 554
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0.
+@check Kredit tercetak "Lobi den hern, Freud Krummacher" dan "Karl Ziliner" — ditulis apa adanya.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@status Lirik dicek · 6/10 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 (anakkon na), 5 (marmuda) beda ejaan; baris 7 "sura" dan 8 "diurupi" beda kata — dicek ulang di scan, tercetak "sura" dan "diurupi"; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 578) | https://bukuende.wordpress.com/2013/06/16/puji-tuhan-diholongna-buku-ende-no-578-buku-logu-no-578/ | teks lirik
+#A
+5+.+.+5 | 1' .+5 1'+3' | (2'+.+.+7) 1' 1'+7 | 6 .+6 1'+6 |
+5 . 5+1' | (1' 7)+5 5+1' | (1'+2') 2' 1'+3' |
+(4'+.+3')+2' 1' 7 | 1' . |]
+> Pu-ji Tu-han di ho-long-Na na ma-na-tap ho tong-tong tung na so pa-som-bu-on-Na a-nak-kon na i an-tong
+#V
+Puji Tuhan di holongNa na manatap ho tongtong
+tung na so pasombuonNa anakkon na i antong.
+-
+Puji Tuhan ai Ibana mangapul na marsak i,
+songon udan mamornohi tano na dangaron i.
+-
+Puji Tuhan dibasaNa na marmuda sasude.
+manumpahi na ni ula baen hangoluanta be.
+-
+Puji Tuhan nang tung sura to arsak ni roha i
+diurupi ho manaon na dokdok dingolumi.
+-
+Puji Tuhan nang manaon ho di pardalan mi
+ai dung salpu na marungkil ro ma las ni roha i.

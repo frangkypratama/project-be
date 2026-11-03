@@ -1,0 +1,45 @@
+@be 594
+@bl 0
+@title Sai ro ma Ho Immanuel
+@key G
+@meter 4/4
+@credit Syair: Veni, veni, Immanuel / O come, o come, Immanuel; Latin Hymm; Terj.: Pdt. J. A. U. Doloksaribu; Lagu: Perancis, abad 15 / Thomas Helmon, 1811 - 1890
+@pages 579 580 581
+@status Lirik dicek · 9/11 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan "bangsoM" dan "dalam ni musu" (buku mencetak "dalam").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 594) | https://bukuende.wordpress.com/2013/06/18/sai-ro-ma-ho-immanuel-buku-ende-no-594-buku-logu-no-594/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Jes 7:14. Lagu minor (la = 6, E minor) ditulis dengan tonika mayor relatif G.
+@check Kredit tercetak "Latin Hymm", "Thomas Helmon" (lazim: Latin Hymn, Thomas Helmore) — ditulis apa adanya.
+@check Birama "1 . . 7̣ 5̣" tercetak 5 ketuk; not balok = G 1/2, Fis 1/4, D 1/4 → ditulis (1 . 7,) 5,.
+@check Legato "2 7̣ 6̣" (Is-ra-el, Im-ma-nu-el) mengikuti legato not balok (A–Fis–E); penempatan suku kata buku agak bergeser.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not. Bagian B = refrein ("Ref. : Las ma roham ...").
+#A
+6, | 1 3 3 3 | (2 4) (3 2) | 1 . . 2 |
+3 1 6, 1 | (2 7, 6,) 5, | 6, . . 2 |
+2 6, 6, 7, | (1 . 7,) 5, | 5, . . 1 |
+2 3 3 3 | (2 4 3) 2 | 1 . . |
+> Sai ro ma Ho Im-ma-nu-el, ma-no-pot bang-soM is-ra-el. Nu-nga ngol-ngol-an bang-so-Mon, pa-i-ma-i-ma ha-ro-roM.
+#B
+5 | 5 . . 3 | 3 . . 3 | (2 4 3) 2 |
+1 . . 2 | 3 1 6, 1 | (2 7, 6,) 5, | 6, . . |]
+> Las ma ro-ham O Is-ra-el, ai nu-nga ro Im-ma-nu-el.
+#V
+Sai ro ma Ho Immanuel, manopot bangsoM israel.
+Nunga ngolngolan bangsoMon, paimaima haroroM.
+Ref. : Las ma roham O Israel, ai nunga ro Immanuel.
+-
+Sai ro ma Ho O Jesuski, salpuhon ma na hansit i
+palua ma huriaMi, sian hasosahan na i.
+Ref. : Las ma roham ...
+-
+Sai ro ma Ho panondang i, palao ma na holom i
+patiur pardalananki, gok dame bahen rohangki
+Ref. : Las ma roham ...
+-
+Sai ro ma Ho O Tuhanki, palua na tarhurung i
+ungkap pintu ni surgo i, hinsu dalam ni musu i.
+Ref. : Las ma roham ...
+-
+Sai ro ma Ho Debatangki, baen marhuaso hataMi
+songon na pinatupaMi, di atas dolok Sinai i.
+Ref. : Las ma roham ....

@@ -1,0 +1,36 @@
+@be 436
+@bl 389
+@title Ai adong do Tuhanku.
+@key F
+@meter 4/4
+@credit Z.L. No. 11 · Lagu: Grant Colfax Tullar 1950
+@pages 418 419
+@check Kepala lagu tercetak "Logu No. 389"; ditulis sesuai buku.
+@check "3̄.3̿", "1̄.2̿" dll. = not 1/8 bertitik + 1/16 (sesuai not balok; beberapa angka hanya bergaris tunggal). "4̸" (dicoret) dan "4*" = 4 kres (B♮); "2*" = 2 kres (Gis).
+@check Ayat 2–3 di buku diakhiri "Tung ......" = ulangi bagian "Tung tarpajal nuaeng ... tondingkinon."
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 3, 4, 6. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 436) | https://bukuende.wordpress.com/2013/06/06/ai-adong-do-tuhanku-buku-ende-no-436-buku-logu-no-389/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3+.+.+3 | 3 1+.+.+2 3+3 .+5 | 4 1+.+.+2 3 3+.+.+3 |
+3 1+.+.+2 7, 1+.+.+2 | 1 . . 3+.+.+3 | 3 1+.+.+2 3 3+.+.+5 |
+4 1+.+.+2 3 3+.+.+3 | 3 2+.+.+1 7, 3+.+.+2 | 1 . . |
+> Ai a-dong do Tu-han-ku, na mang-kop-hop au, na tar-pa-jal tu si-lang do i, Tung hu-mop-hop au on do du-rus mu-dar i mang-hup-ku-pi su-de do-sang-ki.
+#B
+5+.+.+5 | 5 #4+.+.+6 5 3+.+.+3 | 3 #2+.+.+4 3 3+.+.+3 |
+3 2+.+.+2 2+3 .+#4 | 5 . . 6+.+.+7 | 1' 7+.+.+6 5 5+.+.+5 |
+6 5+.+.+4 3 3+.+.+3 | 3 2+.+.+2 1 7,+.+.+7, | 1 . . |]
+> Tung tar-pa-jal nu-aeng ang-ka do-sa di-baen, na-sa ar-sak ni ro-hang-ki-non, So tung lu-pa be i, ba-sa ni Tu-han-ki ni-a-si-an tu ton-ding-ki-non.
+#V
+Ai adong do Tuhanku, na mangkophop au,
+Na tarpajal tu silang do i, Tung humophop au on do durus mudar i manghupkupi sude dosangki.
+Tung tarpajal nuaeng angka dosa dibaen, nasa arsak ni rohangkinon,
+So tung lupa be i, basa ni Tuhanki niasian tu tondingkinon.
+-
+Ndang adong hamagoan tu tondingkinon,
+Saluhut do ditaon Tuhanki; Ai diburi do au, tung ias rohangki,
+Dibaen Jesus, panghophopNa i. Tung ......
+-
+Hupasolhot rohangku tu Tuhankinon,
+Ai ditobus Ibana do au. Hu paboa tongtong na binaenna tu au.
+Asa dohot tu surgo au lao Tung....

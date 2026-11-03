@@ -1,0 +1,59 @@
+@be 15
+@bl 103
+@title Aut na saribu hali ganda
+@key F
+@meter 4/4
+@credit Johann Balthasar König, 1738
+@pages 14 15
+@check Buku menulis "Konig"; ejaan aslinya König.
+@status Lirik dicek · 19/28 baris sama dgn pembanding · melodi cocok Hymnary
+@check Pembanding lirik: bukuende.wordpress.com — 19 dari 28 baris sama persis; 9 baris beda (ayat 9 di buku mengulang baris 2 dengan variasi “di hurang i”/“di lambungMi”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 15) | https://bukuende.wordpress.com/2013/06/09/aut-na-saribu-hali-ganda-buku-ende-no-15-buku-logu-no-103/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Pembanding melodi: 15 not pembuka (53565 43213 21234) sama persis dengan incipit tune O DASS ICH TAUSEND ZUNGEN HÄTTE (König 1738) di Hymnary.org.
+@ref Melodi pembanding: Hymnary.org — O DASS ICH TAUSEND ZUNGEN HÄTTE (König 1738) | https://hymnary.org/hymn/CCEH/415 | Incipit 53565 43213 21234 (derajat nada) cocok dengan not angka di sini.
+#A
+0 5 3 5 | 6 5 4 3 | 2 . 1 v 3 |
+2 1 2 3 | 4 3 2 . :|
+> Aut na sa-ri-bu ha-li gan-da sa-ri-ngar ni so-a-rang-ki,
+> Naeng na-sa go-go ba-he-non-ku, ma-mu-ji De-ba-tan-ta i.
+#B
+0 2 2 2 |
+3 5 5 #4 | 5 . 0 5 | 3 1 6 4 | 3 2 1 . |]
+> Pa-bo-a las ni ro-hang-ki hi-nor-hon ni pam-baen-Na i
+#V
+Aut na saribu hali ganda saringar ni soarangki,
+Naeng nasa gogo bahenonku, mamuji Debatanta i.
+Paboa las ni rohangki hinorhon ni pambaenNa i
+-
+Tung sura sahat soarangku tu ujung ni portibi on,
+Naeng nasa jolma haraonku mamuji Debata tongtong
+Tama do nasa hosangki hubaen pasangap Tuhan i.
+-
+Unang ma modom ho tondingku! Sai ngot ma ho.
+Sai hehe ma. Radot ma ho di ulaonmu, sai puji Tuhan Debata
+Sai pangke nasa malomi mamujimuji Tuhan i.
+-
+Mauliate ma rohangku di ho, o Debata tongtong
+Dibaen sude denggan basaMu naung nilehonMu di au on
+Ai dipatongon Ho tongtong sude na ringkot di au on.
+-
+Hupuji dohot ho, o Jesus, marningot asi ni rohaM
+Marningot mudarMi na durus ro di sude denggan basaM
+Patupa haluaon i di au pardosa godang i.
+-
+Ho pe, o Tondi Parbadia, dipuji ende-endengkon.
+Margogo jala marmulia do Ho mangapul rohangkon.
+Molo hubaen na denggan i hinorhon ni gogoM do i.
+-
+Ai ise do mamasumasu au on, o Debata, nda Ho?
+Pamatangkon ro di tondingku sai diparmudumudu Ho.
+Huhut lambas do rohaMi manatap pardosaonki.
+-
+Sai pujionku do basaMu saleleng na mangolu au
+Pasangaponku do goarMu saleleng na marhosa au
+Maradu tos pe hosangki, naeng pujionku sangapMi.
+-
+Sai jalo ma ale Tuhanku pamujingkon na hurang i,
+Di surgo pe padenggganonku dung sahat au di hurang i,
+Di surgo pe padengganonku dung sahat au di lambungMi
+Marloksaloksa hali do, disi endehononku Ho!

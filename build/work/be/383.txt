@@ -1,0 +1,41 @@
+@be 383
+@bl 383
+@title Adong do Ama.
+@key Eb
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 367 368
+@check Kepala lagu mencetak "383 Logu No. 383 : Adong do Ama. S. No. 216" (nomor Logu sama dgn nomor BE; mungkin salah cetak, ditulis apa adanya).
+@check "5.6", "4.5", "3.4", "2.3" bergaris atas tunggal+ganda = 1/8 bertitik + 1/16, ditulis "5+.+.+6" dst.
+@check Birama "1 . 0 3.4" (baris 3): not 1/2 + istirahat 1/4 + 1/8 bertitik + 1/16; ada tanda napas.
+@status Lirik dicek · 9/16 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di L1, L2, L4, L5, L8, L12 (mis. "Dijou"), L6 kata "Jesus" (buku: "tu Jesus na di surgo i", dicek ulang di scan). Ayat 1 tidak tercetak sebagai teks, disusun dari lirik di bawah not.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 383) | https://bukuende.wordpress.com/2013/06/05/adong-do-ama-buku-ende-no-383-buku-logu-no-383/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 5+.+.+6 5+4 3+4 | 5 6 2 . |
+4 4+.+.+5 4+3 2+3 | 4 5 3 .+1 | 1 1 1' .+6 |
+6 6 5 .+5 | 5+6 5+4 3 2 | 1 . v 0 3+.+.+4 |
+5 5+.+.+6 5+4 3+4 | 5 6 2 v 2+.+.+3 |
+4 4+.+.+5 4+3 2+3 | 4 5 3 .+1 | 1 1 1' .+6 |
+6 6 5 .+5 | 5+6 5+4 3 2 | 1 . . 0 |]
+> A-dong do A-ma na di sur-go i, Tu-han Ja-ho-wa De-ba-tan-ta i. Di-jou do au, na lao ma au Tu A-ma na di sur-go i. Lao ma au, lao ma au tu na di sur-go i, Lao ma au, lao ma au tu na di sur-go i. Di-jou do au na lao ma au tu A-ma na di sur-go i.
+#V
+Adong do Ama na di surgo i, Tuhan Jahowa Debatanta i.
+Dijou do au, na lao ma au tu Ama na di surgo i.
+:,: Lao ma au, lao ma au tu na di surgo i.
+:,: Dijou do au, na lao ma au tu Ama na di surgo i.
+-
+Di surgo do Tuhanta Jesus i, na paluahon manisia i.
+Dijou do ahu, na lao ma au tu Jesus na di surgo i.
+:,: Lao ma au, lao ma au tu na di surgo i.
+:,: Dijou do au, na lao ma au tu Jesus na di surgo i.
+-
+Di surgo do dipeop tumpalhi, na hiniraphon ni Tuhanta i
+Dijou do au, na lao ma au manean na di surgo i.
+:,: Lao ma au. Lao ma au tu na di surgo i.
+:,: Dijou do au, na lao ma au tu Ama na di surgo i.
+-
+Molo masihol ho muse di au, ingot ma, na di surgo i do au;
+Dapothon au tu surgo i, ai ho pe sonang do disi!
+:,: Lao ma au, lao ma au tu na di surgo i.
+:,: Dapothon au tu surgo i, ai ho pe sonang do disi!

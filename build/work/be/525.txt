@@ -1,0 +1,43 @@
+@be 525
+@bl 361
+@title Na laho ma au
+@key D
+@meter 3/4
+@credit Z. No. 160
+@pages 496 497
+@check Ketukan gantung awal "5̄.4̿" (2 not) hanya untuk satu suku kata (Na / O); legato tidak dicetak di sini, tetapi dicetak pada ketukan gantung refrein "Sai" → ditulis legato.
+@check Refrein: birama "6 . 4̄.6̿" (bait: "6 . 5̄.6̿") ditulis sesuai cetakan.
+@check Ayat 2–4 diakhiri "Sai ro ...." = refrein diulang.
+@status Lirik dicek · 12/17 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 17 baris sama; baris 1, 2, 10 penulisan kata digabung/dipisah; baris 8, 14 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 525) | https://bukuende.wordpress.com/2013/06/16/na-laho-ma-au-buku-ende-no-525-buku-logu-no-361/ | Pembanding lirik (tanda baca diabaikan).
+#A
+(5+.+.+4) | 3 3 3 | 3 . 5+.+.+6 | 5 2 4 | (3+2) 1 5 |
+1' . 7+.+.+6 | 6 . 5+.+.+6 | 5 5 5 | 1 . :|
+> Na la-ho ma au tu na so-nang di gin-jang, Di sur-go tu-tu sai na so-nang ma au.
+> O, ho do-ngan-ki, na gok do-sa, gok ar-sak Sai do-hot ma ho, sai tu sur-go ma lao.
+#B
+(5+.+.+4) | 3 . 3+.+.+4 | 5 . 4+.+.+3 | (2 4) 3+.+.+2 |
+1 . 5 | 1' . 7+.+.+6 | 6 . 4+.+.+6 | 5 5 5 | 1 . |]
+> Sai ro do-hot ho, do-hot ho, do-hot ho, Sai do-hot ma ho, sai tu sur-go ma lao
+#V
+Na laho ma au tu na sonang di ginjang,
+Di surgo tutu sai na sonang ma au.
+O, ho donganki, na gok dosa, gok arsak
+Sai dohot ma ho, sai tu surgo ma lao.
+Sai ro dohot ho, dohot ho, dohot ho, Sai dohot ma ho, sai tu surgo ma lao
+-
+Di surgo adui ndang adong be na hansit.
+Na sonang disi maradian ma au.
+O ho donganki, na maheu, na masak.
+Sai dohot ma ho, sai tu surgo ma lao, Sai ro ....
+-
+Di surgo adui ndang adong hapogoson.
+Na mora disi tung hisar do nang au.
+O ho donganki, na marsahit, na pogos.
+Sai dohot ma ho, sai tu surgo ma lao. Sai ro ....
+-
+Di surgo adui panarade inganan,
+Na sonang tutu, sai tusi ma au lao.
+O ho donganki, ingananmu di ginjang,
+Sai dohot ma ho, sai tu surgo ma lao, Sai ro ....

@@ -1,0 +1,38 @@
+@be 739
+@bl 0
+@title Lugahon solumi
+@key Eb
+@meter 4/4
+@credit Syair & Lagu: NN
+@pages 791 792
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Bagian suplemen; tidak ada nomor "Logu No." di buku → @bl 0.
+@check "4" dicoret = #4 (balok: A♮).
+@check Refrein: "2̇ . 2̇" bertanda legato/ikat (balok F5 setengah + F5 seperempat) → ditulis terikat.
+@check Ayat 1 dan refrein hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Pembanding lirik: baris 8 beda ejaan. Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 739) | https://bukuende.wordpress.com/2013/06/16/lugahon-solumi-buku-ende-no-739-logu-no-739/ | proofreading per baris
+#A
+3 | 5 .+#4 5+1' 7+6 | 5 . . 3 |
+5 .+2 5+2 3+4 | 3 . . 3 | 5 .+#4 5+1' 7+6 |
+5 . . 5 | 7 .+2 6 .+2 | 5 . . |
+> Lu-ga-hon ma lu-ga-hon ma so-lum na gok ga-lum-bang i, ma-mo-lus laut na bi-dang i, san-dok lu-ga-hon ma.
+#B
+5 | 1' 7 1' 0+5 |
+6+.+.+1' 7+.+.+6 5 0+1' | 7 2 4+.+.+6 5+.+.+4 |
+3 . . 0+5 | 6 . . 2' | (2' . 2') 1' |
+7 .+7 7+.+.+5 6+.+.+7 | 1' . 1' 1' |]
+> Lu-ga-hon ma lu-ga-hon so-lu-mi, sal-pu-hon ma ga-lum-bang i, lu-ga-hon ma Tu-han-mu do-ngan-mi lu-ga-hon ma.
+#V
+Lugahon ma lugahon ma solum na gok galumbang i,
+mamolus laut na bidang i, sandok lugahon ma.
+Ref.: Lugahon ma lugahon solumi, salpuhon ma galumbang i,
+lugahon ma Tuhanmu donganmi lugahon ma.
+-
+Manatap tu labuan i na dao dope dipasir i
+unang mandele rohami sandok lugahon i.
+Ref. : Lugahon ma . .
+-
+Tudos tu si do ngolumi mamolus hasiangan i,
+ragam do siboluson i, tu hasonangan i,
+Ref. : Lugahon ma . . .

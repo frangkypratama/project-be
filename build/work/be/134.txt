@@ -1,0 +1,34 @@
+@be 134
+@bl 176
+@title Ale Tuhan Amanami
+@key F
+@meter 6/4
+@credit Louis Bourgeois, abad 16
+@pages 121 122
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 10 dari 12 baris sama; 2 baris beda ejaan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 134) | https://bukuende.wordpress.com/2013/06/18/sai-torop-dope-parbegu-buku-ende-no-134-buku-logu-no-176/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 2 3 . 2 | 1 7, 6, . 5, . v | 1 . 2 3 . 4 |
+3 . 2 . 1 . :|
+> Sai to-rop do-pe par-be-gu na di ha-ho-lo-mon i
+> Je-sus, ro ma Ho pa-ti-bu man-das-da-si ang-ka i
+#B
+3 . 3 5 . 4 | 3 2 3 . . . v | 5 . 5 6 . 5 | 4 3 2 . . . v |
+3 . 5 4 . 3 | 1 2 3 . 1 . v | 3 . 3 4 . 3 | 2 1 (1 7,) 1 . |]
+> Ro tu ha-ra-ja-on-Mi a-sa so-nang do-hot i; To-gu na-sa ma-ni-si-a tu pa-dan-Mu na ba-di-a.
+#V
+Sai torop dope parbegu na di haholomon i
+Jesus, ro ma Ho patibu mandasdasi angka i
+Ro tu harajaonMi asa sonang dohot i;
+Togu nasa manisia tu padanMu na badia.
+-
+Lam patorop partonaan angka guru na burju
+Na mamboan haluaan sian dosa i tutu
+Sai pasonggop TondiMi tu sude naposoMi
+Asa lam torop parbegu tu na tiur i ditogu
+-
+Hami na pinarmahanMu, ale Tuhan, tatap ma
+Sai paringgas ma manogu jolma i tu Debata
+Sai paganda holong ni rohanami sasude,
+Monogihon angka dongan tu lambungMu, ale Tuhan.

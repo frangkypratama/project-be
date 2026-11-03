@@ -1,0 +1,39 @@
+@be 272
+@bl 249
+@title Sai tole, tole, ro sude.
+@key G
+@meter 4/4
+@credit Hieronymus Annoni 1770
+@pages 252
+@check Lirik di bawah not tercetak "Man-de-r si-lang" dan "Tu-hna" (kemungkinan salah cetak "Mandera silang"/"Tuhanna"); ditulis sesuai buku.
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Pembanding lirik: L3 ("Mander", "Tuhna"), L9 (3 kata), L10 kata 5 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 272) | https://bukuende.wordpress.com/2013/06/18/sai-tole-tole-ro-sude-buku-ende-no-272-buku-logu-no-249/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 1 2 2 | 3 .+4 5 v (5+4) | 3 3 2 2 | 1 . 0 :|
+> Sai to-le, to-le, ro su-de, i-hu-thon Je-sus i.
+> Mar-ho-hos ha-sin-to-ngan be di par-a-lo-an i.
+#B
+5 | 2 .+1 7, 1 | 2 . 0 5 | 2 .+1 7, 1 | 2 . 0 5, |
+1 1 2 2 | 3 .+4 5 (5+4) | 3 3 2 2 | 1 . 0 |]
+> Man-de-r si-lang i, Par-to-gi Tu-hna i, Sa-ru-ne pe mang-ku-ling do. sai to-le, to-le ro.
+#V
+Sai tole, tole, ro sude, ihuthon Jesus i.
+Marhohos hasintongan be di paraloan i.
+Mander silang i, Partogi Tuhna i,
+Sarune pe mangkuling do. sai tole, tole ro.
+-
+Pangansi do musunta i, sai songon na burju.
+Hape gok sipaoto i, sitolon na tutu.
+Diela hita be mambaen na so ture,
+Mangago daging, tondi pe, dungo, tajaga be,
+-
+Solokkon hatigoaranmi baen patahananmi.
+Nang pe haporseaon i bane lombulombu i.
+Nang patta sai ringgas, rohanta pe hiras.
+Mamaritahon dame i, baen halolomo i.
+-
+Antong sai paralohon ma haporseaonmi.
+Dipargogoi Debata ma sipartangiang i
+Tajom podangta i, i ma hataNa i,
+Maruli tumpal do sude na so sumurut be.

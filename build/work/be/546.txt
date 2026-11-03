@@ -1,0 +1,35 @@
+@be 546
+@bl 375
+@title Tung martua do
+@key F
+@meter 4/4
+@credit Jug.L, No. 163; Lagu: Rudolf Ewald Zingel
+@pages 517
+@check Angka "4*" = kres (B♮ di balok).
+@check Baris 3 "5 . 4͡3 3 2" & baris 5 "5̄.4": titik di sini pemisah; balok menunjukkan C 1/4 lalu sepasang 1/8 (ditulis 5 (4+3) dan (5+4)).
+@check Birama akhir tercetak "3 2 1" tanpa titik tahan; balok menunjukkan not 1 = 1/2 (ditulis 1 .).
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 3,5,8 beda ejaan satu kata. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 546) | https://bukuende.wordpress.com/2013/06/18/tung-martua-do-buku-ende-no-546-logu-no-375/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3 .+2 2 1 | 4 .+3 3 2 | 3 5 6 5 |
+4 (3+5) 2 . | 3 .+2 2 1 | 4 .+3 3 2 | 3 #4 5 6 |
+7 6 5 . | 2 2 4 3 | 5 (4+3) 3 2 |
+2 (3+4) 6 5 | 4 (3+5) 2 . | 3 .+2 2 1 |
+4 .+3 3 2 | 5 (4+3) 6 (5+4) | 3 2 1 . |]
+> Tung mar-tu-a do ro-hang-ku nang di ha-su-sa-an on, Pan-di-lo-an ni ro-hang-ku do hu-ung-kap Sai tong-tong, Sai mar-sing-gang au mang-hoi-hon ar-sak na di ro-hang-ki, Sai hu-ta-tap ma hu-tang-ku, Si-on, na di gin-jang i.
+#V
+Tung martua do rohangku nang di hasusaan on,
+Pandiloan ni rohangku do huungkap Sai tongtong,
+Sai marsinggang au manghoihon arsak na di rohangki,
+Sai hutatap ma hutangku, Sion, na di ginjang i.
+-
+Lam mangkolom pe aringku, lam golap pe tano on,
+Sai ditopot Jesus Kristus au na sai marsinggang on.
+Lam malungun do rohangku naeng humatop sahat au,
+Asa unang be au sirang sian na mangkohop au.
+-
+Sadihari, ale Tuhan, tarbaen rap au dohot Ho ?
+sai hutagam haroroMu, ai tu langit an Ho ro.
+Pandiloan ni rohangku sai ungkap di jolomon.
+Hupaima Ho, Tuhanku, ai hutagam haroroM.

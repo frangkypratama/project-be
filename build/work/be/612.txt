@@ -1,0 +1,42 @@
+@be 612
+@bl 0
+@title Sai paherbang ma habongmu
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Angels from the realms of glory, James Montgomery, 1771-1854 · Terj.: Pdt. J. A. U. Doloksaribu/Pdt. M. V. Simanjuntak · Lagu: Henry Smart, 1867
+@pages 610 611
+@status Lirik dicek · 11/11 baris sama dgn pembanding
+@check Pembanding lirik: 11 baris (ayat 1–5 + refrein) sama dengan bukuende.wordpress.com.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 612) | https://bukuende.wordpress.com/2013/06/18/sai-paherbang-ma-habongmu-buku-ende-no-612-buku-logu-no-612/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 612".
+@check do = Bes3 (not 5 = F4, 1̇ = Bes4 di not balok) → @oct -1.
+#A
+5 3 1' 5 | 3' .+2' 1' 5 |
+6 6 5 1' | 5 4 3 . |
+5 3 1' 5 | 3' .+2' 1' 7 |
+1' 7 6 (7+1') | 7 6 5 . |]
+> Sai pa-her-bang ma ha-bong-mu ang-ka par-di-sur-go i, ba-ri-ta-hon nu-nga tu-bu Si-pa-lu-a jol-ma i,
+#B
+2' .+2' 7 5 | 3' .+2' 1' 6 | 4' 3' 2' 1' | 1' 7 1' . |]
+> Be-ta hi-ta lao ma-nom-ba Ra-ja Si-pa-lu-a i.
+#V
+Sai paherbang ma habongmu angka pardisurgo i,
+baritahon nunga tubu Sipalua jolma i,
+Ref.: Beta hita lao manomba Raja Sipalua i.
+-
+O parmahan na manjaga dorbia di Efrata,
+nunga dame hita jolma saor dohot Debata
+Ref.: Beta hita . . .
+-
+O parroha sian purba, sai jalahi Raja i,
+boan pelean na arga, tu Raja na sorang i.
+Ref.: Beta hita . . .
+-
+O hamuna na badia, na di hasiangan on,
+Debatanta gabe jolma, tuat tu portibion.
+Ref.: Beta hita . . .
+-
+Saluhutna na tinompa, marmulia baen tongtong,
+Debata sitolusada na marmudu hita on.
+Ref.: Beta hita . . .

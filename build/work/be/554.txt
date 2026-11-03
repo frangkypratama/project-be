@@ -1,0 +1,19 @@
+@be 554
+@bl 417
+@title Puji hamu sai pasangap
+@key F
+@meter 3/4
+@credit Sitolu logu (kanon 3 suara; nama komponis tidak dicantumkan di buku)
+@pages 523
+@check Ende kanon: angka kecil 1–3 di atas not = tempat masuk suara 1–3; situs memutar satu suara saja.
+@check Titik di atas "3" birama 4 adalah titik fermata, bukan oktaf (balok = A4).
+@status Lirik dicek · 1/2 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 kata 5 ('tutu') beda ejaan. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 554) | https://bukuende.wordpress.com/2013/06/16/puji-hamu-sai-pasangap-buku-ende-no-554-buku-logu-no-417/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5 5 5 | 5 .+4 3 | 4 3 2 | 3 . 0 | 3 3 3 |
+3 .+2 1 | 2 1 7, | 1 . 0 | 1 . 1 | 1 . 1 | 5, 5, 5, | 1 . 0 :|
+> Pu-ji ha-mu, sai pa-sa-ngap tu-tu Tu-han-ta i, na ba-sa, na bur-ju. Su-de bang-so pu-ji tu-tu.
+#V
+Puji hamu, sai pasangap tutu Tuhanta i, na basa, na burju.
+Sude bangso puji tutu.

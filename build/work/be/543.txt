@@ -1,0 +1,40 @@
+@be 543
+@bl 374
+@title Buni bingkas ni holong
+@key Eb
+@meter 4/4
+@credit R.L. No. 290; Lagu: James Megranahan 1907
+@pages 514
+@check Kredit tercetak "James Megranahan 1907" (ejaan lazim James McGranahan); ditulis apa adanya.
+@check Birama "1̇ 1̇ . 1̇" pada refrein baris pertama diberi busur di angka (dibaca ikatan: "on" ditahan 2½ ketuk); pada baris kedua tanpa busur ("Ton-dingku do").
+@check Ayat 2–5 di buku hanya mencetak 2 baris + "Alai . . ." (refrein sama dgn ayat 1).
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 4,5,7,11 beda ejaan (termasuk 'Bumi' ayat 3 — buku memang mencetak 'Bumi'). Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 543) | https://bukuende.wordpress.com/2013/06/09/buni-bingkas-ni-holong-buku-ende-no-543-buku-logu-no-374/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+1 | 3 .+3 (4+3) (2+1) | 6 5 5 v 3 |
+5 .+5 (6+5) (4+3) | 2 . . 4 | 3 .+3 (4+3) (2+1) |
+6 5 5 3 | 5 .+5 (6+5) (4+2) | 1 . . |
+> Bu-ni bing-kas ni ho-long ni Tu-han-ta i di au. Di-to-bus do-hot mu-dar i par-do-sa so-ngon au,
+#B
+1+1 | (1' 1') .+1' 7+6 |
+6 5 0+5 6+5 | 5 4 .+4 5+4 | 4 3 0 1 |
+1' 1' .+1' 7+6 | 6 5 0 5+5 | 7 .+6 7 5 | 1' . . |]
+> A-lai on do na hu-bo-to: Di-ti-op Je-sus go-mos ta-ngan-ku, Ton-ding-ku do di-ra-mo-ti. Ro di ha-ro-ro-Na i.
+#V
+Buni bingkas ni holong ni Tuhanta i di au.
+Ditobus dohot mudar i pardosa songon au,
+Alai on do na huboto: Ditiop Jesus gomos tanganku,
+Tondingku do diramoti. Ro di haroroNa i.
+-
+Buni umbaena boi malum au dihorhon Debata.
+Dibaen na huhaposi ho di dolok Golgata. Alai . . .
+-
+Bumi ulaon ni tondi i patiur rohangki,
+Manaiti au tu Jesuski, sitobus jolma i. Alai . . .
+-
+Buni godang ni arsak i nang las ni roha pe,
+SilehononNa i tu au di tano on dope. Alai . . .
+-
+Buni tingki ni Tuhan i manjou au sian on.
+Na mate manang muba dibahen Jesus dagingkon. Alai . . .

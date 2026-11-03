@@ -1,0 +1,41 @@
+@be 781
+@bl 0
+@title Sai halashon na tinompa
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Freut euch der schonen ende; Philip Spitta, 1933 · Terj.: Dcs. Bonaria Hutabarat · Lagu: Frieda Fronmuller, 1920
+@pages 852 853 854
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di ayat 4 baris 4 (kata ke-4); scan hlm 854 tertulis "namanjalo tumpal i" — ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 781) | https://bukuende.wordpress.com/2013/06/18/sai-halashon-na-tinompa-buku-ende-no-781-buku-logu-no-781/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." → @bl 0.
+@check Kredit (di hlm 854, setelah ayat 4) ditulis seperti buku: "Freut euch der schonen ende" (lazimnya "Freut euch der schönen Erde"), "Fronmuller" (Fronmüller). Kredit di atas judul 781 (hlm 852, "Weist du, wieviel sternlein stehen") milik BE 780.
+@check Baris terakhir: angka "3 2" tanpa tanda legato, tetapi not balok memberi legato; ditulis legato agar suku kata pas (7 suku kata).
+#A
+1' .+1' 5 5 | (6+5) (6+7) 1' 1' |
+2' (3'+4') 3' (2'+1') | 7 1' 2' . |
+4' .+4' 2' 2' | 5' .+5' 3' 3' |
+4' (3'+2') 3' 1' | 1' 7 1' . |
+4' (3'+2') 5' (4'+3') | (2'+1') 2' 1' . |]
+> Sai ha-las-hon na ti-nom-pa ni Tu-han-ta De-ba-ta su-nge, la-ut, do-hot tom-bak ro di-par-la-ngit-an i ro di-par-la-ngit-an i.
+#V
+Sai halashon na tinompa
+ni Tuhanta Debata,
+sunge, laut, dohot tombak
+ro diparlangitan i, ro diparlangitan i.
+-
+Marsinondang bulan bintang,
+nang mata ni ari pe,
+ombun nambur dohot udan,
+dipatupa Ho sude, dipatupa Ho sude,
+-
+Saluhut na natinompa,
+pasangaphon Debata.
+au pe dohot do mamuji,
+pasangaphon goarNa i, pasangaphon goarNa i.
+-
+Sogot dohot au marnida,
+Ho di hasangaphonMi,
+diingananMi naung monang,
+namanjalo tumpal i, namanjalo tumpal i.

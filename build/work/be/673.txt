@@ -1,0 +1,47 @@
+@be 673
+@bl 0
+@title Adong do sada mual i
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: There isFountain Filled with blood, Willam Cowper, 1771 · Terj.: Pdt. J.A.U. Doloksaribu/Pdt. M.V. Simanjuntak · Lagu: Traditional America Melody Art, by Lowell Mason 1830
+@pages 697 698
+@status Lirik dicek · 15/20 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di pemisahan kata ("Parjahatna", "dosanabe") dan ejaan di ayat 5 ("dilangki", "puji", baris akhir). Judul pembanding "Adong Sada Mual I". Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 673" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 673) | https://bukuende.wordpress.com/2013/06/05/adong-sada-mual-i-buku-ende-no-673-buku-logu-no-673/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Judul kelompok di atas lagu: "JOU-JOU TU HAMUBAON NI ROHA".
+@check Do = Bes3 (not 5 = F4 di spasi pertama paranada) → @oct -1. Lengkung pada pasangan not (1–3, 6–5, 3–1, 1'–2', 1' .6 1') = satu suku kata.
+@check Kredit ditulis seperti tercetak ("There isFountain", "Willam"; lazimnya: There is a Fountain Filled with Blood, William Cowper).
+#A
+(1+3) | 5 .+6 5 1' | 1' .+6 5 (1+3) |
+5 .+5 (6+5) (3+1) | 2 . . (1+3) | 5 .+6 5 1' |
+1' .+6 5 (1'+2') | 3' .+1' 2' 3' | 1' . . (1'+2') |
+3' .+1' 2' 3' | (1' .+6 1') 6 |
+5 .+5 (6+5) (3+1) | 2 . . (1+3) | 5 .+6 5 1' |
+1' .+6 5 (1'+2') | 3' .+1' 2' 3' | 1' . . |]
+> A-dong do sa-da mu-al i na si-an Tu-han i, du-rus si-an bu-gang-Na i di hau par-si-lang i, di hau par-si-lang i, di hau par-si-lang i, du-rus si-an bu-gang-Na i di hau par-si-lang i.
+#V
+Adong do sada mual i na sian Tuhan i,
+durus sian bugangNa i di hau parsilang i,
+di hau parsilang i, di hau parsilang i,
+durus sian bugangNa i di hau parsilang i.
+-
+Parjahatna dilambungMi taruli sian i,
+nang au pardosa songon i, ias diburi i,
+ias diburi i, ias diburi i,
+nang au pardosa songon i, ias diburi.
+-
+Ai na margogo do tongtong mudarNa na use,
+manobus sasude na ro, na gok dosana be,
+nang gok dosanabe, nang gok dosana be,
+manobus sasude na ro nang gok dosana be,
+-
+Dung na hutatap Tuhan i manaon na bernit i,
+sai pujionku holongMi, saleleng ngolungki,
+saleleng ngolungki, saleleng ngolungki,
+sai pujionku holongMi, saleleng ngolungki.
+-
+Tung sura sohot dilangki dihamamatengki,
+disurgo salelengna i, puji Tuhan i,
+hupuji Tuhan i, hupuji Tuhan i,
+disurgo salelengna i, hupuji Tuhan i.

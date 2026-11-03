@@ -1,0 +1,46 @@
+@be 128
+@bl 162
+@title Ditanda Debatanta
+@key Ab
+@meter 2/4
+@credit Philip Spirtz, 1843
+@pages 115 116
+@status Lirik dicek · 15/20 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 15 dari 20 baris sama; 5 baris beda ejaan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 128) | https://bukuende.wordpress.com/2013/06/13/ditanda-debatanta-buku-ende-no-128-buku-logu-no-162/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama 2/4 dengan not 1/8 & 1/16 (garis atas tunggal/ganda). Ketukan gantung hanya 1/8; ditulis "0+5," (ada diam 1/8 di depan).
+@check Akhir baris 1 dicetak garis ganda bertitik, tetapi lirik berlanjut ke baris 2 (tidak ada baris lirik kedua); dibaca sebagai garis birama biasa.
+@check Tanda napas di tengah ketukan (mis. "1̄ , 1̄") tidak ditampilkan.
+@check Birama "2̄ 2̄ 2̄ 1⌒2": pasangan terakhir dibaca 1/16 (seperti baris 4) agar genap 2 ketuk.
+#A
+0+5, | 5+.+.+4 3+2 | 2 1+1 | 2+2 2+.+(1+2) |
+3 .+3 | 4+.+.+2 1+7, | 1 5,+3 | 4+.+.+2 1+7, | 1 0+3 |
+2+1 7,+6, | (#5,+7,) 6,+3 | 2+.+.+1 7,+6, | (6, 5,)+5, |
+5+.+.+4 3+2 | 2 1+1 | 2+2 2+.+(1+2) | 3 .+3 |
+4+.+.+2 1+7, | 1 5,+3 | 4+.+.+2 1+7, | 1 0 |]
+> Di-tan-da De-ba-tan-ta na di I-ha-na i, na met-met nang na bal-ga, di na-sa bang-so i; Ndang ma-go lo-a-son-na, nang sa-da si-an i; Di-to-gu do su-de-na tu ha-so-na-ngan i, Di-to-gu do su-de-na tu ha-so-na-ngan i.
+#V
+Ditanda Debatanta na di Ihana i,
+Na metmet nang na balga, di nasa bangso i;
+Ndang mago loasonna, nang sada sian i;
+:,: Ditogu do sudena tu hasonangan i.
+-
+Ditanda do nasida dibaen porsea do
+Nasida di hataNa, naung tu nasida ro.
+I do hangoluanna, i do guruna i;
+:,: Laos i do sinjatana, maangalo dosa i.
+-
+Ditanda do nasida, dibaen mangkirim di
+Na pinarbagahonNa, tongtong rohana i
+Sai saut do bahenonNa, sude hataNa i,
+:,: I do sitiopanna, ro di ajalna i.
+-
+Ditanda do nasida dibaen holong sude
+Rohana di Ibana nang di donganna pe.
+Ai i do na mandasdas nasida sai tongtong,
+:,: Asa tung dipatolhas, PatikNa i sintong
+-
+Sai songon i ditanda Tuhanta jolma i,
+Na mangoloi hataNa di nasa bagso i.
+Haporseaon i do partinandaan i,
+:,: Padohot pangkirimon nang haholongan i.

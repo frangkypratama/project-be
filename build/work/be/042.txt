@@ -1,0 +1,46 @@
+@be 42
+@bl 216
+@title Hamu sude, naung tinoruan
+@key Ab
+@meter 4/4
+@credit Godfried Clemens, 1704
+@pages 35 36
+@status Lirik dicek · 12/20 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 2,3,4,6,8,17,19,20 (sebagian besar ejaan). Buku tetap acuan.
+@check Baris 2 bagian B dicetak "5 0 5"; not balok buku menunjukkan not 1/2 + diam + 1/4, jadi dibaca "5̣ . 0 5̣" agar genap 4 ketuk.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 42) | https://bukuende.wordpress.com/2013/06/13/hamu-sude-naung-tinoruan-buku-ende-no-42-buku-logu-no-216/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 3 3 2 5 | 1 4 3 . | 2 . 0 3 |
+5 2 2 3 | 1 1 7, :|
+> Ha-mu su-de, naung ti-no-ru-an ni pa-tik ni si Mu-sa i,
+> Sai ro ha-mu tu ha-so-na-ngan, na di ba-ga-san Je-sus i;
+#B
+2 | 2 5, 5, 1 | 1 7, 6, . |
+5, . 0 5, | 1 1 2 3 | 4 5 3 . | 3 . 0 5 | 5 3 6 2 |
+3 2 1 . | 0 5, 5, 4, | 3, 5, 1 2 | 7, . 7, . | 0 2 2 3 |
+1 4 3 3 | 2 . 2 . | 0 3 1 6, | 4 2 3 2 | 1 . . |]
+> Ai nu-nga di-tos-to-si Je-sus do i-hot-i-hot ni si-bo-lis, na ma-nga-go-hon ton-di-mi Da-pot-hon ma nu-aeng Tu-han-mu. Naung ro mam-baen ha-lu-a-on-mu; Pa-pos ma ro-ha-mi di-si.
+#V
+Hamu sude, naung tinoruan ni patik ni si Musa i,
+Sai ro hamu tu hasonangan, na di bagasan Jesus i;
+Ai nunga ditostosi Jesus do ihot-ihot ni sibolis,
+Na mangagohon tondimi Dapothon ma nuaeng Tuhanmu.
+Naung ro mambaen haluaonmu; Papos ma rohami disi.
+-
+Na ro ma Gurumi; tarehon pinggolmu tu podaNa i.
+Naeng patuduhononNa dalan di ho nuaeng tu surgo i.
+Ai na buni anggo najolo, patar do di sude na olo
+Porsea di Tuhanta i. Ibana do na paboahon
+Saluhut na hinalomohon ni Debata, AmaNa i.
+-
+Na ro ma Rajami, sai jangkon, Ibana tu roham, ale!
+HasangaponNa ditadingkon mambuat dangolmi tahe.
+Antong sai tiop ma tanganNa, paboa na nirajaanNa,
+Huhut niramotanNa ho. Mangmangkon ma burjum, paboa
+Tundalhononmu do na roa lao mangoloi Rajam naung ro.
+-
+Gok situtu hamoraonmu di Jesus Kristus, Tuhanmi;
+Tangkas ma i naeng etongonmu, gotaphon sian rohami
+Luhut na olo mago sogot, ai ingkon gabe parsidohot
+Ho tu banuaginjang i. Saonari do halehetanna,
+Na jumpang ho hadenggananna; Sai jangkon Jesus, Tuhanmi.

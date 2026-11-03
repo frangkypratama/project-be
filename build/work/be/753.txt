@@ -1,0 +1,47 @@
+@be 753
+@bl 0
+@title Dipardalanan Jesus di jolongku
+@key Eb
+@meter 4/4
+@credit Syair: Bhs. Batak: ay. 1 + 2 NN, ay. 3 Pdt. J.A.U. Doloksaribu · Lagu: NN
+@pages 812 813
+@status Lirik dicek · 12/16 baris sama dgn pembanding
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Ketukan gantung refrein tercetak 1½ ketuk ("3 | 3 2", balok: 3 not 1/8 tanpa tanda diam); ditulis "0+3 3+2" (½ ketuk diam ditambahkan agar ketukan rata).
+@check Birama 4 lirik tercetak "ta-nganMi" di bawah 3 not → dipenggal ta-ngan-Mi; refrein akhir "lambungMi" di bawah 3 not → lam-bung-Mi.
+@check Refrein birama 1: angka "1̇ 1̇ 7 6", balok tampak Es5 F5 Es5 C5 (kurang jelas) → ditulis sesuai angka.
+@check Pembanding lirik: baris 1 (pembanding tanpa "Jesus"), 3 ("dingoluku" dipisah), 5 (ejaan "panoguonMu"), 12 (pembanding tanpa "do") beda; dicek ulang ke scan hlm 812–813 → buku tetap. Pembanding menyebut Buku Logu No. 753.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 753) | https://bukuende.wordpress.com/2013/06/13/dipardalanan-jesus-di-jolongku-buku-ende-no-753-buku-logu-no-753/ | teks ayat
+#A
+0+5, 1+3 | 5 .+#4 6+5 1+2 |
+3 3 .+#2 3+4 | 3+2 2 .+#1 2+3 |
+1 . 0+5, 1+3 | 5 .+#4 6+5 1+2 |
+3 3 . 3+3 | 2 .+5 #4+2 3+#4 | 5 . . . |
+> Di-par-da-la-nan Je-sus di jo-long ku Ho-long ni ta-ngan-Mi ma-no-gu au nang di-ngo-lu-ku Ho do som-ba-ong-ku tung so-nang mar-da-lan rap-hon au
+#B
+0+3 3+2 | 1 .+5 1'+1' 7+6 |
+5 3 .+5 5+#4 | 4 .+5 7+6 5+4 |
+3 . 0+1 3+5 | 1' .+6 4+1 4+6 |
+6 5 .+3 3+#2 | 2 .+3 4+4 3+2 | 1 . |]
+> Hu-bo-to do tang-kas pa-no-gu-on-Mu di-i-ring-i-ring Ho do lang-kang-ki sa-hat ro di u-jung ni par-da-lan-ku to-gu ma au jo-nok tu lam-bung-Mi.
+#V
+Dipardalanan Jesus di jolongku
+holong ni tanganMi manogu au,
+nang dingoluku Ho do sombaongku
+tung sonang mardalan raphon au.
+Ref.: Huboto do tangkas panoguonMu
+diiring-iring Ho do langkangki
+sahat ro di ujung ni pardalanku,
+togu ma au jonok tu lambungMi.
+-
+Sipata lilu haporseaonhu
+ni lilianan ni portibi on
+alai dung Ho hutatap o Tuhanku
+margogo do au dingolungkon
+Reff.: Huboto . . .
+-
+Patogu ma Tuhan haporseaonku,
+asa polin tu Ho manghirim au,
+tu surgo i patulus pardalananku,
+TondiMi maringan ma di au.
+Ref.: Huboto do . . .

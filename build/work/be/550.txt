@@ -1,0 +1,37 @@
+@be 550
+@bl 379
+@title Tanganku na metmet
+@key G
+@meter 3/4
+@credit W.W. No. 46 (nama komponis tidak dicantumkan di buku)
+@pages 521
+@overline sep
+@check Garis atas not ½ ketuk: di buku BE 550 setiap not ½ ketuk punya garis atas sendiri-sendiri (tidak menyambung), titik not menempel di angka sebelumnya; ditandai @overline sep agar tampilan not angka mengikuti buku.
+@check Baris akhir "3͡5̣": angka memberi titik bawah (D rendah), balok menunjukkan B4 terikat busur ke D5 → ditulis (3 5) mengikuti balok.
+@check Baris akhir "6 . 4 3 2": angka 6 tanpa titik bawah, balok = E4 (di garis bawah paranada) → ditulis 6,.
+@check Baris terakhir ayat 2–4 di buku ditandai ":,: ... :,:" (diulang), sesuai lagu: "Tanganki di Ho ma i" dinyanyikan dua kali.
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 2,4,5 beda ejaan; baris 7 pembanding tanpa 2 kata. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 550) | https://bukuende.wordpress.com/2013/06/18/tanganku-na-metmet-buku-ende-no-550-logu-no-379/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5, | 1+1 1+1 1 | 3 1 3 |
+2 .+2 1+2 | 3 . 5, | 1+1 1 .+1 |
+7,+1 2 .+2 | 2+2 2 .+2 | 1+2 3 5+5 |
+5 .+4 2+4 | (3 5) 5,+5, | 6, .+4 3+2 | 1 . |]
+> Ta-ngan-ku na met-met hu-le-hon ma tu De-ba-ta. Da-i-nang i, na lo-ja i, Sai u-ru-pan-ku na-ma i. ta-ngan-ki di Ho ma i. Ta-ngan-ki di Ho ma i.
+#V
+Tanganku na metmet hulehon ma tu Debata.
+Dainang i, na loja i, Sai urupanku nama i.
+tanganki di Ho ma i. Tanganki di Ho ma i.
+-
+Nang pathu na metmet hulehon ma tu Debata,
+Malojong au suruon ni dainang i na loja i,
+:,: Nang pathi di ho ma i :,:
+-
+Pangabas na metmet hulehon ma tu Debata.
+Huapul ma dainang i, na jotjotan sai marsak i.
+:,: Hatangki di Ho ma i :,:
+-
+Rohangku na metmet hulehon ma tu Debata.
+Ingani i, o Tuhanki. Pasahat au tu surgomi.
+:,: Rohangki di Ho ma i :,:

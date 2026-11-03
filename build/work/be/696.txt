@@ -1,0 +1,32 @@
+@be 696
+@bl 0
+@title Lam holong rohangki
+@key Ab
+@meter 4/4
+@credit Syair: More Love to Thee, O Christ; Elizabeth P. Prentiss; Lagu: William H. Doane; Terj.: Pdt. J.A.U. Doloksaribu
+@pages 728 729
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 8, 9, 12 (buku 'Tuhnaki', salah cetak) beda ejaan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 696) | https://bukuende.wordpress.com/2013/06/16/lam-holong-rohangki-buku-ende-no-696-buku-logu-no-696/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 696. Ayat 3 baris akhir tercetak "Tuhnaki" (salah cetak) — ditulis apa adanya.
+#A
+5, . 6, 5, | 1 .+2 3 . | 3 . 2 1 | 2 . . . |
+5, . 6, 5, | 1 .+2 3 . | 2 . 1 7, | 1 . . . |
+4 . 4 4 | 4 .+3 3 . | 2 . 2 2 |
+2 .+1 1 . | 6, . 6, 6, | 1 . . . | 2 . 1 7, | 1 . . . |]
+> Lam ho-long ro-hang-ki tu Tu-han-ki, i-ma ta-ngi ang-ki o-loi ma i, lam ho-long ro-hang-ki tu Ho O Je-sus-ki o-loi ma i, O, Tu-han-ki
+#V
+Lam holong rohangki tu Tuhanki,
+ima tangiangki oloi ma i,
+lam holong rohangki tu Ho O Jesuski
+oloi ma i, O, Tuhanki
+-
+Roha portibion hian di au,
+nuaeng tu Tuhanki, manghirim au.
+lam holong rohangki, sai i ma padanki
+oloi ma i O Tuhanki.
+-
+Dung jumpang ajalhi, borhat ma au
+sogot di surgo i sonang ma au,
+disi pujionki Ho salelengna i,
+oloi ma i O, Tuhnaki.

@@ -1,0 +1,40 @@
+@be 385
+@bl 384
+@title Dijouhon Jesus Ro.
+@key A
+@meter 6/8
+@credit Sir. John Stainer 1901
+@pages 369 370
+@check Kepala lagu mencetak "385 Logu No. 384 : Dijouhon Jesus Ro. F.B.No. 36". Nama komponis ada di atas hlm 370.
+@check Birama 6/8: 1 token = 1 not 1/8.
+@check Birama "1 . 1 7 1" (hlm 370) dan "1... 1 7 1" (hlm 369) tercetak 5 dan 7 ketuk; paranada: 1/4 bertitik + 1/8 + 1/8 + 1/8 → ditulis "1 . . (1 7,) 1".
+@check Birama "1.. 1 0" sebelum ||: paranada 1/4 bertitik + 1/8 (legato) + istirahat 1/4 → "(1 . . 1) 0 0". Birama "3 . 3 1 0": paranada 1/4 + 1/8 + 1/4 + istirahat 1/8 → "3 . 3 1 . 0".
+@check "1 . 4" baris 3: paranada D5 (oktaf tengah), ditulis 4.
+@status Lirik dicek · 7/12 baris sama dgn pembanding
+@check Pembanding lirik: beda L1, L2, L4, L8, L12 (kata tambahan/hilang krn ulangan refrein & ejaan "Hutogutogu"); buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 385) | https://bukuende.wordpress.com/2013/06/13/dijouhon-jesus-ro-buku-ende-no-385-buku-logu-no-384/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 . 1 1 . 2 | 3 . 3 3 . 1 | 2 . 2 7, . 7, | (1 . . 1) . . :|
+> Di-jou-hon Je-sus: Ro su-de, ha-mu na lo-ja i.
+> Hu-to-gu-to-gu do ha-mu tu ha-so-na-ngan i.
+#B
+2 | 2 . 2 2 . 2 | 2 . 3 (4 3) 2 | 3 . 2 3 . 2 |
+3 . 4 5 . 4 | 3 . 2 1 . 4 | 3 . 2 1 . 1 | 2 . 2 7, . 7, |
+(1 . . 1) v 0 0 | 1 . . (1 7,) 1 | 3 . 3 1 . 0 | 2 . 2 7, . 0 | 1 . 1 5, . 0 |
+1 . . (1 7,) 1 | 3 . 3 1 . 1 | 2 . 2 7, . 7, | (1 . . 1) . . |]
+> Ha-mu su-de pa-ma-nat i. Ha-mu ni-a-ra-hon-na i. Ta-ding-kon ni-ar-sak-kon-mi, dom-pak-kon Tu-han i. So-nang ni ro-ha i. So-nang ni ro-ha i, so-nang ni ro-ha i di-le-hon Je-sus i.
+#V
+Dijouhon Jesus: Ro sude, hamu na loja i.
+Hutogutogu do hamu tu hasonangan i.
+Hamu sude pamanat i. Hamu niarahonna i.
+Tadingkon niarsakkonmi, dompakkon Tuhan i. Sonang ni roha i. Sonang ni roha i, sonang ni roha i dilehon Jesus i.
+-
+Sai bege olopolop ni naung ro tu Jesus i.
+Malua sian dosa do naung saut tu Jesus ro.
+Antong so tung tarambat ho, marlojong ma tu Jesus ro.
+Sai golom pangkophopna i. Malua ho disi. Sonang ni roha.....
+-
+Tibuna salpu tingkimi? Tu dia nama ho?
+Ai tingki parasian i. So diargahon ho.
+So tung ditoishon rohami. Joujou ni Jesus Tuhanmi.
+Masuhi ma adian i na sian Tuhan i. Sonang ni roha i...

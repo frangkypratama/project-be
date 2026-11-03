@@ -1,0 +1,32 @@
+@be 652
+@bl 0
+@title Ihot ma hami
+@key F
+@meter 6/8
+@credit Syair: Bind us together, Lord: Bob Gillman. · Terj.: Pdt. H. Hutapea · (Lagu tidak dicantumkan di buku)
+@pages 670 671
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Urutan buku: bagian A (refrein "Ihot ma hami", berakhir "Fine"), lalu bagian B (ayat) dengan "DC. al fine" → kembali ke A.
+@check Bagian B birama 7 "5 . . 5 . ." tercetak dengan busur (angka & balok), tetapi lirik ayat 1 memberi dua suku kata (ma-tang | Na); ditulis tanpa busur. Pada birama 3 bagian B busur yang sama dipakai untuk satu suku kata "ta".
+@status Lirik dicek · 4/6 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 ('ma', 'dohot') & 5 (pinilitNa) beda; dicek ke scan hlm 670–671: sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 652) | https://bukuende.wordpress.com/2013/06/16/ihot-ma-hami-buku-ende-no-652-buku-logu-no-652/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3 3 .+3 3 2 1 | 3 3 .+3 3 2 1 |
+2 . 2 2 1 2 | (3 . 2) 1 . . | 3 3 .+3 3 2 1 |
+3 3 .+3 3 2 .+1 | 2 2 2 2 3 2 | (1 . . 1) . . |]
+> I-hot ma ha-mi sai i-hot ma ha-mi pa-sa-da ha-mi O Tu-han. I-hot ma ha-mi pa-sa-da ma ha-mi sai i-hot do-hot ho-long-Mi.
+#B
+5 . 5 4 3 4 | (5 . . 5) . . | 3 . 3 2 1 2 | (1 . . 1) . . |
+5 . 5 4 3 4 | 5 . . 5 . . | 3 . 3 2 1 2 | (1 . . 2) . . |]
+> Sa-da do De-ba-ta, Ra-ja na song-kal i, sa-da do pa-ma-tang-Na hi-ta ru-as-Na i.
+> Hi-ta Hu-ri-a i, na pi-ni-lit-Na i, pa-ri-pe ni Tu-han-ta, ran-ting ni Ang-gur i
+#V
+Ihot ma hami sai ihot ma hami pasada hami O Tuhan.
+Ihot ma hami pasada ma hami sai ihot dohot holongMi.
+Sada do Debata, Raja na songkal i,
+sada do pamatangNa hita ruasNa i.
+-
+Hita Huria i, na pinilitNa i,
+paripe ni Tuhanta, ranting ni Anggur i
+Ref : Ihot ma . . .

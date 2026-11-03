@@ -1,0 +1,36 @@
+@be 283
+@bl 30
+@title Nang sipata pe idaon
+@key Eb
+@meter 4/4
+@credit Lagu: Johann Angelus 1657
+@pages 263 264
+@status Lirik dicek · 13/14 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 (hahonanggan, tutudo) beda; scan hlm 263 tercetak "ha-ho-/Nanggan" & "tu tu-do" — ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 283) | https://bukuende.wordpress.com/2013/06/16/nang-sipata-pe-idaon-buku-ende-no-283-buku-logu-no-30/ | 13/14 baris sama
+#A
+1 (3+4) 5 5 | 4 5 3 1 v |
+1' 1' 7 5 | 6 6 5 5 v | 5 (6+7) 1' 5 |
+5 4 3 . v | 5 5 4 3 | 2 2 1 . |]
+> Nang si-pa-ta pe i-da-on, De-ba-tan-ta ma-na-ding-kon A-nak ha-ho-nang-gan i, tung na so tu-tu-do i.
+#V
+Nang sipata pe idaon, Debatanta manadingkon
+Anak hahonanggan i, tung na so tutudo i.
+-
+Nang sipata dipabenda Debata pangurupiNa,
+Anggo jumpang tingki ni, Pintor tongosonNa i.
+-
+Songon ama di anakna pangalehon ni Tuhanta;
+Holan na hasea i, i do lehononNa i.
+-
+Pos rohangku di Amangku, nang beha hagogotanku,
+Sai holong rohaNa i di au on, anakNa i.
+-
+Setan manang musu jolma, nang beha pangarsahina,
+Mengkel do au mida i; Ai mangolu Amangki
+-
+Manang ro pe hamatean, ndada olo au tahutan;
+Hutiopi Jesus i, i do alealengki.
+-
+Asal ma tongtong jambarhu, asi ni rohaM, Tuhanku.
+Nang pe tu udean au, sae do molo Ho di au.

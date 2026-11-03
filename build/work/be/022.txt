@@ -1,0 +1,36 @@
+@be 22
+@bl 80
+@title Tung beasa au holsoan
+@key F
+@meter 4/4
+@credit Johann Georg Ebeling, 1666
+@pages 19 20
+@check Judul tercetak "Tung beasa au holsoan" tetapi lirik ayat 1 dimulai "Nunga ro di parguruan"; judul ditulis sesuai buku.
+@status Lirik dicek · 14/15 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 14 dari 15 baris sama persis; 1 baris beda ejaan (“dongan nami”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 22) | https://bukuende.wordpress.com/2013/06/16/nunga-ro-di-parguruan-buku-ende-no-22-buku-logu-no-80/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 2 . | 3 . . 2 | 3 5 6 . | 5 . . . v | 5 6 4 . | 4 5 3 . v |
+3 5 4 3 | 2 . 1 . v | 5 . 4 . | 3 . . 2 | 1 7, 6, . | 5, . . . v |
+5 6 4 . | 4 5 3 . v | 3 2 4 3 | 2 . 1 . |]
+> Nun-ga ro di par-gu-ru-an ha-mi on na di-son, ma-si-ha-ngo-lu-an, Je-sus, sai hu-i-ngot ha-mi ha-ta-Mi, ni-dok-Mi: Ho naeng do-ngan na-mi,
+#V
+Nunga ro di parguruan hami on na dison,
+Masihangoluan, Jesus, sai huingot hami
+HataMi, nidokMi: Ho naeng dongan nami,
+-
+Baen ture pingkirannami, unang lao tu na dao,
+mampar rohanami. Sai patinggil pinggolnami
+Tu hataM, asa lam huantusi hami.
+-
+Suru Tondi parbadia baen ture hami be,
+Ringgas jala ria asa bali haliluan,
+Jea pe sasude, timbul hangoluan.
+-
+Pabotohon ma tu hami holong ni rohaMi
+na pangolu hami. Asa lam mardosniroha hami on,
+Sai tongtong mangalo na roa
+-
+Jesus, ndang diparsineang rohaMi hata ni
+Na ro martangiang, i do pos ni rohanami
+Mida Ho na dung ro paluahon hami

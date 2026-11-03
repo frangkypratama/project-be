@@ -1,0 +1,41 @@
+@be 447
+@bl 298
+@title Ho mual hangoluan i
+@key F
+@meter 4/4
+@credit Gorlitz 1587
+@pages 428 429
+@check Kepala lagu juga mencantumkan "U.I. No. 231".
+@check Birama "3 2 1 2" sebelum akhir: not balok = 1/4, dua 1/8, 1/2 → ditulis 3 2+1 2 . (legato satu suku kata "a").
+@status Lirik dicek · 9/16 baris sama dgn pembanding
+@check Pembanding lirik: L1 (Ama i), L2 (baiga), L7, L9, L11, L14, L15 (tuhuk) beda ejaan/kata; dicek ulang di scan, buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 447) | https://bukuende.wordpress.com/2013/06/13/ho-mual-hangoluan-i-buku-ende-no-447-buku-logu-no-298/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 3 4 | 5 3 6 6 | 5 . 0 5 | 1' 7 6 5 |
+6 6 5 . | 0 5 5 3 | 4 3 2 . | 1 . . 0 :|
+> Ho mu-al ha-ngo-lu-an i, na tu-bu si-an A-ma i, Tu-han-ku Je-sus Kris-tus.
+> Pa-tar di-baen Ho bai-ga ni ho-long ni ro-ha na-gok i, na sai ma-u-li-u-tus,
+#B
+1 | 3 4 5 5 | 6 7 1' . | 0 5 6 5 |
+3 5 4 4 | 3 . 0 1' | 7 6 5 4 | (3 2+1 2) . | 1 . . . |]
+> tung na-ma-lu-ngun ton-ding-ki di a-si do-hot ho-long-Mi, sai ro pa-bo-sur a-hu.
+#V
+Ho mual hangoluan i, na tubu sian Ama i, Tuhanku Jesus Kristus.
+Patar dibaen Ho baiga ni holong ni roha nagok i, na sai mauliutus,
+Tung namalungun tondingki di asi dohot holongMi; sai ro pabosur ahu.
+-
+Ho, mual hangoluan i, sombu dibaen Ho uashi,
+So dung tinulak ahu. Na ro au jala hutahui aek tabar i
+Na gogo i, na pahisarhon ahu, lao manaluhon diringki,
+Nang ro pe hamatean i, Ho do hangoluanki.
+-
+Tung na malungun rohangki di Ho, o Jesus, Tuhanki,
+Masihol au tu ginjang. Dung sahat au tu lambungMu,
+Sai inumonku mual i, las roha ndang hapalang.
+Antong tondingku, tahan ma,
+Nang arsak dibaen Debata di tano on jambarmu.
+-
+Marolopolop rohangki, mamujimuji Tuhan i,
+Rade do hutuaon. Tadingkon nasa holsomi,
+Hinsa ma tuhuk silangMi, tongkin do sitaonon.
+Haposi bagabaga i, godang do sihirimonmi di lambung ni Tuhanmu.

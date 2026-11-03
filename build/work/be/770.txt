@@ -1,0 +1,42 @@
+@be 770
+@bl 0
+@title Tu Debatami
+@key Eb
+@meter 4/4
+@credit Syair / Lagu / Terj.: NN
+@pages 838 839
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 3 (tanganNa, ejaan) dan 11 (pembanding tanpa "gogo"); scan dicek ulang, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 770) | https://bukuende.wordpress.com/2013/06/18/tu-debatami-buku-ende-no-770-buku-logu-no-770/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0.
+@check Not pertama birama 1 tercetak "1" tanpa titik atas; balok = Es5 → ditulis 1'.
+@check Bagian ulang ||: … :|| dengan volta 1 ("3 . .") dan volta 2 ("1 . ."): ditulis dua kali (bagian B = volta 1, bagian C = volta 2) dengan lirik sama.
+@check Pemenggalan "tanganNa" → ta-ngan-Na, "ganup" → ga-nup (dua not).
+#A
+5 | 1' 1'+1' 1' (7+6) |
+5 5+6 5 4+3 | 4 4+4 (4+6) 5+4 |
+5 . 3 |
+> Tu De-ba-ta-mi na sun go-go i sai ma-po-rus ma ho ga-nup a-ri
+#B
+1+1 | 6 6+6 6 7+1' | 5 5 5 4+3 |
+2 2+2 2+4 3+2 | 3 . . |
+> Di ta-ngan-Na do ho mo-lo mu-su ro tung na so-nang di am-pu-an-Na ho.
+#C
+1+1 | 6 6+6 6 7+1' | 5 5 5 4+3 |
+2 2+2 2+4 3+2 | 1 . . |]
+> Di ta-ngan-Na do ho mo-lo mu-su ro tung na so-nang di am-pu-an-Na ho.
+#V
+Tu Debatami na sun gogo i,
+sai maporus ma ho ganup ari.
+:,: Di tanganNa do ho molo musu ro,
+tung na sonang di ampuanNa ho.
+-
+Tung sun hinagogo ni Tuhan i,
+ingot ma Debatam do manghophop.
+:,: Nang ponjot rohami, ndang na leleng i,
+tongkin na i pujionmu Tuhan i.
+-
+Soara ni olop-olop na i,
+marsaringar di angka partigor.
+:,: Lan do gogo disi mambaen monang i
+paima sahat sude tu surgo i.

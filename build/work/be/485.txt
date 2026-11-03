@@ -1,0 +1,47 @@
+@be 485
+@bl 243
+@title Dongani ma au Tuhan.
+@key D
+@meter 4/4
+@credit Franz Heinrich Christoph Meyer 1767
+@pages 461
+@check Kepala lagu juga mencetak "Ev. Ps. No. 214".
+@check Lirik baris 1 tercetak "Donga- ni" di bawah dua not pertama; dipenggal Do-nga-ni.
+@check Birama sebelum :| tercetak "1..0" tetapi paranada = 1/2 + istirahat 1/4 (3 ketuk, bersama ketukan gantung = 4); ditulis "1 . 0".
+@check Tanda ' antara 3 dan 6 (baris akhir) = tanda napas.
+@status Lirik dicek · 16/20 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 4, 5 ('Ai i'), 7 ('na use') dan 18; baris 18 dicek ulang ke scan → dibetulkan menjadi 'ingananMu'.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 485) | https://bukuende.wordpress.com/2013/06/13/dongani-ma-au-tuhan-buku-ende-no-485-buku-logu-no-243/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 1 2 3 3 | 2 . 0 5 | 4 3 2 2 | 1 . 0 :|
+> Do-nga-ni au Tu-han, son-da-ngi ro-hang-ki,
+> Pa-ngi-ring ni ma-taM pa-to-ngon lang-kang-ki.
+#B
+5 | 6 6 7 7 | 1' 5 0 3 | 6 5 4 3 | 2 2 0 5 |
+6 6 7 7 | 1' 5 0 3 | 6 5 4 3 | 2 2 0 5 |
+1 1 2 3 | 4 4 3 v 6 | 5 1 2 2 | 1 . . |]
+> San-dok su-de go-gong-ku pa-do-hot ping-ki-ran-ku, Hu-bo-an pe-le-an-ku ma-ngu-la u-la-on-Mu. Ai i hi-na-lo-mo-hon-Mi, u-ru-pi ro-hang-ki.
+#V
+Dongani au Tuhan, sondangi rohangki,
+Pangiring ni mataM patongon langkangki.
+Sandok sude gogongku padohot pingkiranku,
+Huboan peleanku mangula ulaonMu.
+Ai i hinalomohonMi, urupi rohangki.
+-
+Ho sipalua au, buri ma au tangkas,
+MudarMu na use mambahen au ias.
+Sai togu au na lilu tu asi ni rohaMu,
+Malua ma rohangku, sinesa nang dosangku,
+Gok dosa do hian au on, sai buri rohangkon.
+-
+Ho siapuli au, sai pargogoi ma au.
+Tarunjun au tongtong dibaen partibi on.
+Ajari au maniru Tuhanku Sipangolu,
+Ringkot naeng botoonku pasauthon pingkiranMu,
+Ho do na mangapuli au, sai pargogoi ma au
+-
+Sitolusada Ho, sulingkit rohangki,
+Lopokhon rohaMi bagas tu rohangki.
+Padiri ma tondingku baen joro ingananMu,
+Patolhas ma basaMu tu au niasianMu,
+Martua au dibahen Ho Sitolusada Ho.

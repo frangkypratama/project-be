@@ -1,0 +1,36 @@
+@be 548
+@bl 377
+@title Dakdanak na badia i
+@key Ab
+@meter 3/4
+@credit M. No. 66; Lagu: Ludwig Erk 1883
+@pages 519 520
+@check DUA SUARA: buku mencetak dua paranada serentak, "Dakdanak marende" (atas) dan "Guru marende" (bawah); guru masuk satu birama kemudian (bersahutan/kanon). Format situs hanya satu melodi, jadi bagian A = suara dakdanak, bagian B = suara guru; di situs keduanya diputar berurutan, padahal di buku dinyanyikan bersamaan.
+@check Suara dakdanak baris 3: busur di atas "1 . 2" (mar-o-lop) dibaca busur frase (suku kata "o" dan "lop" di bawah not masing-masing, sama seperti suara guru); busur panjang "3 1 2 | 1" = satu suku kata "ro".
+@check Suara dakdanak birama 5 tercetak "1 5̣" (2 ketuk); balok menunjukkan As 1/2 + Es 1/4 → ditulis 1 . 5,.
+@check Kepala halaman p519 tercetak "549" walaupun lagu yang dimulai di halaman itu 548.
+@check Ayat 2–3 hanya dicetak 2 baris (tanpa bagian ulangan "Marolop olop ...").
+@status Lirik dicek · 3/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 1,3 (penulisan 'Dakdanak'), 4 ('tondingki' — suara guru di buku memang 'tondingki'), 6, 7 beda. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 548) | https://bukuende.wordpress.com/2013/06/13/dakdanak-na-badia-i-buku-ende-no-548-buku-logu-no-377/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5, | 1 . 2 | 3 . 4 | (3 1) 2 | 1 . 5, | 1 . 2 |
+3 . 4 | (3 1) 2 | 1 . 0 | 0 0 3 | 2 . 7, | 5, . 3 |
+(2 7,) 6, | 5, . 5, | 1 . 2 | 3 . 4 | (3 1 2 | 1) . 7, | 1 . |]
+> Dak-da-nak na ba-di-a i, mar-som-ba au di jo-lo Mi. Mar-o-lop o-lop ro-hang-ki, mar-o-lop o-lop ro-hang-ki,
+#B
+0 | 0 0 5, | 1 . 2 | 3 . 4 | (3 1) 2 | 1 . 5, |
+1 . 2 | 3 . 4 | (3 1) 2 | 1 . 1 | (7, 1) 2 | (3 2) 1 |
+(7, 2) 1 | 7, . 0 | 0 0 5, | 1 . 2 | 3 . 4 | (3 1) 2 | 1 . |]
+> Dak-da-nak na ba-di-a i. Mar-som-ba au di jo-lo-Mi. Mar-o-lop o-lop ton-ding-ki, mar-o-lop o-lop ton-ding-ki.
+#V
+Dakdanak na badia i, marsomba au di jolo Mi.
+Marolop olop rohangki, marolop olop rohangki,
+(Guru:) Dakdanak na badia i. Marsomba au di joloMi.
+Marolop olop tondingki, marolop olop tondingki.
+-
+Dakdanak na badia Ho, na sorang do di bara Ho.
+Sai naeng manajaga hami Ho.
+-
+Martua hasoranganmi, disi maringan dameMi.
+Sai ro ma Ho tu rohangki

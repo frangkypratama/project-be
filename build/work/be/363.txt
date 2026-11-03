@@ -1,0 +1,91 @@
+@be 363
+@bl 194
+@title Mauliate dok hamuna
+@key Ab
+@meter 4/4
+@credit Lagu: Louis Bougeois 1561
+@pages 347 348
+@status Lirik dicek · 50/56 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 50 dari 56 baris sama; beda di baris 3 ("ma" tidak ada di pembanding), 10 (di baen), 14 (mangkosomi), 19, 40 (hatuaonki), 56 (hea); dicek ulang ke scan, sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 363) | https://bukuende.wordpress.com/2013/06/16/mauliate-dok-hamuna-buku-ende-no-363-buku-logu-no-194/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian Ende Psalm, judul bagian "Psalm 118". Buku hanya mencetak teks dengan keterangan "Logu No. 194: Songon ende No. 362"; notasi diambil dari BE 362 (hlm 346) dan ayat 1 dipasangkan pada melodinya. Judul diambil dari baris pertama.
+@check Kredit tercetak "Louis Bougeois" (ejaan lazim: Bourgeois); ditulis sesuai buku.
+@check Pemasangan ayat 1: "Mauliate" dipenggal Ma-u-li-a-te (5 suku) dan "hea" he-a agar sesuai 17 not per frasa; baris 3 ("O Israel...") hanya 16 suku kata, jadi suku "Na" ditahan ke not berikut (tanda _). Perlu dicek penyanyi/manusia.
+#A
+1 . 6, 5, | 1 1 2 4 | 3 . 2 . | 0 0 5 . |
+3 3 1 4 | 3 . 2 . | 1 . 0 0 | 1 . 6, 5, |
+1 1 2 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 |
+1 7, 1 . | 0 0 5 . | 5 4 3 . | 2 . 1 7, | 6, . 5, . |
+0 0 5, . | 1 1 7, 6, | 1 . 2 . | 3 . 0 0 | 1 . 1 2 |
+3 1 4 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 | 1 7, 1 . |]
+> Ma-u-li-a-te dok ha-mu-na di De-ba-ta na ba-sar i; Sai pu-ji ma deng-gan ba-sa-Na, na so mar-pan-so-ho-tan i. O Is-ra-el, gir-gir en-de-hon ma a-si ro-ha-Na _ i, Na so he-a mar-pa-ru-jung-an, sa-le-leng ni le-leng-na i.
+#V
+Mauliate dok hamuna di Debata na basar i;
+Sai puji ma denggan basaNa, na so marpansohotan i.
+O Israel, girgir endehon ma asi rohaNa i,
+Na so hea marparujungan, saleleng ni lelengna i.
+-
+Hamu pinompar ni si Aron, gogo ma hatindangkon i;
+Dok ma: Saleleng ni lelengna do asi ni rohaNa i
+Hamu pe, na mangkabiari Jahowa Debatanta i,
+Sai dok: Imbaru ganup ari do asi ni rohaNa i.
+-
+Ai uju au di hagogotan, joujou do au tu Debata;
+Tangiangki do ditangihon, di baen do hosangki arga.
+Jahowa do tongtong donganku, beasa ma mabiar au?
+Tung aha baenon ni alongku, nang manang ise dompak au?
+-
+Tuhanku do na manguluhon sude na mangurupi au;
+Dibahen i ma hutaluhon luhut na mangkosomi au.
+Dumenggan do marhaporusan tu Debata na sintong i,
+Asa tu jolma marhaposan, nang pe tu na rumaja i.
+-
+Parbegu do mangkaliangi au on, mambuat hosangki;
+Hape sude do hutanggoi marhitehite Tuhanki.
+Ibana do hupangasahon, i do umbaen malua au;
+Ibana do na niarahon, umbaen marantu monang au.
+-
+Sobokkon loba na marsorop dihaliangi musu au,
+Hape laos songon api mintop di bulu duri do i lao,
+Marhite goar ni Tuhanku do hutaluhon sasude.
+Au na tinggang naeng bahenonna, ditungkol Debata dope.
+-
+Jahowa do hagogoonku, endengku las ni rohangki;
+Ibana do hatuaonku, na margogoihon tondingki.
+Marolopolop do luhutna partigor di jabuna be;
+SiamunMi do, o Jahowa, pamonang naposoM sude.
+-
+Timbul do tangan ni Jahowa sibahen hamonangan i;
+Na tunduk do na jungkat roha. Hot jongjong do partigor i
+Ndang mate au, sai na mangolu do au marhite Tuhanki;
+Pajojoronku, o pangolu ma saluhut pambaenanMi.
+-
+Tutu, gogo do dipinsangi Jahowa au, alai laos tong
+So mate au, ai disondangi denggan basaNa au tongtong.
+Sai ungkap bahal hatigoran di au, ai naeng do au tusi,
+Lao mangalehon hasangapon di Sipalua tondingki.
+-
+Dison do bahal ni Jahowa, bongotan ni partigor i,
+Lao pasangaphon Debatana di serep ni rohana i.
+Mauliate ma rohangku di Ho na asi roha i.
+Na mangalusi tangiangku, mambahen hatuaonki.
+-
+Ianggo batu binolongkon ni angka pande bagas i,
+Jahowa do na pajongjongkon, baen batu na di suhi i,
+Na pinatupa ni Jahowa do i na longang situtu
+Do roha ni na marnidasa huhut marsomba be burju.
+-
+Nuaeng ma ari na dumenggan binaen ni Debatanta i
+Dibahen i ma tapadenggan nuaeng parendeonta i
+Tumpahi hami, ale Tuhan di ari las ni roha on,
+Sai pasupasu ma pambaenan ni tangannami be tongtong.
+-
+Pinasupasu ma Rajanta, na ro marhite goar ni
+Jahowa Tuhan Debatanta, tu hita huriaNa i.
+Jahowa, sidongani hita do Debata na sintong i,
+Antong, tambathon peleanna tu tanduk ni langgatan i.
+-
+Ho, Debatangku, pujionku. Patimbulonku sai tongtong;
+Mauliate ma rohangku di Ho dibaen basaM inon.
+Hamu sude pe, ale dongan dok ma mauliate i;
+Ai ndang hea marpansohotan do denggan ni basaNa i.

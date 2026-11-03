@@ -1,0 +1,35 @@
+@be 490
+@bl 332
+@title Nang gunsang pe
+@key G
+@meter 6/8
+@credit Christian Fader
+@pages 465
+@check Kepala lagu juga mencetak "Singet No. 124".
+@check Birama 6/8: 1 token = 1/8 (not bergaris atas = 1/8, angka tanpa garis = 1/4 menurut paranada).
+@check "5 . ." di birama 2 dan 6 tercetak tanpa titik atas; paranada = D5 → ditulis 5'.
+@check Baris 1: 13 suku kata untuk 12 not; "manggaori" dinyanyikan 3 suku kata (mang-gao-ri) menurut letak lirik.
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 1, 6 (ejaan) dan 10 (satu kata tidak ada di pembanding); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 490) | https://bukuende.wordpress.com/2013/06/16/nang-gunsang-pe-buku-ende-no-490-buku-logu-no-332/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 5, . 1 (3 2) 1 | 5' . . 2 . 2 | 3 . 1 (1 7,) 1 |
+2 . . 0 0 5, | 2 . 3 (4 3) 2 | 5' . . (4 3) 2 |
+1 . 1 (2 1) 2 | 3 . 0 5' . . | (4 3) 2 (2 1) 7, | 1 . . 0 0 |]
+> Nang gun-sang pe ga-lum-bang mang-gao-ri so-lu-mi, Di-i-da si-an gin-jang Tu-han-mu Je-sus i, na ma-sa di ho i.
+#V
+Nang gunsang pe galumbang manggaori solumi,
+Diida sian ginjang Tuhanmu Jesus i,
+na masa di ho i.
+-
+Mandate ho sipata dibaen na porsuk i,
+Jamot tongtong Tuhanta di hot ni rohami
+Haporseai ma i.
+-
+Haposi ma Ibana, sun hinagogo i,
+Na tuk palashon roha ni anakkonNa i.
+HaholonganNa i.
+-
+Ditolong do na pogos, na marsak roha i,
+Tung unang be ho bobos di pambahenNa i.
+Denggan ujungna i.

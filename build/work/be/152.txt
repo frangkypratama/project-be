@@ -1,0 +1,25 @@
+@be 152
+@bl 120
+@title Jesus na mamorsan
+@key F
+@meter 4/4
+@credit Martin Luther 1528
+@pages 137
+@check Bagian A bertanda ulang (:|) tetapi hanya satu baris lirik di buku; baris lirik yang sama dipakai untuk kedua kalinya.
+@status Lirik dicek · 3/3 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama; pembanding punya satu baris "Jesus" tambahan (pengulangan).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 152) | https://bukuende.wordpress.com/2013/06/16/jesus-na-mamorsan-buku-ende-no-152-buku-logu-no-120/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 2 3 3 | 4 . 3 . v | 3 2 3 4 | 5 4 3 . |
+0 3 2 1 | 3 . 2 . :|
+> Je-sus, na ma-mor-san do-sa ni por-ti-bi on, Pa-ngo-lu ha-mi!
+> Je-sus, na ma-mor-san do-sa ni por-ti-bi on, Pa-ngo-lu ha-mi!
+#B
+1 2 3 3 |
+4 . 3 . v | 3 2 3 4 | 5 4 3 . v | 3 3 2 1 |
+3 . 2 . v | 1 2 v 3 4 | (3 2 #1 .) | 2 . . . |]
+> Je-sus na ma-mor-san do-sa ni por-ti-bi on, Sai pa-so-nang ha-mi! A-men, A-men A-men
+#V
+Jesus, na mamorsan dosa ni portibi on, Pangolu hami!
+Jesus na mamorsan dosa ni portibi on, Sai pasonang hami!
+Amen, Amen, Amen.

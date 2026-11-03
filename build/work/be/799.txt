@@ -1,0 +1,39 @@
+@be 799
+@bl 0
+@title Mars NHKBP
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair & Lagu: A. Pasaribu
+@pages 876 877
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 2 (marnalem — suku kata buku "mar-na-lem ba be"), 3 (Partogi), 4 (ho), 10 (harajaonMu); dicek ulang di scan hlm 876–877, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 799) | https://bukuende.wordpress.com/2013/06/16/mars-nhkbp-buku-ende-no-799-buku-logu-no-799/ | teks ayat; pembanding menyebut Logu No. 799, buku tidak mencetak nomor Logu
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Do = Bes; not tanpa titik di oktaf bawah (5 = F4, 1' = Bes4) → @oct -1.
+@check Baris 2: angka "4 4" (tidak dicoret), balok bertanda ♮ pada E → ditulis #4 #4 sesuai balok.
+@check Baris 4: "1⌣7" — angka 1 tanpa titik atas, balok Bes4 → ditulis 1'.
+@check "5 . 5" dengan garis atas ganda dan balok 1/8 bertitik + 1/16 → 5+.+.+5 (juga "4 . 4" di baris terakhir).
+#A
+5 | 3' 1' 4' .+2' | 1' 7 1' 1' |
+7 6 5+5 #4+#4 | 6 . 5 5 | 3' 1' 4' .+2' |
+1' 7 1' 1' | 2' 3' 4'+3' 2'+1' |
+(1' 7) 1' 5+.+.+5 | 2' . 3' 2'+5 | 1' . 5 5+5 |
+1' 1' 7 6 | 5 . . 5+.+.+5 | 6 6 7 7 |
+(1' .+7) 1' 4'+.+.+4' | 3' .+1' 3' 2' | 1' . . |]
+> U-dur ma hi-ta sa-su-de Na-po-so-bu-lung Kris-ten Ba-tak, sai u-nang mar-na-lem ba be, tung u-nang ting-gal nang sa-ha lak, Tu-han Je-sus do Par-to-gi di pa-tiur do da-lan i, sai tong-tong ho di ra-mo-ti u-nang gang-gu ro-ha-mi.
+#V
+Udur ma hita sasude Naposobulung Kristen Batak,
+sai unang marnalem ba be, tung unang tinggal nang sahalak,
+Tuhan Jesus do Partogi di patiur do dalan i,
+sai tongtong ho di ramoti unang ganggu rohami.
+-
+Arahon hahaanggimi mananda silang ni Tuhanta,
+sai pangke gogomi sude, manuhuk silang ganup ari,
+sai tajalo hagogoon na so hasuhatan i
+asa saut ma jaloonta hasonangan surgo i.
+-
+Sai pasu-pasu O Tuhan Naposobulung Kristen Batak
+patau ma hami sasude, partohap di harajaonMu
+sai ajari sai torang i pargogoi ma hami be
+asa rap marhasonangan salelenglelengna i.

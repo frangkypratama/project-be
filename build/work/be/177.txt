@@ -1,0 +1,36 @@
+@be 177
+@bl 147
+@title Ndada tarhatahon
+@key Bb
+@meter 4/4
+@credit Lagu: Erns Spindler
+@pages 160 161
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 kata 3 ("haho") beda ejaan, tercetak demikian; ayat 4 baris 3 yang pudar dibaca sesuai pembanding ("I do").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 177) | https://bukuende.wordpress.com/2013/06/16/ndada-tarhatahon-buku-ende-no-177-buku-logu-no-147/ | 11/12 baris sama
+@check Nada dasar Bes (2 mol; 1 = Bes di garis tengah paranada). Beberapa angka bertitik atas (1̇ birama 2, 2̇ 2̇ baris 2, 2̇ baris 3, 4̇ 3̇ 2̇ baris 4) bertentangan dengan not balok yang tidak naik oktaf; ditulis mengikuti not balok (oktaf tengah).
+@check Baris 1 birama 4 tercetak "3 . . 0", not balok: not 1/2 + tanda diam 1/2; ditulis "3 . 0 0".
+@check Baris 3: "7*" = 7 mol (not balok ♭A). Ayat 4 baris 3 cetakan pudar; dibaca "I do pangidoan ni Tuhanta i" (dikonfirmasi pembanding).
+@check Kredit tercetak "Erns Spindler" (lazim: Ernst Spindler).
+#A
+5, 3, 5, 1 | 1 . (7, 1) | 2 5, 6, 5, | 3 . 0 0 |
+3 1 (7,+2) (1+6,) | 2 . (2 1) | 7, (6,+7,) 1 6, | 5, . 0 0 |
+5, 5, 1 5, | (6, .+b7,) 6, 0 | 6, 6, 2 .+1 | 7, . 0 0 |
+1 1 3 1 | 6, 4 3 2 | 1 . 7, . | 1 . 0 0 |]
+> Nda-da tar-ha-ta-hon ha-ho ho-long ni Ro-ha ni Tu-han-ta di par-do-sa i. Mar-sak do ro-ha-na mi-da jol-ma i, na so o-lo un-duk di ha-ta-na i.
+#V
+Ndada tarhatahon haho holong ni
+Roha ni Tuhanta di pardosa i.
+Marsak do rohana mida jolma i, na so olo unduk di hatana i.
+-
+Naeng pangoluonna jolma sasude,
+Naeng pasonangonNa nang parjahat pe;
+Asal ditangihon saluhutna i, hata hangoluan binoanNa i.
+-
+Jesus do manaoni dosa ni sude,
+Nunga digarari do utangta be;
+Nunga pola mate Tuhan Jesus i, paluahon hita sian dosa i.
+-
+O hamu pardosa, sai tandai ma i,
+Lehon di Ibana rohamuna be;
+I do pangidoan ni Tuhanta i, asa sai tong sonang bahenonna i.

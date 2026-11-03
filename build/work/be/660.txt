@@ -1,0 +1,36 @@
+@be 660
+@bl 0
+@title Bege ma Tuhan i
+@key Eb
+@meter 4/4
+@credit Syair & Lagu: "Terlalu manise", Masyarakat Ambon · Terj.: Pdt. J.A.U. Doloksaribu
+@pages 680 681
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Baris 1 birama 2 angka tercetak "3 . 1" (3 ketuk); balok = G4 1/2 bertitik + Es4 1/4 dan baris 2 "3 . . 1" → ditulis 3 . . 1.
+@check Not 1 terakhir bertanda fermata (belum didukung tampilan).
+@check Ayat 2 baris 3 tercetak "bela hita" (lirik di bawah not ayat 1: "beta hita") — ditulis apa adanya.
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 4, 7, 9 (bela), 12 beda; scan hlm 681 dicek: buku mencetak 'Oloi ma Tuhan i mangsai uli di i' dan 'bela hita'. Judul pembanding: 'Oloi Ma Tuhan I'.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 660) | https://bukuende.wordpress.com/2013/06/16/oloi-ma-tuhan-i-buku-ende-no-660-buku-logu-no-660/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5, | 1 .+5, 1 5 | 3 . . 1 | 2 .+#1 2 3 |
+1 . . 5, | 1 .+5, 1 5 | 3 . . 1 | 2 .+#1 2 3 |
+1 . . 5+5 | 1'+1' 7+6 5+5 3+4 | 5+5 7+6 (5 . |
+5)+4 3+2 1+1 .+5, | 1+1 2+2 (3 . |
+3)+5 5+5 6+6 .+7 | 1' 7+6 5+6 5+3 |
+1 4+3 2+2 .+1 | 7,+1 2+7, 1 |]
+> Be-ge ma Tu-han i, na jo-u jo-u i sai u-nang ju-a i, man-sai so-nang do i, be-ta hi-ta lao ma-ngu-la tu la-dang ni Tu-han i Di jou Tu-han-ta ho tu go-ti-lon i pe-le-hon ma ngo-lu-mi ma-ngo-lo-i Tu-han i lao ma-ngu-la di Ha-ra-jaon-Na i.
+#V
+Bege ma Tuhan i, na jou-jou i
+sai unang jua i, mansai sonang do i,
+beta hita lao mangula tu ladang ni Tuhan i
+Di jou Tuhanta ho tu gotilon i
+pelehon ma ngolumi mangoloi Tuhan
+i lao mangula di HarajaonNa i.
+-
+Oloi ma Tuhan i mangsai uli di i,
+porsan ma silangmi, mansai sonang do i,
+bela hita lao mangula tu ladang ni Tuhan i,
+di jou Tuhanta ho tu gotilon i,
+pelehon ma ngolumi mangoloi Tuhanta i.
+lao mangula di HarajaonNa i.

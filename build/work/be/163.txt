@@ -1,0 +1,50 @@
+@be 163
+@bl 75
+@title Jesus hinaposan ni
+@key C
+@meter 4/4
+@credit Johann Crüger, 1653
+@pages 147 148
+@status Lirik dicek · 24/24 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama (post berjudul baris pertama "Laos dijalo Jesus i").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 163) | https://bukuende.wordpress.com/2013/06/16/laos-dijalo-jesus-i-buku-ende-no-163-buku-logu-no-75/ | 24/24 baris sama
+@check Kepala lagu mencetak "Jesus hinaposan ni"; baris pertama lirik "Laos dijalo Jesus i".
+#A
+5 . 3 . | 6 7 1' 1' | 7 . v 6 . | 1' . 5 3 | 4 3 2 . | 1 . . . :|
+> Laos di-ja-lo Je-sus i do par-do-sa na ta-ri-lu.
+> Sai pa-bo-a ha-ta i tu sa-lu-hut i na li-lu.
+#B
+3 . #4 . | #5 6 6 #5 | 6 . v 1' . | 2' . 3' 3' | 2' 2' 1' . |]
+> A-sa sa-su-de na ro di-pa-ngo-lu Je-sus do.
+#V
+Laos dijalo Jesus i do pardosa na tarilu.
+Sai paboa hata i tu saluhut i na lilu.
+Asa sasude na ro dipangolu Jesus do.
+-
+Asi ni rohaNa i pinarbaga ni hataNa
+Dohot hangoluan i salelengna di lambungNa.
+Saluhut na i na ro, dipangolu Jesus do.
+-
+Dilului parmahan i, dorbiana, molo lilu;
+Burjuan do Jesus i manjalahi na tarilu,
+Asa unang mago i dipangolu Jesus i.
+-
+Ro ma sasude hamu, ro hamu na marsak roha;
+Jesus do manjou hamu asa mulak tu Jahowa.
+Unang so porsea ho dipangolu Jesus do.
+-
+Au, na marsak roha i ro tu Ho, haporusanku,
+Manopoti dosangki, sesa ma sude utangku.
+Hata on mangapul au dipangolu Jesus au.
+-
+Nang jorbut pe dosangki, laos gumogo do mudarMu,
+Tau manesa utangki, mangurasi pe rohangku.
+Ai hudok marningot Ho, dipangolu Jesus do.
+-
+Ndang huhabiari be pangaluan ni si Musa;
+Ai sitahan utangki do manggarar saluhutna.
+Ndang be hona toru au dipangolu Jesus au.
+-
+Jesus, Sipangolu i, na mangungkap pardamean,
+Ara au tu lambungMi, ia jumpang hamatean.
+Laos hudok mamuji Ho, dipangolu Jesus do.

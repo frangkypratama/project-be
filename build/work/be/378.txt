@@ -1,0 +1,34 @@
+@be 378
+@bl 382
+@title Sai dijangkon Jesus i
+@key D
+@meter 3/4
+@credit Lagu : James Mc. Granahan 1907
+@pages 362 363
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 8 baris sama; beda ejaan di baris 4 (mauas); sesuai buku (ma-u-as).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 378) | https://bukuende.wordpress.com/2013/06/18/sai-dijangkon-jesus-i-buku-ende-no-378-buku-logu-no-382/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian "Dijou Tuhan i do ho!". Kepala lagu juga mencetak "Z. No. 189". Ayat 2–3 diakhiri "Sai..." (= ulangi refrein #B).
+@check Refrein (#B) berganti birama ke 12/8 (1 token = 1/8). Nilai not di angka dan not balok refrein tidak konsisten (mis. "5.. 5." tidak selalu genap 12/8); ketukan disusun dari not balok + penempatan lirik agar tiap birama = 12/8. Perlu dicek manusia.
+@check Refrein birama 3: "i" di buku berada di bawah dua not 5 tanpa legato → ditulis "i _". Birama "5.. 5. 3 4 5" (Ai di): "Ai" di bawah dua not 3 4 tanpa legato tercetak; ditulis legato (3 4) seperti ketukan gantung "Sai" (3͡4).
+#A
+3+.+.+4 | 5 .+6 3+.+.+6 | 5 . 5+.+.+1' | 7 .+6 5+.+.+4 |
+3 . 3+.+.+4 | 5 .+6 3+.+.+6 | 5 . 5+.+.+1' | 7 .+5 6+.+.+7 |
+1' . |]
+> Sai di-jang-kon Je-sus i ang-ka na mar-do-sa i, nang na dao, na li-lu pe, a-sal ro tu Je-sus i.
+#B 12/8
+(3 4) 5 | (6 . . . . . 6 .) 1' (1' 7) 6 | 5 . . . . . 5 . . (5 6) 3 |
+(5 . . . . . 5 .) 5 (5 6) 3 | (5 . . . . . 5 . .) (3 4) 5 | (6 . . . . . 6 .) 1' (1' 7) 6 |
+(5 . . . . . 5 . .) 1' . 1' | (2' . . 2' .) 2' 1' . . 7 . . | (1' . . . . . 1' . .) |]
+> Sai pa-bo-a ha-ta i _ tu su-de par-do-sa i. Ai di-jang-kon Je-sus do ang-ka na ma-u-as ro.
+#V
+Sai dijangkon Jesus i angka na mardosa i,
+Nang na dao, na lilu pe, asal ro tu Jesus i.
+Sai paboa hata i tu sude pardosa i.
+Ai dijangkon Jesus do angka na mauas ro.
+-
+Sonang do angka na ro, unang ma tartogang ho,
+Dohot ho dijangkon do, boi hape na sonang ho. Sai...
+-
+Dohot au dijangkon do, tondingki diuras do.
+Tung na las do rohangki mida Jesus Tuhanki. Sai...

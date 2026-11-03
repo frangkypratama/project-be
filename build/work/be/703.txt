@@ -1,0 +1,46 @@
+@be 703
+@bl 0
+@title Rap ma hita lao manganhon
+@key Eb
+@meter 4/4
+@credit Syair: Let us break Bread together · Lagu: Tradisional Amerika · Terj.: Pdt. J.A.U. Doloksaribu
+@pages 736 737 738
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0).
+@check Tanda birama di scan kabur (tampak 2/2 atau 3/2); isi birama = 4 ketuk seperempat → ditulis 4/4.
+@check Birama "1̄ 3 ‾.2 2" dan "1̄ 3 ‾.2 .1̄": angka tidak jelas; durasi mengikuti balok (1/8, 1/4 bertitik, …) → `1+3 . 2 2` dan `1+3 . 2 .+1`.
+@check Ayat 4 di buku tanpa baris "Ref : Pos ma rohanta i . . ." (ayat 2, 3, 5 ada).
+@status Lirik dicek · 12/13 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris refrein beda ejaan "baporseaon"; scan: buku mencetak "hot ba-" (akhir baris) + "por-se a-on". Buku tetap acuan. (Pembanding menulis "Buku Logu No. 703"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 703) | https://bukuende.wordpress.com/2013/06/16/rap-ma-hita-lao-manganhon-buku-ende-no-703-buku-logu-no-703/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5, 6, | 1 .+1 1 .+1 | 1+3 . 2 2 | (1 . . . | 1) . 3 4 |
+5 .+5 5 .+5 | 5+7 . 6 6 | (5 . . . | 5) . |
+> Rap ma hi-ta lao man-gan-hon ro-ti on, par-hi-te-an ni da-ging ni Tu-han i.
+#B
+1 3 | 5 . 5 5 | 5 . 6 5 |
+4 (4+2) 4 4 | 4 . 5 4 |
+3 . 3 . | 1+3 . 2 .+1 | (1 . . . | 1) . |]
+> Pos ma ro-han-ta i, hot ba-por-se-a-on i, lao man-ja-lo ha-ngo-lu-an i.
+#V
+Rap ma hita lao manganhon roti on,
+parhitean ni daging ni Tuhan i.
+Ref : Pos ma rohanta i, hot baporseaon i, lao manjalo hangoluan i.
+-
+Rap ma hita lao manginum anggur on,
+ima mudar ni Tuhanta Jesus i,
+Ref : Pos ma rohanta i . . .
+-
+Rap ma hita lao marningot Tuhan i,
+rap ma hita lao marningot Tuhan i.
+Ref : Pos ma rohanta i . . .
+-
+Rap ma hita lao mamuji Tuhan i
+rap ma hita lao mamuji Tuhan i.
+-
+Rap ma hita lao manomba Tuhan i,
+rap ma hita lao manomba Tuhan i.
+Ref : Pos ma rohanta i . . .
+-
+Rap ma hita mangoloi Tuhanta i
+rap ma hita mangoloi Tuhanta i
+Ref : Pos ma rohanta i . . .

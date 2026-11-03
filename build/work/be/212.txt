@@ -1,0 +1,37 @@
+@be 212
+@bl 24
+@title Haholongon na badia
+@key Bb
+@oct -1
+@meter 3/4
+@credit Julius Anton, 1896
+@pages 192 193
+@status Lirik dicek · 13/14 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 13 dari 14 baris sama; baris 2 kata 2 (ejaan). Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 212) | https://bukuende.wordpress.com/2013/06/13/haholongon-na-badia-buku-ende-no-212-buku-logu-no-24/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . 4 | 5 . 1' | (1' 7) 6 | 6 . 5 v | 5 . 1' |
+5 . 3' | (2' 3') 2' | 1' . 0 | 3' . 3' | (3' 2') 2' |
+(2' 7) 5 | 1' . 5 v | (1' 7) 6 | 5 . 1' | 3' . 2' | 1' . . |]
+> Ha-ho-lo-ngon na ba-di-a si-an Tu-han Je-sus i: Sai song-go-pi, sai bo-ngo-ti ro-ha do-hot ton-ding-ki!
+#V
+Haholongon na badia sian Tuhan Jesus i:
+Sai songgopi, sai bongoti roha dohot tondingki!
+-
+Las ni roha ni na sonang di banuaginjang i;
+Sai pasonang, sai pasabam, sihol na di rohangki!
+-
+Hasonangan, hadameon na ro sian Jesus i;
+Sai pahosa au na loja, asa bulus rohangki.
+-
+Sai palambas ma rohangku dompak angka dongan i,
+Asa tung ringgas rohangku lao manesa dosa nii!
+-
+Habasaron, hadameon na ro sian Tuhanki,
+Gohi roha dohot tondi, unang munsat sian i!
+-
+Haholongon sian Jesus, sai paias rohangkon,
+Sai pabali nasa tihas asa ias tondingkon.
+-
+Antong, ale Debatangku sai pagomos rohangki,
+Asa tolhas au tu lambung ni sude na monang i!

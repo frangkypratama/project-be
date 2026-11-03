@@ -1,0 +1,27 @@
+@be 440
+@bl 296
+@title Sai puji ma Tuhanta.
+@key C
+@meter 3/4
+@credit R.L. No. 621.
+@pages 422
+@status Lirik dicek · 4/9 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan "mapatulus", "endenta", "Dipuji" dan kata berbeda di ayat 3 ("pande", "Alai"); ayat 2 dicek ulang ke scan: tercetak demikian. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 440) | https://bukuende.wordpress.com/2013/06/18/sai-puji-ma-tuhanta-buku-ende-no-440-buku-logu-no-296/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | (1' .+7) (6+5) | (5 3) 5 | 5 .+4 3+2 |
+3 1 5 | (6 1') 6 | (5 3) 5 | 6 .+7 1'+6 |
+5 3 3' | (2' .+3') 4' | 3' . 1' | (7 .+1') 2' | 1' . |]
+> Sai pu-ji ma, Tu-han-ta Je-sus Kris-tus. Pa-sa-ngap ma, lo-mo-na ma-pa-tu-lus. Pi-nu-ji ma go-ar-Na, da!
+#V
+Sai puji ma, Tuhanta Jesus Kristus.
+Pasangap ma, lomona mapatulus.
+Pinuji ma goarNa, da!
+-
+Na sahat ma endenta tu joloNa.
+Na metmet ma nang angka na umbalga
+Dipuji ma goarNa, da!
+-
+Ndang pande au mamuji Ho, o Tuhan,
+Alai dibege Ho au, ale Tuhan.
+Pinuji ma goarNa, da!

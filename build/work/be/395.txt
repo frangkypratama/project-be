@@ -1,0 +1,46 @@
+@be 395
+@bl 263
+@title Masuk ma ho
+@key G
+@meter 6/8
+@credit James Mc. Granahan 1907
+@pages 378 379
+@check Kepala lagu juga mencetak "Z.L. No. 21".
+@check Birama 6/8: 1 token = 1 not 1/8. Angka di lagu ini sering menulis not 1/4 bertitik hanya dgn satu titik ("3 . 3 2 3", "1 . 1 5", "5 . 4 0", "5 . 3 1"); durasi diambil dari not balok.
+@check Bagian A punya volta: ulangan 1 berakhir "1 1 (1 2) 3 | 2 . 2 0" (hlm 378), ulangan 2 "3 2 | 1 . 1 0" (hlm 379). Di sini ditulis sebagai dua bagian (A1, A2) dengan not lengkap masing-masing.
+@status Lirik dicek · 11/14 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L2, L3, L12 ("Pabulus", "tadingkon" sesuai scan).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 395) | https://bukuende.wordpress.com/2013/06/16/masuk-ma-ho-buku-ende-no-395-buku-logu-no-263/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . . (3 2) 3 | (1 . . 1) . 5, | 3 . 3 (3 2) 3 |
+5 . . 4 . 0 | 4 . . (4 3) 2 | (6, . . 6,) . 7, | 1 . 1 (1 2) 3 | (2 . . 2) . 0 |
+> Ma-suk ma ho, na go-got do har-ba-ngan, ma-suk ma ho, som-pit do da-lan i.
+#B
+3 . . (3 2) 3 | (1 . . 1) . 5, | 3 . 3 (3 2) 3 |
+5 . . 4 . 0 | 4 . . (4 3) 2 | (6, . . 6,) . 7, | 1 . 1 3 . 2 | (1 . . 1) . 0 |
+> Je-sus man-jou nang ho di par-ja-la-ngan, sai ro ma ho, naeng so-nang ro-ha-mi.
+#C
+5 . . 3 . 1 | (2 . 3) 2 . . | 5 . . 3 . 1 | (2 . . 2) . 0 |
+3 . . (3 4) 5 | 6 . (4 . 4) 6 | 5 . 5 (4 3) 2 | (3 . . 3) . 0 |
+3 . . (3 4) 5 | 6 . (4 . 4) 6 | 5 . 5 (4 3) 2 | (1 . . 1) . 0 |]
+> Je-sus man-jou ho, be-ge ma i, u-nang be to-gang, o-loi jou-jou-Na i. U-nang be to-gang, o-loi jou-jou-na i.
+#V
+Masuk ma ho, na gogot do harbangan, masuk ma ho, sompit do dalan i.
+Jesus manjou nang ho di parjalangan, sai ro ma ho, naeng sonang rohami.
+Jesus manjou ho, bege ma i, unang be togang, oloi joujouNa i.
+Unang be togang, oloi joujouna i.
+-
+Aik lilu ho di dalan parjalangan,
+Runsur patmi dibaen landitna i.
+Torop do na marsangkap hamonangan.
+Alai ndang saut dibaen garisna i. Jesus manjou ho....
+-
+Marsak hamu? Malungun rohamuna?
+Malum do i dibaen holongna i.
+Manang beha jorbut pe dosamuna,
+Ias muse dibaen mudarNa i. Jesus manjou ho....
+-
+Pabulus ma, tadingkon na di pudi,
+Sai ro ma ho ditagam Jesus do.
+Sadari on, boi dohot ho taruli di hatuaon na rade di ho.
+Jesus manjou ho....

@@ -1,0 +1,45 @@
+@be 748
+@bl 0
+@title Sonang ma ho
+@key F
+@meter 4/4
+@credit Syair: Be Stili My Soul; Katharina Van Schlegel, 1752; Terj.: Pdt. J. A. U. Doloksaribu; Lagu: Jean Sibelius, Finlandia 1933
+@pages 804 805 806
+@status Lirik dicek · 13/18 baris sama dgn pembanding
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Rujukan ayat di kepala lagu: Ps. 46:10-12.
+@check Tanda mula 1 mol, 3 = A4 di paranada → do = F. Melodi (angka) sama persis dengan BE 746 (Finlandia).
+@check Kredit tercetak "Be Stili My Soul" (salah cetak untuk Still) — ditulis apa adanya.
+@check Ejaan seperti tercetak: ayat 1 "tondinghu", ayat 2 "tondungku", ayat 3 "inananmu" (bandingkan "tondingku"/"ingananmu" di BE 746).
+@check Ayat 1 hanya tercetak di bawah not; teks ayat 1 di #V disusun dari suku kata lirik.
+@check Pembanding lirik: beda di baris 7 (tondungku), 15 (hansit taononmu), 16 (Tuhan), 17 (inananmu), 18 (pembanding kurang 1 kata); dicek ulang di scan hlm 805–806, ditulis sesuai buku termasuk salah cetak tondungku/inananmu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 748) | https://bukuende.wordpress.com/2013/06/18/sonang-ma-ho-buku-ende-no-748-buku-logu-no-748/ | Pembanding lirik (tanda baca diabaikan).
+#A
+3 2 3 | 4 . . 3 | 2 3 1 .+2 | 2 (3 . . |
+3) 3 2 3 | 4 . . 3 | 2 3 1 .+2 | (3 . . . |
+3) 5 5 5 | 6 . . 3 | 3 5 5 .+2 | 2 (4 . . |
+4) 4 3 2 | 3 . . 1 | 1 2 2 .+3 | (3 . . . |
+3) 5 5 5 | 6 . . 3 | 3 5 5 .+2 | 2 (4 . . |
+4) 4 3 2 | 3 . . 1 | 1 2 2 .+1 | (1 . . . |
+1) |]
+> So-nang ma ho, so-nang ma ho ton-ding-hu sa-bam ma ho ma-mor-san si-lang-mi, pos ro-ha-mi sa-ti-a do Tu-han-mu I-ba-na do pa-to-gu lang-kang-mi, nang pe ra-his ma-ol si-da-la-nan-mu tu-lus do i baen-on ni Tu-han-mi.
+#V
+Sonang ma ho, sonang ma ho tondinghu
+sabam ma ho mamorsan silangmi,
+pos rohami satia do Tuhanmu
+Ibana do patogu langkangmi,
+nang pe rahis maol sidalananmu
+tulus do i baenon ni Tuhanmi.
+-
+Sonang ma ho, sonang ma ho tondungku,
+tu Tuhan i tinggangkon holsomi
+tongtong do ho disarihon Tuhanmu,
+benget ma ho diparungkilonmi,
+sai hot ma ho manghirim di Tuhanmu,
+monang do ho diparaloanmi.
+-
+Sonang ma ho, sonang ma ho tondingku,
+satongkinon, so do galumbang i
+marujung do na hansit taononmu
+pos rohami donok do Tuhan i
+Tuhanmu do parade inananmu,
+di surgo i, huta na sonang i.

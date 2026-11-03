@@ -1,0 +1,37 @@
+@be 335
+@bl 50
+@title Loas au, asa lao
+@key C
+@meter 3/4
+@credit Karl Voigtlander 1835
+@pages 313 314
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 6 (mamida); dicek ulang ke scan hlm 314, buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 335) | https://bukuende.wordpress.com/2013/06/16/loas-au-asa-lao-buku-ende-no-335-buku-logu-no-50/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama "6 5 0 3.1" (baris 2): not balok 6 = 1/4, 5 = 1/8, diam 1/8, 3'-1' = 1/8 bertitik + 1/16 → ditulis "6 5+0 3'+.+.+1'".
+@check Bagian ulangan "3 5 | 1 5 3 2 | 1": not balok 3 5 dan 1' 5 = 1/8, 3' 2' = 1/4, 1' = 1/2 (garis atas di angka 3' 2' tampak, tetapi tidak sesuai ketukan) — mohon dicek.
+@check Buku mencetak "pothon" di bawah dua not; dipenggal "pot-hon".
+#A
+5+.+.+4 | (4 3) v 1'+.+.+6 | (6 5) 3+5 | 5 4 v 2+4 |
+(4 3) v 1'+.+.+7 | 7 6 1'+.+.+6 | 6 5+0 3'+.+.+1' |
+7 .+6 5+.+.+4 | 4 3 |
+> Lo-as au, a-sa lao tu Je-sus-ku tu na dao: Ai ma-lu-ngun do ro-hang-ku: Man-da-pot-hon De-ba-tang-ku,
+#B
+3+5 | 1'+5 3' 2' | 1' . :|
+> a-sa di lam-bung-Na au.
+#V
+Loas au, asa lao tu Jesusku tu na dao:
+Ai malungun do rohangku: Mandapothon Debatangku,
+asa di lambungNa au.
+-
+Jesuski, sondang i, sitorusi ombun i, o andigan ro tingkingku,
+Asa borhat ma tondingku,
+Lao mamida bohiMi ?
+-
+Sungkot ni denggan ni ende ni suruan i!
+Aut marhabongkabong ahu, tongkin on dope au laho
+Tu banuaginjang i.
+-
+Sonangmi tondingki molo sahat ho tusi!
+O Jahowa, Debatangku, ndang dodoan ni rohangku
+Las ni roha i disi!

@@ -1,0 +1,54 @@
+@be 83
+@bl 214
+@title Na lao do birubiru i
+@key F
+@meter 4/4
+@credit Wolfgang Dachstein, 1525
+@pages 73 74
+@status Lirik dicek · 20/25 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 4 (kata ke-3 berbeda), 6 (kata lebih), 9 (kata kurang), 19 (ejaan); baris 6/8/9 ayat 2 memuat bagian scan yang tak terbaca […] — perlu dicek manusia.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 83) | https://bukuende.wordpress.com/2013/06/16/na-lao-do-birubiru-i-buku-ende-no-83-buku-logu-no-214/ | 20/25 baris sama
+@check Baris akhir: "5, '5, ." — not 5 pertama tanpa titik tahan, tetapi not balok buku menunjukkan dua not 1/2.
+@check Legato panjang di baris akhir (dari 5 sampai 2) mengikuti busur di buku: suku kata "on" dinyanyikan melisma.
+@check Ayat 2 rusak di scan (beberapa kata tidak terbaca), ditandai […].
+#A
+5 . 6 5 | 3 . 5 . | 4 4 3 . v | 2 . 3 4 | 5 . (4 3) |
+2 . 1 . :|
+> Na lao do bi-ru-bi-ru i, ma-mor-san ang-ka do-sa
+> Ni na-sa ha-jol-ma-on i di ben-get ni ro-ha-na,
+#B
+1 . 2 3 | 4 . 2 . | 3 2 1 . v | 1 . 3 4 |
+5 . 6 . | 3 #4 5 . v | 3 . 5 6 | 5 3 4 . | 3 . v 6 . |
+6 6 2 . | 5 . (4 2) | 3 . 2 . v | 4 . 3 2 | 1 . 2 . |
+(7, 1) 6, . | 5, . v 5, . | 1 2 3 4 | (5 .+4 3 4 | 2) . 1 . |]
+> Di-por-san do sa-hit-ta i, di-le-hon do di-ri-Na i tu ta-ngan ni pa-mu-nu. Di tao-ni do ha-ber-nit i, ro di na tos ho-sa-Na i, di-dok naeng por-san-on-ku.
+#V
+Na lao do birubiru i, mamorsan angka dosa
+Ni nasa hajolmaon i di benget ni rohana,
+Diporsan do sahitta i, dilehon do diriNa i tu tangan ni pamunu.
+Ditaoni do haberniti, ro di na tos hosaNa i,
+Didok naeng porsanonku.
+-
+[…]anggo birubiru i, i ma alealengku na paluahon tondingki,
+Disuru Debatangku. Didok mandok AnakNa i;
+"Sai tope[…] ma pardosa i naung sun tinoruanku.
+Balga tutu […]imashi, alai tarbaen do mombun i
+Horhonon ni mudarMu."
+-
+"Na olo au ale Amang, sian sandok rohangku
+Pasauthon lomo ni rohaM, roham sambing do guru."
+O holong ni rohana i! Tung aha do tudosanMi,
+Na songon Ho margogo? Dilehon Debata hape
+Anakna, lao manaon sude sitaonon ni na mago.
+-
+Saleleng na mangolu au naeng ingotonku Jesus;
+Sude na binaenMi di au hataM naeng hupatulus.
+Ho naeng haholonganku do huhut ihuthononku Ho
+Di dalan hangoluan tung ingkon Ho nampuna au;
+Mangolu manang mate au sai Ho do tioponku,
+-
+O Tuhan, hinauliMi sai naeng endehononku;
+Diringku ma peleanMi na naeng seahononku
+O Jesus, jalo ma au on pasiat ma pamujingkon,
+Baen sangap di goarMu! Pasahat au tu surgo i
+Marhitehite mudarMi baen intan di tumpalMu!

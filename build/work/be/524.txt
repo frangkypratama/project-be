@@ -1,0 +1,43 @@
+@be 524
+@bl 360
+@title Ise naeng sahat tu surgo i
+@key F
+@meter 6/8
+@credit Z. No. 634
+@pages 495 496
+@check Birama "5 . 2̄ 3 . 3̄" (naeng do-hot ho?) dan "6 6 5 5 ." (Tu-han-ta i?) punya satu not lebih banyak dari suku kata dan tanpa legato; suku kata terakhir ditahan ke not berikut (_).
+@check Setelah ":‖" dicetak satu not lagi "3̄ |" (juga di not balok: A ⅛) tanpa lirik; tidak jelas fungsinya (akhiran?) sehingga tidak dimasukkan.
+@check Ayat 2–4 memakai tanda ulang ":,:" (frasa diulang), sesuai not yang menuliskan ulangan "Ndang leleng be" dan "naeng dohot ho".
+@status Lirik dicek · 10/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 10 dari 16 baris sama; baris 3, 7, 8, 14, 15 beda ejaan; baris 11 beda kata (marpangkirimon). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 524) | https://bukuende.wordpress.com/2013/06/16/ise-naeng-sahat-tu-surgo-i-buku-ende-no-524-buku-logu-no-360/ | Pembanding lirik (tanda baca diabaikan).
+#A
+3 3 3 3 2 3 | 5 . 5 3 . . | 5 3 6 5 . . |
+5 3 6 5 . . | 3 3 3 3 2 3 | 5 . 5 3 . 5 |
+5 . 2 3 . 5 | 5 . 2 3 . 3 | 6 6 6 6 7 6 |
+(6 5) 5 5 . . | 5 4 4 4 5 4 | 3 (3 4) 5 . . |
+6 6 6 6 7 6 | 6 6 5 5 . |
+> I-se naeng sa-hat tu sur-go i? Ndang le-leng be, ndang le-leng be, mar-ni-da ang-ka su-ru-an i, naeng do-hot ho, naeng do-hot ho? _ Sa-hat tu a-la-man se-re i, mar-o-lop-o-lop di sur-go i. I-se mar-ni-da Tu-han-ta i? _
+#B
+5 | 5 . 2 3 . :|
+> Naeng do-hot ho?
+#V
+Ise naeng sahat tu surgo i? Ndang leleng be, ndang leleng be,
+marnida angka suruan i, naeng dohot ho, naeng dohot ho?
+Sahat tu alaman sere i, marolop-olop di surgo i.
+Ise marnida Tuhanta i? Naeng dohot ho?
+-
+Ise so manaon na bernit be? :,: Ndang leleng be :,:
+Arsak ni roha mansohot do :,: Beha ma ho ? :,:
+Ise marabit na saksak i, hamuliaon tahopna i ?
+Ise manjalo tumpaNa i ? :,: Naeng dohot ho ? :,:
+-
+Ise madabu tu uhum i? :,: Ndang leleng be :,:
+Ise so sahat tu surgo i? :,: Beha ma ho ? :,:
+Ise so marpangkirimon be, molo dung salpu tingkinta be,
+Mago hatuaon sasude :,: Beha ma ho? :,:
+-
+Ndang dope salpu tingkinta i, :,: Ndang leleng be :,:
+Taharingkothon sonangta i :,: Ringgas ma ho :,:
+Beta tu Jesus Tuhanta i, ai dipasea sude dosami.
+Asal ma sahat tu surgo i :,: Naeng dohot ho ? :,:

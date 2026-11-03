@@ -1,0 +1,39 @@
+@be 435
+@bl 294
+@title Marolopolop tondingki.
+@key G
+@meter 6/4
+@credit Z. No. 173. · Lagu: Edward F. Rimbault 1854
+@pages 417
+@check Tanda birama tercetak 3/2; angka ditulis per 1/4 (6 not 1/4 per birama) → ditulis 6/4.
+@check Bagian pertama diulang dengan dua akhiran (volta): akhiran 1 "1 . ." (dipakai di sini), akhiran 2 "1 . 0" (1/2 + istirahat 1/4).
+@check Ayat 2–4 di buku diakhiri "Sonang ni..." = ulangi bagian "Sonang ni tingki i ... Jesus Tuhanki."
+@status Lirik dicek · 4/10 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 1–4 dan kata berbeda di ayat 3 ("mu") dan ayat 4; transkripsi mengikuti buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 435) | https://bukuende.wordpress.com/2013/06/16/marolopolop-tondingki-buku-ende-no-435-buku-logu-no-294/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, 1 2 | 3 . . 5, 1 2 | 3 . . 3 4 3 |
+4 . . 1 3 2 | 1 . . :|
+> Mar-o-lop o-lop ton-ding-ki, ai naung di-to-bus Je-sus i.
+> Ha-mu su-de, be-ge ma i, sai las ro-hang-ku man-dok i
+#B
+3 .+4 | 5 . . . 1 .+2 |
+3 . . 3 4 3 | 2 . . 1 3 2 | 1 . . 5 5 5 |
+5 . . 5 6 5 | 3 . . 5 5 5 | 5 . . 5 6 5 | 3 . . 0 3 .+4 |
+5 . . . 1 .+2 | 3 . . 3 4 3 | 2 . . 1 3 2 | 1 . . |]
+> So-nang ni ting-ki i, dung jum-pang Je-sus Tu-han-ki! Ton-di-na ma-nga-ja-ri au, tar-baen mar-las ni ro-ha au! So-nang ni ting-ki i, dung jum-pang Je-sus Tu-han-ki.
+#V
+Marolop olop tondingki, ai naung ditobus Jesus i.
+Hamu sude, bege ma i, sai las rohangku mandok i
+Sonang ni tingki i, dung jumpang Jesus Tuhanki!
+Tondina mangajari au, tarbaen marlas ni roha au!
+Sonang ni tingki i, dung jumpang Jesus Tuhanki.
+-
+Dihaol holongna rohangki, tung na so boi be mago i.
+MataNa do manatap au, pinggolNa tumangihon au. Sonang ni...
+-
+Tu Jesus sahat ngolungki saleleng ni lelengna i.
+Rap dohot mu endehon ma endengku na imbaru da. Sonang ni...
+-
+O rohangki, sai tahan ma, sitobus ho, ihuthon ma.
+I ma tutu, nang mate ho, tu surgo do ditogu ho. Sonang ni....

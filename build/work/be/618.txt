@@ -1,0 +1,46 @@
+@be 618
+@bl 0
+@title Di dia Ho
+@key Eb
+@meter 4/4
+@credit Syair: Where You there · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Tradisional rakyat Amerika
+@pages 619 620 621
+@status Lirik dicek · 15/20 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di ayat 3–5 ("tatullang", "Ho ra", "rona", "tartanom", "di na hehe"); dicek ke scan hlm 620–621: sesuai buku (kemungkinan salah cetak dicatat). Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 618) | https://bukuende.wordpress.com/2013/06/13/di-dia-ho-buku-ende-no-618-buku-logu-no-618/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 618".
+@check Ayat 3 baris 1–2 tercetak "tartanom … tatullang", baris 4 "tartullang"; ayat 4 baris 1 "Di dia Ho ra tartanom", baris 3 "hitir rona" (kemungkinan salah cetak "na", "roha"). Ditulis apa adanya.
+@check Judul asli tercetak "Where You there" (lazim: Were You There); ditulis apa adanya.
+#A
+5, 1 | 3 . 3 3 | 2 1 3 .+2 |
+(1 . . . | 1 .) 1 3 | 5 . 5 5 | 6 5 5 .+3 | 2 . . . |
+(5 . 1' .+6 | 5 . . .) | 6 5 . 3 |
+3 .+2 1 1 | 2 1 . . | 1 1 . . |
+6 (5 . . | 5 .) 1 4 | 3 . 3 3 |
+2 1 3 .+2 | (1 . . . | 1 .) |]
+> Di dia Ho na tar-si-lang Tu-han-ki di dia Ho na tar-si-lang Tu-han-ki O hi-tir ro-ha mar-ni-ngot ber-nit ti-naon Na i, di dia Ho na tar-si-lang Tu-han-ki,
+#V
+Di dia Ho na tarsilang Tuhanki
+di dia Ho na tarsilang Tuhanki
+O, hitir roha marningot bernit tinaonNa i,
+di dia Ho na tarsilang Tuhanki,
+-
+Di dia Ho na dilabang Tuhanki
+di dia Ho na dilabang Tuhanki
+O, hitir roha marningot bernit tinaonNa i
+di dia Ho na dilabang Tuhanki
+-
+Di dia Ho na tartanom Tuhanki
+di dia Ho na tatullang Tuhanki
+O, hitir roha marningot bernit tinaonNa i
+di dia Ho na tartullang Tuhanki
+-
+Di dia Ho ra tartanom Tuhanki
+di dia Ho na tartanom Tuhanki
+O, hitir rona marningot bernit tinaonNa i
+di dia Ho na tartanom Tuhanki
+-
+Di dia Ho di na hehe Tuhanki
+di dia Ho di na hehe Tuhanki
+O, hitir roha marningot bernit tinaonNa i
+di dia Ho di na hehe Tuhanki

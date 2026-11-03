@@ -1,0 +1,40 @@
+@be 207
+@bl 150
+@title Sai tiop ma tanganku
+@key Eb
+@meter 4/4
+@credit Friedrich Silcher, 1842
+@pages 187 188
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 14 dari 16 baris sama; baris 3 & 12 beda ejaan. Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 207) | https://bukuende.wordpress.com/2013/06/18/sai-tiop-ma-tanganku-buku-ende-no-207-buku-logu-no-150/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Buku menulis "Freiedrich Silcner 1842"; nama lazimnya Friedrich Silcher.
+#A
+5 | 6 5 4 3 | 3 . 2 v 3 | 4 . 5 . | 3 . 0 :|
+> Sai ti-op ma ta-ngan-ku, sai to-gu au,
+> Pa-i-ma tos ho-sang-ku ra-mo-ti au.
+#B
+3 | 2 5 #4 6 | (5 .+6) 7 v 1' | 7 . 6 . | 5 . 0 5 |
+1' (7+6) 5 5 | 6 . 5 v 4 | (3 4 .) 2 | 1 . 0 |]
+> Ndang o-lo au mar-oa-lan, sa-sa-da au; Sai Ho ma, a-le Tu-han, ma-no-gu au.
+#V
+Sai tiop ma tanganku, sai togu au,
+Paima tos hosangku ramoti au.
+Ndang olo au maroalan, sasada au;
+Sai Ho ma, ale Tuhan, manogu au.
+-
+Baluti ma rohangku, na marsak i tu asi ni rohaMu, na godang i,
+Sai sesa ma dosangku, asa tongtong
+Guru di Ho rohangku, tu jolo on.
+-
+Ianggo hasusaan, godang do i, alai pangkilalaan sonang do i
+Na tiur do rohangku, nang pe holom
+Niida ni matangku di tano on.
+-
+Di lambung patMu, Tuhan, di joloMon
+Sai loas maradian siseanMon, pitpit hubaen matangku
+Maniop Ho, ai sonang do rohangku mardongan Ho.
+-
+Sai tiop ma tanganku, sai togu au paima tos hosangku
+Dongani au. Pabulus ma langkangku, tu surgo i;
+Ho ma pasangaponku tongtong disi.

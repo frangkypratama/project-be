@@ -1,0 +1,50 @@
+@be 475
+@bl 92
+@title Tuhan Jesus Siparmahan.
+@key G
+@meter 3/4
+@credit R.L. No. 343 · Lagu: Silas Jones Vail 1884
+@pages 453 454
+@check Kepala lagu mencetak judul Logu "Tuhan Jesus Siparmahan."; baris pertama lirik: "Ho tongtong ihuthononku Jesus".
+@status Lirik dicek · 12/14 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di ayat 3 baris 1 ("Naung") dan ayat 4 baris 2 ("di Ho"); scan hlm 453 sesuai buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 475) | https://bukuende.wordpress.com/2013/06/13/ho-tongtong-ihuthononku-buku-ende-no-475-buku-logu-no-92/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5,+.+.+1 | 3 .+1 7,+.+.+2 | 1 5, 1+.+.+3 | 5 .+3 1+.+.+3 |
+2 . 5,+.+.+1 | 3 .+3 3+.+.+5 | 5 4 3+.+.+2 | 1 .+3 3+2 |
+1 . |
+> Ho tong-tong i-hut-ho-non-ku Je-sus, si-pa-ngo-lu au. Tung na so ta-ding-ko-non-ku Ho na pa-lu-a-hon au.
+#B
+7,+.+.+1 | 2 4 3+.+.+2 | 1 . 3+.+.+4 | 5 6 5+.+.+3 |
+2 . 5,+.+.+1 | 3 .+3 3+.+.+5 | 5 4 3+.+.+2 | 1 .+3 3+.+.+2 | 1 . |]
+> Sai mar-gu-ru au tu Ho, Sai mar-gu-ru au tu Ho, Ho tong-tong i-hut-ho-non-ku Je-sus, si-pa-ngo-lu au.
+#V
+Ho tongtong ihuthononku Jesus, sipangolu au.
+Tung na so tadingkononku Ho na paluahon au.
+Sai marguru au tu Ho, Sai marguru au tu Ho,
+Ho tongtong ihuthononku Jesus, sipangolu au.
+-
+Tung di dia jumpang ahu Tuhan sada songon Ho ?
+Na manogunogu ahu tu na sonang songon Ho ?
+:,: Sai marguru au tu Ho :,: Ho tongtong ihuthononku,
+Jesus, Sipangolu au.
+-
+Naung ditaon Ho hamatean lao humophop tondingki,
+Asa masuk au manean tohap na sumurung i,
+:,: Sai marguru au tu Ho :,: Ho tongtong ihuthononku,
+Jesus, Sipangolu au.
+-
+Sai girgir tu Siparmahan angka birubiru ro.
+Jesus, gok di Ho rohangku, sai ihuthononku Ho.
+:,: Sai ihuthononku Ho :,: Jesus, gok di Ho rohangku,
+Sai ihuthononku Ho.
+-
+Jumpa masa sorimago tung pangapul Ho gogo.
+Ia bogasMi huida, sai ihuthononku Ho.
+:,: Sai ihuthononku Ho :,: Ia bogasMi huida,
+Sai ihuthononku Ho.
+-
+Dokkon ahu suruanMu, ai hataM so magopo.
+Dung i Ho huhut manogu donganki manopot Ho,
+:,: Taiti ma sude tu Ho :,: Sai asi rohaM, sai togu,
+Sahat ma sude tu Ho.

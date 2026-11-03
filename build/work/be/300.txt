@@ -1,0 +1,44 @@
+@be 300
+@bl 12
+@title Tapuji ma Tuhanta
+@key A
+@meter 3/4
+@credit Lagu: Nikolaus Selnecker 1587
+@pages 278 279
+@status Lirik dicek · 8/18 baris sama dgn pembanding
+@check Pembanding lirik: baris 2,3,4,5,7,9,10,12,13,18 beda ejaan; dicek ulang di scan hlm 279 (mis. "ankku", "Aui") — buku ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 300) | https://bukuende.wordpress.com/2013/06/18/sai-hehe-ma-rohangku-buku-ende-no-300-buku-logu-no-12/ | 8/18 baris sama
+@check Judul kepala lagu "Tapuji ma Tuhanta", sedangkan baris pertama lirik "Sai hehe ma rohangku" — @title mengikuti kepala lagu.
+@check Baris 1: antara "6̣ . 1" dan "2 . ." tidak ada garis birama (angka & balok, 6 ketuk) → garis birama ditambahkan.
+#A
+1 | 1 . 7, | 6, . 1 | 2 . . | 1 . v 1 | 1 . 2 |
+7, . 2 | 1 . . | 7, . v 7, | 1 . 1 | 2 . 3 | 2 . . |
+2 . v 3 | 4 . 3 | 2 . 1 | 2 . . | 1 . |]
+> Sai he-he ma ro-hang-ku Ma-mu-ji De-ba-ta-mu. Na-sai ma-ra-si ro-ha di-na-sa ma-ni-si-a.
+#V
+Sai hehe ma rohangku Mamuji Debatamu.
+Nasai marasi roha dinasa manisia.
+-
+Ai di na modora ahu, sai dijagai do ahu,
+Aui unang i, naung mago do au dibaen pangago.
+-
+Didok Ho, o Tuhanku: Pos ma roham ankku
+Sai sonang ma ho modom, lao do muse na holom.
+-
+Naung saut hataM, o Tuhan huida hatiuron:
+Ndang na mahua ahu dijaga Ho do ahu.
+-
+Tung ahu ma pelean, las ni rohaM hulehon?
+Endengku, tangiangku, ima pelehononku.
+-
+Ndang i tulakkononmu, diida Ho rohangku;
+Diboto ho, o Tuhan soada na dumenggan
+-
+Sai udut pinungkaMu, sai surusuruanMu,
+Manjaga au arian, asi rohaM, o Tuhan!
+-
+Urupi au mangula ulaon na marguna
+Bonana nang ujungna, Ho ma mambaen jadina.
+-
+Patiur ma langkangku, ingani ma rohangku,
+HataM hongoluanku di dalan tu lambungMu.

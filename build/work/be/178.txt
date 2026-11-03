@@ -1,0 +1,35 @@
+@be 178
+@bl 196
+@title Ro ma tu Jesus
+@key Bb
+@meter 4/4
+@credit Lagu: George Frederick Root 1895
+@pages 161 162
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 10 kata 10 ("dihalak") beda ejaan; dicek ulang: tercetak demikian.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 178) | https://bukuende.wordpress.com/2013/06/16/ro-ma-tu-jesus-buku-ende-no-178-buku-logu-no-196/ | 11/12 baris sama
+@check Nada dasar Bes (2 mol), birama C. "6 . 5" bergaris atas tunggal/ganda = 1/8 bertitik + 1/16. Baris terakhir = ulangan melodi baris 1 dengan lirik baru.
+@check Ayat 2–4 baris 3 hanya tercetak "Mansai las rohanta i muse, d.u." (d.u. = dan seterusnya, seperti ayat 1); ayat 2 baris 3 cetakan pudar.
+#A
+5, 6,+.+.+5, 3, 5, | 1 2+.+.+1 6, . | 7, 7,+.+.+1 2 3 |
+1 7,+.+.+6, 5, . | 5, 6,+.+.+5, 3, 5, | 1 2+.+.+1 6, . |
+7, 7,+.+.+1 2 3 | 1 . . 0 | 3 3 4 .+3 |
+3+2 2+6, 2 . | 2 2 3 .+2 | 2+1 1+6, 5, . |
+5, 6,+.+.+5, 3, 5, | 1 2+.+.+1 6, . | 7, 7,+.+.+1 2 3 | 1 . . 0 |]
+> Ro ma tu Je-sus, ro ma ti-bu, Be-ge ha-ta-Na, jang-kon bur-ju; Na ro do Je-sus pa-ngo-lu ho, A-sal por-se-a ho. Man-sai las ro-han-ta i mu-se, mo-lo i-as si-an do-sa pe. Sai ro ma hi-ta tu sur-go i, laos so-nang ma di-si.
+#V
+Ro ma tu Jesus, ro ma tibu, Bege hataNa, jangkon burju;
+Na ro do Jesus pangolu ho, Asal porsea ho.
+Mansai las rohanta i muse, molo ias sian dosa pe. Sai ro ma hita tu surgo i, laos sonang ma disi.
+-
+Ro ma tu Jesus undukkon ma pambahenanmu na so tama,
+Naeng sesaonNa do dosami dibaen mudarNa i.
+Mansai las rohanta i muse, d.u.
+-
+Ro ma tu Jesus, hatop ho ro, ai so ditulak Jesus be ho.
+Na asi roha do Jesus i sai pos ma rohami.
+Mansai las rohanta i muse, d.u.
+-
+Ro ma tu Jesus na holong do rohaNa i dihalak na ro,
+Ai dipalua tondinta i, unang be mago i.
+Mansai las rohanta i muse, d.u.

@@ -1,0 +1,34 @@
+@be 235
+@bl 235
+@title Tumpalhu na umuli Ho
+@key F
+@meter 6/4
+@credit Leipzig, 1573
+@pages 215
+@check Birama "4 2 (3 5) #4" dan "0 3 2 1 4": not angka hanya 5 ketuk; not balok mencetak not terakhir-legato (5) dan 4 sebagai 1/2, jadi ditulis "5 ." dan "4 ." (6 ketuk).
+@check Birama "4 3 1 . 2 .": not balok mencetak 2 sebagai 1/4, ikut not angka (6 ketuk).
+@check Lirik di bawah not tercetak "Tumpal hu"; judul "Tumpalhu".
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: L1 kata 3 (pembanding "ummuli", buku "umuli") dan L7 kata 7 beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 235) | https://bukuende.wordpress.com/2013/06/18/tumpalhu-na-ummuli-ho-buku-ende-no-235-buku-logu-no-235/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0 0 1 . 1 5 | (5 4+3 2) 1 6, 7, | 1 . 0 1 2 3 |
+4 2 (3 5 .) #4 | 5 . 0 3 3 3 | 4 3 1 . 2 . | 0 5, 1 2 3 . |
+0 3 2 1 4 . | 0 4 3 2 1 2 | (3 2+1 2 .) 1 . |]
+> Tum-pal hu na um-u-li Ho, o Je-sus-ki di ro-hang-kon; Sai Ho do ti-o-pon-ku. Sa-le-leng au di ta-no on i-nga-ni ma ro-hang-ku.
+#V
+Tumpalhu na umuli Ho, o Jesuski di rohangkon;
+Sai Ho do tioponku. Saleleng au di tano on
+Ingani ma rohangku.
+-
+Sumurung Ho, o Tuhanki, GoarMu hangoluanki,
+Sai i do haposanku nang masa pe bernit muse,
+Sai Ho haporusanku.
+-
+Haposan do nang hataMi, ai saut pinarbaga na i.
+Nang mate, nang mangolu, sai sonang au, nang di na dao,
+Ai Ho do Sipangolu.
+-
+O Jesuski, dongani au manang tu dia pe au lao,
+Sondangi ma rohangku, Ho donganki tu surgo i
+Di ujung ni langkangku

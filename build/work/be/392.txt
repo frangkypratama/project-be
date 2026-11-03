@@ -1,0 +1,35 @@
+@be 392
+@bl 261
+@title Sai pasiat Tuhan Jesus
+@key C
+@meter 4/4
+@credit Maj. Daniel W. Whittle 1901
+@pages 376 377
+@check Kepala lagu juga mencetak "S. L No. 34". Ayat 2–4 dan nama komponis ada di atas hlm 377.
+@check "7.6", "6.5", "6.7", "3.2" bergaris atas tunggal+ganda = 1/8 bertitik + 1/16. "2*" = 2 kres (paranada: D#5), dilegato dari 2̇ (suku kata "mi").
+@status Lirik dicek · 5/10 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L1, L3, L4, L6, L9 (mis. "pasiat", "parasian"); buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 392) | https://bukuende.wordpress.com/2013/06/18/sai-pasiat-tuhan-jesus-buku-ende-no-392-buku-logu-no-261/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 .+6 5+1' 7+.+.+6 | 6 . 5 v 0 | 4 .+3 4+5 6+.+.+5 |
+(5 . 3) v 0 | 5 .+6 5+1' 7+.+.+6 | 6 . 5 v 0 | 4 .+3 4+5 6+.+.+7 |
+1' . . 0 |
+> Sai pa-si-at Tu-han Je-sus tu ba-ga-san ro-ha-mi. Sai ma-i-ma-i-ma Je-sus, be-ge pa-nuk-tuk-Na i.
+#B
+2' .+2' 2'+2' 3'+.+.+2' | 1' . 5 v 0 | 6 .+6 6+6 7+1' | (2' . . #2') |
+3' .+3' 4'+3' 2'+1' | 1' . 6 v 0 | 5 .+1' 7+1' 3'+.+.+2' | 1' . . 0 |]
+> Sai pa-si-at Tu-han Je-sus, jang-kon i tu ro-ha-mi, nu-nga ting-ki par-a-si-an, so tung jo-lo sal-pu i.
+#V
+Sai pasiat Tuhan Jesus tu bagasan rohami.
+Sai maimaima Jesus, bege panuktukNa i.
+Sai pasiat Tuhan Jesus, jangkon i tu rohami,
+Nunga tingki parasian, so tung jolo salpu i.
+-
+Hariburon na di tano sai ringgas di jangkon ho,
+Marisuang Tuhan Jesus sai dihagarishon ho, Sai....
+-
+Ai sadia leleng nari laos so putus rohami?
+Unang toishon, so tung salpu tingki parasian i. Sai....
+-
+Lehon ngolumi tu Jesus, ai hatop do salpu i.
+Sai pasiat ma Tuhanmu tu roham na loja i. Sai...

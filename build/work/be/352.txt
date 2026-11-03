@@ -1,0 +1,67 @@
+@be 352
+@bl 156
+@title Beha ma panjalongku
+@key C
+@meter 4/4
+@credit Lagu : Melchior Teschner 1613
+@pages 332 333
+@status Lirik dicek · 31/36 baris sama dgn pembanding
+@check Pembanding lirik: beda: "songgop", "Pardomuan nai" (ayat 1, dari lirik di bawah not "na-i"), "Tuhanmuna" (ayat 2), "Haleluya", "rajai" (ayat 3). Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 352) | https://bukuende.wordpress.com/2013/06/18/sai-hehe-ma-hamuna-na-burju-roha-i-buku-ende-no-352-buku-logu-no-156/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot. Judul Logu "Beha ma panjalongku"; baris pertama lirik "Sai hehe ma hamuna".
+@check Ayat 1 disusun dari lirik di bawah not ("Par-do-mu-an na-i" tercetak dengan tanda pemenggalan, ditulis "nai").
+#A
+1 | 5 5 6 7 | 1' . 1' v 3' |
+2' 1' 6 7 | 1' . . :|
+> Sai he-he ma ha-mu-na, na bur-ju ro-ha i;
+> Pa-ga-lak lam-pu-mu-na, naung song-gop bor-ngin i;
+#B
+1' | 3' 3' 2' 1' |
+2' . 7 v 5 | 1' 7 6 6 | 5 . . v 5 |
+3 5 6 5 | 5 . 3 v 5 | 6 1' 1' 7 | 1' . . |]
+> Naung bor-hat si-pa-ngo-li, ro tu o-ro-an i, na tong mang-ka-si-ho-li Par-do-mu-an na-i.
+#V
+Sai hehe ma hamuna, na burju roha i;
+Pagalak lampumuna, naung songgop borngin i;
+Naung borhat sipangoli, ro tu oroan i,
+Na tong mangkasiholi Pardomuan nai.
+-
+Pauli lampumuna, gok miak baen sude,
+Managam Tuhanmuna, siboan tua i.
+Parhal di huta Sion do na manjou hamu;
+Jonok do hatuaon, jonok do Rajamu!
+-
+Hamuna na marroha, padirgak ulumu,
+Endehon Haleluya, marsurak ma hamu!
+Talak do pintu rea, rade haroan i,
+Sai bongot ma hamuna rap dohot rajai.
+-
+Tibu ma ro Ibana, ipe sai dungo ma;
+Naung ro lumbalumbaNa, ipe tangihon ma.
+Di buha siang ari lao ma na holom i;
+Dung i satongkin nari tiur ma sasude.
+-
+Hamu na holong roha di huta Sion i,
+Sai tomu Rajamuna, marlasniroha be,
+Ai ari las ni roha ma jumpang di hamu;
+Hamu na nioroNa, parsanggulanna do.
+-
+Hamu naung benget roha, manaon na porsuk i,
+Hamu, situndal dosa nang hajahaton i,
+Mangolu ma hamuna huhut mangarajai
+Rap dohot Tuhanmuna di sangapmuna be.
+-
+Dison do maremare hamonanganNa i,
+Dison do sampesampe hatigoranNa i.
+Dison do hadameon di naung marungkil i,
+Dison do hangoluan di naung binunu i.
+-
+Dison do huta Sion, inganan na denggan,
+Na gok hamuliaon, na uli na torang.
+Dison alaman sere, dison haroan i,
+Dison do tumpal sere, na di oroan i.
+-
+O Jesus, las ni roha, sai ro ma Ho tibu,
+Sigop ma au palua, ndang sonang au tutu
+Di tano paraloan, di hasiangan on;
+Ho do dihalungunhon rohangku sai tongtong.

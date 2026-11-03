@@ -1,0 +1,32 @@
+@be 699
+@bl 0
+@title Singkop do asi ni rohaM
+@key G
+@meter 3/4
+@credit Syair: Amazing Grace, John Newton, 1799; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: Amerika abad 18
+@pages 732 733
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (kata 2) dan 10 beda; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 699) | https://bukuende.wordpress.com/2013/06/18/singkop-do-asi-ni-roham-buku-ende-no-699-buku-logu-no-699/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 699. Melodi = NEW BRITAIN (Amazing Grace).
+#A
+5, | 1 . (3+1) | 3 . 2 | 1 . 6, | 5, . 5, |
+1 . (3+1) | 3 . 2 | (5 . . | 5) . 3 |
+(5 .+3) (5+3) | 1 . 5, | (6, .+1) (1+6,) | 5, . 5, |
+1 . (3+1) | 3 . 2 | (1 . . | 1) . |]
+> Sing-kop do a-si ni ro-haM tu au na da-ngol on, na li-lu a-hu na-hi-nan nu-a-eng jum-pang do.
+#V
+Singkop do asi ni rohaM tu au na dangol on,
+na lilu ahu nahinan nuaeng jumpang do.
+-
+Di na hutanda dosangki, gok biar rohangki,
+alai alani asiMi, mardame rohangki.
+-
+Didalanki na rahis i, gok mara ngolungki,
+ala pangurupionMi, malua tondingki.
+-
+Hutiop bagabagaMi, dipardalananki,
+Ho Tuhan lombulombungki, diparaloan i.
+-
+Nang busuk pe pamatangki, diparbandaan i,
+paheheonMu sogut au, tu surgo bongot au.

@@ -1,0 +1,37 @@
+@be 132
+@bl 193
+@title Maribak langit
+@key Bb
+@meter 3/4
+@credit Johann Wolfgang Franck, 1681
+@pages 119 120
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 8 dari 12 baris sama; 4 baris beda ejaan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 132) | https://bukuende.wordpress.com/2013/06/09/anggiat-apimi-ma-galak-buku-ende-no-132-buku-logu-no-193/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama 4 "4 3' 1": dibaca tiga not 1/4 dengan napas sesudah 3.
+#A
+1 | 3 . (2+1) | 2 . 3 | 4 . 4 | 4 3 v 1 | 6, . 2 |
+7, . 1 | (1 .+2) 7, | 1 . :|
+> Ang-gi-at a-pi-Mi ma-ga-lak, par-ho-long ro-ha si-tu-tu,
+> Hu-hut ti-bu di-bo-to ha-lak, Ho, Je-sus, ra-ja na tu-tu.
+#B
+5, | 1 . 1 | 6, . 6, | 2 . 2 |
+7, 7, v 7, | 3 . 3 | 6, . 7, | 7, . 6, |
+5, . v 2 | 3 . 3 | 1 . 1 | 4 . 4 |
+2 2 v 2 | 5 . 3 | (1 .+7,) 1 | 3 . 2 | 1 . |]
+> Ai a-tik pe ma-mung-ka to-rang di pur-ba, di pas-ti-ma-po, laos tong go-dang do-pe na hu-rang, Ai naeng ti-ur do sa-su-de.
+#V
+Anggiat apiMi magalak, parholong roha situtu,
+Huhut tibu diboto halak, Ho, Jesus, raja na tutu.
+Ai atik pe mamungka torang di purba, di pastimapo,
+Laos tong godang dope na hurang, Ai naeng tiur do sasude.
+-
+Dibahen i palas, pangolu, patiur liat tano on.
+Papatar ma diriM, parngolu, pardame tu portibi on.
+Disi ma halak, sasudena, mamuji asi ni rohaM;
+Huhut marsinggang ma sudena, sumomba Ho di habangsaM.
+-
+Sungguli, baen ias, pasada, luhutna halak Kristen i;
+Unang adong bo nanggo sada, na so tumanda asiMi
+Dibahen i padomu hami, marhitehite TondiMi.
+Sondangi dohot dongannami na so tumanda goaMi.

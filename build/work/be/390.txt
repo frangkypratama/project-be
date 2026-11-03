@@ -1,0 +1,37 @@
+@be 390
+@bl 259
+@title Nunga sae dosam
+@key Ab
+@meter 4/4
+@credit Rev. Elisha A. Hoffman 1929
+@pages 374 375
+@check Kepala lagu juga mencetak "Ev. S.No. 128". Baris terakhir not, ayat 2–4, dan nama komponis ada di atas hlm 375.
+@check Birama "2 . 3 2" (baris 2) tercetak 3 ketuk; paranada not 1/2 bertitik + dua 1/8 → ditulis "2 . . 3+2" (sama dgn baris 5).
+@status Lirik dicek · 11/13 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L2 kata 2 ("ias") dan L6 kata 4.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 390) | https://bukuende.wordpress.com/2013/06/16/nunga-sae-dosam-buku-ende-no-390-buku-logu-no-259/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3,+5, | 1 1 1+5, 3,+5, |
+1 1 1 1+2 | 3 3+3 3 2+1 | 2 . . 3+2 |
+1 1 1+3 2+1 | 6, 6, 6, 6,+6, | 5, 5,+5, 1 7,+7, |
+1 . . 3+2 | 1 . . 1+7, | 6, . . 7,+6, |
+5, 1+2 3 4+3 | 2 . . 3+2 | 1 1 1+3 2+1 |
+6, 6, 6, 6,+6, | 5, 5,+5, 1 7,+7, | 1 . . |]
+> Nu-nga sae do-sam u-la-ning, ma-lum ho? Naung di-au-hon ho mu-dar-Na i? Ai i-as do ho, na sak-sak ba-ju-mi? Na di-au-hon ho mu-dar-Na i? I-as ho, ma-lum ho, di-baen mu-dar ni Tu-han-ta i? Ai naung sak-sak ba-juM so-ngon ha-pas i? Ai i-as ho di-baen mu-dar i?
+#V
+Nunga sae dosam ulaning, malum ho? Naung diauhon ho mudarNa i?
+Ai ias do ho, na saksak bajumi? Na diauhon ho mudarNa i?
+Ias ho, malum ho, dibaen mudar ni Tuhanta i?
+Ai naung saksak bajuM songon hapas i? Ai ias ho dibaen mudar i?
+-
+Naung solhot ho jongjong tu parsilang i?
+Naung niuras ni mudarNa i? Sauduran ho dohot Tuhanta i?
+Ai ias ho dibaen mudar i? Ias ho...
+-
+Ai rade ho, molo ro Tuhanta i?
+Ai ias ho dibaen mudar i? Boi ditomu ho Tuhanta Jesus i?
+Ai ias ho dibaen mudar i? Ias ho...
+-
+Tung hatop ma ho mamuri rohami.
+Boi ias ho dibaen mudar i? Sai bagas mangungkor ho tu mual i.
+Ai na malum dibaen mudar i. Ias ho....

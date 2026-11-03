@@ -1,0 +1,46 @@
+@be 488
+@bl 330
+@title Nang na buni di roha.
+@key G
+@meter 4/4
+@credit Eva Von Tiele - Winckler 1930
+@pages 463 464
+@check Kepala lagu juga mencetak "Jug. L. No. 103".
+@check Tanda birama tercetak kabur (C); isi birama = 4 ketuk.
+@check Birama 4 tercetak "2.0" (satu titik); paranada = 1/2 bertitik + istirahat, ditulis "2 . . 0".
+@check Baris 2: "Tu - han - ku" — suku kata "han" ditahan ke not 2 (posisi lirik); ditulis "Tu-han _ ku".
+@check Ayat 4–9 tercetak di halaman berikut (hlm PDF 464) di bawah judul bagian "Disarihon do ho!".
+@status Lirik dicek · 17/18 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 3 (kata 'ni'); scan: 'Bagas ni hamagoan', sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 488) | https://bukuende.wordpress.com/2013/06/16/nang-na-buni-di-roha-buku-ende-no-488-buku-logu-no-330/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 2+.+.+1 6, 2 | 1 . 7, 0 | 1 2+.+.+3 4 3 | 2 . . 0 |
+2 3+.+.+4 5 4+4 | 3 . 2 3 | 4 6,+.+.+2 1 7, | 1 . . 0 |]
+> Nang na bu-ni di ro-ha, na so ta-ri-da i su-de di-bu-ri Tu-han _ ku a-la mu-dar-Na i.
+#V
+Nang na buni di roha, na so tarida i
+Sude diburi Tuhanku ala mudarNa i.
+-
+Bagas ni hamagoan manggohi rohangki.
+Malum hape dibaen Jesus, Tuhan na basa i.
+-
+Mago do au di dosa ala si Adam i,
+Kristus do ro pamalumhon, sahit ni rohangki.
+-
+Tuk na binaen ni Jesus lao paluahon au.
+Gomos hugolom mudarNa paima tu surgo au.
+-
+Raphon Tuhanku mate jolma na buruk i.
+Mate disi hurajumi nang nasa diringki.
+-
+Raphon Tuhanku hehe ahu na mate i,
+Jala sai naeng marparange songon naung hehe i.
+-
+Asi ni roha bolon do patupahon i,
+Mudar ni Jesus Tuhanta dohot tondiNa i.
+-
+Tung na malua ahu sian sibolis i,
+Unang mangadop di dosa au na tinobus i,
+-
+Bagas pe hamagoan, andul umbagas do
+Asi ni roha ni Jesus, Tuhanta i, naung ro.

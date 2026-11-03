@@ -1,0 +1,29 @@
+@be 371
+@bl 230
+@title Burju ma hita mardalani
+@key C
+@meter 4/4
+@credit Lagu : Johann Christian Heinrich Rinck 1846
+@pages 354 355
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 6 dari 8 baris sama; beda di baris 2 (ta baen) dan 4 (pambaenanNa); sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 371) | https://bukuende.wordpress.com/2013/06/09/burju-ma-hita-mardalani-buku-ende-no-371-buku-logu-no-230/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian Ende di dakdanak.
+@check Hlm 355 birama pertama: angka tercetak "6 . 6 5", tetapi not balok = A4 (1/2), G4, G4 (= 6 . 5 5). Ditulis sesuai angka buku; perlu dicek.
+#A
+1 | 3 5 1'+.+.+7 1'+6 | 5 . 3 v 5 |
+4+.+.+3 4+2 3 1 | 2 . 0 (2+3) | 4 .+4 3+3 4+5 |
+6 . 6 5 | 1'+.+.+7 1'+2' 3' 2' | 1' . 0 |]
+> Bur-ju ma hi-ta mar-da-la-ni di da-lan lao tu sur-go i; Sai Je-sus ma ta baen do-ngan-ta di las ni ro-ha, ar-sak pe.
+#V
+Burju ma hita mardalani di dalan lao tu surgo i;
+Sai Jesus ma ta baen donganta di las ni roha, arsak pe.
+-
+Sai tiop ma tongtong tanganNa, tangihon soaraNa i
+Ihuthon ma tongtong langkaNa, na denggan pambaenanNa i.
+-
+Lam antusanta ma pambaenNa, lam tiur ma bogasta i
+Tahaholongi ma Ibana, parasi roha bolon i.
+-
+Urupi au, ale Tuhanku, saleleng au di tano on!
+Ro di na tos muse hosangku, sai pargogoi ma au tongtong!

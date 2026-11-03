@@ -1,0 +1,50 @@
+@be 259
+@bl 166
+@title Sai beta ma tondingku
+@key Ab
+@meter 4/4
+@credit Lagu: Johann Ludwig Konrad Allendorf 1773
+@pages 238 239
+@status Lirik dicek · 12/20 baris sama dgn pembanding
+@check Pembanding lirik: beda: "betama" (ayat 1, di bawah not "be-ta-ma"), "dtaluhon", "hamataen", "ho" (ayat 2), "jesusuki", "tampak" (ayat 4), "pondokkonMu", "hasoanganMi" (ayat 5); dicek ulang ke scan: tercetak demikian di buku (beberapa kemungkinan salah cetak, lihat @check).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 259) | https://bukuende.wordpress.com/2013/06/18/sai-beta-ma-tondingku-buku-ende-no-259-buku-logu-no-166/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Nada dasar dari tanda mula 4 mol + letak not (1 = As4 di not balok).
+@check Baris 1: garis atas pada 5̣ (ketukan gantung), 5̣ ketiga dan 6̣ pertama tidak cocok dengan jumlah ketuk (birama jadi 3½); dibaca sebagai not 1/4 (ketukan gantung 1 ketuk + birama akhir "1 . 0" 3 ketuk, sama dengan bagian B).
+@check Bagian B: "1 0 5̣" dicetak tanpa titik (not balok: As 1/2, diam 1/4, Es 1/4) → 1 . 0 5,; not terakhir dicetak "1" (not balok 1/2 bertitik) → 1 . .
+@check Ejaan ayat sesuai cetakan: "dtaluhon", "hamataen", "jesusuki", "hasoanganMi" (kemungkinan salah cetak: ditaluhon, hamatean, Jesusku, hasonanganMi).
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+5, | 1 5, 5, (1+7,) | 6, 6, 0 4 |
+(4+3) 2 1 7, | 1 . 0 :|
+> Sai be-ta-ma ton-ding-ku, tu-mo-pot sur-go i;
+> Sa-le-leng ho di to-ru, ndang so-nang ro-ha-mi.
+#B
+(1+2) | 3 3 5 3 |
+4 2 0 (5,+7,) | 2 2 4 7, | 2 1 0 5, |
+6, 1 1 7, | 1 . 0 5, | 6, (4+2) 3 2 | 1 . . |]
+> Di-si par-tu-a-on-mu, di-si do i-nga-nan-mu, di-si ma so-nang ho. I-pe tu sur-go do!
+#V
+Sai betama tondingku, tumopot surgo i;
+Saleleng ho di toru, ndang sonang rohami.
+Disi partuaonmu, disi do ingananmu,
+Disi ma sonang ho. Ipe tu surgo do!
+-
+Na mangaliliani, tostosi ma sude;
+Ai nunga dihophopi Tuhanta hita be;
+Ai nunga dtaluhon do dosa hamataen.
+Lao paluahon ho, i pe tu surgo do!
+-
+Di ginjang do Amanta, parhuasian i.
+Ditatap do tondinta, sai naeng ma sonang i.
+Dilehon do ulosNa, tinonun ni AnakNa;
+HatigoranNa i, sai topot surgo i!
+-
+Malungun do rohangku, o jesusuki di Ho!
+Marhabonghabong ahu nian tumopot Ho;
+Mardomu dohot dongan, tampak marhasonangan.
+Mamuji goarMi tongtong di surgo i.
+-
+Tu Ho do huparguru na hupangido i.
+Ho ma haholonganku, hataM oloanki.
+Sai Ho ma tataponku, paimahon pondokkonMu;
+"Bongoti surgo i tu hasoanganMi."

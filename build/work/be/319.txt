@@ -1,0 +1,32 @@
+@be 319
+@bl 150
+@title Sai tiop ma tanganku
+@key Eb
+@meter 4/4
+@credit Friedrich Silcher 1842
+@pages 296
+@status Lirik dicek · 7/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di baris 5, 7. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 319) | https://bukuende.wordpress.com/2013/06/18/tung-sonang-modom-ahu-buku-ende-no-319-buku-logu-no-150/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Judul Logu "Sai tiop ma tanganku"; baris pertama lirik "Tung sonang modom ahu".
+@check Not "4*" = As dengan tanda pugar → #4 (A). "3 4 . 2" dengan busur ditulis (3 4) . 2 sesuai balok (G4 1/4 legato ke As4 1/2).
+#A
+5 | 6 5 4 3 | 3 . 2 v 3 | 4 . 5 . | 3 . 0 :|
+> Tung so-nang mo-dom a-hu sa-bor-ngin on,
+> So jo-lo Ho, Tu-han-ku, i-ngo-ton-kon
+#B
+3 | 2 5 #4 6 | (5 .+6) 7 v 1' | 7 . 6 . |
+5 . 0 5 | 1' (7+6) 5 5 | 6 . 5 v 4 | (3 4) . 2 | 1 . 0 |]
+> Na mam-par do ro-hang-ku na-ri-an i: tu Ho ma lu-lu-an-ku na so-nang i,
+#V
+Tung sonang modom ahu saborngin on,
+So jolo Ho, Tuhanku, ingotonkon
+Na mampar do rohangku narian i: tu Ho ma luluanku na sonang i,
+-
+Sai sesa nasa dosa, ale Amang! Ho, na marholong roha,
+Asi rohaM! Paias ma rohangku na ranum i;
+Pagirgir au, mamuji Ho, Tuhanki!
+-
+Urupi au, maniru panesaMi, nang pepangkaholongi ni rohaMi.
+Na sonang ma au modom saborngin on,
+Ai dame do maringan di rohangkon

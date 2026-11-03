@@ -1,0 +1,30 @@
+@be 784
+@bl 0
+@title Aha do naung hubaen Tuhan
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Sensenina · Terj.: Pdt. Nelson Siregar / Pdt. J. A. U. Doloksaribu, · Lagu: Afrika Selatan
+@pages 856 857
+@status Lirik dicek · 4/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 2 beda ejaan kata ke-3 di keempat baris; scan hlm 857 jelas "baenonku" — ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 784) | https://bukuende.wordpress.com/2013/06/05/aha-do-naung-hubaen-tuhan-buku-ende-no-784-buku-logu-no-784/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." → @bl 0. Lagu pertama bagian "PARALOAN PARTONDION"; rujukan Ul. 9:6; Luk. 3:10.12.14.
+@check Birama 3: not 1/8 terakhir ("a-") tercetak 2 (C) di angka, tetapi di balok tampak D (= 3). Ditulis sesuai angka.
+@check Birama 6: "1 . . 2" — balok: setengah not Bes diikat ke 1/8 Bes (2½ ketuk), lalu C 1/8.
+#A
+0+3' 3'+3' | 3' .+3' 3' 2' | 1' . . 0+2' |
+2'+2' 2' .+2' 1' | 2' 3' . . |
+0 0 0+3' 3'+3' | 3' .+3' 3' 2' |
+1' . .+2' 2'+2' | 2' .+2' 2' 7 | 1' . |]
+> A-ha do naung hu baen Tu-han, a-ha do naung hu baen Tu-han, a-ha do naung hu baen Tu-han a-ha do naung hu baen Tu-han.
+#V
+Aha do naung hubaen Tuhan,
+aha do naung hubaen Tuhan,
+aha do naung hubaen Tuhan,
+aha do naung hubaen Tuhan.
+-
+Dia ma baenonku Tuhan,
+dia ma baenonku Tuhan,
+dia ma baenonku Tuhan,
+dia ma baenonku Tuhan,

@@ -1,0 +1,42 @@
+@be 527
+@bl 396
+@title Saluhut do hutadingkon
+@key G
+@meter 4/4
+@credit Z. No. 122
+@pages 498 499
+@check Hlm 498 baris 4: "3 . 5̣ (5̄ 4̄)" — titik bawah pada 5 tidak sesuai not balok (D5) dan frasa yang sama di hlm 499 dicetak "3 . 5" → ditulis 5 (oktaf tengah) dengan durasi ½ (garis atas di hlm 499 juga tidak tercetak).
+@check Refrein "Lam jonok ..." dimulai pada ketuk ke-4 birama "1 . . 3"; ayat 2–3 diakhiri "Lam jonok ...." (refrein diulang).
+@status Lirik dicek · 8/13 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 8 dari 13 baris sama; baris 2, 7, 8, 10, 12 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 527) | https://bukuende.wordpress.com/2013/06/18/saluhut-do-hutadingkon-buku-ende-no-527-buku-logu-no-396/ | Pembanding lirik (tanda baca diabaikan).
+#A
+5,+1 | 3 .+3 4 .+5, | 4 3 0 7,+1 | 2 .+2 4 .+7, |
+1 . . 5,+1 | 3 .+3 4 .+5, | 4 3 0 7,+1 | 2 .+2 4 .+7, |
+1 . . 7,+1 | 2 .+2 4 .+7, | 1 3 0 3+.+.+3 |
+3 .+5 (5+4) (3+4) | 2 . . 5+.+.+5 | 5 .+5 3 1 |
+4 6 . 5+4 | 3 .+1 2 .+7, | 1 . . |
+> Sa-lu-hut do hu-ta-ding-kon a-la Je-sus Tu-han-ki. Tung bo-lang na si-an to-ru, ai hu be-reng Kris-tus i. Di-ta-ding-kon do-ngan a-hu, a-la rap-hon Je-sus au. A-le a-le na su-mu-rung i do na man-jang-kon au.
+#B
+3 | 2 .+3 4 7, |
+1 3 0 3+.+.+3 | 3 .+5 (5+4) (3+4) | 2 . . 5+.+.+5 |
+5 .+5 3 1 | 4 6 . 5+4 | 3 .+1 2 .+7, | 1 . . |]
+> Lam jo-nok do a-jal-hu, lam, lam bot ne a-ring-ki. Tung na so-nang do ro-hang-ku man-da-pot-hon sur-go i.
+#V
+Saluhut do hutadingkon ala Jesus Tuhanki.
+Tung bolang na sian toru, ai hu bereng Kristus i.
+Ditadingkon dongan ahu, ala raphon Jesus au.
+Ale ale na sumurung i do na manjangkon au.
+Lam jonok do ajalhu, lam, lam bot ne aringki. Tung na sonang do rohangku mandapothon surgo i.
+-
+Begeonku soarana di na laho mate au,
+Mangunsande tu Ibana sirang sian tano au.
+DohononNa : Pos rohamu, tongtong Ahu donganmi
+RamotanKu do langkamu di na lao tu surgo i.
+Lam jonok ....
+-
+Ai di surgo idoanku di aek hangoluan i,
+Dohot huta na badia, sonang masuk au tusi.
+suruanNa do, managam au na dongol, na dison.
+Malum au dibaen Tuhanku, molo sirang sian on.
+Lam jonok ....

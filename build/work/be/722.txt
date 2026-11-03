@@ -1,0 +1,32 @@
+@be 722
+@bl 0
+@title Tu joloMi Tuhanku
+@key C
+@meter 3/4
+@credit Syair & Lagu: NN
+@pages 762 763
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Bagian suplemen: tidak ada nomor "Logu No." di buku → @bl 0.
+@check Baris 1 birama 2: angka tampak "3 . 1" dengan titik atas pada 1, tetapi balok = C4 (garis bantu bawah), sama seperti pola yang sama di baris 2 (tanpa titik). Ditulis sesuai balok: 1.
+@check Baris terakhir not pertama tercetak "1" tanpa titik atas, balok = C5 → ditulis 1'.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Pembanding lirik: baris 4 beda pemisahan kata ("tangan Mu" tercetak terpisah di bawah not). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 722) | https://bukuende.wordpress.com/2013/06/18/tu-jolomi-tuhanku-buku-ende-no-722-buku-logu-no-722/ | proofreading per baris
+#A
+5 . 6+.+.+5 | 3 . 1 | 1' . . | 6 . . | 5 . 6+.+.+5 |
+3 . 1 | (2 . . | 2) . 0 | 5 . 6+.+.+5 | 3 . 1 | 1' . . |
+6 . . | 5 3 3+.+.+5 | 4 3 2 | (1 . . | 1) . 1'+.+.+6 |
+7 . . | 7 . 6 | 6 . . | 5 0 1'+.+.+6 | 7 . . | 7 . 6 |
+6 . . | 5 0 1'+.+.+2' | 3' . 3' | 3' . 2' | 2' . . |
+1' 0 1'+6 | 5 1' 6 | 7 1' 2' | (1' . . | 1') . 0 |]
+> Tu jo-lo-Mi Tu-han-ku hu-bo-an di-ring-kon pa-lu-a ma ton-ding-ku, si-an sa-lu-hut do-sang-kon Je-sus Ho do Tu-han-ku Je-sus Ho do Ra-jang-ku, tu ta-ngan Mu ma O Tu-han hu-pa-sa-hat da-ging ton-ding-kon.
+#V
+Tu joloMi Tuhanku huboan diringkon,
+palua ma tondingku, sian saluhut dosangkon
+Jesus Ho do Tuhanku, Jesus Ho do Rajangku,
+tu tangan Mu ma O Tuhan hupasahat daging tondingkon.
+-
+Tu jolo ni Tuhangku marsinggang au hohom,
+tangihon tangiangku, asi ma rohaM di au on,
+Jesus do na umboto saluhut na rumingkot.
+dameMi na manongtong, lehon ma tu au on naposoM.

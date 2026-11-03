@@ -1,0 +1,28 @@
+@be 98
+@bl 59
+@title Tuhan Debata.
+@key Ab
+@meter 3/4
+@credit Adam Drese, 1698
+@pages 88
+@status Lirik dicek · 8/9 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan baris 2 kata ke-3.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 98) | https://bukuende.wordpress.com/2013/06/16/naung-manaek-do-ho-buku-ende-no-98-buku-logu-no-59/ | 8/9 baris sama
+@check Judul "Tuhan Debata.", baris pertama lirik "Naung manaek do Ho".
+#A
+1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |
+3+4 5 4 | 3+2 3 2 v | 1+2 3 2 |
+1+7, 1 7, v | 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |]
+> Naung ma-naek do Ho, lao tu sur-go do, a-le Je-sus, Ra-ja na-mi, Ho do i-hut-ho-non-na-mi, Ho par-to-gi i, lao tu sur-go i.
+#V
+Naung manaek do Ho, lao tu surgo do,
+Ale Jesus, Raja nami, Ho do ihuthononnami,
+Ho partogi i, lao tu surgo i.
+-
+Maol do dalan on, togu hami on,
+Asa tung malua hami sian angka musunami,
+Na di tano on. Togu hami on!
+-
+Suru ma tondiM singkat ni bohiM,
+Tu bagasan rohanami manogihon tondinami,
+Lao tu surgo i, tu adopanMi.

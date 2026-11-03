@@ -1,0 +1,45 @@
+@be 597
+@bl 0
+@title Baritahon di dolok
+@key Ab
+@meter 4/4
+@credit Syair: Go tell it on the Mountain, Negro Spritual; Terj.: Pdt. J. A. U. Doloksaribu; Lagu: Lagu Rakyat Amerika
+@pages 584 585 586 587
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: 597a: 7/8 baris sama (beda ejaan "panggagatan"); 597b (pembanding terpisah, .../baritahon-di-dolok-buku-ende-no-597b-buku-logu-no-597b/): 2/4 sama, beda ejaan di "lululu", "rade do", "marhobas dijoloM".
+@ref Lirik pembanding: bukuende.wordpress.com (BE 597) | https://bukuende.wordpress.com/2013/06/09/baritahon-di-dolok-buku-ende-no-597a-buku-logu-no-597a/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian (Natal): tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Luk. 2:8-17. Kredit tercetak "Spritual" — ditulis apa adanya.
+@check Buku memuat 597a (hlm 584–585, ayat "Ro do surusuruan…") dan 597b (hlm 585–587, ayat "Di na lululu au…"), dengan refrein dan melodi bait yang sama. Format situs satu melodi per nomor → not & lirik di bawah not dari 597a; teks ayat 597b dimasukkan sebagai ayat tambahan di bawah. Perbedaan kecil 597b: birama "5. 1 1" (refrein, dengan "naung") dan akhir bait "2 2 1 6̣ | 5̣ 4".
+@check Refrein di awal (sampai "Fine"), bait di bagian B lalu D.C. al Fine (kembali ke refrein).
+@check Angka "5" pertama di refrein tercetak tanpa titik bawah, di baris ke-3 bertitik; not balok keduanya Es4 → ditulis 5,.
+#A
+3 . 3+.+.+2 1+.+.+6, | 5, . 1 . |
+2+2 .+2 1 2 | (3+.+.+2) 3 2+1 . |
+3 . 3+.+.+2 1+.+.+6, | 5, . 1 1 |
+3+3 . (2+.+.+1) 2 | 1 . . |
+> Ba-ri-ta-hon di do-lok di ru-ra di su-de i-nga-nan, ba-ri-ta-hon di do-lok naung tu-bu Kris-tus i.
+#B
+1 | 3 5 5 6 | 5 3 . 1 | 2 2 1 2 | 3 . . 1 |
+3 5 5 6 | 5 3 . 1 | 2 2 1 6, | (5, . 4 .) |]
+> Ro do su-ru-su-ru-an tu la-dang E-fra-ta man-da-pot-hon par-ma-han tom-pu man-sai to-rang.
+#V
+Ro do surusuruan tu ladang Efrata
+mandapothon parmahan tompu mansai torang.
+Reff. Baritahon di dolok di rura di sude inganan,
+baritahon di dolok naung tubu Kristus i.
+-
+Mabiar do Parmahan tu pardisurgo i
+angka suru-suruan marende borngin i.
+Reff. Baritahon di dolok ...
+-
+Di borhos do Tuhanta di panggagatan i
+songon na paniboa ni pardisurgo i.
+Reff. Baritahon di dolok ..
+-
+(597b) Di na lululu au arian borngin i,
+rade do Ho Tuhanku patudu dalan i.
+Reff. Baritahon di dolok ...
+-
+(597b) Di na pinabangkitMu au gabe naposoM,
+patau ma au Tuhanku marhobas dijoloM.
+Reff. Baritahon di dolok ...

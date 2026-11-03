@@ -1,0 +1,37 @@
+@be 182
+@bl 24
+@title Haholongon na badia
+@key Bb
+@oct -1
+@meter 3/4
+@credit Wilhem Brockhaus, 1888
+@pages 164 165
+@check Judul di kepala lagu "Haholongon na badia", baris pertama lirik "Tu jolom, o Debatangku".
+@check Tanda birama di scan kurang jelas; semua birama berisi 3 ketuk, dipakai 3/4. Do = Bes rendah (1 = Bes3, 1̇ = Bes4).
+@check Buku menulis "Wilhem"; lazimnya Wilhelm Brockhaus.
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 182) | https://bukuende.wordpress.com/2013/06/18/haholongan-nabadia-tu-jolom-o-debatangku-buku-ende-no-182-buku-logu-no-24/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+3 . 4 | 5 . 1' | (1' 7) 6 | 6 . 5 v | 5 . 1' |
+5 . 3' | (2' 3') 2' | 1' . 0 | 3' . 3' | (3' 2') 2' |
+(2' 7) 5 | 1' . 5 v | (1' 7) 6 | 5 . 1' | 3' . 2' | 1' . . |]
+> Tu jo-lom, o De-ba-tang-ku! Sai u-se do ro-hang-kon. Sai pa-si-at ta-ngi-ang-ku Do-hot i-lu-i-lung-kon!
+#V
+Tu jolom, o Debatangku! Sai use do rohangkon.
+Sai pasiat tangiangku Dohot iluilungkon!
+-
+Husolsoli do rohangku na gok dosa i tongtong;
+Ai godang ariaringku na hubahen ambolong.
+-
+Sai jotjot do hutadingkon dalanMi na tigor i;
+Kristen au, hape hutondong, dalan hamagoan i.
+-
+Ala nii tungki rohangku, jongjong di adopanMi;
+Sai asi rohaM Tuhanku, sesa nasa dosangki!
+-
+Haburjuon dimangmangkon, rohangkon nuaeng di Ho
+Naeng tu surgo hutujuhon, Jesus, taiti au gogo.
+-
+Mangihuthon Ho, Tuhanku, i ma las ni rohangki;
+I ma naeng padanhononku, dok ma amenmi disi!

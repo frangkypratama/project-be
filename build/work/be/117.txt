@@ -1,0 +1,44 @@
+@be 117
+@bl 205
+@title Jahowa Debatanta do
+@key Eb
+@meter 4/4
+@credit Martin Luther, 1528
+@pages 106
+@check Ketukan gantung di awal kedua bagian berupa not 1/8 (di not balok didahului tanda diam 1/8 pada bagian pertama) → ditulis "0+1'" dan "0+1".
+@check Birama "3 6 5 4*": angka 4 bertanda bintang, not balok menunjukkan A♮ → ditulis #4.
+@check Lirik tercetak "Di-ba- en" dibaca "Di-baen" (2 suku kata) agar cocok dengan jumlah not.
+@check Birama "(1' 7) 6 5 .'1'" dan "5 '. 6 6 5": tanda napas di tengah ketukan tidak ditulis (format tidak mendukung).
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 14 dari 16 baris sama persis; beda di baris 3 (kata lain + ejaan) dan 14 (ejaan). Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 117) | https://bukuende.wordpress.com/2013/06/16/jahowa-debatanta-do-buku-ende-no-117-buku-logu-no-205/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+1' | 1' 1' (5+6) 7 | (1'+7) 6 5 .+1' | 7 6 5 6 |
+(4+3 2) 1 . :|
+> Ja-ho-wa De-ba-tan-ta do par-ta-no-ba-to-an-ta.
+> Mu-sun-ta ing-kon ta-lu do Di-baen pa-ngon-di-ngan-ta.
+#B
+0+1 | 3 6 5 #4 | 5 .+1 5 5 |
+6 7 1' .+7 | 1' 7 6 6 | 5 .+6 6 5 |
+6 4 3 .+1' | 7 6 5 6 | (4+3 2) 1 . |]
+> I-ang-go mu-su i, i ma-si-bo-lis i: Jor-but do ta-hi-ni, ma-nga-go jol-ma i; Ndang da-pot na ma-nga-tup.
+#V
+Jahowa Debatanta do partanobatoanta.
+Musunta ingkon talu do Dibaen pangondinganta.
+Ianggo musu i, i masibolis i: Jorbut do tahini, mangago jolma i;
+Ndang dapot na mangatup.
+-
+Gogonta ndang haposan i, tibu do mago hita;
+Pinillit ni Jahowa i, na tuk pamonang hita.
+Ai ise goar ni ? I ma AnakNa i, Tuhanta Jesus i.
+Sigomgom sasude na so tarbahen so monang.
+-
+Gok begu pe portibi on na naeng mamolgak hita;
+Nda tung mabiar hita on ai ingkon monang hita.
+ai nang tarrimas pe sibolis i tahe ndang habiaran be,
+Ai nang sahata pe, tuk do manaluhonsa.
+-
+Ai hata ni Jahowa i, ndang dapot ungkitonna;
+Tuhanta majagahon i ditungkol naposoNa,
+Hosanta, arta pe, ugasan sasude dirampas musu i,
+Antong, mahua i; Hot do harajaonNa.

@@ -1,0 +1,32 @@
+@be 540
+@bl 372
+@title Tuhan Jesus
+@key D
+@meter 4/4
+@credit Ret. 2. No. 182.
+@pages 511
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 12 baris sama; baris 4, 6, 11 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 540) | https://bukuende.wordpress.com/2013/06/18/tuhan-jesus-buku-ende-no-540-buku-logu-no-372/ | Pembanding lirik (tanda baca diabaikan).
+#A
+1 .+1 4 3 | 2 .+3 2 1 | 6 .+6 6 6 | 7 1' 7 . |
+1' .+5 7 6 | 6 .+7 6 5 | 1' .+5 6 4 | 2 5 1 . |]
+> Tu-han Je-sus sai hu-ta-gam a-ri-a-ri ha-ro-roM Naeng du-ngo au, naeng ra-de au, naeng ho-bas do na-po-soM.
+#V
+Tuhan Jesus sai hutagam ariari haroroM
+Naeng dungo au, naeng rade au, naeng hobas do naposoM.
+-
+Pinapulik tu Tuhanku, sirang sian dosa i,
+Sai mardalan di na tiur hupaima Rajangki.
+-
+Hupaboa na binaen ni Jesus, Sipalua i,
+Na humophop ho na dangol, na mamorsan dosa i.
+-
+Lao managam haroroNa sai endehononku do
+Pangkirimon las ni roha siboanon ni na ro.
+-
+Ai tibu do ro Tuhanta, silu do langkana i.
+Beta hita lao manomu, taendehon Raja i.
+-
+Sai haporseai hataNa, dung i idaonmu do :
+Saut sude bagabagaNa, molo dung Tuhanta ro.

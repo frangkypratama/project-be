@@ -1,0 +1,39 @@
+@be 419
+@bl 279
+@title Ho na marsak roha i
+@key G
+@meter 3/4
+@credit (tidak dicantumkan di buku)
+@pages 401 402
+@status Lirik dicek · 11/16 baris sama dgn pembanding
+@check Kepala lagu juga mencetak "Z. No. 128."
+@check Baris 1 akhir "2.. | 2..": tanda ikat tidak tercetak (di baris 2 dan 4 tercetak), tetapi jumlah suku kata hanya pas bila diikat; ditulis diikat.
+@check Baris 4 birama "4 ." tercetak 2 ketuk (not balok 1/2); ditulis 4 . . (3 ketuk) supaya pas 3/4.
+@check Pembanding lirik: bukuende.wordpress.com — 11/16 baris sama; beda ejaan di baris 1–4 dan 11 (silang, arsakmi, dibege Jesus, Tuhanmu, haporusanmi, ngolumi); scan dicek, mengikuti buku. Alamat pembanding menulis Logu 2790 (buku: 279).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 419) | https://bukuende.wordpress.com/2013/06/13/ho-na-marsak-roha-i-buku-ende-no-419-buku-logu-no-2790/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . 2 | 1 . 7, | (6, 4) 6, | 5, . . | 7, . 1 | 2 . 3 | (2 . . | 2 . .) |
+3 . 2 | 1 . 7, | (6, 4) 6, | 5, . . | 7, . 1 | 2 . 3 | (1 . . | 1 . .) |
+2 . 1 | 7, . 5, | 4 . 3 | 2 . . | 3 . 2 | 1 . 2 | 3 . 5 | 2 . . |
+3 . 4 | 5 . 3 | 2 . 3 | 4 . . | 1 . 7, | 3 . 2 | (1 . . | 1 . .) |]
+> Ho na mar-sak ro-ha i, ro tu si-lang i, Bo-an na-sa ar-sak-mi tu par-si-lang i. Sai u-se-hon ro-ha-mi, ai di-be-ge Je-sus i. Si-lang ni Tu-han-mu do ha-po-ru-san-mi.
+#V
+Ho na marsak roha i, ro tu silang i,
+Boan nasa arsakmi tu parsilang i.
+Sai usehon rohami, ai dibege Jesus i.
+Silang ni Tuhanmu do haporusanmi.
+-
+Topot parasian i di parsilang i.
+Sai maporus ma tusi, Jesus do disi.
+Nang jorbut dosam ale, Jesus mangurasi be.
+Silang ni Tuhanmu do haporusanmi.
+-
+Tung humophop ho, ale, mate Jesus i.
+Sae dosam dibaen tahe di parsilang i.
+Na mabaor do ngolumi sian hau parsilang i.
+Silang ni Tuhanmu do haporusanmi.
+-
+Uli ni barita ni na tarsilang i!
+Ngolu dapot ho disi dibaen Jesus i.
+Hasonangan, dame pe, tohapmi disi, ale!
+Silang ni Tuhanmu do haporusanmi.

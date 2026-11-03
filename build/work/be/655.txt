@@ -1,0 +1,38 @@
+@be 655
+@bl 0
+@title Ojahan ni Huria.
+@key Eb
+@meter 4/4
+@credit Syair: The Church one foundation; Samuel J. Stone, 1886 · Terj.: Pdt. MH. Shite/ Pdt. J.A.U. Doloksaribu · Lagu: Samuel S. Weley, 1864
+@pages 674
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Kredit tercetak "The Church one foundation", "Pdt. MH. Shite", "Samuel S. Weley" (lazim: The Church's one foundation; Sihite; Samuel S. Wesley) — ditulis apa adanya.
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 4 (pinarbadiaanNa) beda ejaan; sesuai scan hlm 674.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 655) | https://bukuende.wordpress.com/2013/06/16/ojahan-ni-huria-buku-ende-no-655-buku-logu-no-655/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3 | 3 3 4 3 | 3 . 2 1 | 1 6 5 4 |
+3 . . 4 | 5 1' 1' 7 | 7 . 6 5 | 4 5 3 1 |
+2 . . 2 | 3 4 5 6 | 6 . 5 1' | 1' .+7 6 3 |
+4 . . 2 | 3 3 4 3 | 3 . 2 1 | 1 2 1 7, | 1 . . |]
+> O-ja-han ni Hu-ri-a sa-sa-da Je-sus i, mar-hi-te pan-di-di-on rap do-hot Ha-ta i, Hu-ri-a ni ri-rit-na baen o-ro-an-Na i, pi-nar-ba-di-a-an-Na mar-hi-te Mu-dar i
+#V
+Ojahan ni Huria sasada Jesus i,
+marhite pandidion rap dohot Hata i,
+Huria ni riritna baen oroanNa i,
+pinarbadiaanNa marhite Mudar i
+-
+Sian saluhut bangso na diportibion,
+marhite haluaon sada Huria on,
+ai sada pandidion, sada haporseaon,
+sada nang panghirimon ni HuriaNa on.
+-
+Di angka parungkilon nang paraloan i,
+tongtong marpanghirimon di dame na hot i.
+Gok do hamuliaon di alatanNa i,
+i do na tau teanon ni HuriaNa i.
+-
+Tongtong marsada roha nang pe di tano on,
+Huria na badia pinapasupasuMon.
+Ulaon na badia patogu roha on,
+Tuhan Sitolu sada pamonang hami on.

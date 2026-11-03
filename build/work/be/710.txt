@@ -1,0 +1,30 @@
+@be 710
+@bl 0
+@title Marolop-olop do au
+@key C
+@meter 3/4
+@credit Syair/Terj./Lagu: NN
+@pages 746 747 748
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0). Hanya satu ayat dicetak.
+@check Legato "1 5 3" (so-, i) dan "7 5 2" (sur, ro): angka hanya melengkungkan dua not, balok melengkungkan ketiganya — mengikuti balok agar satu suku kata per kelompok.
+@status Lirik dicek · 4/6 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 3 (ingananki) dan 6 (ulinai) beda ejaan. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 710"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 710) | https://bukuende.wordpress.com/2013/06/16/marolop-olop-do-au-buku-ende-no-710-buku-logu-no-710/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3 3 .+3 | 4 4 (3+4) | 4 4 4+.+.+4 | 5 . 0 | 5 5 5 |
+6 6 0 | 7 7 7 | 1' . 0+5 | 3+.+.+4 5 1' |
+7+.+.+6 5 0+3 | 2+.+.+3 4 6 | 5+.+.+4 3 5 |
+5+.+.+4 2 6 | 6+.+.+5 3 1' | 1'+.+.+7 5 2' |
+2'+.+.+1' 1' 0+5 | 5+.+.+5 5 5 | 5 . 5 |
+3 . 1' | (7+.+.+5 2') (1'+7) | (1'+5 3') (2'+1') |
+(7+5 2') (1'+7) | 1' . 0 | 2' 1' 7 | (1'+5 3') . |
+2' 1' 7 | 1' . 0 | 7 . 7 | 1' . 0 |
+7 . . | 7 . 7 | 1' . . |]
+> Ma-ro-lop-o-lop do au di da-lan-ki ai nu-nga mo-nang ho Tu-han-ki ra-de nu-aeng i-nga-nan-ki pi-na-tu-paM di-ton-ding-ki Je-ru-sa-lem na u-li i da-pot-ho-non-ku ho tu-si par-sa-tong-ki-nan ta-no on di sur-go so-nang ro-hang-ki u-li-na-i sam-bu-long-ki sur-go i di gin-jang i.
+#V
+Marolop-olop do au di dalanki
+ai nunga monang ho Tuhanki
+rade nuaeng ingananki pinatupaM ditondingki
+Jerusalem na uli i dapothononku ho tusi
+parsatongkinan tano on di surgo sonang rohangki
+ulinai sambulongki surgo i di ginjang i.

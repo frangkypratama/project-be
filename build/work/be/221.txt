@@ -1,0 +1,32 @@
+@be 221
+@bl 5
+@title Saleleng Jesuski
+@key Ab
+@meter 4/4
+@credit Ernst Gebhardt, 1899
+@pages 202
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: L1 kata 3 beda ejaan ("namandongani"); buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 221) | https://bukuende.wordpress.com/2013/06/18/saleleng-jesuski-buku-ende-no-221-buku-logu-no-5/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 5, 3 3 2 | 1 . . v 5, | 5, 4 4 3 | 2 . . v 2 |
+3 5 5 3 | 3 1 1 v 6, | 5, 3 3 2 | 1 . . |]
+> Sa-le-leng Je-sus-ki na-man-do-nga-ni au, ma-po-rus hol-so-hol-song-ki, sai di I-ba-na au
+#V
+Saleleng Jesuski namandongani au,
+Maporus holsoholsongki, sai di Ibana au
+-
+Parmahan Jesuski, birubiruNa au,
+Ditogutogu tondingki, ndang be marmara au.
+-
+Sai dipatongon au tu hasonangan i.
+Diiringiring Jesus au mardalan lao tusi.
+-
+Torop di tano on mangkaliangi au,
+Sai Tuhan Jesus do tongtong maniopniop au.
+-
+Naeng tarsulandit au di maol ni dalan i.
+Hatop ma lao tu Jesus au, pamalum rohangki.
+-
+Hubereng ma tongtong Jesusku, tumpalhi,
+Ibana tua na tongtong, na so mansohot i.

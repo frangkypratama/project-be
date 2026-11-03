@@ -1,0 +1,29 @@
+@be 829
+@bl 0
+@title Patik na imbaru
+@key D
+@meter 4/4
+@credit Syair: A New Commandment · Terj.: Biv. M.H. Sitorus/Pdt. J.A.U. Doloksaribu · Lagu: NN · (Joh. 13:34-35)
+@pages 914 915
+@status Lirik dicek · 4/6 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 (holongni, ejaan) dan baris 5 ("do di": pembanding tanpa "di") beda; scan hlm 914–915 jelas, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 829) | https://bukuende.wordpress.com/2013/06/16/patik-na-imbaru-buku-ende-no-829-buku-logu-no-829/ | dibandingkan per baris
+@check Buku tidak mencetak nomor Logu → @bl 0.
+@check Bagian kedua ("si-an on do di tanda halak ... masihaholongan") dicetak ulang penuh di buku; ditulis apa adanya tanpa tanda ulang.
+#A
+5 | 3 . 3 3 | 2 1 . 1+1 | 4 . 4 3 |
+2 . 3 4 | 5 .+5 5 .+3 | 2 1 . 1+1 | 6 . 4 3 |
+2 . 3 4 | 5 .+5 5 .+3 | 2 1 . 1+1 |
+4 . 7, .+7, | 1 . . 1+1 | 1' . 1' 1' | 7 7 6 .+6 |
+5 .+6 5 .+3 | 2 1 . 1 | 6 . . 6 | 5 . 3+3 5+3 |
+2 . . . | 3 . . 1+1 | 1' . 1' 1' | 7 7 6 .+6 |
+5 .+6 5 .+3 | 2 1 . 1 |
+6 . . 6 | 5 . 3+3 5+3 | 2 . . . | 1 . . |]
+> Pa-tik na-im-ba-ru hu-le-hon, tu ha-mu a-sa ma-si-ha-ho-lo-ngan, ha-mu sa-ma ha-mu, so-ngon ho-long-ni ro-hang-ku ma-ra-dop-hon ha-mu, Si-an on do di tan-da ha-lak ha-mu si-se-an-Hu mo-lo ha-mu ma-si-ha-ho-lo-ngan, si-an on do di tan-da ha-lak ha-mu si-se-an-Hu mo-lo ha-mu ma-si-ha-ho-lo-ngan.
+#V
+Patik na imbaru hulehon, tu hamu asa masihaholongan,
+hamu sama hamu, songon holongni rohangku maradophon hamu,
+Sian on do di tanda halak hamu siseanHu
+molo hamu masihaholongan,
+sian on do di tanda halak hamu siseanHu
+molo hamu masihaholongan.

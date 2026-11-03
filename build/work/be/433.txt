@@ -1,0 +1,35 @@
+@be 433
+@bl 293
+@title O Tuhanki sai topot au
+@key G
+@meter 4/4
+@credit S.L. No. 65.
+@pages 414 415
+@check Birama 2 tercetak "3 5." (3 ketuk); not balok = dua not 1/2 (B, D) → ditulis "3 . 5 .".
+@check Ayat 2–4 di buku diakhiri "MudarMu mangurasi...." = ulangi bagian kedua (MudarMu ... Ho au on).
+@status Lirik dicek · 3/6 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan "Tuhanki" (pembanding: "O Tuhan sai topot au"), "MudarMu" dan "dihaholongi"; transkripsi mengikuti buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 433) | https://bukuende.wordpress.com/2013/06/16/o-tuhan-sai-topot-au-buku-ende-no-433-buku-logu-no-293/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 1 2 | 3 . 5 . | 2 . (2 3) | 1 . . 1 | 7, 1 2 3 |
+(2 1 7,) 6, | 5, . . |
+> O Tu-han-ki sai to-pot au, pa-i-as ma-nang ro-hang-ki!
+#B
+3 | 3 .+2 1 4 | (3 .+2) 1 3 |
+(2 .+1 7,) 2 | 1 . . 5 | 5 .+4 3 6 | (5 .+4) 3 5 |
+4 .+3 2 4 | 3 . . 2 | 3 3 3 3 | 2 . . (2+3) |
+4 4 4 5 | 3 . . 5 | (3 1 6,) 2 | 1 . 7, . | 1 . . 0 |]
+> Mu-dar-Mu ma-ngu-ra-si par-ja-hat i. Mu-dar-Mu ma-ngu-ra-si nang na ju-ma-hat i. Di-hop-hop Ho au on, di-hop-hop Ho au on, di-hop-hop, Ho au on,
+#V
+O Tuhanki sai topot au, paias manang rohangki!
+MudarMu mangurasi parjahat i. MudarMu mangurasi nang na jumahat i.
+Dihophop Ho au on, dihophop Ho au on, dihophop, Ho au on,
+-
+Ias ma au, malua ma, mangungkor au tu mudarMi.
+MudarMu mangurasi....
+-
+Ho naeng ihuthononku do, tu Ho hulehon diringki
+MudarMu....
+-
+Porsea au nuaeng di Ho, dihaholongi Ho nang au,
+MudarMu....

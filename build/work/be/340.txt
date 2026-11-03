@@ -1,0 +1,57 @@
+@be 340
+@bl 65
+@title Hamu saluhut halak
+@key G
+@meter 4/4
+@credit Heinrich Isaak 1539
+@pages 318 319
+@status Lirik dicek · 26/27 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 13 (mamida); dicek ulang ke scan hlm 319, buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 340) | https://bukuende.wordpress.com/2013/06/18/tibu-ma-ro-tingkingku-buku-ende-no-340-buku-logu-no-65/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Judul di kepala lagu "Hamu saluhut halak" (nama Logu No. 65, melodi sama dengan BE 324); baris pertama lirik "Tibu ma ro tingkingku".
+@check Birama akhir dicetak "3 2 . 1"; not balok tiga not 1/4 (melengkapi ketukan gantung) → titik dianggap pemisah, ditulis "3 2 1".
+@check Komponis di BE 324 tercetak "Heinrich Isack 1517", di sini "Heinrich Isaak 1539" — keduanya ditulis sesuai buku.
+#A
+3 | 1 2 3 5 | 4 . 3 v 3 |
+5 5 2 3 | 1 . 7, v 5, | 1 2 3 3 | 2 . v 3 |
+> Ti-bu ma ro ting-king-ku, lao bo-ngot tu ba-gas-hu di ha-so-na-ngan i. Ha
+#B
+1 2 3 5 | 4 . 3 v 3 | 5 5 2 3 |
+1 . 7, v 5, | 1 2 (3+4) (5+4) | 3 2 1 |]
+> mu-na, na-to-ras-hu, ndang ja-di an-du-ngan-mu Au, na ma-no-pot sur-go i.
+#V
+Tibu ma ro tingkingku, lao bongot tu bagashu di hasonangan i.
+Hamuna, natorashu, ndang jadi andunganmu Au,
+na manopot surgo i.
+-
+Jempek tutu ngolungku, dumenggan do jambarhu,
+Na sian Debata, ndang songgop be sahithu,
+Ndang tubu be arsakku, las rohangki sambing nama.
+-
+Ndang leleng dipasombu Tuhanta au mangolu
+Di partangisan on, ianggo mate iba di haposoonniba,
+Tau las ni roha i tongtong.
+-
+Ndang au be hahuaon ni nasa hajahaton
+Na di portibi on, tung ise mangarsahi sude na sonang muli
+Tu hasonangan na tongtong?
+-
+Las rohamu najolo, mamida pangalaho ni anakmuna on.
+Nuaeng tutu ma marsak Hamu dibaen dakdanak,
+Na bongot tu tanoman on.
+-
+Padirgak ulumuna, tumatap Amamuna;
+Sai unduk ma hamu di nasa pambaenanNa,
+Na sai tongtong marhata asa tarapul rohamu.
+-
+Diboto Debatanta na tau hangoluanta, sitongosonNa i.
+Ndang dung adong na masa na so pinatupaNa;
+Tongtong denggan do i sude.
+-
+Ai molo sogot jumpang Hamu au di na sonang,
+Marulos na bontar, marsanggul hangoluan,
+Marmare hamonangan, disi ma i muse patar.
+-
+Disi ma pujionmu rap dohot au, anakMu, Tuhanta Jesus i.
+Ipe sai hadengganhon nuaeng sude pambaenan
+Ni Debata, Amanta i.

@@ -1,0 +1,28 @@
+@be 446
+@bl 406
+@title Ho ma di au
+@key Eb
+@meter 4/4
+@credit Eleonore Furstin Reuss 1903
+@pages 427 428
+@check Kepala lagu juga mencantumkan "C. No. 27". Nama ditulis sesuai buku (ejaan lazim: Eleonore Fürstin Reuss).
+@check Baris 2 birama 1 tercetak "6 ,.5 ." (tanda koma kecil dianggap noda); not balok = dua not 1/2 → 6 . 5 .
+@status Lirik dicek · 8/8 baris sama dgn pembanding
+@check Pembanding lirik: semua sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 446) | https://bukuende.wordpress.com/2013/06/13/ho-ma-di-au-buku-ende-no-446-buku-logu-no-406/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 3 . 2 . | 1 . 0 5 | 4 . 3 . | 2 . 0 5 | 6 7 1' . |
+6 . 5 . | 3 . 5 5 | 6 5 4 3 | 2 . 5 6 | 5 3 2 . | 1 . 0 |]
+> Ho ma di-au, di Ho ma au, hot ma par-sa-o-ran-ta, u-nang dao Ho si-an au, a-le Si-pa-ngo-lu.
+#V
+Ho ma diau, di Ho ma au, hot ma parsaoranta,
+Unang dao Ho sian au, ale Sipangolu.
+-
+Di au ma Ho, sasada Ho na boi hangoluanku.
+Sian Ho sambing do ro dame dohot gogo.
+-
+Marhite Ho mansohot do sude pardangolanku;
+Ai dibuat hataMi arsak ni rohangku.
+-
+Dagingku pe, dung mate be, managam haheheon,
+Ai naung talu do sude, dosa, hamatean.

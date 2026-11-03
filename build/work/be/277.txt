@@ -1,0 +1,56 @@
+@be 277
+@bl 153
+@title Las situtu rohangku.
+@key F
+@meter 4/4
+@credit Choral Buch 18, Hambure 1598
+@pages 256 257
+@check Judul kepala lagu (judul Logu) "Las situtu rohangku."; baris pertama lirik "Marsada roha hita".
+@check Kredit tercetak "Hambure 1598" (kemungkinan Hamburg); ditulis sesuai buku.
+@check Ayat 7 tercetak "O Jeuss"; ditulis sesuai buku.
+@status Lirik dicek · 22/28 baris sama dgn pembanding
+@check Pembanding lirik: L6, L11 (kata 7 berbeda), L16, L23, L25 ("Jeuss") beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 277) | https://bukuende.wordpress.com/2013/06/16/marsada-roha-hita-buku-ende-no-277-buku-logu-no-153/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 1 5 3 1 | (1 3) 2 v 3 | 5 4 3 2 | 1 . . :|
+> Mar-sa-da ro-ha hi-ta, si-tan-da Je-sus i.
+> Ta-ti-op tong ja-mi-ta, pa-so-nang ro-ha i.
+#B
+3 | 3 5 5 3 | 2 . . v 1 | 3 4 5 2 | 3 . 1 v 3 |
+5 4 3 1 | (1 3) 2 v 3 | 5 4 3 2 | 1 . . |]
+> Sai pir ton-din-ta be, sa-da tong-tong ro-han-ta ma-ngi-hut tu Tu-han-ta, si-hop-hop sa-su-de
+#V
+Marsada roha hita, sitanda Jesus i.
+Tatiop tong jamita, pasonang roha i.
+Sai pir tondinta be, sada tongtong rohanta
+mangihut tu Tuhanta, sihophop sasude
+-
+Portibi on na rundut, ndang tiruonta be.
+Arina i lam sundut, jonok ujungna i.
+Rohanta sasude sai tu banuaginjang.
+Gomos ma hita tindang managam Tuhan i.
+-
+Manongtong ma rohanta mangalo bangko i;
+Patigor be dalanta, pahombar hata i.
+Hisap ni roha i ndang be ihuthininta;
+Tuhanta do gogonta lao manundalhon i.
+-
+Suman tu paisolat harohaonta be,
+Lam leleng, lam marbolat do sian sasude,
+Na so di Tuhan i. Ibana do artanta.
+HataNa sinjatanta dompak na holo, i.
+-
+Burju ma tasarihon manjangkon Tuhan i.
+Ibana tatangihon, lam leleng, lam ture,
+Gomos taingot be: Jonok do haroroNa,
+Lao pasonggophon bona ni hatuaon i.
+-
+Sai jumpang pardonganon binaen ni hata i
+Sude na marsitaonon, tahaholongi be.
+Ido niula ni TondiNa na badia di tonga ni huria,
+SinondanganNa i.
+-
+O Jeuss, Tuhannami, pardagang na hinan,
+Sai Ho manatap hami, paisolatMi hian.
+Torusi ma tongon sudena rohanami.
+Sai Ho hutagam hami di pardagangan on.

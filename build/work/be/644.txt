@@ -1,0 +1,35 @@
+@be 644
+@bl 0
+@title Ro ma Ho parasiroha
+@key Eb
+@meter 3/4
+@credit Syair: Come thon fount of every biessing; Robert Robinson, 1758 · Terj.: Pdt. M. H. Sihite / Pdt. J. A. U. Doloksaribu · Lagu: John Wyeth's Repository of Sacred Music, 1758
+@pages 660 661
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Kredit tercetak "Come thon fount of every biessing" (lazim: Come thou fount of every blessing) — ditulis apa adanya.
+@check Baris 3 memuat dua triol "5 6 7" (angka 3 di atas & di balok) ditulis 5+(6+7); tampilan not balok situs mungkin belum menampilkan tanda triol.
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (parasiroha), 5 (hagogoonMi), 12 (mai) beda ejaan/kata; dicek ke scan hlm 660–661: sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 644) | https://bukuende.wordpress.com/2013/06/16/ro-ma-ho-parasiroha-buku-ende-no-644-buku-logu-no-644/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3+2 | 1 1 3+5 | 2 2 3+5 | 6 5 3+2 |
+1 . 3+2 | 1 1 3+5 | 2 2 3+5 | 6 5 3+2 |
+1 . 5+(6+7) | 1' 7 6+5 | (6+5) 3 5+(6+7) |
+1' 7 6+5 | 1' . 3+2 | 1 1 3+5 |
+2 2 3+5 | 6 5 3+2 | 1 . |]
+> Ro ma Ho pa-ra-si ro-ha sai pa-gir-gir ro-hang-kon ma-ngen-de-hon deng-gan ba-sa ni le-hon-Mu di au on, ti-ru-on-hu ma su-ru-an ma-ngen-de-hon sa-ngap-Mi, pu-ji-on-hu Ho Ja-ho-wa par-ta-no-ba-to-an-ki.
+#V
+Ro ma Ho parasiroha sai pagirgir rohangkon
+mangendehon denggan basa ni lehonMu di au on,
+tiruonhu ma suruan mangendehon sangapMi,
+pujionhu Ho Jahowa partanobatoanki.
+-
+Na malua do tondingku, ala hagogoonMi
+pos rohangku boanonMu diringkon tu surgo i
+Jesus sai lului au, atik tung na lilu au
+na dihophop Ho do au, na mambaen mangolu au.
+-
+Ganup ari au marutang, na so hagararan au
+ndang tarasam denggan basa, na binaenMu na tu au
+sai tarunjun do rohangku maninggalhon holongMi
+sai sahapi ma rohangku, ngolungki di Ho mai i.

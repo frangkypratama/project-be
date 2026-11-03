@@ -1,0 +1,29 @@
+@be 245
+@bl 61
+@title Asal ma Ibana
+@key D
+@meter 4/4
+@credit Heinrich Karl Breidenstein, 1825
+@pages 224 225
+@status Lirik dicek · 8/9 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan "Jeus" (ayat 2); dicek ulang ke scan: tercetak "Jeus" di buku (salah cetak "Jesus").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 245) | https://bukuende.wordpress.com/2013/06/09/anggo-didongani-tuhan-jesus-au-buku-ende-no-245-logu-no-61/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Kepala lagu mencetak judul Logu "Asal ma Ibana" (melodi sama dengan BE 241); baris pertama lirik "Anggo didongani Tuhan Jesus au".
+#A
+5 5 1' (7+6) | (5 4) 3 . v | 3 6 5 #4 |
+5 . v 5 (6+7) | 1' 1' 1' (7+6) | (5 4) 3 . v |
+6 5 (5+4) 3 | 2 (3+2) 2 . v | 7 (6+5) #4 5 |
+1' . 7 . v | 1' (7+2') 1' 5 | 6 5 (5+4) 3 | 2 . 1 . |]
+> Ang-go di-do-nga-ni Tu-han Je-sus au, sa-le-leng-na ma-ngi-nga-ni Ru-ra ha-su-sa-an au, so-nang do ro-hang-ku; Ai hu-bo-to: Je-sus do do-ngan-ku
+#V
+Anggo didongani Tuhan Jesus au, salelengna mangingani
+Rura hasusaan au, sonang do rohangku;
+Ai huboto: Jesus do donganku
+-
+Molo Tuhan Jesus donganki tongtong
+Bahenonku do maporus na mangarop tondingkon.
+Sai martua iba molo Tuhan Jeus donganniba.
+-
+Sonang do rohangku raphon Jesuski;
+Ai disesa do dosangku, dipabulus langkangki,
+Asa unang mago tondingkon bahenon ni pangago

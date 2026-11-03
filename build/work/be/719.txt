@@ -1,0 +1,32 @@
+@be 719
+@bl 0
+@title Hubege soaraM O Jesus
+@key F
+@meter 4/4
+@credit Syair: Where He leads me; EW. Blandy · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: John S. Norrls
+@pages 759
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0). Kredit "John S. Norrls" (lazim Norris, bdk. BE 718) — ditulis apa adanya.
+@check Not 1 penutup (birama terakhir) tanpa suku kata baru — suku kata "au" ditahan (`_`).
+@check Ayat dan refrein memakai melodi yang sama; dicetak sebagai dua baris lirik di bawah satu notasi (baris 2 = Refrein).
+@check Pemenggalan "soa-raM"/"soaram", "man-jouhon", "i huthon" ditulis mengikuti cetakan di bawah not; "u-nang unang" (refrein) juga apa adanya.
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan soa ram / iring iring (dicetak terpisah di bawah not). Buku tetap acuan. (Pembanding menulis "Buku Logu No. 719"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 719) | https://bukuende.wordpress.com/2013/06/13/hubege-soaram-o-jesus-buku-ende-no-719-buku-logu-no-719/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5,+1 | 3 .+3 4 .+3 | 3 2 . 5,+7, | 2 .+1 3 .+2 |
+2 1 . 1+3 | 5 .+5 6 .+5 | 5 4 .+4 1+2 | 3+5, 3+5, 2 .+1 | 1 . . |]
+> Hu-be-ge soa-raM, O Je-sus hu-be-ge soa-ram O Je-sus hu-be-ge soa ram O Je-sus na man-jou-hon "i hut-hon ma au". _
+> To-gu au Je-sus Tu-han-ku i-ring i-ring ma lang-kang-ku pa-tu-du-hon ma da-lan-Mu a-sa u-nang u-nang li-lu au. _
+#V
+Hubege soaraM, O Jesus hubege soaram O Jesus
+hubege soa ram O Jesus na manjouhon "i huthon ma au".
+Ref : Togu au Jesus Tuhanku iring iring ma langkangku
+patuduhon ma dalanMu asa unang unang lilu au.
+-
+Hupasahat ma diringku, hupasahat ma diringku,
+hupasahat ma diringku mangihuthon Jesus Tuhanki.
+Ref : Togu au . .
+-
+Pargogoi ma au Tuhanku, pargogoi ma au Tuhanku,
+pargogoi ma au Tuhanku lao mamorsan silang na tu au.
+Ref : Togu au . . .

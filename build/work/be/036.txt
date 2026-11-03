@@ -1,0 +1,28 @@
+@be 36
+@bl 4
+@title Pasupasu hami
+@key C
+@meter 4/4
+@credit Christian Gregor, 1764
+@pages 30
+@check Lirik tercetak "ho-hi-mi" (kemungkinan "bohiMi"); ditulis sesuai buku.
+@status Lirik dicek · 4/6 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 4 dari 6 baris sama persis; 2 baris beda ejaan (baris 1–2: “Pasupasu”, “Debatanami”, “hohimi”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 36) | https://bukuende.wordpress.com/2013/06/16/pasu-pasu-hami-buku-ende-no-36-buku-logu-no-4/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 5 1' 6 | (5 4) 3 . :|
+> Pa-su-pa-su ha-mi,
+> O De-ba-ta-na-mi.
+#B
+6 6 2' 1' |
+7 6 5 . v | 1' 5 6 2' | 1' 7 1' . |]
+> Sai son-dang-kon ho-hi-mi tu na pu-ngu on su-de!
+#V
+Pasupasu hami, O Debatanami.
+Sai sondangkon hohimi tu na pungu on sude!
+-
+Lehon ma di hami dame ganup ari,
+Sai pasaor ma tondiMi tu na pungu on sude!
+-
+Amen hudok hami, ale Tuhannami,
+Na marasi roha i sangap ma di goarMi!

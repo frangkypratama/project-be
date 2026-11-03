@@ -1,0 +1,28 @@
+@be 241
+@bl 61
+@title Asal ma Ibana
+@key D
+@meter 4/4
+@credit Heinrich Karl Breidenstein, 1825
+@pages 221
+@status Lirik dicek · 7/9 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan "Burja" (ayat 2) dan "hutaen" (ayat 3); dicek ulang ke scan: tercetak demikian di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 241) | https://bukuende.wordpress.com/2013/06/09/asal-ma-ibana-buku-ende-no-241-buku-logu-no-61/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+5 5 1' (7+6) | (5 4) 3 . v | 3 6 5 #4 |
+5 . v 5 (6+7) | 1' 1' 1' (7+6) | (5 4) 3 . v |
+6 5 (5+4) 3 | 2 (3+2) 2 . v | 7 (6+5) #4 5 |
+1' . 7 . v | 1' (7+2') 1' 5 | 6 5 (5+4) 3 | 2 . 1 . |]
+> A-sal ma I-ba-na sai tong-tong di au, ja-la deng-gan ni ba-sa-na u-nang lu-pa si-an au, ndang be ang-go sa-la, ho-lan las ni ro-ha hu-hi-la-la.
+#V
+Asal ma Ibana sai tongtong di au, jala denggan ni basana
+Unang lupa sian au, ndang be anggo sala,
+Holan las ni roha huhilala.
+-
+Asal ma Ibana, sai tong artangki.
+Tano on ro di artana, ndang be maol di rohangki;
+Burja do rohangku, mangihuthon Jesus i Tuhanku.
+-
+Asal ma Ibana hangoluanki, gabe sude siluana
+Songon na hutaen i; ro pe sorimago,
+Sai hutatap Jesus na di surgo

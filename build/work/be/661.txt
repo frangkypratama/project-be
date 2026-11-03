@@ -1,0 +1,40 @@
+@be 661
+@bl 0
+@title Beta hita ale angka dongan
+@key F
+@meter 2/4
+@credit Syair: Marilah, marilah Hai saudara; HA. Pondopo, 1980 · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Daerah Sumba
+@pages 681 682
+@status Lirik dicek · 13/14 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 3 ("pardangolah" beda ejaan; scan jelas "par-da-ngo-lah"). Pembanding memuat 4 ayat. Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 661" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 661) | https://bukuende.wordpress.com/2013/06/09/beta-hita-ale-angka-dongan-buku-ende-no-661-buku-logu-no-661/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0).
+@check Susunan buku: Refrein (bagian A, s.d. "Fine") dinyanyikan dulu, lalu ayat (bagian B), lalu "Ref : Beta hita ..." diulang.
+@check "Ai" di awal ayat bertanda lengkung (satu suku kata). "par-da-ngo-lah" ditulis seperti tercetak.
+#A
+5+5 | 5 5+5 | 5 5+3 | 3 1 |
+0 1+1 | 2 5+3 | 3 2+1 | 1 . | 0 |]
+> Be-ta hi-ta, a-le ang-ka do-ngan, ta-pa-ti-ur ma na ho-lom i.
+#B
+3+3 | 3+3 3+3 | 3+3 3+2 | 2 1 |
+0 1+1 | 3+2 2+1 | 3+2 2+1 | 1 . | 0 |]
+> Ai to-rop na por-suk na di par-da-ngo-lah na gi-nom-go-man ni ha-ho-lo-mon i.
+#V
+Ref: Beta hita, ale angka dongan,
+tapatiur ma na holom i.
+-
+Ai torop na porsuk na di pardangolah
+na ginomgoman ni haholomon i.
+Ref : Beta hita . . .
+-
+Ai torop na nililianan ni arta,
+alai ndang jumpangsa hasonangan i.
+Ref : Beta hita . . .
+-
+Ai torop do jolma i na marsak roha,
+na mauas di holong ni roha i.
+Ref : Beta hita . . .
+-
+Tanda ma holong ni Debata Amanta,
+dibagasan Jesus Kristus Tuhan i.
+Ref : Beta hita . . .

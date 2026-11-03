@@ -1,0 +1,75 @@
+@be 13
+@bl 213
+@title Nda tama endehononku
+@key Eb
+@meter 4/4
+@credit Johann Schop, 1641
+@pages 11 12 13
+@check Lagu bernada minor (la = 6). Tanda mula di scan terbaca 2–3 mol; dipakai Es (3 mol) karena not 1 = Es dan not ♮B/♮A ditulis sebagai #5/#4.
+@status Lirik dicek · 25/38 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 25 dari 38 baris sama persis; 13 baris beda ejaan (termasuk salah cetak buku “pngondingan”, “n nidabuhonNa”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 13) | https://bukuende.wordpress.com/2013/06/16/nda-tama-endehononku-buku-ende-no-13-buku-logu-no-213/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+6, 1 3 6 | 6 #5 6 6 v | 1' 7 6 5 |
+4 4 3 . :|
+> Nda ta-ma en-de-ho-non-ku Go-ar ni De-ba-tang-ki?
+> Nda ta-ma ha-las-ho-non-ku Deng-gan ni ba-sa-Na i?
+#B
+3 4 5 1 | 4 3 2 2 v | 2 3 4 4 |
+3 3 2 . v | 3 4 5 1 | 4 3 2 . v | 6, 7, 1 7, |
+1 2 3 3 v | 1 2 3 2 | 3 #4 5 . v | 6 7 1' 6 | 6 #5 6 . |]
+> Ai sun ho-long-ni ro-ha-Na mi-da au, par-do-sa on: Di-ra-mo-ti do tong-tong na-po-so-Na sa-lu-hut-na, Ho-long ni ro-ha-Na i, nda tung ha-su-ha-tan i.
+#V
+Nda tama endehononku Goar ni Debatangki?
+Nda tama halashononku Denggan ni basaNa i?
+Ai sun holongni rohaNa mida au, pardosa on:
+Diramoti do tongtong naposoNa saluhutna,
+Holong ni rohaNa i, nda tung hasuhatan i.
+-
+Songon pidong rajauali manjagai anakna i,
+Songon i do dipabali Debatangku jea i,
+Sian au niramotanNa, olat ni na tubu au
+Sai diiringiring au masuk tu harajaonNa.
+Holong ni rohaNa i nda tung hasuhatan i.
+-
+Nang AnakNa sasadasa diseahon Debata.
+Pangoluhon au pardosa, uju i di Golgota.
+Mago au dibaen dosangku jadi ro AnakNa i,
+Manggarari utangki lao mambaen haluaonku,
+Holong ni rohaNa i nda tung hasuhatan i.
+-
+Dohot Tondi Parbadia do disuru Amangki.
+Asa dohot au badia jala tau tu surgo i,
+Naeng gohaNa do rohangku asal sai tongtong torang,
+Sai gok dame nang sonang mandalani dalananku.
+Holong ni rohaNa i nda tung hasuhatan i.
+-
+Dohot haporseanku dilopokkon Tuhanki,
+Tu bagasan ni rohangku patiurhon dalanki,
+Asa sahat musengani au tu hangoluan i
+Na rade di surgo i, Di sude na manjalahi
+Holong ni rohaNa i nda tung hasuhatan i
+-
+Songon i do panarihon ni Debatangki di au;
+Tuhanki do sumarihon nasa na ringkot di au.
+Tondi dohot pamatangku dipangolu Tuhanki.
+Na marasi roha i diramoti di hosangku.
+Holong ni rohaNa i nda tung hasuhatan i.
+-
+Molo masa pangunjunan dipasonggop setan i.
+Debata do pngondingan di au on anakNa i;
+Ai didokkon Debatangku surusuruanNa i,
+Manamparhon jea i asa dao hama goanku.
+Holong ni rohaNa i nda tung hasuhatan i.
+-
+Ganup ari do disesa Debatangku dosangki;
+Ndang hea gotos rohaNa maniopi rimas i.
+Nang pe ingkon pinsangonNa au dibahen dosangki,
+Ndang maposihu disi uhum n nidabuhonNa,
+Holong ni rohaNa i nda tung hasuhatan i.
+-
+Ala na so hasuhatan holong ni rohaM, Amang!
+Tatap ma au on pasidung nasa sangkap ni rohaM
+Di naposoMon, Tuhanku! Pargogoi ma au tongtong
+Mangoloi di tano on nasa na pinatikkonMu,
+Paima Ho pujionki salelenglelengna i.

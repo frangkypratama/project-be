@@ -1,0 +1,36 @@
+@be 470
+@bl 317
+@title Jesus ho nampuna au.
+@key G
+@meter 6/4
+@credit R.L. No. 448 · Lagu: Walfgang Amadeus Mozart 1791
+@pages 448 449
+@check Kredit tercetak "Walfgang Amadeus Mozart 1791" (ejaan lazim: Wolfgang); ditulis sesuai buku.
+@status Lirik dicek · 13/14 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di ayat 4 baris 1 ("dohot i"); scan hlm 449 sesuai buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 470) | https://bukuende.wordpress.com/2013/06/16/jesus-ho-nampuna-au-buku-ende-no-470-buku-logu-no-317/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 1 7, . 5, | 4 . 4 3 . . | 5 . 3 (5 4) 2 | 1 . 3 2 . . |
+1 . 1 (7, .+6,) 5, | 4 . 4 3 . . | 5 . 3 (2 4) 6 | 1 . 7, 1 . 0 |]
+> Je-sus Ho nam-pu-na au Do-hot na a-dong di au Go-go do-hot ho-sang-ki sa-hat ma tu ta-ngan-Mi.
+#V
+Jesus Ho nampuna au Dohot na adong di au
+Gogo dohot hosangki sahat ma tu tanganMi.
+-
+Sai rajai ma matangki manangkasi dalanMi,
+Sai patinggil pinggolhi tumangihon hataMi.
+-
+Dohot tanganki tahe naeng manjama na ture :
+Dohot pat sai naeng tongtong mandalani dalanMon.
+-
+Hata nang soarangki sai rajai ma dohot i,
+Sai denggan huhut sintong baen hatangku sai tongtong.
+-
+Sere, arta, hepeng pe, buat ma di Ho sude :
+Tondi nang pamatangki, ingkon Ho oloan nii.
+-
+Pinangido ma tu Ho rohangki pe dohot do.
+BahenonMu, Tuhanki, tong tu harajaonMi.
+-
+Na dihirim rohangki dohot haholonganki.
+Sai tu Ho ma sahat i, sai na sonang i disi.

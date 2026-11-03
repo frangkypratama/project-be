@@ -1,0 +1,39 @@
+@be 401
+@bl 267
+@title Boasa sai tong di na alang
+@key A
+@meter 6/8
+@credit (tidak dicantumkan di buku)
+@pages 384 385
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Kepala lagu juga mencetak "R.L. No. 160".
+@check Birama 6/8: 1 token = 1 not 1/8. Birama "5..1..1̄" (baris 1) dan "5 1 2̄" (baris 3) di not angka buku tidak pas 6/8; dipakai not balok buku: 5 bertitik (3/8) + 1 (2/8) + 1/2 (1/8).
+@check Bagian ulang (Tanda / Sirang) dengan volta 1 dan 2 ditulis sebagai dua bagian berurutan (B = volta 1, C = volta 2).
+@check Pembanding lirik: bukuende.wordpress.com — 8/12 baris sama; beda di baris 1–4: pembanding menulis "matua" (buku di bawah not: ma | tu-a; teks ayat kini ditulis matua), "tu si", "jeani", dan baris refrein ke-2 tanpa "Sirang" serta "Holong"; scan dicek ulang: buku mencetak "ho-lang" dan "Sirang" (bertumpuk dengan "Tanda"). Pembanding 3 ayat, sama dgn buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 401) | https://bukuende.wordpress.com/2013/06/09/boasa-sai-tong-di-na-alang-buku-ende-no-401-buku-logu-no-267/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 5, 5, 5, 6, 5, #4, | 5, . . 1 . 1 |
+2 2 2 2 1 2 | (3 . . 3 .) 5, | 5, 5, 5, 7, 6, 5, |
+5, . . 1 . 2 | 3 4 3 2 6, 7, | (1 . . 1 .) 0 |
+> Bo-a-sa sai tong di na a-lang, ma-tu-a so pu-tus ro-ham? Ndang gi-ot ho ma-suk tu gin-jang? Pa-to-ngon tu-si ma lang-kam!
+#B
+3 . . 1 . 0 | 1 . . 6, . 0 | 5, 5, 5, 7, 6, 5, | (5, . . 1 .) 0 |
+> Tan-da je-a ni na a-lang ro-ha i
+#C
+3 . . 1 . 0 | 1 . . 6, . 0 | 5, 5, 5, 7, 6, 5, | (1 . . 1 .) |]
+> Si-rang ho-lang dao si-rang da-me do i
+#V
+Boasa sai tong di na alang, matua so putus roham?
+Ndang giot ho masuk tu ginjang? Patongon tusi ma langkam!
+Tanda jea ni na alang roha i,
+Sirang holang dao sirang dame do i.
+-
+Sandok dihilala roham do na porsuk niaemu tongtong
+Sai tong disolsoli roham ho, naung sorat, maheu antong.
+Tiop, tangkup hata na sun denggan i!
+Momos, gomos, mian disi rohami!
+-
+Sai mian ma ho di Tuhanmu na giot mangasii ho,
+Ibana do hasonanganmu, tangihon panjouNa di ho,
+Jalo, auhon, tiop panghophopNa i.
+Asa masa, songgop tu ho dame i!

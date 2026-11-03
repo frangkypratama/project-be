@@ -1,0 +1,44 @@
+@be 864
+@bl 0
+@title Oikumene (Ende UEM*)
+@key F
+@meter 4/4
+@credit Syair / Lagu: Pdt. J.A.U. Doloksaribu 2003 · * UEM: United Evangelical Mission manang Rheinische Mission (RMG) na jolo.
+@pages 947 948
+@status Lirik dicek · 10/15 baris sama dgn pembanding
+@check Pembanding lirik: 10/15 baris sama; beda ejaan/pemisahan kata di baris 4 (namarhaha anggi), 7 (diportibion), 11 (pinilit), 14 (tabean) — scan jelas, ditulis sesuai buku. Ayat 3 di pembanding punya satu baris lagi yang tidak tercetak di buku (buku: 5 baris, berakhir dengan koma).
+@check Pembanding menyebut Buku Logu No. 864; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 864) | https://bukuende.wordpress.com/2013/06/16/oikumene-ende-uem-buku-ende-no-864-buku-logu-no-864/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Lagu ini di bawah judul bagian "ENDE PARUJUNGAN" (lagu terakhir buku).
+@check Ketukan gantung tercetak "5" bergaris atas (1/8); ditulis 0+5 (diam 1/8 tidak tercetak) agar format ketukan pas. Birama akhir "1 . 0 0" tercetak 4 ketuk penuh (balok: 1/2 + diam 1/4 + diam 1/8).
+@check Legato bertitik (opsional) di "5_5" (baris 1), "3_3" (baris 2) dan "3_3" (baris 4). Lirik ayat 1: dua yang pertama diikat (pe, gam), yang ketiga tidak ("mar-ha-ha" = 2 suku kata).
+@check Baris 1 "5 5 3 2" (1/8): angka jelas, tetapi not balok tampak turun A–G–F–E; ditulis sesuai angka.
+@check Ayat 1 hanya tercetak di bawah not; ayat 2–3 tercetak sebagai teks. "A-men" penutup dinyanyikan dengan 1 . . . | 1 . . .
+#A
+0+5 | 5 (5+5) 5+5 3+2 |
+1 1 1 0+2 | 3 (3+3) 3+3 1+3 |
+2 2 2 0+5 | 5 5 5+5 3+2 | 1 3 3 0+3 |
+3 3+3 1+3 2+2 | 1 2 3 0+3 |
+3 3 1+3 2+2 | 1 . 0 0 |]
+> a-sing pe ha-ta nang lu-at-ta be, mar-ra-gam ru-pa nang a-dat-ta be. Sa-da do De-ba-tan-ta, i-ngot be, na-mar-ha-ha ang-gi hi-ta sa-su-de, di Kris-tus sa-da hi-ta be,
+#B
+1 . . . | 1 . . . |]
+> A-men
+#V
+Asing pe hata nang luatta be,
+marragam rupa nang adatta be.
+Sada do Debatanta, ingot be,
+namarhaha anggi hita sasude,
+di Kristus sada hita be, Amen.
+-
+UEM do parsadaan ni hita on,
+pajongjong dame diportibion,
+patindang hatigoran i sintong,
+pararat harajaonNa di son,
+sahat tu liat tano on.
+-
+Hita pinilit ni Tuhanta i,
+urupi ma dongan na pogos i,
+palua angka na tarrante i,
+tabean marnida na mapitung i,
+apuli na mardangol i,

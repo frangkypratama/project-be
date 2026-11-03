@@ -1,0 +1,48 @@
+@be 677
+@bl 0
+@title Mansai lambok
+@key G
+@meter 6/8
+@credit Syair: Softly and tenderly, Will L. Thomson, 1880 · Terj.: Pdt. M. Hutapea/Pdt. J.A.U. Doloksaribu · Lagu: Will Thomson, 1880
+@pages 702 703
+@status Lirik dicek · 19/21 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 4 ("mulakma" disambung) dan baris 7 (ejaan). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 677" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 677) | https://bukuende.wordpress.com/2013/06/16/mansai-lambok-buku-ende-no-677-logu-no-677/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Kotak nomor di samping judul tercetak "577" (judul: "677. Mansai lambok").
+@check Refrein baris 2 birama 2: angka tercetak "3 . 2 1 1 . 7 1" (7 ketuk 1/8); balok = B. A G | G Fis G (6 ketuk) → ditulis mengikuti balok.
+@check Lengkung "2 . . 2" dan "1 . . 1" = not diikat. "sai", "au", "jou", "lao", "ai" = satu suku kata. "4̸" = kres (Cis di balok).
+#A
+3 .+2 1 1 7, 1 | 2 1 6, 6, 5, 0 |
+1 1 1 3 .+2 1 | (2 . . 2) . 0 | 3 .+2 1 1 7, 1 |
+2 1 6, 6, 5, 0 | 1 1 4 3 .+1 2 | (1 . . 1) . . |
+> Man-sai lam-bok Tu-han Je-sus man-jo-u, man-jo-u ho do-hot au, i-da I-ba-na pai-ma ha-ro-ro-mu mu-lak-ma ho do-hot au.
+#B
+5, | (2 . . 2) . 3 | 1 . 2 3 . . | 2 2 2 3 3 #4 |
+5 . #4 4 . . | 3 .+2 1 1 7, 1 |
+2 1 6, 6, 5, 0 | 1 1 4 3 .+1 2 | (1 . . 1) . |]
+> An-tong sai ro ma ho ang-ka na so-rat sai ro ma ho, man-sai lam-bok Tu-han Je-sus man-jo-u par-do-sa mu-lak ma ho.
+#V
+Mansai lambok Tuhan Jesus manjou,
+manjou ho dohot au,
+ida Ibana paima haroromu
+mulakma ho dohot au.
+Ref : Antong sai ro ma ho angka na sorat sai ro ma ho,
+mansai lambok Tuhan Jesus manjou pardosa mulak ma ho.
+-
+Unang ho ganggu dapothon Tuhanmu,
+na manjou ho dohot au,
+jangkon asi ni roha ni Tuhanmu,
+sihophop ho dohot au.
+Ref : Antong sai ro ma ho . . .
+-
+Ngolu ni jolma hatop do lao salpu,
+salpu do ho dohot au
+ai hamatean musu na jumorbut
+mangonggop ho dohot au.
+Ref : Antong sai ro ma ho . . .
+-
+Dijanghon Jesus do angka parjahat
+mulak ma ho dohot au
+dosam sudena ias sesaonna
+muba ma ho dohot au.
+Ref : Antong sai ro ,ma ho . . .

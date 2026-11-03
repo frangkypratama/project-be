@@ -1,0 +1,39 @@
+@be 765
+@bl 0
+@title Nang pe munsat angka dolok
+@key Eb
+@meter 4/4
+@credit Syair & Lagu: NN
+@pages 830 831
+@status Lirik dicek · 5/8 baris sama dgn pembanding
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0.
+@check Birama 2: syair hanya 4 suku kata ("do-lok nang hu" / "la-ngit nang pe") untuk 5 not; suku kata "lok"/"ngit" ditahan ke not berikut (tanda _), tanpa legato tercetak.
+@check Refrein memakai volta: akhiran 1 "1 . . 0 :|" ditulis di akhir bagian B, akhiran 2 "1 . . ." menjadi awal bagian C (disusul penutup "hot do i saut do i").
+@check Penutup: angka "7" dicoret, tetapi balok jelas D♭ (bertanda mol) → ditulis b7 sesuai balok.
+@check Baris 2 refrein: angka "3." (ada titik di kanan bawah), balok = G4 → dibaca 3 biasa.
+@check Pembanding lirik: baris 4 (muba na ni dokNa), 7 (siasii), 8 (hot) beda ejaan; dicek ulang ke scan hlm 830–831, buku sesuai transkripsi. Teks ayat disusun dari suku kata di bawah not (buku tidak mencetak ayat terpisah).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 765) | https://bukuende.wordpress.com/2013/06/16/nang-pe-munsat-angka-dolok-buku-ende-no-765-buku-logu-no-765/ | teks ayat
+#A
+3 .+3 3+3 3+3 | 5 4 3 3+3 |
+2+2 1+1 4 3 | 2 . . 0 | 2 .+2 2+7, 2+5 |
+(7 .+6) 5 5+5 | #4+#4 #4+#4 5 6 | 5 . . . :|
+> Nang pe mun-sat ang-ka do-lok _ nang hu-mun-tal pe ro be-an i ndang ta-ga-mon o-lo mun-sat a-si ro-ha ni Ja-ho-wa i,
+> nang pe ma-go so-got la-ngit _ nang pe ma-go do-hot ta-no i ndang ta-ga-mon o-lo mu-ba na ni dok-Na di ha-ta-Na i.
+#B
+4 .+3 4+.+.+3 4+.+.+3 | 4 . #4 . | 5 .+4 3+.+.+2 3+.+.+4 |
+5 . 3 5+5 | 5 3 . 5+5 | 6 4 . 6+6 |
+5 3 1 2 | 3 . 0 5+3 | 4 4 . 6+4 |
+5 3 . 1+2 | 3 .+5 (4 2) | 1 . . 0 :|
+> Hot do a-si ni ro-ha-Na ro di sa-le leng-le-leng-na nang pe pa-dan ha-da-me-on, tung na so hu-mor-dit do i-do ha-ta ni Ja-ho-wa Tu-han si a-sii ho
+#C
+1 . . . | 5 . (6 b7) | 6 . . . | 1 . . 2 | 3 . . 0 |]
+> ho hot do i saut do i
+#V
+Nang pe munsat angka dolok nang humuntal pe robean i
+ndang tagamon olo munsat asi roha ni Jahowa i,
+nang pe mago sogot langit nang pe mago dohot tano i
+ndang tagamon olo muba na ni dokNa di hataNa i.
+Hot do asi ni rohaNa ro di salelenglelengna
+nang pe padan hadameon, tung na so humordit do i,
+ido hata ni Jahowa Tuhan siasii ho,
+hot do i, saut do i.

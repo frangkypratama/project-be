@@ -1,0 +1,26 @@
+@be 85
+@bl 227
+@title Sai ingoton ni rohangku
+@key F
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 76
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan baris 1 kata ke-7.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 85) | https://bukuende.wordpress.com/2013/06/18/sai-ingoton-ni-rohangku-buku-ende-no-85-buku-logu-no-227/ | 7/8 baris sama
+#A
+1 2 3 3 | 4 (5+4) 3 3 | 5 5 4 4 |
+3 3 2 2 v | 1 2 3 (4+3) | 2 2 1 . |]
+> Sai-i-ngo-ton ni ro-hang-ku Han-sit naung di-taon Tu-han-ku, u-ju i di Gol-ga-ta.
+#V
+Sai ingoton ni rohangku Hansit naung ditaon Tuhanku,
+uju i di Golgata.
+-
+Na so dung adong salaNa gabe ampe tu Ibana
+Dosa ni portibi on.
+-
+Tung so dapot huhatahon, haporsuhon na ditaonhon,
+Holan ala dosangki.
+-
+Ingkon Ho sai oloanku, sipangolu au, Tuhanku,
+Sian nasa rohangkon.

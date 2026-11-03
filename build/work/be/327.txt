@@ -1,0 +1,58 @@
+@be 327
+@bl 103
+@title Aut na saribu hali ganda
+@key F
+@meter 4/4
+@credit Johann Balthasar Konig 1736
+@pages 304 305
+@status Lirik dicek · 25/27 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 8 ("i pe") dan 17 (Umbaen); dicek ulang ke scan hlm 305, buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 327) | https://bukuende.wordpress.com/2013/06/16/marujung-do-nuaeng-saminggu-buku-ende-no-327-buku-logu-no-103/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Judul di kepala lagu "Aut na saribu hali ganda" (nama Logu No. 103); baris pertama lirik "Marujung do nuaeng saminggu".
+@check "nuaeng" pada baris 1 mendapat dua not (nu-aeng) agar jumlah suku kata = jumlah not (17); di buku lirik tercetak "nuaeng" di bawah dua not.
+@check "4*" = Fa naik (not balok: B♮) → #4.
+#A
+0 5 3 5 | 6 5 4 3 | 2 . 1 v 3 |
+2 1 2 3 | 4 3 2 . :|
+> Mar-u-jung do nu-aeng sa-ming-gu, a-lai ba-saM ndang so-ngon i,
+> Ai so-ngon na ni-u-se-hon-Mu pa-su-pa-suM tu ro-hang-ki,
+#B
+0 2 2 2 | 3 5 5 #4 | 5 . 0 5 |
+3 1 6 4 | 3 2 1 . |]
+> Laos so-ngon i tu jo-lo on, naeng to-ngos-on-Mu i tong-tong.
+#V
+Marujung do nuaeng saminggu, alai basaM ndang songon i,
+Ai songon na niusehonMu pasupasuM tu rohangki,
+Laos songon i tu jolo on, naeng tongosonMu i tongtong.
+-
+Hupuji Ho, o Debatangku! mauliate au di Ho.
+Dibaen sude na nilehonMu di au huhut huboto do.
+Las do rohaM di endengki marhitehite Jesus i.
+-
+Tutu, adong do na hutaon saminggu on ditongos Ho.
+Ditumpak Ho do au manaon, i pe godang na denggan do
+Dihorhon na hutaon i: Antong hupuji goarMi.
+-
+Nuaeng adong pangidoanku na ringkot situtu di au :
+Sai unang ingot be dosangku, asi rohaM, urasi au
+Marhitehite mudar ni naung manggarari utangki,
+-
+Ndang ubaonMu na nidokMu, sai hot ma bagabagaMi:
+Pardosa do pangoluonMu, ianggo marsak roha ni,
+Huhut diboan dosa i tu Jesus Kristus, AnakMi,
+-
+I ma tiniop ni rohangku di haporseaonna i,
+Umbaen na las nuaeng rohangku lao paujungkon minggu i:
+Ai nunga sonang rohangki, dibaen pangkirimonna i.
+-
+Alai naung ganda do umurhu dibahen i jumonok do
+Hatiha ni panadingkonku di tano on, tumopot Ho.
+Hobas hian baen tondingki, tumopot hasonangan i.
+-
+Ia tarsunggul au manogot di Minggu na imbaru i.
+marlasniroha ma hutopot bagasMu, parmingguan i,
+Ai jaloonku ma disi hataM na sun badia i.
+-
+Antong nuaeng hian hupuji na naeng lehononMi dope,
+Tarida do pangkaholongi ni rohaMi di au muse;
+Ditogu Ho tu banuaM au sian tahi ni rohaM.

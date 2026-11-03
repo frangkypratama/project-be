@@ -1,0 +1,49 @@
+@be 457
+@bl 308
+@title Bagas ni haholongan
+@key D
+@meter 4/4
+@credit Irma Suntheim 1924
+@pages 437 438
+@check Kepala lagu juga mencantumkan "U.L. No. 240".
+@check Baris "Hupuji holongMi, na so mansohot i" tercetak dua kali (baris 4–5); ayat 2–6 menandainya ":,:".
+@status Lirik dicek · 21/24 baris sama dgn pembanding
+@check Pembanding lirik: L14 (PangondihonNa), L19 (Sui), L23 (sambulonta) beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 457) | https://bukuende.wordpress.com/2013/06/09/bagas-ni-haholongan-buku-ende-no-457-buku-logu-no-308/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 | 3 4 5 6 | 6 . 5 5 | 1' 7 6 5 |
+4 . 3 2 | 3 3 #4 #4 | 5 . 1' . | 7 7 6 6 |
+5 . 0 3 | 3 3 2 3 | 4 . 4 4 | 4 4 3 4 |
+5 . 5 5 | 6 6 7 7 | 1' . 4 . | 3 3 2 2 |
+5 . 0 5 | 6 6 7 7 | 1' . 4 . | 3 3 2 2 | 1 . 0 |]
+> Ba-gas ni ha-ho-lo-ngan naung sun hi-na-ho-long-kon ni De-ba-tan-ta i tu hi-ta jol-ma i, Na tu-at do A-nak-na tu-mo-pot hi-ta jol-ma. Hu-pu-ji ho-long-Mi, na so man-so-hot i. Hu-pu-ji ho-long-Mi, na so man-so-hot i.
+#V
+Bagas ni haholongan naung sun hinaholongkon
+Ni Debatanta i tu hita jolma i,
+Na tuat do Anakna tumopot hita jolma.
+:,: Hupuji holongMi, na so mansohot i. :,:
+-
+Diporsan do dosanta, targantung do singkatta
+Di hau parsilang i, songon parjahat i.
+Na mate do Ibana, hita pinaluaNa.
+:,: Hupuji holongMi, ...
+-
+Na hehe do Ibana, tung saut bagabagaNa.
+Parmonang Jesus i di paraloan i.
+Nang hita pe partohap di ngolu na so monjap
+:,: Hupuji holongMi, .....
+-
+Manaek muse Tuhanta tu lambung ni Amanta,
+PangondihonNa i tarbege do disi.
+Ringkot tongtong rohaNa manait pinaluaNa.
+:,: Hupuji holongMi, ...
+-
+Rohanta diingani, TondiNa mandongani
+Sudena jolma i, naung siseanNa i.
+Sui i do disarihon, tu surgo ditogihon
+:,: Hupuji holongmi, ....
+-
+Na mulak ma Tuhanta; tu langit an langkanta
+Tusi tatomu ma Tuhanta Debata.
+Dung i di sambulonta tandap siteanonta.
+:,: Hupuji holongmi, .....

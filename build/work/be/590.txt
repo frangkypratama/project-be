@@ -1,0 +1,50 @@
+@be 590
+@bl 0
+@title Advent
+@key Eb
+@meter 3/4
+@credit Syair dan lagu: Advent; NN; Terjemahan: Biv. N.A. Sirait
+@pages 573 574 575
+@status Lirik dicek · 14/17 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 (buku memuat "na" di "na marsaringar"), baris ayat 2 "dilangit ni parlangitan" dan "Tuhai" beda; ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 590) | https://bukuende.wordpress.com/2013/06/05/advent-buku-ende-no-590-buku-logu-no-590/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Mat. 24:42-45; 13.
+@check Ayat 2 tercetak "Mandok na ro ma Tuhai i" (kemungkinan salah cetak "Tuhan") — ditulis apa adanya.
+@check Birama "5 . 6" (baris 3) ada noda di bawah angka 6; not balok = C5 → ditulis 6 (bukan 6 rendah).
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not. Bagian B = refrein ("Ref : Advent ....").
+#A
+5, | 1 . 2 | 3 . 5 | 6 . 5 |
+5 . 5 | 1' . 5 | 6 5 6 | 5 . 4 |
+3 . 3 | 2 . 2 | 4 . 6 | 5 . 6 |
+5 . 5 | 2 . 2 | (4 5) 4 | 3 . 2 |
+1 . |
+> Ad-vent i do di ting-ki on na mar-sa-ri-ngar di ta-no on. Ing-kon ra-de o-ro-an i, ma-na-gam Si-pa-lu-a i,
+#B
+5, | 1 . . | (2 1 2) | 3 . . |
+0 0 5 | 6 . 4 | (1' 6) 1' | 5 . 0 |
+0 0 5 | 3 . . | 2 . 3 | 1 . |]
+> Ad-vent, Ad-vent, na ro ma Tu-han i, an-tong ta-gam ma
+#V
+Advent i do di tingki on
+na marsaringar di tano on.
+Ingkon rade oroan i,
+managam Sipalua i,
+Ref : Advent, Advent, na ro ma Tuhan i, antong tagam ma
+-
+Advent, gok olop-olop do
+dilangit ni parlangitan i,
+Mandok na ro ma Tuhai i
+manopot huriaNa i
+Ref : Advent .......
+-
+Advent di tonga borngin do,
+dungo so tung laos tarpodom ho.
+Tompu so panagaman do,
+songon panangko borngin ro,
+Ref : Advent .....
+-
+Advent, advent, advent, advent
+martua do oroanNa i.
+Na bisuk na marroha i,
+marulos hatigoran i.
+Ref : Advent ....

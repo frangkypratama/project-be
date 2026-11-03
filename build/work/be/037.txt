@@ -1,0 +1,21 @@
+@be 37
+@bl 48
+@title Asi ni roha
+@key Eb
+@meter 4/4
+@credit Christian Gregor, 1763
+@pages 30 31
+@check Akhir lirik tercetak "sa-su-de-nade"; dibaca "sasudena". Hanya satu ayat dicetak.
+@check "par-saoran" dibaca 2 suku kata (sao-ran) agar pas dengan jumlah not.
+@status Lirik dicek · 2/3 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 2 dari 3 baris sama persis; 1 baris beda (baris 3: situs tanpa “ma”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 37) | https://bukuende.wordpress.com/2013/06/09/asi-ni-roha-buku-ende-no-37-buku-logu-no-48/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 . 5 5 | 1' . 5 5 | 5 5 6 5 | (5 4) 3 . |
+5 . 5 5 | 1' . 5 . | 6 5 (5 4) | 3 . . 0 | 5 . 5 5 | 1' . 5 5 |
+(5 4) 3 v 5 | 4 3 2 1 | 6 5 4 3 | 2 . 1 . |]
+> A-si ni ro-ha ni Tu-han Je-sus Kris-tus, Ho-long ni ro-ha ni De-ba-ta Do-hot par-sao-ran ni Ton-di ma man-do-nga-ni Hi-ta sa-su-de-na
+#V
+Asi ni roha ni Tuhan Jesus Kristus,
+Holong ni roha ni Debata
+Dohot parsaoran ni Tondi ma mandongani Hita sasudena

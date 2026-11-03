@@ -1,0 +1,42 @@
+@be 752
+@bl 0
+@title Tuhan, patulus ma sangkapMi
+@key F
+@meter 9/4
+@credit Syair: Have Thine Own way, George C. Stebbins · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Adelaide A. Pollard.
+@pages 810 811
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 4 ("diho") dan 8 ("mangaradoti", "nidok Mi") beda ejaan; terbaca jelas di scan hlm 810–811, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 752) | https://bukuende.wordpress.com/2013/06/18/tuhan-patulus-ma-sangkapmi-buku-ende-no-752-buku-logu-no-752-2/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanda mula 1 mol (F mayor), not pertama 3 = A4 → 1 = F.
+@check Kredit ditulis seperti buku; lazimnya syair "Have Thine Own Way" oleh Adelaide A. Pollard dan lagu (ADELAIDE) oleh George C. Stebbins — tampaknya tertukar di buku.
+@check Birama 1: angka "3 . ." (3 ketuk), balok tampak 1/2 tanpa titik — ditulis 3 ketuk sesuai angka (birama 9/4 jadi penuh).
+@check Birama 6: angka "4" bertitik di atas, balok = Bes4 (bukan oktaf atas) → ditulis 4.
+@check Baris lirik ayat 1 memenggal "a-u" (2 suku kata pada dua not) — ditulis seperti di bawah not.
+#A
+3 2 3 | 4 . . 3 . . 1 7, 1 |
+(2 . . 2 . .) 2 #1 2 | 3 . . 2 . . 2 1 7, |
+(1 . . 1 . .) 3 2 3 | 4 . . 3 . . 5 #4 5 | (6 . . 6 . .) 6 7 6 |
+5 . . 3 . . 2 1 2 | (1 . . 1 . .) |]
+> Tu-han pa-tu-lus ma sang-kap-Mi tu a-u on na ti-nom-pa-Mi tom-pa ma au hom-bar tu lo-moM gu-ru di-ho ma san-dok au on.
+#V
+Tuhan patulus ma sangkapMi
+tu au on na tinompaMi
+tompa ma au hombar tu lomoM
+guru diho ma sandok au on.
+-
+Tuhan patulus ma sangkapMi,
+parbadiai ma pingkiranki
+sai pargogoi au tinobusMi
+mangaradoti na nidok Mi.
+-
+Tuhan patulus ma sangkapMi
+parbadiai ma pingkiranki
+holan alani denggan basaM
+tarbaen au bongot tu banuaM.
+-
+Tuhan patulus ma sangkapMi
+sai togu-togu ma langkangki
+gohi ma au dohot TondiMi
+tongtong Ho mian dirohangki.

@@ -1,0 +1,29 @@
+@be 444
+@bl 404
+@title Bona ni ngolungku
+@key D
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 426 427
+@check Kepala lagu juga mencantumkan "R. No. 253".
+@check Baris 2 birama 3 tercetak "6 5 1 7" tanpa titik atas pada 1; not balok = D5 → ditulis 1'.
+@check Baris 3 birama 1 "6 . 1 1 7 · 6": titik kecil di antara 7 dan 6 dianggap noda cetak (empat not 1/8 sesuai garis atas, jumlah ketukan 4).
+@status Lirik dicek · 8/8 baris sama dgn pembanding
+@check Pembanding lirik: semua sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 444) | https://bukuende.wordpress.com/2013/06/09/bona-ni-ngolungku-buku-ende-no-444-buku-logu-no-404/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3+4 #4+5 | 6 5 1' 1' | 7 . 2+3 4+#4 |
+6 5 2' 2' | 1' 0 3+4 #4+5 | 6 5 1' 7 |
+6 . 1'+1' 7+6 | 6 5 4 7, | 1 0 |]
+> Bo-na ni ngo-lung-ku Ho do i, ha-la-las ni ro-ha, Tu-han-ki, si-an Ho do na-sa go-gong-ki. Mu-al ni na deng-gan, Ho do i.
+#V
+Bona ni ngolungku Ho do i, halalas ni roha, Tuhanki,
+Sian Ho do nasa gogongki. Mual ni na denggan, Ho do i.
+-
+Jesus, Ho do haholonganki, hatiuron sian ginjang i
+Holan Ho tongtong pujionki.
+Mual ni na denggan, Ho do i.
+-
+Jesus, Ho do hasonanganki, na mamboan au tu surgo i
+Holan Ho do dalan lao tusi, Mual ni na denggan.
+Ho do i.

@@ -1,0 +1,46 @@
+@be 67
+@bl 12
+@title Hamu, ale donganku
+@key A
+@meter 3/4
+@credit Nikolaus Seinecker, 1587
+@pages 58 59
+@status Lirik dicek · 17/20 baris sama dgn pembanding
+@check Judul di kepala lagu "Tapuji ma Tuhanta" (nama lagu Logu No. 12, sama dengan BE 16); judul di sini memakai baris pertama lirik.
+@check Buku menulis "Seinecker"; ejaan lazim Nikolaus Selnecker.
+@check Pembanding lirik: bukuende.wordpress.com — 17 dari 20 baris sama persis; 3 baris beda ejaan (ayat 5 "dibaen", ayat 9 "umarga", ayat 10 "Tumaean"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 67) | https://bukuende.wordpress.com/2013/06/13/hamu-ale-donganku-buku-ende-no-67-buku-logu-no-12/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 1 . 7, | 6, . 1 | 2 . . | 1 . v 1 | 1 . 2 | 7, . 2 | 1 . . |
+7, . v 7, | 1 . 1 | 2 . 3 | 2 . . | 2 . v 3 | 4 . 3 | 2 . 1 | 2 . . | 1 . |]
+> Ha-mu, a-le do-ngan-ku, sai ti-ru ma ha-tang-ku, ma-mu-ji De-ba-tan-ta, na pa-ngo-lu-hon hi-ta
+#V
+Hamu, ale donganku, sai tiru ma hatangku,
+Mamuji Debatanta, na pangoluhon hita
+-
+Sai songon na mardalan, tabolus angka taon;
+Disi dope hosanta, diudut Debatanta.
+-
+Ai songon inaina, manjaga anakkonna,
+Laos songon i Tuhanta, dijaga do hosanta.
+-
+Tutu do Tuhannami, ndang haramotan hami
+Satongkin tondinami, nang pe pamatangnami.
+-
+Pinuji ma goarMu dibaen sude basaMu,
+Manatap na hasea, di hami na marjea.
+-
+Asi rohaM, o Tuhan, tangihon pangidoan,
+Na hupasahat hami tu Ho, o Tuhannami.
+-
+Ramoti hosanami ro di pamatangnami.
+Padao ma parsahiton, nang jea pe, o Tuhan!
+-
+Tumpahi na niula, di hauma nang di huta,
+Pasingkop bohalnami, mangudut ngolunami.
+-
+Sai dohot na umarga sian saluhut arta
+Tu hami ma tumpakkon, i ma tondiM, o Tuhan.
+-
+Togihon hami sahat tu hangoluan sogot,
+Tumaean hasonangan na di banuaginjang.

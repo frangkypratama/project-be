@@ -1,0 +1,42 @@
+@be 338
+@bl 54
+@title Hehe do muse
+@key Bb
+@oct -1
+@meter 3/4
+@credit Karl Heinrich Graun 1759
+@pages 316 317
+@status Lirik dicek · 14/15 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 14 (mariaia); dicek ulang ke scan hlm 317, buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 338) | https://bukuende.wordpress.com/2013/06/13/hehe-do-muse-buku-ende-no-338-buku-logu-no-54/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check "4*" = Fa naik (not balok: E♮) → #4.
+@check Birama "1 7 1 2 1" (baris 3): not balok 1/8 + dua 1/16 berbalok lalu legato ke 2' (1/4) dan 1' (1/4). Agar jumlah suku kata pas, "ni" dinyanyikan pada 1'-7-1'-2' (melisma) — legato buku hanya tercetak 1'-2'; mohon dicek.
+@check Birama "1 . 2 3 0 1" (baris 4): not balok 1' 1/8 bertitik + 2' 1/16 legato ke 3' (1/4), diam 1/8, 1' 1/8; "ya" dinyanyikan pada 1'-2'-3'.
+#A
+(5 1') 6 | (5 7) 1' | 2'+.+.+4' 3' 2' | (1' 7) v 1' |
+(6 5) 1' | (6 5) 4 | (4 3) 0 | 3 1' (7+6) |
+> He-he do mu-se pa-ma-tang-kon si-an ta-no-man on; su-ang ma
+#B
+(5 #4) 5 v | 5 6 7 | (1'+.+7+1' 2') 1' | 1' 7 0+1' |
+(2' 1') 7 | (1'+.+.+2' 3') 0+1' | (2' 1') 7 | 1' . 0 |]
+> ngo-lu ba-he-non ni Tu-han-ku. Ha-le-lu-ya! Ha-le-lu-ya!
+#V
+Hehe do muse pamatangkon sian tanoman on;
+suang mangolu bahenon ni Tuhanku.
+Haleluya! Haleluya!
+-
+Na sinabur doshon eme i sude na mate i,
+Na ro ma muse pangubung di na mate,
+Tuhanta i, Tuhanta i.
+-
+Paninaran di matanta i do haheheon i,
+Dung singkop modom au dibagasan tano,
+Tarsunggul au, tarsunggul au.
+-
+Beha ia ari na denggan! Alai na sun denggan sijaloonta
+Di lambung ni Tuhanta.
+Haleluya Haleluya.
+-
+Na ditogu Jesus do au on tu joro na tongtong,
+Na sun badia, asa mariaia
+Saleleng ni lelengna i.

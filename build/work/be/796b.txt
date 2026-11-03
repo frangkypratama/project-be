@@ -1,0 +1,52 @@
+@be 796
+@variant b
+@bl 0
+@title Asi ni rohaM do
+@key F
+@meter 4/4
+@credit Syair: Ja ich will euch tragen; Jochen Klepper, 1938 · Terj.: Dcs. Bonaria Hutabarat · Lagu: Samuel Rithenberg, 1939
+@pages 874
+@status Lirik dicek · 7/14 baris sama dgn pembanding
+@check Pembanding lirik: baris 2, 3, 4, 8, 10, 13, 14 beda (ejaan/kata); dicek ulang ke scan hlm 874, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 796b) | https://bukuende.wordpress.com/2013/06/09/asi-ni-roham-do-buku-ende-no-796b-buku-logu-no-796b/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Kepala lagu: "796b. Asi ni rohaM do" (Jes. 46:3, 4). Versi a ada di BE 796.
+@check Buku tidak mencetak "Logu No." untuk lagu ini; ditulis 0 (tidak dicantumkan).
+@check Birama berganti 4/4 → 6/4 → 4/4 di tiap baris (tercetak di not balok); ditulis per bagian. Birama 6/4: angka "1 .1 2 .2" = balok F½ F¼ G½ G¼; "2 1 2 . 2 ." = balok G¼ F¼ G½ G½.
+@check Kredit ditulis seperti buku ("Samuel Rithenberg"; ejaan lazim Rothenberg).
+#A
+3 2 1 7, | 6, . 5, . |
+> A-si ni ro-haM do
+#B 6/4
+1 . 1 2 . 2 |
+> na ma-ngom-pa
+#C 4/4
+3 . . . |
+5 5 6 5 | 4 . 3 . |
+> au sa-hat ro di sur-go
+#D 6/4
+2 1 2 . 2 . |
+> a-si-an-Mu
+#E 4/4
+1 . . . |]
+> au.
+#V
+Asi ni rohaM do na mangompa au
+sahat ro di surgo asianMu au.
+-
+Ro di na ubanon sian posongki
+Ho do mandongani au pinilitMi.
+-
+Sai pasautonMu baga-bagaMi
+abing-abingonMu au na loja i.
+-
+Ho do Sipalua na mangompa i
+ndang hea tarhirim partangiang i.
+-
+Lan do naung jumolo niasianMi.
+hot do asi roha sijaloonki.
+-
+Ndang porlu holsoan au dingolungki
+sasude boi tupa di dok hataMi.
+-
+Songon na sai laon dipangompaMi
+tuk hagogoonMu patupahon i.

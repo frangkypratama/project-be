@@ -1,0 +1,71 @@
+@be 330
+@bl 191
+@title Di tano on mardagang au
+@key Eb
+@meter 4/4
+@credit Friedrich adolf Lampe 1729
+@pages 307 308 309
+@status Lirik dicek · 30/36 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 6 (Pardalan niba, jalhu), 17 (marnongot), 18 (nahian), 27 (siolma), 28 (rohangkon), 33 (donganki); dicek ulang ke scan hlm 308–309, buku dipertahankan. Pembanding menulis Buku Logu No. 192, buku mencetak No. 191.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 330) | https://bukuende.wordpress.com/2013/06/13/di-tano-on-mardagang-au-buku-ende-no-330-buku-logu-no-192/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama "3 . ’ 5 ." (baris 2): angka 5 (Bes), tetapi not balok tampak C5 (= 6). Ditulis mengikuti angka — mohon dicek.
+@check Birama "1 . . ’": not balok 1 penuh (4 ketuk), tanda napas tercetak di tempat titik ketiga → ditulis "1 . . . v".
+@check Birama "1 3 . 4" (hlm 308 baris 1): not balok 1 = 1/2, 3 dan 4 = 1/4 → ditulis "1 . 3 4" (sama dengan birama serupa di baris berikut).
+@check Birama "3 . 2": not balok dua not 1/2 → ditulis "3 . 2 .".
+@check "4*" = Fa naik (not balok: A♮) → #4.
+#A
+1 . | 5 4 3 2 | 1 . 2 . | 3 . v 3 . |
+6 6 5 3 | 5 . 4 . | 3 . v 5 . | 4 3 2 5 |
+> Di ta-no on mar-da-gang au; sam-bu-lo-ni-ba di na dao, i ma Je-ru-sa
+#B
+4 3 2 . | 1 . . . v | 1 . 3 4 | 5 . 6 . | 5 #4 5 . v |
+1 . 3 4 | 5 . 6 . | 5 #4 5 . v | 1' . 7 6 |
+> lem na u-li. De-ba-ta pa-o-jak-kon i di mu-dar ni A-nak-na i; tu-si ma
+#C
+5 . 3 . | 4 5 6 . | 5 . 0 0 | 5 . 5 4 | 3 . 6 . |
+6 4 3 . | 0 0 1 . | 3 5 2 4 | 3 . 2 . | 1 . |]
+> lao ton-ding-ku mu-li. Di ta-no on mar-da-gang au, sam-bu-lo-ni-ba di na dao.
+#V
+Di tano on mardagang au; sambuloniba di na dao,
+i ma Jerusalem na uli.
+Debata paojakkon i di mudar ni Anakna i;
+tusi ma lao tondingku muli.
+Di tano on mardagang au, sambuloniba di na dao.
+-
+Pardalan niba doras do, laos songon i jalhu ro;
+Naung salpu i ndang haulahan, silu do suda bohalhon,
+Urasi, Jesus rohangkon huhut patonggor parnidaan.
+Manggotap roha tano i, mareak na di surgo i.
+-
+Matua maol do dalan i, atik pe lao tu surgo i :
+Lan do jagaon ni rohangku, gogot do dalan, musu i
+Mangambat au, unang tusi jotjot do na tartuktuk pathu,
+Huhut lungun do dalan i, jut situtu do rohangki.
+-
+Jotjot hurangan rohangki di sondang ni Tuhanta i.
+Na sian asi ni rohaNa, disi marparmaraan au,
+Adian pe so dapot au; alai na lupa do susana,
+Di na marnongot tondingki di surgo, sitopoton i.
+-
+O Jesus, Debata hian, na gabe jolma nahian
+Pardagang situtu donganku, nuaeng ma sian hataMi
+Tu au tuduhon bogasMi, lam jonok baen tu Ho rohangku.
+Tongtong do habang ngolungkon, silu ma topot anakMon.
+-
+Gomgomi daging, tondingki marhitehite tondiMi;
+Patongtong rohangkon manahan.
+Jotjot do tarsulandit au,pahehe au, togihon au,
+Ondingi au di parmaraan, sondangi dohot asiMi
+Rohangku di na holom i.
+-
+Tung naeng mandate tondingki dibahen siolma, Jesuski,
+Tu Ho, pasabam ma rohangkon, disi mapitpit matangkon,
+Tu Ho ma alap anakMon tu pansohotan ni arsakku:
+Disi ma au di lambungMi
+Pedanmu jala donganMi.
+-
+Pardagang au di tano on, na buro di portibi on,
+Di surgo do alealengku, disi ma dohot donganki
+Naeng pujionku goarMi, paboa holong ni rohangku.
+O Jesus, Sipalua au.
+Tibu ma ro, masihol au.

@@ -1,0 +1,37 @@
+@be 210
+@bl 109
+@title O Tuhan, na marasi roha
+@key A
+@meter 3/4
+@credit Philipp Friedrich Hiller, 1769
+@pages 190 191
+@status Lirik dicek · 12/15 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 15 baris sama; baris 1 & 8 beda ejaan; baris 5 beda ejaan + 1 kata berbeda. Pembanding mencatat Buku Logu No. 100; kepala lagu di buku tercetak No. 109. Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 210) | https://bukuende.wordpress.com/2013/06/16/o-tuhan-na-marasi-roha-buku-ende-no-210-buku-logu-no-100/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Buku mencantumkan "Philipp Friedrich Hiller" sebagai pencipta lagu; Hiller lazimnya dikenal sebagai penulis syair.
+#A
+5, 1 2 | 3 . 3 | (4 3) 2 | 3 1 . v | 5 4 3 |
+2 . (1+2) | 3 . 2 | 1 . . v | 2 2 3 | 2 . 1 | 7, . 6, | 7, 5, . |
+2 3 2 | 2 . 1 | 7, . 6, | 5, . . v | 5, 1 2 | 3 . 3 |
+(4 3) 2 | 1 . . v | 5 4 3 | 2 . (1+2) | 3 . 2 | 1 . . |]
+> O Tu-han, na mar-a-si-ro-ha, na so tar-do-do jol-ma i, to-rop do ha-lak si-par-do-sa na rap ma-mu-ji go-ar-Mi. Di-baen ba-saM na go-dang i mar-hi-te-hi-te Je-sus i.
+#V
+O Tuhan, na marasiroha, na so tardodo jolma i,
+Torop do halak sipardosa na rap mamuji goarMi.
+Dibaen basaM na godang i marhitehite Jesus i.
+-
+Dibahen Ho do pardengganan, pasaehon dosa i sude;
+I do mangkorhon haluaon di hami na tarjea i.
+I pe mauliate ma au on di Ho, o Debata!
+-
+Naung ro do Tondi Parbadia tu huriaM sinuruMi,
+Manunggul roha na porsea di nasa na pinilitMi.
+Mamuji Ho do ala ni rohangku na imbaru i.
+-
+Mauliate ma rohangku dibaen na pinarbagaMi:
+Ndang olo asi ni rohaMu mansohot salelengna i.
+Sai hot do padan binaenMi, nang pe na sego sasude.
+-
+Nang hangoluan, hamatean na hansit nang na porsuk i,
+Na so tarbaen do i manirang au sian hahoholongMi,
+Na dibagasan Jesus i, ai na burju do rohaMi.

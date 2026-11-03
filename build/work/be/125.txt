@@ -1,0 +1,34 @@
+@be 125
+@bl 82
+@title Marlasniroha hita on
+@key C
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 112 113
+@status Lirik dicek · 7/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 12 baris sama; 5 baris beda (ay1 b2 kata berbeda; sisanya ejaan/kata hilang, kemungkinan dari pengulangan :,:). Ay1 b2 ("tu Tuhanta") dan ay2 b1 dicek ulang ke scan: transkripsi sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 125) | https://bukuende.wordpress.com/2013/06/16/marlasniroha-hita-on-buku-ende-no-125-buku-logu-no-82/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama 4: not "1" di akhir birama tampak di garis E4 pada not balok buku; mengikuti angka (C4).
+@check Birama 6 "7 . 6 5 5⌒7": 5–7 dibaca not 1/2 ketukan agar genap 4 ketuk.
+#A
+5 | 1' .+5 3 1 | 5 5 5 v (5+7) | 2' .+1' (7+6) (5+4) |
+(4 3) 0 1 | 2 5 5 1' | 7 .+6 5 v (5+7) | 2' 1' 7 6 |
+5 .+4 3 v (5+4) | 3 1 3 5 | 1' .+2' 3' v 5 |
+6 2' 1' 7 | 1' . v 2' . | 3' (1'+6) 5 7 | 1' . . |]
+> Mar-las-ni-ro-ha hi-ta on, ma-mu-ji De-ba-ta: Ai a-si ni ro-ha-na i do bon-got tu Tu-han-ta i, Um-baen nu-aeng mar-do-mu-i-di son sa-da-ri on. Di-son sa-da-ri on,
+#V
+Marlasniroha hita on, mamuji Debata:
+Ai asi ni rohana i do bongot tu Tuhanta i,
+Umbaen nuaeng mardomu i dison sadari on. :,: Dison sadari on.
+-
+Dibahen i manggogo be ma hita on sude.
+Mamuji Tuhan Jesus i, parasiroha godang i,
+Sibaen las ni rohanta i, :,: Nuaeng nang sogot pe. :,:
+-
+Alai taingot ma huhut mambaen sangap tongtong
+Barita ni Tuhanta i marhite parangenta i
+Di jolo ni donganta i, :,: Diatas tano on.
+-
+O, Jesus, tatap hami on, sai pargogoi sude
+Marhitehite tondiMi pasauthon angka patikMi,
+Mambaen rarat haritaMi :,: Di nasa jolma pe.

@@ -1,0 +1,43 @@
+@be 627
+@bl 0
+@title Jesus naung hehe
+@key F
+@meter 3/4
+@credit Syair: Infurahimi, Haleluya; Bernard Kymanywa · Terj.: Pdt. W. P. Tampubolon/Pdt. M. Hutapea · Lagu: Haja Tanzania Melodi
+@pages 633 634
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Luk. 24:6-9.
+@check Bagian ayat dicetak satu kali dengan 2 baris lirik (dinyanyikan 2 kali) → ditulis dengan tanda ulang.
+@check Refrein baris 3: angka tercetak "1 744 1" (noda cetak) dan "1 ." di akhir; balok = F setengah + F, lalu F setengah bertitik → ditulis 1 . 1 dan 1 . . .
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 2 (Tuhanta), ayat 2 baris 1 ('na' tambahan), ayat 3 baris 2 (di tanoman), ayat 4 baris 2 (panghophoponNa) berbeda. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 627) | https://bukuende.wordpress.com/2013/06/16/jesus-naung-hehe-buku-ende-no-627-buku-logu-no-627/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, 5, 5, | 1 . 1 | 3 2 2 | 1 . . |
+2 3 4 | 3 . 1 | 7, 1 2 | 1 . . :|
+> Je-sus naung he-he Ha-le-lu-ya pu-ji en-de-hon Ha-le-lu-ya,
+> ha-mo-na-ngan ni Tu-han-ta i na-ma-na-lu-hon si bo-lis i.
+#B
+5 5 5 | 5 2 3 | 4 4 4 | 3 . . |
+5 5 5 | 5 2 3 | 4 4 4 | 3 . . |
+5, 5, 5, | 1 . 1 | 3 2 2 | 1 . . |
+2 3 4 | 3 . 1 | 7, 1 2 | 1 . . |]
+> Las ma ro-ham pu-ji ma Tu-han i a-la naung ta-lu ha-ma-te-an i se-sa do-san-ta ha-le-lu-ya ma-ngo-lu Je-sus ha-le-lu-ya.
+#V
+Jesus naung hehe Haleluya puji endehon Haleluya,
+hamonangan ni Tuhanta i namanaluhon si bolis i.
+Ref.: Las ma roham puji ma Tuhan i
+ala naung talu hamatean i
+sesa dosanta haleluya
+mangolu Jesus haleluya.
+-
+Di ari na patoluhon i, maloha do tanomanNa i
+Jesus Raja hangoluan i, na patundukhon sibolis i.
+Ref.: Las ma roham . . .
+-
+Bege nidok ni suruan i, i da hamu ma ulos na on
+ndang di tanoman be Tuhan i, unang mabiar be hita on.
+Ref.: Las ma roham . . .
+-
+Tabaritahon Tuhanta i, na hehe jala mangolu i
+singkop do panghophoponNa i, di hita jolma pardosa i.
+Ref.: Las ma roham . . .

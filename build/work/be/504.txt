@@ -1,0 +1,33 @@
+@be 504
+@bl 344
+@title Ditogu Tuhan Jesus au.
+@key D
+@meter 4/4
+@credit William B Bradbury 1868
+@pages 476 477
+@status Lirik dicek · 5/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 5 dari 10 baris sama; beda: L2, L3, L5 (linggom/humatean), L7 (tanganki), L10 (penanda refrein). Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 504) | https://bukuende.wordpress.com/2013/06/13/ditogu-tuhan-jesus-au-buku-ende-no-504-buku-logu-no-344/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "Ev. S. No. 38.".
+@check Ayat 2–4 hanya mencantumkan awal refrein "Ditogutogu ...." (ayat 2 tercetak "Ditogutog ....").
+#A
+5 | 3 .+2 1 5 | 6 4 4 6 | 5 3 3 (2+1) |
+3 3 2 v 5 | 3 .+2 1 5 | 6 4 1' (7+6) |
+5 3 (3+2) (1+2) | 3 .+2 1 v 5 | 5 1' 7 2' |
+1' (7+6) 5 6 | 5 3 (3+2) (1+2) | 3 3 2 v 5 |
+5 1' 7 2' | 1' (7+6) 5 6 | 5 3 (3+2) (1+2) | 3 .+2 1 |]
+> Di-to-gu Tu-han Je-sus au, i do na ma-nga-pu-li au. Di-ga-nup da-lan nang tung maol. ta-ngan-Na do tong-tong hu haol. Di-to-gu-to-gu Je-sus au, ta-ngan-na sai ma-ni-op au tong-tong ma si-se-an-Na au, pa-i-ma boi tu sur-go lao.
+#V
+Ditogu Tuhan Jesus au, i do na mangapuli au.
+Diganup dalan nang tung maol. tanganNa do tongtong hu haol.
+Ditogutogu Jesus au, tanganna sai maniop au
+tongtong ma siseanNa au, paima boi tu surgo lao.
+-
+Holom pe angka dalan i, di linggom humatean i,
+Tiur pe angka ari i, tung guru do di Tuhanki, Ditogutog ....
+-
+Gomos ditiop tanganki, so tung na silap langkangki.
+Di nasa parsorionki, Ibana haporusanki. Ditogutogu....
+-
+Ditanda angka dalanki, diboto parmaraan nii,
+TanganNa i, na gogo i, manogu au tu surgo i. Ditogutogu...

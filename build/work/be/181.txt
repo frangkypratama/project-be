@@ -1,0 +1,34 @@
+@be 181
+@bl 147
+@title Ndada tarhatahon
+@key Bb
+@meter 4/4
+@credit Ernst Spindler
+@pages 163 164
+@check Judul di kepala lagu "Ndada tarhatahon", baris pertama lirik "Ndangna tarpaboa".
+@check Titik oktaf di angka tidak konsisten (Bes4 kadang "1", kadang "1̇", C5 tercetak "2̇"); oktaf mengikuti not balok buku (do = Bes4).
+@check Birama 10: "7*" dibaca b7 (As) sesuai tanda mol di not balok.
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 1, 4, 9 beda ejaan 1 kata (mis. "Ndangna"); buku dipakai, belum dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 181) | https://bukuende.wordpress.com/2013/06/16/ndang-na-tarpaboa-buku-ende-no-181-buku-logu-no-147/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+5, 3, 5, 1 | 1 . (7, 1) | 2 5, 6, 5, | 3 . . 0 |
+3 1 (7,+2) (1+6,) | 2 . (2 1) | 7, (6,+7,) 1 6, | 5, . 0 0 |
+5, 5, 1 5, | (6, .+b7,) 6, 0 | 6, 6, 2 .+1 | 7, . 0 0 |
+1 1 3 1 | 6, 4 3 2 | 1 . 7, . | 1 . 0 0 |]
+> Ndang-na tar-pa-bo-a a-si ro-ha-ni De-ba-ta Ja-ho-wa mi-da jol-ma i; So tar-tim-bang i-ba do-sa i su-de, na bi-na-hen ni-ba ga-nup a-ri pe.
+#V
+Ndangna tarpaboa asi rohani
+Debata Jahowa mida jolma i;
+So tartimbang iba dosa i sude,
+Na binahen niba ganup ari pe.
+-
+Sai husomba hami Ho, ale Tuhan:
+Sesa dosanami sai asi rohaM!
+Mombun baen rimasMu mida hami on,
+Huihuthon hami Ho tu jolo on.
+-
+Sai dongani hami na mardagang i;
+Roha nang pamatang sai ramoti i
+Ho do Amanami na sumurung i,
+Pangalualuan salelengna i.

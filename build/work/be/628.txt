@@ -1,0 +1,33 @@
+@be 628
+@bl 0
+@title Langit nang tano tiur sasude
+@key F
+@meter 3/4
+@credit Syair dan Lagu: NN · Terjemahan: Dcs. Bonaria Hutabarat
+@pages 634 635
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Mat. 28:6.
+@check Birama 9 tercetak "3. 2 3" — titik setelah 3 hanya noda; balok = tiga not 1/4.
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 3 baris 3 (hariuron) beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 628) | https://bukuende.wordpress.com/2013/06/16/langit-nang-tano-tiur-sasude-buku-ende-no-628-logu-no-628/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 2 3 | 5 3 2 | 1 7, 6, | 5, . . |
+5, 7, 1 | 2 7, 5, | 1 1 2 | 3 . . |
+3 2 3 | 5 .+3 1 | 4 4 5 | 6 . . |
+5 . 3 | (5 4) 2 | 2 . . | 1 . . |]
+> La-ngit nang ta-no ti-ur sa-su-de di ba-ri-ta-hon tu hi-ta a-le naung he-he Je-sus Si-par-mo-nang i. Sla-mat a-ri ming-gu.
+#V
+Langit nang tano tiur sasude
+di baritahon tu hita ale
+naung hehe Jesus Siparmonang i.
+Slamat ari minggu.
+-
+Jesus na mate di hau silang i
+hehe di ari patoluhon i
+talu sibolis hamatean i
+Slamat ari minggu.
+-
+Molo porsea Ho di Jesus i
+taruli ho di haheheon i
+di hariuron salelengna i.
+Slamat ari minggu.

@@ -1,0 +1,59 @@
+@be 571
+@bl 0
+@title Parangan pardisurgo
+@key Ab
+@meter 3/4
+@credit Syair: All hail the power of Jesus Name; Edward Perronet, 1779; Terj.: dt. J. A. U. Doloksaribu; Lagu: James Ellor & Oliver Holden, 1792
+@pages 542 543 544
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Psalm. 8 : 2, Pang. 19 : 16.
+@check Kredit tercetak "Terj. : dt. J. A. U. Doloksaribu" (huruf P hilang) — ditulis apa adanya.
+@check Refrein: "sa" pada "Pa-sa-ngap" dinyanyikan melisma panjang (lengkung dari 4 . 3 2 4 sampai 1), lirik tercetak "Pa - sa - - - ngap".
+@check Birama refrein ke-3 "2 . 1 7 2": 7 tercetak tanpa titik bawah, balok = G4 → ditulis 7, (oktaf bawah).
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@status Lirik dicek · 12/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (kata 'i' sesudah pardisurgo, dicek ulang di scan: tercetak), 4, 5 beda ejaan, 12 kata pertama beda (scan: "sai las ma rohami"); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 571) | https://bukuende.wordpress.com/2013/06/16/parangan-pardisurgo-buku-ende-no-571-buku-logu-no-571/ | teks lirik
+#A
+5, | 1 . 2 | (3+.+.+4 5) 1 | (2 1) 7, |
+1 .+(7, 6,) | 5, .+6, 6,+6, | (5, 1) 1 | (6, 4) 4 |
+3 . 2 | 1 . (1+2) | 3 . 3 | (3 2) 1 |
+(2 1) 7, | (1+.+.+2 3) |]
+> Pa-ra-ngan par-di-sur-go i ta-som-ba Tu-han i ta-som-ba Tu-han i pa-sa-hat ma tum-pal-na-i.
+#B
+5 | (4 .+3 2+4 |
+3 .+2 1+3 | 2 .+1 7,+2 | 1) 1 0 |
+4 4 0 | 2 2 0 | 3 3 5 |
+(1+.+.+2 3) 4 | 3 . 2 | 1 . 0 |]
+> Pa-sa-ngap sa-ngap sa-ngap pa-sa-ngap ma go-ar-Na i
+#V
+Parangan pardisurgo i tasomba Tuhan i
+tasomba Tuhan i pasahat ma tumpalna i.
+Ref.: Pasangap sangap sangap pasangap ma goarNa i
+-
+Parangan parlangitan i, pasangap Tuhan i
+pasangap Tuhan i, patimbul ma parmonang i.
+Reff.: Pasangap . . .
+-
+Israel pinilitNa i, olophon Tuhan i,
+olophon Tuhan i sai jangkon ma Mesias i.
+Reff.: Pasangap ...
+-
+Huria tinobusNa i, gorga tu rohami
+gorga tu rohami, tinaon ni Sipartobus i.
+Reff.: Pasangap ...
+-
+Martua sitindang i, martir na burju i,
+martir na burju i, di saor na i tu silang i.
+Reff.: Pasangap ...
+-
+O, anak Harajaon, i sai las ma rohami
+sai las ma rohami, sai puji ma Tuhanta
+Reff.: Pasangap ...
+-
+Hamu saluhut bangso i, tasomba Tuhan i,
+tasomba Tuhan i, sai jangkon HarajaonNa i.
+Reff.: Pasangap ...
+-
+Raphon sude na monang i, di surgo sogot i,
+di surgo sogot i, marende hita on disi
+Reff.: Pasangap ...

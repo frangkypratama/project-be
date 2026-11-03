@@ -1,0 +1,58 @@
+@be 168
+@bl 215
+@title Disesa Jesus dosa
+@key F
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 152 153
+@status Lirik dicek · 24/30 baris sama dgn pembanding
+@check Pembanding lirik: baris 3, 4, 10, 22 beda ejaan; baris 8 ("ni") dan 16 ("Jesus") kata lebih di buku — dicek ulang di scan, tercetak demikian.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 168) | https://bukuende.wordpress.com/2013/06/13/disesa-jesus-dosa-buku-ende-no-168-buku-logu-no-215/ | 24/30 baris sama
+#A
+3 | 5 5 5 6 | 3 2 1 . | 0 2 3 2 |
+3 #4 5 1 | (7, 6,) 5, . :|
+> Di-se-sa Je-sus do-sa ni su-de, na o-lo ma-ngar-sak-kon
+> Na so um-bo-to da-lan be, a-sa da-po-tan ha-lu-a-on;
+#B
+0 2 2 3 | 4 4 3 3 |
+2 . 0 4 | 4 4 3 (2+1) | 7, 1 2 . | 0 3 1 7, |
+6, 7, 6, #5, | 6, . 6, . | 0 3 3 2 | 1 2 1 7, |
+6, . 6, . | 0 5, 1 1 | 1 7, (1+2) 3 | 2 . 0 5 |
+3 2 1 4 | 3 2 1 . | 0 3 5 3 | 1 4 3 2 | 1 . . . |]
+> Pon-jot ro-ha-na si-tu-tu, di-ri-na di-to-rui bur-ju, naung bi-nu-ra-an ni si Mu-sa, na-si-da be do di-hi-la-la. Di ang-ka i do ha-ta i: di-se-sa Je-sus do-sa i, di-se-sa Je-sus do-sa i
+#V
+Disesa Jesus dosa ni sude, na olo mangarsakkon
+Na so umboto dalan be, asa dapotan haluaon;
+Ponjot rohana situtu, dirina ditorui burju,
+Naung binuraan ni si Musa, nasida be do dihilala.
+Di angka i do hata i :,: Disesa Jesus dosa i.
+-
+RohaNa na tongtong asi do na mangonjar sian surgo
+Ibana lao tu tano i, tumopot jolma i naung mago
+Hinorhon ni dosana i; Ibana do mamorsan i,
+DiriNa i do dipasahat, manaoni uhum ni parjahat
+Di baen naung ginararNa i :,: Disesa Jesus dosa i.
+-
+Nuaeng tarbaen maporus be tu Jesus i sude pardosa;
+Disalesehon do sude utangna, na so tartahansa.
+Didabu do dosana i tu laut na so tardodo i,
+I ma mudarNa i naung durus baen haluaon na umbulus
+Di nasa hajolmaon i :,: Disesa Jesus dosa i.
+-
+Binorhos tu mudarNa i, ditogu Jesus siseanNa
+Tu jolo ni AmaNa i, i do dibaen hapintoranNa.
+Dung i asi ma roha ni AmaNa di nasida i.
+Dijangkon do tu ingananNa, dilehon do hasonanganNa,
+Dibaen naung hot hataNa i :,: Disesa Jesus dosa i.
+-
+Antong, hamuna sasude na mangarsakkon dosamuna,
+Sai boan tihasmuna be tu Jesus, pangondianmuna.
+Beasa di na dao hamu, so pola mago be hamu?
+Tongtong naeng dosa baenonmuna, nang pe tarbaen hamu malua?
+Palias i! Sai ro ma ne :,: Disesa Jesus dosa i.
+-
+O Jesus, taiti hami on, tu ho na tong marasiroha;
+Ajari hami sai tongtong mangkagigihon nasa dosa.
+Pangkilalahon jea ni na mangulahon dosa i
+Tu hami, asa jora hami huhut papos ma rohanami,
+Mandok mamuji asiMi :,: Disesa Jesus dosa i.

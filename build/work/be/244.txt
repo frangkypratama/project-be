@@ -1,0 +1,33 @@
+@be 244
+@bl 22
+@title Binsan ro asi ni roha
+@key F
+@meter 4/4
+@credit Herrnhut, 1737
+@pages 223 224
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: beda kata "si" (ayat 2 "Alo, si gogot") dan "Tuhanta" (ayat 3); dicek ulang ke scan: tercetak demikian di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 244) | https://bukuende.wordpress.com/2013/06/13/haburjuhon-ma-mangalo-buku-ende-no-244-buku-logu-no-22/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Kepala lagu mencetak judul Logu "Binsan ro asi ni roha"; baris pertama lirik "Haburjuhon ma mangalo".
+#A
+1 2 3 2 | 3 4 5 . | 3 . v 6 5 | 4 3 2 2 |
+3 . v 5 5 | 5 (2+3) 4 5 | 3 . 2 . v | 1 2 3 4 | 3 2 1 . |]
+> Ha-bur-ju-hon ma ma-nga-lo, ha-ja-ha-ton-mi su-de, ta-gan song-gop a-si ro-ha ni Tu-han-ta i do-pe.
+#V
+Haburjuhon ma mangalo, hajahatonmi sude,
+Tagan songgop asi roha ni Tuhanta i dope.
+-
+Alo, si gogot do dalan na hopit bahalna i;
+Tinggal do di hamagoan na so lao tu surgo i
+-
+Alo, asa lam ro ringgas pasadahon rohami.
+Tu Tuhanta Jesus Kristus, sai tundalhon dosa i.
+-
+Sai gogoi ma martangiang tu Tuhanta Jesus i
+Unang ho marpansadian, borngin nang arian i.
+-
+Ia monang ho sahali manaluhon dosa i,
+Unang olo ho mansadi, tagam ma donganna i.
+-
+Ai saleleng tainganhon hasiangan on dope,
+Na so holang do jagaon dosa, roha, daging pe.

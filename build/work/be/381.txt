@@ -1,0 +1,32 @@
+@be 381
+@bl 254
+@title Di dia Jesus
+@key Bb
+@oct -1
+@meter 4/4
+@credit E. Gebhardt 1899
+@pages 365 366
+@check Tanda mula 2 mol; not pertama F4 = 5, 1' = Bes4 → @oct -1. "4*" = 4 kres (paranada: E pugar).
+@check Kepala lagu juga mencetak "R.L. No. 193". Ayat 2–3 dan nama komponis ada di atas hlm 366 (ayat di atas hlm 365 milik BE 380).
+@check Birama akhir "1 . 0" = not 1/2 + istirahat; ditulis "1' ." (birama akhir boleh pendek).
+@status Lirik dicek · 5/9 baris sama dgn pembanding
+@check Pembanding lirik: beda L1, L2, L9 (penulisan/spasi kata, mis. "Diboto"; pembanding lebih pendek di L1), L5 tidak ada di pembanding; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 381) | https://bukuende.wordpress.com/2013/06/13/di-dia-jesus-buku-ende-no-381-buku-logu-no-254/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+5 #4+5 | (6+.+.+5) 5 .+3' 2'+1' | (1'+.+.+7) 7 0+5 #4+5 |
+(6+.+.+5) 5 .+4' 3'+2' | 1' . 0+5 #4+5 | (1'+.+.+5 5) .+5 #4+5 |
+(2'+.+.+5 5) 0+5 #4+5 | 3' 3' 4' 4' | 3' . 0+3' 2'+1' |
+7 6 5 .+5 | 6 . 0+4' 3'+2' | 1' 5 3' 2' | 1' . |]
+> Di-di-a Je-sus? Di di-a da-me? Di-bo-to ho do? Di di-a do? Di lam-bung ni Tu-han-ta i. Di-si do ha-so-na-ngan i. Mar-las ni ro-ha na di-si. Mar-las ni ro-ha na di-si.
+#V
+Di dia Jesus? Di dia dame? Diboto ho do? Di dia do?
+Di lambung ni Tuhanta i. Disi do hasonangan i.
+:,: Marlas ni roha na disi :,:
+-
+Naeng ho dapotan? Di ho ibana? Ingkon luluan, na jumpang ma!
+Sai tong lului, sai tong tuktuhi! TangihononNa soaram
+:,: PasonangonNa ma roham :,:
+-
+Ai manang ise, na ringgas roha mangalului, dapotan ma!
+Asi rohaM, dosangku sesa, tu surgo au togihon ma
+:,: Tu lambungMi, o Debata!...

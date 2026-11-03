@@ -1,0 +1,41 @@
+@be 74
+@bl 175
+@title Sai marlasniroha hita
+@key F
+@meter 4/4
+@credit Johann Schopp, 1642
+@pages 65
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Buku menulis "Johann Schopp"; ejaan lazim Johann Schop.
+@check Pembanding lirik: bukuende.wordpress.com — 14 dari 16 baris sama persis; 2 baris beda ejaan ("marlasniroha", "hataNa"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 74) | https://bukuende.wordpress.com/2013/06/18/sai-marlasniroha-hita-buku-ende-no-74-buku-logu-no-175/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3+4 | 5 5 4 3 | 2 2 0 3+4 |
+5 1 2 2 | 1 . 0 :|
+> Sai mar-las-ni-ro-ha hi-ta. a-le do-ngan Kris-ten i!
+> Sai ta-pu-ji ma Tu-han-ta, na-pa-sae-hon do-sa i!
+#B
+2+3 | 4 4 3 3 |
+2 . 0 4+5 | 6 6 5 5 | 4 . 0 1+1 | 4 3 2 1 |
+2 2 0 3+4 | 5 1 2 .+3 | 1 1 0 |]
+> Di-to-gi-hon Je-sus i Hi-ta tu hu-ri-a i; Naung di-jang-kon De-ba-tan-ta Hi-ta on baen a-nak-kon-na.
+#V
+Sai marlasniroha hita. ale dongan Kristen i!
+Sai tapuji ma Tuhanta, napasaehon dosa i!
+Ditogihon Jesus i Hita tu huria i;
+Naung dijangkon Debatanta Hita on baen anakkonna.
+-
+Tuhan Jesus do Rajanta na manggomgom sasude;
+Niramotan ni tanganNa do luhut parhosa pe;
+Molo lao hataNa i ndang tarbaen so saut be i;
+Sai na tulus do nidokNa di saluhut manisia.
+-
+O hamu, ale pardosa, molo naeng sonang hamu,
+Sai tangihon ma soara ni Tuhanta i burju.
+Sai pauba rohaMu jangkon Jesus i tutu,
+Asa saut paluaonNa, tondimuna sian dosa.
+-
+Nunga ro na mangapuli roha ni parbegu i;
+Sahat do nuaeng na uli tu na olo unduk di
+Tuhan Jesus, Raja i naung ro sian surgo i.
+Sai tapuji ma Ibana jala taoloi hataNa.

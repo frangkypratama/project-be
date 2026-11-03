@@ -1,0 +1,34 @@
+@be 828
+@bl 0
+@title Pangkulingi ahu ale Tuhanhi
+@key Eb
+@meter 4/4
+@credit Lagu & syair: Huria Jerman, NN · Terj.: Dcs. Bonaria Hutabarat
+@pages 913
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 ("Pang hulingi"/"Tuhanbi" — pembanding sesuai judul Pangkulingi/Tuhanhi; buku di bawah not memang tercetak begitu), baris 3 (dibagasan), baris 9 ("Jankon") beda ejaan; scan hlm 913 → buku tetap.
+@check Pembanding menyebut Buku Logu No. 828; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 828) | https://bukuende.wordpress.com/2013/06/16/pangkulingi-ahu-ale-tuhanhi-buku-ende-no-828-buku-logu-no-828/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Judul tercetak "Pangkulingi ... Tuhanhi", tetapi lirik di bawah not tercetak "Pang hu-li-ngi ... Tuhan-bi" (kemungkinan salah cetak) — lirik ditulis apa adanya.
+@check "ma - nangi - na - ngi" dipenggal ma-na-ngi-na-ngi agar 1 suku kata per not (6 not).
+@check "au", "sai" bertanda ‿ = satu suku kata.
+#A
+1 .+1 2 6 | 5 . 3 . | 3 .+3 4 4 | 5 . . . |
+1 .+1 5 5 | 6 . 6 . | 5 .+3 4 2 | 1 . . 0 |]
+> Pang hu-li-ngi a-hu a-le Tu-han-bi, na ma-na-ngi-na-ngi au si-se-an-Mi.
+#V
+Pang hulingi ahu ale Tuhanbi,
+na manangi-nangi au siseanMi.
+-
+Tompa ale Tuhan dibagasan au
+roha naimbaru, sai tangihon au.
+-
+Lehon ma di ahu ale Tuhanhi
+roha na mananda panghophoponMi.
+-
+Pasupasu ahu O Debatangki
+asa pasupasu au tu donganhi.
+-
+Jankon au O Tuhan ditangiangkon
+Ho do sihaposan urupi au on.

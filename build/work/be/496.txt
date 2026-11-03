@@ -1,0 +1,26 @@
+@be 496
+@bl 337
+@title Sion Paradiananta
+@key Eb
+@meter 3/2
+@credit Rudolf Kogel 1896
+@pages 470
+@check Kepala lagu juga mencetak "E. P. No. 564"; tercetak "Lagu No. 337" (bukan "Logu").
+@check Birama 3/2: 1 token = 1/2; angka tanpa garis di buku = 1/4 (paranada), ditulis berpasangan "a+b".
+@check Birama 6 tercetak "5 4 . 3 . 2 1" (7 ketuk 1/4); paranada = Bes–As (legato) 1/4, G 1/2, F 1/4, Es 1/4 → ditulis "(5+4) 3 2+1".
+@status Lirik dicek · 4/6 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 2 (ejaan) dan 4 ('na'); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 496) | https://bukuende.wordpress.com/2013/06/18/sion-paradiananta-buku-ende-no-496-buku-logu-no-337/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5+.+.+4 3+5 4+2 | 3 1 2+1 | 4 3 2+1 | 2 . . |
+5+.+.+4 3+5 6+5 | (5+4) 3 2+1 | 5+4 3 2 | 1 . . |]
+> Si-on pa-ra-di-a-nan-ta, dao ma hol-so-hol-so-mu Ai di-dok Tu-han-ta Je-sus da-me, da-me di ha-mu
+#V
+Sion paradiananta, dao ma holsoholsomu
+Ai didok Tuhanta Jesus dame, dame di hamu
+-
+Tung pasonang pingkiranmu. Ai donok Rajanta i;
+Holan na managamnagam boi ditopot Jesus i.
+-
+Salpu ma naung binolusan, pir tondim di na naeng ro
+Sangkapmi nang pangidoan, Sahat tu Jesusmu do.

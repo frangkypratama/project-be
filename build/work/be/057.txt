@@ -1,0 +1,34 @@
+@be 57
+@bl 202
+@title Nunga jumpang muse
+@key C
+@meter 4/4
+@credit Wiliam Steffe abad 17
+@pages 49 50
+@status Lirik dicek · 7/9 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 7,8 (ejaan, mis. "roha nami"). Buku tetap acuan.
+@check Pola "x . y" dengan garis 1/8 dan 1/16 = not 1/8 bertitik + 1/16 (paranada), ditulis "x+.+.+y".
+@check Birama "5 . 4̄ 3̄.5̿ 1̇̄.2̇̿": agar 4 ketuk, 5 dibaca 1/4 bertitik ("5 .+4").
+@check Birama "3̇ . 1̇ 1̇ 1̇" (baris akhir): angka tanpa garis, paranada = 1/2, 1/4, 1/8, 1/8 → "3' . 1' 1'+1'". Not tinggi (1̇ 2̇ 3̇) yang titik atasnya samar mengikuti paranada.
+@check Kredit dicetak "Wiliam Steffe abad 17" — ditulis sesuai buku (belum dibandingkan dengan sumber melodi).
+@check Ayat 2–3 diakhiri "d. u." (refrein "Hasangapon di Debata, Damedame ..." seperti ayat 1).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 57) | https://bukuende.wordpress.com/2013/06/16/nunga-jumpang-buku-ende-no-57-buku-logu-no-202/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 5 3+.+.+6 1'+.+.+2' | 3'+.+.+3' 3'+.+.+2' 1' . v |
+6 6 1'+.+.+1' 1'+.+.+6 | 5+.+.+6 5+.+.+3 5 . v | 5 5 3+.+.+5 1'+.+.+2' |
+5'+.+.+3' 3'+.+.+2' 1' v 1'+1' | 2' . 1' 7 | 1' . . 0 | 5 .+4 3+.+.+5 1'+.+.+2' |
+3' . 1' 0 | 6 .+7 1'+.+.+7 1'+.+.+6 | 5 . 3 0 |
+5 .+4 3+.+.+5 1'+.+.+2' | 3' . 1' 1'+1' | 2' . 1' 7 | 1' . . 0 |]
+> Nun-ga jum-pang mu-se a-ri pes-ta i. Ha tu-tu-bu ni Tu-han-ta Je-sus i. Tu-at do I-ba-na si-an sur-go i, me-bat tu hi-ta on, ha-sa-nga-pon di De-ba-ta, Da-me-da-me ma di jol-ma, Las ni ro-ha ni De-ba-ta ha-jol-ma-on mu-se.
+#V
+Nunga jumpang muse ari pesta i. Hatutubu ni Tuhanta Jesus i.
+Tuat do Ibana sian surgo i, mebat tu hita on,
+Hasangapon di Debata, Damedame ma di jolma, Las ni roha ni Debata hajolmaon muse.
+-
+Beta, ale dongan tu Betlehem i, itasomba ma dakdanak na disi.
+Na tinongos ni Parasiroha i, Debata Ama i!
+Hasangapon di Debata, Damedame, d. u.
+-
+Sombanami ma di Ho, na tubu on, Ho siboan dame tu portibi on!
+Sai pasaorhon ma tu roha nami on, DameMi, o Jesus!
+Hasangapon di Debata, Damedame, d. u.

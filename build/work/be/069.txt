@@ -1,0 +1,44 @@
+@be 69
+@bl 84
+@title Jesus, sai urupi hami
+@key C
+@meter 4/4
+@credit Johann Rist, 1642
+@pages 60 61
+@status Lirik dicek · 16/18 baris sama dgn pembanding
+@check Judul di kepala lagu "Ungkap bahal na umuli" (nama Logu No. 84, melodi sama dengan BE 18); judul di sini memakai baris pertama lirik.
+@check Buku mencantumkan Johann Rist 1642, padahal melodi ini UNSER HERRSCHER (Neander) — sama dengan BE 18.
+@check Pembanding lirik: bukuende.wordpress.com — 16 dari 18 baris sama persis; 2 baris beda ejaan ("masuk", "na'mbaru"); belum dicek ulang ke scan, kemungkinan hanya variasi ejaan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 69) | https://bukuende.wordpress.com/2013/06/16/jesus-sai-urupi-hami-buku-ende-no-69-logu-no-84/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 .+2 3 1 | 3 4 5 5 v | 1' (7+6) 5 3' | 2' 2' 1' . :|
+> Je-sus, sai u-ru-pi ha-mi do-hot di taon ba-ru on;
+> Pa-im-ba-ru go-go-na-mi ma-ngi-hut-hon Ho tong-tong;
+#B
+3' .+3' 2' 2' | 1' 1' 7 . v |
+6 .+6 5 1' | 2' 7 1' . |]
+> Pa-su-pa-su ma mu-se Na por-se-a sa-su-de.
+#V
+Jesus, sai urupi hami dohot di taon baru on;
+Paimbaru gogonami mangihuthon Ho tongtong;
+Pasupasu ma muse Na porsea sasude.
+-
+Pingkiranku, ulaonku, tau pasangap Ho ma i,
+Dungo manang modom ahu, Ho tongtong di lambungki;
+Nang lao ruar masuk pe, Ho ma donganki muse.
+-
+Taon parasinirohaon baen di au sandok taon on,
+Lam pahot ma hasesaan ni dosangku di au on.
+Holan Ho do Jesuski, tuk pasaehon dosangki.
+-
+Sai apuli ma rohangku dohot holong ni rohaM,
+Jala jalo tangiangku ala denggan ni basaM;
+Jea sasude padao asa unang marsak au.
+-
+Sai pagomos ma rohangku, manundalhon dosa i,
+Lam paganda ma ringgashu, mangulahon patikMi;
+Asa unang rohangkon lalap di portibi on.
+-
+Sai ramoti au Tuhanku, sipat taon na'mbaru on!
+Usung ahu di tanganMu molo suda bohalhon,
+Asa las rohangku lao, ia ro panjouM di au.

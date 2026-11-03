@@ -1,0 +1,34 @@
+@be 611
+@bl 0
+@title Peak Tuhanta di panggagatan
+@key C
+@meter 9/8
+@credit Syair: Child in the Manger; mary Macdonald; 1817 - 1890 · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: Inggris (Goelic)
+@pages 609
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan "mangendehon" (ayat 3); sesuai scan hlm 609. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 611) | https://bukuende.wordpress.com/2013/06/16/peak-tuhanta-di-panggagatan-buku-ende-no-611-buku-logu-no-611/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 611".
+@check Birama 9/8: tiap angka bergaris atas = 1/8; ditulis per 1/8 (9 ketuk per birama), seperti lagu 6/8 lain.
+@check Kredit tercetak "mary Macdonald" dan "Inggris (Goelic)" (ejaan lazim: Mary Macdonald, Gaelic); ditulis apa adanya.
+#A
+1 3 5 | 1' . . 2' . . 7 6 5 |
+6 . . 5 . . 1 2 3 | 5 . . 6 . . 5 3 1 |
+(2 . . 2 . .) 5 3 5 | 1' . . 6 . . 5 3 1 |
+1 . . 2 . . 3 2 3 | 5 . . 6 . . 2 3 2 | (1 . . 1 . .) |]
+> Pe-ak Tu-han-ta di pang-ga-ga-tan po-gos, le-a, a-lai sun sa-ngap, ra-de ma-naon ma-mor-san do-san-ta pa-da-me hi-ta tu De-ba-ta.
+#V
+Peak Tuhanta di panggagatan
+pogos, lea, alai sun sangap,
+rade manaon mamorsan dosanta
+padame hita tu Debata.
+-
+Na so marlindang sandok ngoluNa,
+so marpangansi rohaNa i,
+Jesus Tuhanta sitobus hita,
+na patundukhon sibolis i.
+-
+I do Mesias sinurirangkon,
+ni panurirang na robi i,
+surusuruan ro mangendehon,
+sangap di Tuhan na sorang i

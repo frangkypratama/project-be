@@ -1,0 +1,32 @@
+@be 498
+@bl 339
+@title Buni pe dalan i.
+@key E
+@meter 4/4
+@credit John Bacchus Dykes 1868
+@pages 471 472
+@check Kepala lagu juga mencetak "U. L. No. 403".
+@check Tanda birama tercetak kabur (C); isi tiap birama = 4 ketuk, ditulis 4/4.
+@check Birama "4 . 5 2": busur di atas "4 . 5" (paranada A 1/2 legato ke B 1/4) → ditulis "(4 . 5) 2".
+@status Lirik dicek · 5/9 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 2, 3, 5 (ejaan) dan 6 ('holongMi'); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 498) | https://bukuende.wordpress.com/2013/06/09/buni-pe-dalan-i-buku-ende-no-498-buku-logu-no-339/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Melodi dibandingkan dengan LUX BENIGNA (J.B. Dykes 1865) di Hymnary: incipit berbeda, jadi bukan tune itu.
+@ref Hymnary: LUX BENIGNA | https://hymnary.org/hymn/CCEH/847 | Incipit tidak cocok.
+#A
+1 . 3 5 | 5 4 (3 1) | 3 . 2 1 | (1 . 7, .) |
+1 . 3 5 | (1' 7) 5 6 | 7 . 6 . | 5 . . . | 5 . 6 3 | (4 . 5) 2 |
+3 5 1' 1' | (1' . 7 .) | 7 . 1' 1 | 1 2 3 (4+2) | 1 . 7, . | 1 . . . |]
+> Bu-ni pe da-lan i, di-bo-to Ho Pang-ki-la-la-an tung so-nang do; Ai ma-go-po lu-hut-na hol-song-ki ma-no-got nang ro di bot a-ri i
+#V
+Buni pe dalan i, diboto Ho
+Pangkilalaan tung sonang do; Ai magopo
+luhutna holsongki manogot nang ro di botari i
+-
+Dibuhul dalanki nang ajalhi:
+Naung sian nahinan rade do i, Hupuji Ho,
+Binaen ni holongMi, bang asi ni rohaM na godang i.
+-
+Gunsang pe laut, pur pe alogo i,
+HataM sandok, sip be sudena i, hohom do au,
+Tutu do hataMi, Porsea au disi, na sae do i.

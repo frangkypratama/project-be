@@ -1,0 +1,51 @@
+@be 729
+@bl 0
+@title Laho ma hamu
+@key Eb
+@meter 4/4
+@credit Lagu & Syair: Pdt. J.A.U. Doloksaribu
+@pages 774 775 776
+@status Lirik dicek · 12/18 baris sama dgn pembanding
+@check Bagian suplemen; ayat bacaan Mark. 16:15. Tidak ada nomor "Logu No." di buku → @bl 0.
+@check Baris 1 birama 1: angka "1 . 1 2 . 2"; di balok not terakhir tampak di bawah garis pertama (D4), angka = 2 (F4). Ditulis sesuai angka.
+@check Baris 2: legato tercetak juga di atas "1 2" (dua kali), tetapi di bawahnya dua suku kata (Tu-han / nom-pa; nin-na / tu sa) → tidak dianggap legato.
+@check Baris 3: "2 1 2" bertanda triol (3) dengan legato → satu ketuk dibagi tiga.
+@check Ayat 1 (dua baris lirik di bawah not, bagian A dan B masing-masing diulang) disusun ke #V; ayat 2 tercetak sebagai teks.
+@check Pembanding lirik: baris 7, 8, 9, 16, 17, 18 beda ejaan (hajanghajang, Martopap-topap, Pajungjong, patindang, dll.). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 729) | https://bukuende.wordpress.com/2013/06/16/laho-ma-hamu-buku-ende-no-729-buku-logu-no-729/ | proofreading per baris
+#A
+1 .+1 2 .+2 | 3 . 0 1+3 | 5 .+6 (5+.+.+2) (3+4) |
+3 . 0 3+2 | 1 .+1 2+.+(3+2) 1+2 | 3 . 0 1+2 |
+3+3 3+4 3 (2+1+2) | 1 . . 0 :|
+> La ho ma ha-mu tu li-at por-ti-bi-on nin-na Je-sus Kris-tus Tu-han i nin-na Je-sus Kris-tus Tu-han i
+> Ba ri ta hon ma Ba-ri-ta na u-li i tu sa-lu-hut na ti-nom-pa i tu sa lu-hut na ti-nom-pa i.
+#B
+3 3+3 4+.+(5+4) 3+4 | 5 . 0+5 5+5 |
+1' .+1' 7+.+(6+5) 6+.+(7+6) | 5 . . 0 |
+6+6 .+6 5+5 5+4 | 3 2 1 1+2 |
+3+3 3+4 3 2 | 1 . . 0 :|
+> A-sa mar-las ni ro-ha ma la-ngit nang do-hot ha-jang ha jang i mar-o-lop-o-lop ang-ka la-dang i ro di hau na di-ha-ra-ngan i.
+> Mar-to-pap-to-pap su-nge i mar-ha-sak ha-sak tao nang-la-ut i mar-o-lop-o-lop ma por-ti-bi-on nang su-de-na pa-ngi-si-na i.
+#C
+4 . . . | 3 . . . |]
+> A-men
+#V
+Laho ma hamu tu liat portibion
+ninna Jesus Kristus Tuhan i
+ninna Jesus Kristus Tuhan i
+Baritahon ma Barita na uli
+i tu saluhut na tinompa i
+tu saluhut na tinompa i.
+Asa marlas ni roha ma langit nang dohot hajanghajang i
+marolop-olop angka ladang i rodi hau na diharangan i.
+Martopap-topap sunge i marhasak-hasak tao nang laut i
+marolop-olop ma portibion nang sudena pangisina i. Amen
+-
+Lam margogo ma angka parjamita i,
+mangulahon tohonanna i, mangulahon tohonanna i.
+lao mampargogoi angka na porsea i,
+di sude na partingkian i, na hatop sai mubauba i.
+On do Barita na uli pangurupion tu na pogos i,
+malua angka na tatante i, apul-apul tu na dangol i.
+Pajungjong hatigoran i, pamalum na so boi marnida i.
+patindang nasa hasintongan i, pasaorhon hadameon i.

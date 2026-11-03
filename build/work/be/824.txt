@@ -1,0 +1,22 @@
+@be 824
+@bl 0
+@title Tuhan dongani hami
+@key F
+@meter 4/4
+@credit Ende Kanon 3 lagu
+@pages 909
+@status Lirik dicek · 2/2 baris sama dgn pembanding
+@check Pembanding lirik: semua sama.
+@check Pembanding menyebut Buku Logu No. 824; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 824) | https://bukuende.wordpress.com/2013/06/18/tuhan-dongani-hami-buku-ende-no-824-buku-logu-no-824/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Tidak ada nama penyair/komponis; baris kredit hanya "Ende Kanon 3 lagu".
+@check Kanon 3 suara (tanda masuk ①②③ di atas "5 |", "4 .3" dan "1 1"); hanya satu baris melodi ditranskrip.
+@check Tanda tahan (fermata) di atas not 5 (birama 2), 3 (baris 2) dan 1 terakhir belum bisa ditulis dalam format ini.
+@check Noda tinta di antara "1 1" (baris 2); balok = F4 F4 1/8 → 1+1.
+#A
+5 | 5 5 6 5 | 5 . 5 3 | 2 3 4 .+3 |
+2 . 3 1+1 | 7, 1 (6,+7,) 1 | (1 7,) 1 |]
+> Tu-han do-nga-ni ha-mi ai na bot ne ma a-ri, nu-nga be ma-ni-hir a-ri.
+#V
+Tuhan dongani hami ai na bot ne ma ari,
+nunga be manihir ari.

@@ -1,0 +1,36 @@
+@be 443
+@bl 393
+@title Dung Tuhan Jesus
+@key Eb
+@meter 9/8
+@credit Fanny J. Crosby 1915
+@pages 425 426
+@check Birama 9/8: 1 token = 1 not 1/8 (9 token per birama).
+@check Birama "5.. 5.4 5 6" (2×) dan "1..5. 6 6 6" tercetak hanya 8 ketuk 1/8; not kedua dibaca sebagai 1/4 bertitik (5 . .) agar genap 9/8, seperti pola birama "1..7..6 5 4*". Perlu dicek.
+@check Kepala lagu juga mencantumkan "R.L. No. 237". Nama di baris kredit (Lagu: Fanny J. Crosby 1915) ditulis sesuai buku.
+@status Lirik dicek · 4/10 baris sama dgn pembanding
+@check Pembanding lirik: L1 (nampuna), L3 (holongna), L4 (tarlobi), L9 (ahu) beda ejaan; L7/L10 refrein buku disingkat 'Tabaritahon...'.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 443) | https://bukuende.wordpress.com/2013/06/13/dung-tuhan-jesus-buku-ende-no-443-buku-logu-no-393/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 2 1 | 5 . . 5 . . 4 5 6 | (5 . . 5) . 0 5 3 5 |
+1' . . 7 . . 6 5 #4 | (5 . . 5) . 0 3 2 1 | 5 . . 5 . . 4 5 6 |
+(5 . . 5) . 0 1 2 3 | 4 . . 2 . . 1 2 7, | (1 . . 1) . 0 |]
+> Dung Tu-han Je-sus nam-pu-na au, song-gop da-me-na, bi-ar-hu lao, ta-ri-par go-go, ngo-lu-na i, na-sa do-sang-ku naung sae do i.
+#B
+5 5 5 | 1' . . 5 . . 6 6 6 | (5 . . 5) . 0 5 5 5 |
+6 . . 1' . . 7 7 6 | (7 . . 7) . 0 7 1' 2' | 1' . . 5 . . 6 5 6 |
+(5 . . 5) . 0 1' 7 1' | 2' . . 6 . . 5 1' 7 | (1' . . 1') . 0 |]
+> Ta-ba-ri-ta-hon ho-long-na i. Di di-a Tu-han, tu-dos-hon i? Tuk ma-num-pa-hi, tar-lo-bi da? Sa-sa-da Je-sus, pi-nu-ji ma!
+#V
+Dung Tuhan Jesus nampuna au, songgop damena, biarhu lao,
+Taripar gogo, ngoluna i, nasa dosangku naung sae do i.
+Tabaritahon holongna i. Di dia Tuhan, tudoshon i?
+Tuk manumpahi, tarlobi da? Sasada Jesus, pinuji ma!
+-
+Di Ho ngolungku! Las rohangki jumolo Jesus siluami.
+PangiringonMu, tolongMu i, mangalo dosa nang rohangki.
+Tabaritahon...
+-
+Hibul ma ahu, Jesus di Ho, sonang rohangku, tarapul do.
+Mian di ahu ma baen hataMi, paima das au tu lambungMi
+Tabaritahon....

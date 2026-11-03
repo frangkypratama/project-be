@@ -1,0 +1,47 @@
+@be 97
+@bl 129
+@title Patimbul be ma sangap
+@key F
+@meter 3/4
+@credit Nikolaus Decius, 1522
+@pages 87 88
+@status Lirik belum ada pembanding
+@check Pembanding lirik: halaman BE 97 di bukuende.wordpress.com tidak ditemukan (indeks huruf I tidak dapat diakses).
+@check "1*" pada baris 3 = Fis di paranada → #1.
+@check Birama "1 . 6 7" (baris akhir) tercetak dengan titik, tetapi paranada 3 not ¼ (F4–C4–E4, legato) → (1 6, 7,).
+@check Judul "Patimbul be ma sangap", baris pertama lirik "Ingoton ma sadari on".
+#A
+1 | 3 . 4 | 5 . 4 | 3 . 2 | 3 . v 3 |
+3 . 2 | (4 3) 2 | (1 6, 7,) | 1 . :|
+> I-ngo-ton ma sa-da-ri on par-naek ni Tu-han Je-sus
+> Tu ha-bang-sa-Na na tong-tong, na so tar-baen be me-ret.
+#B
+1 | 2 . 3 |
+4 . 3 | 2 . #1 | 2 . v 2 | 3 . 4 | 5 . 4 | 3 . 2 |
+3 . v 1 | 2 . 4 | 3 . 2 | (1 6, 7,) | 1 . |]
+> Ta-som-ba ma Tu-han-ta i, naung mu-lak tu A-ma-Na i; Ta-pu-ji ma I-ba-na.
+#V
+Ingoton ma sadari on parnaek ni Tuhan Jesus
+Tu habangsaNa na tongtong, na so tarbaen be meret.
+Tasomba ma Tuhanta i, naung mulak tu AmaNa i;
+Tapuji ma Ibana.
+-
+Ai nunga mungkap dalan i di angka na porsea,
+Lao mamongoti surgo i malua sian jea,
+Naung mangonai tu sasude na mangulahon dosa i.
+Pinuji ma Tuhanta!
+-
+Ianggo las roham tutu di Jesus i, Tuhanta,
+Pauba ma roham burju ihuthon ma Ibana
+Oloi hataNa sasude, sai tiru pambaenanNa pe,
+Saleleng ho mangolu.
+-
+Ai mulak do Tuhanta i di ari paruhuman.
+Sai dabuonNa do disi sude parhajahaton
+Tu api na so mintop i; Alai haholonganNa i
+Tu surgo bahenonNa.
+-
+O Jesus, Tuhannami on, asi rohaM di hami!
+Sai tatap hami na dison di paraloannami.
+Patogu hami sasude, tumpahi hami monang be.
+Ro di ujungna sogot!

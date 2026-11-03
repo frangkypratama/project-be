@@ -1,0 +1,36 @@
+@be 236
+@bl 7
+@title Jotjot do marsak
+@key F
+@meter 6/8
+@credit J. V. Eichendorff, 1860
+@pages 216
+@check Not angka 6/8 di lagu ini tidak konsisten dengan not balok; durasi disusun dari not balok agar tiap birama 6/8: "3..3'3" → 3 (1/4 bertitik, diikat) + 3; "5 . 6' 2" → 5 1/4 bertitik, 6 1/4, 2 1/8; "5 1" (baris 3) → 5 1/4 + 1' 1/8.
+@check Birama terakhir hanya 4/8 (1 . 1 diikat + diam 1/8), ditulis sesuai buku.
+@check Baris kedua ayat diulang (:,: … :,:) sesuai baris 2–3 not.
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: L1 kata 4 & 6, L6 kata 3, L10 kata 1 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 236) | https://bukuende.wordpress.com/2013/06/16/jotjot-do-marsak-buku-ende-no-236-buku-logu-no-7/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 . 1 (1 7,) 1 | (2 . 7,) 5, . 5, | 1 . 1 (2 1) 2 |
+(3 . . 3 .) v 3 | (3 2) 2 (2 3) 4 | 5 . . 6, . v 2 | 1 . 1 (2 1) 2 |
+(3 . . 3 .) v 3 | (3 2) 2 (2 3) 4 | (5 . 1') (6 4) 2 | 1 . 1 3 . 2 | (1 . 1) 0 |]
+> Jot-jot do mar-sak i-ba bi-naen ni jol-ma i. Na hu-ma-li-ang i-ba, par-ro-ha da-ging i. Na hu-ma-li-ang i-ba, par-ro-ha da-ging i.
+#V
+Jotjot do marsak iba binaen ni jolma i,
+:,: Na humaliang iba, parroha daging i :,:
+-
+Sai naeng tu hamagoan, sude nasida lao,
+:,: Ai sian hangoluan tongtong nasida dao :,:
+-
+Dijaga Debatanta ma hita on disi,
+:,: Aik naeng ihuthononta, parroha mago i :,:
+-
+Sipillit hangoluan, tatiru ma tongtong,
+:,: Huhut tu hasonangan, udur ma hita on. :,:
+-
+Ai sada do Amanta, Tuhan Jahowa i,
+:,: Maria ma rohanta lao mangihuthon i :,:
+-
+Dijaga Debatanta, ma hita on sude,
+:,: Ditogu ma rohanta, tongtong tu na ture :,:

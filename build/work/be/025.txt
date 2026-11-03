@@ -1,0 +1,31 @@
+@be 25
+@bl 181
+@title HataMi, ale Tuhanku
+@key Bb
+@oct -1
+@meter 4/4
+@credit J.A. Freylinghausen, 1704
+@pages 21 22
+@check Tanda lengkung kecil di antara "4 5" (baris terakhir) tidak ada di not balok buku dan membuat suku kata kurang satu; dibaca dua not terpisah.
+@status Lirik dicek · 2/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 2 dari 8 baris sama persis; 6 baris beda ejaan/kata (a.l. “umarga”, “sitiupan”, “aha na ma”, “songon ai Maria”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 25) | https://bukuende.wordpress.com/2013/06/13/hatami-ale-tuhanku-buku-ende-no-25-buku-logu-no-181/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 2 3 2 | 3 #4 5 5 v | 1' 1' 7 7 |
+7 6 5 . :|
+> Ha-ta-Mi, a-le Tu-han-ku, ar-ta na um-ar-ga i,
+> Sai pa-i-an di ro-hang-ku, u-nang so hu-ti-op i
+#B
+1' 5 6 6 | 5 .+4 3 1 v | 3 3 5 5 |
+4 3 2 . v | 5 5 4 .+3 | 4 5 3 1 v | 2 3 4 5 | 3 2 1 . |]
+> Mo-lo so be si-ti-u-pan ha-ta na ba-di-a i, a-ha na ma ha-o-ja-han ni ha-por-se-a-on i?
+#V
+HataMi, ale Tuhanku, arta na umarga i,
+Sai paian di rohangku, unang so hutiop i
+Molo so be sitiupan hata na badia i,
+Aha na ma haojahan ni haporseaon i?
+-
+Ale Jesus sai masahon, sai ramoti ma au on,
+Asa hot haporseaon di bagasan rohangkon:
+Sai paringgas ma rohangku mangoloi di hataMi,
+Asa mauas di podaMu songon ai Maria i.

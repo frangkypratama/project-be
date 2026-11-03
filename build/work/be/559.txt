@@ -1,0 +1,43 @@
+@be 559
+@bl 0
+@title Debata na songkal jala na badia
+@key D
+@meter 4/4
+@credit Syair: Holy, Holy, Holy, Reginald Heber, 1783 - 1826; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: John Bacchus Dykes, 1861 · Ayat bacaan: Ps. 29 : 2 : Jer. 5 : 2-3
+@pages 527 528
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0.
+@check Baris 1 angka mencetak "6̣ 6̣ 6 6" (dua titik oktaf bawah), tetapi balok menunjukkan keempat not B4 sama tinggi → ditulis 6 6 6 6.
+@check Baris 1 "Si-to-lu sa-da": 5 suku kata untuk 6 not; "Si" di bawah dua not 6 pertama (melisma) sesuai letak lirik di buku.
+@check Melodi = NICAEA (Holy, Holy, Holy); belum dibandingkan dengan sumber melodi.
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 2,4,12 beda ejaan (buku: 'disogot', 'Sitolu', 'un hinagogo, sun'). Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 559) | https://bukuende.wordpress.com/2013/06/13/debata-na-songkal-jala-na-badia-buku-ende-no-559-buku-logu-no-559/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+1 1 3 3 | 5 . 5 . | (6 6) 6 6 | 5 . 3 . |
+5 .+5 5 5 | 1' . 7 5 | 2 5 6 .+5 | 5 . . . |
+1 1 3 3 | 5 . 5 . | 6 .+6 6 6 | 5 . 5 . |
+1' . 5 5 | 6 . 3 . | 4 2 2 .+1 | 1 . . . |]
+> De-ba-ta na song-kal Si-to-lu sa-da. di-so-got ni a-ri hu-pu-ji Go-ar-Mi, De-ba-ta na song-kal Si-pa-ra-si ro-ha Si-to-lu sa-da, Na ba-di-a i.
+#B
+4 . 3 . |]
+> A-men.
+#V
+Debata na songkal Sitolu sada.
+disogot ni ari hupuji GoarMi,
+Debata na songkal Siparasi roha
+Sitolu sada, Na badia i. Amen.
+-
+Debata na songkal, surusuruanMu
+saluhut marsomba pasahat tumpalMi
+angka na badia ro tu adopanMu
+mamuji-muji salelengna i.
+-
+Debata na songkal, na so tarida,
+mata na mardosa, ndang tau marnida Ho
+Ho na sun badia, na so hatudosan,
+un hinagogo, sun sanggap do Ho.
+-
+Debata na songkal, Sitolu sada,
+nasa na tinompa, ingkon mamuji Ho
+Debata na songkal, siparholong roha
+Sitolu sada, na badia Ho.

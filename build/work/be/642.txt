@@ -1,0 +1,23 @@
+@be 642
+@bl 0
+@title Ro Ho Tondi Porbadia
+@key F
+@meter 6/8
+@credit Syair: Come, holy spirit: William J / Gloria Gaither, 1964 · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: William J. Gaither, 1964
+@pages 658
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Buku hanya mencetak satu ayat.
+@status Lirik dicek · 4/4 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 642) | https://bukuende.wordpress.com/2013/06/16/ro-ho-tondi-porbadia-buku-ende-no-642-buku-logu-no-642/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3 . 3+3 4 3 .+1 | 3 2 . . . 0 |
+4 . 4+4 4 3 2 | 3 . . . . 0 |
+5 . 5+5 5 4 3 | 5 4 . . . 0 |
+3 . 3+3 4 7, 2 | 1 . . . . 0 |]
+> Ro Ho Ton-di Por-ba-di-a go-hi lu-hut ha-mi on le-hon go-go nang sa-ha-la tu hu-ri-a-Mi tong-tong.
+#V
+Ro Ho Tondi Porbadia
+gohi luhut hami on
+lehon gogo nang sahala
+tu huriaMi tongtong.

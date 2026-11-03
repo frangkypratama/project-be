@@ -1,0 +1,35 @@
+@be 495
+@bl 36
+@title O Jesus sipangolu au.
+@key F
+@meter 3/4
+@credit John B. Sumner 1918
+@pages 469 470
+@check Kepala lagu juga mencetak "R. L. No. 622".
+@check Tanda napas (') tercetak di tengah ketukan (birama 3 sesudah "1 ." dan bagian B sesudah "5 3"); tidak ditulis karena format hanya menaruh napas di antara ketukan.
+@check Birama akhir bagian A dan B tercetak "3 ." tetapi paranada = 1/2 bertitik; ditulis "3 . .".
+@check Bagian B diapit tanda ulang (‖: … :‖); ayat 2–4 menulis baris kedua dengan ":,: … :,:".
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 1 ('A manta'), 7 dan 8 (ejaan/satu kata); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 495) | https://bukuende.wordpress.com/2013/06/16/maringan-do-di-surgo-i-buku-ende-no-495-buku-logu-no-36/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+5, 1+2 | 3 .+4 2+3 | 1 .+2 3+4 | 5 .+6 4+5 | 3 . . |
+> Ma-ri-ngan do di sur-go i, A man-ta na sun go-go i,
+#B
+0+1 1+1 | 6 .+6 1'+6 | (5 3)+5 5+5 | 4 .+2 5+4 | 3 . . :|
+> Sai di-ra-na-pi si-an i, su-de-na lang-ka lang-kang-ki
+#V
+Maringan do di surgo i, A manta na sun gogo i,
+Sai diranapi sian i, sudena langka langkangki
+-
+Amporik na dihauma i, Ibana siparmudu i
+:,: Nang bunga pansur na uli, Ibana sibaen ulos nii :,:
+-
+Nang obuk na di ulungki, laos dibilangi dohot i
+:,: Nang pe au lao tu na buni, tong do diboto rohangki :,:
+-
+Tarsurat di bukuNa i goarhu di mulana i,
+:,: Ai na ringkot do roha nii, naeng dohot au tu surgo i :,:
+-
+Urupi au, o Tuhanki, marhaseangkon tingkingki,
+:,: Sai lam pita baen tondingki, songon surusuruanMi

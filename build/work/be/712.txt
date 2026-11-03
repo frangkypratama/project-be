@@ -1,0 +1,33 @@
+@be 712
+@bl 0
+@title Togu au ale Jahowa
+@key G
+@meter 4/4
+@credit Syair: Guide me, O Thou great Jehovah; William Williams, 1745 · Terj.: Dcs. Bonaria Hutabarat / Pdt. J.A.U Doloksaribu · Lagu: John Hughes, 1907
+@pages 750 751
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0).
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 2 (galeon) dan ayat 2 baris 1 (pasihar) beda ejaan. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 712"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 712) | https://bukuende.wordpress.com/2013/06/18/togu-au-ale-jahowa-buku-ende-no-712-buku-logu-no-712/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5, 6, 5, .+1 | (1+7,) (1+2) 3 2 | 3 1 6, 4 | 3 2 1 . |
+5, 6, 5, .+1 | (1+7,) (1+2) 3 2 | 3 4 5 (4+2) |
+1 7, 1 . | 2 .+3 4 2 | 3 .+4 5 3 |
+5 .+5 4+3 2+1 | 5 . . . |
+5 .+4 (3+5) (4+2) | 1 7, 1 . |]
+> To-gu au a-le Ja-ho-wa di-da-lan na ro-dop on Ho do na tong-tong sa-ti-a to-gu au na ga-le-on. Sa-gu-sa-gu ha-ngo-lu-an sai pa-bo-sur ton-ding-kon, sai pa-bo-sur ton-ding-kon.
+#V
+Togu au ale Jahowa didalan na rodop on
+Ho do na tongtong satia togu au na galeon.
+Sagu-sagu hangoluan sai pabosur tondingkon,
+sai pabosur tondingkon.
+-
+Ro ma ho aek hangoluan na pasihar tondingki
+sai dijolo ma ho Tuhan dohot tiang apiMi
+Sipartogi na gumogo ho ma lombu-lombungki
+Ho ma lombu-lombungki.
+-
+Ditopi ni aek Jordan ndang mabiar huriaM
+ale Tuhan Siparmonang boan au tu Kanaan
+pujionku ma goarMu salelenglelengna i,
+salelenglelengna i.

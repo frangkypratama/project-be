@@ -1,0 +1,37 @@
+@be 237
+@bl 91
+@title Jesus Kristus do manobus
+@key Eb
+@meter 4/4
+@credit Johan Balthasar Konig, 1738
+@pages 216 217
+@check Nama komponis dicetak "Johan Balthasar Konig" (ejaan lazim: Johann Balthasar König).
+@status Lirik dicek · 13/15 baris sama dgn pembanding
+@check Pembanding lirik: L2 kata 6 beda (buku "mulana", sesuai lirik di bawah not) dan L3 kata 2 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 237) | https://bukuende.wordpress.com/2013/06/16/jesus-kristus-do-manobus-buku-ende-no-237-buku-logu-no-91/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 3 6 6 v | 5 .+4 3 1 v | 5 3 6 5 |
+4 .+4 3 . v | 2 1 2 7, v | 1 2 3 3 v |
+3 #4 5 (6+5) | #4 #4 3 . v | 7 7 1' (7+6) |
+#5 6 7 3 v | 1' (7+6) #5 6 | 6 .+#5 6 . |]
+> Je-sus Kris-tus do ma-no-bus ha-jol-ma-on sa-su-de, na ni-a-go ni si-bo-lis Di mu-la-na i do-pe, Je-sus Kris-tus do Ra-jan-ta, si-pa-ngo-lu sa-su-de.
+#V
+Jesus Kristus do manobus hajolmaon sasude,
+Na niago ni sibolis di mulana i dope,
+Jesus Kristus do Rajanta, sipangolu sasude.
+-
+Sipujion do Ibana, ai asi rohaNa i;
+Sioloan do hataNa, ai holong rohaNa i
+Di pardosa, na tumanda, jea ni rohana be.
+-
+Sahat ma tu Ho tondingku, sai ramoti nama au;
+Ai na susa do diringku molo au guru di au.
+Sai tiopi ma tanganku asa unang mago au.
+-
+Sai landit, rahis dalanku, musu pe tongtong godang,
+Sundatanna naeng langkangku asa unang au sonang
+Sai patulus ma sangkaphu, dalananku baen torang.
+-
+Unang loas au be mago, ai tinobusMi do au;
+Sai taluhon sipangago asa tu lambungMu au.
+Ro di ujung au pamonang sahat baen tu surgo au.

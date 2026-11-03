@@ -1,0 +1,51 @@
+@be 81
+@bl 185
+@title Jesus, mual ni ngolungku
+@key Ab
+@meter 4/4
+@credit Chistoph Anton, 1643
+@pages 72 73
+@status Lirik dicek · 18/24 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 2,4,5,6,8,24 (kata ke-5,1,2,3,1,5); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 81) | https://bukuende.wordpress.com/2013/06/16/jesus-mual-ni-ngolungku-buku-ende-no-81-buku-logu-no-185/ | 18/24 baris sama
+@check Judul di buku: "Logu No. 185 : Aha ma endehononku" (nama lagu/logu); judul ende diambil dari baris pertama: "Jesus, mual ni ngolungku".
+@check Melodi sama dengan BE 11 (Logu 185). Di sini birama ke-4 tercetak jelas "2 1 2 .'" (sebelum tanda ulang), menguatkan bacaan BE 11.
+@check Buku menulis "Chistoph Anton" (salah cetak "Christoph").
+#A
+1 .+1 7, 5, | 6, 7, 1 1 v | 3 5 4 3 | 2 1 2 . v :|
+> Je-sus, mu-al ni ngo-lung-ku, si-pa-ngo-lu ton-ding-ki.
+> Ai di bu-nu Ho mu-sung-ku, i ma ha-ma-te-an i!
+#B
+3 .+4 5 1 | 7, 6, 7, 5, v | 3 .+3 2 2 | 1 6, 7, 7, v |
+1 1 2 2 | 3 .+3 4 . v | 3 2 (1+2) 3 | 2 2 1 . |]
+> Ho ma-nao-ni ha-ma-go-an, pa-tu-pa-hon ha-ngo-lu-an, a-la ni hu-pu-ji Ho Tung mar-ri-bu ha-li do
+#V
+Jesus, mual ni ngolungku, sipangolu tondingki.
+Ai dibunu Ho musungku, i ma hamatean i!
+Ho manaoni hamagoan, patupahon hangoluan,
+Ala ni hupuji Ho Tung marribu hali do
+-
+Haleaon, insahinsak, reherehe, tijur pe,
+Tali dohot pastappastap tung ditaonhon Ho sude,
+Paluahon au na pogos sian tangan ni sibolis.
+Ala ni hupuji Ho tung marribu hali do.
+-
+Bugang sada tanggurungMu di na hona linsing i;
+Hamamalum ni bugangku na di rohangki do i.
+Ho do gabe binuraan, au dapotan hangoluan.
+Ala ni hupuji Ho tung marribu hali do.
+-
+Sungsang duri ditumpalhon, panginsahi i tu Ho,
+Jala tolong dilibashon tu uluM, pasiak Ho.
+I ditaonhon Ho, Tuhanku ala ni hajungkatonku.
+Ala ni hupuji Ho tung marribu hali do
+-
+Tung tanganMu dohot patMu ditorusi labang i,
+Jadi tiris ma mudarMu sian hau parsilang i.
+I do mual paridian di au, jolma na hansitan.
+Ala ni hupuji Ho tung marribu hali do.
+-
+Sai pinuji ma GoarMu ala ni na bernit i
+Dohot ala ni mudarMu Jesus na nilehonMi
+Lao pasaehon dosanami asa unang mago hami.
+Ho hupuji ala ni salelenglelengna i.

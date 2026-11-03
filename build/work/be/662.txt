@@ -1,0 +1,38 @@
+@be 662
+@bl 0
+@title Boan sinondangmi
+@key F
+@meter 4/4
+@credit Syair & Lagu: Traqt in die Welt mun ein Light, Wolfgang longardt, 1967 · Terj.: Dcs. Bonaria Hutabarat
+@pages 682 683
+@status Lirik dicek · 12/14 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 1 ("Boanma sinondangni", "porti bion" — scan jelas tercetak demikian) dan baris 6 (ejaan). Pembanding memuat 7 ayat. Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 662" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 662) | https://bukuende.wordpress.com/2013/06/09/boan-sinondangmi-buku-ende-no-662-buku-logu-no-662/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Tanda birama tidak tercetak; isi birama = 4 ketuk → 4/4.
+@check Kredit ditulis seperti tercetak ("Traqt in die Welt mun ein Light", "longardt"; lazimnya: Tragt in die Welt nun ein Licht, Wolfgang Longardt).
+@check Ayat 1 di bawah not tercetak "Boanma sinondangni" (ayat 2–5: "Boan ma sinondangmi") — ditulis apa adanya. Lengkung putus-putus pada "6 6" birama 3 = untuk ayat yang suku katanya kurang (mis. ayat 3–5).
+#A
+3 3+3 2 2+2 | 1 . . 0 | 6, 6,+6, 1 6,+6, | 5, . . 0 |
+1 1+1 2 5+4 | 3 . . 0 | 5 5+5 5 5 | 1 . . 0 |]
+> Bo-an-ma si-non-dang-ni. tu li-at por-ti bi-on dok u-nang ma-bi-ar ho De-ba-ta do-ngan-mi.
+#V
+Boanma sinondangni. tu liat porti bion
+dok unang mabiar ho Debata donganmi.
+-
+Boan ma sinondangmi, tu dongan na pogos i,
+dok unang mabiar ho, Debata raphon ho.
+-
+Boan ma sinondangmi, tu na marsahit i.
+dok unang mabiar ho, Debata raphon ho.
+-
+Boan ma sinondangmi, tu na mardangol i.
+dok unang mabiar ho, Debata raphon ho.
+-
+Boan ma sinondangmi tu na tarrante i.
+dok unang mabiar ho, Debata raphon ho.
+-
+Boan ma sinondangmi, tu na matua i.
+dok unang mabiar ho, Debata raphon ho.
+-
+Boan ma sinondangmi, tu angka na metmet i.
+dok unang mabiar ho, Debata raphon ho.

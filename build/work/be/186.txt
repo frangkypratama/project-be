@@ -1,0 +1,46 @@
+@be 186
+@bl 173
+@title Tongtong tutu na denggan do
+@key F
+@meter 4/4
+@credit Severus Gastorius, 1675
+@pages 168 169
+@check Judul di kepala lagu "Tongtong tutu na denggan do"; baris pertama lirik "Jahowa do haposanki".
+@check Birama akhir bagian A tercetak "2 . 1 . :" (4 ketuk) tetapi not balok buku 1/2 + 1/4 dan lagu berketuk gantung; dibaca "2 . 1" (3 ketuk), sama dengan birama akhir lagu.
+@status Lirik dicek · 19/20 baris sama dgn pembanding
+@check Pembanding lirik: baris 12 beda ejaan 1 kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 186) | https://bukuende.wordpress.com/2013/06/16/jahowa-do-haposanki-buku-ende-no-186-buku-logu-no-173/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+5, | 1 2 3 6 | 5 4 3 v 6 | 5 4 3 3 |
+2 . 1 :|
+> Ja-ho-wa do ha-po-san-ki, na ma-nga-poi ro-hang-ku,
+> Na pa-ti-ur-hon da-lan-ki, bu-lus di-baen lang-kang-ku,
+#B
+5 | 6 6 2 v 2 | 5 5 1 v 3 |
+2 1 7, 7, | 6, . 5, v 5 | 6 5 4 3 | 2 . 1 |]
+> So-nang tong-tong ro-hang-ki-non bi-naen ni De-ba-tang-ku, Pa-tik-na do lo-mong-ku,
+#V
+Jahowa do haposanki, na mangapoi rohangku,
+Na patiurhon dalanki, bulus dibaen langkangku,
+Sonang tongtong rohangkinon binaen ni Debatangku,
+Patikna do lomongku.
+-
+Na tau haposan situtu do Ho, o Debatangku!
+Ai Ho do na tongtong burju mambaen hangoluanku,
+Na gogo Ho; Sai tulus do sinangkap ni rohaMu,
+Pasaut na pinungkaMu.
+-
+Ndang dung dihalupahon Ho sude na holong roha
+Di Ho, ai sai dapotsa do na tau apulapulna
+Tung sonang do dibahen Ho na sai tongtong porsea,
+Malua sian jea.
+-
+Sai tatap sitiruonMi binaen ni Tuhan Jesus,
+Andorang na di Golgata, mudarNa i lao durus;
+Sai pos disi rohaNa i, ditiop do AmaNa;
+Sai tiru ma Ibana.
+-
+Antong, sai sahat ma tu Ho, au on, o Debatangku
+Asi rohaM, sai tait gogo tu Ho sandok rohangku!
+Sai togu i tu surgoMi; Ai di na tos hosangku,
+Ho do dapothononku.

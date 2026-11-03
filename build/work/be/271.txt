@@ -1,0 +1,39 @@
+@be 271
+@bl 242
+@title Beta, beta hita.
+@key Bb
+@oct -1
+@meter 4/4
+@credit Henrich Schutz 1672
+@pages 251
+@check Not 1 = Bes3 (di bawah paranada), maka @oct -1.
+@check "1*" baris 2 = 1' kres (paranada: B pugar di Bes mayor).
+@check Baris 4 birama 2–3 tercetak "3̇ . 3̇" dan "5̇ 4̇" (hanya 2 ketuk); dibaca not 1/2 seperti "1̇ . 1̇ ." di baris 3: "3' . 3' ." dan "5' . 4' ."; mohon dicek.
+@check Komponis tercetak "Henrich Schutz" (lazim: Heinrich Schütz).
+@status Lirik dicek · 7/12 baris sama dgn pembanding
+@check Pembanding lirik: L5 kata 8 tidak ada di buku, L6 kata 5, L10 kata 5–7 tambahan di buku, L11 kata 1, L12 kata 3 beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 271) | https://bukuende.wordpress.com/2013/06/09/beta-beta-hita-buku-ende-no-271-buku-logu-no-242/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 .+1 3 5 | 1' . 5 . v | 1' .+1' 1' 2' | 3' . . 0 |
+5 .+5 1' 1' | 7 . . #1' v | 2' .+5 7 6 | 5 . . 0 :|
+> Be-ta, be-ta hi-ta lao tu sur-go i. ai di-si A-man-ta, si-pa-so-nang i.
+> Ndang be na di ta-no si-hi-ri-mon i. na-sa na lao se-go ndang ha-po-san i.
+#B
+6 .+6 6 7 | 1' . 1' . | 2' .+7 1' 2' | 3' . . . v |
+1' 5 1' 2' | 3' . 3' . | 5' . 4' . | 3' . . 2' | 1' . . 0 |]
+> a-la nii sai to-le, u-nang gang-gu be Ta-tap ma jam-bar-mu naung le-leng ra-de.
+#V
+Beta, beta hita lao tu surgo i. ai disi Amanta, sipasonang i.
+Ndang be na di tano sihirimon i. nasa na lao sego ndang haposan i.
+ala nii sai tole, unang ganggu be Tatap ma jambarmu
+naung leleng rade.
+-
+Beta ma, ihuthon Tuhan Jesus i na pangoluhon hita jolma i.
+Holong do rohaNa di pardosai ai disesa sala ni na unduk i,
+Ala nii sai tole, unang tading be, naeng ma sahat hita
+Saluhut muse.
+-
+Beta, beta hita, lam jumonok ma, ujung ni langkanta, ipe beta ma!
+Ndang be masa sogot dosa, jea pe holan las ni roha, sonang sasude,
+Ala nii sai tole, ringkot ma roham! Ingot ma jambarmu
+Na di ginjangan!

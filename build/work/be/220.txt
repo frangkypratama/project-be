@@ -1,0 +1,54 @@
+@be 220
+@bl 142
+@title Ndang jumpang hian
+@key Ab
+@meter 4/4
+@credit Andreas Sulger 1830
+@pages 201 202
+@status Lirik dicek · 26/28 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 26 dari 28 baris sama; baris 16 ada kata tambahan; baris 18 beda ejaan. Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 220) | https://bukuende.wordpress.com/2013/06/16/ndang-jumpang-hian-buku-ende-no-220-buku-logu-no-142/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Busur "2⌒1" pada birama 1 tidak dipakai: lirik bait 1 di notasi (hi-an ha-to) butuh 11 not pada baris 1; bait 2–7 hanya 10 suku kata (busur berlaku untuk bait-bait itu).
+@check Birama 4 di buku hanya 3½ ketuk ("1 7 1 2 ’ 2"); not 2 ditulis bertitik (2 .+2) seperti pola birama 1.
+@check Birama 5: not 1/16 "2" dan not 1/8 "2" berikutnya dibuat legato (satu suku kata "na") agar not = suku kata; busur tidak tercetak.
+@check Tanda napas di tengah ketukan (birama 1, 4, 5) tidak dapat ditulis; ketukan gantung 1/8 ditulis 0+5,.
+#A
+0+5, | 3 3+2 2 1+1 | 4 3+3 2 0+2 |
+5 5+3 4 3+2 | 1 7,+1 2 .+2 | 2 5+2 3+.+.+(2 2)+5, |
+5 #4+3 2 0+7, | 1 1+1 1 6+6 | 5 7,+7, 1 |]
+> Ndang jum-pang hi-an ha-to-ra-ngan ni i par-da-gang di da-lan na tu sur-go i, mar-hi-te sang-kap-na ping-ki-ran-na i, aut u-nang Tu-han-ta ha-po-san-ta i
+#V
+Ndang jumpang hian hatorangan ni i
+Pardagang di dalan na tu surgo i,
+Marhite sangkapna pingkiranna i,
+Aut unang Tuhanta haposanta i.
+-
+Dung loja roham dibaen dosami;
+Hurangan di dame do nang rohami,
+Tu Golgata boan, mangelek ma ho,
+Porsea di Jesus Tuhanta ma ho.
+-
+Masihol do ho di na tiur i?
+Dihoihon roham na so tau ho tusi;
+Na ro do parasi na sumurung i
+Mandok: Ho na dangol sai pos rohami.
+-
+Sude rohami ditanda hian;
+Na masa di ho sai didasing hian.
+Luhut tu na denggan di ujungna i,
+Ditumpak Tuhanta sasudena i.
+-
+Sai tong do bulus di hita sude,
+Ai Jesus natuk patundukkon sude.
+Biar pe rohanta, nang golap pe i,
+Haposi Tuhanta, partogi do i.
+-
+Antong unang be mandele roham,
+Adong na ringgas sumarihon langkam;
+Ai Tondi ni Jesus patiur roham,
+Mangkirim ujungna na tongtong sonang.
+-
+Ai molo dung ro marujung langkam,
+Sai monang ma ho, sai ditiop roham,
+Porsea di Jesus, partogi di ho,
+Tu ginjang, tu surgo diboan do ho.

@@ -1,0 +1,37 @@
+@be 434
+@bl 388
+@title Tuhan Jesus bereng au
+@key G
+@meter 4/4
+@credit Z. No. 126
+@pages 415 416
+@check Kepala lagu tercetak "Logu No. 388" (BE 434–438 memakai Logu 388, 294, 389, 390, 391); ditulis sesuai buku.
+@check "2*" = 2 kres (Ais), "1*" = 1 kres (Gis).
+@check Birama "5̣ 1̄ 3̄ 5 4" (Tu-han-ki di): lengkung 5̣–1; ditulis 5̣ 1/4 + 1 dan 3 masing-masing 1/8 agar 4 ketuk.
+@check Lirik di bawah not "di-baon" (ayat 2: "dibaen") ditulis 2 suku kata.
+@status Lirik dicek · 6/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di 6 baris (manjua, diihuthon, dibaon, potibi, paluahon, "do au"); pembanding juga memakai Buku Logu No. 388. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 434) | https://bukuende.wordpress.com/2013/06/18/tuhan-jesus-bereng-au-buku-ende-no-434-buku-logu-no-388/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 .+3 #2+3 4+3 | 3 .+2 5, . | 2 .+2 #1+2 3+2 |
+2 .+1 5, . | 1 .+1 7,+1 2+1 | 6 . 5 . |
+2 .+2 #1+2 3+2 | 6 . 5 . | 3 .+3 #2+3 4+3 |
+3 .+2 5, . | 2 .+2 #1+2 3+2 | 2 .+1 5, . |
+1 .+1 2+3 4+5 | 6 .+6 5 4 | 3 . 2 . | 1 . . . |
+3 .+3 #2+3 4+3 | 5, .+7, 2 . | 4 .+4 3+4 5+4 |
+5, .+1 3 . | 3 .+3 2+1 7,+6, | (5, 1)+3 5 4 | 3 . 2 . | 1 . . 0 |]
+> Tu-han Je-sus be-reng au di-son, ro ma au mar-som-ba tu jo-loM. Man-sai le-leng au man-ju-a, ndang tar-ba-hen au mar-tu-a. Di-lu-lui Ho, a-le Tu-han, au, di-i-hut-hon Ho au tu na dao Naung da-po-tan au di Ho, Tu-han, di-son do au. Sae do-sang-ku di-baen Tu-han-ki, mo-nang au di-baon mu-dar-Na i. Go-go do di-le-hon Tu-han-ki di au, di au.
+#V
+Tuhan Jesus bereng au dison, ro ma au marsomba tu joloM.
+Mansai leleng au manjua, ndang tarbahen au martua.
+Dilului Ho, ale Tuhan, au, diihuthon Ho au tu na dao
+Naung dapotan au di Ho, Tuhan, dison do au.
+Sae dosangku dibaen Tuhanki, monang au dibaon MudarNa i.
+Gogo do dilehon Tuhanki di au, di au.
+-
+Mago au dibaen potibi on, daging, tondi dohot rohangkon.
+Holan Jesus paluahon saluhut na tinaluhon.
+Gok do au nuaeng di Tuhanki, sirang ahu sian dosangki.
+Lam jonok tu Ho, ale Tuhan, sai taiti au.
+Sae dosangku dibaen Tuhanki, monang au dibaen MudarNa i.
+Gogo do dilehon Tuhanki di au, di au.

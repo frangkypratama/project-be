@@ -1,0 +1,48 @@
+@be 579
+@bl 0
+@title Puji Tuhan, Haleluya
+@key D
+@meter 4/4
+@credit Syair dan Lagu: LObt den Herren, Halleluyyah; Hans Kurt Ebert, 1970; Terj.: Pdt. J.A.U. Doloksaribu
+@pages 554 555 556
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: I Kor. 15:55-58.
+@check Ganti nada dasar: Refrein (bagian A) tercetak do = D (2 kres); bait (bagian B) tercetak "sol - mi" dengan tanda mula 1 mol → do = F (A = sol lama = mi baru). Ditulis `#B key=F`.
+@check Refrein birama 1 tercetak "5 5 5 5 5" (5 ke-3 dan ke-5 bergaris atas; balok A 1/4, A 1/4, A 1/8, A 1/4, A 1/8) → ditulis 5 5 5+5 .+5. Birama "2 1 . 1 ." (balok E 1/8, D 1/8 terikat ke D 1/4, D 1/2) → 2+1 . 1 .
+@check Ayat 1 = lirik di bawah not (refrein + bait 1); ayat 2–3 diakhiri "Ref. : Puji Tuhan ....". Ayat 4–6 dan kredit di hlm 556.
+@status Lirik dicek · 12/13 baris sama dgn pembanding
+@check Pembanding lirik: baris 8 beda ejaan (natinompa).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 579) | https://bukuende.wordpress.com/2013/06/16/puji-tuhan-haleluya-buku-ende-no-579-buku-logu-no-579/ | teks lirik
+#A
+5 5 5+5 .+5 | 6 6 5 . | 3 3 5+5 .+5 | 6 6 7 . |
+1' 5 3 1 | 2+1 . 1 . | (3 . 2 .) | 1 . . |]
+> Pu-ji Tu-han, Ha-le-lu-ya pu-ji Tu-han Ha-le-lu-ya sa-ngap ma di De-ba-ta A-men.
+#B key=F
+0+3 | 3 3 3 3 | 2 6, . .+6, | 1 1 7, 7, |
+6, . . 0+6, | 1 1 3 3 | 4 2 . .+2 |
+3 3 3+3 . | 3 . . . |]
+> Bo-a-sa tu ga-le-na ha-por-se-a-on-mu? Tu-han-ta si-par-mo-nang do pa-ngon-di-an-mu.
+#V
+Ref.: Puji Tuhan, Haleluya puji Tuhan Haleluya
+sangap ma di Debata Amen.
+Boasa tu galena haporseaonmu?
+Tuhanta siparmonang do pangondianmu.
+-
+Boasa ho tahutan, donok do Tuhan i ?
+Ibana naung hehe patunduk musu i.
+Ref. : Puji Tuhan ....
+-
+Ihuthon ma Tuhanmu, Raja na monang i
+dungi tiur dalanmu, tulus ma langkami.
+Ref. : Puji Tuhan ....
+-
+Patolhas baritaNa tu natinompa i
+barita haluaon, tajamitahon i
+Ref. : Puji Tuhan . . .
+-
+Padame na marbada, urupi na gale
+padomu na marsirang, marsada ma sude
+Ref. : Puji Tuhan. . .
+-
+Nang pe mangasa gogo, musu di tano on
+sai talu do parjahat, monang do hita on,
+Ref. : Puji Tuhan . . .

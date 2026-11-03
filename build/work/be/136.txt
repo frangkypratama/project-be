@@ -1,0 +1,36 @@
+@be 136
+@bl 38
+@title Bidang dope na holom i
+@key Eb
+@meter 3/4
+@credit Friedrich Silcher, abad 18
+@pages 123 124
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 10 baris sama; 3 baris beda ejaan/kata tambahan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 136) | https://bukuende.wordpress.com/2013/06/09/bidang-dope-na-holom-i-buku-ende-no-136-buku-logu-no-38/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check "6 . 5 6 7" (5 6 7 bergaris atas) dibaca 6 bertitik + tiga not 1/2 ketukan, sesuai not balok.
+@check "6 5" bergaris ganda & legato sesudah "1 ." / "5 ." dibaca not 1/4 bertitik + 1/16 (satu ketukan), sesuai not balok.
+@check "4" dicoret pada bagian B = #4 (tanda pugar A di not balok).
+#A
+5, | 1 . 5, | 6, .+5, 6,+7, | 1 . (6,+.+.+5,) | 5, . 5, |
+3 . 5 | 2 .+1 2+3 | 1 . |
+> Bi-dang do-pe na ho-lom i, di bang-so na di ha-si-a-ngan i,
+#B
+5, | 5 . 4 | 3 . v 2 | 1 .+2 3+#4 |
+5 . v (6,+.+.+5,) | 5, . 5, | 3 . v 5 | 2 .+1 2+3 | 1 . :|
+> na ni-ra-ja-an ni si-bo-lis i; Di-som-ba ha-lak ang-ka be-gu i.
+#V
+Bidang dope na holom i, di bangso na di hasiangan i,
+:,: na nirajaan ni sibolis i; Disomba halak angka begu i :,:
+-
+Sai tatap bangso i sude, ai nungan loja do nasida be
+:,: Dangolna do manjou tu surgo i. Mangido tolong tu Jahowa i :,:
+-
+Torang do bagabaga ni Amanta di banuaginjang i
+:,: Arahononna jolma sasude, Tu hasonangan ni rohana be
+-
+Tagogo ma pasauthon i. Mamboan hata hangoluan i
+:,: Tu nasa bangso ra di tano on, ringkot tabaen ulaon i tongtong :,:
+-
+O Raja na di surgo i na dung manobus nasa jolma i,
+:,: Tibu sondangi ma na holom i tu Ho ma taiti hajolmaon i :,:

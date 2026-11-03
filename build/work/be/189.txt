@@ -1,0 +1,40 @@
+@be 189
+@bl 19
+@title O Jesus na pangolu au
+@key D
+@meter 4/4
+@credit Thomas Jackson, 1780
+@pages 172
+@check Angka "4*" dibaca #4 (Gis); not balok buku memakai ♯.
+@status Lirik dicek · 16/16 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 189) | https://bukuende.wordpress.com/2013/06/16/o-jesus-na-pangolu-au-buku-ende-no-189-buku-logu-no-19/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+5 | 5 (1'+7) 6 5 | 4 (5+4) 3 v (3+#4) |
+5 1' 7 6 | 5 . . v (5+4) | 3 3 4 5 |
+6 (2'+1') 7 v 1' | 5 (6+4) 3 2 | 1 . . |]
+> O Je-sus na pa-ngo-lu au, A-nak ni De-ba-ta, a-si ro-haM, sai to-gu au sa-hat tu De-ba-ta!
+#V
+O Jesus na pangolu au, Anak ni Debata,
+Asi rohaM, sai togu au sahat tu Debata!
+-
+Tutu rohangku sonang do marningot basaMi;
+Ai hangoluanki do Ho, di hamamateMi.
+-
+Ia tarsolsol bagi au dibahen dosangki,
+Diapul mudarMi do au di na huingot i.
+-
+Dibuat Ho do arsakki, pahehe rohangkon;
+Na sonang au binahen ni, di hapogosonkon.
+-
+On pe hubonom rohangki tongtong tu rohaMi,
+Sabam ma au bahenon ni, mangolu tondingki.
+-
+Sai huhaposi hataMi, ai na sintong do i;
+Huingot bagabagaMi na so ubaon i.
+-
+O Jesus, alealengki, rohaM nama di au;
+Ai Ho do hangoluanki, nang di na mate au.
+-
+Dihalungunhon rohangki, naeng ingananMu au;
+Antong, urasi tondingki, parbadiai ma au.

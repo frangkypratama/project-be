@@ -1,0 +1,34 @@
+@be 542
+@bl 397
+@title O ale Tuhan, di dia Ho
+@key Bb
+@meter 3/4
+@credit U. L. No. 114; Lagu: Johann Sebastian Bach 1685 - 1750
+@pages 512 513
+@check Angka bertanda bintang (4*, 2*) = kres (#4 = E, #2 = C♯); balok memakai tanda pugar/kres yang sama.
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 (ejaan kata 3), 7 (kata 7 tidak ada di pembanding), 8 (kata pertama beda). Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 542) | https://bukuende.wordpress.com/2013/06/16/o-ale-tuhan-didia-ho-togang-buku-ende-no-542-buku-logu-no-39/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3 .+2 1 | 7, 7, 3 | 4 .+3 (2+1) | 7, 7, 0 |
+3 1 7, | 6, .+7, 1 | 2 .+3 1 | 7, 7, 0 |
+7, 6, 7, | 1 7, 1 | 2 .+1 2 | 3 . 0 | 3 #4 5 |
+#4 .+5 3 | 3 #4 #2 | 3 . 0 | 3 1 .+2 | 7, 7, 3 |
+4 3 (2+1) | 7, 7, 3 | 4 3 (2+1) | 7, 7, 0 | 3 1 7, |
+6, .+7, 1 | 2 .+3 1 | 7, 7, (1+7,) | 7, . 6, |]
+> O, a-le Tu-han, di di-a Ho to-gang? Ro ma tu a-hu-na tong-tong bo-no-san. Ro ma, a-la-pi ma ton-ding-ki-non si-an na han-sit na di ta-no on. Ro ma Tu-han-ku, di di-a Ho to-gang. Di di-a Ho to-gang. Ro ma tu a-hu na tong-tong bo-no-san, bo-no-san.
+#V
+O, ale Tuhan, di dia Ho togang? Ro ma tu ahuna tongtong bonosan.
+Ro ma, alapi ma tondingkinon sian na hansit na di tano on.
+Ro ma Tuhanku, di dia Ho togang. Di dia Ho togang.
+Ro ma tu ahu na tongtong bonosan, bonosan.
+-
+Na laho sapu sude na di hami, sangap nang arta hangoluannami.
+Songon halinu do hami dison, mago ma hami dohot tano on.
+Ala ni Tuhan didia Ho togang.
+Didia Ho togang, Ro ma . . .
+-
+Naeng ma rade ho. tondingku na marsak,
+Pangke ulosmu na uli, na saksak. Palitomi, sai gok miak ma i.
+Laho manomu di pangolimi. Ro ma, sai ro ma.
+Didia Ho togang. Didia Ho togang. Ro ma . . .

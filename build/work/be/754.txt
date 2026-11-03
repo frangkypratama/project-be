@@ -1,0 +1,46 @@
+@be 754
+@bl 0
+@title Gok las ni roha do au
+@key C
+@meter 4/4
+@credit Syair: I Have the joy, joy, joy, George W. Cooker · Terj.: Pdt. M. H. Sthite, STh. · Lagu: George W. Cooker
+@pages 814 815
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Birama 1: angka "0 5 6̄7̄" (diam 1 ketuk, 5 = 1 ketuk), balok = diam 1/8, 5 1/8, 6 & 7 seperempat. Ditulis sesuai angka.
+@check Refrein ulangan (hlm 815 baris 1): angka "1̇ 6 . 1̇" (titik = tahan), balok = tanda diam 1/8 seperti pada refrein pertama ("0 1̇"). Ditulis sesuai angka.
+@check Refrein birama 5: angka "3 0̄1̇ 1̇1̇" (3 ketuk), balok = G4 setengah (2 ketuk) → ditulis "3 ." sesuai balok.
+@check Ketukan gantung 3 ketuk + birama akhir bagian A 2 ketuk (tidak genap 4) — sesuai cetakan.
+@check Nama "Cooker" & "Sthite" ditulis seperti buku (lazim: George W. Cooke).
+@check Pembanding lirik: baris 2 kata 9 ("dirohangkon") dan baris 11 (ejaan "Marlas") beda; dicek ulang ke scan hlm 814–815 → buku tetap. Pembanding menyebut Buku Logu No. 754.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 754) | https://bukuende.wordpress.com/2013/06/13/gok-las-ni-roha-do-au-buku-ende-no-754-buku-logu-no-754/ | teks ayat
+#A
+0 5 6+7 | 1' 7 6 5 | 3+3 .+2 1 . |
+2'+2' .+7 5 . | 3'+3' .+2' 1'+5 6+7 |
+1' 7 6 5 | 3+3 .+2 1 . | 2'+2' .+7 5 2' | 1' . |]
+> Gok las ni ro-ha do au di ngo-lung-kon di ngo-lung-kon di ngo-lung-kon gok las ni ro-ha do au di ngo-lung-kon tong-tong di-ro-hang-kon
+#B
+0+1' 1'+1' | 1' 6 0+1' 1'+1' | 1' 5 . 1' | 7+.+7 7+6 5+6 5+4 |
+3 . 0+1' 1'+1' | 1' 6 .+1' 1'+1' | 1' 5 . 1' | 7+7 7+6 5+5 6+7 | 1' . |]
+> Ma-u-li-a-te gok las ni ro-ha ma-ri-ngan ho-long-Mi Tu-han di au ma-u-li-a-te gok las ni ro-ha ma-ri-ngan ho-long-Mi Tu-han di au.
+#V
+Gok las ni roha do au di ngolungkon, di ngolungkon, di ngolungkon.
+Gok las ni roha do au di ngolungkon, tongtong dirohangkon.
+Reff.: Mauliate gok las ni roha maringan holongMi Tuhan di au,
+mauliate gok las ni roha maringan holongMi Tuhan di au.
+-
+Mardame jala sonang do ngolungkon, dirohangkon, dirohangkon.
+Mardame jala sonang do ngolungkon. tongtong dirohangkon.
+Reff.: Mauliate . . .
+-
+Gok do holong ni Jesus di ngolungkon, di ngolungkon, di ngolungkon.
+Gok do holong ni Jesus di ngolungkon, tongtong di rohangkon.
+Reff.: Mauliate . . .
+-
+Ndang hona uhum be au dingolungkon, dingolungkon. dingolungkon,
+Ndang hona uhum be au dingolungkon, tongtong di rohangkon.
+Reff.: Mauliate . .
+-
+Marlas ni roha do au di ngolungkon, di ngolungkon, di ngolungkon.
+Marlas ni roha do au di ngolungkon, tongtong di rohangkon.
+Reff.: Mauliate

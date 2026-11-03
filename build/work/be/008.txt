@@ -1,0 +1,30 @@
+@be 8
+@bl 197
+@title Jahowa, Jahowa
+@key D
+@meter 4/4
+@credit Johann Karl Gerold, 1809
+@pages 7
+@check "goarMu/goarMi" dinyanyikan 3 suku kata (go-ar-Mu), sesuai pemenggalan di buku.
+@check Baris 3: setelah "ku:" ada satu not (2) tanpa suku kata tercetak; dianggap "ku" ditahan.
+@status Lirik dicek · 6/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 6 dari 9 baris sama persis; 3 baris beda ejaan kecil (pemisahan kata/“Haleluya”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 8) | https://bukuende.wordpress.com/2013/06/16/jahowa-jahowa-buku-ende-no-8-buku-logu-no-197/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+(1+2) | 3 3 0 (3+4) | 5 5 0 5 | 1' 5 6 5 | 4 . 3 v 2 |
+(3+#4) 5 6 #4 | 5 . v 5 3 | 4 . 3 . | 0 1' 7 1' | (2'+1') 7 6 6 |
+5 . v 6 (5+4) | 3 4 3 2 | 1 . v (3+4) 5 | 5 6 (5 4) | 3 v 2 3 3 |
+#4 #4 (5+6 7+1') | 7 6 5 . | 0 5 6 7 | 1' . 0 4 | 3 2 1 |]
+> Ja-ho-wa, Ja-ho-wa, Ja-ho-wa! Di go-ar-Mu ma ha-sa-nga-pon i, A-men, A-men! Pu-ji-on-na-mi do tong-tong go-ar-Mi di jo-ro-Mon, Sai naeng do-ho-non-ku: _ Ba-dia ba-dia do go-ar-Mu. Ha-le-lu-ya! Ha-le-lu-ya.
+#V
+Jahowa, Jahowa, Jahowa! Di goarMu ma hasangapon i, Amen, Amen!
+Pujionnami do tongtong goarMi di joroMon,
+Sai naeng dohononku: Badia badia do goarMu. Haleluya! Haleluya.
+-
+O Jesus, o Jesus, o Jesus! GoarMi do dipuji hami on!
+Amen, amen! Ho do di suru Ama i, Na marholong roha i,
+Asa saut malua ma hami sian saluhut jea. Pinuji Ho, pinuji Ho!
+-
+O Tondi, o Tondi, o Tondi Parbadia! Pinuji dohot Ho!
+Amen, amen! Na sintong nang na tiur pe, nang na denggan sasude
+Ho do manuanhon tu roha ni sude hajolmaon. Haleluya! Haleluya!

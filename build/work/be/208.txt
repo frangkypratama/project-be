@@ -1,0 +1,42 @@
+@be 208
+@bl 180
+@title Ale dongan na saroha
+@key G
+@meter 4/4
+@credit Johann Schop, 1642
+@pages 188 189
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 13 dari 16 baris sama; baris 1, 3, 16 beda ejaan. Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 208) | https://bukuende.wordpress.com/2013/06/09/ale-dongan-na-tarhurung-buku-ende-no-208-buku-logu-no-180/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Judul di kepala lagu "Ale dongan na saroha"; baris pertama lirik tercetak "Ale dongan na tarhurung".
+@check Birama terakhir: angka 1 bertanda fermata (busur + titik di atas), bukan oktaf atas; not balok buku menunjukkan G4.
+#A
+1 2 3 5 | 4 3 2 2 v | 3 2 1 2 |
+1 7, 1 . :|
+> A-le do-ngan na tar-hu-rung di-ba-ga-san do-sa i,
+> Ha-ngo-lu-an na su-mu-rung si-ba-ri-ta-ho-non-ki.
+#B
+7, 1 2 2 | 1 7, 6, 6, |
+7, 1 2 3 | 4 3 2 . v | 1 2 3 5 |
+4 3 2 2 v | 3 2 1 2 | 1 7, 1 . |]
+> Di pa-pa-tar De-ba-tan-ta A-si ni ro-ha-Na i; Ai di-su-ru do A-nak-Na, baen ha-ngo-lu-an-ta i.
+#V
+Ale dongan na tarhurung dibagasan dosa i,
+Hangoluan na sumurung sibaritahononki.
+Di papatar Debatanta Asi ni rohaNa i;
+Ai disuru do AnakNa, baen hangoluanta i.
+-
+Pangondian do AnakNa, naung ro tu portibi on,
+Paluahon sian dosa, hita na marjea on.
+Jesus Kristus i do goar ni pangondinganta i;
+Ai Ibana do manggarar utang ni pardosa i.
+-
+Jesus Kristus do manogu au tu hasonangan i;
+Diarahon do tondingku tu hasangaponNa i,
+Asa unang be marlea au, na bojok roha on,
+Jala dao sudena jea, na mangago rohangkon.
+-
+Ia ro pe hamatean, Jesus mangapuli au;
+Di na songgop paruhuman, Jesus mangondihon au.
+Aha be habiaranku? Jesus do haposanki,
+Ala ni sai pujionku holong ni rohaNa i.

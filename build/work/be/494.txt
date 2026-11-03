@@ -1,0 +1,29 @@
+@be 494
+@bl 336
+@title Holom bornginna i.
+@key Bb
+@meter 3/4
+@credit Enduard Ebel 1905
+@pages 468 469
+@check Kepala lagu juga mencetak "U.L. No. 551".
+@check Kredit tercetak "Enduard Ebel 1905" (lazim: Eduard Ebel); ditulis sesuai buku.
+@check Lirik baris 1 tercetak "Holom bornginna, i Gok arsak tano i" — ditulis sesuai buku.
+@status Lirik dicek · 8/8 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 494) | https://bukuende.wordpress.com/2013/06/13/holom-bornginna-i-buku-ende-no-494-buku-logu-no-336/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . 3 | 2 .+3 2 | 1 . . | 1 . 6, | 1 7, 6, | 5, . . |
+2 .+2 2 | 4 3 2 | 1 . . | 2 6, 6, | 7, (6,+5,) 7, | 1 . . |]
+> Ho-lom born-gin-na, i Gok ar-sak ta-no i I-da ma Tu-han-mu ro so-nang ma, so-nang ma ho.
+#V
+Holom bornginna, i Gok arsak tano i
+Ida ma Tuhanmu ro sonang ma, sonang ma ho.
+-
+Unang gondok roham, pahinsa ma langkam!
+Tagam, tibu nama ro Jesus Sipangolu ho.
+-
+Saluhut holsomi dipadao Jesus i, Jesus, sipasabam ho
+Jangkon ma Jesus, naung ro.
+-
+Nunga sonang au on, las dibaen rohangkon,
+Ho pe, boi do sonang ho, pos roham, porsea ho!

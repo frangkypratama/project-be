@@ -1,0 +1,29 @@
+@be 796
+@bl 0
+@title Asi ni rohaNa
+@key G
+@meter 4/4
+@credit Syair: Ja ich will euch tragen, Jochen Klepper 1938 · Terj.: Dcs. Bonaria Hutabarat · Lagu: Samuel Rithenberg, 1939
+@pages 873
+@status Lirik dicek · 7/8 baris sama dgn pembanding (796a)
+@check Pembanding lirik 796a: baris 8 kata 2 (do) beda; scan hlm 873 jelas "tong do tuk" — sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 796a) | https://bukuende.wordpress.com/2013/06/09/asi-ni-rohana-buku-ende-no-796a-buku-logu-no-796a/ | teks ayat
+@check Buku memuat DUA lagu bernomor 796: "796a. Asi ni rohaNa" (hlm 873, do = G, 4/4) dan "796b. Asi ni rohaM do" (hlm 874, do = F, 4/4 dengan birama 6/4). File ini memuat 796a.
+@check Versi b ada di BE 796b.
+@check Kredit ditulis seperti buku ("Samuel Rithenberg"; ejaan lazim Rothenberg).
+#A
+3 2 1 7, | 6, . 5, . | 1 .+1 2 .+2 | 3 . . . |
+5 5 6 5 | 4 . 3 . | 2 1 2 2 | 1 . . . |]
+> A-si ni ro-ha-Na do ma-ngu-sung ho, ro di sa-le-leng na a-si-an Na ho.
+#V
+Asi ni rohaNa do mangusung ho,
+ro di salelengna asianNa ho.
+-
+Sai pasautonNa na nidokNa i,
+sai pasonangonNa ho na loja i.
+-
+Debata Jahowa na mangusung ho,
+i do na mangompa asa sonang ho.
+-
+Songon na sai laon pangusungNa i,
+tong do tuk gogoNa patupahon i.

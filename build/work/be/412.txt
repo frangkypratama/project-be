@@ -1,0 +1,43 @@
+@be 412
+@bl 387
+@title Ndi di dolok adui
+@key Bb
+@oct -1
+@meter 6/8
+@credit Rev. George Bennard 1958
+@pages 395 396
+@status Lirik dicek · 9/13 baris sama dgn pembanding
+@check Kepala lagu juga mencetak "Z.L. No. 10."
+@check Birama 6/8: 1 token = 1 not 1/8 (not 1/16 = setengah token). Tanda mula 2 mol, do = Bes (oktaf bawah: 3 = D4); 4* = ♮E, 5* = Fis sesuai not balok.
+@check Birama 1 ("5. 4* 6 5 5.5"): nilai not kurang jelas di scan; ditulis sama dengan birama sejajar di baris 2 (… 5 = 1/4, 5 5 = dua 1/16).
+@check Not gantung refrein "7 1" tercetak tanpa titik atas, tetapi not balok = A4–Bes4; ditulis 1' (Bes4).
+@check Bagian A = bait, bagian B = refrein "Dibaen i, …" (ayat 2–4 mencetak refrein disingkat "Dibaen i,...").
+@check Pembanding lirik: bukuende.wordpress.com — 9/13 baris sama; beda ejaan di baris 2, 4, 7, 13 (disi, tusi, Dibaen, Ni); scan dicek, mengikuti buku. Pembanding 4 ayat.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 412) | https://bukuende.wordpress.com/2013/06/16/ndi-di-dolok-adui-buku-ende-no-412-buku-logu-no-387/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 .+4 | 5 .+#4 6 5 . 5+5 | 6 .+#5 7 6 . 6 |
+7 .+6 5 4 5 4 | (3 . . 3 .) 3+4 | 5 .+#4 6 5 . 5+5 |
+6 .+#5 7 6 . 6+6 | 7 .+6 5 4' 3' 2' | (1' . . 1' .) |]
+> Ndi, di do-lok a-dui si-lang ni Tu-han i, Sap mu-dar, sap ti-jur do i. Je-sus ma-te di-si, a-sa ma-lum di-baen su-de ang-ka gon-dok ro-ha i.
+#B
+7+1' | 2' .+2' 2' 2' 1' 7 | (1' . . 1' .) 1'+7 |
+6 .+6 6 1' 7 6 | (5 . . 5 .) 5+1' | 3' .+3' 3' 3' 4' 3' |
+(6 . . 6 .) 4'+4' | 3' .+2' 1' 5 7 2' | (1' . . 1' .) |]
+> Di-baen i, tung ho-long ro-hang-ki mi-da si-lang di Gol-ga-ta. i Hu-pa-sol-hot di-ring-ku tu-si. Dom-pak sur-go-par da-la-nan-ki.
+#V
+Ndi, di dolok adui silang ni Tuhan i, Sap mudar, sap tijur do i.
+Jesus mate disi, asa malum dibaen sude angka gondok roha i.
+Dibaen i, tung holong rohangki mida silang di Golgata. i
+Hupasolhot diringku tusi. Dompak surgo pardalananki.
+-
+Dileai jolma i silang ni Tuhan i. Hape, haluaon do i.
+Nang godang dosangki, alai sesa do i,
+Dibaen mudar na durus disi. Dibaen i,...
+-
+Na mabaor sian i mudar ni Tuhan i, na tau paiashon au on.
+Tung na bernit ditaon Tuhan Jesus disi
+Paluahon sude hita on. Dibaen i,....
+-
+Hona insak do au, raphon silang au lao, saleleng di portibi on.
+Sogot tumpal, hape, siteanon muse
+Ni na rap dohot Jesus dison. Dibaen i,...

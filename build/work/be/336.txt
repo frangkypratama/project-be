@@ -1,0 +1,36 @@
+@be 336
+@bl 45
+@title Sonang ma modom
+@key F
+@meter 3/4
+@credit Friederich Burchard Beneken 1787
+@pages 314 315
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 336) | https://bukuende.wordpress.com/2013/06/18/sonang-ma-modom-buku-ende-no-336-buku-logu-no-45/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama "1 7 7 0" (baris 1): suku kata "mo" di bawah dua not 1/8 (1-7) tanpa tanda legato tercetak → ditulis legato agar suku kata pas.
+@check Tanda napas di tengah ketukan ("3 ’ 5", baris 4) tidak dapat ditulis; dihilangkan.
+#A
+1 2 1 | (1+7,) 7, 0 | 2 1 7, | 7,+.+.+1 1 0 |
+5 4 3 | (3 2) 1 v | 2 4+.+.+2 3+.+.+1 | (3 2) 0 |
+> So-nang ma mo-dom ho na mar-tu-a i, na ma-ra-di-an si-an u-la-on i,
+#B
+5 4 3 | (3+4) 4 0 | 4 3 2 | (2+3) 3 0 |
+6, 6 5 | (5 4) 3+5, | 6,+.+.+2 (1 7,) | 1 . 0 |]
+> na ni-u-la-mu di ha-jol-ma-on ja-la na ma-ngi-hut ho tu sur-go,
+#V
+Sonang ma modom ho na martua i, na maradian sian ulaon i,
+na niulamu di hajolmaon
+jala na mangihut ho tu surgo,
+-
+Naung niapusan do iluilumi sian matamu dibaen Tuhanta i :
+Tangis najolo mangusung boni.
+Las do rohamu nuaeng manggotil
+-
+Molo soara ni Tuhan Jesus i, na manorusi sude tanoman i,
+Ro manungguli angka naung mate.
+Hehe nasida marhasangapon.
+-
+Hamuliaon di Ho. o Debata, ala pambaenMu di hami on sude:
+Mate do hami ala ni dosa.
+Mangolu hami dibaen AnakMu.

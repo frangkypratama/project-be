@@ -1,0 +1,52 @@
+@be 281
+@bl 108
+@title Martua do na marhaposan
+@key Bb
+@oct -1
+@meter 3/4
+@credit Georg Neumark 1741
+@pages 261 262
+@status Lirik dicek · 17/21 baris sama dgn pembanding
+@check Salah cetak di buku: hlm 261 (header halaman "281") mencetak judul lagu sebagai "581. Lagu No. 108 : Martua do na marhaposan". BE 581 yang sebenarnya adalah "Sangap di Jahowa" (hlm 562, tanpa nomor Logu). Ayat 7 lagu ini bersambung di hlm 262, tepat sebelum BE 282 → lagu ini adalah BE 281.
+@check Kredit "Lagu : Georg Neumark 1741" tercetak di bawah ayat 7 (hlm 262); tahun ditulis sesuai buku.
+@check Ayat 2 baris 1 tercetak "marguna 1?" — kemungkinan "i?" (huruf i tercetak seperti angka 1); ditulis "i?".
+@check Pembanding lirik: bukuende.wordpress.com mencatat BE 281 = "Martua Do Na Marhaposan", Buku Logu No. 108 (cocok dengan scan). 17 dari 21 baris sama; baris 8, 15, 16, 18 beda ejaan/spasi 1 kata — dicek ulang ke scan, ditulis sesuai buku. Baris "marguna i?" cocok dengan pembanding.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 281) | https://bukuende.wordpress.com/2013/06/16/martua-do-na-marhaposan-buku-ende-no-281-buku-logu-no-108/ | 17/21 baris sama
+@check Nada dasar dari not balok: dua mol (Bes), not pertama "3" = D di bawah paranada → do = Bes rendah. "5*" = kres 5 (Fis di not balok).
+#A
+3 6 7 | 1' . 7 | 6 . 7 | #5 3 0 |
+5 5 4 | 3 . 6 | 6 . #5 | 6 . . :|
+> Mar-tu-a do na mar-ha-po-san tu De-ba-ta A-man-ta i;
+> Ai i do da-pot pa-nga-pu-lan di na-sa par-so-ri-on i.
+#B
+7 1' 2' | 3' . 3' |
+2' . 2' | 1' . . v | 1' 7 6 | #5 . 6 | 6 . #5 | 6 . . |]
+> Ndang ri-hit ha-o-ja-han ni na mang-ka-po-si Tu-han i.
+#V
+Martua do na marhaposan tu Debata Amanta i;
+Ai i do dapot pangapulan di nasa parsorion i.
+Ndang rihit haojahan ni na mangkaposi Tuhan i.
+-
+Ianggo sai holsoan hita, tu aha ma marguna i?
+Nang pe tongtong dokdok rohanta pasarisari jea i,
+Tung i ma paoruhon i, baliksa ganda do disi.
+-
+Dibahen i paso ma jolo huhut pasabam rohami,
+Paidaida, manang lolo ho unduk di Debatami.
+Ibana, na mamillit ho, na ringkot i diboto do.
+-
+Diboto do halehetanna, mambaen las ni rohanta i;
+Asal diida, haposanna do hita, ndang mangansi be,
+Ditongos do na denggan i, andorang so tinagam i.
+-
+Sai unang dok di haporsuhon Ho ditadingkon Debata
+Alai na so manaon sitaonon, i do diabing Debata
+Manang sintong pingkiranmu, ujungna patandahon i.
+-
+Mura do anggo di Tuhanta, sobok do digogona i.
+Na mora i papogosonna, mambaen sangap na pogos i.
+Longang ma sogot rohami mananda pambenanna i.
+-
+Ipe haporseai Ibana, burju ma ula tohapmi,
+Ihuthon ma tongtong hataNa, haposi panumpakNa i;
+Na mangkaposi Tuhan i na so hea tartading i.

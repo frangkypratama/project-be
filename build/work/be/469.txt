@@ -1,0 +1,45 @@
+@be 469
+@bl 316
+@title Di dia ahu tu dia.
+@key A
+@meter 2/4
+@credit Ev. Ps. No. 42
+@pages 447 448
+@check Not terakhir ("ku.") bertanda fermata; tidak bisa ditulis di format ini.
+@check Tidak ada keterangan "Lagu :" untuk lagu ini di hlm 447–448.
+@status Lirik dicek · 6/7 baris sama dgn pembanding
+@check Pembanding lirik: pembanding hanya memuat ayat 1–3 (buku 9 ayat); beda ejaan di ayat 3 baris 1 ("homomoruNa"), scan hlm 448 sesuai buku. Ayat 4–9 belum ada pembanding. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 469) | https://bukuende.wordpress.com/2013/06/13/di-dia-ahu-tu-dia-buku-ende-no-469-buku-logu-no-316/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 2 | (3+.+.+2) 1+5 | (5+4) (3+2) | 3 1+1 |
+6, 7, | 1 1+1 | 2 4 | 3 3 |
+3 2+1 | 6 5 | 3 1+3 | 2 1 |]
+> Di-di-a a-hu, tu-di-a la-ho to-rop do-ngan-ku, Pun-jung lang-kang-ku Je-sus Tu-han-ku, Je-sus Tu-han-ku.
+#V
+Didia ahu, tudia laho torop donganku,
+Punjung langkangku
+Jesus Tuhanku, Jesus Tuhanku.
+-
+Naung ro Tuhanku, girgir rohangku,
+Lao pararathon, mangkatindangkon: :,: Jesus Tuhanku :,:
+-
+Di partubuNa, homomoruNa,
+Di parmateNa, di parheheNa: :,: Jesus Tuhanku :,:
+-
+Naek tu AmaNa, tu habangsaNa,
+Naeng taitonNa do siseanNa: :,: Jesus Tuhanku :,:
+-
+TondiNa tuat, tu nasa luat, rarat podaNa,
+HarajaonNa: :,: Jesus Tuhanku :,:
+-
+Tumaon na dokdok, so marnamontok angka saksiNa
+Didok tondiNa: :,: Jesus Tuhanku :,:
+-
+Jumpang tingkingku, mate dagingku, sonang tondingku,
+Rungkar hoingku: :,: Jesus Tuhanku :,:
+-
+Parsaoranku dohot Tuhanku,
+Sai on dengganna tung salelengna: :,: Jesus Tuhanku :,:
+-
+Marhamonangan di hasonangan,
+Halashononku, endehononku: :,: Jesus Tuhanku :,:

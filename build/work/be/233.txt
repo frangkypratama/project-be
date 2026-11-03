@@ -1,0 +1,52 @@
+@be 233
+@bl 241
+@title Turena i manodo
+@key D
+@meter 4/4
+@credit Johann Jakob Rambach, 1727
+@pages 213 214
+@check Birama 3 "2 . 2 v 5": not balok menunjukkan dua not 1/4 (titik hanya pemisah).
+@check Ayat 2 kata pertama tercetak bertumpuk "Sumurungdo" (huruf renggang menimpa "do"); ditulis "Sumurung do".
+@check Ayat 5–6 dan kredit tercetak di halaman 214.
+@status Lirik dicek · 21/24 baris sama dgn pembanding
+@check Pembanding lirik: L5, L13, L23 beda ejaan satu kata; dicek di scan hlm 213–214, buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 233) | https://bukuende.wordpress.com/2013/06/18/turena-i-manodo-buku-ende-no-233-buku-logu-no-241/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 3 6 5 1' | 7 6 5 (4+3) | 2 . 2 v 5 |
+1' 1' 7 5 | 1' (7+6) 5 #4 | 5 . 0 :|
+> Tu-re-na i ma-no-do Tu-han Je-sus, mar-tu-a na pi-nar-ma-han-Na i.
+> U-li-na i! Sang-kap-na di-pa-tu-lus, di ga-nup hi-ta hi-nop-hop-Na i.
+#B
+5 | 6 7 1' 4 |
+3 2 1 . | 0 5 5 6 | 5 4 3 5 | 1 4 3 2 | 1 . . |]
+> San-dok pa-pu-tus ro-ha-mi: Pa-sa-hat ma di-rim tu Tu-han Je-sus i.
+#V
+Turena i manodo Tuhan Jesus, martua na pinarmahanNa i.
+Ulina i! Sangkapna dipatulus, di ganup hita hinophopNa i.
+Sandok paputus rohami:
+Pasahat ma dirim tu Tuhan Jesus i.
+-
+Sumurung do panogunoguonNa, umarga sian rumang tano on.
+Halaean nasa pangajarionNa, dijujur siseanNa i tongon.
+Lam las, lam sabam rohangki,
+Lam hupasolhot au tu Ho, o Tuhanki.
+-
+Ramoti au Tuhanku, sai longkangi, ma sian au tung hatangkangon i.
+Asi rohaM, datdati, sai torangi, rohangku, lao mananda dalanMi.
+Pangkilalahon ma tu au
+GogoM, dameM, ngoluM, tu dia pe au lao.
+-
+Ulina i, sai mian di tanganMu, au nang nadokdok niampehonMi.
+Ai marsihohot ahu di dalanMu, sai tua i di au tumpahonMi.
+Margogo do panatapMi,
+Mambuat biar mida hamatean i.
+-
+Tahop pe dosa ro, nang halumlamon, manogu au tu haholomon i,
+Hutangkup Tuhanki, ai ndang tagamon
+Saut lonong au pasombuonna i, jonok Ibana do tongtong,
+Asal di au diida roha na sintong.
+-
+Sai tong ma au ojak di gomgomanMu, ale Parmahan na sun denggan i.
+Anggiat tau au tu hasonanganMu,
+Pinaimbaru ni panghophopMi. Marlas ni roha situtu
+Au mangihuthon Siparmahan na burju.

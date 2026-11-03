@@ -1,0 +1,43 @@
+@be 248
+@bl 18
+@title Saleleng ho di tano on
+@key Eb
+@meter 4/4
+@credit Wa Mazar Lobt Golt, 141
+@pages 227 228
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: beda kata "ho" (ayat 2 "na denggan ho ramos"); dicek ulang ke scan: tercetak "ho" di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 248) | https://bukuende.wordpress.com/2013/06/18/saleleng-ho-di-tano-on-buku-ende-no-248-buku-logu-no-18/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Kredit tercetak samar "Wa Mazar Lobt Golt, 141" (kemungkinan rujukan buku koral Jerman); ditulis apa adanya.
+@check Kepala lagu dicetak "Lagu No. 1?" (angka kedua samar); diisi 18 sesuai bukuende.wordpress.com (BE 248, Buku Logu No. 18) dan bentuk angka yang tampak.
+@check Titik di antara angka beberapa kali hanya pemisah (mis. "1 · ' 5", "2 . 2", "2 0 5"); durasi mengikuti not balok buku dan hitungan 4 ketuk.
+@check Tanda mula samar; dibaca 3 mol (do = Es) dari letak not.
+#A
+5, | 1 1 2 2 | 3 .+2 1 v 5, |
+4 4 3 3 | 2 . 0 5, | 4 .+3 2 2 |
+5 .+4 3 v 3 | 2 2 7, 7, | 1 . 0 |]
+> Sa-le-leng ho di ta-no on, pa-ti-gor ma ro-ham, pa-i-ngot-i-ngot ma tong-tong ni-dok ni De-ba-tam.
+#V
+Saleleng ho di tano on, patigor ma roham,
+Paingot-ingot ma tongtong nidok ni Debatam.
+-
+Sai songon hau na denggan ho ramos parbue ni,
+Bulungna pe na uli do, antong sai tiru i.
+-
+Godang do hinauli ni aek mata i tongtong;
+Pasuman ma dirim tusi, sai baen roham sintong.
+-
+Bolongkon sian rohami luhut na so ture;
+Alai na sian Tuhan i ramoti ma sude.
+-
+Sai tiru Tuhan Jesus i naung ro humophop ho;
+PambaenNa nang hataNa i hangoluanmu do.
+-
+Ibana do padomu ho tu Tuhan Debata.
+MudarNa diusehon do di dolok Golgata
+-
+Arga do hita sasude ditobus Jesus i;
+Ai naeng mangolu hita be di adopanNa i.
+-
+Antong ringgas ma hita be mangalo dosa i;
+Tahangoluhon ma sude na sian Tuhan i.

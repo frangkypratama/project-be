@@ -1,0 +1,45 @@
+@be 280
+@bl 173
+@title Tongtong tutu na ma denggan do
+@key F
+@meter 4/4
+@credit Severus Gastorius 1641
+@pages 260 261
+@check Judul kepala lagu "Tongtong tutu na ma denggan do"; baris pertama lirik "Tongtong tutu na denggan do" (tanpa "ma").
+@check Baris lirik 2 tercetak "Ma tu a so sol-so-lan"; ditulis sesuai buku.
+@status Lirik dicek · 18/20 baris sama dgn pembanding
+@check Pembanding lirik: L10 kata 9 dan L19 kata 6 (buku "hongoluannami") beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 280) | https://bukuende.wordpress.com/2013/06/18/tongtong-tutu-na-denggan-do-buku-ende-no-280-buku-logu-no-173/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 2 3 6 | 5 4 3 v 6 | 5 4 3 3 | 2 . 1 :|
+> Tong-tong tu-tu na deng-gan do pam-baen ni De-ba-tan-ta
+> Ma tu a so sol-so-lan do su-de do i mar ha-ta.
+#B
+5 | 6 6 2 v 2 | 5 5 1 v 3 | 2 1 7, 7, |
+6, . 5, v 5 | 6 5 4 3 | 2 . 1 |]
+> Pos ma ro-ham di De-ba-tam, i-hu-thon ma I-ba-na, na bo-nar do ro-ha-na.
+#V
+Tongtong tutu na denggan do pambaen ni Debatanta
+Matua so solsolan do sude do i marhata.
+Pos ma roham di Debatam, ihuthon ma Ibana,
+na bonar do rohana.
+-
+Ndang dung mangansi hata ni mangaliluhon iba;
+Ndang dung geduk pambaenNa i, lao maminsangi iba,
+Sai na ture do i sude, sude do i marala;
+Ndang dung Ibana sala.
+-
+Diboto Debatanta i na denggan i di hita;
+Na so tagamon baenon ni na so ture di hita,
+Dibahen i di rohangki, denggan do unduk hita
+Di hata ni Tuhanta,
+-
+Denggan pambaen ni Tuhanki, tiur dibaen langkangku;
+Tongon do hangoluanki ditongos Debatangku.
+Patar ma i di tingki ni hapapatarna sogot,
+Dung au tu surgo bongot.
+-
+O Jesus, tatap hami on, rohaM nama di hami
+Di ho ma tondinami on, dihophop Ho do hami.
+Tongtong burju huhut tutu: Ho hongoluannami
+Sai Ho do Rajanami.

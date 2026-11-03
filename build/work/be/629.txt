@@ -1,0 +1,45 @@
+@be 629
+@bl 0
+@title Lao do au tu tanoman i
+@key Ab
+@meter 6/8
+@credit Syair dan Lagu: I come to the garden alone; C. Austin Miles, 1912 · Terj.: Pdt. J.A.U. Doloksaribu
+@pages 635 636 637
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Joh. 20:1-17.
+@check Melodi sama dengan BE 625 (In the Garden), terjemahan lain; not angka & balok dicek ulang per birama — sama dengan BE 625.
+@check Birama 6/8: 1 token = 1 not 1/8. Birama 3: angka "1 . 1 2 1̣ 6̣" — titik bawah pada 1 tampak salah cetak (balok = A♭4).
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 3 baris 3 (jaou) beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 629) | https://bukuende.wordpress.com/2013/06/16/lao-do-au-tu-tanoman-i-buku-ende-no-629-buku-logu-no-629/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 5, 3, 4, 5, 1 2 | (3 . . 3) 2 1 | 1 . 1 2 1 6, |
+1 . . 5, . 7,+1 | 2 . 2 7, . 6,+7, | 1 . 2 3 . 3 |
+2 . 3 2 . 1 | (7, . 1) 2 . |
+> Lao do au tu ta-no-man i tung so-got so-a-da mar-do-ngan du-ngi hu-be-ge so-a-ra-Na i he-he ha-pe I-ba-na
+#B
+3+.+.+2 | 1 . 1 1 7, 6, |
+7, . 7, 7, . 5,+5, | 4 . 4+4 4 3 #2 |
+(3 . . 3) . 1+2 | 3 . 3 2 2 7, | 1 . 1 1 . 6, |
+5, 1 .+1 7, 1 2 | (1 . . 1) 0 |]
+> Rap mar-da-lan au, do-hot Tu-han-ki ndang ha-pa-lang las ni ro-hang-ki ai di-dok "I-ba-na nam-pu-na au" rap Je-sus mar-tu-a do au.
+#V
+Lao do au tu tanoman i
+tung sogot soada mardongan
+dungi hubege soaraNa i
+hehe hape Ibana.
+Ref.: Rap mardalan au, dohot Tuhanki
+ndang hapalang las ni rohangki
+ai didok "Ibana nampuna au"
+rap Jesus martua do au.
+-
+Uli do soaraNa i
+na mambaen hohom humaliang
+ende na uli, na dirohangki
+paganda las ni roha.
+Ref.: Rap mardalan . . .
+-
+Aut boi au di inganan i
+ganup ari raphon Ibana
+alai au nang ho, di jaou Tuhan i
+pararat harajaonNa.
+Ref.: Rap mardalan . . .

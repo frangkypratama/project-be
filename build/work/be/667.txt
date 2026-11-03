@@ -1,0 +1,40 @@
+@be 667
+@bl 0
+@title Ise ma angka panabi
+@key D
+@meter 6/4
+@credit Syair: Hear The Voice of Jesus Calling, Daniel March · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Gregorian, Chant.
+@pages 688 689
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 7 ("tau" — ejaan). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 667" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 667) | https://bukuende.wordpress.com/2013/06/16/ise-ma-angka-panabi-buku-ende-no-667-buku-logu-no-667/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Mat. 9:37-38.
+@check Tanda birama tercetak 3/2; ditulis 6/4 (format menghitung ketukan per not 1/4; tiap birama = 6 ketuk).
+@check Lengkung di bawah "jou", "au", "dao", "tau", "sai", "baen", "oi", "ou" = satu suku kata.
+#A
+1 3 | 5 . . 3 4 6 | 5 . 3 . 5 1 |
+4 3 2 . 2 . | 1 . . . 1 3 | 5 . . 3 4 6 | 5 . 3 . 5 1 |
+4 3 2 . 2 . | 1 . . . 1' 7 | 1' . . 5 6 6 |
+5 . 5 . 1' 7 | 1' . . 5 6 6 | 5 . . . 1 3 |
+5 . . 3 4 6 | 5 . 3 . 5 1 | 4 3 2 . 2 . | 1 . . . |]
+> I-se ma ang-ka pa-na-bi nin-na Je-sus Tu-han i, nu-nga ma-sak ang-ka e-me di la-dang ni Tu-han i, Je-sus do man-jou ha-mu-na bor-hat tu go-ti-lon i, i-se ma na ma-nga-lu-si, su-ru au, di-son do au.
+#V
+Ise ma angka panabi ninna Jesus Tuhan i,
+nunga masak angka eme di ladang ni Tuhan i,
+Jesus do manjou hamuna borhat tu gotilon i,
+ise ma na mangalusi, suru au, dison do au.
+-
+Nang pe so taripar laut manang tu luat na dao.
+dohot ma ho sitindangi ni Tuhanta Jesus i.
+ndang tau ho didok rohamu, Naeng ma haposan ho,
+sai pelehon ma dirimu tu HarajaonNa i.
+-
+Molo so tarbaen ho jongjong di parik ni Sion i,
+tarbaen ho do manogihon dongan tu gotilon i,
+tangiangkon ma nasida diulaon Sending i,
+sai urupi ma nasida mamorsan na dokdok i.
+-
+Unang ma marsidalian, ndang adong talentangki,
+tung torop do pe na lilu na di haholomon i,
+ingot tona ni Tuhanta, oloi panjouonNa i,
+dohot ma ho mangalusi, suru au dison do au.

@@ -1,0 +1,39 @@
+@be 63
+@bl 77
+@title Jesus, Ho do sai tongtong
+@key Bb
+@meter 4/4
+@credit Benjamin Schmolek, 1726
+@pages 55
+@status Lirik dicek · 10/15 baris sama dgn pembanding
+@check Buku menulis "Benjamin Schmolek"; ejaan lazim Benjamin Schmolck.
+@check Pembanding lirik: bukuende.wordpress.com — 10 dari 15 baris sama persis; 5 baris beda ejaan ("haposi", "na'mbaru", "bagas", "parsirionnami"). Dicek ulang ke scan: "donganami" diperbaiki menjadi "dongannami" (sesuai buku); kata lain mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 63) | https://bukuende.wordpress.com/2013/06/16/jesus-ho-do-sai-tongtong-buku-ende-no-63-buku-logu-no-77/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 5, 1 2 | 3 .+3 2 . v | 3 1 (2+1) 7, | 1 7, 6, . |
+5, . . . :|
+> Je-sus, Ho do sai tong-tong Di ha-po-si ro-ha-na-mi;
+> Nang di taon na'm-ba-ru on. Ing-kon Ho do do-ngan-na-mi;
+#B
+5, 3, 6, 5, | 4, .+4, 3, . v | 1 2 3 1 | 2 2 1 . |]
+> Tan-da hot do pa-dan i di-ba-ga-san mu-dar-Mi.
+#V
+Jesus, Ho do sai tongtong Di haposi rohanami;
+Nang di taon na'mbaru on. Ingkon Ho do dongannami;
+Tanda hot do padan i dibagasan mudarMi.
+-
+Nang goarMu, nang hataM, ingkon dapot do begeon
+Di bagasan huriaM, na girgir lao paradehon
+Roha ni ruasNa i bahen bagas joroMi.
+-
+Na binaenMu sasude, pangoluhon tondinami,
+Nasa hatuaon pe naeng gomos tioponnami;
+Nang di taon na'mbaru on, hot di Ho ma hami on.
+-
+Holan mardonganhon Ho, Jesus, naeng, mardalan hami;
+Bintang sipartogi do, Ho tongtong di dalannami;
+Ai binaen ni sondangMi, tiur situtu ma i.
+-
+Jesus, sahat ma tu Ho, nasa parsirionnami;
+Nang beha pe dibaen Ho, sai marguna do di hami.
+Raphon Ho tarapul be, rohanami sasude.

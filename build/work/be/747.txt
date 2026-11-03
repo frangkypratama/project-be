@@ -1,0 +1,45 @@
+@be 747
+@bl 0
+@title Sai hunangkohi dolok i
+@key G
+@meter 3/4
+@credit Syair: I'm Pressing on the Upward Way/Higher Ground, Johnson Oatman, Jr. 1898; Terj.: Pdt. M. Hutapea / Pdt. M.V. Simanjuntak; Lagu: Charles H. Gabriel, 1898
+@pages 803 804
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Rujukan ayat di kepala lagu: Pil. 3:14.
+@check Tanda birama di paranada kecil/kabur (terbaca seperti 2/4), tetapi tiap birama penuh berisi 3 ketuk di angka dan balok → ditulis 3/4; birama pertama bagian A dan refrein = ketukan gantung 2 ketuk.
+@check Judul tercetak "Sai hunangkohi dolok i", tetapi baris pertama lirik "Sai hunangkohi dalan i".
+@check Kredit tercetak "Pm Pressing on the Upward Way/lligher Ground" (salah cetak untuk I'm … / Higher Ground) — ditulis dengan ejaan lazim di @credit.
+@check Hlm 803 birama "2 .5 5 1" (i, on do tong-): ada coretan miring di paranada; mengikuti angka.
+@check Ayat 1 hanya tercetak di bawah not; teks ayat 1 dan refrein di #V disusun dari suku kata lirik.
+@check Pembanding lirik: beda ejaan di baris 1 (hunangkohi); scan hlm 803 jelas 'hu-nang-ko-hi', buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 747) | https://bukuende.wordpress.com/2013/06/18/sai-hunangkohi-dolok-i-buku-ende-no-747-buku-logu-no-747/ | Pembanding lirik (tanda baca diabaikan).
+#A
+0+5, 5,+1 | 3 .+3 2+1 | 6, .+2 1+6, | 5, .+1 3+1 |
+2 .+5, 5,+1 | 3 .+3 2+1 | 6, .+2 1+6, | 5,+1 3 2 | 1 |]
+> Sai hu-nang-ko-hi da-lan i da-lan na mar-mu-li-a i, on do tong-tong ta-ngi-ang-ki, Tu-han pa-tong-tong lang-kang-ki.
+#B
+0+5, 1+3 | 5 .+5 4+3 | 4 .+5, 7,+2 | 4 .+4 3+2 |
+3 .+5 5+3 | 1 .+3 2+1 | 6, .+2 1+6, | 5,+1 3 2 | 1 |]
+> Sai to-gu to-gu au Tu-han baen lam sol-hot tu lam-bung-Mi tu i-nga-nan-Mu na to-ngam sai lam pa-tong-tong lang-kang-ki.
+#V
+Sai hunangkohi dalan i dalan na marmulia i,
+on do tongtong tangiangki, Tuhan patongtong langkangki.
+Ref. Sai togutogu au Tuhan, baen lam solhot tu lambungMi,
+tu ingananMu na tongam, sai lam patongtong langkangki.
+-
+Ndang olo au di na holom hot diganggu ni roha i,
+sai tong ma sihol rohangkon tu inganan na timbo i,
+Ref. Sai togutogu ...
+-
+Gok begu pe portibion na naeng mamolgak diringkon,
+sai hot haporseaonki gok las ni roha ngolungki,
+Ref. Sai togutogu . . .
+-
+Naeng au marngolu na sintong dao sian ruhut tano on,
+HuriaMi naung monang i managam au disurgo i,
+Ref. Sai togutogu ...
+-
+Naeng sahat au tu surgo i tu inganan na tiur i,
+Tuhan sai tiop tanganki baen lam solhot tu lambungMi,
+Ref. Sai togutogu ....

@@ -1,0 +1,50 @@
+@be 786
+@bl 0
+@title DigomgomanMi O Tuhan
+@key F
+@meter 3/4
+@credit Syair: Not alone for mighty empire; William P. Merril, 1867 - 1954 · Terj.: Pdt. M. V. Simanjuntak · Lagu: Rowland Hugh Prichard, 1811 - 1887
+@pages 859 860 861
+@status Lirik dicek · 17/20 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 (nasoparjambar), 4 (ala), 20 (paringgas) beda ejaan/pemisahan; scan hlm 859–861 terbaca jelas, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 786) | https://bukuende.wordpress.com/2013/06/13/digomgomanmi-o-tuhan-buku-ende-no-786-buku-logu-no-786/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanda mula 1 mol (F mayor), not pertama 1 = F4 → 1 = F.
+@check Bagian B birama 8: angka hanya "2" (balok = G4 not 1/2), tidak cukup 3 ketuk; ditulis "2 . ." (3 ketuk).
+@check Bagian B birama 13: angka hanya "5", tetapi balok = C5 1/2 + C5 1/4 dan lirik "bi-na" butuh dua not → ditulis "5 . 5" sesuai balok.
+@check Ayat 1 disusun dari suku kata di bawah not (buku tidak mencetak ayat 1 terpisah).
+#A
+1 . 2 | (1 .+2) 3 | 4 . 3 | (2 1) 2 |
+5 . 4 | 3 . 3 | (2 1) 2 | 1 . . :|
+> Di-gom-gom-an-Mi o Tu-han ndang a-dong ha-mi pun-jung,
+> ndang a-dong na-so-par-jam-bar di ang-ka pa-su-pa-suM.
+#B
+5 . 5 | (5 4) 3 | 4 . 4 | (4 3) 2 | 3 . 3 | (3 4) 5 |
+(5 4) 3 | 2 . . | (5 3) 5 | (4 2) 4 |
+(3 1) 3 | (2+3 4+3) 2 | 5 . 5 | (6 5) 4 | 3 . 2 | 1 . . |]
+> Mau-li-a-te ro-ha-na-mi sai tong tong tu Ho Tu-han, a-la ni su-de na deng-gan bi-na-ga-ba-ga-hon-Mi.
+#V
+DigomgomanMi o Tuhan ndang adong hami punjung,
+ndang adong nasoparjambar di angka pasupasuM.
+Mauliate rohanami sai tongtong tu Ho Tuhan,
+ala ni sude na denggan binagabagahonMi.
+-
+Ndang tu batu partahanan manang podang na tajom,
+tu huaso ni tondiM do marhaposan hami on,
+sai suanhon ma tu hami roha mauliate i.
+ala haluaon nami ni asi-asihonMi.
+-
+Sai ajari hami Tuhan, manghalashon basaMi.
+ima jabu nang Huria dohot parguruan i.
+tondi na ungkap tu dongan di bagasan holong i,
+bangso nang negara nami, na denggan maruhum i
+-
+Mauliate hudok hami, ala angka dongan i,
+naung manjoloani hami, nang lea sangap pe i,
+ala ni angka Apostel dohot Panurirang i,
+na satia manindangi pararathon hataMi.
+-
+Debata ni hatigoran dohot hasintongan i,
+sai palua Bangso nami, sian parbolatan i,
+sai pahot ma rohanami, marhaporseaon i,
+lam paringgas rohanami, masihaholongan i.

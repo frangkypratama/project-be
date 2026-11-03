@@ -1,0 +1,42 @@
+@be 806
+@bl 0
+@title Aha pe masa dingolumon
+@key Bb
+@oct -1
+@meter 6/8
+@credit Syair: Be not dismayed whate'er betide/God win take care of you; Civillia D. Martin, 1904 · Terj.: Dcs. Bonaria Hutabarat / Pdt. J. A. U. Doloksaribu · Lagu: Walter Stillman Martin, 1904
+@pages 886 887
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 kata 6 beda ejaan (buku: "manajaga", salah cetak) → buku tetap.
+@check Pembanding menyebut Buku Logu No. 806; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 806) | https://bukuende.wordpress.com/2013/06/06/aha-pe-masa-dingolumon-buku-ende-no-806-buku-logu-no-806/ | teks ayat
+@check Tidak ada "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Kepala lagu mencetak "1 Petrus 5 : 7".
+@check Do = Bes (tanda mula 2 mol; 3 = D4, 1̇ = Bes4) → @oct -1. Angka 4 dicoret (= kres) → #4 (balok E♮4).
+@check Baris 2 tercetak "5 .7 6": balok = tiga not 1/8 (F4 A4 G4) → titik hanya pemisah, ditulis 5 7 6.
+@check Not akhir "1̇ . . 1̇ . ." dengan busur (balok: satu Bes4 1/2 bertitik) → ditulis satu not 1' . . . . . (begitu juga di akhir refrein).
+@check Kredit tercetak "God win take care of you" dan "Civillia D. Martin" (lazimnya will / Civilla) — ditulis apa adanya.
+@check Ayat 2 baris 1 tercetak "Tuhan manajaga ho" (baris lain "manjaga") — ditulis apa adanya.
+#A
+3 4 #4 5 1' 2' | 3' . 2' 1' . . |
+5 7 6 4 . 6 | (5 . . 3) . . |
+3 4 #4 5 1' 2' | 3' . 2' 1' . . |
+5 7 6 5 . 2' | 1' . . . . . |
+> A-ha pe ma-sa di-ngo-lu-mon Tu-han man-ja-ga ho, Ho-long-Na do ma-ngon-di-hon ho Tu-han man-ja-ga ho.
+#B
+1' . . 7 . 6 | 6 . 5 5 . . | 5 7 6 4 . . |
+4 6 5 3 . . | 5 . . 1' . 1' | (2' 1') 2' 3' . . |
+2' 1' 6 (5 1') 7 | 1' . . . . . |]
+> Tu-han man-ja-ga ho las pe ro-ham mar-sak pe ho, sai di-ra-mo-ti ho Tu-han man-ja-ga ho.
+#V
+Aha pe masa dingolumon, Tuhan manjaga ho,
+Holong-Na do mangondihon ho, Tuhan manjaga ho.
+Ref.: Tuhan manjaga ho las pe roham marsak pe ho,
+sai diramoti ho Tuhan manjaga ho.
+-
+Sai disarihon do ngolumi, Tuhan manajaga ho,
+sai ditangihon tangiangmi, Tuhan manjaga ho.
+Ref.: Tuhan manjaga ho . . .
+-
+Molo borat siporsanonmi, Tuhan manjaga ho,
+tung pe golap parnidaanmi, Tuhan manjaga ho.
+Ref.: Tuhan manjaga ho . . .

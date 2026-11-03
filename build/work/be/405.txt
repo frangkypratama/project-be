@@ -1,0 +1,36 @@
+@be 405
+@bl 386
+@title Adong sada mual
+@key Ab
+@meter 6/4
+@credit Ernst Gebhardt 1899
+@pages 388 389
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Kepala lagu juga mencetak "R.L. No. 143".
+@check "Lului" dinyanyikan dua not (Lu-lui) menurut letak lirik di bawah not.
+@check Pembanding lirik: bukuende.wordpress.com — 7/10 baris sama; beda di baris 1, 2, 4 (uasmi, manangbeha, luhutna, So pola); scan dicek ulang, transkripsi mengikuti buku. Pembanding 4 ayat, sama dgn buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 405) | https://bukuende.wordpress.com/2013/06/05/adong-sada-mual-buku-ende-no-405-buku-logu-no-386/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 .+1 1 1 7, 1 | 2 .+1 7, 1 . 1 |
+3 .+1 1 1 7, 1 | (2 . . 2 .) 5, | 3 .+3 3 1 .+1 1 |
+2 .+1 2 3 . 4 | 3 .+2 1 2 1 7, | (1 . . 1 .) 5, |
+1 .+1 1 1 7, 1 | (2 . . 2 .) 2 | 2 .+2 2 2 1 2 | (3 . . 3 .) 1 |
+3 .+3 3 4 . 3 | (2 .+1) 2 3 . 4 | 3 3 1 2 .+1 7, | (1 . . 1 .) |]
+> A-dong sa-da mu-al, tung sae u-li ni. Som-bu do di-si u-as-mi. Ai ma-nang-be-ha jor-but ni sa-hit-mi, na ma-lum lu-hut-na di-si. O-lo-i ma jou-jou-Na i, Lu-lui mu-al na ul-i i. So po-la mar-tu-hor mu-al i. Por-se-a! Di ho na-ma i.
+#V
+Adong sada mual, tung sae uli ni. Sombu do disi uasmi.
+Ai manangbeha jorbut ni sahitmi, na malum luhutna disi.
+Oloi ma joujouNa i, Lului mual na uli i.
+So pola martuhor mual i. Porsea! Di ho nama i.
+-
+Ai manang tu dia mabaor mual i, denggan do pangkorhon ni i.
+Sumurung do tumpal sijaloon ni na ro manahui sian i.
+Oloi ma joujouNa i...
+-
+Ai aek hangoluan do goar ni i, na dapot di Jesus do i.
+MudarNa na arga niusehon ni, humophop pardosa do i.
+Oloi ma joujouNa i...
+-
+Masihol do ho? Ro tahui mual i. Nang ho pe, dijou tondi i;
+Ai holan na ias maridi disi, tarbaen tolhas tu surgo i.
+Oloi ma joujouNa i...

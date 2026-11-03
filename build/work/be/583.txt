@@ -1,0 +1,40 @@
+@be 583
+@bl 0
+@title Sangap ma di Debatanta
+@key A
+@meter 4/4
+@credit Syair dan Lagu: Glory to God; NN; Terj.: Biv. M. H. Sitorus
+@pages 561 562
+@status Lirik dicek · 4/6 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 (pembanding tanpa "na" di "di Debata na di ginjang") dan 6 (pembanding satu kata lebih) beda; scan dicek ulang: buku mencetak "na di ginjang".
+@ref Lirik pembanding: bukuende.wordpress.com (BE 583) | https://bukuende.wordpress.com/2013/06/18/sangap-ma-di-debatanta-buku-ende-no-583-buku-logu-no-583/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0.
+@check Buku hanya mencetak satu bait (di bawah not); tidak ada ayat lain.
+@check Bagian ulang "Sangap ma di Debata jala dame di tano on" punya volta 1 (3 . . 0 :|) dan volta 2 (1 . . 0 ||); di sini volta 1 ditulis di akhir bagian B (diulang) dan volta 2 sebagai bagian C.
+#A
+1 1+.+.+1 1 3+4 | 5 . 3 0 |
+2 2+.+.+2 2 0 | 3 3+.+.+3 3 0 |
+1 1+.+.+1 1 3+4 | 5 . 3 1 |
+2 2 3 .+2 | 1 . . 5, | 5, 1 1 2 |
+3 3 3 4+3 | 2 2 2 (1+2) |
+3 1 6, 5, | 5, 1 1 2 |
+3 3 3 (4+3) | 2 2 2 (1+2) |
+3 2 1 . | 4 4+.+.+4 4 4+4 |
+4 . 4 0 | 3 3+.+.+3 3 3+3 |
+3 . 5 0 |
+> Sa-ngap ma di De-ba-tan-ta, di De-ba-ta di gin-jang i, sa-ngap ma di De-ba-tan-ta da-me di ta-no on, sa-lu-hut ti-nom-pa-Na i, pu-ji ma deng-gan ba-sa-Na i pu-ji ma Tu-han De-ba-ta A-ma, A-nak nang Ton-di i, sa-ngap ma di De-ba-tan-ta, di De-ba-ta na di gin-jang.
+#B
+5 5 3 3 | 1 1 5, 5, |
+1 2 3 4 | 3 . 2 . |
+3 . . 0 :|
+> Sa-ngap ma di De-ba-ta ja-la da-me di ta-no on.
+#C
+1 . . 0 |]
+> on.
+#V
+Sangap ma di Debatanta, di Debata di ginjang i,
+sangap ma di Debatanta dame di tano on,
+saluhut tinompaNa i, puji ma denggan basaNa i
+puji ma Tuhan Debata Ama, Anak nang Tondi i,
+sangap ma di Debatanta, di Debata na di ginjang.
+Sangap ma di Debata jala dame di tano on.

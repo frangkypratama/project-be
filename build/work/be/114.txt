@@ -1,0 +1,43 @@
+@be 114
+@bl 212
+@title Ale Jahowa Debata
+@key Ab
+@meter 4/4
+@credit Joseph Haydn, abad 18
+@pages 103 104
+@check Judul yang tercetak di kepala lagu: "Parohon harajaonmi" (judul Logu No. 212); di sini dipakai baris pertama lirik.
+@check Pencipta tercetak "Joseph Hayde abad 18" (kemungkinan Joseph Haydn) — mohon dicek.
+@check Baris 1 tercetak "Sai tatap hani on" (bukan "hami") — ditulis apa adanya.
+@check Hlm. 104 birama pertama tercetak "4 .3 3'5" tanpa titik oktaf pada 4 dan 3 pertama; dibaca oktaf bawah (4, 3,) sesuai not balok.
+@check Birama "1 . 7*." : angka 7 bertanda bintang, not balok menunjukkan mol (Gb) → ditulis b7, — mohon dicek. Not balok menggambar 1 seperti not 1/4; dipakai nilai angka (1/2 + 1/2).
+@status Lirik dicek · 9/15 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 15 baris sama persis; beda di baris 1, 5, 6, 8, 14 (ejaan) dan 3 (kata lebih). Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 114) | https://bukuende.wordpress.com/2013/06/09/ale-jahowa-debata-buku-ende-no-114-buku-logu-no-212/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 1 1 3 | 3 .+2 2 v 4 | 3 (4+2) 1 7, |
+1 . :|
+> A-le Ja-ho-wa De-ba-ta! Sai ta-tap ha-ni on,
+> Ai ma-si-boan do-sa-na be do ha-mi tu jo-lom.
+#B
+(3+1) | 5, 5, 5, 4, | 4, .+3, 3, v (3+1) | 5, 5, 5, 4, |
+4, .+3, 3, v 5, | 1 .+1 (1+3) (3+5) | 5 .+4 4 v 5, | 1 .+1 (1+3) (3+5) |
+5 .+4 4 v 5, | 1 . b7, . | 6, . 0 (4+2) | 1 .+1 (3+2) (1+7,) | 1 . 0 |]
+> A-si ro-haM di ha-mi be, sai se-sa do-sa i su-de, mar-hi-te Je-sus A-nak-Mi, na ma-te di hau si-lang i, Di Gol-ga-ta, Di do-dok Gol-ga-ta.
+#V
+Ale Jahowa Debata! Sai tatap hani on,
+Ai masiboan dosana be do hami tu jolom.
+Asi rohaM di hami be, sai sesa dosa i sude,
+Marhite Jesus AnakMi, na mate di hau silang i,
+Di Golgata, Di dodok Golgata.
+-
+O Jesus, haholongan i sai tatap haami on !
+Ho Pangondingannami i, ondingi hami on,
+Sai unang mago hami be, ai na tinobasMi sude.
+Taluhon ma sibolis i, ai na jorbut parulan ni,
+Pangolu be ma hami on sude.
+-
+Ho, Tondi Parbadia i ! Sai tatap hami on!
+Lopokkon haholongonMi tu rohanami on !
+Pasada rohanami be, patiur tondinami pe
+Lao manghuthon dasdasMi, mangkasiholi sondang ni
+Parholong i, pardenggan basa i.

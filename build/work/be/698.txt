@@ -1,0 +1,23 @@
+@be 698
+@bl 0
+@title Sai ihuthononku Jesus
+@key F
+@meter 4/4
+@credit Syair: Au tungo lamatuak (Pulau Roti), Freds Edward Longo, 1959; Terj: Pdt. M. Hutapea/Pdt. J.A.U. Doloksaribu
+@pages 731 732
+@status Lirik dicek · 3/3 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama; pembanding juga hanya 1 bait.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 698) | https://bukuende.wordpress.com/2013/06/18/sai-ihuthononku-jesus-buku-ende-no-698-buku-logu-no-698/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 698.; hanya syair & terjemahan yang disebut, tanpa komponis lagu. Hanya satu bait.
+@check Birama 2 & 5 tercetak "5 . 3 ." (balok = dua not 1/2) → 5 . 3 .
+#A
+5,+5, 1+1 6,+6, | 5, . 3 . | 0 5,+5, 1+1 4+4 |
+3 . 2 . | 0 5,+5, 7,+7, 2+2 | 1 . . . |
+0 1+1 1 1+1 | 6 . 4 . |
+0 1'+1' 7+7 6+6 | 5 . 3 . |
+0 5,+5, 1+1 4+4 | 3 . 2 . | 0 5,+5, 7,+7, 2+2 | 1 . . . |]
+> Sai i-hut-ho-nong-ku Je-sus, sai i-hut-ho-nong-ku Je-sus sa-le-leng-le-leng-na i. Nang go-dang ha-por-su-hon sai be-nget do au ma na-on, sai i-hut-ho-non-ku Je-sus sa-le-leng-le-leng-na i.
+#V
+Sai ihuthonongku Jesus, sai ihuthonongku Jesus salelenglelengna i.
+Nang godang haporsuhon sai benget do au manaon,
+sai ihuthononku Jesus salelenglelengna i.

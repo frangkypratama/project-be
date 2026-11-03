@@ -1,0 +1,52 @@
+@be 637
+@bl 0
+@title Patimbul ma huaso ni goar ni Jesus i (1)
+@key G
+@meter 4/4
+@credit Syair: All hail the power of Jesus name; Edward Perronel, 1779 · John Rippon (ay. 6-7) · Terj.: Pdt. M. V. Simanjuntak · Lagu: Oliver Holden 1792
+@pages 648 649
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Pang. 19:16.
+@check Buku memuat DUA lagu bernomor 637: 637a "Patimbul ma huaso ni goar ni Jesus i (1)" (hlm 648–649, G mayor) dan 637b "… (2)" (hlm 649–650, A mayor). Notasi di bawah = 637a.
+@check Kredit lagu: 637a (melodi "5 | 1 1 3 3" = CORONATION) dikreditkan ke Oliver Holden 1792 — sesuai; 637b (melodi "5 | 1 1 1 2" = MILES LANE) ke "William Shrubste, 1779" (lazimnya Shrubsole). Ejaan nama ditulis apa adanya.
+@check Versi b ada di BE 637b.
+@status Lirik dicek · 21/24 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 'pinilitNa', 'disaorNa', ayat 6 baris 3 beda ejaan; pembanding juga punya 637b terpisah. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 637) | https://bukuende.wordpress.com/2013/06/16/patimbul-ma-huaso-ni-goar-ni-jesus-i-1-buku-ende-no-637a-buku-logu-no-637a/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 1 3 3 | 2 1 2 3 | 2 1 3 2 |
+1 . . 2 | 3 2 1 3 | (5+4) (3+2) 3 5 |
+5 . 5 . | 6 . (5 #4) | 5 . . 3 | 5 3 1 3 |
+(2+1) (2+3) 2 1 | 5 . 4 . | 3 .+4 2 2 | 1 . . |]
+> Pa-tim-bul ma hu-a-so ni go-ar ni Je-sus i. pa-sa-ngap ma Tu-han-ta i pu-ji. go-ar-Na i pa-sa-ngap ma Tu-han-ta i, ta-pu-ji Je-sus Tu-han i.
+#V
+Patimbul ma huaso ni goar ni Jesus i.
+pasangap ma Tuhanta i, puji goarNa i
+pasangap ma Tuhanta i, tapuji Jesus Tuhan i.
+-
+Pangiar ma soaraMi, O parlangitan i
+patimbul ma na monang i, puji goarNa i
+patimbul ma na monang i, tapuji Jesus Tuhan i.
+-
+Israel pinilitNa i olophon Tuhan i
+sai jangkon ma Mesias i, puji goarNa i
+sai jangkon ma Mesias i, tapuji Jesus Tuhan i.
+-
+Huria tinobusNa i, gorga tu rohaMi
+tinaon ni Sipartobus i, puji goarNa i
+tinaon ni Sipartobus i, tapuji Jesus Tuhan i
+-
+Martua sitindang i, martir na burju i
+di saorNa i tu silang i, puji goarNa i
+disaorNa i tu silang i, tapuji Jesus Tuhan i.
+-
+O Anak harajaon i, sai las ma rohaMi
+sai puji ma Tuhanta i, puji goarNa i
+sai puji ma Tuhanta i, tapuji Jesus Tuhan i.
+-
+Hamu saluhut bangso i, tasomba Tuhan i
+sai jangkon harajaonNa i, puji goarNa i
+sai jangkon harajaonNa i, tapuji Jesus Tuhan i.
+-
+Raphon sude na monang i, di surgo sogot i
+marende hita on di si, puji goarNa i
+marende hita on di si, tapuji Jesus Tuhan i.

@@ -1,0 +1,44 @@
+@be 564
+@bl 0
+@title Las ma rohanta di Tuhanta Debata
+@key D
+@meter 4/4
+@credit Syair & Musik: The Joy of the Lord, Alliene G. Vale; Terj.: Pdt. J.A.U. Doloksaribu
+@pages 533
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Neh. 8 : 10.
+@check Ketukan gantung 1/8 (5) ditulis "0+5". Birama akhir tercetak "1 . . 0" (dotted half + 1/8 diam, 3½ ketuk melengkapi ketukan gantung); diam 1/8 terakhir tidak ditulis.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Salah cetak dibiarkan: ayat 4 baris 3 "dame in Debata", huruf lepas "s" di depan baris 4 ayat 4 tidak ditulis.
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 15 beda kata 2 (buku: salah cetak "in").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 564) | https://bukuende.wordpress.com/2013/06/16/las-ma-rohanta-di-tuhanta-debata-buku-ende-no-564-buku-logu-no-564/ | teks lirik
+#A
+0+5 | 5+3 3+1 1+5, 1+3 | 4 2 2 0+4 |
+> Las ma ro-han-ta di Tu-han-ta De-ba-ta las
+#B
+4+2 2+7, 7,+5, 7,+2 | 6 5 5 0+1' |
+> ma ro-han-ta di Tu-han-ta De-ba-ta las
+#C
+1'+5 5+3 3+1 3+5 |
+7 6 6 0+4 | 3+5 3+1 2+4 2+7, | 1 . . |]
+> ma ro-han-ta di Tu-han-ta De-ba-ta ha-ro-ro-an ni ha-go-go-on i
+#V
+Las ma rohanta di Tuhanta Debata,
+las ma rohanta di Tuhanta Debata,
+las ma rohanta di Tuhanta
+Debata haroroan ni hagogoon i.
+-
+Parasi roha do Jahowa Debata,
+parasi roha do Jahowa Debata,
+parasi roha do Jahowa Debata,
+parasi roha ma nang hita on.
+-
+Pardenggan basa do Tuhanta Debata,
+pardenggan basa do Tuhanta Debata,
+pardenggan basa do Tuhanta Debata,
+pardenggan basa ma nang hita on
+-
+Dame ni Debata saor tu hita on,
+dame ni Debata saor tu hita on,
+dame in Debata saor tu hita on,
+sibaen dame ma nang hita on.

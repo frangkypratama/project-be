@@ -1,0 +1,41 @@
+@be 676
+@bl 0
+@title Sada langka parholangan
+@key C
+@meter 4/4
+@credit Syair & Lagu: NN
+@pages 701 702
+@status Lirik dicek · 14/15 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 7 kata 3 (scan jelas "boi malua ho pardosa"). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 676" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 676) | https://bukuende.wordpress.com/2013/06/18/sada-langka-parholangan-buku-ende-no-676-buku-logu-no-676/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0).
+@check Bagian A diulang (:||) untuk dua baris lirik; bagian B (mulai "Bege ma ho") adalah lanjutan ayat (teksnya berbeda tiap ayat, ditulis utuh di #V).
+@check Bagian B: "1.1" pertama (1/8 bertitik + 1/16) tercetak satu birama dengan "1 .1 1 .1" (jadi 5 ketuk); ditulis sebagai ketukan gantung yang melengkapi birama akhir A ("3 . 0" = 3 ketuk), seperti ketukan gantung "3.4" di awal lagu.
+@check "sai", "boi" bertanda lengkung (satu suku kata).
+#A
+3+.+.+4 | 5 3' . 2'+.+.+1' | 1' 7 0 2+.+.+3 | 4 .+6 5 4 | 3 . 0 :|
+> Sa-da lang-ka par-ho-la-ngan ni Tu-han-mu si-an ho.
+> u-nang ho sai tar-pa-i-ma he-he ma sa-da-ri on.
+#B
+1'+.+.+1' | 1' .+1' 1' .+1' | 1' 1' 0 6+6 | 6 .+6 6 .+6 |
+6 . 0 3+.+.+4 | 5 .+3' 3' 2' | 2' 1' 0 1'+.+.+6 |
+5 . 2' . | 1' . . 0 | 5 . 5 . | 5 . . 0 | 5 . 7 . | 1' . . 0 |]
+> Be-ge ma ho sai di pi-o Je-sus sai ma-na-gam ho ha-top ma ho-lan sa-lang-ka a-sa sa-hat ho, ro ma ho ha-top ro.
+#V
+Sada langka parholangan ni Tuhanmu sian ho.
+unang ho sai tarpaima hehe ma sadari on.
+Bege ma ho sai di pio Jesus sai managam ho
+hatop ma holan salangka asa sahat ho,
+ro ma ho hatop ro.
+-
+Sai dapothon ma Tuhanmu tu dalan na gogot i
+boi malua ho pardosa, mian di lambungNa i.
+Sai langkahon ma tu Jesus, tuju ma tu surgo i.
+sahat ho tu haluaon, salelengna i,
+ro ma ho, hatop ro.
+-
+Sada langka parholangan ni Tuhanmu sian ho
+gok na busuk pe rohamu tu Jesus maporus ho.
+Nang pe tung digohi dosa lomolomo ni roham
+hatop ro ho tu parsilang, topoti dosam,
+ro ma ho, hatop ro.

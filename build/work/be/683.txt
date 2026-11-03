@@ -1,0 +1,29 @@
+@be 683
+@bl 0
+@title Di adopanMu Jesus
+@key Eb
+@meter 4/4
+@credit Syair: For Jesus milda ogon, Lars stenback, 1811-1875; Terj.: Pdt. J.A.U. Doloksaribu/Pdt. MV. Simanjuntak; Lagu: Hungo Nyberg 1873
+@pages 711
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 beda ejaan ('di baen'); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 683) | https://bukuende.wordpress.com/2013/06/13/di-adopanmu-jesus-buku-ende-no-683-buku-logu-no-683/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 683. Lagu bernada minor (la = 6 = C), tanda mula 3 mol.
+@check Nama komponis tercetak "Hungo Nyberg" (lazim: Hugo Nyberg) dan "Lars stenback" (lazim: Lars Stenbäck) — ditulis apa adanya.
+#A
+(6,+7,) | 1 1 2 (1+7,) | 6, . 6, (1+2) | 3 3 6 (5+6) |
+3 2 3 (6+7) | 1' 1' 1' (7+5) | 6 (5+4) 3 (1+2) |
+3 3 2 (1+7,) | 6, . 6, |]
+> Di a-do-pan-Mu Je-sus le-a tu-tu do di-ring-kon, di baen go-dang ni do-sang-kon di a-do-pan-Mu Je-sus.
+#V
+Di adopanMu Jesus lea tutu do diringkon,
+di baen godang ni dosangkon di adopanMu Jesus.
+-
+Di adopanMu Jesus marsomba au huhut tungki,
+lao manopoti dosangki diadopanMu Jesus.
+-
+Di adopanMu Jesus tarsolsol bagi rohangkon,
+muba ma au tu jolo on di adopanMu Jesus.
+-
+Di adopanMu Jesus taruli au di asiMi,
+tu Ho ma sahat diringki di adopanMu Jesus.

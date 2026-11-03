@@ -1,0 +1,36 @@
+@be 814
+@bl 0
+@title Sai ajari au Tuhanku
+@key F
+@meter 4/4
+@credit Syair: Leer mijj, heer als in gebeden, P.J. Moeton, IS Kijne, 1889-1970 · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Annie F. harrison (abad 19)
+@pages 896 897
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 7 kata 2 ("pambaenanMu") beda ejaan; tercetak jelas di scan hlm 897 → buku tetap.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 814) | https://bukuende.wordpress.com/2013/06/18/sai-ajari-au-tuhanku-buku-ende-no-814-buku-logu-no-814/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Baris 1 "di na marta-ngiang au": suku kata "ngiang" tercetak melebar di bawah dua not (5 . 4) → ditahan (_).
+@check Baris 2 birama 2: angka "3 . 4 4 3", balok tampak C5 (= 5, sama dengan baris 1) → ditulis sesuai angka.
+@check Hlm 897 baris 1: ada titik kecil di bawah-kiri angka 1 pertama; balok F4 (= 1 biasa) → ditulis 1.
+#A
+5 .+6 5 3 | 5 .+4 4 3 | 2 6, 1 3 | 5 .+4 3 . |
+5 .+6 5 3 | 3 .+4 4 3 | 2 6, 1 7, | 3 .+2 1 . |
+1 .+2 2 1 | 1 (2+3) 2 1 | 2 .+2 3 5 |
+6 5 2 . | 5 .+6 5 3 | 5 .+4 4 3 |
+2 6, 1 7, | 3 .+2 1 . |]
+> Sai a-ja-ri au Tu-han-ku di na mar-ta-ngiang _ au, pa-tu-du-hon tu ro-hang-ku sang-kap ni ro-haM di au. So-ngon na bi-naen ni Je-sus na ma-naon hu-mop-hop au, u-nang lo-mo ni ro-hang-ku, lo-mo ni ro-haM ma saut.
+#V
+Sai ajari au Tuhanku di na martangiang au,
+patuduhon tu rohangku sangkap ni rohaM di au.
+songon na binaen ni Jesus na manaon humophop au,
+unang lomo ni rohangku, lomo ni rohaM ma saut.
+-
+Nasa na mauliutus, dipatupa Ho di au,
+panolopi do tondingku, disangkapMu na tu au.
+mangauhon pambaenanMu, di na marsitaonon au
+unang lomo ni rohangku, lomo ni rohaM ma saut.
+-
+Dibagasan Ho Tuhanku,boi marlas ni roha au
+Ho sambing haporusanku Ho ma paluahon au
+pargogoi ma au Tuhanku, ai mansai gale do au
+unang lomo ni rohangku, lomo ni rohaM ma saut.

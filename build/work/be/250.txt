@@ -1,0 +1,49 @@
+@be 250
+@bl 181
+@title Hatami, ale Tuhanku
+@key Bb
+@oct -1
+@meter 4/4
+@credit Lagu: J. A. Freyl Inghausen 1739
+@pages 229 230
+@status Lirik dicek · 18/20 baris sama dgn pembanding
+@check Pembanding lirik: beda: "digasan" (ayat 4) dan satu kata kurang sebelum "rodi" (ayat 5); dicek ulang ke scan hlm 230: tercetak "digasan" dan "monang rodi ajainami" di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 250) | https://bukuende.wordpress.com/2013/06/18/sitostosi-nasa-ihot-buku-ende-no-250-buku-logu-no-181/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Kredit dicetak "J. A. Freyl Inghausen" (ejaan lazim: J. A. Freylinghausen).
+@check Judul di kepala lagu "Hatami, ale Tuhanku" berbeda dengan baris pertama lirik ("Sitostosi nasa ihot").
+@check Awal baris 2 dicetak "7̇"; titik di atas dianggap noda (not balok: A4, sama dengan "7 7" sebelumnya).
+#A
+1 2 3 2 | 3 #4 5 5 v | 1' 1' 7 7 |
+7 6 5 . :|
+> Si-tos-to-si na-sa i-hot, na bi-naen ni do-sa i,
+> Sai a-si ro-haM, sai to-pot ha-mi na ti-no-bus-mi.
+#B
+1' 5 6 6 | 5 .+4 3 1 v |
+3 3 5 5 | 4 3 2 . v | 5 5 4 .+3 |
+4 5 3 1 v | 2 3 4 5 | 3 2 1 . |]
+> Sai pa-i-as ro-ha-na-mi si-an do-sa sa-su-de, pai-ma ba-li si-an ha-mi na-sa ro-ha da-ging pe.
+#V
+Sitostosi nasa ihot, na binaen ni dosa i,
+Sai asi rohaM, sai topot hami na tinobusmi.
+Sai paias rohanami sian dosa sasude,
+Paima bali sian hami nasa roha daging pe.
+-
+I do Jesus, ulaonMu, diturpukkon Ama i,
+Na tongtong naeng radotanMu paima sun marujung i.
+Ai ndang jadi mago sada nilehonNa i di Ho;
+Ingkon sahat do sudena tu banuaginjang ro.
+-
+Ala ni togihon hami sahat tu na sun denggan;
+Sai oloi tangiangnami, lomo ni rohaM hian.
+Tatap hami na marlea ala pinarsilangMi,
+Angka na tongtong porsea di hataM na sintong i.
+-
+Raja sai rajai ma hami! Siparmonang, monang ma!
+Sai taluhon musunami, togu ma tu Debata
+Hami, angka na marpadan digasan mudarMi
+Jala na burju mardalan tu banuaginjang i.
+-
+Raphon Ho naeng mate hami jala na marlea pe;
+Bunu ma hian di hami roha jea i sude.
+Sai tumpahi hami monang rodi ajainami be.
+Baen mardame jala sonang tondinami sasude.

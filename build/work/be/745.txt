@@ -1,0 +1,56 @@
+@be 745
+@bl 0
+@title Ro pe habahaba
+@key C
+@meter 6/8
+@credit Syair & Lagu: I've seen the lighting/No never alone, NN; Terj.: Pdt. MH. Sihite / Pdt. J.A.U. Doloksaribu
+@pages 799 800 801
+@status Lirik dicek · 12/17 baris sama dgn pembanding
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Birama 6/8: 1 token = 1 not 1/8 (6 token per birama). Tanpa tanda mula; 5 = G4 di paranada → do = C.
+@check Not akhir bagian A dan refrein tercetak "1 . . 1 ." / "1 . . 1 . 0" tanpa titik atas; paranada = C5 → ditulis 1'.
+@check Birama "5 . 5 5 6 7" (do-nga-nan-Na / do di-dok-tu): not ke-2 yang di-beam di paranada agak kabur; mengikuti angka (5 6 7).
+@check Ayat 1 hanya tercetak di bawah not; teks ayat 1 di #V disusun dari suku kata lirik.
+@check Pembanding lirik: beda di baris 2 (ido), 3 (do), 7 (mamboan), 10 (rupa mu), 14 (Golgata); semua dicek ulang di scan hlm 799–801 dan ditulis sesuai buku. Baris 4 'dongananNa' = salah ketik saya yang diperbaiki.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 745) | https://bukuende.wordpress.com/2013/06/16/ro-pe-habahaba-buku-ende-no-745-buku-logu-no-745/ | Pembanding lirik (tanda baca diabaikan).
+#A
+5 | 5 . 5 (3 5) 1' | 3' . . 3' . 2' | 1' . 1' (2' 1') 6 |
+(5 . . 5) . 5 | 5 . 5 (2 3) 4 | 7 . . 7 . 6 |
+5 . 6 5 . 4 | (3 . . 3) . 5 | 5 . 5 (3 5) 1' |
+3' . . 3' . 2' | 1' . 1' (2' 1') 6 | (5 . . 5) . 5 |
+5 . 5 (2 3) 4 | 7 . . 7 . 6 | 5 . 5 (5 6) 7 |
+(1' . . 1' .) |]
+> Sai ro pe ha-ba-ha-ba nang ha-li-sung-sung i laos so-ngon i-do do-sa ma-nga-go ngo-lung-ki, so-a-ra ni Tu-han-ku do mar-go-goi-hon au, tung so ta-ding-ko-non-Na sai do-nga-nan-Na au.
+#B
+5 . 0 3 5 1' | (3' . . 2' 3' 2') | 1' . 0 2' 1' 6 |
+(5 . . 5) . 5 | 5 . 5 2 3 4 | 7 . . 7 . 6 |
+5 . 6 5 . 4 | (3 . . 3) . 0 |
+5 . 0 3 5 1' | (3' . . 2' 3' 2') | 1' . 0 2' 1' 6 |
+(5 . . 5) . 5 | 5 . 5 2 3 4 | 7 . . 7 . 6 |
+5 . 5 (5 6) 7 | (1' . . 1') . 0 |]
+> Ndang tar-pun-jung au, ndang tar-pun-jung au. Tong-tong do au do-nga-nan-Na i do di-dok tu au. Ndang tar-pun-jung au, ndang tar-pun-jung au, tong-tong do au do-nga-nan-Na i do di-dok-tu au.
+#V
+Sai ro pe habahaba nang halisungsung i
+laos songon ido dosa mangago ngolungki,
+soara ni Tuhanku do margogoihon au,
+tung so tadingkononNa sai dongananNa au.
+Ndang tarpunjung au, ndang tarpunjung au. Tongtong do au dongananNa i do didok tu au.
+Ndang tarpunjung au, ndang tarpunjung au, tongtong do au dongananNa i do didok tu au.
+-
+Portibion na rundut alani dosa i,
+alai ro Sipalua mamboan dame i,
+dijaga do ngolungku ndang be marmara au
+tongtong ditogutogu sonang mardalan au
+Ref : Ndang tarpunjung au . . .
+-
+Godang pe parungkilon ndang rupa mu au,
+dokdok pe siporsanon dipargogoi do au,
+holom pe humaliang golap nang dalanki,
+sinondang ni Tuhanku patiur dalanki,
+Ref : Ndang tarpunjung au ...
+-
+Ditobus do dosangku didilok Golgata,
+ias do au diburi mudarNa na arga,
+disurgo habangsaNa sai dipaima au,
+on do baga-bagaNa tongtong rap dohot au,
+Ref : Ndang tarpunjung au ...

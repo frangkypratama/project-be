@@ -1,0 +1,37 @@
+@be 397
+@bl 264
+@title Nda nunga salpu borngin i.
+@key F
+@meter 4/4
+@credit W. Wohler
+@pages 380 381
+@check Kepala lagu juga mencetak "K. No 24".
+@check Birama "3 . 0 1" dan "5 . 0 5" (baris 2): paranada not 1/2 + tanda napas + not 1/4 (tanpa tanda diam); ditulis "3 . v 0 1" sesuai angka.
+@check Birama "3 . 3" (baris 4) tercetak 3 ketuk; paranada not 1/2 bertitik + 1/4 → "3 . . 3". "4*" = 4 kres (paranada: B pugar). Refrein diulang (‖: :‖); not "5" bertanda fermata.
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L2 kata 1 dan L10 kata 2 ("dibaen").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 397) | https://bukuende.wordpress.com/2013/06/16/nda-nunga-salpu-borngin-i-buku-ende-no-397-buku-logu-no-264/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 3 .+2 3 4 | 6 5 5 .+3 | 5 4 3 2 |
+3 . v 0 1 | 3 .+2 3 4 | 6 5 5 .+5 | 7 6 5 #4 | 5 . v 0 5 |
+6 .+4 2 (3+4) | 5 3 1 3 | 4 .+2 7, (1+2) |
+3 1 6, 1 | 3 . . 3 | 5 . . 6 | 5 4 2 4 | 3 . 5 |
+> Nda nu-nga sal-pu born-gin i, sai he-he ma su-de, na ti-ur si-an sur-go i ro su-mon-da-ngi be. So-a-ra si-an sur-go i man-dok na ro Tu-han-ta i. Be-ge, be-ge, so-a-ra ni su-ru-an
+#B
+5 | 1' . . 3 | 5 . . 1 | 3 2+3 5 . | 3 . v 0 :|
+> du-ngo, du-ngo, sai ta-gam ma Tu-han.
+#V
+Nda nunga salpu borngin i, sai hehe ma sude,
+Na tiur sian surgo i ro sumondangi be.
+Soara sian surgo i mandok na ro Tuhanta i.
+Bege, bege, soara ni suruan. Dungo, dungo, sai tagam ma Tuhan.
+-
+Ai molo salpu borngin i, torang ma ari on,
+Ba, angka na tarhurung i malua ma dison.
+Tuhanta sian surgo i, ro paluahon jolma i.
+Jesus, Jesus ro paluahon hita. Doras, doras tajangkon Tuhanta.
+-
+Dung ro ari na torang i, salpu ma na holom.
+Imbaru dibaen Jesus i roham, padao holsom.
+Tuhanta sian surgo i, mangapul hita na dangol i.
+Sonang, sonang pe maradian hita. Hatop, hatop tu surgo ma beta.

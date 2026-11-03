@@ -1,0 +1,18 @@
+@be 553
+@bl 416
+@title Las roham di debata
+@key C
+@meter 3/4
+@credit Sitolu logu (kanon 3 suara; nama komponis tidak dicantumkan di buku)
+@pages 523
+@check Ende kanon: angka kecil 1–3 di atas not = tempat masuk suara 1–3; situs memutar satu suara saja.
+@check Judul di kepala lagu "Las roham di debata" (huruf kecil d); lirik "Las roham di Debatami, jala puji ma goarNa, da."
+@status Lirik dicek · 1/1 baris sama dgn pembanding
+@check Pembanding lirik: sama. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 553) | https://bukuende.wordpress.com/2013/06/16/las-roham-di-debata-buku-ende-no-553-buku-logu-no-416/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+(1 3) 4 | 5 . 4 | 3 3' 2' |
+1' 1 2 | 3 . 4 | 5 . 4 | 3 . 2 | 1 . 0 :|
+> Las ro-ham di De-ba-ta-mi ja-la pu-ji ma go-ar-Na, da.
+#V
+Las roham di Debatami jala puji ma goarNa, da.

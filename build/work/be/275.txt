@@ -1,0 +1,34 @@
+@be 275
+@bl 245
+@title O Jesus Tuhanki.
+@key C
+@meter 4/4
+@credit Dora Rappand 19223
+@pages 255
+@check Kredit tercetak "Dora Rappand 19223" (kemungkinan salah cetak; lazim: Dora Rappard, 1923); ditulis sesuai buku.
+@check "4*" = 4 kres (paranada Fis).
+@check Birama akhir tercetak "1̇ . 0" (3 ketuk); paranada not 1/2 bertitik + istirahat, ditulis "1' . . 0".
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 275) | https://bukuende.wordpress.com/2013/06/16/o-jesus-tuhanki-buku-ende-no-275-buku-logu-no-245/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1' . 3 3 | 3 .+2 2 0 | 2' . 4 4 | 4 .+3 3 0 |
+#4 . 3 #4 | 5 . . 0 | 2 . 3 4 | 4 .+5 4 0 | 3 . 4 5 |
+5 .+6 5 0 | 3' . 3' 2' | 2' .+1' 1' 6 | 5 . 7 . | 1' . . 0 |]
+> O Je-sus, Tu-han-ki, Ho, si-par-mo-nang i, Ra-ja tong-tong. Ndang na mar-go-go au, mo-lo so Ho di au. I pe do-nga-ni au di ta-no on!
+#V
+O Jesus, Tuhanki, Ho, siparmonang i, Raja tongtong.
+Ndang na margogo au, molo so Ho di au.
+I pe dongani au di tano on!
+-
+Sai ro do setan i, manaiti rohangki, dao sian Ho,
+Ipe ingani au, ai molo Ho di au,
+Ingkon manigor lao musu naung ro.
+-
+Molo burju au on maniop Ho tongtong sitobus au
+Talu do musu i ndang be agoon nii
+Au na tinobusMi, monang ma au.
+-
+Ndang hahuaon ni dosa be tondingki, malua au.
+Ho huihuthon do, Surgo hutuju do;
+Tongtong jambarhu Ho, sonang ma au.

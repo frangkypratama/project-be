@@ -1,0 +1,26 @@
+@be 850
+@bl 0
+@title Endehon ma Haleluya
+@key Eb
+@meter 4/4
+@credit Syair & lagu: Sing haleluya to the Lord, Linda Stassen, 1974 · Terj.: Pdt. J. A. U. Doloksaribu
+@pages 938 939
+@status Lirik dicek · 4/4 baris sama dgn pembanding
+@check Pembanding lirik: 4/4 baris sama. Pembanding menyebut Buku Logu No. 850; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 850) | https://bukuende.wordpress.com/2013/06/13/endehon-ma-haleluya-buku-ende-no-850-buku-logu-no-850/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanda birama di paranada tercetak seperti 4/4 yang dicoret; isi tiap birama 4 ketuk → ditulis 4/4.
+@check Ayat 1 = lirik di bawah not; ayat 2 tercetak di bawah lagu (hlm 939) dan dipasangkan sebagai baris lirik kedua.
+#A
+3 2+1 7,+6, 5,+7, | 6, . . . |
+3 2+3 5+3 2+3 | 3 . . . |
+6 (7+1') (7+5) 3 | 4 (5+6) (5+3) 1 |
+3 2+1 7,+6, 5,+7, | 6, . . . |]
+> En-de-hon ma ha-le-lu-ya en-de-hon ma ha-le-lu-ya ha-le-lu-ya ha-le-lu-ya en-de-hon ma ha-le-lu-ya.
+> Pu-ji Tu-han ha-le-lu-ya en-de-hon ma ha-le-lu-ya Ha-le-lu-ya, Ha-le-lu-ya, pu-ji Tu-han, ha-le-lu-ya.
+#V
+Endehon ma haleluya endehon ma haleluya
+haleluya haleluya endehon ma haleluya.
+-
+Puji Tuhan haleluya endehon ma haleluya
+Haleluya, Haleluya, puji Tuhan, haleluya.

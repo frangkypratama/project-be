@@ -1,0 +1,32 @@
+@be 686
+@bl 0
+@title Ramun do au
+@key Db
+@meter 6/4
+@credit Syair: Just as I am without one plea, Charlotte Elliot; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: William B. Bradbury
+@pages 715 716
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 686) | https://bukuende.wordpress.com/2013/06/16/ramun-do-au-buku-ende-no-686-buku-logu-no-686/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 686. Tanda mula 5 mol (Des mayor), cocok dengan letak not (1 = Des4).
+@check Birama 2 not terakhir ("gok") tercetak angka 3, tetapi balok = As4 (= 5). Angka ditulis apa adanya.
+#A
+(1+2) | 3 . 3 (5 .+4) 3 | (2 .+3) 4 3 . 3 |
+(5 2) 3 4 . 6 | 6 . 5 3 . (1+2) | 3 . 3 (5 .+4) 3 |
+6 . 6 (1' .+7) 6 | 5 . 5 (5 .+4) 3 | 2 . . 5 . . | (3 . . 3 .) |]
+> Ra-mun do au di jo-lo-Mi, gok do-sang-ki u-ra si au O, Je-sus, bi-ru-bi-ru i, di-son do au pa-tau ma au.
+#V
+Ramun do au di joloMi,
+gok dosangki urasi au
+O, Jesus, birubiru i,
+dison do au patau ma au.
+-
+Na ro do au tu joloMi,
+gale do au urupi au
+O, Jesus, ala mudarMi,
+dison do au patau ma au,
+-
+Ala denggan ni basaMi,
+ro au tu Ho, O Jesuski,
+parbadiai ma rohangki,
+dison do au patau ma au.

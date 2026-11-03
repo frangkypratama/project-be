@@ -1,0 +1,40 @@
+@be 328
+@bl 66
+@title Naeng salpu ari Minggu
+@key F
+@meter 4/4
+@credit Johaan Abraham Peter Schalz; 1790
+@pages 305 306
+@status Lirik dicek · 15/15 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 328) | https://bukuende.wordpress.com/2013/06/16/naeng-salpu-ari-minggu-buku-ende-no-328-buku-logu-no-66/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Komponis tercetak "Johaan Abraham Peter Schalz" (ejaan lazim: Johann Abraham Peter Schulz).
+@check Buku mencetak "ni-a-ja-ranMu"; agar jumlah suku kata = jumlah not dipenggal "ni-a-ja-ran-Mu".
+#A
+1 | 2 1 4 3 | 2 . 1 v 3 |
+3 3 6 5 | 4 . 3 v 3 | 3 3 4 3 |
+> Naeng sal-pu a-ri Ming-gu, di-dao-ni Ho si-hol-hu tu Ho, o Tu-han
+#B
+2 . . v 1 | 2 1 4 3 | 2 . 1 v 3 | 3 3 6 5 |
+4 . 3 v 3 | 3 3 4 3 | 2 2 1 |]
+> ki. Au do ni-a-ja-ran-Mu hu-hut bi-nu-to-ngan-mu Mar-hi-te-hi-te ha-ta-Mi.
+#V
+Naeng salpu ari Minggu, didaoni Ho siholhu tu Ho, o Tuhanki.
+Au do niajaranMu huhut binutonganmu
+Marhitehite hataMi.
+-
+Ho do na maringanan di rohangkon, o Tuhan.
+Tung sonang au nuaeng tumopot podomanku
+Ai sesa do dosangku, basaM bulusanki hubaen.
+-
+Ai sahit ni tondingku do malum, o Tuhanku,
+Dibaen joroM do au, na tiur do rohangku,
+Ai nunga binuatMu sude na holom sian au.
+-
+Sai ramotanMu ahu, sai sondanganMu ahu,
+Nang di na holom i, paima ro arian.
+Na so marpansohotan saleleng ni lelengna i.
+-
+Na sonang do rohangku, ai surusuruanMu
+Do mangingani au, huida di rohangku
+HinauliM, Tuhanku, aut sahat i tibu tu au.

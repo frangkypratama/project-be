@@ -1,0 +1,38 @@
+@be 506
+@bl 346
+@title Dame na gok
+@key Bb
+@meter 4/4
+@credit George T. Celdbeck
+@pages 478 479
+@status Lirik dicek · 11/14 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 11 dari 14 baris sama; beda: L3 (kata 6 berbeda), L9, L12. Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 506) | https://bukuende.wordpress.com/2013/06/13/dame-na-gok-buku-ende-no-506-buku-logu-no-346/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "F.H. No. 239". Tidak ada ketukan gantung: birama pertama penuh (5 . 5 5).
+@check Birama 6 tercetak ". 3 2 1 6" (ada titik sebelum 3); not balok berisi empat not 1/4 (D C Bes G), jadi titik itu diabaikan.
+@check Birama akhir tercetak "3 . . ." (4 ketuk), not balok tampak not 1/2; dipakai angka.
+#A
+5, . 5, 5, | 5, . . 5, | 6, 6, 6, 6, | 5, . . 5, |
+1 . 2 . | 3 2 1 6, | 5, . (5, 4,) | 3, . . . |]
+> Da-me na gok, di-di-a jum-pang i? Di mu-dar ni Tu-han-ku da-pot i.
+#V
+Dame na gok, didia jumpang i?
+Di mudar ni Tuhanku dapot i.
+-
+Dame na gok, nang dokdok rohangki?
+Na sonang au, ai i lomoNa i.
+-
+Dame na gok, nang pe targogot au?
+Di ampuanNa maradian au.
+-
+Dame na gok, nang punjung langkangki?
+Mardongan Jesus sonang rohangki.
+-
+Dame na gok, holom pe dalanki,
+Sude diboto Jesus Tuhanki.
+-
+Dame na gok, nang pe matean au?
+Di tangan ni Tuhanku nang na lao.
+-
+Dame na gok paima sahat au.
+Nuaeng nang sogot, Jesus i di au.

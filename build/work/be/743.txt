@@ -1,0 +1,33 @@
+@be 743
+@bl 0
+@title O Tuhan togu-togu ma
+@key Eb
+@meter 4/4
+@credit Syair: O, Tuhan togu-togu ma: Pdt. JAU Doloksaribu · Lagu: Aek Sarula: Tradisional masyarakat Batak Toba; NN
+@pages 796 797
+@status Lirik dicek · 7/8 baris sama dgn pembanding (baris 4 lalu diperbaiki)
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0.
+@check Baris 2: "7" tercetak tanpa titik bawah, balok = D4 → ditulis 7, (baris 4 & 5 tercetak dengan titik bawah).
+@check Baris 6: angka 4 dicoret = kres (balok A♮) → #4.
+@check Pembanding lirik: baris 4 semula beda ("di ngolungkon"); scan memakai tanda sambung "di-ngo-lung-kon" → diperbaiki jadi "dingolungkon".
+@ref Lirik pembanding: bukuende.wordpress.com (BE 743) | https://bukuende.wordpress.com/2013/06/16/o-tuha-togu-togu-ma-buku-ende-no-743-buku-logu-no-743/ | teks ayat
+#A
+3+.+.+4 | 5 1'+.+.+7 6 5+.+.+1 |
+3 . . 7,+.+.+1 | 2 2+.+.+3 4 5+.+.+6 |
+5 . 0 3+.+.+4 | 5 1'+.+.+7 6 5+.+.+1 |
+3 . . 7,+.+.+1 | 2 2+.+.+3 4 3+.+.+2 |
+1 . 0 7,+.+.+1 | 2 2+.+.+3 4 5+.+.+6 |
+5 . 0 5+.+.+5 | #4 #4+.+.+5 6 7+.+.+1' |
+7 . 0 5 | 1' 7+.+.+1' 5 3+.+.+1 |
+6 . 0 7+.+.+1' | 5 3+.+.+1 4 3+.+.+2 | 1 . . |]
+> O Tu-han to-gu-to-gu ma au, tu da-lan lo-mo ni ro-ha-Mi, rap-hon Ho so-nang mar-da-lan au, nang ra-his maol si-da-la-nan-ki, Ton-di-Mi baen mang-go-hi au on, mar-go-goi-hon au na-po-so-Mon, pa-sa-ngap Ho di-ngo-lung-kon, pai-ma sa-hat tu sur-go au on.
+#V
+O Tuhan togu-togu ma au, tu dalan lomo ni rohaMi,
+raphon Ho sonang mardalan au, nang rahis maol sidalananki,
+TondiMi baen manggohi au on, margogoihon au naposoMon,
+pasangap Ho dingolungkon, paima sahat tu surgo au on.
+-
+Panghulingi ma au O Tuhan, na rade tumangihon hataM,
+sai tumpahi ruasMu Tuhan, na uasan nuaeng di hataM,
+sai patau ma au on naposoM, manjou halak na dao sian Ho,
+ro di na so tumanda Ho, muba gabe pangoloi di Ho.

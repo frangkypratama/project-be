@@ -1,0 +1,52 @@
+@be 253
+@bl 209
+@title Ale Debatangki
+@key F
+@meter 3/4
+@credit Lagu: Lowell Mason 1872
+@pages 232 233
+@status Lirik dicek · 17/20 baris sama dgn pembanding
+@check Pembanding lirik: beda: "I" (ayat 1 baris 2), "napopsom" (ayat 1, di bawah not "na-pop-som"), "lambungMu" (ayat 5); dicek ulang ke scan: tercetak demikian di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 253) | https://bukuende.wordpress.com/2013/06/09/ale-debatangki-buku-ende-no-253-buku-logu-no-209/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian akhir memakai volta (|: 2 2 5 | akhir 1 "3 . ." lalu ulang, akhir 2 "1 . ."); di sini ditulis dua kali berurutan (bagian C dan D). Ayat 2–5 menandai ulangan dengan ":,:".
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+1 3 5 | 5 .+4 3 v | 7, 2 4 | 4 .+3 2 |
+3 3 #4 | 5 . :|
+> A-le De-ba-tang-ki, lam jo-nok ro-hang-ki, jo-nok tu Ho!
+> I ma na sai tong-tong sang-kap ni ro-hang-kon, jo-nok tu Ho!
+#B
+5 3 4 | 5 .+6 5 v | 5 3 4 |
+5 .+6 5 v | 1' 7 6 | 5 .+4 3 v |
+> Nang be-ha pa-no-guM di au on na-pop-som, a-sa lam jo-nok do,
+#C
+2 2 5 | 3 . . |
+> jo-nok tu Ho
+#D
+2 2 5 | 1 . . |]
+> jo-nok tu Ho.
+#V
+Ale Debatangki, lam jonok rohangki, jonok tu Ho!
+I ma na sai tongtong sangkap ni rohangkon, jonok tu Ho!
+Nang beha panoguM di au on napopsom,
+Asa lam jonok do :,: Jonok tu Ho!
+-
+Ale Debatangki, lam jonok rohangki, taiti tu Ho!
+Bangkol pe dagingkon, losok pe rohangkon, manopot Ho.
+Tong do malungun au tu Ho, tangihon au;
+Lam jonok rohangki :,: Taiti tu Ho!
+-
+Ale Debatangki, lam jonok rohangki, taiti gogo!
+Asa tung sonang au, ala basaM tu au, taiti gogo!
+Ai songon pulut i, dosa di rohangki,
+Asa tung lam gogo :,: Taiti tu Ho!
+-
+Ale Debatangki, jaga ma tondingki; tangihon au!
+Molo diloas Ho, Sipata jea ro, manahop au;
+Naeng ma nang jea i, manogu rohangki
+Tu hasonangan i ....:,: Tangihon au!
+-
+Ale Debatangki, lam jonok rohangki, jonok tu Ho!
+I do na sai tongtong, disangkap rohangkon, jonok tu Ho!
+Asa di tingki ni, lomo ni rohaMi
+Au ro tu lambungMu, :,: Jonok tu Ho!

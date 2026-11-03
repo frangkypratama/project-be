@@ -1,0 +1,34 @@
+@be 425
+@bl 285
+@title Batu mamak di au on.
+@key Bb
+@oct -1
+@meter 3/4
+@credit B.L. No. 67 · Lagu: Augustus Montague Toplady 1778
+@pages 407
+@check Kredit ditulis sesuai buku ("Lagu : Augustus Montague Toplady 1778"); A. M. Toplady lazim dikenal sebagai penulis syair "Rock of Ages".
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan "hupasahat tondingkon" (baris 1). Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 425) | https://bukuende.wordpress.com/2013/06/09/batu-mamak-di-au-on-buku-ende-no-425-buku-logu-no-285/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1' . 1' | 7 . 1' | 6 . 1' | 5 . . | 3' . 1' |
+4' . 2' | 1' . 7 | 1' . . | 3' . 3' | 2' . 3' | 4' . 3' | 2' . . |
+3' . 3' | 2' . 3' | 4' . 3' | 2' . . | 1' . 1' | 7 . 1' |
+6 . 1' | 5 . . | 3' . 1' | 4' . 2' | 1' . 7 | 1' . . |]
+> Ba-tu ma-mak di au on, hu-pa-sa-hat ton-ding-kon, tu aek do-hot mu-dar-Mi, na ro si-an lam-bung-Mi; Si-pa-lu-a au do i si-an par-do-sa-on-ki.
+#V
+Batu mamak di au on, hupasahat tondingkon,
+Tu aek dohot mudarMi, na ro sian lambungMi;
+Sipalua au do i sian pardosaonki.
+-
+Na nidok ni patik i maol diula jolma i,
+Nang na ringgas situtu, tangis ala naeng burju.
+Nda tung sesa dosa i baenon ni na songon i.
+-
+Ipe, hehe au nama, lao tu dolok Golgatha,
+Tu hau pinarsilangMi, ale Jesus, Tuhanki !
+Unang tulak sian i au na marsak roha i.
+-
+Tung saleleng au dison, manang tos pe hosangkon ;
+Molo ro ajalhu i, nang diparuhuman i,
+Batu mamak di au on, sai di Ho ma tondingkon.

@@ -1,0 +1,43 @@
+@be 600
+@bl 0
+@title Diborngin na sasada i
+@key Bb
+@oct -1
+@meter 6/8
+@credit (tidak dicantumkan di buku)
+@pages 590 591
+@status Lirik dicek · 12/15 baris sama dgn pembanding
+@check Pembanding lirik: beda di "diborngin" (ejaan), "habong na do" dan "dosa i" (kata lain); scan dicek ulang, ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 600) | https://bukuende.wordpress.com/2013/06/13/diborngin-sasada-i-buku-ende-no-600-buku-logu-no-600/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian (Natal): tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Luk 2:8-14. Tidak ada keterangan syair/lagu di buku.
+@check 4̸ dan 5̸ (dicoret) = kres; not balok E pugar dan Fis.
+@check Birama akhir "1̇ . . 1̇ ." = 5/8 (tercetak demikian).
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+#A
+5 | 3' . 7 (2' 1') 6 | 5 . 6 5 . 5 | (6 7) 1' (1' 2') 3' |
+(2' . . 2') . 5 | 3' . 7 (2' 1') 6 |
+5 . 6 5 . 5 | 6 . 6 (7 6) 5 | (1' . . 1') . 3' |
+3' . 3 (3 #4) #5 | 6 . 7 1' . 3' | (2' 1') 7 (6 7) 6 |
+(5 . . 5) . 5 | 3' . 7 (2' 1') 6 | 5 . 6 5 . 5 |
+6 . 6 (7 6) 5 | (1' . . 1') . |]
+> Di bor-ngin na sa-sa-da i tar-be-ge en-de ni pa-ra-ngan par-di-sur-go i pa-sa-ngap Tu-han i. naung tu-bu do di-bor-ngin i, Tu-han-ta Je-sus i, i do bi-na-ri-ta-hon ni su-ru-su-ru-an i.
+#V
+Di borngin na sasada i tarbege ende ni parangan pardisurgo i
+pasangap Tuhan i.
+naung tubu do diborngin i, Tuhanta Jesus i,
+i do binaritahon ni suru-suruan i.
+-
+Suruan i marende do diborngin na holom,
+mamaritahon dame i tu liat tano on,
+habong na do paherbang do tu hita jolma on,
+luhut nasida rap mandok : "Dame di tano on"
+-
+Sai dipatunduk dosa i luhut tinompaMi,
+sai naeng disoadahon do barita dame i,
+antong hamu pardosa i pauba rohami
+tangihon ni endehon ni suru-suruan i
+-
+Hamu angka na loja i jala na sorat i,
+binaen ni angka dosami dapothon Tuhan i,
+tinggangkon hinolsohonmi tu Sipalua i,
+auhon ni endehon ni Suru-suruan i.

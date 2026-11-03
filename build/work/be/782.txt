@@ -1,0 +1,28 @@
+@be 782
+@bl 0
+@title Tuhan Debatanta
+@key D
+@meter 4/4
+@credit Syair: Aus dem Himmel ferne, Wilhelm Hey, 1789 - 1854 · Terj.: Biv. M. H. Sitorus · Lagu: Friedrich Silcher, 1860
+@pages 854
+@status Lirik dicek · 8/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 782) | https://bukuende.wordpress.com/2013/06/18/tuhan-debatanta-buku-ende-no-782-buku-logu-no-782/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." → @bl 0.
+@check Birama 6: "1 . 7" diberi legato di angka dan balok (1' setengah not bersambung ke 7) → satu suku kata "hi".
+#A
+5 .+6 5 4 | 3 . 2 . | 1 (2+3) 4 3 | 2 . . 0 |
+3 5 6 5 | (1' . 7) 6 | 5 (4+3) 4 5 | 3 . . 0 |]
+> Tu-han De-ba-tan-ta Si-pa-nom-pa i, na ma-nan-da hi-ta A-nak-kon-Na i.
+#V
+Tuhan Debatanta Sipanompa i,
+na mananda hita AnakkonNa i.
+-
+Angka tangiangta nang holsonta i,
+ditangihon Ama na di surgo i.
+-
+Ngolu sipanganon disarihon do,
+nang angka na pogos di parmudu do.
+-
+Beta talului harajaonNa i,
+nang hatigoranNa dingolunta i.

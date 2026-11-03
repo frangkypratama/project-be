@@ -1,0 +1,45 @@
+@be 274
+@bl 159
+@title Sai hehe ma hamuna, hamu
+@key Bb
+@meter 4/4
+@credit George James Webb 1887
+@pages 254
+@check Judul kepala lagu (judul Logu) "Sai hehe ma hamuna, hamu"; baris pertama lirik "Ndang jadi ho mardalan susada ho antong!".
+@check Ketukan gantung "5" dan not "6" di baris 1 & 4 tercetak tanpa titik bawah, tetapi paranada sama dengan baris 2 (F4, G4); ditulis 5, dan 6,.
+@check Setiap baris diawali ketukan gantung; ditulis sebagai bagian terpisah agar birama akhir 3 ketuk sah.
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Pembanding lirik: L1 kata 5 (buku "susada", pembanding "sasada"), L14 kata 1, L16 kata 3 & kata 8 tambahan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 274) | https://bukuende.wordpress.com/2013/06/16/ndang-jadi-ho-mardalan-sasada-ho-antong-buku-ende-no-274-buku-logu-no-159/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 .+1 3 1 | 1 . 6, v 1 | 5, 1 2 3 | 2 . 0 |
+> Ndang ja-di ho mar-da-lan su-sa-da ho an-tong!
+#B
+5, | 1 .+1 3 1 | 1 . 6, 1 | 5, 1 3 2 | 1 . 0 |
+> Tu-han-ta Si-pa-ngo-lu baen do-ngan-mi tong-tong.
+#C
+5, | 2 .+2 1 2 | 3 . 3 v 3 | 4 3 6, 2 | (1 . 7, .) |
+> Tar-ton-dong ho ma sur-go di ha do-sa-on-mi?
+#D
+5, | 1 .+1 3 1 | 1 . 6, v 1 | 5, 1 3 2 | 1 . 0 |]
+> Sai tang-kup Tu-han Je-sus, si-por-san do-sa-mi.
+#V
+Ndang jadi ho mardalan susada ho antong!
+Tuhanta Sipangolu baen donganmi tongtong.
+Tartondong ho ma surgo di hadosaonmi?
+Sai tangkup Tuhan Jesus, siporsan dosami.
+-
+Ndang jadi ho holsoan dibaen na porsuk i.
+Tu Tuhan i aluhon na niarsakkonmi;
+Ibana sipartogi sitiop tanganmi,
+Ture panogihonNa di na porsea i.
+-
+Ndang jadi ho mamereng tu pudimi ale.
+Mardame ma rohamu marhite Jesusmi.
+Laos Jesus sipatupa paradianan i,
+Di lambung ni AmaNa dibaen holongNa i.
+-
+Ndang jadi ho gangguan di hamamatemi,
+Ndang laos pasombuonNa na hinophopNa i.
+Asal hian donganmu Tuhanta Jesus i.
+Sai saut pamonanganonNa ho di ujungna i.

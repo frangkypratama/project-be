@@ -1,0 +1,41 @@
+@be 263
+@bl 165
+@title Tudos tu galumbang i.
+@key E
+@meter 2/4
+@credit Johannes Daniel Falk 1822
+@pages 243
+@check Kepala lagu "Tudos tu galumbang i."; lirik di bawah not dan ayat memakai "Todus".
+@check Kelompok 1/16 (garis atas ganda) dinyanyikan pada satu suku kata; ditandai "_" di baris lirik karena buku tidak mencetak legato.
+@check Lengkung di atas "3 5 4 2" (baris 2) menaungi kata "(Mangulahon)" berisi 4 suku kata; dibaca sebagai tanda frase, bukan legato.
+@check Baris 4: tanda napas di antara "1 ." dan "6" tidak dapat ditulis di dalam satu ketuk; dilewati.
+@check Lirik baris 3 tercetak "do- pa-ngondi-an"; ayat-ayat lain menunjukkan "sada do, pangondian"; ditulis sebagai kata terpisah.
+@status Lirik dicek · 10/16 baris sama dgn pembanding
+@check Pembanding lirik: L1 kata 1 (buku "Todus"), L2 kata 5 ("(Mangulahon)" tak ada di pembanding), L5 kata 2 berbeda, L10, L15, L16 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 263) | https://bukuende.wordpress.com/2013/06/18/tudos-tu-galumbang-i-buku-ende-no-263-buku-logu-no-165/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3+3 3+5 | 5+4 4 v | 3+5 6+5+4+3 | 3 2 v |
+3+3 3+5 | 5+4 4 v | 3+5 4+2 | 3+1 2+7, |
+2 1 v | 2+2 3+3 | 4+5+4+3 2 v | 3+3 4+4 |
+5+6+5+4 3 | 5 3+5 | 1' .+6 | 5+6+5+4 3+4+3+2 | 1 . |]
+> To-dus tu ga-lum-bang i. Ta-gan ha _ ba _ ha-ba, Ta-hi ni par-ja-hat i. (Ma-ngu-la-hon) ma-ngu-la-hon do-sa. Ha-po-ru-san sa _ da _ do pa-ngon-di-an sa _ da _ do: Kris-tus Tu-han, na pa _ lu _ a _ hon _ au.
+#V
+Todus tu galumbang i. Tagan habahaba,
+Tahi ni parjahat i. (Mangulahon) mangulahon dosa.
+Haporusan sada do pangondian sada do:
+Kristus Tuhan, na paluahon au.
+-
+Sego sogot sasude bintang dohot bulan;
+Sego tano on muse, ise haporusan?
+Ndang adong tinanda be dungkon Tuhan Jesus i.
+Kristus Tuhan na paluahon au.
+-
+Di na laho mate au, sai asi rohaMu;
+Unang loas lonong au tu banuatoru;
+Sai surdukhon tanganMi dompak au tinobusMi.
+Kristus Tuhan na paluahon au.
+-
+Salpu hamamatengki ro ma hangoluan.
+Pujionku ma disi burjuMi, o Tuhan,
+Saleleng-lelengma i Ho nama pujionki.
+Kristus Tuhan, Ho sipalua au.

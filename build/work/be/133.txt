@@ -1,0 +1,52 @@
+@be 133
+@bl 113
+@title Naeng pujionku Ho Jahowa
+@key C
+@meter 4/4
+@credit J.A. Freylinghausen, 1690
+@pages 120 121
+@status Lirik dicek · 19/24 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 19 dari 24 baris sama; 5 baris beda (ay6 b3 kata berbeda; sisanya ejaan). Ay6 b3 ("huriaM") dicek ulang ke scan: sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 133) | https://bukuende.wordpress.com/2013/06/16/o-tondi-na-manggohi-roha-buku-ende-no-133-buku-logu-no-113/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Logu No. 113 = melodi yang sama dengan BE 2; notasi identik dengan BE 2.
+#A
+5 | 1' 5 6 6 | 5 .+4 3 1 | 0 2 3 #4 |
+5+6 7+1' 7 6 | 5 . . :|
+> O Ton-di na mang-go-hi ro-ha Ni pa-nin-da-ngi na par-jo-lo i,
+> Na so dung o-lo mar-na-lo-ja ma-nga-lo mu-su ni Tu-han-na i.
+#B
+5 | 1' 2' 3' 1' |
+4'+3' 2'+1' 2' . | 3' 2'+1' 7 6 | 5 1' 1' 7 | 1' . . |]
+> Sung-gu-li do-hot ro-ha-na-mi on, ma-ma-ti-ta-hon Je-sus i tong-tong
+#V
+O Tondi na manggohi roha Ni panindangi na parjolo i,
+Na so dung olo marnaloja mangalo musu ni Tuhanna i.
+Sungguli dohot rohanami on, mamatitahon Jesus i tongtong
+-
+Anggiat apiMi ma galak marlojong tu saluhut bangso i!
+Jahowa, sai paborhat halak, na burju mangkatahon hataMi.
+Sai tatap lambas ni gotilon i. ianggo naposoM otik do i.
+-
+AnakMu do na mangajarhon, tu hami hata pangidoan i.
+Torop do na mangkaringgashon, mangaradoti na nidokNa i.
+Dibahen i tangihon namai, sai dok ma: Amen, saut ma hata i
+-
+Antong torop ma baen Pandita, na sai tongtong digohi TondiMi,
+Huhut na ringgas marjamita, Manogu halak tu gomgomanMi.
+Taluhon ma si bolis i tongtong, pararat ma hataM di tano on.
+-
+Urupi hami sian Sion, sai suru Tondi Parbadia i.
+Lao paluahon hajolmaon, hombar tu na pinarbagahonMi.
+Sondangi ma sandok portibi on, pasiat ma hataM di tano on.
+-
+Sai loas ma hatop mardalan, HataM, maanggohi liat tano on.
+Naeng songon na marhabanhaban, parbegu masuk tu huriaMon.
+Sungguli dohot Israel sude ro mandapothon huriaM muse!
+-
+Pauli Sion na marumpak, padao na tau mangambat hataMi;
+O Tondi, ro ma Ho manumpak, ulaon ni sude naposoMi.
+Tongtong paias porlak anggurMi, ai naeng ramos do parbuena i.
+-
+Sai tatap nasa parguruan, inganan ni TondiM ma baen sude;
+Lopokkon hata hangoluan tu roha ni parguru i sude
+Sai lehon guru angka na burju, parroha pangondian situtu.

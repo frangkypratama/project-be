@@ -1,0 +1,28 @@
+@be 225
+@bl 25
+@title Ai beasa tung humolso
+@key F
+@meter 3/4
+@credit F. A. Schulz, 1842
+@pages 205 206
+@check Judul di kepala lagu "Ai beasa tung humolso", tetapi baris pertama lirik "Ho o Tuhan, haholongan ni rohangku".
+@status Lirik dicek · 7/8 baris sama dgn pembanding
+@check Pembanding lirik: L6 kata 6: buku tercetak "todingki" (dicek ulang di scan hlm 206), ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 225) | https://bukuende.wordpress.com/2013/06/13/ho-o-tuhan-haholongan-buku-ende-no-225-buku-logu-no-25/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . 4 | 5 . 3 | (2 .+1) 2 | 3 . 3 v | 5 . 3 |
+2 . 5 | (#4 .+3) #4 | 5 . 0 | 4 . 4 | 3 . 1 |
+(7, .+6,) 7, | (1 .+2) 3 | 4 . 3 | 6 . (4+2) | 1 . 7, | 1 . . |]
+> Ho o Tu-han, ha-ho-lo-ngan ni ro-hang-ku sai tong-tong, sai ta-ngi-hon pa-ngi-do-an, sai u-ru-pi ma au on.
+#V
+Ho o Tuhan, haholongan ni rohangku sai tongtong,
+Sai tangihon pangidoan, sai urupi ma au on.
+-
+Pasupasu ulaonku, tumpak ma sudena i,
+Sai padenggan ma rohangku maradophon donganki.
+-
+Sai patiur ma rohangku mamingkiri basaMi,
+Sesa ma sude dosangku, paimbaru todingki.
+-
+Iringiring au Tuhanku, sai tiopi tanganki,
+Molo tos muse hosangku, abing au tu lambungMi.

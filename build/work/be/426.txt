@@ -1,0 +1,43 @@
+@be 426
+@bl 286
+@title Tutu na mate Jesus i.
+@key Bb
+@meter 6/8
+@credit R.L. No. 91
+@pages 408
+@check Birama 6/8: 1 token = 1 not 1/8. "3 . 2̿" (garis atas ganda pada 2) ditulis "3 .+2" = not 1/8 bertitik + 1/16, sesuai not balok.
+@check Angka "1..1.", "5..5.", "2..2.", "3..3." dengan lengkung = ikatan (1/4 bertitik diikat ke 1/4).
+@check Ayat 2–5 di buku memakai singkatan "Songon i... umbaen na..." (ulangan bagian kedua) — ditulis apa adanya.
+@status Lirik dicek · 11/13 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan "humophop" (baris 1); baris akhir ayat 5 berupa singkatan "Songon i..." di buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 426) | https://bukuende.wordpress.com/2013/06/18/tutu-na-mate-jesus-i-buku-ende-no-426-buku-logu-no-286/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 5, . 1 (3 .+2) 1 | (1 .+7,) 6, 5, . 1 | 7, . 7, (7, .+6,) 7, |
+(1 . . 1 .) 5, | 5, . 1 (3 .+2) 1 | (1 .+7,) 6, 5, . 1 | 7, . 7, (2 .+1) 6, |
+(5, . . 5, .) 0 |
+> Tu-tu, na ma-te Je-sus i hu-mop-hop i-ba-on? Du-rus di hau par-si-lang i mu-dar-na i to-ngon?
+#B
+3 . 3 (3 .+2) 1 | (2 . . 2 .) 0 | 4 . 4 (4 .+3) 2 |
+(3 . . 3 .) 5, | 5, . 1 (3 .+2) 1 | (1 .+7,) 6, 5, . 1 | 7, . 7, (7, .+6,) 7, | (1 . . 1 .) |]
+> Song-on i tu-tu, so-ngon i tu-tu. Um-baen na ma-te Je-sus i si-a-la au do i.
+#V
+Tutu, na mate Jesus i humophop ibaon?
+Durus di hau parsilang i mudarna i tongon?
+Songon i tutu, songon i tutu.
+Umbaen na mate Jesus i siala au do i.
+-
+Tutu na mate Jesus i siala dosangki ?
+Na lao pasaehon utangki dibaen holongNa i?
+Songon i... umbaen na... siala dosami.
+-
+Holom ni haholomon i, targantung Jesus i.
+Parholong, lambas roha i, tung ala dosangki.
+Songon i... umbaen... siala dosami.
+-
+Tama huhuphup bohingkon marsinggang di joloM.
+Mariluilu matangkon marningot basaMon.
+Songon i... umbaen ... siala au tongon.
+-
+O Jesus, sai urupi au, asi ma rohaMi.
+Dison do au, sai togu au, naeng saut tu lambungMi.
+Songon i... o Jesus sai urupi au saut ma tu lambungMi.

@@ -1,0 +1,26 @@
+@be 35
+@bl 199
+@title Sada nama sangkap
+@key F
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 29 30
+@check Judul tercetak "Sada nama sangkap"; lirik dimulai "Sude hami na dison". Hanya satu ayat dicetak.
+@status Lirik dicek · 2/4 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 2 dari 4 baris sama persis; baris 2 dan 3 beda (kata tidak dirinci oleh alat pembanding). Kata yang berbeda belum dicek ulang satu per satu ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 35) | https://bukuende.wordpress.com/2013/06/18/sude-hami-na-dison-buku-ende-no-35-buku-logu-no-199/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 1 6, 2 | 1 7, 1 5 | 3 . 1 . v | 1 1 6, 4 |
+3 2 1 . :|
+> Su-de ha-mi, na di-son mar-pu-ngu do pa-do-mu ta-ngan i,
+> Pa-to-du-hon pa-dan di mu-dar-Mu, Tan-da hot di Ho su-de.
+#B
+7, 1 2 5 | 5 4 4 3 | 3 . 2 . v |
+7, 1 2 5 | 5 4 4 3 | 3 . 2 . v | 1 1 6, 4 |
+3 2 1 . v | 1 1 6, 4 | 3 . 2 . | 1 . . . |]
+> Je-sus, sai pa-bo-a ma di ha-mi Lo-mo ni ro-haM di en-de na-mi; Dok ma A-men, si-tu-tu, Da-me, da-me di ha-mu.
+#V
+Sude hami, na dison marpungu do padomu tangan i,
+Patoduhon padan di mudarMu, Tanda hot di Ho sude.
+Jesus, sai paboa ma di hami Lomo ni rohaM di ende nami;
+Dok ma Amen, situtu, Dame, dame di hamu.

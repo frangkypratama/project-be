@@ -1,0 +1,26 @@
+@be 863
+@bl 0
+@title Sangap di Debata
+@key Ab
+@meter 4/4
+@credit Syair: Pdt. J.A.U. Doloksaribu · Lagu: Tumba, Tradisional Batak Toba
+@pages 947
+@status Lirik dicek · 3/4 baris sama dgn pembanding
+@check Pembanding lirik: 3/4 baris sama; baris 4 beda ejaan kata 2 ("Sitolu"); buku jelas mencetak "Si-to-lu", ditulis sesuai buku.
+@check Pembanding menyebut Buku Logu No. 863; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 863) | https://bukuende.wordpress.com/2013/06/18/sangap-di-debata-buku-ende-no-863-buku-logu-no-863/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanda mula 4 mol, not 1 = As4 (balok) → do = As.
+@check Baris 1 birama 2: "2_3" tanpa garis atas tercetak, tetapi balok Bes–C 1/8 bergandeng → ditulis (2+3).
+@check Hanya satu ayat tercetak (teks di bawah not).
+#A
+1 1 .+1 2+3 | (2+1) (2+3) 3 3 |
+1 1 .+1 2+3 | 3 . 3 . |
+1 1 .+1 2+3 | (2+1) (2+3) 2 2 |
+7, .+7, 7,+1 2+7, | 1 . 1 . |]
+> Sa-ngap di De-ba-ta A-man-ta, sa-ngap di Je-sus Kris-tus, sa-ngap di Ton-di Por-ba-di-a. De-ba-ta Si-to-lu sa-da.
+#V
+Sangap di Debata Amanta,
+sangap di Jesus Kristus,
+sangap di Tondi Porbadia.
+Debata Sitolu sada.

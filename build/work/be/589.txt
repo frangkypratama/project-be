@@ -1,0 +1,36 @@
+@be 589
+@bl 0
+@title Tuhan sai ro ma Ho
+@key G
+@meter 3/4
+@credit Syair: Come Thou almighty King; NN, 1757; Terj.: Pdt. J.A U. Dolokasaribu; Lagu: Felice de Giardini, 1769
+@pages 571 572
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan "parmohong" (ayat 2, buku memang mencetak demikian; mungkin "parholong") dan "Debeta" (ayat 4).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 589) | https://bukuende.wordpress.com/2013/06/18/tuhan-sai-ro-ma-ho-buku-ende-no-589-buku-logu-no-589/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Ps. 29:2.
+@check Penerjemah tercetak "Dolokasaribu" (lazim: Doloksaribu); ayat 4 "Debeta" — ditulis apa adanya.
+@check Birama "4 . 5 4 3": not balok C5 bertitik–D5–C5 di bawah satu legato untuk suku kata "ha" → ditulis (4+.+.+5 4) 3.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+#A
+5 3 1 | (2 1) 7, | 1 . . | 1 2 3 |
+(4+.+.+5 4) 3 | 2 . . | 5 3 1 | 5, . . |
+2 3 4 | 3 .+2 1 | 2 3 4 | 3 .+2 1 |
+1 3 5 | 5 .+6 5 | 4 3 2 | 1 . . |]
+> Tu-han sai ro ma Ho, ra-ja-i ha-mi on pi-nu-ji Ho par-mo-nang i do Ho, na mar-mu-li-a Ho, gom-gom por-ti-bi-on pi-nu-ji Ho.
+#V
+Tuhan sai ro ma Ho, rajai hami on pinuji Ho
+parmonang i do Ho, na marmulia Ho,
+gomgom portibion pinuji Ho.
+-
+Debata Ama i, parasi roha i, parmohong i
+patar do diriMi, marhite Jesus i,
+sahaphon tondiMi, tu tondingki.
+-
+O Jesus Tuhanki, Anak sasada ni Debatangki,
+pamonang hataMi, marhite TondiMi,
+i ma tangiangki, O Tuhanki.
+-
+Jahowa Tuhanki, parasi roha i, parholong i
+Debeta Ama i, Anak nang Tondi i,
+Sitolu sada i, na songkal i.

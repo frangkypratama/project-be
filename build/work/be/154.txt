@@ -1,0 +1,51 @@
+@be 154
+@bl 190
+@title Sai palinggas ho
+@key Eb
+@meter 4/4
+@credit J.A Freyl Inghausen 1704
+@pages 138 139
+@check Komponis tercetak "J.A Freyl Inghausen" (lazim: Johann Anastasius Freylinghausen).
+@status Lirik dicek · 19/24 baris sama dgn pembanding
+@check Pembanding lirik: L9, L10 (kata 8 berbeda), L14, L18, L21 beda satu kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 154) | https://bukuende.wordpress.com/2013/06/18/sai-palinggas-ho-tondingku-buku-ende-no-154-buku-logu-no-190/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 2 1 2 | 3 5 4 . | 3 . v 5 3 |
+4 3 1 3 | 2 . 1 . :|
+> Sai pa-ling-gas ho ton-ding-ku, sai ta-ding-kon ma ar-sak-mu
+> Ro ma ho tu ha-to-ra-ngan a-sa da-pot ha-so-na-ngan
+#B
+5 5 1' 7 | 6 7 6 . |
+5 . v 5 5 | 1' 7 6 7 | 6 . 5 . | 2 3 4 4 |
+3 3 2 2 v | 5 3 4 3 | 1 3 2 . | 1 . . . |]
+> Ai tar-on-tang ho sao-na-ri tu ha-ro-an na ba-di-a, na mang-gom-gom par-lu-hu-tan, naeng tu ho do ma-ri-nga-nan
+#V
+Sai palinggas ho tondingku, sai tadingkon ma arsakmu
+Ro ma ho tu hatorangan asa dapot hasonangan
+Ai tarontang ho saonari tu haroan na badia,
+Na manggomgom parluhutan, naeng tu ho do maringanan
+-
+Sai ringkoti ma manomu na pangolu Ho, tondingku.
+Na manuktuk do Ibana, di roham dibaen hataNa.
+Ungkap pintu ni rohamu, asa bongot ma Rajamu.
+Dok : ingani ma rohangku, unang be tadingkononMu.
+-
+Sai malungun do rohangku, ale Jesus, dibasaMu.
+Tung na tangis do rohangku, na malungun di mannaMu,
+Na mauas do tondingku, ale Jesus, di mudarMu,
+Pinangido ni rohangku, hasasaor tu Debatangku.
+-
+Las huhut do angka hitir, rohangkon, di na hupingkir
+Simosimo ni panganon, dibagasan parpadanan.
+Ai na so tardodo roha, pinatupa ni Jahowa.
+Ingkon Tondi Parbadia, pabotohon i tu iba.
+-
+Jesus, holong ni rohangku, dipadoras Ho langkaMu
+Manadingkon hasangapon, mandapothon hajolmaon.
+Ai dilehon Ho dagingMu, hangoluan ni tondingku;
+Diusehon Ho mudarMu, baen hasaean ni dosangku.
+-
+Jesus, Ho hangoluanku, unang so adong labangku
+Lao manganhon parpadanan, unang tung au hajeaan.
+Unang so lam huantusi godang ni pangkaholongi
+Ni rohaM di huriaMu na tinobus ni mudarMu.

@@ -1,0 +1,33 @@
+@be 295
+@bl 237
+@title Holan di surgo i
+@key Bb
+@oct -1
+@meter 3/4
+@credit Lagu: Friderich Silcher 1860
+@pages 274
+@status Lirik dicek · 6/9 baris sama dgn pembanding
+@check Pembanding lirik: baris 1,2,7 beda ejaan; scan hlm 274 ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 295) | https://bukuende.wordpress.com/2013/06/13/holan-di-surgo-i-buku-ende-no-295-buku-logu-no-23/ | 6/9 baris sama
+@check Bagian #A diulang (:|) dengan kata yang sama (ayat 2–3 bertanda ":,:"); ayat 4 tanpa tanda ulang.
+#A
+(3+5) (1'+3) 5 | 4 6 6 v | (5+7) (2'+4') (3'+2') |
+1' . 0 :|
+> Ho-lan di sur-go i so-nang su-de;
+#B
+1' 3' 5' | 4' .+3' 2' v | 5 (7+2') 4' | 3' .+2' 1' v |
+(3+5) (1'+3) 5 | 4 6 6 | (5+7) (2'+4') (3'+2') | 1' . 0 |]
+> Ndang na hu-ra-ngan be di-ma-nang a-ha-pe. Mo-lo hu-i-ngat i, naeng au tu-si.
+#V
+:,: Holan di surgo i, sonang sude. :,: Ndang na hurangan be dimanang ahape.
+Molo huingat i, naeng au tusi.
+-
+:,: Holan di surgo i, sonang sude. :,: Ndang adong dosa be,
+Uhum sude ture, sai na martua be disi sude.
+-
+:,: Anggo di tano on, susa tongtong. :,: Jahat ni jolma do,
+Sai na lam ganda do; Dung i ujungna be, mate sude.
+-
+Anggo di tano on, hurang sude, Alai di ginjangan, sai sonang be
+Haporseaon i, Dalan tu surgo i;
+Holong ni roha pe hot do muse

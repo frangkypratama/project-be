@@ -1,0 +1,40 @@
+@be 375
+@bl 380
+@title Adong do hasonangan 2
+@key Eb
+@meter 6/4
+@credit Lagu : Frieda Von Bethmann Hoollweg 1916
+@pages 359 360
+@status Lirik dicek · 8/13 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 8 dari 13 baris sama; beda di baris 2 (maporus; pembanding kemungkinan "marporus"), 5 (refrein ditulis lengkap), 8 (Pareak), 9, 10 (parhaseang); dicek ulang ke scan, sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 375) | https://bukuende.wordpress.com/2013/06/05/adong-do-hasonangan-2-buku-ende-no-375-logu-no-380/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian "Dijou Tuhan i do ho!". Kepala lagu mencetak "Logu No. 380 : Adong do hasonangan 2" dan "Z. No. 263"; judul ditulis seperti tercetak (angka 2 kemungkinan penanda logu kedua).
+@check Kredit tercetak "Frieda Von Bethmann Hoollweg" (ejaan lazim: Hollweg); ditulis sesuai buku. "4*" = #4 (A♮), "2*" = #2 (F♯).
+@check Ayat 2–3 hanya mencetak 4 baris; refrein "Sai ro ma ho ..." diulang dari ayat 1.
+#A
+3 | (5 4) 3 (5 4) 3 | 3 . . 2 . (3+3) |
+(4 3) 4 6 . 5 | (3 . . 3 .) 3 | (3 #2) 3 1' . 7 | 6 . . 3 . 3 |
+#4 . 2 3 . #4 | (5 . . 5 .) 5 | 5 . 4 3 . 2 | (3 . #4) 5 . 1' |
+5 . 6 5 . 4 | (3 . . 3 .) 5 | 1' . 1' 7 . 6 | 6 . . 5 . 0 | 5 . . 4 . 4 |
+(3 . . 3 .) |]
+> A-dong do ha-so-na-ngan di ho par-ja-lang i, ha-top ma ho ma-po-rus tu Tu-han Je-sus i. O, jang-kon ma I-ba-na, a-sa da-po-tan ho. A-dong do ha-so-na-ngan, ha-top ho ro.
+#B
+5 | 5 . #4 5 . 6 | 5 . #4 5 . 5 | (1' . . 1' .) 6 | (1' . . 1' .) 5 |
+1' . 1' 7 . 6 | 6 . . 5 . . | 5 . . 4 . 4 | (3 . . 3 .) |]
+> Sai ro ma ho, sai ro ma ho, sai ro ma ho, a-dong do ha-so-na-ngan, sai ro ma ho.
+#V
+Adong do hasonangan di ho parjalang i,
+Hatop ma ho maporus tu Tuhan Jesus i.
+O, jangkon ma Ibana, asa dapotan ho.
+Adong do hasonangan, hatop ho ro.
+Sai ro ma ho, sai ro ma ho, sai ro ma ho, adong do hasonangan, sai ro ma ho.
+-
+Adong paradianan di ho, na loja i,
+Di Tuhan Jesus Kristus, pardenggan basa i,
+Pareak ma Ibana, ai dipaima ho.
+Adong paradianan, sai ro ma ho.
+-
+Sai parhaseang tingki halehetanna i,
+So tung ho maon mago, binaen ni dosami.
+Unang sai marhusari, unang tarlalap ho,
+Adong do hasonangan, sai ro ma ho.

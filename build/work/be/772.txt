@@ -1,0 +1,36 @@
+@be 772
+@bl 0
+@title Tuhanku do puture dalanki.
+@key G
+@meter 3/4
+@credit Syair & Lagu: I Know Lord will make a way for me, Holdor Lilianus · Terj.: Biv. MH. Sitorus/Pdt. J.A.U. Doloksaribu
+@pages 841 842
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 2 ("Tuhan ku" — terpisah di bawah not), 6 dan 10 (ejaan/kata); scan dicek ulang, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 772) | https://bukuende.wordpress.com/2013/06/18/tuhanku-do-pature-dalanki-buku-ende-no-772-buku-logu-no-772/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0.
+@check Judul tercetak "puture", lirik di bawah not dan ayat 2–3 tertulis "pature" — keduanya ditulis apa adanya.
+@check Ketukan gantung (5̣ ½ + 1 2) ditulis dengan diam ½ ketuk di depan. Angka dicoret 2 dan 4 = kres (#2 = Ais, #4 = Cis); "5̸" di birama 8 = Dis (#5).
+@check Ayat 2 baris 3 tercetak "hululuj" dengan tanda sambung (dibaca "hulului").
+#A
+0+5, 1+2 | 3 .+#2 3+4 | 2 . 3 |
+(1 . . | 1) .+2 3+4 | 5 .+#4 5+6 | 4 . 5 |
+(3 . . | 3) . 5+5 | 6 .+#5 6+5 | 4 . 6+6 |
+5 .+#4 5+4 | 3 .+5, 1+2 |
+3 .+#2 3+4 | 2 . 3 | (1 . . | 1) . |]
+> Tu-han-ku do pa-tu-re da-lan-ki, Tu-han ku do pa-ti-ur lang-kang-ki, si-an na-sa ro-hang-ki hu-pa-sa-hat ngo-lung-ki, Tu-han-ku do pa-ti-ur lang-kang-ki.
+#V
+Tuhanku do pature dalanki,
+Tuhan ku do patiur langkangki,
+sian nasa rohangki hupasahat ngolungki,
+Tuhanku do patiur langkangki.
+-
+Tuhanku do pature dalanki,
+Tuhanku do patiur langkangki,
+hulului do Tuhanki, surut ma na holom i,
+Tuhanku do patiur langkangki,
+-
+Tuhanku do pature dalanki,
+Tuhanku do patiur langkangki,
+hupasahat diringki tu tangan ni Tuhanki,
+Tuhanku do patiur langkangki.

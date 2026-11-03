@@ -1,0 +1,40 @@
+@be 586
+@bl 0
+@title Sombaonku Ho O Jesus
+@key F
+@meter 4/4
+@credit Syair dan Lagu: Glorius is thy name; BB Mc Kinney; Terj.: Biv. M. H. Sitorus
+@pages 567 568
+@status Lirik dicek · 5/7 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 ("si tindangiMi", ejaan) dan baris ayat 3 "mate Ho di tano on" (pembanding kata lain) beda; scan mencetak "di". Baris pertama ayat 2 (tertimpa di scan) cocok dengan pembanding: "Tuhan Jesus sipalua sondang hangoluan i".
+@ref Lirik pembanding: bukuende.wordpress.com (BE 586) | https://bukuende.wordpress.com/2013/06/18/sombaonku-ho-o-jesus-buku-ende-no-586-buku-logu-no-586/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Rom 10:9; 2 Pet. 3:18.
+@check Birama akhir refrein tercetak "3 . . 2 ." (5 ketuk); not balok = setengah A + setengah G → ditulis "3 . 2 .".
+@check Baris pertama ayat 2 tertimpa lirik "sa-ngap ma di go-ar-Mi" di scan; dibaca "Tuhan Jesus sipalua sondang hangoluan i" — perlu dicek.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not. Ayat 2–3 mencetak "Ref. : Sangap ma ....." (refrein sama).
+#A
+5 5 5 3 | 6 6 5 3 | 1 2 3 (5+4) | 3 2 1 . |
+5 5 5 3 | 6 6 5 3 | 1 2 3 (5+4) |
+3 2 1 . |
+> Som-ba-on-ku Ho O Je-sus baen au si tin-dang-i-Mi, na sun go-go na ba-di-a son-dang ha-ngo-lu-an i.
+#B
+(5 .+4 3+4 5+6 | 5) .+4 3 0 |
+(4 .+3 2+3 4+5 | 4) .+3 2 0 |
+1 2 3 4 | 3 . 2 . | 3 . . 0 |
+(5 .+4 3+4 5+6 | 5) .+4 3 0 |
+(4 .+3 2+3 4+5 | 4) .+3 2 0 |
+1 2 3 4 | 3 . 2 . | 1 . . 0 |]
+> Sa-ngap ma sa-ngap ma sa-ngap ma di go-ar-Mi. Sa-ngap ma, Sa-ngap ma, sa-ngap ma di go-ar-Mi.
+#V
+Sombaonku Ho O Jesus baen au si tindangiMi,
+na sun gogo na badia sondang hangoluan i.
+Ref. : Sangap ma, sangap ma, sangap ma di goarMi.
+Sangap ma, sangap ma, sangap ma di goarMi.
+-
+Tuhan Jesus sipalua sondang hangoluan i
+Ho do Raja saleleng na, disude na bangso i,
+Ref. : Sangap ma .....
+-
+Habangsam tading di surgo ro do Ho tu tano on
+lao manobus au pardosa, mate Ho di tano on
+Ref. : Sangap ma ......

@@ -1,0 +1,32 @@
+@be 715
+@bl 0
+@title Balga do holongMi
+@key F
+@meter 4/4
+@credit Syair: Savior, Thy Dying Love, S. Dryden Phelps · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Robert Lowry
+@pages 754
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0). Lagu pertama bagian "MAMELEHON DIRI".
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 1 (holongMi) dan 2 (humopkop) beda ejaan. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 715"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 715) | https://bukuende.wordpress.com/2013/06/09/balga-do-holongmi-buku-ende-no-715-buku-logu-no-715/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3 . 4 3 | 2 .+6, 2 . | (1 7,) 6, 7, | (1 . 5, .) |
+3 . 4 3 | 2 .+6, 2 . | (1 7,) 3 .+2 | 1 . . . |
+2 . 2 3 | 4 .+3 2 . | 3 . 3 4 | 5 .+4 3 . |
+5 . 4 3 | 2 .+3 4 . | (1 7,) 3 .+2 | 1 . . . |]
+> Bal-ga do ho-long-Mi si to-bus au ai nu-nga ma-te Ho hu-mop-kop au hu-le-hon ma tu Ho sa-lu-hut ngo-lung-ki. Sai i ma pa-dan-ki tu Tu-han-ki.
+#V
+Balga do holongMi si tobus au
+ai nunga mate Ho humopkop au
+hulehon ma tu Ho saluhut ngolungki.
+Sai i ma padanki tu Tuhanki.
+-
+Baen ma au pangoloi haposanMi.
+marhobas di joloM, burju tongtong
+patar ma holongMi dipambahenanki
+manogu dongan i tu Tuhanki.
+-
+Luhutna na di au nda sian Ho?
+Las, marsak rohangki, di Ho ma i.
+sogot di surgo i, huida bohiMi.
+O Jesus Tuhanki, Parholong i.

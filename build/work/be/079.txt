@@ -1,0 +1,52 @@
+@be 79
+@bl 124
+@title Di na ponjot rohangku
+@key F
+@meter 4/4
+@credit Julius Gessenius, 1450
+@pages 70 71
+@status Lirik dicek · 21/24 baris sama dgn pembanding
+@check Buku menulis "Julius Gessenius 1450"; tahun 1450 tidak mungkin untuk lagu ini (kemungkinan salah cetak, mis. Justus Gesenius abad 17). Ditulis sesuai buku — mohon cek.
+@check Not awal tiap bagian ("1") di paranada bernilai setengah (2 ketuk); ditulis "1 .". Pada baris akhir "1 2 1", not 2 di paranada setengah; ditulis "1 2 . 1".
+@check Pembanding lirik: bukuende.wordpress.com — 21 dari 24 baris sama persis; 3 baris beda ("PangkophopMi", "di hamamateMi", "Mangkaholongi"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 79) | https://bukuende.wordpress.com/2013/06/13/di-na-ponjot-rohangku-buku-ende-no-79-buku-logu-no-124/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . | 1 3 2 1 | 7, . 6, . v | 3 . 4 2 | 3 . 2 . | 1 . :|
+> Di na pon-jot ro-hang-ku bi-naen ni do-sang-ki,
+> Pa-i-ngot au, Tu-han-ku, di ha-ma-ma-te-Mi:
+#B
+1 . | 3 3 4 4 | 5 5 2 . v | 5 . 3 . |
+1 2 . 1 | 7, . 6, . v | 3 . 4 2 | 3 . 2 . | 1 . . . |]
+> Di hau na pi-nar-si-lang i di-ga-rar Ho u-tang-ku mar-hi-te mu-dar-Mi.
+#V
+Di na ponjot rohangku binaen ni dosangki,
+Paingot au, Tuhanku, di hamamateMi:
+Di hau na pinarsilang i digarar Ho utangku marhite mudarMi.
+-
+Tama longang rohangku mamingkir hata on:
+PangkophopMi, Tuhanku di au pardosa on.
+Ai hosa ni AnakNa i dilehon Debatangku, tumobus tondingki.
+-
+Tung aha panginona ni dosangki di au?
+Ai asi ni rohaNa do paluahon au,
+Dibaen naung mate Jesuski, ndang be habiaranku banua toru i.
+-
+Antong, sai pujionku do Ho, o Jesuski.
+Marningot na tinaonMu di hamamateMi,
+Marningot angguhanggukMi, ro di sude na bernit na tinaonMi disi,
+-
+Laos i ma pajujuhon, rohangku sai tongtong,
+Manggotap hajahaton sian rohangkinon;
+Unang huhalupahon be halojaonMu Tuhan nang tung satongkin pe.
+-
+Urupi au, o Tuhan, tumaon di tano on
+Saluhut parsorion na songgop tu au on.
+Ho ma hutiru sai tongtong manaoni na so uhum na di portibi on.
+-
+Sai naeng ma tiruonku pambaenanMi di au
+Tu sasude donganku; Jesus, urupi au
+Mangkaholongi donganki, unang tung marpambuat nang marpangansi pe.
+-
+Sai sonang ma rohangku binaen ni bugangMi,
+Di na lao tos hosangku marningot mudarMi!
+Pos ma rohangku baenon ni pamasuhonMu ahu, marnida bohiMi.

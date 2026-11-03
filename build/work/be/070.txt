@@ -1,0 +1,39 @@
+@be 70
+@bl 36
+@title Naung salpu taon na buruk i
+@key F
+@meter 3/4
+@credit Wilhem Hauff, abad 17
+@pages 61 62
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Judul di kepala lagu "O Jesus, Sipangolu au" (nama Logu No. 36); judul di sini memakai baris pertama lirik.
+@check Ketukan gantung tiga not 1/8 ditulis dengan diam 1/8 di depan (0+5, 1+2) agar ketukan tetap rapi.
+@check Tanda napas setelah "5 3" (baris 3) tidak dapat diletakkan di dalam ketukan; dihilangkan.
+@check Pembanding lirik: bukuende.wordpress.com — 10 dari 12 baris sama persis; 2 baris beda ejaan ("na'mbaru", "pargogoi"); belum dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 70) | https://bukuende.wordpress.com/2013/06/16/naung-salpu-taon-na-buruk-i-buku-ende-no-70-buku-logu-no-36/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+5, 1+2 | 3 .+4 2+3 | 1 v .+2 3+4 |
+5 .+6 4+5 | 3 . |
+> Naung sal-pu taon na bu-ruk i, Ho ma hu-pu-ji Tu-han-ki;
+#B
+0+1 1+1 | 6 .+6 1'+6 |
+(5 3)+5 5+5 | 4 .+2 5+4 | 3 . :|
+> Ai di-ra-mo-ti Ho tong-tong ton-ding-ku do-hot da-ging-kon.
+#V
+Naung salpu taon na buruk i, Ho ma hupuji Tuhanki;
+Ai diramoti Ho tongtong tondingku dohot dagingkon.
+-
+O Jesus, sai asi rohaM, paian denggan ni basaM
+Muse di taon na'mbaru on di nasa huriaM tongtong!
+-
+Sai tong paian hataMi na mangapuli roha i;
+Alai pangago sasude, padao ma sian hami be.
+-
+Sai unang jujur dosa i binaen di taon na salpu i
+Urasi hami sasude asi rohaM di hami be.
+-
+Urupi hami mangoloi patikMu jala pargogoi
+Lao manundalhon dosa i, nang nasa jat ni rohangki.
+-
+Lam jonok taiti hami on tu hangoluan na tongtong;
+Pahot ma di huriaMi jambarna na sumurung i!

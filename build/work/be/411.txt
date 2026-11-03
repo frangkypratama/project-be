@@ -1,0 +1,35 @@
+@be 411
+@bl 274
+@title Nang pe rara dosamu
+@key Ab
+@oct -1
+@meter 3/4
+@credit William Howard Doane 1915
+@pages 394
+@status Tidak lengkap · halaman awal (judul, nomor Logu, bagian awal not & ayat 1) ada di hlm buku 394 yang tidak ada di PDF · lirik dicek: 9/12 baris sama dgn pembanding
+@check PDF hlm 394 bernomor buku 395 dan dimulai di tengah lagu (volta 2 "Dibaen mudarhu."). Halaman buku 394 (awal BE 411) tidak ada di PDF.
+@check @bl 274, @key Ab, @oct -1, @meter 3/4 BUKAN data cetak: disimpulkan dari letak not di paranada dan isi birama halaman yang tersisa; perlu dicocokkan dengan buku cetak.
+@check Kelompok "2̇ 3̇ 2̇", "3 4 5", "1̇ 2̇ 3̇" bertanda 3 = triol (tampilan not balok situs belum mendukung triol).
+@check Pembanding lirik: bukuende.wordpress.com — 9/12 baris sama; baris pertama hanya potongan (awal ayat 1 ada di halaman yang hilang); beda ejaan di baris 11–12 (Sesaonna/dibaloshon). Pembanding 3 ayat, ayat 1 = 5 baris.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 411) | https://bukuende.wordpress.com/2013/06/16/nang-pe-rara-dosamu-buku-ende-no-411-buku-logu-no-274/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+7+.+.+1' 7 2' | 1' .+5 6+5 | 2' . (2'+3')+2' | 1' 1' 1'+2' |
+3' . 3 | 6 . 5+5 | 5 . (3+4)+5 | 6 5 3'+.+.+3' |
+3' . (1'+2')+3' | 4' 3' 2'+1' | 1' .+7 1'+.+.+6 |
+5 . 5+5 | 5 .+5 5+.+.+5 | 5 . |]
+> Di-baen mu-dar-hu. Na dap-dap so-ngon ha-sum-ba so-ngon i-tak do. Nang pe ra-ra do-sa-mu, nang pe ra-ra do-sa-mu, i-as di-baen mu-dar-hi, i-as di-baen mu-dar-hu.
+#V
+... Dibaen mudarhu.
+Na dapdap songon hasumba songon itak do.
+Nang pe rara dosamu, nang pe rara dosamu,
+Ias dibaen mudarhi, ias dibaen mudarhu.
+-
+:,: SoaraNa manjouhon : o, pauba rohamu! :,:
+Ai na asi do rohaNa sai dipio ho!
+SoaraNa manjouhon soaraNa manjouhon:
+O, pauba rohamu ; o pauba rohamu!
+-
+:,: SesaonNa dosamu, ndang dibaloshon tu ho :,:
+Tu Jesus ro, ho na loja, disi sabam ho.
+Sesaonna dosamu, sesaonna dosamu,
+Ndang dibaloshon tu ho, ndang dibaloshon tu ho.

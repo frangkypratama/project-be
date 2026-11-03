@@ -1,0 +1,36 @@
+@be 417
+@bl 278
+@title Rade situtu haluaon
+@key Bb
+@oct -1
+@meter 4/4
+@credit Ernst Gebthardt 1899
+@pages 400 401
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Kepala lagu juga mencetak "R.L. No. 205."
+@check Tanda mula 2 mol, do = Bes oktaf bawah (5 = F4, 1̇ = Bes4).
+@check Baris 5 birama "6 4̇ 3̇͡2̇": angka 6 tanpa titik, tetapi not balok = not 1/2 (G); ditulis 6 . supaya 4 ketuk.
+@check Pembanding lirik: bukuende.wordpress.com — 10/12 baris sama; beda di baris 2 (pemisahan sihalashononmu) dan 3 (ditaon, pasaehon); scan dicek, mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 417) | https://bukuende.wordpress.com/2013/06/16/rade-situtu-haluaon-buku-ende-no-417-buku-logu-no-278/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 5 3+4 5 1'+2' | 3' . 1' 5 |
+6 #5+6 1' 7+6 | 5 . 0 5 | 5 3+4 5 1'+2' |
+3' . 1' (4'+2') | 1' 7+1' 3' 3'+2' | 1' . 0 5 |
+2' 2'+2' 2' 1'+2' | 3' . 1' 5 | 4' 4'+4' 3' 5'+3' | 2' . 0 5 |
+3' 3'+3' 3' 2'+1' | 6 . 4' (3'+2') | 1' 5+1' 3' 3'+2' | 1' . 0 |]
+> Ra-de si-tu-tu ha-lu-a-on, na naeng tang-ku-pon-mu an-tong. Ra-de nang di ho ha-tu-a-on, si-ha-las-ho-non-mu tong-tong. Ber-nit do di-ta-on Tu-han-mu pa-sae-hon do-sam sa-su-de. Tung u-nang pa-u-jat I-ba-na, Sai jang-kon pang-ko-phop-Na i.
+#V
+Rade situtu haluaon, na naeng tangkuponmu antong.
+Rade nang di ho hatuaon, sihalashononmu tongtong.
+Bernit do ditaon Tuhanmu pasaehon dosam sasude.
+Tung unang paujat Ibana, Sai jangkon pangkophopNa i.
+-
+Patedek sude hahurangan, topoti sandok dosami,
+Pangido : Sai sesa o Tuhan, sude pangalaosionki.
+Datdati, sai saut botoonmu naung sesa dosam sasude;
+Mardame dagingmu nang tondi, maniop tongtong Tuhan i.
+-
+PangkophopNa i parangehon, pasangap Tuhanmu antong.
+Ibana buas mangalehon tu ho hasonangan tongtong.
+Sandok sian holso malua, nang sian biarmu sude,
+Sonang nama ho na martua, mangkirim tongtong surgo i.

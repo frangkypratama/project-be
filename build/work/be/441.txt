@@ -1,0 +1,41 @@
+@be 441
+@bl 297
+@title Di au Tuhan Jesus
+@key G
+@meter 4/4
+@credit Ira David Sankey 1908
+@pages 423 424
+@check Birama 2 baris 3 tercetak "5..5 1" (5 ketuk); not balok: setengah + seperempat + seperempat → ditulis 5, . 5, 1.
+@check Garis birama ganda di tengah (sebelum "Di sesa") dijadikan batas bagian A/B; ayat 2–3 tercetak dengan refrein disingkat "Disesa....".
+@check Kepala lagu juga mencantumkan "R.L. No. 142".
+@status Lirik dicek · 11/14 baris sama dgn pembanding
+@check Pembanding lirik: L2 kata 4 (nang), L10 (rumar rohangkon), L12 (Hinorhon) beda ejaan; semua dicek ulang di scan, buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 441) | https://bukuende.wordpress.com/2013/06/13/di-au-tuhan-jesus-buku-ende-no-441-buku-logu-no-297/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 5, . 5, 1 | 3 . 1 3 | 3 2 6, 7, |
+1 . 5, 5, | 5, . 1 3 | 5 . 3 3 | 3 . 2 1 |
+2 . . 5, | 5, . 5, 1 | 3 . 1 3 | (3 2) (6, 7,) | 1 . 5, 1 |
+1 . 7, 6, | 5, . 1 2 | 3 . 2 2 | 1 . . |]
+> Di au Tu-han Je-sus, na sal-pu do su-de-na, na dok-dok, nang do-sa, nang u-hum tu au. Ring-kot do ro-hang-ku mar-ha-to-po-thon, Je-sus-ku, Tu-han-ku, di-to-bus-Ho au,
+#B
+3 |
+5 . 5 6 | 5 . 3 3 | 3 . 3 4 | 3 . 2 1 |
+1 . 7, 6, | 5, . 1 1 | (1 7,) 6, 7, | 1 . . |]
+> Di-se-sa Tu-han-ku do ang-ka do-sang-ku Nang ho, a-le do-ngan, di-to-bus nang ho.
+#V
+Di au Tuhan Jesus, na salpu do sudena,
+Na dokdok, nang dosa, nang uhum tu au.
+Ringkot do rohangku marhatopothon,
+Jesusku, Tuhanku, ditobusHo au,
+Disesa Tuhanku do angka dosangku
+Nang ho, ale dongan, ditobus nang ho.
+-
+Di au do damena, na sonang do rohangku.
+Mangolu, nang mate, di Jesus au on.
+Di ribur ni tano, nang las ni roha,
+Ndang dapot damena, rumar rohangkon, Disesa....
+-
+Di au dohot surgo, sude hasonangan
+Hinorhon ni Jesus, ale donganki
+Sai golom mudarNa, naeng ho partohap
+Di sonang ni roha na sumurung i, Disesa....

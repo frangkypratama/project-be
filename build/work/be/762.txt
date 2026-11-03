@@ -1,0 +1,38 @@
+@be 762
+@bl 0
+@title Masihol do rohangku
+@key G
+@meter 4/4
+@credit Syair dan Lagu: Wiegerne mochte ich lieben, Eva von Tiele Wincker, 1900 · Terj.: Gr. Jisman Hutapea
+@pages 826 827
+@status Lirik dicek · 7/12 baris sama dgn pembanding
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0.
+@check Ayat 1 hanya tercetak di bawah not; teks ayat 1 disusun dari suku kata di bawah not.
+@check Baris 3 akhir "5 0 5" dan baris 6 awal "6 4 3 2" tercetak tanpa titik tahan; balok = not 1/2 (D4, E5) → ditulis "5, . 0 5," dan "6 . 4 (3+2)".
+@check Baris 5 akhir: ada titik kecil setelah 5 ("5 ·"); balok hanya 1/4 D5 → diabaikan.
+@check Ayat 2 tercetak "rahangku" (ayat 1 & 3: "rohangku") — ditulis apa adanya.
+@check Pembanding lirik: baris 3, 4, 5, 9 beda ejaan (portibi, pelean, rahangku, manghaholongi); dicek ulang ke scan, buku sesuai transkripsi.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 762) | https://bukuende.wordpress.com/2013/06/16/masihol-do-rohangku-buku-ende-no-762-buku-logu-no-762/ | teks ayat
+#A
+3 | 5 .+1 7, 1 | (2 .+3) 1 6 |
+(5+3) (2+1) 4 3 | 2 . 0 2 | 2 .+3 2 1 |
+(7, .+1) 2 5 | (3+1) (7,+1) 7, 6, | 5, . 0 5, |
+7, .+1 2 3 | (4 .+2) 7, 5, | (5+4) (3+2) 1 3 |
+2 . 0 2 | 3 .+3 4 5 |
+6 . 4 (3+2) | (5+3) (1+4) 3 2 | 1 . . |]
+> Ma-si-hol do ro-hang-ku di Je-sus Tu-han-ki, naeng hot ma di lam-bung-ku sa-le-leng ngo-lung-ki, sai u-nang au li-li-an di baen por-ti-bi on, ro-hang-ku ma pe-le-an hi bul tu jo-lo on.
+#V
+Masihol do rohangku di Jesus Tuhanki,
+naeng hot ma di lambungku saleleng ngolungki,
+sai unang au lilian di baen portibi on,
+rohangku ma pelean hi bul tu jolo On.
+-
+Masihol do rahangku di Jesus Tuhanki,
+alogo na mamolus do na di tano i,
+na naeng manirang ahu, gotapi ma sude,
+na hinasogohonMu, pabali ma sude.
+-
+Masihol do rohangku manghaholongi Ho.
+saleleng dingolungku naeng rap au dohot Ho,
+marpungu dijolomu mamujimuji Ho,
+saleleng ni lelengna sai hupasangap Ho.

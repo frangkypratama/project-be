@@ -1,0 +1,64 @@
+@be 320
+@bl 211
+@title Maporus do arian
+@key G
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 297 298
+@status Lirik dicek · 23/34 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 2, 4, 9, 13, 17, 18, 22, 23, 25, 26, 29 (umumnya ejaan; baris 18 kata berbeda — dicek ke scan hlm 298: buku "Tama di au toruan"). Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 320) | https://bukuende.wordpress.com/2013/06/16/maporus-do-arian-buku-ende-no-320-buku-logu-no-211/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Tidak ada keterangan "Lagu :" di bawah ayat 7 (hlm 298).
+@check Birama "6 . 5 , 1̇" (baris 3): angka 1 tercetak bertitik atas, balok = G4 (bukan G5) → ditulis 1, sama dengan pola birama sejajar di baris 2 & 5.
+@check Lirik tercetak "Ni / an-ri do-hot bor-ngin" ditulis apa adanya (Ni an-ri).
+#A
+5, | 1 2 3 5 | 2 . 1 :|
+> Ma-po-rus do a-ri-an,
+> Ma sal-pu ha-ti-u-ron.
+#B
+5 | 6 5 4 3 | 2 . 2 v 3 | 4 3 2 1 | 7, . 5, v 1 |
+7, 1 2 2 | 1 . 0 1 | 7, 6, 7, 2 | 6, . 5, v 1 |
+7, 6, 7, 2 | 6, . 5, v 5 | 6 5 4 3 | 2 . 2 v 3 |
+4 3 2 1 | 7, . 5, v 1 | 7, 1 2 2 | 1 . . |]
+> Di-so-luk ha-ho-lo-mon, mam-baen pa-ra-di-a-nan di na-sa jol-ma i. Ho-lom do di ma-tang-ku, tu Ho do lao ro-hang-ku, si-tom-pa par-so-ri-nan, Ni an-ri do-hot bor-ngin, ma-mu-ji go-ar-Mi.
+#V
+Maporus do arian, Ma salpu hatiuron.
+Disoluk haholomon, mambaen paradianan di nasa jolma i.
+Holom do di matangku, tu Ho do lao rohangku,
+Sitompa parsorinan, Ni anri dohot borngin,
+Mamuji goarMi.
+-
+Girgir ma ho, tondingku, mamuji Debatamu,
+Ai na so habilangan do saluhut na denggan, binaenNa i tu ho.
+Satongkin pe ndang salpu, so sahat tu tanganmu
+Godang denggan basaNa, nang asi ni rohaNa, na pangoluhon ho.
+-
+Ai songon siparmahan manjaga di adaran
+Dorbia, asa dapot saluhut i na ringkot hangoluanna i;
+Laos songon i Tuhanku, dilehon do bohalhu;
+Tongtong do jinagaNa au songon dorbiaNa,
+Dibaheni basaNa i.
+-
+Ndang au tinadingkonNa, hape pinatikkonNa
+Jotjot nilaosanku, sai lilu do rohangku mambahen dosa i.
+Asi rohaM, Amangku, paombun marimasMu;
+Tama di au toruan, alai na huarsakkon
+Sude pambaenanki.
+-
+Tangihon ma hatangku; sai sesa ma dosangku,
+Ai mudar ni AnakMu, i do paridianku, na paiashon au
+Sai dokko suruanMu, marsaro di lambungku;
+Ho ma tongtongdonganku di na lao nok matangku.
+Nang di na hehe au.
+-
+I ma na hina posan ni rohangkon, o Tuhan,
+Umbaen sonang rohangku tumopot podomanku,
+So humasusa au. Ai ndang habiaranku
+Pangago ni musungku, dibaen habongkabongMu,
+Namangkuphupi au, mangaramoti au.
+-
+Na modom manang dungo, na hundul manang laho.
+Di tanganMi do ahu, Ho do hangoluanku; sintong do hata i.
+Ai Ho do, pangondingan arian dohot borngin,
+partanobatoanku, na so tadingkononku;
+Ai sonang au disi.

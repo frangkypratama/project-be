@@ -1,0 +1,41 @@
+@be 103
+@bl 80
+@title O Pangapul na lumobi
+@key F
+@meter 4/4
+@credit Johann George Ebeling, 1666
+@pages 93
+@check Judul yang tercetak di kepala lagu: "Tung beasa au holsoan"; di sini dipakai baris pertama lirik.
+@check Birama 1 tercetak "1 . 2" (3 ketuk), tetapi not balok buku menunjukkan dua not 1/2 (F–G); dibaca "1 . 2 ." agar genap 4 ketuk.
+@status Lirik dicek · 12/18 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 18 baris sama persis; beda ejaan di baris 2 (+1 kata), 7, 11, 13, 14, 16. Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 103) | https://bukuende.wordpress.com/2013/06/16/o-pangapul-na-lumobi-buku-ende-no-103-buku-logu-no-80/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 2 . | 3 . . 2 | 3 5 6 . | 5 . . . | 5 6 4 . | 4 5 3 . v |
+3 5 4 3 | 2 . 1 . v | 5 . 4 . | 3 . . 2 | 1 7, 6, . | 5, . . . v |
+5 6 4 . | 4 5 3 . v | 3 2 4 3 | 2 . 1 . |]
+> O Pa-nga-pul na lu-mo-bi, ton-di ni Tu-han i, Ro-hang-kon bo-ngo-ti! di-par-ba-ga Tu-han na-mi, Ing-kon Ho do na ro, ma-nga-ja-ri ha-mi.
+#V
+O Pangapul na lumobi, tondi ni Tuhan i,
+Rohangkon bongoti! diparbaga Tuhan nami,
+Ingkon Ho do na ro, mangajari hami.
+-
+Ndang adong huboto hami na denggan, na torang
+Sian dirinami, ingkon Ho do manondangi
+Roha ni jolma i jala manorangi.
+-
+Ho disomba ruhanami; Sai asi rohaMi,
+Paimbaru hami! Lam tangkas ma patandahon
+Jorbut ni dosa i situndalhononhon
+-
+Sai patorang ma tu hami porsuk ni Jesus i,
+Haluaonnami: Naung pintor do rohanami
+Binaen ni mudar ni Jesus, Tuhannami.
+-
+Sai paburju rohanami, roha ni sobuk i
+Talu baenonnami asa unang sirang hami
+Ala ni dosa i sian Tuhannami.
+-
+Molo ajalnami jumpang togu ne sasude
+Tu banua ginjang! Sai tumpahi hami monang,
+Sahat di surgo i saluhutna sonang,

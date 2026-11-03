@@ -1,0 +1,61 @@
+@be 321
+@bl 174
+@title Marujung do sadari on
+@key G
+@meter 4/4
+@credit Anton Englert, 1723
+@pages 298 299
+@status Lirik dicek · 25/32 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 3 (parasiroha), 5 (ma), 10 (do), 13 (endengkon), 14 (o), 18 (tondingki), 20 (marlasniroha); dicek ulang ke scan hlm 298–299, tulisan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 321) | https://bukuende.wordpress.com/2013/06/16/marujung-do-sadari-on-buku-ende-no-321-buku-logu-no-174/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama "1 7 6." dan "3 3 6 6": angka 6 tanpa titik bawah, tetapi not balok buku di garis bawah (E4) → ditulis 6, (oktaf bawah).
+#A
+1 | 5, 1 7, 1 | 2 3 2 . | 0 2 3 2 |
+1 7, 6, . | 5, . . :|
+> Ma-ru-jung do sa-da-ri on di-baen pa-non-dang bo-lon
+> Na mar-a-di-an ta-no on i pe sai ta-en-de-hon
+#B
+3 | 1 1 4 3 | 2 . . v 3 |
+1 1 4 3 | 2 . . v 2 | 3 3 6, 6, |
+2 2 7, . | 0 5, 1 2 | 3 4 3 2 | 1 . . |]
+> Ma De-ba-tan-ta i, pa-ra-si-ro-ha i, ta-sung-gul ma ro-han-ta be, ma-mu-ji Je-sus ma su-de.
+#V
+Marujung do sadari on dibaen panondang bolon
+Na maradian tano on i pe sai taendehon
+Ma Debatanta i, parasiroha i,
+Tasunggul ma rohanta be, mamuji Jesus ma sude.
+-
+Sai marsinondang bintang i, nang bulan ma di ginjang,
+Na patiurhon langit i, alai andul tumorang
+Do marsinondang di bagasan rohangki
+Jesusku, hasangaponki artangku, pangondinganki.
+-
+Sai modom do bornginna i, nang jolma nang pinahan,
+Alai dungo do ginjang i na so marhalojaan.
+Ndang olo nok tutu, o Jesus, mataMu;
+I pe sai ingkon dungo do rohangku mandongani Ho.
+-
+Unang ma lea rohaMi di endengkon, o Tuhan.
+Ndang olo sonang rohangki so jolo o huboan.
+Ai i do na adong di au na pogos on.
+Ipe sai jalo nama i, o Jesus, alealengki!
+-
+Sai Ho ma mandongani au, saleleng nok matangku;
+Pangondinganku, tatap au, ramoti ma tondingki,
+Ndang na mabiar au, nang pola mate au;
+Ai na lao modom dohot Ho marlasniroha hehe do.
+-
+Pasurut ma sude hamu, pardibanuatoru.
+Ndang be au guru di hamu, ai Jesus do rajangku:
+Surusuruan i manjaga jabungki; tung hahuaonmuna au,
+Nasida do manjaga au.
+-
+Antong, sai sonang modom au o Jesus, di tanganMu;
+Peak di asiMi do au, basaM haporusanku.
+Ho pangondinganki, huingot hataMi, dipasingothon tondiMi
+Ma i tongtong tu rohangki.
+-
+Antong, ale pamatangki, sai sonang ma ho modom;
+Pitpit hubahen matangki, i do hinalomohon ni Tuhan Debata.
+Antong huingot ma Ho, Jesus Siparmahan au;
+Saborngin on ramoti au.

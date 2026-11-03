@@ -1,0 +1,31 @@
+@be 315
+@bl 35
+@title Na salpu do arian i, soluk ma ro na holom i
+@key Ab
+@meter 3/4
+@credit Johann Heerman 1647
+@pages 292 293
+@status Lirik belum ada pembanding
+@check Pembanding lirik: BE 315 tidak ditemukan di indeks huruf N bukuende.wordpress.com maupun lewat pencarian web.
+@check Buku hanya mencetak teks dengan keterangan "Logu No. 35 : Songon Ende No. 314"; notasi diambil dari BE 314 (hlm 292) dan ayat 1 dipasangkan pada melodinya. Judul diambil dari baris pertama.
+@check Kredit BE 315 tercetak "Johann Heerman 1647" (hlm 293), berbeda tahun dengan BE 314 ("1630") walau Logu sama — ditulis apa adanya.
+#A
+1 1 2 | 3 . 5 | (1 .+2) 3 | 2 . . v | 2 3 4 |
+5 . 3 | 2 . 2 | 1 . . v | 7, 7, 1 | (2 .+1) 7, |
+6, . 6, | 5, . . v | 1 2 3 | 4 . 3 | 2 . 2 | 1 . . |]
+> Na sal-pu do a-ri-an i, so-luk ma ro na ho-lom i. O Je-sus, nang sa-born-gin on son-da-ngi ha-mi on tong-tong.
+#V
+Na salpu do arian i, soluk ma ro na holom i.
+O Jesus, nang saborngin on sondangi hami on tongtong.
+-
+Na jorbut, mara, rugi pe, diambat Ho do i sude:
+Ipe pinuji goarMi dibahen denggan basaMi.
+-
+Pambaenannami sasude, na maralohon Ho hape,
+Sai sesa ma luhutna i, ai marsak hami ala ni.
+-
+Urasi, baen ias muse ma tondi dohot daging pe;
+Ai naeng sonang saborngin on do rohanami sai tongtong
+-
+Sai dokkon ma suruanMi, mangambat jea sasude.
+Nang saluhut di tano on, na tau mangago hami on.

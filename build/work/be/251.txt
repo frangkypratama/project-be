@@ -1,0 +1,76 @@
+@be 251
+@bl 138
+@title Na monang i do
+@key Eb
+@meter 3/4
+@credit Lagu: Melchioe Vulplus 1609
+@pages 230 231
+@status Lirik dicek · 34/40 baris sama dgn pembanding
+@check Pembanding lirik: beda: "hamagoan", "paposrohana" (ayat 1, dari lirik di bawah not: "ha-ma-go-an", "pa-pos ro-ha-na"), "elona", "masungki" (2×), "basag"; dicek ulang ke scan: tercetak demikian di buku (pemisahan "paposrohana" perlu cek manusia).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 251) | https://bukuende.wordpress.com/2013/06/16/na-monang-i-do-buku-ende-no-251-buku-logu-no-138/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Kredit dicetak "Melchioe Vulplus" (ejaan lazim: Melchior Vulpius).
+@check Bagian akhir memakai volta (akhir 1 "3 . ." lalu ulang baris terakhir, akhir 2 "1 . ."); di sini ditulis dua kali berurutan (bagian C dan D). Ayat 2–8 menandai baris ulangan dengan ":,:".
+@check Birama "i̇ 6̄ 7̄ 5̄" di not angka tanpa titik; not balok: Es5 1/4 bertitik + 3 not 1/8 → ditulis 1' .+6 7+5.
+@check Ayat 1 disusun dari lirik di bawah not (buku tidak mencetak ayat 1 terpisah).
+#A
+1 3 2 | (1 5) 4 | 3 .+2 3+4 | 3 2 0 |
+2 5 7 | 1' .+6 7+5 | (2 7) 6 | 5 . 0 :|
+> Na mo-nang i do na mu-se ma-ngan-hon par-bu-e ni hau han-go-lu-an i,
+> Ndang ja-di i-da-on-na ha-ma-go-an nang ha-ma-te-an pa-du-a-hon i;
+#B
+2 2 3 | (4+5 4+3) 2 v | 3 3 4 | (5+6 5+4) 3 v |
+> Ai De-ba-ta-na pa-pos ro-ha-na,
+#C
+5 1' 5 | (5 .+4) 3 v | 4 3 2 | 3 . . v |
+> mam-baen lang-ka-na tong-tong ti-ur.
+#D
+5 1' 5 | (5 .+4) 3 v | 4 3 2 | 1 . . |]
+> mam-baen lang-ka-na tong-tong ti-ur.
+#V
+Na monang i do na muse manganhon
+Parbue ni hau hangoluan i,
+Ndang jadi idaonna hamagoan
+Nang hamatean paduahon i; Ai Debatana paposrohana,
+:,: Mambaen langkana tongtong tiur.
+-
+Na monang i ndang tupa hahuaon
+Ni hamatean paduahon i;
+Sai jongjong do Ibana maradophon.
+Bohingku di banuaginjang i, sai idaonna disi Tuhanna
+:,: Ro di donganna na monang i.
+-
+Na monang i do lehononku mangan
+Di surgo manna na buni dope;
+Pangalahona do tongtong ingoton,
+Margoar na imbaru do muse, na sinurathon tu batu intan.
+:,: Tongtong martua panjalo i.
+-
+Na monang i marnida pambaenanKu,
+I do na marmahani bangso i;
+PasahatonKu deba sahalangKu
+Tu tangan ni sude na monang i, sai rosahanna muse elona,
+:,: Patunduhonna do masungki.
+-
+Na monang i do na manjalo ulos
+Na saksak di banuaginjang i;
+Goarna i do na so jadi mosos
+Sian pustaha hangoluan i, taringotanku di Debatangku
+:,: Sude donganku na monang i.
+-
+Na monang i do ingkon gabe tiang
+Di bagasjoro ni Debatangki;
+Di basag i tongtong ibana mian,
+Jumujung goar ni Jahowa i, uhirhononku tusi goarhu,
+:,: Sijujungonku di surgo i.
+-
+Na monang i do hundul raphon Ahu,
+Di habangsangKu na di surgo i.
+Tudoshon Au di lambung ni Amangku,
+Partohap do di hasonangan i na maradian di hasonangan
+:,: Sude na monang, na burju i.
+-
+Urupi au, o Jesus, asa monang
+Au maralohon angka masungki;
+Portibi on, sibolis, nang pamatang
+Do na manaiti au tu dosa i, pasangaponku tongtong goarMu
+:,: Di ingananku di surgo i.

@@ -1,0 +1,39 @@
+@be 474
+@bl 321
+@title Ingkon Jesus do donganku.
+@key Eb
+@meter 3/4
+@credit Z. No 185 · Lagu: John R. Sweney 1899
+@pages 452
+@check "4*" = 4 kres (A♮), sesuai paranada.
+@check Birama "1 . 1̄ 3̄ 2̄" (o-lo-an-ku, ...): angka "1" pertama tampak bertitik atas, tetapi paranada = Es4 (bukan Es5) → ditulis 1.
+@check Not "3" dan "2" sebelum not akhir bertanda fermata; tanda fermata tidak bisa ditulis di format ini.
+@status Lirik dicek · 9/10 baris sama dgn pembanding
+@check Pembanding lirik: beda di ayat 1 baris 2 ("naro"); dicek ulang di scan hlm 452: buku mencetak "na ro" → sudah diperbaiki. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 474) | https://bukuende.wordpress.com/2013/06/16/ingkon-jesus-do-donganku-buku-ende-no-474-buku-logu-no-321/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3+.+.+4 | 5 .+3 1'+.+.+6 | 5 3 6+.+.+5 | 2 .+3 5+.+.+4 |
+3 . 3+.+.+4 | 5 .+3 1'+.+.+6 | 5 3 1'+.+.+1' | 7 .+6 5+#4 |
+5 . |
+> Ing-kon Je-sus do do-ngan-ku, sa-ha-lang-ku li-lu do. Rap-hon Je-sus boi au mo-nang, ta-lu mu-su i na ro.
+#B
+5+.+.+6 | (5 5)+.+.+4 3+.+.+2 | 3 . 1'+.+.+7 | (6 6)+.+.+1' 7+.+.+6 |
+5 . 5+.+.+5 | 1' .+3 4+5 | 7 6 4+.+.+2 | 1 .+1 3+2 | 1 . |]
+> Ndang ma-bi-ar au di-si, Tu-han Je-sus do-ngan-ki, Sai i-hot-ho-non-ku Je-sus, o-lo-an-ku na-ma i.
+#V
+Ingkon Jesus do donganku, sahalangku lilu do.
+Raphon Jesus boi au monang, talu musu i na ro.
+Ndang mabiar au disi, Tuhan Jesus donganki,
+Sai ihothononku Jesus, oloanku nama i.
+-
+Ingkon Jesus do donganku, molo marsitaonon au.
+Tu Ibana hutinggangkon, nasa na pasorat au.
+Ndang mabiar...
+-
+Ingkon Jesus do donganku, molo na tarunjun au.
+Tuhan Jesus do parmonang, dipamonang dohot au.
+Ndang mabiar...
+-
+Ingkon Jesus do donganku, molo ingkon mate au.
+Holan mudar ni Tuhanku golomonku di na lao.
+Ndang mabiar...

@@ -1,0 +1,27 @@
+@be 779
+@bl 0
+@title Amporik na metmet
+@key D
+@meter 4/4
+@credit Syair dan lagu: Debora Samudera, 1972; Terj.: Pdt. M.H. Sihite/Pdt. M. Hutapea
+@pages 850 851
+@status Lirik dicek · 4/6 baris sama dgn pembanding
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanda mula 2 kres, 5 = A4 di paranada → do = D.
+@check Baris 1 ayat 1 "Amporik na metmet disarihon Tuhan" hanya 12 suku kata untuk 13 not; di buku not "2 ." (birama 2) tidak diberi suku kata → ditulis _ (suku kata "met" ditahan). Ayat 2 & 3 pas 13 suku kata.
+@check Birama "5 3·4 2": titik di antara 3 dan 4 hanya pemisah; balok = empat not 1/4 (A F# G E).
+@check Pembanding lirik: baris 1 menulis "met met" sebagai dua kata (beda pemisahan saja); baris 4 beda ejaan kata 3 & 5. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 779) | https://bukuende.wordpress.com/2013/06/09/amporik-na-metmet-buku-ende-no-779-buku-logu-no-779/ | Pembanding lirik (tanda baca diabaikan).
+#A
+5 5 3 5 | 4 3 2 . | 4 4 2 6 | (5 4) 3 . |
+5 5 3 1' | 2' . 6 . | 5 3 4 2 | 2 . 1 . |]
+> Am-po-rik na met-met _ di-sa-ri-hon Tu-han, lam ma au san-di-ri so sa-ri-hon-on Na?
+#V
+Amporik na metmet disarihon Tuhan,
+lam ma au sandiri so sarihononNa?
+-
+Angka bunga na uli diparmudu Tuhan,
+lam ma au sandiri soparmuduonNa?
+-
+Saluhutna pidong i dohot bunga-bunga,
+dipasari-sari Debata Amanta.

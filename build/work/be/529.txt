@@ -1,0 +1,38 @@
+@be 529
+@bl 363
+@title Angka naung monding
+@key G
+@meter 9/8
+@credit Ret. I. No. 27 · Lagu: J.W. Van Devenier
+@pages 500 501
+@check Bait 1 birama "1 . . 1 . . 3̄ 3̄* 3̄" dicetak "3*" di tengah; not balok menunjukkan A♯ (= 2*) seperti birama lain → ditulis #2.
+@check "dipaima nang dohot": birama punya 5 not untuk 4 suku kata (tanpa legato); menurut letak lirik, "hot" ditahan ke not terakhir (_).
+@check Refrein birama "4 . . 4 . . 4̄ 3̄ 4̄" (ho, Tu ha-tu): 5 not untuk 4 suku kata; disamakan dengan birama sejajar yang memakai legato "(4 . . 4)" → ditulis terikat.
+@check Baris terakhir "5̣ . . 1 . . 3̄ . 1̄ 2̄" ada lengkung di atas "1 . . 3"; not balok (D. G. B♪ G♪ A♪) dan letak lirik (han-mu, go-lom ma) menunjukkan 5 not terpisah → lengkung diabaikan.
+@check Tercetak "Angka nuang sahat" (kemungkinan "naung") dan "Asa tu hinjang" (kemungkinan "ginjang") — ditulis apa adanya.
+@status Lirik dicek · 4/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 4 dari 8 baris sama; baris 1–4 beda ejaan (termasuk "hinjang", "nuang" yang tampak salah cetak di buku). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 529) | https://bukuende.wordpress.com/2013/06/09/angka-naung-monding-buku-ende-no-529-buku-logu-no-363/ | Pembanding lirik (tanda baca diabaikan).
+#A
+3 #2 3 | 1 . . 1 . . 3 2 3 | (4 . . 4) . 0 4 3 4 |
+2 . . 2 . . 5 #4 5 | 3 . . 3 . . 3 #2 3 | 1 . . 1 . . 3 #2 3 |
+(4 . . 4) . . 1 7, 6, | 5, . . 1 . . 3 1 2 | (1 . . 1 . .) |
+> Ang-ka naung mon-ding di ta-no on, ang-ka naung sa-hat tu gin-jang an. Sai di-pa-i-ma nang do-hot _ ho, A-sa tu hin-jang do-hot ho ro.
+#B
+5 #4 5 | 3 . . 3 . . 5 #4 5 | (4 . . 4) . . 4 3 4 |
+2 . . 2 . . 5, 2 4 | (3 . . 3 . .) 3 #2 3 | 1 . . 1 . . 3 #2 3 |
+(4 . . 4) . . 1 7, 6, | 5, . . 1 . . 3 1 2 | (1 . . 1 . .) |]
+> Ang-ka nuang sa-hat ma-na-gam ho, Tu ha-tu-a-on do-hot ho ro. Ang-ka di gin-jang lu-lui ma i, be-reng Tu-han-mu, go-lom ma i.
+#V
+Angka naung monding di tano on, angka naung sahat tu ginjang an.
+Sai dipaima nang dohot ho, Asa tu hinjang dohot ho ro.
+Angka nuang sahat managam ho, Tu hatuaon dohot ho ro.
+Angka di ginjang lului ma i, bereng Tuhanmu, golom ma i.
+-
+Jumolo lao do anakkonmi, asa tu ginjang lao rohami,
+Unang tarlalap di arsakmi. Oloi Tuhanmu na manjou i.
+Angka ...
+-
+Nang hahaanggi naung sahat i, managam ho do, na lilu i.
+Nang ripemu nang ibotomi, sude managam haroromi.
+Angka ....

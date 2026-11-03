@@ -1,0 +1,40 @@
+@be 43
+@bl 154
+@title Padiri rohamuna
+@key F
+@meter 4/4
+@credit Valentin Thilo, 1557
+@pages 36 37
+@status Lirik dicek · 10/16 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 2,9,10,12,13,14; dicek ulang di scan hlm 37: buku memang mencetak "ou on", "Majangkon", "batuaonkon" (salah cetak buku, ditulis apa adanya). Buku tetap acuan.
+@check Angka bertanda bintang dibaca dari not balok buku: "7̣*" = Es (b7), "1*" = Fis (#1).
+@check Garis birama ganda di akhir baris 2 dan 3 (tanpa tanda ulang) dibaca sebagai batas bagian.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 43) | https://bukuende.wordpress.com/2013/06/16/padiri-rohamuna-buku-ende-no-43-buku-logu-no-154/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+2 | 2 3 4 2 | 3 . 1 v 1 | 2 2 3 3 |
+6, . . v 2 | 2 3 4 2 | 3 . 1 v 1 | 2 2 3 3 | 6, . . |
+> Pa-di-ri ro-ha-mu-na, ha-mu par-ro-ha i! Naung ro do tu-a-mu-na pa-sae-hon do-sa i.
+#B
+6 | 5 4 4 3 | 4 . . 3 | 4 5 6 4 | 5 . 3 v 3 |
+4 3 2 2 | 3 . 1 v b7, | 6, 2 2 #1 | 2 . . |]
+> Ro si-an gin-jang do, Ma-ning-kir si-da-ngo-lon Ni na-sa ha-jol-ma-on, Naeng bu-at-on-na do.
+#V
+Padiri rohamuna, hamu parroha i!
+Naung ro do tuamuna pasaehon dosa i.
+Ro sian ginjang do, Maningkir sidangolon
+Ni nasa hajolmaon, Naeng buatonna do.
+-
+Pauli di Ibana ma rohamuna be, alai na so lomoNa
+Padao ma sasude dalanNa naeng ture
+Lao bongot tu rohanta; Ipe na tau sabatNa
+Pabali ma sude.
+-
+Parroha haserepon naeng topotoNa do;
+Parroha hajungkaton, sai aloanNa do.
+Parroha na ture, na unduk di hataNa,
+Na olo tuguonNa, ditopot Jesus i.
+-
+Asi rohaM Tuhanku parade ma ou on.
+Majangkon tu rohangku Ho, batuaonkon!
+Bongoti rohangkon, disi ma Ho maringan;
+Sai Ho ma, ale Tuhan nampuna au tongtong!

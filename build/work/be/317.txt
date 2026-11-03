@@ -1,0 +1,47 @@
+@be 317
+@bl 65
+@title Hamu Saluhut halak
+@key G
+@meter 4/4
+@credit Heinrich Isaak 1517
+@pages 294 295
+@status Lirik dicek · 19/21 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di baris 8, 18. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 317) | https://bukuende.wordpress.com/2013/06/16/lao-modom-do-luhutna-buku-ende-no-317-buku-logu-no-65/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Judul Logu "Hamu Saluhut halak"; baris pertama lirik "Lao modom do luhutna".
+@check "nuaeng" dinyanyikan 2 suku kata (nu-aeng); "I- / ang-go" dipenggal I-ang-go sesuai letak lirik.
+@check Ayat 1 disusun 3 baris dari lirik di bawah not (ayat 2–7 tercetak 3 baris).
+#A
+3 | 1 2 3 5 | 4 . 3 v 3 |
+5 5 2 3 | 1 . 7, v 5, | 1 2 3 3 | 2 . . v 3 |
+1 2 3 5 | 4 . 3 v 3 | 5 5 2 3 |
+1 . 7, v 5, | 1 2 (3+4) (5+4) | 3 2 1 |]
+> Lao mo-dom do lu-hut-na nu-aeng su-de na lo-ja, san-dok por-ti-bi on, I-ang-go ho, ton-ding-ku, pa-sa-ngap ma Tu-han-mu, na su-ma-ri-hon ho tong-tong
+#V
+Lao modom do luhutna nuaeng sude na loja,
+Sandok portibi on, Ianggo ho, tondingku,
+Pasangap ma Tuhanmu, na sumarihon ho tongtong.
+-
+Ale mata ni ari, tu dia ho saonnari,
+Dilele borngin ho? Holom pe saluhutna
+Nuaeng, diida mata, di Debatangku tiur do.
+-
+Nang so torang be ari, adong do sada nari,
+Na manondangi au, pamondang i Jesusku,
+Na mian di rohangku, ndang be tadingkononNa au.
+-
+Naung salpu do arian, tiur do angka bintang
+Di hajangkajang i, suman tusi ma ahu
+Di lambung ni Tuhanku, dung hutadingkon tano i.
+-
+Lao modom au saonari, abithu huosari;
+Huingot ma disi ngolungku na lao salpu,
+Nang ulos jaloonku naung diparade Jesuski.
+-
+Paherbang ma tanganMu jesus, las ni rohangku,
+Ondingi anakMon, ro begu naeng mamolgak,
+SuruanMi manonggak; ndang jadi jamaonmu on.
+-
+Dohot hamu donganku, sude haholonganku,
+Dao sian mara i, dipaderem Debata
+Hamu dohot sinjata, ditiop suruanNa i.

@@ -1,0 +1,33 @@
+@be 795
+@bl 0
+@title Ro ma Ho Tuhan (2)
+@key F
+@meter 4/4
+@credit Syair & Lagu: Kumbaya my Lord, NN · Terj.: Pdt. J. A. U. Doloksaribu
+@pages 872 873
+@status Lirik dicek · 0/5 baris sama dgn pembanding
+@check Pembanding lirik: semua baris beda karena susunan ulangan ("} 3 x", "Tuhan") dan kata ke-3 baris 1; scan hlm 872–873 jelas — ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 795) | https://bukuende.wordpress.com/2013/06/16/ro-ma-ho-tuhan-2-buku-ende-no-795-logu-no-795/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0.
+@check "5 . 5" bergaris atas ganda pada ".5" = 1/8 bertitik + 1/16 (balok: C5. C5) → ditulis 5+.+.+5.
+#A
+1+3 | 5+.+.+5 5 . 6+6 | 5 . . 1+3 |
+5+.+.+5 5 . 4+3 | 2 . . 1+3 | 5+.+.+5 5 . 6+6 |
+5 . . 4 | (3 1) . 2+.+.+2 | 1 . . |]
+> Ro ma Ho Tu-han, ro ma Ho, ro ma Ho Tu-han, ro ma Ho, ro ma Ho Tu-han, ro ma Ho Tu-han, ro ma Ho.
+#V
+Ro ma Ho Tuhan, ro ma Ho, ro ma
+Ho Tuhan, ro ma Ho, ro ma Ho Tuhan, ro ma
+Ho Tuhan, ro ma Ho.
+-
+Jangkon au Tuhan, Jangkon au } 3 x
+Tuhan jangkon au.
+-
+Bege au Tuhan, bege au } 3 x
+Tuhan bege au.
+-
+Apul au Tuhan, Apul au } 3 x
+Tuhan apul au.
+-
+Togu au Tuhan, Togu au } 3 x
+Tuhan togu au.

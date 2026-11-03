@@ -1,0 +1,36 @@
+@be 276
+@bl 235
+@title Tumpalhu na umuli Ho.
+@key F
+@meter 6/4
+@credit (tidak dicantumkan di buku)
+@pages 255 256
+@check Judul kepala lagu (judul Logu) "Tumpalhu na umuli Ho."; baris pertama lirik "O Jesus, Siparmonang i".
+@check Tanda birama di scan kurang jelas (tampak 3/2); setiap birama berisi 6 ketuk 1/4, ditulis 6/4.
+@check "4*" = 4 kres (paranada: tanda pugar pada B).
+@check Birama terakhir: legato panjang di paranada dari "3" sampai "2 ." untuk suku kata "na"; ditulis "(3 2+1 2 .) 1 .".
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: L2 kata 8 dan L8 kata 8 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 276) | https://bukuende.wordpress.com/2013/06/16/o-jesus-siparmonang-i-buku-ende-no-276-buku-logu-no-235/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0 0 1 . 1 5 | (5 4+3 2) 1 6, 7, | 1 . 0 1 2 3 |
+4 (2 3) 5 . #4 | 5 . 0 3 3 3 | 4 3 1 . 2 . |
+0 5, 1 2 3 . | 0 3 2 1 4 . |
+0 4 3 2 1 2 | (3 2+1 2 .) 1 . |]
+> O Je-sus, Si-par-mo-nang i, na ma-na-lu-hon sa-su-de; na tau ma-nga-go ha-mi. Naeng Ho tong-tong di ta-no on par-si-gan-tu-ngan-na-mi
+#V
+O Jesus, Siparmonang i, na manaluhon sasude;
+na tau mangago hami. Naeng Ho tongtong di tano on
+parsigantungannami
+-
+Dongani hami sasude asa tung monang hami be
+Di paraloannami, ai na gale do sasude;
+Sai pargogoi ma hami.
+-
+Pamonang hami on sude, nang angka dongannami pe;
+Tambai ma na porsea, asi rohaM di hutiaM,
+Padao ma nasa jea.
+-
+Antong, sai tatap ma bangsoM saleleng di portibi on,
+Sai lehon hatongtongan, taruli be ma sasude
+Di tumpal hangoluan.

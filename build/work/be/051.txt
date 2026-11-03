@@ -1,0 +1,36 @@
+@be 51
+@bl 31
+@title Tole, puji ma Tuhanta
+@key F
+@meter 3/4
+@credit Valentin Triller, 1552
+@pages 44
+@status Lirik dicek · 10/14 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 1,2,6,9; dicek ulang di scan hlm 44: buku mencetak "girgirr", "gangoluanta", "panondangi haholomin". Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 51) | https://bukuende.wordpress.com/2013/06/18/tole-puji-ma-tuhanta-buku-ende-no-51-buku-logu-no-31/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 . 3 | 5 . 3 | (4 5) 6 | 5 2 . v |
+(3 4) 5 | (4 3) 2 | 1 . 6, | 7, 5, . v | 3 . 4 | 5 . 6 |
+5 . 2 | 3 1 . v | 4 . 4 | (3 2) 1 | (1 6,) 7, | 1 . . |]
+> To-le pu-ji ma Tu-han-ta Tu I-ba-na ma-ro-han-ta, a-sa gir-girr pa-ren-den-ta, a-le do-ngan Kris-ten i
+#V
+Tole puji ma Tuhanta Tu Ibana marohanta,
+Asa girgirr parendenta, ale dongan Kristen i
+-
+Dosa dohot hamatean, bolis dohot hamagoan
+Talu ala naung diboan Jesus hangoluan i.
+-
+Sai tandai ma denggan basa ni Jahowa Debatanta
+Dibasahon do AnakNa baen gangoluanta i.
+-
+I ma ro holong rohaNa, jolma do dibaen donganNa
+Dohot tu harajaonNa hita diarahon do.
+-
+Nunga binsar panondangi haholomin disondang
+Na masihol i didaoni, dipangolu do sude.
+-
+Ale Jesus haholongan, boan ma tu hasonangan
+Hami na di parjalangan na mangkalungunhon Ho.
+-
+Asa di joloM ma hami mangendehon endenami
+Raphon angka dongannami angka pardisurgo i.

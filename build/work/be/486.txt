@@ -1,0 +1,33 @@
+@be 486
+@bl 326
+@title Jesus ro ma Ho
+@key F
+@meter 4/4
+@credit Hernhut 1740
+@pages 462
+@check Kepala lagu juga mencetak "Ende Angk. No. 221".
+@check Melodi sama dengan BE 482 (juga Logu No. 326); di sana kredit tercetak "Hernemt 1740".
+@check Birama 2 tercetak "1 2 3 2" dan birama 6 "3 4* 5" tanpa titik; paranada menunjukkan not terakhir 1/2, ditulis "2 ." dan "5 .".
+@check "4*" = 4 kres (paranada: B natural), ditulis #4.
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 5 dan 8 ('disi'); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 486) | https://bukuende.wordpress.com/2013/06/16/jesus-ro-ma-ho-buku-ende-no-486-buku-logu-no-326/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 (5+4) 3 2 | (1+2) 3 2 . | 5 (5+4) 3 2 | (1+2) 3 2 . |
+5 5 6 (5+4) | 3 #4 5 . | 6 7 1' 4 | 3 2 1 . |]
+> Je-sus, ro ma Ho tu au. U-nang be Ho ting-gal dao, Ma-suk ma tu ro-hang-ki, tong-tong ma i-nga-ni i.
+#V
+Jesus, ro ma Ho tu au. Unang be Ho tinggal dao,
+Masuk ma tu rohangki, tongtong ma ingani i.
+-
+Sai malungun au di Ho dohot di asiMu do,
+Sai tongtong mangido au, Jesus, ro ma Ho tu au.
+-
+Ndang adong di tano on na pasonang rohangkon.
+Dung marTuhan Jesus au. Sonang situtu ma au.
+-
+Ndang be ra marpadan au dohot halak na dung dao
+Sian Tuhan Jesus i, unang mago au disi.
+-
+Las ni roha, dame pe, hatuaon sasude,
+Dohot hangoluan i, i ma Tuhan Jesus i.

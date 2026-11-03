@@ -1,0 +1,38 @@
+@be 624
+@bl 0
+@title Haleluya, Haleluya
+@key F
+@meter 3/4
+@credit Syair: Alleluya: NN · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: NN
+@pages 628 629
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: 1 Kor. 15:20; Kol. 2:12. Bagian kelompok "HAHEHEON NI TUHAN JESUS".
+@check Susunan buku: Refrein (bertanda segno) … Fine, lalu ayat, "D.C. al Fine" kembali ke refrein. Di sini bagian A = refrein, B = ayat.
+@status Lirik dicek · 5/7 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris refrein 1 (Haleluya) & ayat 1 (sigomgom, portibion) beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 624) | https://bukuende.wordpress.com/2013/06/13/haleluya-haleluya-buku-ende-no-624-buku-logu-no-624/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5,+5, | 1 1 2+3 | 1 1 2+3 | 4 4 3 |
+2+1 7, 5,+5, | 1 1 2+3 | 1 1 2+3 | 4 5 (3+2) |
+1 . . |]
+> Ha-le-lu-ya, Ha-le-lu-ya nu-nga he-he Tu-han-ta i ha-le-lu-ya; ha-le-lu-ya, pu-ji go-ar-Na i.
+#B
+5 5 3 | 6 . 5 | 4 . (3+4) | 2 . . |
+3 2 1 | 1 2 3 | 4 . (3+4) | 2 . |]
+> Je-sus si-gom-gom ta-no-on. Tu-han ni san-dok por-ti-bi-on.
+#V
+Ref.: Haleluya, Haleluya nunga hehe Tuhanta i
+haleluya; haleluya, puji goarNa i.
+Jesus sigomgom tanoon. Tuhan ni sandok portibion.
+Ref.: Haleluya . . .
+-
+Boan barita na uli tu saluhut na tinompa i.
+Ref.: Haleluya . . .
+-
+Mate au raphon Kristus i, hehe muse raphon Tuhan i.
+Ref.: Haleluya . . .
+-
+Ngolu na sora suda i, upa ni angka na monangi.
+Ref.: Haleluya . . .
+-
+Pasangap Debatanta i, endehon ma Sipalua i:
+Ref.: Haleluya . . .

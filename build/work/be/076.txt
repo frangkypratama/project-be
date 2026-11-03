@@ -1,0 +1,41 @@
+@be 76
+@bl 199
+@title Sada nama sangkap
+@key F
+@meter 4/4
+@credit Albert Knapp, 1748
+@pages 67
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Buku menulis "Albert Kanpp 1748"; kemungkinan salah cetak untuk Albert Knapp (tahun di buku tetap dipakai).
+@check Pembanding lirik: bukuende.wordpress.com — 15 dari 16 baris sama persis; 1 baris beda (ayat 4 "Olo, i ma"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 76) | https://bukuende.wordpress.com/2013/06/18/sada-nama-sangkap-buku-ende-no-76-buku-logu-no-199/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 1 6, 2 | 1 7, 1 5 | 3 . 1 . v |
+1 1 6, 4 | 3 2 1 . :|
+> Sa-da na-ma sang-kap ni ro-hang-ku Di san-dok por-ti-bi on.
+> Ndang ta-ga-mon na so las ro-hang-ku. Mo-lo jum-pang au i-non:
+#B
+7, 1 2 5 | 5 4 4 3 | 3 . 2 . v |
+7, 1 2 5 | 5 4 4 3 | 3 . 2 . v |
+1 1 6, 4 | 3 2 1 . v | 1 1 6, 4 | 3 . 2 . | 1 . . . |]
+> Naeng ma sai i-ngo-ton ni ro-hang-ku na bi-naen ni Je-sus tu ton-ding-ku, U-ju pi-nor-san-na i, Sa-lu-hut-na do-sang-ki.
+#V
+Sada nama sangkap ni rohangku Di sandok portibi on.
+Ndang tagamon na so las rohangku. Molo jumpang au inon:
+Naeng ma sai ingoton ni rohangku na binaen ni Jesus tu tondingku,
+Uju pinorsanna i, Saluhutna dosangki.
+-
+Ingkon sai Ibana ingotonku, uju na tarpajal i,
+Tu hau pinarsilang ginantungkon, sai mabaor mudarNa i.
+Ai humophop au ditaon uasNa asa dohot au muse upaNa;
+Ai ditatap do au on di pandokNa: "Nunga sun!"
+-
+O Jesusku, sai paingot ahu di dosangku, di basaM;
+Ai andorang di na holom ahu dipalambas Ho rohaM.
+Nunga leleng dilului Ho do au na lilu, asa unang mago;
+Ditaon Ho na bernit i lao manobus tondingki.
+-
+Gok di Ho ma au, ale Tuhanku, jala Ho ma jambarhi!
+Dok ma amen, rongkom ma goarMu tu bagasan rohangki.
+Lomo ni rohaM ma sungkunonku di sude na naeng ulahononku.
+Olo, i ma padanki tu Ho, Jesus Tuhanki!

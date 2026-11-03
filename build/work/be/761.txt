@@ -1,0 +1,35 @@
+@be 761
+@bl 0
+@title Martua na porsea
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair: Bernhard Kuen, 1919 · Terj.: Biv. MH. Sitorus
+@pages 824 825
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0. Buku tidak mencantumkan baris "Lagu".
+@check Ayat 1 hanya tercetak di bawah not; teks ayat 1 disusun dari suku kata di bawah not.
+@check Pembanding lirik: baris 1, 3, 8 beda ejaan (porsea na / holang / HataNa i); dicek ulang ke scan, buku sesuai transkripsi.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 761) | https://bukuende.wordpress.com/2013/06/16/martua-na-porsea-buku-ende-no-761-buku-logu-no-761/ | teks ayat
+#A
+5 | 3' .+2' 1' 6 | (5 .+4) 3 5 |
+1' .+1' 7 1' | 2' . 0 5 | 4' .+2' (1'+7) (6+5) |
+(5 3') 1' (7+1') | 2' (5+6) 7 6 | 5 . 0 5 |
+5 .+5 6 7 | 1' . 5 1' | 1' .+1' 1' 2' | 3' . . 3' |
+3' .+2' 1' (7+6) | (5 .+1') 3' (3'+4') | 5' .+4' 3' 2' | 1' . 0 |]
+> Mar-tu-a na por-se-a na hot di Tu-han i, bo-long hol-so ni ro-ha da-o nang bi-ar i, ho-lang si-an na ja-hat do-nok do Tu-han i, di ang-ka na por-se-a na ti-no-bus-Na i.
+#V
+Martua na porsea na hot di Tuhan i,
+bolong holso ni roha dao nang biar i,
+holang sian na jahat donok do Tuhan i,
+di angka na porsea na tinobusNa i.
+-
+Maporus do dakdanak tu natorasna i,
+ditingki parmaraan sihabiaran i,
+maporus tu Tuhanta do na porsea i,
+HataNa i sinjata diparaloan i.
+-
+Dung sahat tu labuan angka parsolu i,
+sonang do dihilala dao galumbang i,
+sumonang na porsea di huta Sion i,
+labuan saleleng na do hasonangan i.

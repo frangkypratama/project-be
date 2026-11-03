@@ -1,0 +1,39 @@
+@be 204
+@bl 73
+@title Ndang tadingkononku Ho
+@key F
+@meter 2/4
+@credit Samuel Hofer, 1862
+@pages 185 186
+@status Lirik dicek · 12/15 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 15 baris sama; baris 4 & 5 beda ejaan; baris 13 kata pertama tidak ada di pembanding. Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 204) | https://bukuende.wordpress.com/2013/06/16/ndang-tadingkononku-ho-buku-ende-no-204-buku-logu-no-73/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, 5, | 5, 1 | 7, 1 | (3 2) v | 3 3 |
+4 2 | 1 3 | 2 . | 1 . :|
+> Ndang ta-ding-ko-non-ku Ho, a-le Je-sus Si-pa-ngo-lu.
+> Naeng i-hut-ho-non-ku do Ho sa-le-leng au ma-ngo-lu.
+#B
+3 2 | 1 5 |
+4 3 | 2 . v | 5 4 | 3 (4+2) | 1 7, | 1 . |]
+> Ho do ha-ngo-lu-an-ki, ndang ta-ding-ko-non-ku i.
+#V
+Ndang tadingkononku Ho, ale Jesus Sipangolu.
+Naeng ihuthononku do Ho saleleng au mangolu.
+Ho do hangoluanki, ndang tadingkononku i.
+-
+Nasa na nilehonMi, tondi rodi pamatangku,
+Hosa dohot gogongki, rodi saluhut artangku,
+Hupasahat i tu Ho, na so unsatonku do.
+-
+Nang lam buruk dagingki, nengel pinggol, rambon mata,
+Majal pangkilalanki, dila so malo marhata,
+Tanda ajalhi naeng ro, Jesus tioponku do.
+-
+Laos hutiop Jesuski molo sahat au tu surgo,
+Molo idaonku i, naung huhirim i di tano.
+Las ma rohangki disi mida Jesus, Tuhanki.
+-
+Ndang be mangapian au di na masa di na rodop.
+Sai tu ginjang nama lao, tondingki marolopolop.
+Jesus Ho do jambarhi, salelenglelengna i.

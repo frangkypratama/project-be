@@ -1,0 +1,44 @@
+@be 216
+@bl 89
+@title Gargar dolok
+@key Eb
+@meter 4/4
+@credit Benjamin Schmolck 1737
+@pages 196 197
+@status Lirik dicek · 10/13 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 10 dari 13 baris sama; baris 1 & 6 beda ejaan; bait 2 baris 1 kata "nidok" berbeda (scan jelas: "nidok"); baris "d.u." tidak dihitung. Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 216) | https://bukuende.wordpress.com/2013/06/13/gargar-dolok-buku-ende-no-216-buku-logu-no-89/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu tercetak "Lagu No. 89" (bukan "Logu").
+@check Buku mencantumkan "Lagu: Benjamin Schmolck 1737"; Schmolck lazimnya dikenal sebagai penulis syair.
+@check "6 7" (ro-hang-ku) bergaris atas tanpa busur legato di buku; diperlakukan sebagai melisma pada "hang" agar not = suku kata.
+#A
+1 3 5 5 | 6 7 1' 5 v | 6 6 5 3 | 4 2 1 . :|
+> Gar-gar do-lok ta-por ba-tu, ndang na gar-gar a-si-ni
+> Ro-ha si-an De-ba-tang-ku, sai na hot pa-dan-Na i
+#B
+3 3 2 5 | (6+7) 1' 7 . v | 1' 5 (6+7) 1' | 1' 7 1' . |]
+> A-si ni ro-hang-ku do ndang na mun-sat si-an ho
+#V
+Gargar dolok tapor batu, ndang na gargar asini
+Roha sian Debatangku, sai na hot padanNa i
+Asi ni rohangku do ndang na munsat sian ho
+-
+Na nidok di Debatangku patut huundukkon i,
+Sai mangolu do tondingku molo huihuthon i,
+Asi ni rohangku do d.u.
+-
+Saiuhutna na dung loja mangulahi do gogo,
+Sonang jala las rohana, ia diasangkon do,
+Asi ni rohangku do d.u.
+-
+Marsak ala ni dosamu, bobos mida uhum ho.
+Sai haposi ma Tuhanmu na tongtong mandok tu Ho;
+Asi ni rohangku do d.u.
+-
+Sai patogu ma rohangku, o Tuhan, di hataMi!
+Unang pola au be ganggu, paima bagabagaMi:
+Asi ni rohangku do d.u.
+-
+Ia ro pe hamatean di na suda bohalhi,
+Hangoluan ma hutean sian na mandokkon i:
+Asi ni rohangku do d.u.

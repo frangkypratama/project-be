@@ -1,0 +1,43 @@
+@be 531
+@bl 365
+@title Sai uluhon au, o Tuhan
+@key F
+@meter 3/4
+@credit E.A. No. 188
+@pages 502 503
+@check Birama 2 dicetak "1̄ 5̄ 5̄ 4̄" (angka dan not balok sama-sama empat not ⅛ = 2 ketuk dalam 3/4); disamakan dengan birama sejajar "1̄ 5̄ 5 4" (ni ro-hang-ku) → ditulis 1+5 5 4.
+@check Birama "1̄ . 5̿ 5̄ 4̄ 4̄ 3̄" (a-sa ting-gal): angka tanpa titik oktaf, not balok menunjukkan F5 → ditulis 1'.
+@check Baris 2 lirik: "sao-na-ri" (sao satu suku kata, sesuai letak lirik).
+@status Lirik dicek · 10/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 10 dari 16 baris sama; baris 2, 3, 4, 10, 13 beda ejaan; baris 8 kata tambahan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 531) | https://bukuende.wordpress.com/2013/06/18/sai-uluhon-au-o-tuhan-buku-ende-no-531-buku-logu-no-365/ | Pembanding lirik (tanda baca diabaikan).
+#A
+1+3 3 2 | 1+5 5 4 | 3+5 5+4 4+3 |
+3 2 0 :|
+> Sai u-lu-hon au, o Tu-han, sa-hat ro tu ha-ngo-lu-an
+> Tung si-hol au, aut su-ga-ri boi tu sur-go au sao-na-ri.
+#B
+2+.+.+1 2+3 4 | 3+.+.+2 3+4 5 |
+1'+.+.+5 5+4 4+3 | 3 2 0 | 1+3 3 2 |
+1+5 5 4 | 3+1 2+7, 1 | 3+1 2+7, 1 |]
+> Si-an na a-dong di por-ti-bi-on, a-sa ting-gal di ta-ngan-mu, Di ha-po-san ni ro-hang-ku na mang-go-lom au, na mang-go-lom au.
+#V
+Sai uluhon au, o Tuhan, sahat ro tu hangoluan
+Tung sihol au, aut sugari boi tu surgo au saonari.
+Sian na adong di portibion, asa tinggal di tanganmu,
+Di haposan ni rohangku na manggolom au, na manggolom au.
+-
+BugangMi, ale Tuhanku, holan i haporusanku,
+Naeng tusi do mangalintun Sian tano on tondingku.
+Sonang rohangki, molo au disi. Ndang adong dison hutangku.
+Hudapothon ma Tuhanku, na pasonang au.
+-
+Dung di surgo au mardomu dohot na disi mangolu,
+Na mamintor barengonku Jesus Kristus i, Tuhanku.
+Di adopan ni habangsaNa i, huendehon Haleluya
+Dohot angka na martua salelengna i
+-
+O, Jerusalem na tongan, so mardosa di bagasan.
+Singkat bulan dohot bintang, Debata do marsinondang,
+Jadi tiur be na disi sude, jala na marhasonangan,
+Ndang mansohot hamonangan, beta ma tusi.

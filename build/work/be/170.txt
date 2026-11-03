@@ -1,0 +1,35 @@
+@be 170
+@bl 1
+@title Ia aek santetek
+@key G
+@meter 4/4
+@credit Sue J. C. H. Rinck, 1827
+@pages 154 155
+@status Lirik belum ada pembanding
+@check Pembanding lirik: post BE 170 di bukuende.wordpress.com tidak ditemukan (indeks huruf i tidak dapat dibuka, pencarian tanpa hasil).
+@check Kredit dicetak "Sue J. C. H. Rinck 1827" (lazimnya J. C. H. Rinck); ditulis sesuai buku.
+#A
+3 3 2 2 | 1 . 5, . v | 6, 7, 1 3 | 2 . . . v |
+3 3 4 3 | 2 . 5 . v | 1 4 3 2 | 1 . . 0 |]
+> I a aek san-te-tek, na o-tik do i; Mo-lo sai ma ne-tek, ma nga-lan-tap i.
+#V
+Ia aek santetek, na otik do i;
+Molo sai ma netek, mangalantap i.
+-
+Tano, laut nang hosa, na godang do i;
+Molo pungu dosa, na jorbut do i.
+-
+Ise do mamorsan dosami, ale?
+Ise haluaan ni tondim muse?
+-
+I ma Tuhan Jesus, siparasi i:
+Nunga ho ditobus, sian dosami
+-
+Somba ma Ibana, sipangolu i
+Asa tung disesa dosami sude
+-
+Haholongi Jesus, alo ma dosam
+Asa dipabulus sasude langkam.
+-
+Asa dipabongot ho tu surgo i,
+Sonang ma ho sogot, salelengna i.

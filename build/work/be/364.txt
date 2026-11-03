@@ -1,0 +1,33 @@
+@be 364
+@bl 81
+@title Sai huranapi dolok i
+@key G
+@meter 4/4
+@credit Lagu: Johann Peter Schmachtenberg 1853
+@pages 348 349
+@status Lirik dicek · 12/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 12 baris sama; semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 364) | https://bukuende.wordpress.com/2013/06/18/sai-huranapi-dolok-i-buku-ende-no-364-buku-logu-no-81/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian Ende Psalm, judul bagian "Psalm 121". Not "1*" di buku = kres (#1), sesuai not balok (Gis).
+#A
+5, | 1 2 3 2 | 1 7, 1 . | 0 2 2 2 |
+3 3 2 . | 0 7, 2 6, | 7, #1 2 . | 0 6, 1 7, |
+7, 6, 2 1 | 7, . . v 2 | 4 3 3 2 |
+(5 4) 3 . | 0 5 4 3 | 2 4 (3 2) | 1 . . |]
+> Sai hu-ra-na-pi do-lok i; Aik su-ra si-an-i ro ha-lu-a-on-ki. Ndang i, ai si-an Tu-han i, si-tom-pa par-lu-hu-tan, do ro pa-ngu-ru-pi-on.
+#V
+Sai huranapi dolok i; Aik sura sian i
+Ro haluaonki. Ndang i, ai sian Tuhan i,
+Sitompa parluhutan, do ro pangurupion.
+-
+Ndang tarsulandit patmu, da diloas Tuhanmi,
+Na so dung modom i, tongtong haposi Debata;
+Ndang olo nok mataNa, sai ho do jinagaNa.
+-
+Ibana parlinggomanmi do mangondingi ho,
+Ndang loasonna ro na mangarsahi rohami;
+Las nang ngali pe ari tongtong i ditampari.
+-
+Sai diramoti Debata tondim nang dagingmi,
+Di na marmara i, lao ruar manang masuk da,
+Saleleng ni lelengna tongtong ho jagaonNa.

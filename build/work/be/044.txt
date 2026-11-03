@@ -1,0 +1,52 @@
+@be 44
+@bl 206
+@title Hamuna na porsea i
+@key Eb
+@meter 4/4
+@credit Philipp Nicolai, 1599
+@pages 37 38
+@status Lirik dicek · 22/25 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 7,24,25 (ejaan). Buku tetap acuan.
+@check Judul cetak di buku: "O Tondi Parbadia i, bongoti" (kemungkinan nama lagu/Logu); judul di sini diambil dari baris pertama lirik.
+@check Akhir lagu dicetak "2 . 1 ."; not balok buku menunjukkan not 1/2 + 1/4 (3 ketuk, melengkapi ketukan gantung), jadi dibaca "2 . 1".
+@check Tanda mula di scan terbaca 2–3 mol; dipakai Es karena not 1 = Es di paranada.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 44) | https://bukuende.wordpress.com/2013/06/13/hamuna-na-porsea-i-buku-ende-no-44-buku-logu-no-206/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 5 3 1 5 | 6 6 5 v 5 | 6 7 1' 7 |
+6 6 5 v 3 | 6 5 4 3 | 2 . 1 :|
+> Ha-mu-na na por-se-a i. Sai to-mu Tu-han Je-sus i, pa-he-he ro-ha-mu-na.
+> Jo-nok do a-ri pes-ta ni sa-lu-hut hu-ri-a-Na i, i ma ha-tu-tu-bu-Na
+#B
+0 | 5 . 3 . v | 5 . 3 . | 4 3 2 3 | 4 3 2 3 |
+4 3 2 . | 1 . 1' 7 | 6 5 4 3 | 2 . 1 |]
+> I pe he-he ma ha-mu-na, Baen pan-tun-na lao man-jang-kon Na ma-no-pot ha-jol-ma-on.
+#V
+Hamuna na porsea i. Sai tomu Tuhan Jesus i,
+Pahehe rohamuna. Jonok do ari pesta ni
+Saluhut huriaNa i, i ma hatutubuNa.
+I pe hehe ma hamuna, Baen pantunna lao manjangkon
+Na manopot hajolmaon.
+-
+Marlas ni roha situtu saluhut halak na burju
+Lao mengihuthon Jesus. Ipe pataridahon ma,
+Las ni roham di Debata, sangkapNa ma patulus.
+Puji, puji, Jesus Kristus na manobus tondimuna
+Sian hamagoanmuna.
+-
+Sigati rohamuna be, sai tanda dosamu sude,
+paringkot rohamuna. Manjangkon Sipalua i,
+Na tuat sian surgo i manggarar utangmuna,
+Tanda, hata, hangoluan na binoan ni Tuhanta,
+Na pasae sude dosanta.
+-
+Ai molo so diboan ho dosam tu Jesus i na ro,
+Ndang saut be ho malua. Tongtong ma songgop rimas ni,
+Jahowa Debatanta i tu ho na hum manjua.
+I pe sude, angka dosa hinaroa ni rohamu,
+Pasesahon tu Tuhanmu.
+-
+O Debata, asi rohaM tumatap hami, huriaM
+Sai taiti rohanami. Tu Jesus Kristus, AnakMi,
+Naung ro tu hajolmaon i baen hatuaonnami.
+Tomos, gomos, baen ma hami mardaleni tu na sonang,
+Sahat tu banuaginjang.

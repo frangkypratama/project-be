@@ -1,0 +1,47 @@
+@be 567
+@bl 0
+@title Na mora do Tuhanta i
+@key Bb
+@meter 4/4
+@credit Syair dan Lagu: Wir haben einem reichen herrn, Hermann Grafe; Terj.: Biv. Tiarasi Tobing
+@pages 536 537
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan tercetak "Rom 13:33-36" (kemungkinan Rom 11:33-36) — ditulis apa adanya di sini.
+@check Kredit tercetak "Wir haben einem reichen herrn" — ditulis apa adanya.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Birama 4 baris 4 "3 . 4 6" bertitik di bawah 3, tetapi balok = D5 (tanpa oktaf bawah) → ditulis 3.
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 (pasahatonNa) dan 5 (habangsaMi) beda ejaan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 567) | https://bukuende.wordpress.com/2013/06/16/na-mora-do-tuhanta-i-buku-ende-no-567-buku-logu-no-567/ | teks lirik
+#A
+5, | 3 3 (2+1) (7,+1) | 2 3 1 5, | 4 4 (3+2) (3+4) |
+> Na mo-ra do Tu-han-ta i ja-la par-ho-long
+#B
+5 4 3 3 | 2 .+7, (2+1) (7,+6,) | 6, . 5, 5, |
+> si-tu-tu na ba-sa ma-nga-le-hon pa
+#C
+(5,+6,) (7,+1) 2 1 | 1 .+7, 7, 7, | (7,+1) (2+3) 4 3 |
+> ngi-do ma tu Tu-han i si-an ha-mo-ra
+#D
+3 .+2 2 2 | 5 .+4 3 3 | 3 . 4 6, |
+7, 7, 1 (3+.+.+2) | (1 . 7, .) | 1 . 0 |]
+> on-Na i tu ho pa-sa-ha-ton-Na mar-do-ngan las ni ro-ha.
+#V
+Na mora do Tuhanta i jala parholong situtu
+na basa mangalehon pangido ma tu Tuhan i
+sian hamoraonNa i tu ho pasahatonNa
+mardongan las ni roha.
+-
+Na ro do hami on Tuhan, marsomba tu habangsaMi
+tangihon pangidoan,
+patogu rohanami be nang pangkirimonnami pe,
+unang luangan hami, manang tarhirim hami.
+-
+Tu Ho do artanami i, di Ho puji-pujian i
+sai ro ma Ho tu hami
+nang ro pe parungkilon i sai hot do pasupasumi
+Mangkorhon tuanami nang hamonangannami.
+-
+Na mora situtu do Ho, sai tong do disarihon Ho.
+na ringkot i dihami.
+rade haroan bolon i, na di banua ginjang i.
+sonang ma tondinami, nang dohot ngolunami.

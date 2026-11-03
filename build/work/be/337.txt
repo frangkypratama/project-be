@@ -1,0 +1,51 @@
+@be 337
+@bl 79
+@title Molo giot ho tu ginjang
+@key Eb
+@meter 3/4
+@credit Karl Voigtlander 1853
+@pages 315 316
+@status Lirik dicek · 20/23 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di baris 2 (mangungkap), 9 (lohotna), 13 (sasude); dicek ulang ke scan hlm 315–316, buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 337) | https://bukuende.wordpress.com/2013/06/16/molo-giot-ho-tu-ginjang-buku-ende-no-337-buku-logu-no-79/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check "4*" = Fa naik (not balok: A♮) → #4; "1*" = Do naik (not balok: E♮) → #1.
+@check Birama "3 . 4* 5 6" (baris 2): not balok 5-6 dua not 1/8 berlegato (tanpa garis atas di angka) agar genap 3 ketuk.
+#A
+(3 6) 5 | 5 . 2 | (2 5) 4 | 4 . 3 v | (1' 7) 6 |
+5 . #4 v | 5 . 2 | (3 .+#4) (5+6) | 5 . #4 | 5 . 0 |
+> Mo-lo gi-ot ho tu gin-jang, tu na so-nang, Ha-ru pa-re-ak ma i,
+#B
+(2 .+#1) (2+3) | 4 . 2 | (3 .+2) (3+4) | 5 . 3 v | (1' 7) 6 |
+5 . 3 v | (2 3) 4 | (3 5) 4 | 3 . 2 | 1 . 0 |]
+> Tu-han Je-sus do ma-ngung-kap, di-pa-ta-lak ba-hal na di gin-jang i.
+#V
+Molo giot ho tu ginjang, tu na sonang, Haru pareak ma i,
+Tuhan Jesus do mangungkap, dipatalak bahal na di ginjang i.
+-
+Loas ma au mandapothon hatiuron
+Di banuaginjang i, angkupanku ma, suruan,
+Mangendehon sangap ni Tuhanta i.
+-
+Jesus, na parjolo laho, au ma togu
+Tu paradianan ni birubiru tinobusMu,
+BinoanMu sian pardangolan i.
+-
+Ndang be olo au lohotna ni ugasan,
+Angka na di tano i, mian au di halongonan ?
+Ndang tagamon: Lao ma au tu surgo i.
+-
+Lehon ma haporseaon, hagogoon,
+Na manorus sasude, a malungun do rohangku
+Di Tuhanku, nang di ingananNa pe.
+-
+Na tibu do tarpatupa Ho, Debata,
+Halalas ni rohangkon sian bahal hamatean
+Tartogihon Ho tompu tondingkinon
+-
+Jesus, Ho do na mamorsan paminsangon
+Na tama di dosangki. Na so pola habiaran
+Be tanoman hehe do au sian i.
+-
+Nang di tano, nang di surgo Ho pargogo,
+Pujionku do tongtong Jesus, Ho hangoluanku,
+Tu lambungMu alap ma naposoMon

@@ -1,0 +1,22 @@
+@be 613
+@bl 0
+@title Ro ma Ho O Jesus
+@key D
+@meter 4/4
+@credit Syair dan Lagu: Num sei uns willkommen, Walter Reim, 1934 · Terj.: Dcs. Bonaria Hutabarat
+@pages 611
+@status Lirik dicek · 3/3 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — semua baris sama; pembanding juga hanya punya satu ayat. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 613) | https://bukuende.wordpress.com/2013/06/16/ro-ma-ho-o-jesus-buku-ende-no-613-buku-logu-no-613/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 613".
+@check Ada tanda fermata di atas not 1 (birama "1 . 2 .", au) dan 3 (birama "3 . . 5", Tu) di baris 3; format belum punya tanda fermata.
+@check Hanya satu ayat yang dicetak.
+#A
+1 1 1 7, | 1 . 5, . | 1 . 2 . | (3 . 5 .) |
+5 5 6 6 | 1' . 7 . | 6 . 5 . | 3 . 3 . |
+6, . 7, . | 1 . 2 . | 3 . . 5 | 5 . . . |]
+> Ro ma Ho O Je-sus Tu-han-ki, Ho Ra-ja Si-pa-lu-a i, ro ma Ho tu au O Tu-han-ki.
+#V
+Ro ma Ho O Jesus Tuhanki,
+Ho Raja Sipalua i,
+ro ma Ho tu au O Tuhanki.

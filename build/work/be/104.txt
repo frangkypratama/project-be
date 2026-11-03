@@ -1,0 +1,69 @@
+@be 104
+@bl 155
+@title Bongoti ma rohangku
+@key F
+@meter 4/4
+@credit Johann Crüger, 1648
+@pages 94 95
+@check Judul tercetak "Bongoti m rohangku" dan lirik ayat 1 tercetak "ro-hngku"; keduanya tampaknya salah cetak "ma rohangku". Lirik ditulis seperti buku.
+@check Buku menulis "Johann Cruger"; lazimnya Johann Crüger.
+@check Birama "3 . 4" dan "4 . 5" bergaris atas ganda pada not kedua: dibaca 1/8 bertitik + 1/16 dalam satu ketukan (ditulis "3+.+.+4").
+@check Ayat 8 di buku mencetak baris "Tambai ma gogonami di pangunjunan i." dua kali; ditulis seperti buku.
+@status Lirik dicek · 29/37 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 29 dari 37 baris sama persis; beda ejaan di baris 1, 6, 7, 8, 29, 34, 35; baris 31 (dobel tercetak di buku) tidak ada di pembanding. Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 104) | https://bukuende.wordpress.com/2013/06/09/bongoti-ma-rohangku-buku-ende-no-104-buku-logu-no-155/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . | 1 . 5 . | 4 3 2 . | 1 . v 3 . | 2 1 7, 1 |
+2 . :|
+> Bo-ngo-ti ma ro-hng-ku, i-nga-ni ma au on,
+> O Ton-di De-ba-tang-ku, pa-so-nang ro-hang-kon
+#B
+0 2 | (3+.+.+#4) 5 5 #4 | 5 . 0 5 | 2 1 2 3 |
+4 . 3 v 3 | (4+.+.+5) 6 5 4 | 3 . 2 . | 0 2 4 4 | 3 . 2 . | 1 . |]
+> Na mar-ha-bang-sa Ho ra-phon De-ba-ta A-ma nang Je-sus pe, A-nak-Na, naeng pu-ji-on-ku Ho,
+#V
+Bongoti ma rohngku, ingani ma au on,
+O Tondi Debatangku, pasonang rohangkon
+Na marhabangsa Ho raphon Debata Ama nang Jesus pe,
+AnakNa, naeng pujionku Ho,
+-
+Antong pangkilalahon tu ahu gogoMi,
+GogoM na paluahon u sian dosangki.
+Urasi rohaangkon, paias m tondingku;
+Ai naeng do oloanku, n nidokMi tongtong
+-
+Ndang dung marhatigoran, pardosa au hian;
+Ndang dung marhasonangan na mate au hian,
+Di pandidion i dibonom Ho dosangku
+Tu mudar ni Tuhanku, ias au ala ni.
+-
+O Tondi sipodahon, tangiang na sintong,
+Ho do na tinangihon ni Ama i tongtong.
+Ajari ma au on, mandok pangidoanku
+Sian sandok rohangku, Tangihon hatangkon!
+-
+Silehon las ni roha, palas ma rohangki;
+Pahehe au, paboa au niapulanMi.
+Jotjot ditopot Ho angka na marsitaonon,
+Silehon hasonangan tu na tungki do Ho.
+-
+Usehon tu rohangku holong ni rohaMi,
+Padenggan ma hatangku tu dongan sasude,
+Asi rohaM padao ma bada, halatean,
+Patimbul hadamean, na roa i palao
+-
+Baen gok haporseaon ma rohanami be;
+PanumpakMi gandahon tu artanami pe.
+Pabali tondi i na olo manundati,
+Na olo mangarsahi rohaM na denggan i.
+-
+Pargirgir rohanami mangalo dosa i;
+Tambai ma gogonami di pangunjunan i.
+Tambai ma gogonami di pangunjunan i.
+Dongani hami on mangalo musunami:
+Sai unang olo hami saor tu portibi on.
+-
+Baen pangalahonami hombar tu rohaMi;
+Dung i, diajalnami di hamatean i,
+Padao jorbutna i, palas ma rohanami,
+Tumopot jambarnami di harajaonMi.

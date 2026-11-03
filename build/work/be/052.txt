@@ -1,0 +1,34 @@
+@be 52
+@bl 55
+@title Hatuaon do
+@key Eb
+@meter 4/4
+@credit Johannes Daniel Falk, 1819
+@pages 45
+@status Lirik dicek · 5/6 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 3 ("Hututubu" — salah cetak buku di ayat 2). Buku tetap acuan.
+@check Tanda ":‖" setelah birama "5 . . 0" (akhir "Jesus i!") tanpa tanda ulang pembuka dan lirik hanya satu baris; dibaca sebagai garis akhir bagian (|]), bukan pengulangan.
+@check Bagian "Mago do jolma ..." diapit ‖: … :‖ (diulang); ayat 2–3 di buku memakai ":,: … :,:" untuk bagian ini.
+@check Lirik di bawah not "Ha-tu-tu-bu-ni"; ayat 2 tercetak "Hututubu", ayat 3 "hatutubu" — ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 52) | https://bukuende.wordpress.com/2013/06/13/hatuaon-do-las-ni-roha-do-hatutubu-ni-jesus-i-buku-ende-no-52-buku-logu-no-550/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 . 6 . | 5 .+4 (3 4) v :|
+> Ha-tu-a-on do
+> las ni ro-ha do
+#B
+5 . 5 . | 6 . 7 1' |
+7 . 6 . | 5 . . 0 |]
+> Ha-tu-tu-bu-ni Je-sus i!
+#C
+(2 .+3) 2 3 | (4 .+5) 4 . v | (3 .+4) 3 2 |
+(5 .+6) 5 . v | (1' 7) (6 5) | 1' 6 5 4 | 3 . 2 . | 1 . . 0 :|
+> Ma-go do jol-ma, Ro ma Tu-han-ta. Las be, las be ma ro-han-ta i!
+#V
+Hatuaon do, las ni roha do, Hatutubu ni Jesus i!
+:,: Mago do jolma, Ro ma Tuhanta. Las be, las be ma rohanta i! :,:
+-
+Hatuaon do, las ni roha do, Hututubu ni Jesus i!
+:,: Domu do hita tu Debatanta, Las be, las be ma rohanta i! :,:
+-
+Hatuaon do, las ni roha do, hatutubu ni Jesus i!
+:,: Las ma rohanta mida Tuhanta. Las be, las be ma rohanta i.

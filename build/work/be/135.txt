@@ -1,0 +1,34 @@
+@be 135
+@bl 206
+@title O Tondi Parbadia i, bongoti
+@key Eb
+@meter 4/4
+@credit Philip Nicolai, 1599
+@pages 122 123
+@status Lirik dicek · 9/11 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 9 dari 11 baris sama; 2 baris beda ejaan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 135) | https://bukuende.wordpress.com/2013/06/16/marpungu-do-di-jolomon-buku-ende-no-135-buku-logu-no-206/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Sesudah tanda ulang ":||" buku menulis "0" (paranada: tanda diam) sebelum "5 . 3 ."; ditulis sebagai ketukan gantung diam bagian B.
+#A
+1 | 5 3 1 5 | 6 6 5 v 5 | 6 7 1' 7 |
+6 6 5 v 3 | 6 5 4 3 | 2 . 1 :|
+> Mar-pu-ngu do di jo-lo-mon mar-sa-da ro-ha ha-mi-on, o Je-sus Tu-han na-mi
+> Ho, Ra-ja na tar-si-lang i, na pi-na-tim-bo i mu-se, sai ro ma Ho tu ha-mi
+#B
+0 | 5 . 3 . v | 5 . 3 . v | 4 3 2 3 | 4 3 2 3 |
+4 3 2 . | 1 . v 1' 7 | 6 5 4 3 | 2 . 1 |]
+> O-lo, ja-lo ma ta-ngi-ang pa-mu-ji-an di go-ar-Mu, a-la ho-long ni ro-ha-Mu
+#V
+Marpungu do di jolomon marsada roha hamion, o Jesus Tuhan nami
+Ho, Raja na tarsilang i, na pinatimbo i muse, sai ro ma Ho tu hami
+Olo, jalo ma tangiang pamujian di goarMu, ala holong ni rohaMu
+-
+Na metmet di mulana i, sai dipararat Ho do i,
+I ma harajaonMu, lam ganda do bilangan ni
+Na paboahon hataMi baen sangap di goarMu
+Jesus, tulus baen sangkapMu, sosoanMu hajolmaon, asa olo paluaon.
+-
+Ho do nampuna hami on rodi sandok portibi on.
+Ho ingkon sombaonna. Nang lan dope na modom i
+Hinorhon ni jeana i, Ho do tangihononna, Ingkon monang
+Ho, o Tuhan, maralohon haholomon, Ho do Raja sioloan.

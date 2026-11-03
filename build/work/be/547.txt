@@ -1,0 +1,34 @@
+@be 547
+@bl 376
+@title Loas ro tu Au dakdanak
+@key Eb
+@meter 4/4
+@credit Z. No. 315; Lagu: William B. Bradbury 1868
+@pages 518
+@check Birama 2 tercetak "5͡1 5͡3" tanpa titik oktaf pada 1; balok menunjukkan Es tinggi → ditulis 1'.
+@check Refrein baris 1 tercetak garis birama ekstra ("6 1̇ . | 7 6 |"); dibaca satu birama 4 ketuk seperti baris berikutnya dan balok.
+@status Lirik dicek · 10/10 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 547) | https://bukuende.wordpress.com/2013/06/16/loas-ro-tu-au-dakdanak-buku-ende-no-547-buku-logu-no-376/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+3 3 3+2 3+4 | (5 1') (5 3) | 2 3 4+6 5+4 | 3 . . :|
+> Lo-as ro tu Au dak-da-nak, nin-na Je-sus, Tu-han i.
+> Be-ta ro ha-mu su-de-na, sai o-loi so-a-ra i.
+#B
+5+5 | 6 1' . 7+6 | 5 3 . 3+3 | 2 6 5 4 |
+3 . . 5+5 | 6 1' . 7+6 | 5 1' . 1+2 | 3 5 4 .+2 | 1 . . . |]
+> Ha-mu do-ngan, u-nang to-gang, ro ha-mu tu Je-sus i. Ha-mu do-ngan, u-nang to-gang, ro ha-mu tu Je-sus i.
+#V
+Loas ro tu Au dakdanak, ninna Jesus, Tuhan i.
+Beta ro hamu sudena, sai oloi soara i.
+Hamu dongan, unang togang, ro hamu tu Jesus i.
+Hamu dongan, unang togang, ro hamu tu Jesus i.
+-
+Sian roha ni dakdanak ro do pamujion i,
+Na palashon Tuhan Jesus, tole, sai endehon i! Hamu ...
+-
+Nang danak dope rohamu, sai tu Jesus lehon i.
+Molo susa, moru arsak, i ma pangkorhonna i. Hamu ...
+-
+Ale Tuhan, nunga ro au, naeng mangkaholongi Ho.
+Gomos tiop ma tanganku, molo naeng musungku ro, Hamu ...

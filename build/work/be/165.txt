@@ -1,0 +1,32 @@
+@be 165
+@bl 19
+@title O Jesus na pangolu au
+@key D
+@meter 4/4
+@credit Thomas Jackson, 1780
+@pages 149
+@status Lirik dicek · 9/10 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 kata 1 beda ejaan ("Di ihuthon"); belum dicek ulang di scan, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 165) | https://bukuende.wordpress.com/2013/06/16/na-basa-do-roham-di-au-buku-ende-no-165-buku-logu-no-19/ | 9/10 baris sama
+@check Kepala lagu mencetak "O Jesus na pangolu au"; baris pertama lirik "Na basa do rohaM di au".
+@check Birama 3 "5 . . v 5 . 4": titik di antara 5 dan 4 hanya pemisah (not balok: dua not 1/8). Baris 3 "2 1" tanpa garis atas di angka, tetapi not balok menunjukkan dua not 1/8 berlegato.
+#A
+5 | 5 (1'+7) 6 5 | 4 (5+4) 3 v (3+#4) |
+5 1' 7 6 | 5 . . v 5+4 | 3 3 4 5 |
+6 (2'+1') 7 v 1' | 5 (6+4) 3 2 | 1 . . |]
+> Na ba-sa do ro-haM di au, o Je-sus, Tu-han-ki, di i-hut-hon Ho au tu na dao, mam-bu-at ro-hang-ki
+#V
+Na basa do rohaM di au, o Jesus, Tuhanki,
+Di ihuthon Ho au tu na dao, mambuat rohangki
+-
+Pardosa na godang do au, badia anggo Ho;
+Sai tu na roa do au lao, sai tu na jahat do.
+-
+O Tuhan, hutopoti ma luhutna dosangki.
+Asi rohaM sai sesa ma, di Ho ma tondingki.
+-
+O Jesus, sai tangihon on, sude na jat padao;
+Lam ias bahen rohangkon asa sai sonang au.
+-
+Ai nunga pola mate Ho, humophop tondingki;
+Malungun au nuaeng di Ho, naeng au tu lambungMi.

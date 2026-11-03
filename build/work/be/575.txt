@@ -1,0 +1,38 @@
+@be 575
+@bl 0
+@title Puji ma Debata na songkal
+@key F
+@meter 4/4
+@credit Syair/Lagu: NN
+@pages 549 550
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Psalm 93 : 1-5.
+@check Hanya satu bait (lirik di bawah not); teks #V disusun dari lirik di bawah not.
+@check Birama 2 tercetak "5 . 3 5 1 5" (3 5 bergaris atas ganda) → 5 .+.+3+5 1' 5. Birama "4 . . 4 . 4" → 4 . . 4+.+.+4 (4 . 4 bergaris ganda = 1/8 bertitik + 1/16).
+@check Ketukan 1 bait dimulai ketukan gantung 1/8 "1 . 3" (1/8 bertitik + 1/16) → ditulis 1+.+.+3.
+@check Lirik "lung,angka" (hlm 549) ditulis "lung, ang-ka"; "mansai" tercetak dengan lengkung di bawah (dua suku kata man-sai).
+@status Lirik dicek · 5/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 (saksak/sak-sak), 7 (bahennonku), 8 (rodi) beda ejaan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 575) | https://bukuende.wordpress.com/2013/06/16/puji-ma-debata-na-songkal-buku-ende-no-575-buku-logu-no-575/ | teks lirik
+#A
+1+.+.+3 | 5 .+.+3+5 1' 5 | 6 . 5 1 | 7 .+1' 2' 3' |
+3' . 2' 5+5 | 5 . . 5+5 | 7 1' 2' 3' | 6 . . 6+.+.+6 |
+4' 3' 2' 1' | 7 . . 7+7 | 1' .+1' 2' 2' | (3' 5') 4' 2' |
+1' .+1' 2' 7 | 1' . . 5+5 |
+> Pu-ji ma De-ba-ta na song-kal pa-sa-ngap ma go-ar-Na pu-ji ma ang-ka ru-ra do-hot lung, ang-ka do-lok na tim-bo do-hot ha-sak ni ga-lum-bang su-de ma-mu-ji Ho La-ngit
+#B
+5 .+6 5+4 3 | 4 . . 4+.+.+4 | 4 .+5 4+3 2 |
+3 . . 5+.+.+5 | 5 . 5+5 1'+7 | 6 . 2'+1' 7+6 | 5 1' 2' 7 | 1' . . 3'+.+.+3' |
+3' .+2' 1' .+3' | 6 . 0 6+6 | 4' .+3' 2' 1' |
+7 . . 7+7 | 1' .+1' 2' 2' | (3' 5') 4' 2' |
+1' .+1' 2' 2' | 3' . . 7+7 | 1' .+1' 2' 2' |
+(3' 5') 4' 2' | 1' .+1' 2' 7 | 1' . . |]
+> i na man-sai hem-bang bin-tang i na man-sai to-rang om-bun i na man-sai sak-sak pa-sa-ngap on Ho O De-ba-ta tung so o-lo ta-ding au lao ma-mu-ji Ho Tu-han na-sa go-go ba-hen-non-ku lao pa-sa-ngap-hon Ho ro-di u-jung-ni ngo-lung-ku sai pu-ji-on-ku Ho.
+#V
+Puji ma Debata na songkal pasangap ma goarNa
+puji ma angka rura dohot lung, angka dolok na timbo
+dohot hasak ni galumbang sude mamuji Ho
+Langit i na mansai hembang bintang i na mansai torang
+ombun i na mansai saksak pasangap on Ho O Debata
+tung so olo tading au lao mamuji Ho
+Tuhan nasa gogo bahennonku lao pasangaphon Ho
+rodi ujungni ngolungku sai pujionku Ho.

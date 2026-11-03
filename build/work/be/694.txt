@@ -1,0 +1,46 @@
+@be 694
+@bl 0
+@title Jesus Ho nampuna au
+@key F
+@meter 4/4
+@credit Syair: Take my Life and let it be Consecrated; Frances RJ. Havergal; Lagu: Hendry A. Cesar Malan; Terj.: BE. no 470
+@pages 725 726
+@status Lirik dicek · 10/14 baris sama dgn pembanding
+@check Pembanding lirik: baris 4, 8, 11, 12 beda ejaan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 694) | https://bukuende.wordpress.com/2013/06/16/jesus-ho-nampuna-au-buku-ende-no-694-buku-logu-no-694/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 694. Terjemahan merujuk BE no 470.
+@check Kredit ditulis seperti buku ("Hendry A. Cesar Malan"; lazim: Henri A. César Malan).
+#A
+1 1 (1+5,) (1+3) | 5 4 3 . | 3 3 (3+2) (4+2) |
+1 (7,+2) 1 . | 3 3 2 (2+3) | 4 5 (4 3) |
+5 5 6 5 | (5+4) (4+3) (3 2) |
+1 2 3 (4+2) | 1 7, 1 . |]
+> Je-sus Ho nam-pu-na au do-hot na a-dong di au, go-go do-hot ho-sang-ki sa-hat ma-tu ta-ngan Mi, sa-hat ma tu ta-ngan-Mi.
+#V
+Jesus Ho nampuna au dohot na adong di au,
+gogo dohot hosangki sahat ma tu tanganMi,
+sahat ma tu tanganMi.
+-
+Sai rajai ma matangki, manangkasi dalanMi,
+sai patinggil pinggolhi, tumangihon hataMi,
+tumangihon hataMi.
+-
+Dohot tanganki tahe, naeng manjama na ture,
+dohot pat sai naeng tongtong, mandalani dalanMon,
+mandalani dalanMon.
+-
+Hata nang soarangki, sai rajai ma dohot i,
+sai denggan huhut sintong, baen hatangku sai tongtong
+baen hatangku sai tongtong.
+-
+Sere, arta, hepeng pe, buat ma di Ho sude;
+tondi nang pamatangki, ingkon Ho oloan nii
+ingkon Ho oloan nii.
+-
+Pinangido ma tu Ho, rohangki pe dohot do,
+bahenonMu, Tuhanki, tong tu rahajaonMi,
+tong tu harajaonMi.
+-
+Na dihirim rohangki, dohot haholonganki,
+sai tu Ho ma sahat i, sai na sonang i disi,
+sai sonang i disi.

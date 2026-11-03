@@ -1,0 +1,29 @@
+@be 793
+@bl 0
+@title Pos ma roham
+@key C
+@meter 3/4
+@credit Syair & lagu: NN
+@pages 870 871
+@status Lirik dicek · 5/6 baris sama dgn pembanding
+@check Pembanding lirik: baris 6 kata 2 (pangapul) beda ejaan; scan hlm 871 jelas "pangapul" — ditulis sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 793) | https://bukuende.wordpress.com/2013/06/16/pos-ma-roham-buku-ende-no-793-buku-logu-no-793/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0.
+@check Birama tercetak "4/4 3/4": dua birama pertama 3 ketuk (bagian A 3/4), selanjutnya 4/4 (bagian B).
+#A
+1' .+1' 7 | 1' . . |
+> Pos ma ro-ham
+#B 4/4
+1' . 7 5 | 6 . 3 . |
+1' . 7 5 | 6 . 5 . | 3 3+3 5 5 |
+6 6+6 1' 1' | 3' . 1' 2' | 1' . . . |]
+> Je-sus bo-na-na do-hot u-jung na sal-pu ma bi-ar nang ha-ta-hu-ton, pos ma ro-ham.
+#V
+Pos ma roham Jesus bonana dohot ujung na salpu ma biar
+nang hatahuton, pos ma roham.
+-
+Pos ma roham Jesus naung mate, i do naung hehe,
+na bangkit, Raja do salelengna, pos ma roham.
+-
+Pos ma roham asup ni musu, unang tangihon.
+Jesus pangapul di huriaNa, pos ma roham.

@@ -1,0 +1,37 @@
+@be 776
+@bl 0
+@title Unang holsoan ho
+@key Ab
+@oct -1
+@meter 3/4
+@credit Syair: NN · Terj.: Biv. NA. Sirait
+@pages 846
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Bagian suplemen: buku tidak mencetak "Logu No." → @bl 0. Buku tidak mencantumkan komponis lagu.
+@check Tanda mula 4 mol; 3 bertitik atas = C5 → do = As3 (@oct -1).
+@check Birama 2: angka 1 dicoret bertitik atas, balok = A♮4 → #1'.
+@check Baris 2 "6 1 6": angka 1 tanpa titik atas, balok = As4 → ditulis 1' sesuai balok.
+@check Pembanding lirik: baris 2 beda (salah ketik saya 'panguripiNa' diperbaiki ke 'pangurupiNa' sesuai scan), baris 10 (ulahon), 11 (lului) beda ejaan; buku ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 776) | https://bukuende.wordpress.com/2013/06/18/unang-holsoan-ho-buku-ende-no-776-buku-logu-no-776/ | teks ayat
+#A
+3' 1' 4' | 3' .+#1' 2' | 2' 7 3' | 2' .+7 1' |
+6 1' 6 | 5 . . | 5' 5' 5' | 4' .+3' 2' |
+5' 5' 5' | 5' .+4' 3' | 4' 2' 5' |
+3' . . | 4' 3' 2' | 1' . . |]
+> U-nang hol-so-an ho bi-ar ni ro-ha do ro si-an i, ha-po-si De-ba-ta pa-ngu-ru-pi-Na i, jo-nok tu Ho, jo-nok tu Ho.
+#V
+Unang holsoan ho biar ni roha do ro sian i,
+haposi Debata pangurupiNa i,
+jonok tu Ho, jonok tu Ho.
+-
+Ida ma uli ni bunga na tubu i di ladang i,
+Tuhanta Debata na patubuhon i,
+marmudu i, marmudu i.
+-
+Bereng ma pidong i na so manabur i diladang i,
+sai diparmudu do sude, Ummarga do
+Ho sian i, ho sian i.
+-
+Antong ulahon ma hata ni Jesus i, sai peop i,
+Jumolo ma lului harajaonNa i,
+dingolumi, dingolumi.

@@ -1,0 +1,35 @@
+@be 294
+@bl 70
+@title Unang sai holsoan ho
+@key D
+@meter 6/4
+@credit Choral Buch 191. Adam Drese, um, 1690
+@pages 273 274
+@status Lirik dicek · 6/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (Dobatam),2,6,10,11,12 beda ejaan/kata; scan hlm 273–274 ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 294) | https://bukuende.wordpress.com/2013/06/18/unang-sai-holsoan-ho-buku-ende-no-294-buku-logu-no-70a/ | 6/12 baris sama
+@check Kepala lagu "Logu No. 70 a" (@bl hanya menyimpan angka 70).
+@check Baris 1: setelah ketukan gantung tidak ada garis birama sampai akhir baris (angka & balok, 12 ketuk) → garis birama ditambahkan setelah "2".
+@check Lirik di bawah not tercetak "Do-ba-tam" (ayat 2: "Debatam") — ditulis apa adanya.
+#A
+3 . 2 | 1 . 4 (3 .+4) 2 | 1 . 0 5 . 4 |
+3 . 6 (5 .+6) 4 | 3 . 0 2 . 2 | 3 . 4 (5 4) 3 |
+(3 2) 2 v 2 . 2 | 3 . 4 (5 6+5) (4+3) | (3 2) 2 v 5 . 7 |
+(1' 7) 6 5 . 4 | 3 . 0 (6 .+5) (4+3) | 4 . 5 3 . 2 | 1 . . |]
+> U-nang sai hol-so-an ho, Do-ba-tam ma-ngo-lu do, di-ra-jai do sa-su-de-na, ar-sak-mi naeng bu-a-ton-na; A-sal ma por-se-a ho, hol-so-mi ma-po-rus do.
+#V
+Unang sai holsoan ho, Dobatam mangolu do,
+Dirajai do sasudena, arsakmi naeng buatonna;
+Asal ma porsea ho, holsomi maporus do.
+-
+Sai haposi Debatam, jala alo ma dosam!
+Unang habiari talu, hamonangan do tohapmu;
+Dipasaut Debatami, na pinarbagaNa i.
+-
+Molo ro arian i, sai maporus borngin i;
+Songon i do lao arsakmu mida sondang ni Tuhanmu;
+Asal sai mangkirim ho, ndang tagamon marsak ho.
+-
+Nang tung ganda dokdok ni sasude sitaonon i.
+Unang olo ho gangguan, sai benget ma ho mamorsan.
+Tiop holong ni roham mangkaposi Debatam.

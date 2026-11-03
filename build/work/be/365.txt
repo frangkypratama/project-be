@@ -1,0 +1,37 @@
+@be 365
+@bl 167
+@title Haleluya! Puji ma
+@key D
+@meter 4/4
+@credit Lagu: Matthias Jorissen 1739-1823
+@pages 349 350
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 11 dari 12 baris sama; beda ejaan di baris 12 (Haleluya); sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 365) | https://bukuende.wordpress.com/2013/06/13/haleluya-puji-ma-buku-ende-no-365-buku-logu-no-167/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian Ende Psalm, judul bagian "Psalm 150". Tanda mula di scan hanya jelas satu kres, tetapi not 1 = D4 dan "4*" = Gis di not balok → nada dasar D (2 kres). Not "4*" = #4.
+@check Not terakhir (1) bertanda fermata di buku; titik fermata di atas angka bukan titik oktaf (not balok = D4).
+#A
+1 3 2 1 | 3 #4 5 . :|
+> Ha-le-lu-ya! Pu-ji ma
+> Di jo-ro-na De-ba-ta.
+#B
+3 6 5 1' |
+1' 7 1' . | 5 1' 6 5 | 5 #4 5 . v | 3 5 6 5 |
+4 3 2 1 v | 1 4 3 2 | 3 #4 5 . v |
+1 4 3 2 | 3 #4 5 . v | 1' 6 5 4 | 3 1 2 1 |]
+> Pu-ji ma go-ar-na i Ro di ha-jang-ha-jang ni ha-go-go-on ni Tu-han-ta, sai pa-sa-ngap ma tong-tong De-ba-ta di ta-no on a-la ni ha-tim-bu-lon-Na.
+#V
+Haleluya! Puji ma di jorona Debata.
+Puji ma goarna i ro di hajanghajang
+Ni hagogoon ni Tuhanta, sai pasangap ma tongtong
+Debata di tano on ala ni hatimbulonNa.
+-
+Palu ma sarune i lao mamuji Tuhan i;
+Sordam nang tulila pe, i ma pangke sasude,
+Pasangaphon Debatanta, tali sayak, ogung i,
+Arbap nang hasapi pe palu, baen hasangaponNa.
+-
+Gok parhinaloan i baen mamuji Tuhan i;
+Nasa gogoMu tahe holan i do na ture,
+Na tama di Debatanta, nasa na marhosa i
+Naeng mamuji Tuhan i, mangendehon Haleluya!

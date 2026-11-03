@@ -1,0 +1,20 @@
+@be 842
+@bl 0
+@title Amen (2X)
+@key Eb
+@meter 4/4
+@credit Musik: Sigismund Neukomm
+@pages 934
+@status Lirik dicek · 1/1 baris sama dgn pembanding
+@check Pembanding lirik: sama (Amen 2×).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 842) | https://bukuende.wordpress.com/2013/06/09/amen-2x-buku-ende-no-842-buku-logu-no-842/ | pembanding menulis Buku Logu No. 842; buku tidak mencetak nomor Logu
+@check Bagian Ende Liturgi; buku tidak mencetak nomor Logu → @bl 0.
+@check Birama "2 . 1" tercetak hanya 3 ketuk (ketukan gantung 1 di awal + birama ini = 4); ditulis apa adanya, lagu dipecah jadi bagian A/B.
+#A
+(1 | 2 3 4 3 | 2 .) 1 |
+> A-men.
+#B
+(4 . 2 .) | 1 . . . |]
+> A-men.
+#V
+Amen. Amen.

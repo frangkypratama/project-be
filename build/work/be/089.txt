@@ -1,0 +1,56 @@
+@be 89
+@bl 130
+@title Ate di dia soropmi
+@key Eb
+@meter 4/4
+@credit Georg Weissel, 1523
+@pages 79 80
+@status Lirik dicek · 26/28 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan baris 2 dan 7 ("banua toru", "tarbaensa").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 89) | https://bukuende.wordpress.com/2013/06/09/ate-di-dia-soropmi-buku-ende-no-89-buku-logu-no-130/ | 26/28 baris sama
+@check Not "7*" di birama 1 tertulis ♭ di paranada → b7; "4*" = ♮A → #4.
+@check Not penutup "6 7 1" tampak bertitik di bawah pada scan, tetapi paranada menunjukkan C4–D4–Es4 → (6, 7,) 1.
+#A
+0+5 | 5 5 5 b7 | 6 5 4 0+5 | 3 1 3 #4 |
+(5 6) 5 :|
+> A-te di di-a so-rop-mi nu-aeng, o ha-ma-te-an?
+> Di di-a ha-mo-na-ngan-mi nu-aeng, ba-nu-a to-ru?
+#B
+0+5 | 1' 7 6 7 | 1' 6 5 0+5 |
+1' 5 6 3 | 5 4 3 0+1 | 2 4 3 2 | (6, 7,) 1 |]
+> Na ta-lu do ha-mu su-de, na ta-lu do Si-bo-lis pe, Ai di-ta-lu-hon Je-sus.
+#V
+Ate di dia soropmi nuaeng, o hamatean?
+Di dia hamonanganmi nuaeng, banua toru?
+Na talu do hamu sude, na talu do Sibolis pe,
+Ai ditaluhon Jesus.
+-
+Nang pe manggogo ulok i mangalo ulubalang,
+Laos talu do tongamna i dibaen na somal monang.
+Tambihul ni durbing pe laos so tarbaensa monang be;
+Tarlisat do uluna.
+-
+Mangolu do naung mate i, hurungan dilohahon;
+Dirante do musuna i tabanna diarahon.
+Tung ise na mangate be mangalo ulubalang i,
+Na so tarbaen so monang?
+-
+Mangolu do Tuhanta i na hehe do Ibana;
+Ditaiti do ruasna i mangihut tu Ibana.
+Ndang tinggal di tanoman i saluhut na porsea i
+Di hata ni Tuhanta.
+-
+Ai manang ise na burju paubahon rohana,
+Na mangalehon situtu, di Jesus i rohana,
+I do dongan ni Jesus i tumean hangoluan i
+Saleleng ni lelengna.
+-
+Marlas ni roha hita on di ari haheheon,
+Ai tua nang di tano on di surgo pe dilehon.
+Dison tahirim i dope disi pe idaonta be,
+Suman tu Jesus hita.
+-
+O hamatean, talu ma! Sai talu ho, Sibolis!
+Banuatoru talu ma! Ai i do naung tartulis.
+Tapuji Debatanta i, dibaen hamonanganta i
+Marhite Tuhan Jesus.

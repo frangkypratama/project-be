@@ -1,0 +1,33 @@
+@be 678
+@bl 0
+@title Pauba roham
+@key F
+@meter 4/4
+@credit Syair & Lagu: Pdt. J.A.U. Doloksaribu, 1989.
+@pages 703 704
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris 10 & 12 ("haholongon/haholongan" — tercetak berbeda di buku). Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 678" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 678) | https://bukuende.wordpress.com/2013/06/16/pauba-roham-buku-ende-no-678-buku-logu-no-678/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas tercetak "Hosra 2:7".
+@check "6 . 5 3" dengan angka 3 = triol: 6 (1/4) lalu triol 1/8 (6 [lanjutan], 5, 3; di balok D–C–A), semuanya satu lengkung pada suku kata "ho". Birama 1 "5 ·5": titik kecil di antara 5 dianggap noda (balok = dua 1/8 biasa).
+@check Akhir "2 1 2 1" (1/16): lengkung pada tiga not pertama (suku kata "De"), dibaca dari balok.
+#A
+5+5 5+5 (5+1) 3+5 | (6 6+5+3) 5 0 |
+5+5 5+1 2+3 2+1 | 2 . . 0 | 5+5 5+5 (5+1) 3+5 |
+(6 6+5+3) 5 0 | 5+5 5+1 2+3 (2+1+2)+1 | 1 . . 0 |]
+> Pa-u-ba ro-ham tu Ja-ho-wa, pa-u-ba ro-ham tu De-ba-ta. pa-u-ba ro-ham tu Ja-ho-wa, pa-u-ba ro-ham tu De-ba-tam.
+#V
+Pauba roham tu Jahowa,
+pauba roham tu Debata.
+pauba roham tu Jahowa,
+pauba roham tu Debatam.
+-
+Marhaposan ho tu Jahowa,
+marhaposan ho tu Debatam,
+marhaposan ho tu Jahowa,
+marhaposan ho tu Debatam.
+-
+Sai radoti ma hatigoran,
+sai radoti haholongon i,
+sai radoti ma hatigoran,
+sai radoti haholongan i.

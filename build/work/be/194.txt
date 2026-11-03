@@ -1,0 +1,28 @@
+@be 194
+@bl 62
+@title Aut so asi rohaM
+@key F
+@meter 3/4
+@credit (tidak dicantumkan di buku)
+@pages 176 177
+@check Kredit "Lagu : Johann Wolfgang Franck 1681" di atas kepala BE 194 adalah penutup BE 193; akhir BE 194 (hlm 177) tanpa kredit.
+@check Birama 9 "4 . 3 2": angka = 3 ketuk, balok tampak seperempat + dua 1/8 (2 ketuk); dipakai angka.
+@status Lirik belum ada pembanding
+@check Pembanding lirik: tidak ditemukan di indeks huruf bukuende.wordpress.com maupun pencarian web (2 Nov 2026).
+#A
+1 1 1 | 3 .+2 1 v | 3 3 3 | 5 .+4 3 |
+5 4 3 | 2 . 0 v | 2 . 1+7, | 1 2 3 v |
+4 . 3+2 | 3 4 5 v | (5+4) 3 2 | 1 . . |]
+> Aut so a-si ro-haM, aut so go-dang ba-saM, tu di-a au? A-lai di-baen ba-saM do-hot a si-ro-haM, tu sur-go au.
+#V
+Aut so asi rohaM, aut so godang basaM, tu dia au?
+Alai dibaen basaM dohot asi rohaM, tu surgo au.
+-
+Mauliate ma di Ho, o Debata ala basaM!
+Sibahen dalan i marhite AnakMi, tu banuaM.
+-
+Anggiat ma holong, rohangku, sai tongtong burju tu Ho.
+Sai dongananMu au manang tu dia lao, sonang tutu.
+-
+Disuru AnakMi tu au TondiNa i na sian Ho,
+Manogu tondingki tu hasonangan i. Pinuji Ho!

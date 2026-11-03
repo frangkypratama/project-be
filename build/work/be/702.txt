@@ -1,0 +1,23 @@
+@be 702
+@bl 0
+@title Pangan ma roti on
+@key C
+@meter 4/4
+@credit Syair: Eat this bread · Lagu: Gereja Irlandia · Terj.: Pdt. J.A.U. Doloksaribu
+@pages 736
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0). Lagu pertama bagian "ULAON NA BADIA".
+@check Birama 3 dan 7: not 1/8 – 1/4 – 1/8 (sinkop) sesuai balok; ditulis `1'+7 .+1'` dan `1'+1' .+7`.
+@check Ayat 2 di buku hanya 2 baris dan berakhir koma ("…manongtong di ho,") — ditulis apa adanya.
+@status Lirik dicek · 3/4 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 1 beda ejaan "ima". Buku tetap acuan. (Pembanding menulis "Buku Logu No. 702"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 702) | https://bukuende.wordpress.com/2013/06/16/pangan-ma-roti-on-buku-ende-no-702-buku-logu-no-702/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5 .+5 6 . | 6 .+6 7 . | 7+7 7+7 1'+7 .+1' | 2' . 2' . |
+3' .+3' 2' . | 1' .+1' 7 . | 6+6 6+6 1'+1' .+7 | 1' . . 0 |]
+> Pa-ngan ma ro-ti on i-ma da-ging ni Tu-han Je-sus, i-num ma si-an i mu-dar ni Tu-han-ta do i.
+#V
+Pangan ma roti on ima daging ni Tuhan Jesus,
+inum ma sian i mudar ni Tuhanta do i.
+-
+Jalo ma, pangan ma, asa sai tongtong Ho margogo,
+inum ma sian i ngolu na manongtong di ho,

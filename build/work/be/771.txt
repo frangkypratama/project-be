@@ -1,0 +1,39 @@
+@be 771
+@bl 0
+@title Tudoshon pidong na habang
+@key C
+@meter 4/4
+@credit Syair: Auf adlers flugein getragen; A. V. Viebahn · Terj.: NN (dipaimbaru Biv. M. H. Sitorus) · Lagu: NN
+@pages 839 840
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 2 (pembanding tanpa "na" sebelum "di lambungMi") dan 4 ("Dina"/"Di na" — buku menulis Di-na di bawah not, "Di na" di ayat 2); buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 771) | https://bukuende.wordpress.com/2013/06/18/tudoshon-pidong-na-habang-buku-ende-no-771-buku-logu-no-771/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0.
+@check Angka "5 . 5 5" (hlm 840 baris 1), "3 ." sebelum Refrein, dan "5 . 1 1" (Refrein) hanya bertitik satu, tetapi balok = 1/2 bertitik (3 ketuk) dan birama 4/4 → ditulis 3 ketuk mengikuti balok.
+@check "4 · 3" (birama 3): titik hanya pemisah; balok = F dan E 1/4.
+@check Birama 2: angka "5 5" (1/8), balok tampak A–G; ditulis sesuai angka.
+@check "a - u" (hlm 839): "a" pada 6 . 7 (legato), "u" pada 6.
+#A
+3 | 5 (3+2) 1 2+2 | 3 . 3 5+5 |
+(6+5) 3+1 4 3 | 2 . . (3+4) | 5 4+3 1' 6 |
+(6 .+7) 6 7+1' | 2' 7+5 1' 7+6 |
+5 . . 5+5 | 6 5 4 6+6 | 5 . 3 5+5 |
+6 7+7 1' 2'+2' | 3' . . |
+> Tu-dos-hon pi-dong na ha-bang na mam-bo-an A-nak-Na i, O Je-sus sai bo-an a-u tu i-nga-nan na di lam-bung-Mi, bo-lu-son-ku ma ang-ka do-lok do-hot ru-ra na sai ba-gas i.
+#B
+1'+1' | 1' 7+6 1' 7+6 | 5 . 3 6 | 5 2+2 5 2+2 | 5 . . 1+1 |
+1 2+3 4 4+5 | 6 . 5 3 | 5 2+2 5 2+3 | 1 . . |]
+> Di-na ro au tu Ho lam ju-mo-nok sai to-gu ma a-u tu Ho, di-na ro au tu Ho lam ju-mo-nok sai to-gu ma a-u tu Ho.
+#V
+Tudoshon pidong na habang na mamboan AnakNa i,
+O Jesus sai boan au tu inganan na di lambungMi,
+bolusonku ma angka dolok
+dohot rura na sai bagas i.
+Ref.: Dina ro au tu Ho lam jumonok sai togu ma au tu Ho,
+dina ro au tu Ho lam jumonok sai togu ma au tu Ho.
+-
+Di toru ni habong habongMu dapot au hasonangan i
+ai i do haporusanku i do na tau hasonanganki
+nang tahop pe ro angka musu
+ndang mabiar au pos rohangki
+Ref.: Di na ro au . . .

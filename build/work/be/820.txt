@@ -1,0 +1,47 @@
+@be 820
+@bl 0
+@title Pangke ma tingkim
+@key Eb
+@meter 4/4
+@credit Syair & Lagu: Griip Toch de Kansen, IRA D. Sankey · Terj.: Biv. MH. Sitorus
+@pages 904 905
+@status Lirik dicek · 12/16 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan/pemisahan kata di baris 3 ("ar ta na"), 4 ("holongna"), 6 ("nasa"), 7 ("holongni"); dicek di scan, tercetak demikian — buku tetap acuan. Pembanding menyebut Logu No. 820, buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 820) | https://bukuende.wordpress.com/2013/06/16/pangke-ma-tingkim-buku-ende-no-820-buku-logu-no-820/ | perbandingan per baris
+@check Buku tidak mencetak nomor Logu → ditulis 0.
+@check Angka 4 dicoret = kres (#4 = A♮ di not balok).
+@check Kredit ditulis seperti buku ("Griip Toch de Kansen", lazimnya "Grijp toch de kansen").
+#A
+5 #4+.+.+5 1' 5+.+.+3 | 5 4+.+.+2 4 3 |
+6 7+.+.+7 1' 5+.+.+6 | 7 6+.+.+6 5 . | 5 #4+.+.+5 1' 5+.+.+3 |
+5 4+.+.+2 4 3 | 6 7+.+.+7 1' 5+.+.+4 |
+3 2+.+.+2 1 . |
+> Pang-ke ma ting-kim na si-an Tu-han-mu ai tung ha-top la-ho sal-pu do i di-a ma ar ta na hot di-ngo-lu-mu, ho-long-na po-lin na ma-nong-tong i,
+> Pang-ke ting-kim u-nang ho mar-na-lem-ba to-po-ti u-ru-pi na da-ngol i sai mar-si-non-dang ma baen pa-li-to-mu baen ha-sa-nga-pon di Tu-han-ta i.
+#B
+2 2+.+.+3 4+4 4+0 | 3 3+.+.+4 5+5 5+0 |
+5 #4+5 (6+7) 1'+1' | 7 6+.+.+6 5 . |
+5 #4+.+.+5 1' 5+.+.+3 | 5 4+.+.+2 4 3 |
+6 7+.+.+7 1' 5+4 | 3 2+.+.+2 1 . |]
+> Ai ndang a-dong na hot di a-tas ta-no on na-sa na u-li lao sal-pu do i, ho-long-ni ro-ha na hot na ma-nong-tong ho-lan di Je-sus do boi jum-pang i.
+#V
+Pangke ma tingkim na sian Tuhanmu
+ai tung hatop laho salpu do i
+dia ma ar ta na hot dingolumu,
+holongna polin na manongtong i,
+Ref: Ai ndang adong na hot di atas tano on
+nasa na uli lao salpu do i,
+holongni roha na hot na manongtong
+holan di Jesus do boi jumpang i.
+-
+Pangke tingkim unang ho marnalemba
+topoti urupi na dangol i
+sai marsinondang ma baen palitomu
+baen hasangapon di Tuhanta i.
+Ref: Ai ndang adong . . .
+-
+Halojaonmu diboto Tuhanta
+sian Ibana ro balos ni i,
+HolongNa ias na sinaburhonmu
+sai gotilonmu parbue ni i.
+Ref: Ai ndang adong . . .

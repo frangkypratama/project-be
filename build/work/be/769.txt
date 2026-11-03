@@ -1,0 +1,38 @@
+@be 769
+@bl 0
+@title Tu Debata do panghirimon
+@key C
+@meter 4/4
+@credit Syair: My Father watches over me; W.C. Martin · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Chas H. Gabriel
+@pages 837 838
+@status Lirik dicek · 8/12 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 2 (tano), 6 (Debatang ki), 8 (Ibana), 11 (na balga); scan dicek ulang, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 769) | https://bukuende.wordpress.com/2013/06/18/tu-debata-do-panghirimon-buku-ende-no-769-buku-logu-no-769/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0. Ayat rujukan tercetak: 1 Pet. 1: 21.
+@check Ketukan gantung awal (5 ½ + 6 5) dan refrein (5 ½ + 5 5) ditulis dengan diam ½ ketuk di depan.
+@check Birama sebelum "Refrein" tercetak "1̇ . 1̇" (balok: 1̇ panjang diikat ke 1̇ 1/8); ditulis 3 ketuk apa adanya angka. Not akhir tercetak "1̇ ." (balok tampak 1/2 bertitik).
+@check Angka "1 6 7 1" di refrein baris 2 tanpa titik atas; balok = C5 A4 B4 C5 → ditulis 1' 6 7 1'. "2 . 2" berikutnya: balok D5 → 2'.
+#A
+0+5 6+5 | 3 .+5 1'+7 2'+1' | (2 . 2)+3 4+5 |
+7 .+6 2+3 4+5 | (5 . 5)+5 6+5 | (3 . 3)+1' 2'+1' |
+(1' . 1')+1' 7+6 | 5+6 7+1' 1' 7 | (1' . 1') |]
+> Tu De-ba-ta do pang-hi-ri-mon-ki, di ta-no laut nang a-wang-a-wang i, I-ba-na do ha-po-san-ki, tong-tong do di ra-mo-ti lang-kang-ki.
+#B
+0+5 5+5 | 2' .+2' 3'+2' 2'+1' | (5 . 5)+1' 1'+1' | 1' .+1' 1'+6 7+1' | (2' . 2')+5 5+5 |
+(3' . 3')+1' 2'+1' | (1' . 1')+1' 7+6 | 5+6 7+1' 1' 7 | 1' . |]
+> To-rop pe ma-ra ma-na-ho-pi au, De-ba-tang ki do su-ma-ri-hon au, pos ro-hang-ki, so-nang do au I-ba-na do na man-do-nga-ni au.
+#V
+Tu Debata do panghirimonki,
+di tano laut nang awangawang i,
+Ibana do haposanki,
+tongtong do di ramoti langkangki.
+Ref: Torop pe mara manahopi au,
+Debatang ki do sumarihon au,
+pos rohangki, sonang do au
+Ibana do na mandongani au.
+-
+Amporiki nang bunga-bunga i,
+ro di sude na tinompaNa i,
+na metmet nang na balga i,
+Ibana do na marmuduhon i,
+Ref: Torop pe mara manahopi au . . .

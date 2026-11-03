@@ -1,0 +1,28 @@
+@be 314
+@bl 35
+@title Na salpu do arian i; hupuji
+@key Ab
+@meter 3/4
+@credit Johann Heerman 1630
+@pages 292
+@status Lirik dicek · 8/8 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — semua baris sama. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 314) | https://bukuende.wordpress.com/2013/06/16/na-salpu-do-arian-i-hupuji-buku-ende-no-314-buku-logu-no-35/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Komponis tercetak "Johann Heerman" (ejaan lazim: Johann Heermann).
+#A
+1 1 2 | 3 . 5 | (1 .+2) 3 | 2 . . v | 2 3 4 |
+5 . 3 | 2 . 2 | 1 . . v | 7, 7, 1 | (2 .+1) 7, |
+6, . 6, | 5, . . v | 1 2 3 | 4 . 3 | 2 . 2 | 1 . . |]
+> Na sal-pu do a-ri-an i; Hu-pu-ji Ho. De-ba-tang-ki! Ai sa-hat di bo-da-ri on tong-tong ba-saM di ha-mi on.
+#V
+Na salpu do arian i; Hupuji Ho. Debatangki!
+Ai sahat di bodari on tongtong basaM di hami on.
+-
+O Tuhan, sai asi rohaM! Tambai ma denggan ni basaM:
+Sai sesa nasa dosangki o Jesus, dohot mudarMi.
+-
+Ramoti au saborngin on huhut pasonang rohangkon;
+Sai dokkon ma suruanMi padaohon nasa mara i.
+-
+Dung na tarsunggul au muse manogot, sai paingot pe,
+Mamujimuji goarMi nang pararathon sangapMi.

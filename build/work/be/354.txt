@@ -1,0 +1,42 @@
+@be 354
+@bl 134
+@title Sai tong maimaima do
+@key F
+@meter 3/4
+@credit Lagu : Dora Rappard Gobat 1923
+@pages 334 335
+@status Lirik dicek · 9/11 baris sama dgn pembanding
+@check Pembanding lirik: beda: ayat 1 baris reff "Ro" (ejaan), ayat 2 baris 3 (buku hanya "Ro do muse Tuhanta i. d.u."; pembanding menulis reff lengkap). Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 354) | https://bukuende.wordpress.com/2013/06/18/sai-tong-maimaima-do-buku-ende-no-354-buku-logu-no-134/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot.
+@check Birama "3 . 2 2 0 3", "5 . 5 5 0" dan "6 . 5": garis atas ganda pada not kedua → 1/8 bertitik + 1/16 (3+.+.+2, 5+.+.+5, 6+.+.+5).
+@check Akhir bagian tercetak "4 3 0", "5 5 0", "2 1 0" (tanda diam 1/8 di not balok) lalu ketukan gantung 1/8; ditulis 0 penuh + ketukan gantung 0+1 / 0+5, sehingga pada ulangan ada tambahan ½ ketuk.
+@check Birama "4 3 0 :|" (hlm 335 atas): kepala not di not balok tampak lebih rendah dari Bes4–A4 (mungkin G4–F4); ditulis sesuai angka. Perlu cek manusia.
+@check Ayat 1 disusun dari lirik di bawah not; ayat 2 diakhiri "d.u." (ulang reff).
+#A
+0+1 | 1+3 5 .+3 | 3+.+.+2 2 0+3 | 4+6 5 .+2 |
+4 3 0 :|
+> Sai tong ma-i-ma-i-ma do ro-han-ta i di Je-sus.
+> I-ba-na ha-lu-a-on do. di ang-ka naung ti-no-bus.
+#B
+0+5 | 5+5 (1'+5) (3+1') | 5+.+.+5 5 0 :|
+> Ro do mu-se Tu-han-ta i,
+> Mar-do-ngan ha-sa-nga-pon i.
+#C
+0+5 |
+5 .+3 6+.+.+5 | 5 4 0+2 | 4+6 5 .+7, | 2 1 0 |]
+> Sai ro ma Ho, o Je-sus. Sai ro ma Ho, o Je-sus.
+#V
+Sai tong maimaima do rohanta i di Jesus.
+Ibana haluaon do. di angka naung tinobus.
+Ro do muse Tuhanta i, Mardongan hasangapon i.
+Sai ro ma Ho, o Jesus. Sai ro ma Ho, o Jesus.
+-
+Marlasniroha ma disi sudena naung tinobus;
+Masihol situtu do i di Jesus i partobus.
+Ro do muse Tuhanta i. d.u.
+-
+Satongkin nari nangkok be marhitehite ombun;
+Rap dohot Jesus lao sude tu surgo i marujung.
+Sai longang be do sasude di hasangapon i muse.
+:,: Di surgo, di na sonang.:,:

@@ -1,0 +1,33 @@
+@be 421
+@bl 281
+@title Marsomba au di joloMon.
+@key E
+@meter 6/8
+@credit Ev. S. No. 148 · Lagu: Eliza H. Hamilton
+@pages 403 404
+@check Birama 6/8: 1 token = 1 not 1/8 (angka bergaris atas di buku = not 1/8 kedua dalam kelompok "3.3̄").
+@check Birama "1. 1. 1̄" dan "3. 3. 5̄": angka buku kurang jelas; ditulis menurut not balok (1/4 bertitik diikat ke 1/4, lalu 1/8) → "(1 . . 1 .) 1". Birama akhir "1 . . 1 ." (ikatan) juga menurut not balok.
+@check Ayat 2–4 di buku diakhiri "Sai..." = ulangi bagian "sai jangkon ma au on ... dijangkon Ho au on." dari ayat 1.
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 1 ("di" tambahan; sesuai suku kata di bawah not) dan 5 ("au au on"); baris 5 dicek ulang ke scan: tercetak "au au on". Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 421) | https://bukuende.wordpress.com/2013/06/16/marsomba-au-jolomon-buku-ende-no-421-buku-logu-no-281/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 3 . 3 3 . 4 | 3 . 2 1 . 3 | 5 . 5 5 . 6 |
+5 . 2 3 . 5 | 6 . 6 (6 7) 1' | 5 . 5 3 . 1 | 3 . 4 3 . 2 |
+(1 . . 1 .) 1 | 3 . 3 3 . 2 | (1 . . 1 .) 3 | 5 . 5 5 . 4 | (3 . . 3 .) 5 |
+6 . 6 (6 7) 1' | 5 . 5 3 . 1 | 3 . 4 3 . 2 | (1 . . 1 .) |]
+> Mar-som-ba au di jo-lo-Mon, pon-jot, tar-go-got ro-hang-kon, di-baen go-dang ni do-sang-kon, sai jang-kon do-hot au, sai jang-kon ma au on, na ra-mun di-ring-kon, tung pos do ro-hang-ki di Ho, di-jang-kon Ho au on.
+#V
+Marsomba au di joloMon, ponjot, targogot rohangkon,
+dibaen godang ni dosangkon, sai jangkon dohot au,
+sai jangkon ma au on, na ramun diringkon,
+tung pos do rohangki di Ho, dijangkon Ho au on.
+-
+Ndang haurupan au au on, na busuk nama rohangkon,
+Alai hutangkup hatamon : Sai ro ma ho tu Au. Sai...
+-
+Na ganggu jotjot rohangki, na denggan, ndang huula i,
+Tung sada haporusanki : Tu Ho nama au ro. Sai...
+-
+Ndang boi denggan be diringki, sai baen imbaru rohangki,
+Tung tuk Ho patupahon i, umbaen tu Ho au ro. Sai...

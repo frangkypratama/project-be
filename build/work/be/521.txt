@@ -1,0 +1,35 @@
+@be 521
+@bl 358
+@title Sambulom, sambulom
+@key D
+@meter 4/4
+@credit R.L. No. 561 · Lagu: Karl Fridrich Paulus 1893
+@pages 492 493
+@check Birama 4 dicetak "3 . 2" (garis atas pada 2 tidak ada) sehingga birama jadi 5 ketuk; ditulis 3 bertitik + 2 (½) agar 4 ketuk, sesuai pola yang sama di birama "5 . 4̄ 3 2".
+@check Birama 3 baris 2 dicetak "5 . 4 3 2" tanpa garis atas pada 4; di bagian kedua (hlm 493) pola yang sama memakai 4̄ (½) → ditulis 5 bertitik + 4 (½).
+@check Hlm 493: titik oktaf pada "1" di "1 . 5̄ 3 1 | 1 6 4 6" tidak tercetak/terbaca; not balok menunjukkan D5 → ditulis 1'.
+@check Akhir ayat 2 dan 3 dicetak "Nunga ro....." / "Sambulom....." (tanda mengulang baris pertama); tidak ada tanda ulang pada not.
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 8 dari 10 baris sama; baris 2, 6 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 521) | https://bukuende.wordpress.com/2013/06/18/sambulom-sambulom-buku-ende-no-521-buku-logu-no-358/ | Pembanding lirik (tanda baca diabaikan).
+#A
+5 .+1' 7 .+0 | 4 .+6 5 .+0 | 6 .+7 1' 3 | (3 .+2) (3 4) |
+5 .+5 5 1' | 1' 6 4 6 | 5 .+4 3 2 | 1 . . |
+> Sam-bu-lom, sam-bu-lom, u-nang tun-dal i! An-di-gan song-gop ha-ro-roM lao man-ja-la-hi i
+#B
+3 | 3 .+3 3 6 | 6 .+#5 #5 #5 | 6 .+6 7 1' |
+2' . . 7 | 1' .+5 3 1' | 1' 6 4 6 | 5 .+4 3 2 | 1 . . . |]
+> Di ta-no on mar-da-ngol Ho, di ha-do-sa on-mi. Lam ho-lang ga-nup a-ri do ho si-an sur-go i
+#V
+Sambulom, sambulom, unang tundal i! Andigan songgop haroroM lao manjalahi i
+Di tano on mardangol Ho, di hadosa onmi. Lam holang ganup ari do ho sian surgo i
+-
+Nunga ro, nunga ro Sipartogi i!
+Sai tong dielehelek ho: di au ma rohami.
+Topoti sasude dosam tu Sipangolu i!
+Sandok taruli ma roham di pangkophopNa i. Nunga ro.....
+-
+Sambulom lam tullom tataponmu da!
+Ai lam donok do sambulom dibahen Debata.
+Pasolhot ho tu Jesus i, sai baen sude gogom.
+TogihononNa ho muse manaek tu sambulom. Sambulom.....

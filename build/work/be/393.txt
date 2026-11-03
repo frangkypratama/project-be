@@ -1,0 +1,33 @@
+@be 393
+@bl 262
+@title Las ni roha bolon i.
+@key G
+@meter 4/4
+@credit Eigenbeitrag
+@pages 377
+@check Kepala lagu juga mencetak "Jug. L. No. 69".
+@check Legato "5 5", "7 7" = not sama diikat (satu suku kata).
+@status Lirik dicek · 11/11 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 393) | https://bukuende.wordpress.com/2013/06/16/las-ni-roha-bolon-i-buku-ende-no-393-buku-logu-no-262/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, .+6, 6, 1 | 1 7, (5 5) | 6 .+5 3 1 | 7, 6, (7, 7,) |
+5, .+6, 6, 1 | 1 7, (7, 6,) | 5, .+6, 6, 1 | 1 7, 5 . |
+6 .+5 3 1 | 2 1 (1 6,) | 5, 1 4 3 | 3 .+2 1 0 |]
+> Las ni ro-ha bo-lon i, i do na hu-bo-an i, tung mar-tu-a do-hot au, dung nang au tu Je-sus lao. Nang ha-mu-na, do-ngan-ki, di-pa-so-nang Je-sus i.
+#V
+Las ni roha bolon i, i do na huboan i,
+Tung martua dohot au, dung nang au tu Jesus lao.
+Nang hamuna, donganki, dipasonang Jesus i.
+-
+Tung na holom rohamu di baen angka dosamu,
+Jangkon Jesus tu roham, gabe sesa nang dosam. Nang...
+-
+Ungutungut hatami angka taon na salpu i.
+Hape Jesus ro tu ho, tu Ibana hatop ro! Nang....
+-
+Suhisuhi ni roham na holom dibaen dosam,
+Gabe marsinondang do, ai Tuhanmu ro tu ho. Nang...
+-
+Arsak nang saritami hatop ma maporus i.
+Las ni roha jambarmi, Sai haposi Tuhan i. Nang ....

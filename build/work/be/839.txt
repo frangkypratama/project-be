@@ -1,0 +1,31 @@
+@be 839
+@bl 0
+@title Uli ni tingki i
+@key D
+@meter 4/4
+@credit Syair & Lagu : In His Time: Diane Bau · Terj. : Pdt. J. A. U. Doloksaribu
+@pages 930 931
+@status Lirik dicek · 8/9 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 kata 1: buku mencetak 'parrohaj' (kemungkinan salah cetak 'parrohai'), ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 839) | https://bukuende.wordpress.com/2013/06/18/uli-ni-tingki-i-buku-ende-no-839-buku-logu-no-839/ | Pembanding menyebut Buku Logu No. 839; buku tidak mencetak nomor Logu.
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan). Kepala lagu mencantumkan "Parj. 3 : 11 + 12".
+@check Not bertali (tie) melintasi garis birama (2 . . . | 2, 1 . . . | 1, 5 . . . | 5) ditulis sebagai legato; ayat 1 hanya tercetak di bawah not.
+#A
+1 3 | (2 . . . | 2) . 7, 2 | (1 . . . |
+1) . 3 5 | 4 4 4 4 | 4 . 4 6 |
+(5 . . . | 5) . 4 5 | 6 6 6 4 |
+2 . 3 4 | 5 5 5 3 | 1 . 2 3 |
+4 4 4 2 | 7, . 1 2 | (1 . . . | 1) . |]
+> Deng-gan ni ting-ki i, i ma ting-ki ha-le-he-tan na i sa-lu-hut na tung deng-gan di baen Ho o Tu-han-ki, na mam-baen las ro-ha ni bang-so-Mi.
+#V
+Denggan ni tingki i, i ma tingki halehetan na i,
+saluhut na tung denggan di baen Ho o Tuhanki,
+na mambaen las roha ni bangsoMi.
+-
+Uli ni tingki i, molo jumpang tingki ni Tuhan i,
+parrohaj ma au Tuhan mangantusi dalanMi,
+asa tarpatupa au lomoMi.
+-
+Sonang ni tingki i, molo jumpang ari ni Tuhanki,
+lehon tondiMi Tuhan gohi roha tondingki,
+lao mambaen na denggan tu dongan i.

@@ -1,0 +1,40 @@
+@be 38
+@bl 189
+@title Paruak ma harbangan i
+@key F
+@meter 3/4
+@credit J.A. Freylinghausen, 1704
+@pages 31 32
+@check Nama komponis tercetak "Freyl Inghausen 1704" (lazimnya Johann Anastasius Freylinghausen).
+@check Garis birama antara "4 . 3" dan "2 . ." tidak tercetak di buku; ditambahkan sesuai sukat 3/4.
+@check "pa-suang" dibaca 3 suku kata (pa-su-ang) agar pas dengan jumlah not.
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 13 dari 16 baris sama persis; 3 baris beda ejaan (“Ipe”, situs dipisah). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 38) | https://bukuende.wordpress.com/2013/06/16/paruak-ma-harbangan-i-buku-ende-no-38-buku-logu-no-189/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0 0 3 | 5 . 4 | 3 . 2 | (1 2) 3 | 2 . v 5 | 4 . 4 |
+3 . 3 | (2 1) 2 | 1 . v 3 | 2 . 2 | (3 #4) 5 | (5 6) #4 | 5 . v 2 |
+3 . 2 | (3 #4) 5 | (5 6) #4 | 5 . v 5 | 6 . 5 | 6 . 5 | (6 5) v 4 |
+3 . v 5 | 6 . 5 | 6 . 5 | (6 5) 4 | 3 . v 5 | 1 . 1 |
+4 . 3 | 2 . . | 0 0 5 | 4 . 3 | (2 1) 2 | 1 . . |]
+> Pa-ru-ak ma har-ba-ngan i, ai nu-nga ro Ra-jan-ta i, si-gom-gom ra-ja sa-su-de, si-to-bus ha-jol-ma-on pe, si-bo-an ha-tu-a-on i, pa-su-ang ha-so-na-ngan i, i-pe ta-pu-ji ma Tu-han-ta De-ba-ta!
+#V
+Paruak ma harbangan i, ai nunga ro Rajanta i,
+Sigomgom raja sasude, sitobus hajolmaon pe,
+Siboan hatuaon i, pasuang hasonangan i,
+Ipe tapuji ma Tuhanta Debata!
+-
+Na sun tigor do roha ni na ro tumopot jolma i;
+Ai Raja na badia do huhut parasiroha do.
+Pabalionna do sude na mangarsahi hita be.
+Ipe tapuji ma Tuhanta Debata!
+-
+Martua luat, huta pe, dung jinangkonna Raja i;
+Rohanta pe sai sonang do dung masuk Raja i, naung ro;
+Ai tiur do rohanta i, Dung ro panondang i tusi;
+Ipe tapuji ma Tuhanta Debata!
+-
+O Jesus, ro ma Ho tuson, ai naung huungkap rohangkon
+Patongon asi ni rohaM, patolhas denggan ni basaM
+Tu au marhite TondiMi: Togihon au tu surgo i,
+Ai naeng tongtong disi hupuji goarMi.

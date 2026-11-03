@@ -1,0 +1,31 @@
+@be 56
+@bl 139
+@title Sai ro ma hamuna
+@key A
+@meter 2/4
+@credit John Francis Wade 1751
+@pages 48 49
+@status Lirik dicek · 2/6 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 2,4,5,6 ("Idadakdanak" dipisah di pembanding; "d.u." ditulis lengkap di pembanding; "pujuionku"). Pembanding memuat 4 ayat — ayat 2 yang tidak tercetak di scan ada di pembanding. Buku tetap acuan.
+@check Nada dasar dari tanda mula 3 kres dan letak not 1 (A4) di paranada → do = A.
+@check Ayat 2 tidak tercetak: hlm 48 hanya memuat ayat 1 di bawah not, hlm 49 mulai dengan ayat 3. Perlu dicek di cetakan lain.
+@check "I" pada "I-ba-na" baris terakhir ditahan dua not (1 lalu 7,) tanpa legato → ditulis "I _".
+@check Ayat 3–4 diakhiri "d.u." (dan seterusnya) — refrein "Tasomba ma Ibana" diulang seperti ayat 1.
+@check Melodi kemungkinan ADESTE FIDELES (belum dibandingkan dengan sumber melodi).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 56) | https://bukuende.wordpress.com/2013/06/18/sai-ro-ma-hamuna-buku-ende-no-56-buku-logu-no-139/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+1 | 1 5,+1 | 2 (5,+5,) | 3+2 3+4 |
+3 2+1 | 1 7,+6, | (7,+1) 2+3 | (7, 6,)+.+.+5, |
+5, .+0 | 5 4+3 | 4 3 | 2+3 1+2 | (7,+.+.+6,) 5,+1 |
+1+7, 1+2 | 1 5,+3 | 3+2 3+4 | 3 2+3 |
+4+3 2+1 | 7,+1 2 | (3 2)+.+.+1 | 1 . |]
+> Sai ro ma ha-mu-na ang-ka na por-se-a. Sai ro ma ha-mu-na tu Bet-le-hem. I-da-dak-da-nak, Si-pa-lu-a hi-ta. Ta-som-ba ma I-ba-na. Ta-som-ba ma I-ba-na. Ta-som-ba ma I _ ba-na. Ra-jan-ta.
+#V
+Sai ro ma hamuna angka na porsea. Sai ro ma hamuna tu Betlehem.
+Idadakdanak, Sipalua hita. Tasomba ma Ibana. Tasomba ma Ibana. Tasomba ma Ibana, Rajanta.
+-
+Hamuna suruan, puji ma Jahowa, rap dohot sude na martua i.
+Sangap di Tuhan Debata di surgo! Tasomba ma Ibana, d.u.
+-
+O Jesus, Tuhanku sai naeng pujuionku, pambaenMu di ahu pardosa on;
+Ai gabe jolma Ho humophop ahu. Tasomba ma Ibana, d. u.

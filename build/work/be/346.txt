@@ -1,0 +1,45 @@
+@be 346
+@bl 217
+@title Adong dope paradianan
+@key Eb
+@meter 3/4
+@credit Lagu : Karl Friedrich Ellwanger 1855
+@pages 326 327
+@status Lirik dicek · 18/19 baris sama dgn pembanding
+@check Pembanding lirik: beda: ayat 3 baris 4 "Di dokkon" (pembanding satu kata). Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 346) | https://bukuende.wordpress.com/2013/06/05/adong-dope-paradianan-buku-ende-no-346-buku-logu-no-217/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot.
+@check Ayat 1 disusun dari lirik di bawah not; "ha-mo- nangan" tercetak tanpa pemenggalan penuh (ditulis ha-mo-na-ngan).
+#A
+5 | (5 .+4) 3 | 6 . 5 | 4 . 3 | 3 2 v 5 |
+(6 .+7) (1'+6) | 5 . 4 | 3 . 2 | 1 . :|
+> A-dong do-pe par-a-di-a-nan, ro-hang-ku go-lom ha-ta i!
+> Be-a-sa ho tong-tong hol-so-an, bi-naen ni ha-lo-ja-on mi?
+#B
+3 | 3 . 2 | 2 . 3 | 4 . 3 | 3 2 v 3 | 3 . 2 | 2 . 3 |
+4 . 3 | 3 2 v 5 | (1' 7) 6 | (5 .+6) (5+4) | 3 . 2 | 1 . :|
+> Sai be-reng ma par-tu-a-on-mu. I ma Je-sus ha-ngo-lu-an-mu; ha-top mar-lo-jong ho tu-si!
+> Ti-bu mar-u-jung par-a-lo-an, ti-bu do da-pot ha-mo-na-ngan, pa-re-ak ma tu sur-go i!
+#V
+Adong dope paradianan, rohangku golom hata i!
+Beasa ho tongtong holsoan, binaen ni halojaon mi?
+Sai bereng ma partuaonmu. I ma Jesus hangoluanmu; hatop marlojong ho tusi!
+Tibu marujung paraloan, tibu do dapot hamonangan, pareak ma tu surgo i!
+-
+Naung dipadiri Debatanta adian salelengna i;
+Soada dope jolma sada, nunga rade adian i.
+Ai mate di hau pinarsilang do Jesus, asa hita sonang
+Lao masuk tu adian i. "Antong hamu sude na loja,
+Sai ro hamu" didok Tuhanta, "Bongoti hasonanganki!"
+-
+I pe hamu na marsak roha, manaoni halojaon i,
+Padirgak be ma ulumuna, ndang jadi be hamu tungki!
+Ditaon hamu do hasusaan, ro ma hamu tu hasonangan,
+Di dokkon Tuhan Jesus i : hamu do bangso ni Debata;
+Sibolis i do hona hata, naung talu do musunta i.
+-
+Na maradian nama hita di lambung ni Tuhanta i;
+Mardame jala sonang hita tongtong di ingananNa i.
+Itapadoras ma langkanta, mareak bagas ni Tuhanta
+Ndang jadi lilianan be. Sai beta hita, ale dongan
+Marlojong ma tu hamonangan. Jonok do hasonangan i.

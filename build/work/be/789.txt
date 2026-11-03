@@ -1,0 +1,48 @@
+@be 789
+@bl 0
+@title Lului hamu harajaon ni Debata
+@key D
+@meter 2/4
+@credit Syair dan lagu: Seek ye first, Karen Lafferty, 1972 · Terj.: Pdt. J.A.U. Doloksaribu
+@pages 863 864 865
+@status Lirik dicek · 13/14 baris sama dgn pembanding
+@check Pembanding lirik: refrein: buku mencetak 5× "haleluya" (20 suku kata = 20 not), pembanding 4×. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 789) | https://bukuende.wordpress.com/2013/06/16/lului-hamu-harajaon-ni-debata-buku-ende-no-789-buku-logu-no-789/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Di kepala lagu tercetak rujukan "Mat. 6:33, 7:7; 4:4".
+@check Tanda mula 2 kres (D mayor), birama 2/4; not 1 = D4.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari suku kata di bawah not.
+#A
+3 3+4 | 5 3+2 | 1+6, 1+2 | 3 . |
+4 5+4 | 3 4+3 | 2 . | 5 . |
+3 3+4 | 5 3+2 | 1+6, 1+2 |
+3 . | 4 5+4 | 3 4+3 | 2 . | 1 . |]
+> Lu-lui ha-mu ha-ra-jaon ni De-ba-ta, rap do-hot ha-ti-gor-an-Na, tam-ba-ho-non-na ma on-deng tu ha-mu, Ha-le-lu-ya, Ha-le-lu-ya.
+#B
+1' . | 7 . | 6 . | 5 0 | 6 . | 5 . |
+(5 6) | (7 5) | 1' . | 7 . | 6 . |
+5 0 | 4 5+4 | 3 4+3 | 2 . | 1 . |]
+> Ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, Ha-le-lu-ya.
+#V
+Lului hamu harajaon ni Debata,
+rap dohot hatigoranNa,
+tambahononna ma ondeng tu hamu,
+haleluya, haleluya.
+Ref.: Haleluya, haleluya, haleluya, haleluya, haleluya.
+-
+Pangido ma sai na lehononNa do.
+lului ma sai na jumpang,
+tuktuhi ma sai na ungkaponNa do,
+haleluya, haleluya.
+Ref.: Haleluya ...
+-
+Ndada holan sipanganon na ringkot,
+baen hangoluan ni jolma,
+tung nasa hata ni Debatanta do,
+haleluya, haleluya.
+Ref.: Haleluya ...
+-
+Dua manang tolu halak pe hamu.
+pungu marhite goarNa,
+Tuhanta Jesus ditongatongaMu,
+haleluya, haleluya.
+Ref.: Haleluya ...

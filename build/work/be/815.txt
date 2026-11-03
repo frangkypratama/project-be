@@ -1,0 +1,38 @@
+@be 815
+@bl 0
+@title Uli do tingki na hohom
+@key D
+@meter 6/8
+@credit Syair: Sweet Hour of Prayer, William Walford 1842 · Terj.: Biv. M.H. Sitorus · Lagu: William Batchel Bradbury, 1859
+@pages 898 899
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 ("jolo ni habangsani", pemisahan kata dari lirik di bawah not), baris 3 kata 7 ("apuli"; di bawah not tercetak "di a puli"), baris 9 kata 9 ("pangidoangki", jelas di scan hlm 899) beda → buku tetap. Ayat 1 disusun dari lirik di bawah not.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 815) | https://bukuende.wordpress.com/2013/06/18/uli-do-tingki-na-hohom-buku-ende-no-815-buku-logu-no-815/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Ayat rujukan tercetak: "Ul. 3 : 1".
+@check 6/8: satu angka/titik = 1/8 (dibaca bersama balok).
+@check Baris terakhir birama 1 "6 . 7 1 . 6": angka 1 tanpa titik atas, balok D5 → ditulis 1'.
+@check Birama akhir tercetak "3 . 2 1" (4/8); balok F#4 1/4, E4 1/8, D4 1/4 → ditulis 3 . 2 1 . (5/8, melengkapi ketukan gantung 1/8).
+@check Baris 4 birama 3 "5 . 3 2 . 1": balok tampak A–F#–E–D dengan bendera 1/8 pada E; ditulis sesuai angka.
+#A
+1 | 3 . 4 5 . 5 | 6 . 7 1' . 6 | 5 . 3 (3 2) 1 |
+2 . 3 2 . 1 | 3 . 4 5 . 5 | 6 . 7 1' . 6 |
+5 . 3 (3 2) 1 | 3 . 2 1 . 5 | 1' . 7 1' . 6 |
+5 . 3 5 . 5 | 1' . 7 1' . 6 | 5 . 3 2 . 1 | 3 . 4 5 . 5 |
+6 . 7 1' . 6 | 5 . 3 (3 2) 1 | 3 . 2 1 . |]
+> U-li do ting-ki na ho-hom di jo-lo ni ha-bang-sa ni, A-mang-hu na ra-de tong-tong man-ja-lo pa-ngi-do-an-hi ai di na mar-sak ro-hang-ki sai di a-pu-li ton-ding-ki ma-lu-a si-an jor-gong i di-ting-ki mar-ta-ngi-ang i.
+#V
+Uli do tingki na hohom di jolo ni habangsani,
+Amanghu na rade tongtong manjalo pangidoanhi
+ai di na marsak rohangki sai di apuli tondingki
+malua sian jorgong i ditingki martangiang i.
+-
+Uli do tingki na hohom, sonang martua rohangkon,
+tongtong masihol rohangkon, lao martangiang na hohom
+Au raphon na badia i, sai naeng marnida bohiMi
+Tuhanku Sipartobus i, ditingki martangiang i.
+-
+Uli do tingki na hohom, pasahat pangidoangki
+tu Debata na bonar i, Sitangihon tangiang i,
+Di na huida bohiMi porsea au dihataMi,
+tompas holso ni rohangki, ditingki martangiang i.

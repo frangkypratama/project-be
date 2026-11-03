@@ -1,0 +1,47 @@
+@be 726
+@bl 0
+@title Hamu jinou ni Tuhanta
+@key Eb
+@meter 4/4
+@credit Syair & Lagu: Pdt. J.A.U. Doloksaribu, 1986
+@pages 769 770
+@status Lirik dicek · 6/13 baris sama dgn pembanding
+@check Bagian suplemen; ayat bacaan 1 Pet. 2 : 9-10. Tidak ada nomor "Logu No." di buku → @bl 0.
+@check Kedua bagian diulang dengan volta 1/2. Format belum mendukung volta: bagian A memakai volta 1 ("1 . . 0", baris 2 juga dinyanyikan di sini; volta 2 di buku "1 . 0" lalu ketukan gantung 1̇); bagian B memakai volta 2 ("1 . . 0"; volta 1 di buku "1 . 1̄" dengan 1 seperdelapan sebagai ketukan gantung ulang).
+@check Ketukan gantung bagian B (tiga seperdelapan Es5: "Di-dok Tu-") ditulis "0+1' 1'+1'"; titik atas tidak tercetak pada "1 1" baris 5, balok = Es5.
+@check Suku kata "i," di volta 2 bagian A tercetak di baris lirik 1, dimasukkan ke baris lirik 2 (lintasan kedua).
+@check Akhir: "6 ‿. 1̇ . | 1̇ . 1̇" (A-men); birama terakhir hanya 2½ ketuk seperti tercetak.
+@check Pembanding lirik: 7 baris beda, terutama pemisahan kata pada teks ayat 1 yang disusun dari lirik di bawah not (denggan basaNa, Nabadia, tarrante, dll.). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 726) | https://bukuende.wordpress.com/2013/06/13/hamu-jinou-ni-tuhanta-buku-ende-no-726-buku-logu-no-726/ | proofreading per baris
+#A
+5 5+5 5+5 5+6 | (6+.+.+5) 5 .+3 3+2 |
+1+1 . 2+.+.+1 2+3 | 3 . 0+3 3+2 |
+1+1 .+1 2+.+.+1 2+3 | 3 . 0+3 3+2 |
+1+1 .+3 2+.+.+3 (2+1+2)+1 | 1 . . 0 :|
+> Ha-mu ji-no-u ni Tu han-ta, si-an na ho-lom, tu na ti-ur i la-o man-ja-lo deng-gan ba-sa-Na i la-o man-ja-lo deng-gan-ba-sa-Na i.
+> Ha-mu do mar-ga pi-ni-lit-Na, bang-so ni Tu-han, Na-ba di-a i ho-um nang ma lim pi-na-bang kit-Na i ma ma-ri-ta-hon deng-gan-ba sa-Na i,
+#B
+0+1' 1'+1' | 2' .+1' 1'+6 5+5 |
+(3+.+.+5) 5 0+5 5+3 | 6 .+5 2+3 5+5 |
+(3 6) 5+1' 1'+1' | 2' .+1' 1'+6 5+5 |
+3+.+.+5 5 0+5 5+3 | 6 .+5 2+5 3+2 |
+1 . . 0 :|
+> Di-dok Tu-han-ta do tu Hu-ri-a-Na po-dai ha-mu ma sa-lu-hut-na bang-so, bo-an ha-mu ma ba-ri-ta-na u-li i tu sa-lu-hut na na ti-nom pa i.
+> U-ru-pi hi-ta ma ang-ka na po-gos pa-lu-a ang-ka jol-ma na tar-ran-te, a-pu-li hi-ta ma ang-ka na mar-sak i ta-baen mar-ni-da na ma-pi-tung i.
+#C
+(6 . 1' .) | (1' . 1') |]
+> A-men.
+#V
+Hamu jinou ni Tuhanta, sian na holom,
+tu na tiur i lao manjalo denggan basaNa
+i lao manjalo dengganbasaNa i.
+Hamu do marga pinilitNa, bangso ni Tuhan,
+Nabadia i houm nang malim pinabangkitNa
+i mamaritahon dengganba saNa i,
+Didok Tuhanta do tu HuriaNa
+podai hamu ma saluhutna bangso,
+boan hamu ma baritana uli i tu saluhut na natinompa i.
+Urupi hita ma angka na pogos
+palua angka jolma na tarrante,
+apuli hita ma angka na marsak i
+tabaen marnida na mapitung i. Amen.

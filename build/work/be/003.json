@@ -1,0 +1,59 @@
+{
+ "be": 3,
+ "bl": 137,
+ "title": "Puji Jahowa, ale tondingku",
+ "key": "Eb",
+ "meter": "3/4",
+ "credit": "J.A. Freylinghausen, 1664",
+ "pages": [
+  3
+ ],
+ "checks": [
+  "Baris terakhir, birama “1 2 . 3”: titik di antara 2 dan 3 tidak konsisten dengan not balok buku (tiga not 1/4) — dibaca 1 2 3.",
+  "Ketukan terakhir: scan menulis “1 .”, not balok buku not 1/2 bertitik — dipakai 3 ketukan.",
+  "Pembanding lirik: bukuende.wordpress.com — 6 dari 9 baris sama persis; 3 baris beda (ayat 2 baris 3 “haposangki”; ayat 3 baris 1 “ni niendingan”; ayat 3 baris 3 “ndang”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku."
+ ],
+ "sections": [
+  {
+   "notes": "1 5, 1 | 1 .+7, 1 | (2 3) 4 | 3 . . | 2 . 0 |\n2 2 3 | 4 .+3 2 | 3 . 2 | 1 . . :|",
+   "rows": [
+    "Pu-ji Ja-ho-wa, a-le ton-ding-ku, Pu-ji I-ba-na De-ba-ta-mi.",
+    "Ta-gan so su-da do-pe bo-hal-hu, Naeng pu-ji-on-ku ba-sa-na i."
+   ]
+  },
+  {
+   "notes": "2 3 2 |\n(1 .+2) 7, | 6, . 6, | 5, . 0 | 5, 5, 5, | 1 . 1 | (2 .+3) 4 |\n3 . 0 | 1 2 3 | (4 .+5 6) v | 5 (3+1) 2 | 1 . . |]",
+   "rows": [
+    "Si-tom-pa da-ging, ton-di pe ing-kon di-pu-ji sa-su-de, Ha-le-lu-ya, Ha-le-lu-ya!"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Puji Jahowa, ale tondingku, Puji Ibana Debatami.",
+   "Tagan so suda dope bohalhu, Naeng pujionku basana i.",
+   "Sitompa daging, tondi pe ingkon dipuji sasude,",
+   "Haleluya, Haleluya!"
+  ],
+  [
+   "Tubu ni jolma do nang na sangap jala na mulak tu tano i,",
+   "Tahitahina pe laho do monjap molo dibondut tanoman i.",
+   "Ndang jolma hasonanganki, Debata do haposangki.",
+   "Haleluya! Haleluya!"
+  ],
+  [
+   "Martua halak ni niendingan ni Debatanta Jahowa i,",
+   "Angka na hot marhaporseaon di Jesus Kristus Tuhanta i.",
+   "Molo Debata donganmu ndang ndong hurang tuamu.",
+   "Haleluya! Haleluya!"
+  ]
+ ],
+ "status": "Lirik dicek · 6/9 baris sama dgn pembanding",
+ "refs": [
+  {
+   "t": "Lirik pembanding: bukuende.wordpress.com (BE 3)",
+   "u": "https://bukuende.wordpress.com/2013/06/16/puji-jahowa-ale-tondingku-buku-ende-no-3-buku-logu-no-137/",
+   "n": "Pembanding lirik (ejaan tanda baca diabaikan)."
+  }
+ ]
+}

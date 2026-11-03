@@ -1,0 +1,52 @@
+@be 350
+@bl 188
+@title Hatiha na so salpu be (II)
+@key Eb
+@meter 4/4
+@credit Lagu : Johann Schop 1642
+@pages 330
+@status Lirik dicek · 21/24 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan: "dibuat" (ayat 1), "soggop" (ayat 3), "Dina" (ayat 6). Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 350) | https://bukuende.wordpress.com/2013/06/13/hatiha-na-so-salpu-be-buku-ende-no-350-buku-logu-no-188/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot. Buku hanya mencetak teks dengan keterangan "Logu No. 188 : Songon ende No. 349"; notasi diambil dari BE 349 (hlm 329) dan ayat 1 dipasangkan pada melodinya. Judul: baris pertama sama dengan BE 349, diberi "(II)" untuk membedakan.
+@check Pemasangan ayat 1: "marlaok" dipenggal mar-laok, "Diapul" Di-a-pul agar sesuai jumlah not. Perlu dicek penyanyi/manusia.
+#A
+1 . 3 4 | 5 . 5 . | 6 7 1' . |
+0 1 3 4 | 5 . 5 . | 4 3 2 . | 0 3 3 1 |
+4 3 2 . | 1 . . . :|
+> Ha-ti-ha na so sal-pu be, na las do ro-hang-ki ta-he, Di-a-pul Ho ro-hang-ku,
+> ha-ti-ha las ni ro-ha i, Na so mar-laok na han-sit i di-bu-at ho ar-sak-ku,
+#B
+0 5 2 3 | 4 4 3 3 |
+2 . 0 5 | 6 7 1' . | 1 . 2 2 | 1 . . . |]
+> Na song-gop tu ro-hang-ki-non sa-le-leng au di ta-no on.
+#V
+Hatiha na so salpu be, na las do rohangki tahe,
+Diapul Ho rohangku, hatiha las ni roha i,
+Na so marlaok na hansit i dibuat ho arsakku,
+Na songgop tu rohangkinon saleleng au di tano on.
+-
+Ai hasangapon tano on sai na marujung do tongtong
+Di ujung ni luhutna; alai na masa sogot i,
+Ndang dung marujung anggo i saleleng ni lelengna.
+Ndang dung be mago jolma i na lao tu hasangapon i.
+-
+Hatiha na so salpu i, di na hutaon na porsuk i.
+Huboto do ujungna. Dibahen i tarapul do
+Rohangku mamingkiri ho, Ho do hasonanganna,
+Ai sasude na hansit i, satongkin nama soggop i.
+-
+Mangolu do di surgo i saluhut halak Kristen i
+Saleleng ni lelengna marendeende do sude,
+Dipalu hasapina be, mamuji Debatana.
+Nang manna, na buni disi dilehon Tuhan Jesus i.
+-
+Dihalungunhon rohangkon, na loja di portibi on,
+Ho ngolu hasonangan, andigan sahat au tahe
+Tu hasangapon i muse, na di banuaginjang?
+Huhalupahon tano i, mangkasiholi surgo i.
+-
+Hatiha na so salpu i, Ho halalas ni rohangki,
+Pangapul di rohangku! Hatiha hasonangan i,
+Dina hupingkir ariMi, maporus do arsakku.
+O Jesus, paima sahat au, paian siholhi di au!

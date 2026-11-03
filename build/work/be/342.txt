@@ -1,0 +1,39 @@
+@be 342
+@bl 222
+@title Ngot ma ho dijou soara
+@key C
+@meter 4/4
+@credit Lagu : Phillip Nicolai 1599
+@pages 321 322
+@status Lirik dicek · 13/14 baris sama dgn pembanding
+@check Pembanding lirik: beda: ayat 3 baris 2 "umuli" (ejaan). Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 342) | https://bukuende.wordpress.com/2013/06/16/ngot-ma-ho-dijou-soara-buku-ende-no-342-buku-logu-no-222/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende taringot tu na masa sogot. Reff birama 2: angka tercetak "1 . ' 5" (3 ketuk) tetapi not balok C4 bertitik (½ bertitik) → ditulis 1 . . v 5.
+#A
+1 3 | 5 5 5 5 | 6 . 5 . | 0 5 1' 5 |
+1' 3' 2' 1' | 2' . 5 . | 0 5 1' 5 | 6 3 4 2 |
+1 . . . :|
+> Ngot ma ho di-jou so-a-ra ni ang-ka si-pa-bo-a ma-ra, sai ngot ma ho, Je-ru-sa-lem!
+> To-nga bor-ngin do om-bas-na, ha-mu par-ba-ju na mar-ro-ha, sai u-nang ma ha-mu pe-dem.
+#B
+0 5 | 5 4 3 2 | 1 . . v 5 | 5 4 3 2 |
+1 . v 2 3 | 4 . 3 v 5 | 6 7 1' v 1' |
+3' 2' 1' . | 0 5 1' 5 | 6 3 4 2 | 1 . |]
+> Naeng ro pa-ngo-li i! Pa-ga-lak lam-pu i! Ha-le-lu-ya! Mar-ho-bas be, ha-mu su-de, tu ha-sam-pu-ran re-a i.
+#V
+Ngot ma ho dijou soara ni angka sipaboa mara, sai ngot ma ho, Jerusalem!
+Tonga borngin do ombasna, hamu parbaju na marroha, sai unang ma hamu pedem.
+Naeng ro pangoli i! Pagalak lampu i! Haleluya!
+Marhobas be, hamu sude, tu hasampuran rea i.
+-
+Dung dibege Sion hata ni angka na marhal hutana
+Mamintor las rohana i, ai jonok alealena,
+Pargogo di hasintonganna, na binsar do bintangna i.
+O Jesus na burju sai roma Ho tibu! Hosianna!
+Mangihut be do on sude tu halalas ni rohaMi.
+-
+Sangap huendehon hami di Ho, o Jesus, Tuhannami,
+Mardongan sipaluon i. Ai mutiha na umuli
+Do bahal ni hutaM na uli, marende sasude disi.
+Ndang dung binege ni na sian tano i
+Las ni roha sisongon i na masa i di surgo salelengna i.

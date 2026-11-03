@@ -1,0 +1,45 @@
+@be 455
+@bl 306
+@title Tung na ringkot
+@key Eb
+@meter 3/4
+@credit (tidak dicantumkan di buku)
+@pages 435 436
+@check Kepala lagu juga mencantumkan "Ev. S. 163". Birama berganti 3/4 → 4/4 (tercetak "4/4" di baris 3).
+@check Ritme di lagu ini banyak tidak genap bila angka dibaca harfiah; dibaca dengan pola 1/4 bertitik + 1/8 dan 1/8 bertitik + 1/16 sesuai not balok: "5 . 5 6 5" → 5 .+5 6+.+.+5; "5 5 6 5" (baris 2, tanpa titik) → sama; "1 5 5 1" → 1' 5 5+.+.+1' (1 terakhir = Es5 di balok).
+@check Baris 3 birama 2 tercetak "1 . 5 5 7" (balok: Es setengah + Bes–C–D 1/8 = 3½ ketuk); ditulis 1 .+5 (5+7) agar genap 3/4. Not balok kedua = C (6), angka 5 dipakai. Perlu dicek.
+@check Birama "5 . 5 0 5 6 7" (lirik "i. A-la"): ditulis (5 . 5)+0 (5+6)+7+. (genap 4/4, 5–6 = 1/16); birama "1 . 1 . 7 1 6" ditulis (1' . 1')+.+.+7 1'+.+.+6. Perlu dicek.
+@status Lirik dicek · 12/16 baris sama dgn pembanding
+@check Pembanding lirik: L7/L10/L13/L16 refrein buku disingkat 'Di na mate....' (pembanding menulis lengkap).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 455) | https://bukuende.wordpress.com/2013/06/18/tung-na-ringkot-buku-ende-no-455-buku-logu-no-306/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3+.+.+4 | 5 .+5 6+.+.+5 | 1' .+5 5+.+.+5 |
+5 .+5 6+.+.+5 | 5 . 3+.+.+4 | 5 .+5 6+.+.+5 | 1' 5 5+.+.+1' |
+7 .+5 4+.+.+2 | 1 .+5 (5+7) |]
+> Tung na ring-kot pa-bo-a-hon na bi-naen ni Je-sus i. Ang-ka do-sa ni-ro-hang-ku tung di-bu-ri Je-sus i. Di na
+#B 4/4
+(1' . 1')+.+.+1' 7+.+.+6 |
+5 . 3 5+.+.+5 | (5 . 5)+.+.+5 6+.+.+5 | (5 . 5)+0 (5+6)+7+. |
+(1' . 1')+.+.+7 1'+.+.+6 | 5 . 3 5+.+.+1' | (7 . 7)+.+.+5 4+.+.+2 | 1 . . |]
+> ma-te Tu-han Je-sus, au do hi-nop-hop-Na i. A-la au do ma-te Je-sus, au di-bu-ri Je-sus i.
+#V
+Tung na ringkot paboahon na binaen ni Jesus i.
+Angka dosa ni rohangku tung diburi Jesus i.
+Di na mate Tuhan Jesus, au do hinophopNa i.
+Ala au do mate Jesus, au diburi Jesus i.
+-
+Mago songon birubiru, na tardempar tu na dao.
+Diusehon do damena di na marsiulak au.
+Di na mate....
+-
+Tung marsahit do rohangku di na leleng lilu au.
+Nunga malum huhilala dung, didaoni Jesus au.
+Di na mate....
+-
+Jumpa tarsulandit pathu, di rahis ni dalan i.
+Tung na gogo do tanganNa, lao maniop tanganki.
+Di na mate ....
+-
+Ndang tadingkononNa ahu, di na homur matangki,
+Tung di rura hamatean idaonku Jesus i.
+Di na mate ....

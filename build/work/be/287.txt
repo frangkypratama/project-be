@@ -1,0 +1,28 @@
+@be 287
+@bl 29
+@title Gaor pe sude humaliang
+@key Eb
+@meter 2/4
+@credit Lagu: Johann Peter Schmachtenberg 1853
+@pages 267
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 3 (Iluihum) & 6 (kata ke-4) beda; scan hlm 267 ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 287) | https://bukuende.wordpress.com/2013/06/13/gaor-do-sude-humaliang-buku-ende-no-287-buku-logu-no-29/ | 6/8 baris sama
+@check Tanda sukat di scan kurang jelas; semua birama berisi 2 ketuk → 2/4. 4* = A♮ (balok bertanda pugar) → #4.
+#A
+3 3+3 | (5+4) 3+2 | (1 2+3) | 2 0 |
+3 3+3 | (5+#4) 3+#4 | 5 . v | 4 3+2 | (2+6) 5+4 |
+4 . | 3 0 | 6 7+1' | (5+4) 3+2 | (2 1) |]
+> Gaor pe su-de hu-ma-li-ang. Sai na de-mak do mu-se, Mo-lo di-dok Je-sus so-nang, a-ha na hu-mo-tok be.
+#V
+Gaor pe sude humaliang. Sai na demak do muse,
+Molo didok Jesus sonang, aha na humotok be.
+-
+Iluihum do dibilang molo na marsak roham.
+Ndang loasonna tarhilang Ho, sai papos ma roham.
+-
+Sai ditangihon Ibana na martangiang sude,
+Jala ditatap mataNa na tinobusNa sude.
+-
+Ipe haposi Ibana na paturehon langkam;
+Sai haholongi Ibana, na pasonangkon roham.

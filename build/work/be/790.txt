@@ -1,0 +1,46 @@
+@be 790
+@bl 0
+@title Marlas roha ma hamu
+@key F
+@meter 4/4
+@credit Syair: In dem Herrem Frenteuch, Kurt Muller-Osten 1941 · Terj.: Dcs. Bonaria Hutabarat · Lagu: Christian Lahausen, 1946
+@pages 865 866
+@status Lirik dicek · 14/18 baris sama dgn pembanding
+@check Pembanding lirik: ayat 1 baris 1 ("ma"), ayat 2 baris 3 ("marporang"), ayat 3 baris 2 ("donganmu") beda ejaan; ayat 6 baris 3 pembanding tanpa "na". Dicek di scan hlm 865–866: buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 790) | https://bukuende.wordpress.com/2013/06/16/marlas-roha-ma-hamu-buku-ende-no-790-buku-logu-no-790/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Di kepala lagu tercetak rujukan "Pilippi 4 : 4".
+@check Tanda mula 1 mol (F mayor), birama 4/4; not 1 = F4.
+@check Birama 6 "3 4 5 1": angka 4 dicoret (= #4), balok B♮ → ditulis #4.
+@check Kredit ditulis persis seperti buku ("In dem Herrem Frenteuch", "Muller-Osten", "Lahausen"), kemungkinan salah cetak.
+@check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari suku kata di bawah not.
+#A
+1 1 5 3 | 6 6 5 . |
+6 .+5 4 3 | 2 . 1 0 |
+2 2 3 1 | 4 3 2 . |
+2 2 3 1 | 3 #4 5 1 |
+6 .+5 4 3 | 2 . 1 0 |]
+> Mar-las ro-ha ma ha-mu di ba-ga-san Je-sus na pa-so-nang-kon ha-mu Je-sus Kris-tus Tu-han-mu jo-nok do di lam-bung-mu.
+#V
+Marlas roha ma hamu di bagasan Jesus
+na pasonangkon hamu Jesus Kristus Tuhanmu
+jonok do di lambungmu.
+-
+Nang torop pe musu mu na mambahen lilu,
+unang ganggu be hamu, Jesus ulu balangmu,
+marporang di jolomu.
+-
+Pabotohon ma burju nang habasaronmu.
+tu saluhut donganmu na manaon na porsuk
+arahon ma tu Jesus.
+-
+Sai padao ma holso mi dok mauliate.
+binsan asi roha i, manondangi ngolumi
+tiur dibaen dalanmu.
+-
+Dame na sumurung i, sian Debatanta
+na sohalompoan i dibagasan Kristus i
+saleleng ni lelengna.
+-
+Sai marlas ni roha ma, hita HuriaNa
+nang pe parungkilon i sai di togu Jesus do
+ruas na tu lambungNa.

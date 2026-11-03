@@ -1,0 +1,55 @@
+@be 360
+@bl 191
+@title Di tano on mardagang au
+@key Eb
+@meter 4/4
+@credit Lagu : Pierre Dagnes 1562
+@pages 342 343 344
+@status Lirik dicek · 24/24 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama. Ejaan buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 360) | https://bukuende.wordpress.com/2013/06/18/tongtong-longang-do-rohangkon-buku-ende-no-360-buku-logu-no-191/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Bagian Ende Psalm, judul bagian "Psalm 84". Judul Logu "Di tano on mardagang au"; baris pertama lirik "Tongtong longang do rohangkon". Kredit dicetak "Pierre Dagnes" (ejaan lazim: Pierre Davantès); ditulis sesuai buku.
+@check "4*" bertanda pugar di not balok (A) → #4.
+@check Hlm 343 baris 3, birama "5 4* 5 ’" hanya 3 ketuk (not balok Bes4 1/4), padahal birama sejajar di baris 2 "5 4* 5 ." (4 ketuk); ditulis apa adanya, bagian A diakhiri di birama itu agar validator menerima birama pendek. Perlu cek manusia.
+@check Ayat 1 disusun dari lirik di bawah not (pemenggalan baris mengikuti ayat 2).
+#A
+1 . | 5 4 3 2 | 1 . 2 . | 3 . v 3 . |
+6 6 5 3 | 5 . 4 . | 3 . v 5 . | 4 3 2 5 |
+4 3 2 . | 1 . . . v | 1 . 3 4 | 5 . 6 . | 5 #4 5 . v |
+1 . 3 4 | 5 . 6 . | 5 #4 5 v |
+> Tong-tong lo-ngang do ro-hang-kon di hi-na-deng-gan ni jo-roM, Ja-ho-wa Se-ba-ot, Tu-han-ku. Man-sai ma-lu-ngun ro-hang-ki, naeng lao tu a-la-man-na i,
+#B
+1' . 7 6 |
+5 . 3 . | 4 5 6 . | 5 . 0 0 | 5 . 5 4 | 3 . 6 . |
+5 4 3 . | 0 0 1 . | 3 5 2 4 | 3 . 2 . | 1 . |]
+> Sol-hot tu ha-ba-di-a-on-Mu. Ho, Si-pa-ngo-lu ton-ding-ki, naeng pu-ji-on-ku do di-si.
+#V
+Tongtong longang do rohangkon di hinadenggan ni joroM,
+Jahowa Sebaot, Tuhanku. Mansai malungun rohangki,
+Naeng lao tu alamanna i, Solhot tu habadiaonMu.
+Ho, Sipangolu tondingki, naeng pujionku do disi.
+-
+Amporik, leangleang i, marasar do di jabumi.
+Marpangondian tu langgatan, au on pe, ale Rajangki,
+PasabamonMu ma disi, tu Ho do au marhasahatan;
+Martua halak sasude, na mangingani joroMi.
+-
+Tutu, martua halak i, na mangasahon gogoMi,
+Huhut mardalan di dalanMu, nang pe mamolus jolma i
+Di rura partangisan i, parmualanna do basaMu.
+Mabaor do pasupasuMi tongtong gogo tu jolma i.
+-
+Lam leleng pardalanan ni, lam ganda do gogoNa i,
+Ai sahat do sude tu Sion, paeleng, Tuhan, pinggolMi,
+Tangihon ma tangiangki, sai tongos ma pangurupion,
+Manogu au tu joloMi, mamujimuji goarMi.
+-
+Ho lombulombu situtu di nasa jolma na burju,
+Sai tatap na miniahanMu, sadari pe di jabuMi
+Dumenggan sian ari i, saribu di parholanganMu;
+Lea pe au di tano on, asal maringan di joroM.
+-
+Panondang, lombulombu pe do Debata di hita be.
+Na marhaposan tu Ibana, ai asi ni rohaNa i,
+Nang pe hamuliaon i, dilehon tu hasudunganNa.
+O Tuhan, sai martua do na marhaposan i tu Ho.

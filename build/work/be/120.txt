@@ -1,0 +1,46 @@
+@be 120
+@bl 117
+@title Ale Immanuel tatap
+@key A
+@meter 3/4
+@credit Albert Knapp, 1798
+@pages 108 109
+@check Kepala lagu tercetak "Lagu No. 117" (bukan "Logu").
+@check Birama "6 5 4*": angka 4 bertanda bintang, not balok menunjukkan D♯ → ditulis #4,.
+@check Ayat 1 disusun dari baris lirik di bawah not, dibagi 3 baris mengikuti pola ayat 2–6.
+@status Lirik dicek · 11/18 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 11 dari 18 baris sama persis; beda ejaan di baris 4, 6, 7, 13, 14, 15, 16. Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 120) | https://bukuende.wordpress.com/2013/06/09/ale-immanuel-tatap-ma-hami-buku-ende-no-120-buku-logu-no-117/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 2 1 | 7, 6, 5, | 6, 7, 1 | 2 . 1 v |
+1 2 3 | 2 1 7, | 6, 5, #4, | 5, . . :|
+> A-le Im-ma-nu-el, ta-tap ma ha-mi, na ti-no-bus-mu, na pi-na-lu-aM;
+> Na si-no-sa-han ni mu-su do ha-mi. A-la tong-tong ni-o-lo-an ha-taM.
+#B
+7, 6, 5, | 5, 1 6, | 4 5 3 | 2 . 2 v |
+5, 1 7, | 6, 6, 2 | 7, 1 3 | 2 . . | 1 . |]
+> Ga-sa di-su-an ma-nga-lo A-nak-mu Ja-la na ja-hat do, nin-na na bur-ju
+#V
+Ale Immanuel, tatap ma hami, na tinobusmu, na pinaluaM;
+Na sinosahan ni musu do hami. Ala tongtong nioloan hataM.
+Gasa disuan mangalo Anakmu Jala na jahat do, ninna na burju
+-
+Nunga nania na burju najolo na marna loja na modom nuaeng;
+Ai diparbaga rohana, ndang olo talu nasida, hape sai dibaen
+Musu bisukna manjail nang nasida, jadi burjuna adang be na tarida.
+-
+Lam tu ngalina do holong ni roha, lam tu hijangna do naposo i;
+Mansai torop do na lao tu na roa na lilianan dibaen setan i,
+Marsak do roha ni nasa na burju mida na lusam na di huriaMu.
+-
+Ipe, o Jesus sai tatap ma hami jala sungguli ma dongan sude;
+Unang ma modom di dosa be hami, burju marroha baen hami muse.
+Asa tarsunggul sude huriaMu jala rap hehe pasauthon hataMu.
+-
+Tatap o Jesus, sudo di balian angka parbegu, na lilu dope,
+Angka na hundul di na nilinggoman ni hmatean, sai jou ma sude,
+Asa malua nang i musengani, dalan tu surgo muse didalani.
+-
+Sai harnonangkon sude hajolmaon, taiti sandok manisia tu Ho;
+Asa diboan sude hasangapon dohot pelean na hushus di Ho,
+Jala dipuji sude manisia, Ho, ale Tuhan, na tong marmulia.

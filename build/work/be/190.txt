@@ -1,0 +1,35 @@
+@be 190
+@bl 69
+@title Las rohangku situtu
+@key Ab
+@meter 4/4
+@credit Cristoph Dolker, 1863
+@pages 173
+@check Di buku hanya baris ke-2 (bagian B) yang diulang (tanda ‖: … :‖). Format ini belum punya tanda awal-ulang, jadi bagian B ditulis tersendiri dengan :| — not balok menampilkan tanda ulang di akhir B saja.
+@check "2 . 1" bergaris ganda dibaca 1/8 bertitik + 1/16 (satu ketukan), sesuai not balok.
+@status Lirik dicek · 8/9 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 beda ejaan ("nalulu", dicetak begitu); buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 190) | https://bukuende.wordpress.com/2013/06/16/las-rohangku-situtu-buku-ende-no-190-logu-no-69/ | Pembanding lirik (tanda baca/kapital diabaikan).
+#A
+1 1 1 3 | (2+.+.+1) (7,+1) 2 . v | 3 (2+3) 4 (3+2) |
+3 2 1 . v |
+> Las ro-hang-ku si-tu-tu mi-da Je-sus na-lu-lu
+#B
+2 2 2 5 | (2+.+.+3 2)+1 (7,+6,) 5, v :|
+> Man-ja-la-hi ha-jol-ma-on.
+> Ai I-ba-na pa-lu-a-hon
+#C
+1 1 1 3 | (2+.+.+1) (7,+1) 2 . v | 3 (2+3) 4 (3+2) | 3 2 1 0 |]
+> jol-ma ma-ni-si-a i si-an ha-ma-go-an i.
+#V
+Las rohangku situtu mida Jesus nalulu
+Manjalahi hajolmaon. Ai Ibana paluahon
+Jolma manisia i sian hamagoan i.
+-
+Las rohangku situtu mida Jesus na burju,
+Patupahon hangoluan di au na di hamagoan:
+Tung saluhut dosangki do disesa Jesus i.
+-
+Las rohangku situtu, ai parjambar au tutu
+Di na denggan sasudena, pinarbaga ni Debata
+Di sude na burju i mangihuthon Jesus i.

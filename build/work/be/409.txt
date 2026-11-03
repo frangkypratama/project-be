@@ -1,0 +1,41 @@
+@be 409
+@bl 273
+@title Angka birubiru
+@key Ab
+@meter 6/8
+@credit Ira David Sankey 1908
+@pages 392 393
+@status Lirik dicek · 13/16 baris sama dgn pembanding
+@check Kepala lagu juga mencetak "Ret. I. No. 19".
+@check Birama 6/8: 1 token = 1 not 1/8 (not 1/16 = setengah token).
+@check Birama 2 ("7 . 7 1 . 1 1"): not balok tampak 1/8 pada not "1" sehingga jumlahnya 5/8; dipakai not angka (1 . = 1/4) supaya 6/8.
+@check "2 . 0" dan "1 0": tanda diam di not balok = diam 1/4; ditulis not 3/8 + diam 2/8.
+@check Pembanding lirik: bukuende.wordpress.com — 13/16 baris sama; beda di baris 2 (Tuhanna), 3 (portibion) dan 14 ("diburi i"); scan dicek, mengikuti buku. Pembanding 4 ayat.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 409) | https://bukuende.wordpress.com/2013/06/09/angka-birubiru-buku-ende-no-409-buku-logu-no-273/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5,+5, | 1 .+1 1 1 . 1 | 7, . 7, 1 . 1+1 |
+3 . 3 1 . 1 | 2 . . 0 . 5,+5, | 1 1 1 1 . 1+1 |
+3 . 3 1 . 1+1 | 2 . 2+2 7, 7, 7, | 1 . . 0 . 1+1 |
+3 .+3 3 1 1 1 | 3 .+3 3 1 . 5 | 5 .+5 5 5 3 1 |
+2 1 2 3 . 5 | 5 .+5 6 5 3 1 | 2 3 2 1 . |]
+> Ang-ka bi-ru-bi-ru na pu-ngu i, si-a-pu-lu si-a do, ho-lan sa-da na dao, ai na li-lu i, man-sai dao si-an Tu-han-na do. Tung di gam-bo ni do-sa, di por-ti-bi-on. Ndang so-nang ro-ha-na sai su-sa i-non, ndang so-nang ro-ha-na, sai su-sa i-non.
+#V
+Angka birubiru na pungu i, siapulu sia do,
+Holan sada na dao, ai na lilu i, mansai dao sian Tuhanna do.
+Tung di gambo ni dosa, di portibion.
+Ndang sonang rohana sai susa inon, ndang sonang rohana, sai susa inon.
+-
+Didok Jesus parmahan bolon i: "Siapulu sia ro,
+Tung so tuk holan i, na sasada i ingkon mulak,
+Ndang boi Au so!" Dung i lao ma Ibana mardalan dao,
+Dijou birubiru, na tangkang, na lao
+-
+Tung hansit dalanna, sai ingot i, mangeahi na lilu i.
+Pola tiris mudarNa, mabugang do angka pat,
+Angka tanganna i. Sian ulu manetek mudarNa i.
+O, Jesus Tuhanku, balga holongMi!
+-
+Dung i jumpang Jesus na mago i, na di haliluan i.
+Dipaias ibana, diburi i dohot mudar na durus disi.
+Sai pinuji parmahan na basa i.
+Na ro paluahon na mago i.

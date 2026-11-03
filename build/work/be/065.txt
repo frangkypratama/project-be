@@ -1,0 +1,43 @@
+@be 65
+@bl 129
+@title Majumpang taon imbaru on
+@check Judul di kepala lagu "Patimbul be ma sangap" (nama Logu No. 129); judul di sini memakai baris pertama lirik.
+@key F
+@meter 3/4
+@credit Nikolaus Decius, 1522
+@pages 57
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Bagian B birama 1 dicetak "2 3" tanpa titik; not balok buku: 2 = not 1/2, dibaca "2 . 3".
+@check Kata "an di-ba-hen" di baris 1 dicetak seperti itu; ditulis apa adanya.
+@check Pembanding lirik: bukuende.wordpress.com — 15 dari 16 baris sama persis; 1 baris beda (ayat 1 "andibahen"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 65) | https://bukuende.wordpress.com/2013/06/16/majumpang-taon-imbaru-on-buku-ende-no-65-buku-logu-no-129/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 3 . 4 | 5 . 4 | 3 . 2 | 3 . v 3 | 3 . 2 |
+(4 3) 2 | (1 6, 7,) | 1 . :|
+> Ma-jum-pang taon im-ba-ru on di an-di-ba-hen Je-sus;
+> Di-baen ro-ha-na di au on, Ba-sa-na di-pa-tu-lus.
+#B
+1 | 2 . 3 | 4 . 3 |
+2 . #1 | 2 . v 2 | 3 . 4 | 5 . 4 | 3 . 2 |
+3 . v 1 | 2 . 4 | 3 . 2 | (1 6, 7,) | 1 . |]
+> I-ba-na do ma-no-gu au, Sa-lu-hut je-a di-pa-dao, mam-baen las ni ro-hang-ku.
+#V
+Majumpang taon imbaru on di andibahen Jesus;
+Dibaen rohana di au on, Basana dipatulus.
+Ibana do manogu au, Saluhut jea dipadao,
+mambaen las ni rohangku.
+-
+Dibahen i hupuji Ho, o Jesus Debatangku!
+Ai ndang, hea mangulon Ho mambaen partuaonku
+Rohangku panuratan ni godang ni denggan basaMI;
+Ai Ho do pangurupi.
+-
+Ipe dohot tu jolo on, Ho pangasahononhon;
+Marjea pe portibi on, martua au dohonon,
+Ai las rohangku, marsak pe, mangolu au, lao mate pe,
+Ho do hatuaonku.
+-
+Di Ama, di AnakNa pe, di Tondi Parbadia
+Ma hasangapon sasude! Ho jolma manisia,
+Tolopi ma pamujingkon, haposi ma haposankon;
+Ai sai tongtong rohaNa

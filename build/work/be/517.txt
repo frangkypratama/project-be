@@ -1,0 +1,38 @@
+@be 517
+@bl 354
+@title Di dia angka jolma
+@key Bb
+@meter 2/4
+@credit Gottlob Lachenmann
+@pages 488 489
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 14 dari 16 baris sama; beda: L4 (doli doli), L16. Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 517) | https://bukuende.wordpress.com/2013/06/13/di-dia-angka-jolma-buku-ende-no-517-buku-logu-no-354/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "Jug. L. No. 71". Tanda birama kecil di scan; dibaca 2/4 (setiap birama berisi 2 ketuk).
+@check Birama "1 . 1 2 2" (baris 1) dan "1 1 2 2" (baris 3, titik tidak tercetak): ditulis sama sebagai 1/8 bertitik + 1/16, 1/8, 1/8.
+#A
+5, | 1+.+.+1 3,+4, | 6, 5,+5, | 1+.+.+1 2+2 |
+3 0+3 | 4+.+.+3 2+1 | 7, 6,+6, | 2+.+.+1 7,+6, |
+5, 0+5, | 7,+.+.+7, 6,+5, | 1 5,+5, | 1+.+.+1 2+2 |
+3 0+3 | 5+.+.+4 3+2 | 1 7,+6, | 5,+3 2+7, | 1 0 |]
+> Di-di-a ang-ka jol-ma, di-jou-hon Tu-han i, na o-lo su-ru-on-ku, to-rop na ma-go i? To-rop do i-na Ba-tak nang na mar-ba-ju i, nang a-ma, do-li do-li, na man-sai dao do pe
+#V
+Didia angka jolma, dijouhon Tuhan i,
+na olo suruonku, torop na mago i?
+Torop do ina Batak nang na marbaju i,
+nang ama, doli doli, na mansai dao do pe
+-
+Tardidi do nasida, ringgas marminggu be,
+Marrupa hadaulaton nasida sasude.
+Alai tung dao rohana, ndang sae dosana i.
+Tuhanna ndang digolom nang panghophopNa i.
+-
+Dison do au, o Tuhan, sai suru dohot au.
+Manjou angka jolma na tongtong mandaodao.
+Hulehon ma gogongku nang tingkingki di Ho.
+Paima mulak dongan ndang olo au be so.
+-
+Dilehon Ho hosaMu mangkophop hami on.
+Tung patut huseahon nang dohot ngolungkon
+Humophop angka dongan na so mananda Ho,
+Na mian di arsakna naeng luluanku do.

@@ -1,0 +1,44 @@
+@be 147
+@bl 78
+@title Jesus hami ro dison, asa
+@key Ab
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 132 133
+@check Judul kepala lagu (judul Logu) "Jesus hami ro dison, asa"; baris pertama lirik "Jesus hami ro dison".
+@status Lirik dicek · 16/18 baris sama dgn pembanding
+@check Pembanding lirik: L9 kata 5 dan L17 kata 7 beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 147) | https://bukuende.wordpress.com/2013/06/16/jesus-hami-ro-dison-mangihuthon-na-nidokmu-buku-ende-no-147-buku-logu-no-78/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 1 2 (5+4) | 3 (2+1) 2 . v | 1 .+7, (6,+7,) 1 |
+2 3 2 . | 1 . . . :|
+> Je-sus ha-mi ro di-son ma-ngi-hut-hon na ni-dok-Mu;
+> Ro do po-so po-so on, a-la na pi-na-tik-kon-Mu;
+#B
+5, .+5, 6, 7, | 1 (2+1) 7, 5, v |
+1 .+1 2 3 | 4 3 2 . | 1 . . . |]
+> Ing-kon do tu Ho bo-a-non lao man-ja-lo par-pa-da-nan.
+#V
+Jesus hami ro dison mangihuthon na nidokMu;
+Ro do posoposo on, ala na pinatikkonMu;
+Ingkon do tu Ho boanon lao manjalo parpadanan.
+-
+Marsaringar hata on dibagasan rohanami:
+Manang ise na dison, so hian manduahali
+Sian ginjang tinubuhon, ndang tarbaen tu hangoluan.
+-
+Ala ni hapogan do hami ro tu Ho, o Tuhan,
+Asa sahat ma tu Ho, posoposo on. Sai suan
+Hangoluan tu rohana asa tong di Ho ibana.
+-
+Buri ma tondina i dohot mudarMi, o Jesus!
+Baen ias rohana i, sangkapMi di on patulus,
+Lehon ma hatigoranMu, Ain ibana, anakkonMu.
+-
+Parmahani on tongtong, Ho parmahan di huria.
+On pe, jalo ruasMon, baen pintor huhut badia.
+Dame lehon tu rohana, dohot haporseaonna.
+-
+Sahat ma tu rohaMi, Jesus, pangidoannami.
+Togu i tu surgo i, sai oloi ma sangkapnami.
+Nang goarna i, o Tuhan, baen tu buku hangoluan!

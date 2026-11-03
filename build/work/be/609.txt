@@ -1,0 +1,39 @@
+@be 609
+@bl 0
+@title O Jesus na metmet
+@key G
+@meter 3/4
+@credit Syair: O Jesulein sus. O Jesulein mild, 1650 · Terj.: Dcs. Bonaria Hutabarat/Pdt. J. A. U. Doloksaribu · Lagu: Jerman (Koln), 1623
+@pages 604 605
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di ayat 3 ("dipilit"); sesuai scan hlm 605. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 609) | https://bukuende.wordpress.com/2013/06/16/o-jesus-na-metmet-buku-ende-no-609-buku-logu-no-609/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 609".
+@check Lirik di bawah not tercetak "met - met"; di ayat 2–4 "metmet". Ditulis apa adanya.
+#A
+1 | 1 .+7, 1 | 2 . 7, | 1 .+7, 6, |
+5, . 3 | 2 . 2 | 1 . 2 | 5, 6, 7, |
+1 . 3 | 4 . 4 | 2 . 2 | 3 . 3 |
+1 . 1 | 2 . 2 | 7, . 7, | 1 . 1 |
+6, . 2 | 5, .+6, 7, | 1 . 3 | 2 .+1 7, | 1 . |]
+> O Je-sus na met-met na ba-sa i, ba-nu-a gin-jang ha-ro-ro-Mi Ha-bang-sa-Mi di sur-go i, ta-ding hu-mop-hop jol-ma i, O Je-sus na met-met na ba-sa i.
+#V
+O Jesus na metmet na basa i,
+banua ginjang haroroMi.
+HabangsaMi di surgo i, tading humophop jolma i,
+O Jesus na metmet na basa i.
+-
+O Jesus na metmet na basa i,
+tung halongangan do holongMi.
+Hupuji denggan basaMi manobus hajolmaon i
+O Jesus na metmet na basa i.
+-
+O Jesus na metmet na basa i,
+patar do holong ni rohaMi.
+Na sonang ditadingkon Ho na porsuk i dipilit Ho
+O Jesus na metmet na basa i.
+-
+O Jesus na metmet na basa i,
+ro au marsomba tu joloMi.
+Diringku ma peleanki sai jangkon au O Tuhanki
+O Jesus na metmet na basa i.

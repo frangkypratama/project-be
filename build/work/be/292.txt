@@ -1,0 +1,43 @@
+@be 292
+@bl 141
+@title Girgir ma hamu
+@key Ab
+@meter 3/4
+@credit Lagu: William Croft 1708
+@pages 271 272
+@status Lirik dicek · 20/20 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 292) | https://bukuende.wordpress.com/2013/06/13/dung-ro-jesus-i-buku-ende-no-292-buku-logu-no-141/ | 20/20 baris sama
+@check Judul kepala lagu "Girgir ma hamu", sedangkan baris pertama lirik "Dung ro Jesus i" — @title mengikuti kepala lagu.
+@check Birama 3 angka "1 ‾2 7̣": garis atas di atas 2 tidak sesuai balok (tiga not ¼) → ditulis 1 2 7,.
+#A
+5, | 1 1 2 | 3 . v 5 | 1 2 7, |
+1 . v 2 | 3 2 1 | 7, . v 1 | 2 (1+7,) (6,+.+.+5,) |
+5, . v 7, | 1 2 3 | 1 6, v 4 | 3 2 1 |
+5 . v 5, | 6, 7, 1 | 2 5, v 3 | 6, 2 7, | 1 . |]
+> Dung ro Je-sus i, pa-tar ma tu au: Go-go-na su-de, ho-long-na di au. I-ba-na ha-po-san, ha-po-ru-san i; Tung ma-te pe i-ba, so-nang ro-ha i.
+#V
+Dung ro Jesus i, patar ma tu au:
+Gogona sude, holongna di au.
+Ibana haposan, haporusan i;
+Tung mate pe iba, sonang roha i.
+-
+Dung ro Jesus i, martua sude;
+Na pos roha i sonang do sude.
+So olo be lonong, na mian disi,
+Sude do mangolu, ditogu tusi.
+-
+Na bernit pe ro manosak tu au,
+Ilungku pe ro, tung marsak do au,
+Ndang ganggu rohangku, ai Jesus di au;
+Ibana gogongku, malua do au.
+-
+Patar arsakki peak di joloM.
+Tu ginjang ma au mangido gogoM,
+Ndang tuk, ndang tau jolma haporusan i;
+Sai holan arsakku dipajojor i.
+-
+O Jesus, tu Ho marsomba au on,
+Sude ma di Ho hulehon au on.
+So olo be sirang, naung domu tu Ho.
+Martua nang sonang, na ro i tu Ho!

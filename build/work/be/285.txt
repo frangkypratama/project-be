@@ -1,0 +1,42 @@
+@be 285
+@bl 22
+@title Binsan ro asi ni roha
+@key F
+@meter 4/4
+@credit Lagu: Herrnhut 1737
+@pages 265 266
+@status Lirik dicek · 16/18 baris sama dgn pembanding
+@check Pembanding lirik: baris 6 (dihilala) & 9 (diadiaon) beda; scan hlm 265–266 ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 285) | https://bukuende.wordpress.com/2013/06/18/sai-ditongos-debatamu-buku-ende-no-285-buku-logu-no-22/ | 16/18 baris sama
+#A
+1 2 3 2 | 3 4 5 . | 3 . v 6 5 |
+4 3 2 2 | 3 . v 5 5 | 5 (2+3) 4 5 |
+3 . 2 . v | 1 2 3 4 | 3 2 1 . |]
+> Sai di-to-ngos De-ba-ta-mu na ha-se-a i di ho, nang be-ha par-so-ri-on-mu, a-sal di Je-sus-mu ho.
+#V
+Sai ditongos Debatamu na hasea i di ho,
+Nang beha parsorionmu, asal di Jesusmu ho.
+-
+Na holsoan, ala modom Jesus di rohana i,
+Magopo do morongorong; Ai muse maila i.
+-
+Sai tongtong marroha ama Debatanta i, ale!
+Sai tongtong do dihilala arsak ni roham sude.
+-
+Sai porsea, na dumenggan dipatongon Debatam;
+Ndang tongtong ho marsitaonon, asal ma hohom roham
+-
+Ia naeng diadiaon, rohami, pebenget ma;
+Ai sude do sinarihon ni Tuhanta Debata.
+-
+Hagogoon ni Tuhanta ndang marparbolatan i;
+Ndada pola jut rohaNa, sungkot pingkiranNa i.
+-
+Di na jumpang i arina, ro pangurupiNa i;
+Ai tompu do haroroNa, pailahon holsomi.
+-
+Sai martua do sudena, na marhabengeton i;
+Asal ma burju rohanta, ndang maol patupahon i.
+-
+Marhaposan tu goarMu Jesus, olo au hohom;
+Sai patulus ma sangkapMu manang dia pe lomoM.

@@ -1,0 +1,34 @@
+@be 298
+@bl 239
+@title Di lambungMi, o Jesuski
+@key Eb
+@meter 3/4
+@credit Lagu: Wittenberg 1524
+@pages 276 277
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 2,4,5 beda ejaan; scan hlm 276–277 ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 298) | https://bukuende.wordpress.com/2013/06/13/di-lambungmi-o-jesuski-buku-ende-no-298-buku-logu-no-239/ | 9/12 baris sama
+@check Titik pada "1̇ 7 . 6" dan "2 . 3 4" hanya pemisah (balok: tiga not ¼) → (1' 7) 6 dan (2 3) 4.
+#A
+5 | (5 3) 5 | (5 3) 1' | (1' 7) 6 |
+5 . 5 | (5 4) 3 | (2 3) 4 | (3 5) 3 | 2 . 5 |
+(5 3) 5 | (5 3) 1' | (1' 7) 6 | 5 . 5 | (5 4) 3 |
+(2 3) 4 | 3 . 2 | 1 . v 2 | (2 3) 4 | 3 . 5 |
+(5 3) 6 | 5 . 1' | (1' 7) 6 | 5 . 3 | (4 3) 2 | 1 . |]
+> Di lam-bung-Mi, o Je-sus-ki, tung na mar-da-me ro-ha i, Ma-po-rus hol-so-hol-song-ki, lam tu ti-ur-na ro-hang-ki. Lam gan-da las nang go-gong-ki, dung Ho hu-tan-da Je-sus-ki.
+#V
+Di lambungMi, o Jesuski, tung na mardame roha i,
+Maporus holso holsongki, lam tu tiurna rohangki.
+Lam ganda las nang gogongki, dung Ho hutanda Jesuski.
+-
+Di lambungMi, o Jesuski, sumurut do na gaor i,
+Ai guru dokMu do side, galumbang nang alogo pe
+Lam sonang do nang rohangki dung Ho, o Jesus, Tuhanki!
+-
+DilambungMi, o Jesuski, ndang be margogo musu i.
+Lam talu do na jahat i, lam monang do na denggan i.
+O, tua ni naung domu i tu Tuhan Jesus, Rajangki.
+-
+Di ajalhi, o Jesuski, momos ma tiop tanganki,
+Pasahat au tu surgoMi, marnida hasangaponMI.
+Endehononku ma disi holong nang denggan basaMi.

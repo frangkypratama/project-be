@@ -1,0 +1,38 @@
+@be 160
+@bl 206
+@title O Tondi Parbadiai, bongoti
+@key Eb
+@meter 4/4
+@credit Philipp Nicolai 1599
+@pages 144 145
+@check Judul kepala lagu (judul Logu) "O Tondi Parbadiai, bongoti"; baris pertama lirik "Au dohot na saripengkon". Melodi sama dengan BE 142 dan BE 157 (Logu 206).
+@status Lirik dicek · 10/14 baris sama dgn pembanding
+@check Pembanding lirik: L4 kata 2, L5 kata 6, L6 kata 1 & 3 beda; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 160) | https://bukuende.wordpress.com/2013/06/09/au-dohot-na-saripengkon-buku-ende-no-160-buku-logu-no-206/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 5 3 1 5 | 6 6 5 v 5 | 6 7 1' 7 |
+6 6 5 v 3 | 6 5 4 3 | 2 . 1 :|
+> Au do-hot na sa-ri-peng-kon, o Je-sus, na di jo-lo-Mon, Ho naeng o-lo-an-na-mi.
+> Ho ma nam-pu-na ha-mi on, sa-le-leng ho-sa-na-mi on; Sai pa-su-pa-su ha-mi.
+#B
+0 |
+5 . 3 . v | 5 . 3 . v | 4 3 2 3 | 4 3 2 3 |
+4 3 2 . | 1 . v 1' 7 | 6 5 4 3 | 2 . 1 |]
+> Ho ma Ra-ja Si-o-lo-an, pa-u-so-an, si-sung-ku-non di-pa-tik-Mu, a-le Tu-han!
+#V
+Au dohot na saripengkon, o Jesus, na di joloMon, Ho naeng oloannami.
+Ho ma nampuna hami on, saleleng hosanami on; Sai pasupasu hami.
+Ho ma Raja Sioloan, pausoan,
+Sisungkunon dipatikMu, ale Tuhan!
+-
+Sai pasupasu hami be, pasingkop bohalnami pe,
+Padao ma hapogoson, horasi dohot daging i,
+Sai tuk ma baen gogona i, manahan di ulaon.
+Tolong, tolong, ganup hami, asa hami mangkaposi,
+RohaMi, na sai marasi.
+-
+Rajai ma hami sai tongtong, pasaor tu rohanami on
+DameM, o Tuhannami! Marhitehite tondiMi,
+Ingani rohanami be huhut patogu hami.
+Dao ma bada sian hami, jabunami baen inganan
+Pardamean, hasonangan.

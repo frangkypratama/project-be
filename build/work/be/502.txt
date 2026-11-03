@@ -1,0 +1,32 @@
+@be 502
+@bl 342
+@title Jahowa siparmahan au.
+@key G
+@meter 6/8
+@credit Hans Georg Nageli 1836
+@pages 474 475
+@status Lirik dicek · 7/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 9 baris sama; beda: L3 (baris ulangan 'Jahowa Sipirmahan au' tidak ada di pembanding), L8 (ingotonku). Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dibaca ulang dari scan 420 dpi; transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 502) | https://bukuende.wordpress.com/2013/06/16/jahowa-siparmahan-au-na-tau-buku-ende-no-502-buku-logu-no-342/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "U.L.No. 456.". Not ditulis per 1/8 (6 ketuk per birama) mengikuti not balok.
+@check Birama 2: angka tercetak "5" (D) pada not terakhir, sedangkan kepala not balok tampak lebih rendah (C/B); dipakai angka.
+@check Birama akhir tercetak "1 . . 1" dan not balok dua not 1/4 (G G) untuk suku kata "au"; ditulis (1 . 1 .).
+@check Lirik baris terakhir tercetak "Si-pir-ma-han" (bukan "Siparmahan"); ditulis seperti tercetak.
+#A
+5, | 1 . 1 (2 3) 4 | (3 1) 2 1 . 5 | 3 . 2 1 . 7, |
+(6, 1) 6, 5, . 3 | (2 5) 3 2 . 1 | 7, . 1 2 . 2 |
+5 . 6 (7 5) 3 | (2 7,) 1 7, . 5, | 1 . 3 (2 5) 7, |
+(1 5,) 3 (2 5) 7, | 1 . 1 (2 3) 4 | (3 . . 2 1) 2 | (1 . 1 .) |]
+> Ja-ho-wa si-par-ma-han au, na tau ma-nga-go di-pa-dao; Na so hu-ra-ngan au di-baen San-dok tu-bu-na au di-ain, Ja-ho-wa si-par-ma-han au. Ja-ho-wa Si-pir-ma-han au.
+#V
+Jahowa siparmahan au, na tau mangago dipadao;
+Na so hurangan au dibaen Sandok tubuna au diain,
+Jahowa siparmahan au. Jahowa Sipirmahan au.
+-
+Tangkas panoguonNa i, saut do pinarbagaNa i.
+Na denggan do bagianki. Pinuji ma goarNa i.
+:,: Jahowa Siparmahan au :,:
+-
+Sai dipasabam rohangki, tiur do sidalananki.
+Sai ingotonku basaMi, saleleng ni lelengna i.
+:,: Jahowa Siparmahan au :,:

@@ -1,0 +1,56 @@
+@be 711
+@bl 0
+@title Songon ursa na binuru
+@key G
+@meter 3/4
+@credit Syair: Buku ende No. 357 · Lagu: Jerman
+@pages 748 749 750
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0). Kredit syair menunjuk "Buku ende No. 357".
+@check Ayat 7 hampir sama dengan ayat 3 (beda tanda baca, "pujiongku"/"pujionku", "do pe"/"dope") — ditulis apa adanya.
+@check Birama "4 . 4 5 . 2" (ki do hu ha-u-as-): balok memberi kres pada not kedua (Cis) → ditulis #4.
+@status Lirik dicek · 25/28 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 2 (Debatan, endengku) dan ayat 6 (diinsahi) beda; buku tetap acuan. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 711"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 711) | https://bukuende.wordpress.com/2013/06/18/songon-ursa-na-binuru-buku-ende-no-711-buku-logu-no-711/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5,+.+.+1 | 3 3 3+.+.+3 | 4 4 4+.+.+4 | 5 .+2 3+4 |
+3 . 1+.+.+7, | 7, 6, 1+.+.+6, | 6, 5, 1+.+.+3 |
+5 .+4 7,+2 | 1 . 3+.+.+4 | 5 5 6+3 |
+4 . 2+.+.+3 | 4 .+#4 5+.+.+2 | 3 . 3+.+.+2 |
+1 .+1 3+.+.+5 | 5 4 3+.+.+2 |
+1 .+1 1+7, | 2 (1 . | 1) . |]
+> So-ngon ur-sa na bi-nu-ru mau-as-di aek ta-bar i, so-ngon i do au ma-ngi-do naeng do-nok tu Tu-han-ki. Ho-lan Ho De-ba-tang-ki do hu ha-u-as-hon i, ai an-di-gan i-da-on-ku bo-hi-Mi a-le Tu-han-ku,
+#V
+Songon ursa na binuru mauasdi aek tabar i,
+songon i do au mangido naeng donok tu Tuhanki.
+Holan Ho Debatangki do hu hauashon i,
+ai andigan idaonku bohiMi ale Tuhanku,
+-
+Ilu-ilu ni matangku do hupangan sai tongtong,
+ala sai didok musungku tung di dia Debatan?
+Jala mauas rohangki mingot parmasuhanki
+ro di girgir ni endengku lao tu joro ni Tuhanku,
+-
+Tungkimi ale tondingku tung beasa rusak ho,
+sai haposi ma Tuhanmu ndang tadingkononNa ho,
+pujiongku do muse Tuhan Debata do pe,
+hatuaon ni bohingku na tongtong naeng haposanku.
+-
+Sai manungkap do rohangku di na mangandungi au;
+Jordan do habuanganku dohot Hermon na sai dao,
+songon aek sampuran i tinggang tu tondolan ni,
+songon i do martinggangan tu au angka pangunjunan.
+-
+Diparbaga Debatangku asi ni rohaNa i,
+di au, jadi las rohangku, molo sai huingot i,
+borngin nang arian pe huendehon do sude,
+denggan basa ni jahowa, na manolong naposoNa.
+-
+O Partanobatoanku, ndang be ingotonmu au?
+Ai lam ganda do arsakku, diinsahi musu au,
+ai holiholingku pe naung magopu do sude,
+ala sai didok musungku: tung di dia Debatamu?
+-
+Tungkimi, ale tondingku! tung beasa rusak ho?
+Sai haposi ma Tuhanmu, ndang tadingkononNa ho
+pujionku do muse Tuhan Debata dope,
+hatuaon ni bohingku na tongtong naeng haposanku.

@@ -1,0 +1,27 @@
+@be 445
+@bl 405
+@title Sai ingoton ni rohangku
+@key F
+@meter 3/4
+@credit Giovani Nanini
+@pages 427
+@check Kepala lagu juga mencantumkan "M.H. No. 30". Nama komponis ditulis sesuai buku ("Giovani Nanini"; ejaan lazim Giovanni Nanino/Nanini).
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: L4 kata 3 (ti) dan L6 kata 1 (Haporsuhon) beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 445) | https://bukuende.wordpress.com/2013/06/18/sai-ingoton-ni-rohangku-buku-ende-no-445-buku-logu-no-405/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . 4 | 3 . 3 | 2 . 2 | 3 . 3 | 5 . 5 |
+5 . 5 | 5 . #4 | 5 . 5 | 5 . 5 | 6 . 6 | 5 . 5 | 5 . . |]
+> Sai i-ngo-ton ni ro-hang-ku han-sit naung di-taon Tu-han-ku u-ju i di Gol-ga-ta.
+#V
+Sai ingoton ni rohangku
+Hansit naung ditaon Tuhanku uju i di Golgata.
+-
+Na so dung adong salana,
+Gabe ampe ti Ibana dosa ni portibi on.
+-
+Tung so dapot huhatahon
+Haporsuhon na ditaonhon, holan ala dosangki
+-
+Ingkon Ho sai oloanku
+Sipangolu au, Tuhanku, sian nasa rohangkon.

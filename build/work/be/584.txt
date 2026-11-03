@@ -1,0 +1,33 @@
+@be 584
+@bl 0
+@title Saluhut bangso
+@key F
+@meter 3/4
+@credit Syair: Santonnius; Terj.: Biv. M.H. Sitorus / Pdt. J. A. U Doloksaribu; Lagu: Meicheir Vuipius, 1609
+@pages 563 564
+@status Lirik dicek · 8/8 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 584) | https://bukuende.wordpress.com/2013/06/18/saluhut-bangso-buku-ende-no-584-buku-logu-no-584/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0.
+@check Komponis tercetak "Meicheir Vuipius" (ejaan lazim: Melchior Vulpius); ditulis apa adanya.
+@check Ayat 1 hanya tercetak di bawah not (bagian A diulang dengan 2 baris lirik); teks #V ayat 1 disusun dari lirik di bawah not.
+#A
+5 5 5 | (3 .+2) 1 | (7, 1) 6, | 5, . . |
+5 5 3 | (6 .+5) 4 | (3 . 2) | 1 . 0 :|
+> Ha-mu sa-lu-hut bang-so i ta-pu-ji ma Ja-ho-wa.
+> Pa-tim-bul ma go-ar-Na i en-de-hon las ni ro-ha.
+#B
+1 1 2 | 3 . 5 | 4 . 3 | 2 . 0 |
+1 2 3 | 2 . 1 | 7, . 6, | 5, . 0 |
+1 3 5 | (4 .+3) 2 | (1 . 7,) | 1 . . |]
+> Pa-ngi-do ma ba-sa-Na i nang da-me si-an sur-go i en-de-hon Ha-le-lu-ya
+#V
+Hamu saluhut bangso i tapuji ma Jahowa.
+Patimbul ma goarNa i endehon las ni roha.
+Pangido ma basaNa i nang dame sian surgo i
+endehon Haleluya
+-
+Balga tutu pambaenNa i naung patar di hita
+gok do pasu-pasuNa i mambahen las rohanta
+holongNa nang padanNa i manongtong salelengNa i
+endehon Haleluya.

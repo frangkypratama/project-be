@@ -1,0 +1,23 @@
+@be 861
+@bl 0
+@title Tuhan asi rohaM
+@key F
+@meter 4/4
+@credit Syair & Lagu: Pdt. J.A.U. Doloksaribu · Ps. 51:13; Luk. 18:13
+@pages 945 946
+@status Lirik dicek · 2/2 baris sama dgn pembanding
+@check Pembanding lirik: 2/2 baris sama (pembanding juga 1 ayat).
+@check Pembanding menyebut Buku Logu No. 861; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 861) | https://bukuende.wordpress.com/2013/06/18/tuhan-asi-roham-buku-ende-no-861-buku-logu-no-861/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Kepala lagu mencetak "Ps. 51:13: Luk. 18:13" (titik dua kedua kemungkinan maksudnya titik koma).
+@check Baris 2 birama akhir "5 3 2 1 2": legato angka di bawah 5–3–2; suku kata "haM" ditahan juga ke not 1 (tanda _), "di" pada not 2 sesuai letak lirik di bawah balok.
+@check Hanya satu ayat tercetak (teks di bawah not).
+#A
+5, | 3 .+3 4 2 | 3 . . 3 |
+5 .+5 6 3 | 5 . . 5 | 6 .+6 6 3 | (5 3+2) 1 2 |
+3 .+3 3 2 | 1 . 0 |]
+> Tu-han a-si ro-haM di au par-do-sa on, Tu-han a-si ro-haM _ di au par-do-sa on.
+#V
+Tuhan asi rohaM di au pardosa on,
+Tuhan asi rohaM di au pardosa on.

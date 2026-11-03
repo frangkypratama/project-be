@@ -1,0 +1,28 @@
+@be 500
+@bl 226
+@title Tingganghon sude
+@key Bb
+@meter 3/4
+@credit (tidak dicantumkan di buku)
+@pages 473
+@check Kepala lagu juga mencetak "R. L. No. 400".
+@check Judul di kepala lagu "Tingganghon sude", sedangkan lirik di bawah not tercetak "Tinggangkon".
+@status Lirik dicek · 4/8 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 1 ('Tinggangkon'), 3, 7 ('Arsakmu'), 8; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 500) | https://bukuende.wordpress.com/2013/06/18/tingganghon-sude-buku-ende-no-500-buku-logu-no-226/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 1 (2+1) | (1 7,) 5, | 2 2 (3+2) |
+(2 1) 5, | 3 3 3 | 3 2 (4+2) | (1 . 7,) | 1 . |]
+> Ting-gang-kon su-de na dok-dok, a-le, tu Je-sus, Tu-han-mu, na ba-sa
+#V
+Tinggangkon sude na dokdok, ale,
+tu Jesus, Tuhanmu, na basa
+-
+Na susa roham, mandaodao tuam,
+Maporus tu Jesus na basa.
+-
+Sonang ma roham, mardohar langkam,
+Hinorhon ni Jesus na basa.
+-
+Arsakmu tongtongbaenonNa bolong,
+Gogo do Tuhanmu na basa.

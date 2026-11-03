@@ -1,0 +1,27 @@
+@be 142
+@bl 206
+@title O Tondi Parbadia i, bongoti
+@key Eb
+@meter 4/4
+@credit (tidak dicantumkan di buku)
+@pages 128
+@check Judul kepala lagu (judul Logu) "O Tondi Parbadia i, bongoti"; baris pertama lirik "Pararat ma baritaMi".
+@check Buku hanya mencetak ayat 1 (dua baris lirik untuk bagian yang diulang); tidak ada ayat lanjutan maupun nama komponis.
+@status Lirik dicek · 3/4 baris sama dgn pembanding
+@check Pembanding lirik: L3 beda: pembanding memecah "Ipe" dan menambah kata di akhir; scan hlm 128 dicek ulang: buku "ipe sude Hajolmaon, sai tangihon soaraNa;" (tanpa tambahan).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 142) | https://bukuende.wordpress.com/2013/06/16/pararat-ma-baritami-buku-ende-no-142-buku-logu-no-206/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 5 3 1 5 | 6 6 5 v 5 | 6 7 1' 7 |
+6 6 5 v 3 | 6 5 4 3 | 2 . 1 :|
+> Pa-ra-rat ma ba-ri-ta-Mi, o Je-sus, a-sa sa-hat i tu na-sa ha-jol-ma-on!
+> Tu-tu, ma dung di-pung-ka i, ma-no-gu jol-ma sa-su-de tu da-lan ha-ngo-lu-an.
+#B
+0 |
+5 . 3 . v | 5 . 3 . v | 4 3 2 3 | 4 3 2 3 |
+4 3 2 . | 1 . v 1' 7 | 6 5 4 3 | 2 . 1 |]
+> I-pe su-de Ha-jol-ma-on, sai ta-ngi-hon so-a-ra-Na; Sai bo-ngo-ti hu-ri-a-Na!
+#V
+Pararat ma baritaMi, o Jesus, asa sahat i tu nasa hajolmaon!
+Tutu, ma dung dipungka i, manogu jolma sasude tu dalan hangoluan.
+Ipe sude Hajolmaon, sai tangihon soaraNa;
+Sai bongoti huriaNa!

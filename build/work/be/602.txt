@@ -1,0 +1,61 @@
+@be 602
+@bl 0
+@title Di nata na parjolo i
+@key D
+@meter 3/4
+@credit Syair: The first Noel; the Angel did say/Noel-Natal · Terj.: Pdt. J. A. U. Doloksaribu/Pdt. M. V. Simanjuntak · Lagu: Traditional English Carol; arr. John Strainer, abad 17
+@pages 593 594 595
+@status Lirik dicek · 19/23 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan di baris ayat 2 (sinondangna), ayat 3 ("bintang 1"), ayat 5 ("purbo"), ayat 6 (portibion); dicek ke scan hlm 594–595: sesuai buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 602) | https://bukuende.wordpress.com/2013/06/13/di-natal-na-parjolo-i-buku-ende-no-602-buku-logu-no-602/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 602".
+@check Judul kepala lagu tercetak "Di nata na parjolo i", sedangkan lirik di bawah not "Di Natal na parjolo i"; keduanya ditulis apa adanya.
+@check Birama 1 baris 1: "3 4" (½+½) tanpa legato di angka, tetapi satu suku kata "tal" → ditulis legato (3+4) seperti di baris 3 yang mencetak legato.
+@check Baris 1 "par - jo - lo": suku kata "jo" ditahan dari 1̇ ke 7 tanpa legato tercetak → ditulis `_` di lirik.
+@check Ayat 3 tercetak "Paihut-ihut bintang 1," (angka 1, kemungkinan salah cetak "i"); ditulis apa adanya.
+#A
+(3+2) | (1 .+2) (3+4) | 5 . (6+7) | 1' 7 6 |
+5 . (6+7) | 1' 7 6 | 5 6 7 | (1' 5) 4 |
+3 . (3+2) | (1 .+2) (3+4) | 5 . (6+7) |
+(1' 7) 6 | 5 . (6+7) | 1' 7 6 |
+5 6 7 | (1' 5) 4 | 3 . |
+> Di Na-tal na par-jo _ lo i par-ma-han mar-bor-ngin di la-dang i, tu-si do ro su-ru-an i, man-dok nu-nga so-rang Me-si-as i.
+#B
+(3+2) |
+(1 .+2) (3+4) | 5 . (1'+7) | 6 . 6 | 5 . . |
+1' 7 6 | (5 6) 7 | (1' 5) 4 | 3 . . |]
+> No-el No-el, No-el, No-el, Tu-bu Ra-ja ni Is-ra-el.
+#V
+Di Natal na parjolo i parmahan marborngin di ladang i,
+tusi do ro suruan i, mandok nunga sorang Mesias i.
+Ref.: Noel, Noel, Noel, Noel, Tubu Raja ni Israel.
+-
+Binsar do sada bintang i,
+di purba torang sinondangna i.
+Tongtong tarida bintang i,
+arian nang borngin patar do i.
+Ref.: Noel, Noel, ....
+-
+Parroha sian purba i,
+lao borhat manjalahi Raja i.
+Paihut-ihut bintang 1,
+tu huta ni Raja na sorang i.
+Ref.: Noel, Noel, .....
+-
+BintangNa i natiur i,
+mardalan do tu manabia i.
+Di Betlehem mansohot i,
+di atas inganan ni Jesus i.
+Ref.: Noel, Noel, ...
+-
+Parroha sian purbo i,
+lao bongot tu bagas ni Jesus i.
+Disombahon tu Jesus i
+haminjon, mas, mir, binoanna i.
+Ref.: Noel, Noel, ...
+-
+Antong marende hita on,
+di Raja ni langit nang tano on.
+Napaluahon hita on,
+sian huaso ni portibion.
+Ref.: Noel, Noel, ...

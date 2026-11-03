@@ -1,0 +1,43 @@
+@be 653
+@bl 0
+@title Jubileum ni Huria
+@key Bb
+@oct -1
+@meter 4/4
+@credit Syair & Lagu: Pdt. J.A.U. Doloksaribu, 2002
+@pages 671 672
+@check Bagian ini tidak mencetak "Logu No."; @bl 0 hanya pengisi wajib validator.
+@check Do = Bes3 (not 5 pertama = F4 di balok) → @oct -1.
+@check Baris 3 ayat 1 punya pilihan sesuai ulang tahun: "*Nu-nga li-ma pu-lu" / "(Nu-nga gok sa-ra-tus)" / "(Sa-ra-tus li-ma pu-lu)" / "(Nu-nga du-a ra-tus)" / "(Du-a ra-tus li-ma pu-lu)". Catatan buku: Tanda * dipillit hombar tu ringkotna. Busur titik-titik di "5 5" (birama 9) hanya untuk pilihan 6 suku kata; di sini "nga" ditahan (_).
+@check "naung" di baris 4 terletak di bawah dua not (5 . 5 | 1̇) tanpa tanda pemenggalan → ditulis satu suku kata ditahan (_).
+@check Ayat 2 tercetak "masiurupn" — ditulis apa adanya.
+@status Lirik dicek · 9/16 baris sama dgn pembanding
+@check Pembanding lirik: baris 1–4, 8 (masiurupn, salah cetak), 12 beda ejaan/pemisahan kata; baris 1–4 adalah gabungan suku kata di bawah not (penulisan kata oleh transkriptor), dicek ke scan hlm 671–672.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 653) | https://bukuende.wordpress.com/2013/06/16/jubileum-ni-huria-buku-ende-no-653-buku-logu-no-653/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5 5 5+4 3+4 | 5 5 .+5 4+3 | 4 4 4+5 4+3 |
+4 . . 0 | 4 4 4+3 2+3 | 4 4 .+4 4+4 |
+4 5 6 5 | 5 . . 0 | 5 5+5 5+4 3+4 |
+5 5 .+5 1'+2' | 3' 3' 2' 1' | 1' . . 0 | 1' 1' 1'+7 1'+2' |
+3' .+2' 1'+5 1'+3' | 3' 2' 1' 7 | 1' . . 0 |]
+> Na-ta-ma do i-ngo-ton-ta ta-on pa-ra-si-ni ro-ha-an on Ju-bi-le-um par-ni-ngo-tan, di-hi-ta sa-hu-ri-a on Nu-nga _ li-ma pu-lu ta-on naung _ o-jak Hu-ri-a on. Ta-on pa-ro-lo-po-lo-pon do on di na-sa Hu-ri-a on.
+#V
+Natama do ingotonta taon parasinirohaan on
+Jubileum parningotan, dihita sahuria on
+*Nunga limapulu taon naung ojak Huria on.
+Taon parolopolopon do on di nasa Huria on.
+-
+Ta olophon denggan basa na ita jalo sian Debata,
+saluhut do disarihon, na ringkot dingolunta on,
+lam togu ma parsaoran dihita HuriaNa on.
+radot masitangiangan ma, masiurupn hita on.
+-
+Ruas angka na matua, baen tiruan hita on tongtong,
+maradophon anakhonta, tangkas ma ingot i tongtong,
+sundut na umposo i do na sumingkati hita on,
+togu-togu, tangiangkom ma, asa jonok tu Debata.
+-
+Rade haporseaonta lao mangadopi hamajuon on.
+asa gabe pasupasu, panghorhon nii tu hita on,
+tung tangkas ma tapoda i, anakhon ni Huria i,
+asa jolma halomoan i di hita nang di Tuhan i.

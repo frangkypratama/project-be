@@ -1,0 +1,54 @@
+@be 60
+@bl 236
+@title Marolopolop hamu, ale
+@key Eb
+@meter 3/4
+@credit Bernhard Dreier 1731
+@pages 51 52
+@status Lirik dicek · 17/24 baris sama dgn pembanding
+@check Pembanding lirik: beda di baris 2,8,12,15,17,20,21; dicek ulang di scan hlm 51–52: "dalanan", "holongangan", "bangotanta", "maisia", "Jolo" memang tercetak begitu; "IngananMu" dikoreksi dari salah baca. Buku tetap acuan.
+@check Birama sebelum akhir "1 7" (legato) hanya 2 ketuk di angka maupun paranada; agar validator menerima birama pendek, birama terakhir "1 . ." ditaruh di bagian #B tersendiri (tidak ada garis ganda di buku).
+@check Hlm 52 birama "1 * . ." — tanda "*" di samping 1 tidak tampak sebagai kres/mol di paranada (Eb biasa); diabaikan.
+@check Judul halaman 52 tercetak "Ende di Hututubu ni Tuhan Jesus" (salah cetak judul bagian).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 60) | https://bukuende.wordpress.com/2013/06/16/marolopolop-hamu-ale-buku-ende-no-60-buku-logu-no-236/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 1 5 | 3 .+2 1 | 1' 7 6 | 5 4 3 | 3 . . |
+2 . 0 | 3 1 5 | 3 .+2 1 | 1' 7 6 | 2' 7 5 |
+6 . . | 5 . 0 | 5 3 2 | 1 . . v | 6 6 5 |
+4 .+4 3 | 2 . . v | 5 (2+3) 4 | 3 2 1 | (1 7,) |
+> Mar-o-lop-o-lop ha-mu, a-le su-ru-su-ru-an! Pu-ji ma Je-sus, na ro pu-tu-re-hon da-la-nan tu sur-go i. Di ma-ni-si-a su-de, so-ngon na da-pot i-da
+#B
+1 . . |]
+> on.
+#V
+Marolopolop hamu, ale surusuruan!
+Puji ma Jesus, na ro puturehon dalanan tu surgo i.
+Di manisia sude, songon na dapot idaon.
+-
+Marolopolop hamu angka ujung ni tano!
+Puji ma Jesus Tuhanta, na ro sian surgo!
+Domu muse, jolma pardosa sude tu Debata na di surgo.
+-
+Tanda ma holong ni roha ni Tuhan Jahowa,
+Ai dipatupa na tau holongangan ni roha;
+AnakNa i tubu di Betlehem i lao paluahon pardosa.
+-
+Anak ni Tuhan Jahowa manjalo sibukta!
+Ise na tuk mangantusi pambaenNa di hita?
+Mungkap nuaeng dalan tu surgo dibaen asa girgir bangotanta
+-
+Dohot do au, ale Tuhan ditatap rohaMu:
+Dohot tu ahu dilehon Ho hatuaonMu.
+Las rohangkon, naeng pujionku tongtong Ho, Sipangolu tondingku.
+-
+Raja na sangap, na bolon, huhut marmulia,
+Na gabe jolma humophop sude maisia,
+Ho do tongtong, ihuthononku dison; Sai hutundalhon na roa.
+-
+Ale Immanuel, tubu ma Ho di rohangku,
+Jolo ma i, ale JEsus, tongtong IngananMu.
+Topot au on ma au sonang tongtong jala sai gohi rohangku!
+-
+Huhaholongi o Jesus, Ho alealengku,
+Jala goarMu na bolon tongtong pujionku.
+Jalo au on, jala urupi tongtong mangaradoti hataMu!

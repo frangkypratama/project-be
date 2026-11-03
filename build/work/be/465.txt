@@ -1,0 +1,34 @@
+@be 465
+@bl 311
+@title Ale Tondi Parbadia.
+@key Ab
+@meter 6/4
+@credit F. B. No. 68 · Lagu: William B. Bradbury 1868
+@pages 444
+@check Kepala lagu mencetak judul Logu "Ale Tondi Parbadia." (melodi sama dengan BE 462); baris pertama lirik: "Pasupasu lehononMu".
+@status Lirik dicek · 9/12 baris sama dgn pembanding
+@check Pembanding lirik: 3 baris ":,: Dohot au :,:" berbeda hanya karena pembanding menuliskan ulangan secara utuh; kata lain sama. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 465) | https://bukuende.wordpress.com/2013/06/16/pasupasu-lehononmu-buku-ende-no-465-buku-logu-no-311/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 . 4 5 . 1 | 4 . 3 3 . 2 | 2 . 3 4 . 2 | 1 . 7, 1 . . :|
+> Pa-su-pa-su le-ho-non-Mu, i do ba-ga-ba-ga-Mi
+> So-ngon ang-ka u-dan ne-ne sai tu au ma ne-tek i.
+#B
+5 . 3 5 . . | 3 . 1 3 . . | 3 . 4 5 . 1 | 3 . 2 1 . . |]
+> Nang tu au, nang tu au, pa-te-tek-kon i tu au
+#V
+Pasupasu lehononMu, i do bagabagaMi
+Songon angka udan nene sai tu au ma netek i.
+Nang tu au, nang tu au, patetekkon i tu au
+-
+O Amang, sai ro, apuli dohot au na marsak i.
+Sai pamalum nang rohangku, na tongtong marsahit i.
+:,: Dohot au. :,: Sai pamalum dohot au.
+-
+Bereng au, ramun rohangku, ndang tarbaen malua au
+Holan Ho na boi mamuri, ro, palua dohot au.
+:,: Dohot au :,: Ro palua dohot au.
+-
+Suru ma tondiM manggomgom hata nang ulaonki.
+Paimbaru ma rohangku topot au di asiMi.
+:,: Dohot au. :,: Sai ditopot Ho nang au.

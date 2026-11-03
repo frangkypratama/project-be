@@ -1,0 +1,38 @@
+@be 387
+@bl 256
+@title Hatop ma ho ro.
+@key Eb
+@meter 6/8
+@credit (tidak dicantumkan di buku)
+@pages 371 372
+@check Kepala lagu juga mencetak "S.L. No. 48". Ayat 2–4 ada di atas hlm 372, tanpa nama komponis.
+@check Birama 6/8: 1 token = 1 not 1/8; "1.5" bergaris atas tunggal+ganda = 1/16 bertitik + 1/16, ditulis "1' .+5".
+@check Birama bertanda legato "5 . . 5 . 5", "3 . 3 5", "1 . . 1": paranada not 1/4 bertitik diikat ke not 1/4 (+ 1/8) → ditulis "(5 . . 5) . 5", "(3 . . 3) . 5", "(1 . . 1) . .".
+@check Birama "i . 5 i" (bagian 2): paranada 1/4 bertitik + 1/4 + 1/8 → "1' . . 5 . 1'". Birama "6 4 i 7 6": 1/4 (legato) + 1/8 + 1/4 + dua 1/16 (legato) → "(6 . 4) 1' . (7+6)".
+@status Lirik dicek · 5/10 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan L1–L5 (ayat 1 disusun dari lirik di bawah not, mis. "dijou", "Mabaor", "basaNa"); L8 "niula" sama dgn pembanding (scan kabur, bisa terbaca "niuia").
+@ref Lirik pembanding: bukuende.wordpress.com (BE 387) | https://bukuende.wordpress.com/2013/06/13/hatop-ma-ho-ro-buku-ende-no-387-buku-logu-no-256/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 1' .+5 5 3 4 5 | 6 . . 5 . 3 |
+1 .+1 1 1 1 6 | (5 . . 5) . 5 | 7 .+6 5 4 5 4 |
+3 . . 6 . 6 | 5 .+5 5 4 4 7, | (1 . . 1) . . |
+> Ha-top ma ho ro tu par-si-lang, di-jou Tu-han Je-sus do ho, ma-baor do di-si ha-se-sa-an tu ang-ka par-do-sa-na ro.
+#B
+5 | 5 .+5 5 5 6 7 | 1' . . 5 . 1' |
+7 2 3 4 6 5 | (3 . . 3) . 5 | 3 .+4 5 3 .+4 5 |
+(6 . 4) 1' . (7+6) | 5 1' 3 2 6 5 | (1 . . 1) . . |]
+> Ha-top ma ho ro tu par-si-lang. Tu Je-sus mar-lo-jong ma ho, di-le-hon Tu-han-mu ba-sa-Na tu ang-ka par-do-sa-na ro.
+#V
+Hatop ma ho ro tu parsilang, dijou Tuhan Jesus do ho,
+Mabaor do disi hasesaan tu angka pardosana ro.
+Hatop ma ho ro tu parsilang. Tu Jesus marlojong ma ho,
+Dilehon Tuhanmu basaNa tu angka pardosana ro.
+-
+Lului hasesaan ni dosa di silang di Golgata i.
+Tung muba do hadirionmu, na malum sude sahitni. Sai....
+-
+Lului haluaon di silang, margogo tutu mudar i.
+Partohap ma ho di pangkopkop niula ni Tuhanta i. Sai....
+-
+Martua sude, na porsea di sintong ni HataNa i,
+Ndang dung manang ise tarhirim na olo porsea disi. Sai....

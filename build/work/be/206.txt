@@ -1,0 +1,44 @@
+@be 206
+@bl 90
+@title Na dison do au Tuhanku
+@key Eb
+@meter 4/4
+@credit J.A. Melchior, 1853
+@pages 187
+@status Lirik dicek · 17/18 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 17 dari 18 baris sama; baris 16 kata 1 (ejaan). Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 206) | https://bukuende.wordpress.com/2013/06/16/na-dison-do-au-tuhanku-buku-ende-no-206-buku-logu-no-90/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Buku hanya mencetak teks dengan keterangan "Logu No. 90 : Songon Ende No. 205"; notasi diambil dari BE 205 dan ayat 1 dipasangkan pada melodinya.
+#A
+5 (4+3) 2 1 | 6 (5+4) 3 2 v |
+2 2 5 4 | 3 2 1 . :|
+> Na di-son do au Tu-han-ku, na mar-som-ba au tu Ho
+> I-lu-i-lu ni ma-tang-ku, hu-som-ba-hon do tu Ho
+#B
+3 5 4 3 |
+2 4 3 2 v | 5 3 6 4 | 3 2 1 . |]
+> Ro-ha-Mi ma tu ro-hang-ku na ma-si-hol au di Ho!
+#V
+Na dison do au Tuhanku, na marsomba au tu Ho
+Iluilu ni matangku, husombahon do tu Ho
+RohaMi ma tu rohangku na masihol au di Ho!
+-
+Sai matahon au Tuhanku, sai rajai ma diringkon.
+Ho hinirim ni rohangku, sipangolu tondingkon.
+RohaMi ma tu rohangku, Ho di au di Ho au on.
+-
+Ndang adong pangidoanku dungkon asi ni rohaM:
+Na dilehon Ho, Tuhanku tu na unduk di hataM.
+RohaMi ma tu rohangku sai pasauthon ma hataM.
+-
+Ho do mata ni aringku, halalas ni rohangki.
+Na masihol do tondingku di Ho, Jesus Tuhanki.
+RohaMi ma tu rohangku asa sabam rohangki.
+-
+Sai tangihon ditangishon rohangki dangolna i
+Sai tangihon ditangishon tondingki siholna i
+RohaMi ma tu rohangku sai di Ho ma tondingki.
+-
+Hamoraon, halilian, roha ni portibi on
+I do tongtong parsahitan situtu di tondingkon
+Holan Ho huhalungunhon, hutundalhon tano on.

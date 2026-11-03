@@ -1,0 +1,37 @@
+@be 706
+@bl 0
+@title Godang ni pasu-pasu i
+@key G
+@meter 6/4
+@credit Syair & lagu: Thank you, Lord; Seth Sykes and Bessy Sykes, 1940 · Terj.: Dcs. Bonaria Hutabarat
+@pages 740 741
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0).
+@check Lirik di bawah not refrein tertulis "Ja-lo ma pu-ji-an-ki", sedangkan baris Ref. pada ayat 2–3 tertulis "Jalo ma pujionki . . ." — keduanya ditulis apa adanya.
+@check Ayat 2 "ummuli" ditulis apa adanya.
+@status Lirik dicek · 4/7 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — baris 1 (dilehon), refrein (Jalo/pujianki), ayat 2 (ummuli) beda ejaan. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 706"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 706) | https://bukuende.wordpress.com/2013/06/13/godang-ni-pasu-pasu-i-buku-ende-no-706-buku-logu-no-706/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+1 7, 6, 1 . 6, | 7, . 6, 5, . 5, |
+2 . 7, 6, . 5, | (1 . . 1) . 3 |
+2 . 3 2 . 1 | 7, . 1 2 . 1 | 7, . 7, 1 . 6, |
+(2 . . #2) . . |]
+> Go-dang ni pa-su-pa-su i di-le-hon Tu-han-ki, tar-lo-bi a-si-a-si-Mi mar-hi-te a-nak-Mi.
+#B
+3 . 1 5, . #5, | (6, 1) 4 3 . . |
+3 . 1 5, . 1 | (1 2) 3 2 . . |
+3 . 1 5, . #5, | 6, 1 4 3 . . |
+5 3 1 (2 3) 4 | 3 . 2 1 . . |]
+> Ja-lo ma pu-ji-an-ki, Je-sus Si-pa-lu-a i, boi au bo-ngot tu sur-go i, mar-ni-da ha-sa-ngap-on-Mi.
+#V
+Godang ni pasu-pasu i dilehon Tuhanki,
+tarlobi asi-asiMi marhite anakMi.
+Ref. : Jalo ma pujianki, Jesus Sipalua i, boi au bongot tu surgo i, marnida hasangaponMi.
+-
+Tondong nang ale-ale i palashon rohangki,
+alai na ummuli i boi au anakMi
+Ref. : Jalo ma pujionki . . .
+-
+Ndang dung mansohot basaMi saleleng ngolungki,
+Ho ma tongtong pujionki sangap digoarMi
+Ref. : Jalo ma pujionki . . .

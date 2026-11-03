@@ -1,0 +1,37 @@
+@be 709
+@bl 0
+@title Jesus mangasi i au
+@key D
+@meter 2/4
+@credit Syair: Jesus loves me: Anna B. Warner, 1820 - 1915 · Terj.: Pdt. M. V. Simajuntak · Lagu: Willeam B. Breadbury, 1816 - 1868
+@pages 745 746
+@check Buku tidak mencantumkan "Logu No." untuk lagu ini (@bl 0).
+@check Birama terakhir angka tercetak "1 . . ." (4 ketuk) padahal birama 2/4 dan balok = not 1/2 → ditulis `1 .`.
+@check Judul & ayat 1 "mangasi", ayat 2–4 "mangisi"; kredit "Willeam B. Breadbury" (lazim William B. Bradbury) — ditulis apa adanya.
+@status Lirik dicek · 3/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — pembanding tanpa "do" (tong do nampunaNa), beda ejaan mangasi/mangisi, sei, jaga; buku dicek ulang: "tong do" dan "si jaga" memang tercetak. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 709"; buku sendiri tidak mencetak nomor Logu.)
+@ref Lirik pembanding: bukuende.wordpress.com (BE 709) | https://bukuende.wordpress.com/2013/06/16/jesus-mangasi-i-au-buku-ende-no-709-buku-logu-no-709/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+#A
+5+3 3+2 | 3+5 5 | 6+6 1'+6 | 6+5 5 |
+5+3 3+2 | 3+5 5 | 6+6 5+1 | 3+2 1 |]
+> Je-sus ma-nga-si i au Bi-bel i man-dok tu au nang ga-le, met-met pe au tong do nam-pu-na-Na au
+#B
+5 3+5 | 6+1' . | 5 3+1 | 3+2 . |
+5 3+5 | 6+1' .+6 | 5+.+.+1 3+2 | 1 . |]
+> Je-sus Tu-han-ku nam-pu-na a-hu sei pos ro-hang-ku Bi-bel man-dok tu au
+#V
+Jesus mangasi i au Bibel i mandok tu au
+nang gale, metmet pe au tong do nampunaNa au
+Ref. : Jesus Tuhanku nampuna ahu sei pos rohangku Bibel mandok tu au
+-
+Jesus mangisi i au, pola mate ala au
+lao manesa dosangki, laos mangungkap surgo i.
+Ref. : Jesus Tuhanku . . .
+-
+Jesus mangisi i au, nang di na marsahit au
+sai tongtong si jaga au, diparmudu-mudu au
+Ref. : Jesus Tuhanku . . .
+-
+Jesus mangisi i au, jala mandongani au
+sogot raphon Jesus au di bagasNa, sonang au
+Ref. : Jesus Tuhanku . . .

@@ -1,0 +1,30 @@
+@be 180
+@bl 228
+@title Ro tu Jesus, ho na loja
+@key Ab
+@meter 3/4
+@credit Lagu: Ethelbert William Bullinger
+@pages 163
+@status Lirik dicek · 10/10 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 180) | https://bukuende.wordpress.com/2013/06/16/ro-tu-jesus-ho-na-loja-buku-ende-no-180-buku-logu-no-228/ | 10/10 baris sama
+#A
+(5, 6,) 5, | 1 . 3 | (2 6,) 7, | 6, . 5, |
+1 . 1 | (3 2) 6, | 2 . . | (5, 6,) 5, | 3 . 3 |
+(3 4) 3 | (3 2) 6, | (7, 6,) 7, | 1 . . |]
+> Ro tu Je-sus, ho na lo-ja, na ma-he-u i, lam lum-bang do di lam-bung-Na ro-ha-mi.
+#V
+Ro tu Jesus, ho na loja, na maheu i,
+Lam lumbang do di lambungNa rohami.
+-
+Bereng di hau pinarsilang, daon ni sahitMi,
+Tuhanmi na hona uhum, singkatMi.
+-
+Timbang holong ni rohaNa, na sai godang i,
+Ai dilehon do hosaNa, tobusmi.
+-
+Apulapul, sae ni dosa, hangoluanmi,
+Saluhut dilehon Jesus, tuami.
+-
+Diantusi do siholmu, habebernitmi.
+Gogo, tahanmi, diantan, Tuhanmi.

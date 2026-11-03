@@ -1,0 +1,52 @@
+@be 736
+@bl 0
+@title Jesus haposanku
+@key E
+@meter 3/4
+@credit Syair: "Jesus haposanku: (BE 228); Lagu: NN
+@pages 785 786 787
+@status Lirik dicek · 14/20 baris sama dgn pembanding
+@check Bagian suplemen; tidak ada nomor "Logu No." di buku → @bl 0.
+@check "3 2 3" di bagian C bertanda triol (3) dengan legato pada 3-2 → satu ketuk dibagi tiga.
+@check Ayat 2–5: dua baris terakhir bertanda ":; … :;" (diulang) = bagian B dan C. Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
+@check Pembanding lirik: baris 2, 3, 6, 14, 15, 16 beda; ayat 4 tercetak "Jesud" (salah cetak). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 736) | https://bukuende.wordpress.com/2013/06/16/jesus-haposanku-buku-ende-no-736-buku-logu-no-736/ | proofreading per baris
+#A
+5 5 4+.+.+3 | 3 2 . | 2+.+.+3 4 .+4 |
+(3+.+.+6) 5 0 | 5 5 4+.+.+3 | 3 2 . | 2+.+.+3 4 7, |
+2 1 0 |
+> Je-sus ha-po-san-ku u-nang ma pa-som-bu, au di ha-pun-ju-ngan di na so mar-do-ngan.
+#B
+3+5 1' .+7 | 7 6 . |
+2+.+.+2 5 .+4 | (3+6) 5 . | 3+5 1' .+7 | 7 6 . |
+5+.+.+5 5 7, | 2 1 0 |
+> Ho tong-tong do-ngan-ku di-par-da-la-nan-ku, Je-sus ha-po-san-ku u-nang au pa-som-bu.
+#C
+3 3 (3+2)+3 | 4 4 0 | 2+.+.+2 5 .+4 | (3+6) 5 . |
+3 3 (3+2)+3 | 4 4 0 | 5,+.+.+5, 3 2 | 2 1 0 |]
+> Ho tong-tong do-ngan-ku si-par-da-la-nan-ku, Je-sus ha-po-san-ku u-nang au pa-som-bu.
+#V
+Jesus haposanku unang ma pasombu,
+au di hapunjungan di na so mardongan.
+:; Ho tongtong donganku, sipardalananku,
+Jesus haposanku unang au pasombu. :;
+-
+Ho sambing Rajangku Ho do oloanku,
+naposoM do ahu di HurajaonMu.
+:; Sonang ma rohangku, dung tangkas di ahu
+Ho sambing Rajangku jala oloanku :;
+-
+DiharajaonMu, tigor do uhumMu,
+Ho ma huihuthon lao tu hangoluan,
+:; Naung torang tarida, sonang do nasida,
+diharajaonMu alani uhumMu :;
+-
+Masa asi roha, mida sipardosa,
+Jesud do manesa dosa sasudena,
+:; Na gogo muradNa mamintori hita,
+angka asi roha, masa di pardosa :;
+-
+Jesus do Tuhanku, parsigantunganku,
+Jesus do ojahan ni haporseaon
+:; Ndada au tahutan, nang diparmaraan,
+Jesus do Tuhanku parsigantunganku :;

@@ -1,0 +1,42 @@
+@be 830
+@bl 0
+@title Sai pahohom ma rohangku
+@key C
+@meter 4/4
+@credit Syair & Lagu: NN
+@pages 915 916 917
+@status Lirik dicek · 4/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 ("di joloMi"), 2 ("patoguhon"), 3 ("Haholongon"), 5 ("rohami") beda ejaan/kata; dicek ulang di scan hlm 915–917, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 830) | https://bukuende.wordpress.com/2013/06/18/sai-pahohom-ma-rohangku-buku-ende-no-830-buku-logu-no-830/ | dibandingkan per baris
+@check Buku tidak mencetak nomor Logu → @bl 0.
+@check Birama berganti: bagian A 4/4, bagian B 3/4 (tercetak di paranada), bagian C 4/4.
+@check Bagian A baris 5 (hlm 916), birama 2: angka "1̇ . 7 ." tetapi not balok tampak D5 (2̇) setengah lalu B4; ditulis sesuai angka (1̇).
+@check Bagian C birama 2 baris 2: "mar -" di bawah F setengah + F 1/8 bertitik (dua not sama tanpa legato); ditulis "mar _" (suku kata ditahan).
+#A
+5 .+5 5 5 | 1' 5 4 3 | 2 3 4 6 | 5 .+2 3 0 |
+5 .+5 5 5 | 1' 5 4 3 | 6 6 5 3 | 4 (3+2) 1 0 |
+3 . . 3 | 3 . 3 . | 6 . . 1' | 7 . 3 . | 6 . 7 . | 1' . . 6 |
+3 . #4 . | 5 . . 0 | 5 .+5 5 5 | 1' 1' 1' 5 |
+1' 2' 3' 1' | 1' . 7 . | 1' . . 0 |
+> Sai pa-ho-hom ma ro-hang-ku, O Tu-han di jo-lo-Mi, ma-na-ngi-hon so-a-ra-Mu pa-to-gu-hon ro-hang-ki. Ha-ho-lo-ngon na ba-di-a go-hi ro-ha ton-ding-ki, naeng tang-kas ma hu-an-tu-si ho-long-Mi na bal-ga i,
+#B 3/4
+5 | 5 . 5 |
+5 . 5 | 5 . 5 | 5 . 5 | (1' .+7) 6 | 5 . 6 |
+4 . 5 | 3 . 5 | (5 .+4) 3 | (5 .+4) 3 |
+(2 .+3) 4 | 3 . 5 | (1' .+7) 6 | 5 1 2 |
+3 3 2 | 1 . . |
+> I-as tu-tu ja-la da-me, ho-hom bu-lus do ro-ha-mi a-ja-ri au ma-ni-ru i, lao pa-sol-hot-hon au tu lam-bung Mi.
+#C 4/4
+3+.+.+4 (5 .+.+5)+3 4+.+.+3 | 2 . . 2+.+.+3 |
+4 . 4+.+.+6 5+.+.+4 | 5 . . 3+.+.+4 | (5 . 5)+.+.+1' 2'+.+.+1' |
+6 . . 1'+.+.+6 | 5 1' 1' 7 | 1' . . 0 |]
+> Di-ta-ngi-hon Ho do au di na mar _ ta-ngi-ang i, hu-pa-ngi-do ma tu Ho sai pa-ho-hom ro-hang-ki.
+#V
+Sai pahohom ma rohangku, O Tuhan di joloMi,
+manangihon soaraMu patoguhon rohangki.
+Haholongon na badia gohi roha tondingki,
+naeng tangkas ma huantusi holongMi na balga i,
+Ias tutu jala dame, hohom bulus do rohami
+ajari au maniru i, lao pasolhothon au tu lambungMi.
+Ditangihon Ho do au di na martangiang i,
+hupangido ma tu Ho sai pahohom rohangki.

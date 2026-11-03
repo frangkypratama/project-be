@@ -1,0 +1,44 @@
+@be 127
+@bl 121
+@title Lam gogo
+@key C
+@meter 4/4
+@credit Johann Schmidt, 1704
+@pages 114 115
+@status Lirik dicek · 12/21 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 21 baris sama; 9 baris beda ejaan/kata hilang. Ayat 2–7 dicek ulang ke scan: buku memang menulis "binaennai", "pajujujuju", "Nang n tigor", "barjumi/berjumi"; ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 127) | https://bukuende.wordpress.com/2013/06/16/lam-gogo-buku-ende-no-127-buku-logu-no-121/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 3 5 . v | 6 7 1' . v | 3' 2' 1' 2' | 1' 7 1' . v |
+5 5 6 7 | 1' 2' 7 5 v | 2' 2' 3' 1' | 7 6 5 . v |
+6 6 5 5 | 4 5 3 1 v | 2 2 1 2 |
+3 4 5 3 | 2 . v 1 3 | 5 . v 6 7 | 1' . . . |]
+> Lam go-go, lam go-go, lam go-go mar-da-lan ho, Si-on tu ba-nu-a gin-jang, nang sa-tong-kin u-nang so, Pa-li-tom baen mar-si-non-dang. Di na ti-ur i mar-da-lan ho lam go-go, lam go-go
+#V
+Lam gogo, lam gogo, lam gogo mardalan ho,
+Sion tu banua ginjang, nang satongkin unang so,
+Palitom baen marsinondang. Di na tiur i mardalan ho lam gogo, lam gogo
+-
+Taon nama, taon nama, Sion taon na hansit i;
+Insahinsak, pangunjunan, unang habiari i.
+Tatap tumpal hangoluan! Pangarsahi ni sibolis taon ma i, taon ma i!
+-
+Tundal ma, tundal ma, tundal ma portibi on;
+Hasangapon diparbaga, unang tatap tano on
+Unang somba naganaga, halilion na binaennai, tundal i, tundal i,
+-
+Uji ma, uji ma Sion uji tondi I; angka na pajujujuju,
+Ho mambahen dosa i sai ihuthon ma Tuhanmu.
+Nang n tigor, nang na geduk i, uji i, uji i.
+-
+Torus baen, torus baen, Sion, torus baen roham,
+Mamingkiri hasonangan na binaen ni Debatam.
+Unang tondong hamagoan, Sion manimbangi dalanmi, torus baen rohami!
+-
+Pangke ma, pangke ma, pangke ma gogom sude,
+Patandahon haholongan ni roham di Jesus i,
+Na mangoli ho, o Sion mangoloi sude patikNa i, pangke ma gogomi!
+-
+Tiop ma, tiop ma, Sion tiop barjumi!
+Sai tongtong ma ho manggogo, mandopangi musumi!
+Ndang be dao ho sian surgo, sai panjung paraloanmi, berjumi tiop i!

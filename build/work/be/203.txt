@@ -1,0 +1,44 @@
+@be 203
+@bl 225
+@title Holong do rohangkon di Ho
+@key Bb
+@oct -1
+@meter 4/4
+@credit Strassburg, 1577
+@pages 184 185
+@status Lirik dicek · 14/17 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 14 dari 17 baris sama; baris 6 & 17 beda ejaan; baris 10 pembanding tanpa kata pertama. Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 203) | https://bukuende.wordpress.com/2013/06/13/holong-do-rohangkon-di-ho-buku-ende-no-203-buku-logu-no-225/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian B: not balok buku memberi tanda napas sesudah 7 pada birama "7 3̇ 4̇ 2̇" (tidak tercetak di angka); ditambahkan.
+#A
+1' . 7 6 | 5 (4+3) 6 6 | 5 . v 1' . | 7 6 5 (4+3) |
+6 6 5 v 5 | 6 7 (1' 3') | 2' . (1' 7) | 1' . . . :|
+> Ho-long do ro-hang-kon di Ho, sai u-nang man-dao-dao be Ho, o Tu-han si-an a-hu.
+> Ndang di-ha-las-hon ro-hang-kon nang a-ha pe di ta-no on, naeng Ho sam-bing di a-hu
+#B
+0 1' 1' 2' |
+1' 6 1' 1' | 7 v 7 1' 2' | 1' 6 1' 1' |
+7 . v 1' 3'+3' | 2'+1' 1'+7 1' v 7 | 1' . . 7 | 6 5 5 #4 |
+5 . v 3' . | 2' . 1' . | 7 v 3' 4' 2' | 1' 2' 1' 7 |
+1' 0+1' 1' 1' | 2' 1' 1' 7 | 1' . . . |]
+> Ai ma-nang tos pe ho-sang-ki sa-sa-da Ho ha-po-san-ki, na ma-nga-pu-li ro-hang-ki, naung di-pa-i-as mu-dar-Mi. O Je-sus-ki, De-ba-tang-ki, De-ba-tang-ki, par-ba-di-ai ma ton-ding-ki.
+#V
+Holong do rohangkon di Ho, sai unang mandaodao be Ho, o Tuhan sian ahu.
+Ndang dihalashon rohangkon nang aha pe di tano on, naeng Ho sambing di ahu
+Ai manang tos pe hosangki sasada Ho haposanki, na mangapuli rohangki, naung dipaias mudarMi.
+O Jesuski, Debatangki, Debatangki, parbadiai ma tondingki.
+-
+Ai holan denggan basaMi do daging dohot tondingki.
+Rodi sude artangku. Antong, asi ma rohaMi,
+Ajari au mamangke i, baen sangap di goarMu.
+Tongtong padao ma sian au sude na tau mangago au,
+Huhut pabenget rohangki, manaon sude na porsuk i.
+O Jesuski. Manaon sude na porsuk i. O Jesuski.
+Debatangki, Debatangki, palambok hamamatengki!
+-
+Sai dokkon ma suruanMi, mangusung au tu lambungMi,
+Ianggo ro ajalhu, disi papodom dagingkon
+Sinok didalom tano on, paima ro ariMu.
+Dung i sungguli au muse, marnida bohiMi, tahe;
+Palas ma rohangki tongtong, parasiroha di au on.
+O Jesuski tangihon on, tangihon on asa hupuji Ho tongtong!

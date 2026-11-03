@@ -1,0 +1,43 @@
+@be 258
+@bl 218
+@title Sai hutuju
+@key F
+@meter 4/4
+@credit Lagu: Philipp Friedrich Hiller 1769
+@pages 237 238
+@status Lirik dicek · 14/16 baris sama dgn pembanding
+@check Pembanding lirik: beda: "mardalam" dan "na" (ayat 2); dicek ulang ke scan: tercetak demikian di buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 258) | https://bukuende.wordpress.com/2013/06/18/sai-hutuju-buku-ende-no-258-buku-logu-no-218/ | Pembanding lirik (tanda baca/kapital diabaikan).
+@check Awal lagu dicetak "3 . 2̄ | 2̄1̄ 1 |" (garis birama setelah 3.2). Melodi sama di bagian B tercetak satu birama penuh "3 . 2̄ 2̄1̄ 1"; jumlah ketuk A juga hanya genap bila digabung → ditulis satu birama 3 .+2 (2+1) 1.
+@check Baris 1 dicetak "hango-ngo-lu" (bukan "hangoluan"); ditulis sesuai cetakan. Ayat 2 "mardalam" sesuai cetakan.
+@check Ayat 1 disusun dari lirik di bawah not.
+#A
+3 .+2 (2+1) 1 | 5 .+4 (4+3) 3 v | (3+2) (4+2) 1 7, |
+1 . 0 0 :|
+> Sai hu-tu-ju ha-ngo-ngo-lu na pa-sa-bam au,
+> Sai hu-go-go, lao tu sur-go, pai-ma sa-hat au.
+#B
+5 .+3 6 .+5 | (5+4) (4+3) 4 . v |
+4 .+2 5 .+4 | (4+3) (3+2) 3 . v | 3 .+2 (2+1) 1 |
+5 .+4 (4+3) 3 v | (3+2) (4+2) 1 7, | 1 . 0 0 |]
+> Sa-bat hu-pa-si-ding do, ha-ta on hu-i-ngot do: sai dat-da-ti man-ja-la-hi ha-so-na-ngan i.
+#V
+Sai hutuju hangongolu na pasabam au,
+Sai hugogo, lao tu surgo, paima sahat au.
+Sabat hupasiding do, hata on huingot do:
+Sai datdati manjalahi hasonangan i.
+-
+Naung pinio do tu surgo au binahenMi.
+Molo togang au mardalam, na jorbut ma i.
+Anggo na tarsabat i, mago do tumpalna i.
+Hutadingkon, hutundalhon na di pudingki.
+-
+Ale Jesus, sai pabulus, langkangki tu Ho!
+Pargogoi ma au na loja, na maheu do.
+Sai apoi ma rohangkon manundalhon tano on.
+Baen malua, baen martua au pardagang on.
+-
+Ndang margogo au mangalo angka dosangki.
+Taiti ahu tu lambungMu, tu na sonang i.
+Pasingothon hataMi, sai tongtong tu rohangki.
+Pujionku ma goarMu, salelengna i.

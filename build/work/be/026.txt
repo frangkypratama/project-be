@@ -1,0 +1,38 @@
+@be 26
+@bl 180
+@title Ale dongan na saroha
+@key G
+@meter 4/4
+@credit Johann Schop, 1642
+@pages 22 23
+@check Judul tercetak "Ale dongan na saroha"; lirik ayat 1 dimulai "Dame nimMu, ale Jesus".
+@check Baris lirik pertama bagian ulang: buku mencetak "Dame, niniMu ... lehononmu di" lalu "na-po-soM" hanya di baris kedua; suku katanya tidak pas 15 not. Dibaca "nimMu" (sesuai judul di bukuende.wordpress.com) dan "lehon-mu" dua not digabung — perlu dicek.
+@check Birama "7 1 . 2 3": titik dianggap pemisah; not balok buku 4 not 1/4.
+@status Lirik dicek · 10/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 10 dari 12 baris sama persis; 2 baris beda (“lehononmu”, “parararthon”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 26) | https://bukuende.wordpress.com/2013/06/13/dame-nimmu-ale-jesus-buku-ende-no-26-buku-logu-no-180/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 2 3 5 | 4 3 2 2 v | 3 2 1 2 |
+1 7, 1 . :|
+> Da-me nim-Mu, a-le Je-sus, le-ho-nonmu di na-po-soM.
+> Ton-di-Mi do na pa-tu-lus ha-ta-Mi tu na-po-soM.
+#B
+7, 1 2 2 | 1 7, 6, 6, |
+7, 1 2 3 | 4 3 2 . v | 1 2 3 5 |
+4 3 2 2 v | 3 2 1 2 | 1 7, 1 . |]
+> Da-ngol ha-mi ja-la po-gos, ndang tau baen par-ha-la-doM; Ton-di par-ba-di-a to-ngos, mar-go-goi-hon ha-mi on.
+#V
+Dame nimMu, ale Jesus, lehononmu di naposoM.
+TondiMi do na patulus hataMi tu naposoM.
+Dangol hami jala pogos, ndang tau baen parhaladoM;
+Tondi parbadia tongos, margogoihon hami on.
+-
+Ale Tondi Sipardame sai bongoti hami be.
+Sai pasada rohanami, gok parbue baen sude.
+Lam patinggil pinggolnami, tumangihon dasdasMi,
+Asa ganda ringgasnami parararthon hataMi.
+-
+Sada siradotannami dipangido rohaMi;
+Ingkon holong rohanami mida angka dongan i,
+Asa tung margogo hami patupahon hataMi.
+Sumeahon dirinami tu Ho, nang tu dongan i.

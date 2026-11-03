@@ -1,0 +1,23 @@
+@be 563
+@bl 0
+@title Ita puji Debata
+@key G
+@meter 4/4
+@credit Syair: Bent Ngyeti Ba yawe/Let Us Praise the Lord; Terj.: Pdt. M. Hutapea; Lagu: Camerun
+@pages 532
+@check Bagian Puji-pujian: tidak ada nomor "Logu No." → @bl 0. Ayat bacaan: Ps. 150 : 6.
+@check Hanya satu bait (lirik di bawah not); teks #V disusun dari lirik di bawah not.
+@status Lirik dicek · 3/3 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 563) | https://bukuende.wordpress.com/2013/06/16/ita-puji-debata-buku-ende-no-563-buku-logu-no-563/ | teks lirik
+#A
+1+3 3+3 3+2 2 | 2+4 4+4 4+3 3 |
+3+5 5+5 3+1 6, | 7, . 1 0 |
+> I-ta pu-ji De-ba-ta i-ta pu-ji De-ba-ta i-ta pu-ji De-ba-ta A-men
+#B
+3 . 3+2 2 | 4 . 4+3 3 | 5 . 3+1 6, | 7, . 1 . |]
+> ha-le-lu-ya, ha-le-lu-ya ha-le-lu-ya A-men.
+#V
+Ita puji Debata, ita puji Debata,
+ita puji Debata, Amen,
+haleluya, haleluya, haleluya, Amen.

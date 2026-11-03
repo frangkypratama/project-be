@@ -1,0 +1,41 @@
+@be 511
+@bl 351
+@title Ai tagamon idaonku.
+@key Ab
+@meter 4/4
+@credit Philipp Paul Bliss 1876
+@pages 482 483
+@status Lirik dicek · 7/18 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 18 baris sama; beda: L1, L3, L4, L5, L6, L8, L10, L11, L13, L14, L18 (umumnya ejaan). Baris refrein singkat ("... ......") tidak ikut dibandingkan. kata yang beda dicek ulang ke scan (zoom 600 dpi); transkripsi mengikuti tulisan buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 511) | https://bukuende.wordpress.com/2013/06/09/ai-tagamon-idaonku-buku-ende-no-511-buku-logu-no-351/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Kepala lagu juga mencetak "R. L. No. 163".
+@check Baris 4 diakhiri garis birama ganda, lalu baris 5–6 (refrein) di hlm 487 buku.
+#A
+5, 1 1+.+.+7, 1+.+.+3 | 2 . 6, . | 7, 6, 5,+.+.+4 3+.+.+2 |
+3 . . . | 5, 1 1+.+.+7, 1+.+.+3 | 2 . 6, . | 7, 6, 5,+.+.+4 3+.+.+2 |
+1 . . . | 1 6, 6,+.+.+7, 1+.+.+2 | 3 . 7, . | 1 6, 6,+.+.+7, 1+.+.+3 |
+2 . . . | 5, 1 1+.+.+7, 1+.+.+3 | 2 . 6, . | 7, 6, 5,+4 3+.+.+2 |
+1 . . . | 1 4 4+.+.+4 1+.+.+2 | 3 . 7, . | 1 6, 6,+.+.+7, 1+.+.+3 |
+2 . . . | 5, 1 1+.+.+7, 1+.+.+3 | 2 . 6, . | 7, 6, 5,+4 3+.+.+2 | 1 . . . |]
+> Ai ta-ga-mon i-da-on-ku Ho mu-se di sur-go i? Ja-di hot do hi-rim-on-ku, ing-kon hi-ta rap di-si tang-kap ta-ngan ni Tu-han-mu, Sai o-loi po-da-Na i, a-sa lam ti-ur da-lan-mu tu ba-nu-a gin-jang i! naeng tu-tu ma par-si-do-hot au di ha-ngo-lu-an i, A-sa saut pa jum-pang hi-ta di ba-nu-a gin-jang i.
+#V
+Ai tagamon idaonku Ho muse di surgo i?
+Jadi hot do hirimonku, ingkon hita rap disi
+tangkap tangan ni Tuhanmu, Sai oloi podaNa i,
+asa lam tiur dalanmu tu banua ginjang i!
+naeng tutu ma parsidohot au di hangoluan i,
+Asa saut pajumpang hita di banua ginjang i.
+-
+Ai tagamon do pajumpang hita di na tiur i?
+Rap dohot haholonganta. Naung tangkas tinanda i?
+Las ni roha, olop olop jambar ni na sahat i,
+Antong, tole haringkothon asa dohot ho rusi.
+Na las rohangku dohot tu haroan bolon i,
+Ai naeng dohot au pajumpang dohot angka dongan i
+-
+Songon dia do pakumpang angka na di ginjang i?
+Na sakak, na marsinondang do parulosonna i,
+Nang na pogos, nang na mora, rap martumpal be disi.
+Rap martua do naung tolhas tu banua ginjang i,
+Ala ni ringgas ma hita mangihuthon Jesus i,
+Jesus do parhiteanta, parhatuonta i.

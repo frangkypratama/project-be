@@ -1,0 +1,33 @@
+@be 126
+@bl 96
+@title Na marguru do luhutna
+@key F
+@meter 4/4
+@credit Johann Lohner, 1691
+@pages 113 114
+@status Lirik dicek · 4/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 4 dari 12 baris sama; 8 baris beda (ejaan & kata hilang). Ayat 2–4 dan lirik di paranada dicek ulang ke scan: transkripsi sesuai buku; pembanding tampaknya memakai versi teks lain.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 126) | https://bukuende.wordpress.com/2013/06/16/o-hamuna-ale-dongan-buku-ende-no-126-buku-logu-no-96/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama 6 dicetak "2 1 7̣ *"; not 7 dibaca 1/2 (tanda * dianggap titik tahan) agar genap 4 ketuk, dan "Tuhan" ditahan ke not itu.
+#A
+1 1 5 3 | 4 5 3 1 v | 3 3 2 3 |
+1 2 7, 5, v | 7, 1 2 3 | 2 1 7, . |
+2 2 5 3 | 4 5 3 1 v | 3 3 2 3 |
+1 2 7, 5, v | 1 (2+3) 4 3 | 2 2 1 . |]
+> O ha-mu na a-le do-ngan, ring-gas be ma si-ja-la-ngan lao mar-ni-ngot Tu-han _ na man-dok tu si-se-an-Na: On do pa-tik di ha-mu-na: Ma-si-ha-ho-lo-ngan i.
+#V
+O hamu na ale dongan, ringgas be ma sijalangan,
+Lao marningot Tuhan na mandok tu siseanNa:
+On do patik di hamuna: Masihaholongan i.
+-
+Tole ma itatadingkon roha na masihosoman;
+Na manirang dongan i, Kristus i do pardomuan,
+Na patongtong pardonganon, salelenglelengna i.
+-
+Hasangapon, pamujian di Tuhanta pardomuan
+Ni huria i sude di utara, di dangsina,
+Hasundutan ro di purba, dipadomu Tondi i.
+-
+Ala ni sai taradoti, roha na manghaholongi
+Debata nang dongan i, hatigoran, hasintongan.
+Hatiuron, hadameon, I ma tong padanta i.

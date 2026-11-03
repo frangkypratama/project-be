@@ -1,0 +1,36 @@
+@be 31
+@bl 86
+@title Debata do manggomgomi
+@key G
+@meter 4/4
+@credit Heinrich Albert, 1642
+@pages 27
+@check Lirik ayat 1 dimulai "Ari na marhasonangan"; melodi sama dengan BE 27 (Logu 86). Kredit tercetak "Heindrich Albert".
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 11 dari 12 baris sama persis; 1 baris beda (“tongtong”, situs “tongong”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 31) | https://bukuende.wordpress.com/2013/06/09/ari-na-marhasonangan-buku-ende-no-31-buku-logu-no-86/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 2 3 5 | 1 7, 6, . | 5, . 6, 7, |
+1 2 3 2 | 1 . . . :|
+> A-ri na mar-ha-so-na-ngan. I ma a-ri Ming-gu i.
+> A-ri i par-a-di-a-nan ni na mar-u-la-on i.
+#B
+3 3 2 3 |
+4 3 2 . v | 6, 7, 1 2 | 3 2 1 . |]
+> Sai mar-tu-a ha-lak i, Na ring-gas mar-ming-gu i.
+#V
+Ari na marhasonangan. I ma ari Minggu i.
+Ari i paradianan ni na marulaon i.
+Sai martua halak i, Na ringgas marminggu i.
+-
+Songon dia paheanku, Mandapothon Debata?
+Unduk, serep ni rohangku. I do abit na tama
+Dung adong na songon i, Tau ma au di Tuhanki.
+-
+Ale Tuhan, sai pangolu jala sai ajari au,
+Molo ganggu, sai patogu, marsak pe, apuli au;
+Tung patorang hataMi sai tongtong tu rohangki.
+-
+Pasupasu pangajaran na nidok ni hataMi,
+Sai patogu parpadanan ni na manangihon i.
+Sai urupi ma na ro martangiang dompak Ho.

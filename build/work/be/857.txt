@@ -1,0 +1,33 @@
+@be 857
+@bl 0
+@title Husomba Ho Tuhan
+@key Ab
+@meter 4/4
+@credit Syair & Lagu: Pdt. W. Silitonga (Pensilwally), 1986
+@pages 942 943
+@status Lirik dicek · 8/8 baris sama dgn pembanding
+@check Pembanding lirik: 8/8 baris sama.
+@check Pembanding menyebut Buku Logu No. 857; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 857) | https://bukuende.wordpress.com/2013/06/13/husomba-ho-tuhan-buku-ende-no-857-buku-logu-no-857/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Kotak nomor di samping judul tercetak "867" (judul "857. Husomba Ho Tuhan").
+@check Ketukan gantung "3" bergaris atas (1/8) ditulis 0+3; birama akhir "1 . . 0" (0 bergaris atas) ditulis 4 ketuk.
+@check Hlm 942 baris 3: angka "2 .1 2 2 .2" tetapi not balok ke-4 tampak C5 (= 3); ditulis sesuai angka.
+@check Melisma "2 1 2" (busur angka hanya di "2 1", busur balok sampai not ketiga) dipakai seragam mengikuti posisi suku kata: Ho, ma, ro, long; "ngi" (5 .1 2 1 2) dan "saut" (2 .1 2 2) mengikuti busur & tanda hubung lirik.
+#A
+0+3 | 5 .+1 (2+1 2)+3 | 3 . . .+3 | (5 .+1 2+1 2)+3 |
+3 . . .+1 | 2 .+2 (2+1 2)+3 | 3 . . .+1 |
+(2 .+1+2 2) .+2 | 1 . . .+3 | 3 .+1 (2+1 2)+3 |
+3 . . .+3 | 3 .+1 (2+1 2)+3 | 3 . . . |
+4 . 4 .+4 | 3 . . . | (2 .+1+2) 3 .+2 | 1 . . 0 |]
+> Hu-som-ba Ho Tu-han ta-ngi-hon au! Sang-kap-mu ma tong-tong pa-saut tu au a-jar-i ro-hang-ki, mang-ha-ho-long-i Ho sai lam gan-dai ho-long tu Ho.
+#V
+Husomba Ho Tuhan tangihon au!
+Sangkapmu ma tongtong pasaut tu au
+ajari rohangki, manghaholongi Ho
+sai lam gandai holong tu Ho.
+-
+Husomba Ho Tuhan, Tangihon au,
+mandate tondingki, sungguli au.
+ajari rohangki, manghaholongi Ho,
+sai lam gandai holong tu Ho.

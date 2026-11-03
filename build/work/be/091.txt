@@ -1,0 +1,45 @@
+@be 91
+@bl 55
+@title Hatuaon do.
+@key Eb
+@meter 4/4
+@credit Johannes Daniel Falk, 1826
+@pages 81 82
+@status Lirik dicek · 10/15 baris sama dgn pembanding
+@check Pembanding lirik: baris tengah tiap ayat (bagian C) di pembanding lebih panjang satu kata; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 91) | https://bukuende.wordpress.com/2013/06/13/hatuaon-do-las-ni-roha-do-hangongot-ni-tuhanta-i-buku-ende-no-91-buku-logu-no-55/ | 10/15 baris sama
+@check Lirik di bawah not tercetak "Ha-ngo-ugot" (salah cetak; ayat 2–5 menulis "hangongot") → ditulis apa adanya.
+@check Birama penutup bagian C "1 . 0" hanya 3 ketukan sebelum tanda ulang (sesuai buku).
+@check Bagian C diulang (tanda ulang di buku; ayat ditulis ":,:"). Teks bagian C ayat 1 di bawah not: "mago do hita. ngot ma Tuhanta." — ditulis apa adanya.
+#A
+5 . 6 . | 5 .+4 (3 4) v :|
+> Ha-tu-a-on do,
+> Las ni ro-ha do
+#B
+5 . 5 . | 6 . 7 1' |
+7 . 6 . | 5 . . 0 |
+> Ha-ngo-ugot ni Tu-han-ta i.
+#C
+(2 .+3) 2 3 | (4 .+5) 4 . v | (3 .+4) 3 4 |
+(5 .+6) 5 . v | (1' 7) (6 5) | 1' 6 5 4 | 3 . 2 . | 1 . 0 :|
+> ma-go do hi-ta. ngot ma Tu-han-ta. Las be, las be ma ro-han-ta i!
+#V
+Hatuaon do, las ni roha do, hangongot ni Tuhanta i.
+:,: Mago do hita, ngot ma Tuhanta.
+Las be, las be ma rohanta i! :,:
+-
+Hatuaon do las ni roha do hangongot ni Tuhanta i.
+:,: Monang do Jesus, talu Sibolis,
+Las be, las be ma rohanta i! :,:
+-
+Hatuaon do las ni roha do hangongot ni Tuhanta i.
+:,: Mungkap do dalan tu hangoluan.
+Las be, las be ma rohanta i! :,:
+-
+Hatuaon do las ni roha do hangongot ni Tuhanta i.
+:,: I ma gogonta dompak dosanta.
+Las be, las be ma rohanta i. :,:
+-
+Hatuaon do las ni roha do hangongot ni Tuhanta i.
+:,: Monang ma hita jumpa ajalta.
+Las be, las be ma rohanta i! :,:

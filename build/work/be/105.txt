@@ -1,0 +1,46 @@
+@be 105
+@bl 86
+@title Ro ma Tondi Parbadia
+@key G
+@meter 4/4
+@credit Heinrich Albert, 1642
+@pages 95 96
+@check Judul yang tercetak di kepala lagu: "Debata do manggomgomi"; di sini dipakai baris pertama lirik.
+@check Birama 2 tercetak "1· 7 6 ." — titik setelah 1 dianggap noda; not balok buku: G–Fis (1/4) lalu E (1/2).
+@check Pemisahan kata baris 2 ayat 1 ("ma pa-ri-a ma-ngo-loi") kurang jelas di buku.
+@status Lirik dicek · 14/18 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 14 dari 18 baris sama persis; beda di baris 3, 11, 16 (ejaan) dan 12 (kata kurang). Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 105) | https://bukuende.wordpress.com/2013/06/16/ro-ma-tondi-parbadia-buku-ende-no-105-buku-logu-no-86/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 2 3 5 | 1 7, 6, . | 5, . 6, 7, |
+1 2 3 2 | 1 . . . :|
+> Ro ma Ton-di Par-ba-di-a, De-ba-tang-ku si-tu-tu!
+> Ro-ha-na-mi ma pa-ri-a ma-ngo-loi ha-taM bur-ju.
+#B
+3 3 2 3 | 4 3 2 . v |
+6, 7, 1 2 | 3 2 1 . |]
+> Sai son-da-ngi ma tong-tong ro-ha-na-mi-na ho-lom
+#V
+Ro ma Tondi Parbadia, Debatangku situtu!
+Rohanami ma paria mangoloi hataM burju.
+Sai sondangi ma tongtong rohanamina holom
+-
+Lehon ma di rohanami hapistaran na sintong,
+Asa tung huboto hami marparange di joloM
+Sian haliluon pe sai palua hami be.
+-
+Patuduhon ma di hami dalan hangoluan i;
+Paimbaru rohanami sai padao ma dosa i.
+Pargogoi ma hami be tu na denggan sasude.
+-
+Pabotohon ma tu hami, na hinatindangkonMi;
+Anak ni Debata hami, naa marhaojahan di
+Mudar niusehon ni, Anak ni Debata i.
+-
+Molo marsitaonon hami jala marniae disi,
+Unang, ale Tuhannami, padaoonMu bohiMi.
+Lehon apulapulMi tu bagasan rohangki.
+-
+Di na jumpaang ajalnami, pabotohon ma torang
+Denggan ni basaM tu hami asa hami saut monang.
+Lao manjalo tumpal i, na so olo malos be.

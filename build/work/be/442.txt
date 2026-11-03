@@ -1,0 +1,39 @@
+@be 442
+@bl 392
+@title Najolo tung na loja
+@key Eb
+@meter 6/8
+@credit Heilsklangen
+@pages 424 425
+@check Birama 6/8: 1 token = 1 not 1/8 (6 token per birama).
+@check Birama pertama baris 2 tercetak "5.003" (5 ketuk 1/8); birama sejenis lain tercetak "2..003", "5..005", "1..003" → ditulis 5 . . 0 0 3 (titik kedua diduga hilang).
+@check Kepala lagu juga mencantumkan "Z. No. 632".
+@status Lirik dicek · 7/14 baris sama dgn pembanding
+@check Pembanding lirik: L1 (Najolo, langkangki), L3 (Tarhirimau, kata hilang), L4 (Tuhankinon), L5, L8, L10, L13 beda ejaan/penggalan kata; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 442) | https://bukuende.wordpress.com/2013/06/16/najolo-tung-na-loja-buku-ende-no-442-buku-logu-no-392/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 | 3 . 3 3 . 4 | 5 . . 5 . 5 | 1' . 1' 7 . 6 |
+5 . . 0 0 3 | 3 . 3 3 . 4 | 5 . . (5 4) 3 | 2 . 2 2 . 3 |
+2 . . 0 0 3 | 3 . 3 3 . 4 | (5 . 5) 5 . 5 | 1' . 1' 7 . 6 |
+5 . . 0 0 5 | 6 . 6 7 . 7 | 1' . 1' 5 . 4 | 3 . 4 3 . 2 |
+1 . . 0 0 3 | 3 2 3 4 . 4 | 4 3 4 5 . 5+5 |
+1' .+7 1' 6 5 3 | 2 . . 0 0 2 | 3 2 3 4 . 4+4 |
+5 1' 7 6 . 7+1' | 5 1 4 3 3 2 | 1 . . 0 0 |]
+> Na jo-lo tung na lo-ja do lang-kang-ki di-son. Mar-sa-hit do ro-hang-ku di-baen por-ti-bi-on. Tar-hi-rim-au, ai sal-pu lu-hut di ta-no on. Pa-i-ma ro Tu-han-ki-non man jou na so-rat on. Na sal-pu do i, na sal-pu do i, ndang di-ju-jur do-sang-ku tu au. Tung se-sa do i di-baen mu-dar-Na i. Ndang di-tu-lak Tu-han-ku be au.
+#V
+Najolo tung na loja do langkangki dison.
+Marsahit do rohangku dibaen portibion.
+Tarhirimau, ai salpu luhut di tano on.
+Paima ro Tuhankinon man jou na sorat on.
+Na salpu do i, na salpu do i, ndang dijujur dosangku tu au.
+Tung sesa do i dibaen mudarNa i. Ndang ditulak Tuhanku be au.
+-
+Ai arsak ni rohangku tung salpu do nuaeng.
+Magotap angka rante ni dosa i dibaen
+Tuhanku na lao mate di hau parsilang i,
+Ibana paluahon au, martua rohangki, Na salpu....
+-
+O donganki na mago, ndang sonang rohami,
+Sai dilului ho dame, hape, so dapot i.
+Tu ho di jouhon Jesus, na holong roha i:
+"Di au sambing ma dapot ho paradianan." Na salpu....

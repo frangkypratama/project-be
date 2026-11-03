@@ -1,0 +1,43 @@
+@be 746
+@bl 0
+@title Sabam ma ho
+@key F
+@meter 4/4
+@credit Syair: Be still my soul, Katharina von Schlegel, 1752; Terj.: Pdt. J.A.U. Doloksaribu; Lagu: Jean Sibelius, Finlandia
+@pages 801 802 803
+@status Lirik dicek · 15/18 baris sama dgn pembanding
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Rujukan ayat di kepala lagu: Psalm 46:11-12.
+@check Tanda mula 1 mol, 3 = A4 di paranada → do = F.
+@check Ayat 1 hanya tercetak di bawah not; teks ayat 1 di #V disusun dari suku kata lirik.
+@check Pembanding lirik: beda di baris 4 (langkami), 11 (sai, manghirim), 14 (do); dicek ulang di scan hlm 801–803, buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 746) | https://bukuende.wordpress.com/2013/06/18/sabam-ma-ho-buku-ende-no-746-buku-logu-no-746/ | Pembanding lirik (tanda baca diabaikan).
+#A
+3 2 3 | 4 . . 3 | 2 3 1 .+2 | 2 (3 . . |
+3) 3 2 3 | 4 . . 3 | 2 3 1 .+2 | (3 . . . |
+3) 5 5 5 | 6 . . 3 | 3 5 5 .+2 | 2 (4 . . |
+4) 4 3 2 | 3 . . 1 | 1 2 2 .+3 | (3 . . . |
+3) 5 5 5 | 6 . . 3 | 3 5 5 .+2 | 2 (4 . . |
+4) 4 3 2 | 3 . . 1 | 1 2 2 .+1 | (1 . . . |
+1) |]
+> Sa-bam ma ho, sa-bam ma ho ton-ding-ku, be-nget ma ho ma-mor-san si-lang-mi, pir ma ton-dim, sa-ti-a do Tu-han-Mu I-ba-na do pa-to-gu lang-ka-mi, nang pe ra-his, ma-ol si-da-la-nan-mu tu-lus do i bae-non ni Tu-han-mi.
+#V
+Sabam ma ho, sabam ma ho tondingku,
+benget ma ho mamorsan silangmi,
+pir ma tondim, satia do TuhanMu
+Ibana do patogu langkami,
+nang pe rahis, maol sidalananmu
+tulus do i baenon ni Tuhanmi.
+-
+Sabam ma ho, sabam ma ho tondingku,
+tu Tuhan i tinggangkon holsomi,
+tongtong do ho disarihon Tuhanmu
+benget ma ho, diparungkilonmi,
+sai hot ma ho manghirim di Tuhanmu,
+monang do ho di paraloanmi.
+-
+Sabam ma ho, sabam ma ho tondingku,
+satongkinon so do galumbang i,
+marujung do na hansit taononmu,
+pos rohami donok do Tuhan i,
+Tuhanmu do parade ingananmu,
+disurgo i huta na sonang i.

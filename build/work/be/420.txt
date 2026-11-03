@@ -1,0 +1,29 @@
+@be 420
+@bl 280
+@title Huboan do dosangku
+@key F
+@meter 4/2
+@credit (tidak dicantumkan di buku)
+@pages 402 403
+@status Lirik dicek · 5/8 baris sama dgn pembanding
+@check Kepala lagu juga mencetak "Ret. No. 47."
+@check Birama 4/2: 1 token = 1 not 1/2.
+@check Birama "2 3 1" (dua kali) tercetak tanpa titik, tetapi not balok = G not penuh + A + F; ditulis 2 . 3 1 supaya 4 ketuk.
+@check Pembanding lirik: bukuende.wordpress.com — 5/8 baris sama; beda ejaan huhilala, hahuranganku, manggolom; scan dicek, mengikuti buku. Pembanding 2 ayat.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 420) | https://bukuende.wordpress.com/2013/06/13/huboan-do-dosangku-buku-ende-no-420-buku-logu-no-280/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 | 6 3 4 3 | 2 . 3 1 | 3 2 1 7, | 6, . . 3 |
+6 3 4 3 | 2 . 3 1 | 3 2 1 7, | 6, . . 3 | 6 7 1' 6 |
+3 . 3 3 | 6 1' 7 #5 | 6 . . 3 | 6 #5 6 7 |
+3 . 3 1 | 3 #4 5 #4 | 3 . . 1 | 3 2 1 7, | 6, . . |]
+> Hu-bo-an do do-sang-ku tu do-lok Gol-ga-ta. Ma-he-u do ro-hang-ku, han-sit hu-hi-la-la. Go-dang ha-hu-ra-ngan-ku, han-sit do da-ngol-hon, sai ta-tap au, Tu-han-ku, a-pu-li ro-hang-kon, a-pu-li ro-hang-kon.
+#V
+Huboan do dosangku tu dolok Golgata.
+Maheu do rohangku, hansit huhilala.
+Godang hahuranganku, hansit do dangolhon,
+Sai tatap au, Tuhanku, apuli rohangkon, apuli rohangkon.
+-
+Ajari au manggolom, hau pinarsilangMi,
+Asa tiur na holom, dung sesa dosangki.
+Paringkot ma rohangku, pasangap asiMi
+:,: Asa tung Ho dipuji sude parulanki.

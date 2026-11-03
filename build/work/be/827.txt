@@ -1,0 +1,40 @@
+@be 827
+@bl 0
+@title Marbungaran hata i
+@key D
+@meter 4/4
+@credit Syair: Walte, walte nach und fern: Johathan Friedrch Bahnmaier, 1774-1841 · Terj.: Pdt. J.A.U. Doloksaribu · Lagu: Freylinghausen 1704
+@pages 912 913
+@status Lirik dicek · 10/14 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 (tongtong), 4 (tarsorak), 7, 12 beda ejaan/kata; scan hlm 912–913 jelas → buku tetap.
+@check Pembanding menyebut Buku Logu No. 827; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 827) | https://bukuende.wordpress.com/2013/06/16/marbungaran-hata-i-buku-ende-no-827-buku-logu-no-827/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check "ain", "sai" bertanda ‿ = satu suku kata.
+@check Kredit tercetak "Johathan Friedrch" (lazimnya Johann Friedrich) — ditulis apa adanya.
+#A
+1 (3+4) 5 5 | 6 7 1' . | 7 2' (5+6) 7 |
+6 6 5 . | 5 (1'+7) 6 5 | 4 3 2 . |
+5 1 4 3 | 2 2 1 . |]
+> Mar-bu-nga-ran Ha-ta i tu li-at por-ti-bi-on, do-hot hi-ta be di ain tu na so-nang sai tong-tong.
+#V
+Marbungaran Hata i tu liat portibion,
+dohot hita be di ain tu na sonang sai tongtong.
+-
+Hata na manompa i, marmuduhon sasude,
+na marorot hita be, dohot na tarsorak pe.
+-
+Hata i do Anak i, na marasi roha i,
+disesa dosanta i, marhite mudarNa i.
+-
+Hata pangajari i, na patudu dalan i
+ima taihuthon be, diulaon pingkiran pe,
+-
+Hata na badia i, Hata hangoluan i,
+sondang hatiuron i, patiur na holom i,
+-
+O hamu Huria i, nunga ro gotilon i
+godang sisabion i, ai otik panabi i.
+-
+Tongos ma panabi i. O Tuhan tu ladangMi
+naeng luhut na jolma i, ro tu hangoluan i.

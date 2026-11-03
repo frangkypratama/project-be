@@ -1,0 +1,45 @@
+@be 150
+@bl 125
+@title Ndang au nampuna ahu
+@key Bb
+@oct -1
+@meter 4/4
+@credit Basel, 1875
+@pages 135
+@status Lirik dicek · 19/20 baris sama dgn pembanding
+@check Pembanding lirik: L3 kata 6 beda; pembanding memenggal baris berbeda (15 baris).
+@ref Lirik pembanding: bukuende.wordpress.com (BE 150) | https://bukuende.wordpress.com/2013/06/16/ndang-au-nampuna-ahu-buku-ende-no-150-buku-logu-no-125/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 5 3 4 5 | 6 . 5 v 5 | 4 3 4 5 |
+3 . . :|
+> Ndang au nam-pu-na a-hu; Hu-le-hon di-ring-kon
+> Tu Tu-han i, Ra-jang-ku, si-gom-gom ta-no on
+#B
+5 | 1' 1' 2' 3' | 4' 4' 3' v 3' |
+6 6 4' 2' | 1' . 7 v 5 | 6 2' 1' 7 | 1' . . |]
+> Ai di-ba-ga-san Je-sus au di-i-da De-ba-tang-ku, na pa-so-nang-kon au.
+#V
+Ndang au nampuna ahu; Hulehon diringkon
+Tu Tuhan i, Rajangku, sigomgom tano on
+Ai dibagasan Jesus au diida Debatangku,
+Na pasonangkon au.
+-
+Ndang au nampuna ahu, dung mate Jesus i.
+Dihophop do tondingku, disesa dosangki.
+Tongtong ma hupasahat au, mangunduk tu Tuhanku,
+Na lambok roha i.
+-
+Ndang au nampuna ahu, dung na tardidi au
+Di goar ni Tuhanku na mangulosi au;
+Naung domu au tu Jesus i
+Rap dohot huriaNa, ginomgomanNa i.
+-
+Ndang au nampuna ahu, ndang tarhasiphon au;
+Sai Jesus do artangku, ndang be maila au.
+Torop pe manginsahi au, direhe pe Tuhanku,
+Sai Jesus do di au.
+-
+Sai i do dohononku: "Ndang au nampuna au."
+Sai Jesus tioponku, paima sahat au;
+Ndang lupa au di Jesus i,
+Paima tos hosangku, ai sonang au disi.

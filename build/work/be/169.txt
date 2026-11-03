@@ -1,0 +1,38 @@
+@be 169
+@bl 224
+@title Ho, Sipangolu au
+@key Eb
+@meter 4/4
+@credit Sue M.O. Hoffmann
+@pages 153 154
+@status Lirik dicek · 14/14 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 169) | https://bukuende.wordpress.com/2013/06/13/ho-sipangolu-au-buku-ende-no-169-buku-logu-no-224/ | 14/14 baris sama
+@check Birama 2 angka tercetak "5 .’5.4" (kurang 1 ketuk); dibaca dari not balok: 5 setengah bertitik, napas, lalu 5.4.
+@check Birama "3 0" / "1 . . 0" dibaca dari not balok sebagai not setengah bertitik + tanda istirahat.
+@check Ayat 2 dan 3 tercetak "Dohot mudarMi d.u." = ulangi bagian refrein seperti ayat 1.
+#A
+3 3+.+.+4 5 (1'+.+.+6) | 5 . . v (5+.+.+4) | 2 2 2 (6+.+.+5) | 3 . . 0 |
+3 3+.+.+4 5 (1'+.+.+6) | 5 . . v 1' | 7 7 7 (6+7) | 1' . . 0 |
+6 6+.+.+6 6+.+.+6 1'+.+.+6 | (5 . 3) v 3 | 4 4 4+.+.+6 5+.+.+2 | 3 . . 0 |
+3+.+.+3 3+.+.+3 4 4+.+.+4 | (5 1' 6) v 6 | 5 5+.+.+5 7 6+.+.+7 | 1' . . 0 |
+5 . . 3+.+.+6 | (5 . 3 .) | 4 . . 6+.+.+5 | 3 . . 0 |
+3+.+.+3 3+.+.+3 4 4+.+.+4 | (5 1' 6) v 6 | 5 5+.+.+5 7 6+.+.+7 | 1' . . . |]
+> Ho Si-pa-ngo-lu au, sai to-pot ma au on! Sai u-nang man-dao-dao Ho si-an ro-hang-kon! Ro Si-pa-ngo-lu, ro ti-bu, baen ma au a-nak-Mu tu-tu, do-hot mu-dar-Mi bu-ri au, i-as so-ngon ha-pas ma au. I-as tu-tu, i-as tu-tu! Do-hot mu-dar-Mi bu-ri au, i-as so-ngon ha-pas ma au.
+#V
+Ho Sipangolu au, sai topot ma au on!
+Sai unang mandaodao Ho sian rohangkon!
+Ro Sipangolu, ro tibu, baen ma au anakMu tutu,
+Dohot mudarMi buri au, ias songon hapas ma au.
+Ias tutu, ias tutu!
+Dohot mudarMi buri au, ias songon hapas ma au.
+-
+Gogo ni mudarMi, papatar ma di au!
+Tondi parngolu i tongtong manogu au.
+Ro Sipangolu, ro tibu, baen ma au anakMu tutu,
+Dohot mudarMi d.u.
+-
+Togu ma rohangkon, sai taiti au tu Ho;
+Ai langkaMi tongtong naeng tiruonku do!
+Ro Sipangolu, ro tibu baen ma au anakMu tutu
+Dohot mudarMi d.u.

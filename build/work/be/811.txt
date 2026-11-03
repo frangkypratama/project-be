@@ -1,0 +1,42 @@
+@be 811
+@bl 0
+@title Di au ma Ho Tuhan
+@key Ab
+@meter 3/4
+@credit Syair: I need Thee every hour, Annie Sherwood Hawks, 1832 · Terj.: Biv. M. H. Sitorus/Pdt. J.A.U. Dolosaribu · Lagu: Robert Lawry, 1872.
+@pages 893 894
+@status Lirik dicek · 10/10 baris sama dgn pembanding
+@check Pembanding lirik: semua baris sama.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 811) | https://bukuende.wordpress.com/2013/06/13/di-au-ma-ho-tuhan-buku-ende-no-811-buku-logu-no-811-2/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku). Kepala lagu: Ps. 86 : 1.
+@check Do = As (not 1 di As4 pada balok).
+@check Baris 2 birama 2 tercetak "2. 3 25" — balok: Bes4 ♩., C5 ♪, Bes4–Es4 ♪♪ → ditulis 2 .+3 2+5,.
+@check Kredit tercetak "Robert Lawry" (lazimnya Robert Lowry) — ditulis apa adanya.
+#A
+1 | 3 .+2 1+7, | 1 . 1 | 1 .+2 1+6, |
+5, . 5, | 2 .+3 2+5, | 3 . 1 | 7, .+1 7,+6, | 5, . |
+> Di au ma Ho Tu-han di a-ri-a-ring-ki, ai deng-gan ni ba-saM pa-da-me ro-hang-ki.
+> Di au ma Ho Tu-han di-pa-ngun-ju-nan i, mo-nang do au Tu-han mo-lo Ho do-ngan-ki.
+> Di au ma Ho Tu-han di las ni ro-ha i, a-pu-li au Tu-han di si-ta-o-non-ki.
+> Di au ma Ho Tu-han di a-ri-a-ring-ki, baen ma au nam-pu-Nam, pi-na-su-pa-su-Mi.
+#B
+3 | 3 .+1 4+3 | 3 2 . | 2 .+1 3+2 | 2 1 1 |
+1 .+2 1+6, | 5, 1 2 | (3 .+1) 2 | 1 . |]
+> Di su-de par-ting-ki-an, di su-de i-nga-nan di au ma Ho O Tu-han a-si ro-haM.
+#V
+Di au ma Ho Tuhan di ariaringki,
+ai denggan ni basaM padame rohangki.
+Ref: Di sude partingkian, di sude inganan
+di au ma Ho O Tuhan asi rohaM.
+-
+Di au ma Ho Tuhan dipangunjunan i,
+monang do au Tuhan molo Ho donganki.
+Ref: Di sude partingkian . . .
+-
+Di au ma Ho Tuhan di las ni roha i,
+apuli au Tuhan di sitaononki.
+Ref: Di sude partingkian . . .
+-
+Di au ma Ho Tuhan di ariaringki,
+baen ma au nampuNam, pinasupasuMi.
+Ref: Di sude partingkian . . .

@@ -1,0 +1,43 @@
+@be 606
+@bl 0
+@title Nunga sorang Mesias i
+@key G
+@meter 2/4
+@credit Syair: Ii est ne, le divin enfant, Ende Natal Perancis · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: Perancis
+@pages 600 601
+@status Lirik dicek · 6/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di baris hinatahom, "palu hamu", "marsinondang do Debata", "Dibara"; dicek ke scan hlm 601–602: sesuai buku. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 606) | https://bukuende.wordpress.com/2013/06/16/nunga-sorang-mesias-i-buku-ende-no-606-buku-logu-no-606/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 606".
+@check Susunan buku: Refrein (bertanda segno, berakhir "Fine") dicetak lebih dulu, lalu bait dengan "DC al Fine" → bagian A = refrein, bagian B = bait; dinyanyikan Refrein – Bait – Refrein.
+@check Birama 2 refrein tercetak "5̣ 1 1 ." (3 ketuk), not balok D–G (½+½) + G (1 ketuk) = 2 ketuk → titik dianggap pemisah, ditulis "5,+1 1".
+@check Baris 3 refrein "1 3 1" tercetak tanpa titik, tetapi bergaris atas tunggal+ganda (⅛ + 1/16 + 1/16) seperti baris 1 → ditulis 1+.+3+1.
+@check Legato putus-putus di "2 7̣" (pa-hi-na-lo-an) dibaca sebagai legato.
+@check Kredit tercetak "Ii est ne" (judul asli "Il est né, le divin enfant"); ditulis apa adanya.
+#A
+5,+1 1+.+3+1 | 5,+1 1 |
+1+.+1+2 3+.+4+3 | 2+1 (2+.+7,)+5, |
+5,+1 1+.+3+1 | 5,+1 1 | 1+2 3+.+4+3 | 2+5 1 |]
+> Nu-nga so-rang Me-si-as i, pa-lu ha-mu ma par-hi-na-lo-an nu-nga so-rang Me-si-as i, pu-ji Tu-han Ha-le-lu-ya.
+#B
+3+4 5+.+4+3 | 4+6 5 | 3+.+3+4 5+.+6+5 |
+4+3 3+2 | 3+4 6+.+4+3 |
+4+6 5 | 3+4 5+.+6+5 | 4+3 2 |]
+> Nu-nga gok hi-na-ta-hom ni pa-nu-ri-rang di pa-dan na ro-bi, Nu-nga gok ba-ga-ba-ga i di ha-ro-ro ni Kris-tus i.
+#V
+Nunga gok hinatahom ni panurirang di padan na robi,
+Nunga gok bagabaga i di haroro ni Kristus i.
+Ref.: Nunga sorang Mesias i, palu hamu ma parhinaloan
+nunga sorang Mesias i, puji Tuhan Haleluya.
+-
+Sian bohi ni Kristus i, marsinondang holong ni rohaNa.
+Sian bohi ni Kristus i, marsinondang do Debata.
+Ref.: Nunga sorang . . .
+-
+Dibara ni pinahan i panggagatan i do habangsaNa.
+Di bara ni pinahan i, sorang Anak ni Debata.
+Ref.: Nunga sorang . . .
+-
+Jesus Kristus na metmet i Raja do salelengnilelengna.
+Jesus Kristus na metmet i do Anak ni Debata
+Ref.: Nunga sorang . . .

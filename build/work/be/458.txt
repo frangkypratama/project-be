@@ -1,0 +1,32 @@
+@be 458
+@bl 309
+@title Barita na umuli
+@key A
+@meter 6/8
+@credit Alfred Milarch 1928
+@pages 438 439
+@check Birama 6/8: 1 token = 1 not 1/8 (6 token per birama).
+@check Kepala lagu juga mencantumkan "Jug. L. No. 11".
+@check Baris 2 birama akhir "2 3 2 5 4* 5": legato tercetak di atas 2–3 dan 5–4*; agar suku kata "nang ar-sak pe hu-" (5) pas, legato 5–4* tidak dipakai. Perlu dicek.
+@check Baris 4 "do-ngan - ki": not 7, (sesudah 5) tanpa suku kata sendiri → "ngan" ditahan (_).
+@status Lirik dicek · 7/9 baris sama dgn pembanding
+@check Pembanding lirik: L4 (rohangki), L9 (Dibahen) beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 458) | https://bukuende.wordpress.com/2013/06/09/barita-naumuli-buku-ende-no-458-buku-logu-no-309/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5, | 1 . 2 3 . 6 | 5 . 3 1 . 7, | 6, . 6, 4 . 3 |
+2 . . 3 . 5, | 1 . 2 3 . 6 | 5 . 3 1 . 3 | (2 3) 2 5 #4 5 |
+(7 . 6) 5 . 5 | 4 . 3 2 . 1 | 7, . 1 2 . 5, | 1 . . 2 . . |
+(3 . . 3) 0 1 | 3 . . 4 . . | (5 . . 5) 0 1 | 6 . . 5 . 7, | (1 . . 1) . |]
+> Ba-ri-ta na u-mu-li, i na si-an Tu-han Je-sus, sai i do mar-go-go-i-hon au, nang ar-sak pe hu-bo-lus on ma-nga-pu-li ro-hang-ki: Sai Tu-han-ki, na ba-sa i do do-ngan _ ki.
+#V
+Barita na umuli, i na sian Tuhan Jesus,
+Sai i do margogoihon au, nang arsak pe hubolus on
+Mangapuli rohangki : Sai Tuhanki, na basa i do donganki.
+-
+Ai ndang adong di rohangki na so hinilalana.
+Ditanda hagaleon i, nang pe so dung marsala.
+Hujalo hamonangan i, ai Tuhanki, na basa i do donganki
+-
+Ibana haporusanki di godang ni dosangku,
+MudarNa do mamuri au, ditobus do hosangku.
+Tuhanku gabe singkathi! Dibahen i, pujionku basaNa i.

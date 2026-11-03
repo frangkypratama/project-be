@@ -1,0 +1,44 @@
+@be 635
+@bl 0
+@title Ro Tuhan Jesus
+@key Ab
+@meter 4/4
+@credit Syair dan Lagu: God sent His Son / Because He lives; Wm. J. - Gloria Gaither, 1971 · Terj.: Dcs. Bonaria Hutabarat
+@pages 644 645 646
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Jud, 25: Heb. 12:2-3.
+@check Birama "4 . . . | 4 5̣ 3̣ 4̣" (hlm 645): angka 4 tercetak tanpa titik bawah, balok = Des4 → ditulis 4, (sesuai balok).
+@check "par-ho-long": not terakhir 4 dicoret = kres (#4,), balok mencetak tanda pugar pada D.
+@status Lirik dicek · 15/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — ayat 2 baris 3 (pamonangonNa) beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 635) | https://bukuende.wordpress.com/2013/06/16/ro-tuhan-jesus-buku-ende-no-635-buku-logu-no-635/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+0+5, 3,+4, | 5, . (5, . | 5,) 1 3 2 | 1 . (6, . | 6,) 2 1 6, |
+5, . (5, . | 5,) 6, 5, .+#4, | (4, . . . | 4,) 5, 3, 4, | 5, . (5, . | 5,) 1 2 3 |
+4 . (6, . | 6,) 1 1 2 | 3 .+2 3 1 | 5, .+5, 7, 2 | (1 . . . | 1) |]
+> Ro Tu-han Je-sus A-nak sa-sa-da, pa-ra-si ro-ha, par-ho-long i, ma-te I-ba-na hu-mo-phop hi-ta, ru-mar ta-no-man i. ai he-he Je-sus i.
+#B
+5,+.+.+5, 1 2 | 3 . (3 . | 3) 3+4 3 2 | 1 . (6, . | 6,) 2 1 6, |
+(5, . . . | 5,) 5,+.+.+5, 1 3 | (2 . . . | 2) 5, 1 2 | 3 . 4 . | 5 3 2 3 |
+4 . (6, . | 6,) 1 1 2 | 3 .+3 4+3 . | 2 .+2 3 2 | (1 . . . | 1) |]
+> A-la he-he Je-sus ro do a-ri so-got ma-ngo-lu au, ndang ma-bi-ar au hu-bo-to do so-nang au ra-phon Je-sus, so-nang ma au a-la naung he-he Je-sus i.
+#V
+Ro Tuhan Jesus Anak sasada,
+parasi roha, parholong i,
+mate Ibana humophop hita,
+rumar tanoman i. ai hehe Jesus i.
+Ref.: Ala hehe Jesus ro do ari sogot
+mangolu au, ndang mabiar au
+huboto do sonang au raphon Jesus,
+sonang ma au ala naung hehe Jesus i.
+-
+Di paraloan, au dongananNa
+pos do rohangku di ngolungki
+pamonangonNa au anakonNa
+ala naung monang jala hehe Tuhanki.
+Ref.: Ala hehe Jesus . . .
+-
+Molo marujung muse ngolungku,
+mansohot do nang sitaononki
+ai nunga talu banua toru
+di tomu Jesus au na tinobusNa i
+Ref.: Ala hehe Jesus . . .

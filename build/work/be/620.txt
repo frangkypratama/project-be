@@ -1,0 +1,41 @@
+@be 620
+@bl 0
+@title HolongMi ale Tuhanku
+@key C
+@meter 6/8
+@credit Syair: Holongmi ale Tuhanku : Biv. N. A. Sirait, 1962 · Lagu: NN
+@pages 623 624
+@status Lirik dicek · 7/9 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda ejaan "Tuhanku" dan "diusehom" (bait 1); sesuai scan hlm 623. Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 620) | https://bukuende.wordpress.com/2013/06/22/holongmi-ale-tuhanku-buku-ende-no-620-buku-logu-no-620/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 620".
+@check Tanpa tanda mula; melodi minor (la = 6, A minor) → @key C. Birama 6/8 ditulis per 1/8 (6 ketuk per birama).
+@check Refrein "3̇ . . . 1̇ 2̇" (sangap): not balok E5 ¼. dilegato ke E5 ⅛ (sama panjang) → ditulis 3' . . . 1' 2' sesuai angka.
+@check Birama akhir tercetak "6 . . | 6 . ." (3 + 3 ketuk ⅛), tetapi not balok dua not ½. bertitik (A4, masing-masing 6/8) bersambung → ditulis 2 birama penuh bersambung.
+@check Lirik refrein tercetak "Golgata" sebagai "Gol ga ta" / "Gol-ga ta"; dipenggal Gol-ga-ta sesuai not.
+#A
+0 3 3 | 6 . 7 . 1' 1' | 1' . 7 . 1' 2' |
+3' . (2' 1') 7 7 | (6 . . 6 . .) :|
+> Ho-long-Mi a-le Tu-han-ku i-se-tuk man-do-do i,
+> di-u-se-hom Ho mu-dar-Mu di hau pi-nar-si-lang i.
+#B
+6 7 (1' . 6 .) | 7 1' (2' . 7 .) | 1' 2' (3' . . 3') |
+(4'+3') 2' 3'+2' 1' (2'+1') (7+6) | 3' . . . 1' 2' |
+3' . (2' 1') 7 7 | (6 . . . . . | 6 . . . . .) |]
+> Gol-ga-ta Gol-ga-ta Gol-ga-ta pa-ma-ja-lan i Gol-ga-ta sa-ngap ma di Ho Tu-han.
+#V
+HolongMi ale Tuhanku isetuk mandodo i,
+diusehom Ho mudarMu di hau pinarsilang i.
+Ref.: Golgata Golgata Golgata pamajalan i Golgata sangap ma di Ho Tuhan.
+-
+HolongMi ale Tuhanku tung so hasuhatan i,
+jalo puji-pujianku i ma las ni rohangki
+Ref.: Golgata . . .
+-
+Golgata ho habaoran ni mudar na arga i,
+i do mual hangoluan na pasonang rohangki
+Ref.: Golgata . . . .
+-
+Dame asi ni rohaMu ale Jesus Tuhanki,
+haluaon na sumurung dipatupa silangMi
+Ref.: Golgata . . .

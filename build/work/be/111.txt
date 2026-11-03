@@ -1,0 +1,42 @@
+@be 111
+@bl 129
+@title Patimbul be ma sangap
+@key F
+@meter 3/4
+@credit Nikolaus Decius, 1522
+@pages 100 101
+@check Judul Logu tercetak "Partimbul be ma sangap", baris lirik "Patimbul be ma sangap" — dipakai bentuk lirik.
+@check Pencipta tercetak "Nikolaus Deelus 1522" (kemungkinan Nikolaus Decius) — mohon dicek.
+@status Lirik dicek · 12/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 12 dari 16 baris sama persis; beda ejaan di baris 2, 3, 9, 11. Teks tetap mengikuti buku cetak.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 111) | https://bukuende.wordpress.com/2013/06/16/patimbul-be-ma-sangap-buku-ende-no-111-buku-logu-no-129/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+1 | 3 . 4 | 5 . 4 | 3 . 2 | 3 . v 3 |
+3 . 2 | (4 3) 2 | (1 6, 7,) | 1 . :|
+> Pa-tim-bul be ma sa-ngap ni Ja-ho-wa, De-ba-tan-ta
+> Dok ma ma-u-li-a-te-i tu De-ba-ta, A-man-ta.
+#B
+1 | 2 . 3 |
+4 . 3 | 2 . #1 | 2 . v 2 | 3 . 4 | 5 . 4 | 3 . 2 |
+3 . v 1 | 2 . 4 | 3 . 2 | (1 6, 7,) | 1 . |]
+> Ai par-da-ngo-lan i su-de, nang sa-lu-hut-na jor-but pe di-a-lo De-ba-tan-ta.
+#V
+Patimbul be ma sangap ni Jahowa, Debatanta
+Dok ma mauliatei tu Debata, Amanta.
+Ai pardangolan i sude, nang saluhutna jorbut pe
+Dialo Debatanta.
+-
+Tongtong sombaonnami Ho mamuji salelengna,
+Dibaen na digomgomi Ho, HuriaMu sudena.
+Na so tardodo gogoMi, sai ingkon saut do rohaMi;
+On pe martua hami.
+-
+O Jesus, na sasada Ho do anak ni Debata,
+Naung mago dipangolu Ho, diontok Ho do bada.
+O Jesus, Tuhannami on tangihon sombanami on,
+Asi rohaM di hami !
+-
+O Tondi Parbadia i, ramoti ma sudena,
+Naung dipalua Kristus i, marhite na tinaonna.
+Ambati ma sibolis i, padao nang nasa jea i,
+Papos ma rohanami !

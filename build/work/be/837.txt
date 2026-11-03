@@ -1,0 +1,42 @@
+@be 837
+@bl 0
+@title Sada huta na mansai uli
+@key G
+@meter 4/4
+@credit Syair: There's a land that is fairer than day / In the sweet by and by: Standford Filmore Bennet, 1835 - 1890 · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: Joseph P. Webster
+@pages 927 928
+@status Lirik dicek · 11/13 baris sama dgn pembanding
+@check Pembanding lirik: baris 5 (refrein, kata 'hita/di si') & baris 11 ('sa puji') beda ejaan/pemisahan; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 837) | https://bukuende.wordpress.com/2013/06/18/sada-huta-na-mansai-uli-buku-ende-no-837-buku-logu-no-837/ | Pembanding menyebut Buku Logu No. 837; buku tidak mencetak nomor Logu.
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan).
+@check Refrein tidak diberi tanda di buku; bagian B dimulai pada baris not ke-5 ("i, sogot di surgo i"), sesuai teks "Ref.: Sogot di surgo i . . ." di ayat 2–3. Ayat 1 hanya tercetak di bawah not.
+@check Bagian B birama "2 . . 2 .3" (hlm 927): not balok kabur, angka diikuti.
+#A
+1+.+.+2 | 3 2+1 2 1+.+.+6, |
+5, . . 1+.+.+2 | 3 3+.+.+3 5 5+.+.+3 |
+2 . . 1+.+.+2 | 3 2+1 2 1+.+.+6, |
+5, . . 1+.+.+2 | 3 2+1 2 1+7, |
+> Sa-da hu-ta na man-sai u-li, sam-bu-lo ni ton-di-ta do i, ba-gas ni De-ba-ta A-ma i, di-pa-ra-de di na mo-nang
+#B
+1 . . 3+.+.+4 | 5 . . 5+.+.+3 | 2 . . 2+.+.+3 |
+4 4+4 4 3+2 | 3 . . 3+.+.+4 | 5 . . 3+.+.+2 |
+1 . . 7,+6, | 5, 1+3 2 1+7, | 1 . . |]
+> i, so-got di sur-go i, sai pa-jum-pang do hi-ta di si so-got di sur-go i, sai pa-jum-pang do hi-ta di si.
+#V
+Sada huta na mansai uli,
+sambulo ni tondita do i,
+bagas ni Debata Ama i,
+diparade di na monang i,
+Ref.: Sogot di surgo i, sai pajumpang do hita di si, sogot di surgo i, sai pajumpang do hita di si.
+-
+Hita dohot donganta di san,
+rap marende mamuji Tuhan,
+ndang adong hasusaan di san,
+salelengna di surgo sonang,
+Ref.: Sogot di surgo i . . .
+-
+Debata Ama parholong i,
+sa puji on salelengna i,
+na marmuduhon ngolunta i,
+denggan basaNa sai hot do i,
+Ref.: Sogot di surgo i . . .

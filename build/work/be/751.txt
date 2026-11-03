@@ -1,0 +1,33 @@
+@be 751
+@bl 0
+@title Tuhan na sun gogo i
+@key C
+@meter 4/4
+@credit Syair: Just closer walk with Thee · Terj.: Biv. M.H. Sitorus/Pdt. J.A.U. Doloksaribu · Lagu: Ende tradisional Amerika
+@pages 809 810
+@status Lirik dicek · 3/8 baris sama dgn pembanding
+@check Pembanding lirik: baris 2 (pembanding tanpa "na" di "sai na sonang"), 4, 5, 6, 8 beda ejaan; semua dicek ke scan hlm 809–810 (lirik di bawah not jelas), buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 751) | https://bukuende.wordpress.com/2013/06/18/tuhan-na-sun-gogo-i-buku-ende-no-751-buku-logu-no-751/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Tanpa tanda mula (C mayor); not pertama 5 = G4 → 1 = C4.
+@check Ayat dan Refrein memakai melodi yang sama (dua baris lirik di bawah not, "Refrein" = baris kedua) → ditulis satu bagian dengan dua baris lirik; buku juga memberi tanda ulang ":||" di akhir.
+@check Birama 6: legato buku menutup 3' 2' 1' (balok E5–D5–C5), jadi "ki,"/"au," satu suku kata untuk tiga not; "mo-lo"/"da-me" pada 1' dan 6.
+@check Birama 3 "6 1'": angka bergaris tunggal (1/8), balok tampak bergaris ganda — ditulis 1/8 sesuai angka.
+#A
+5 .+#5 6+3 5+#4 | 4 . . . | 2' .+1' 7+5 6+1' | (1'+6 5) . . |
+3' .+3' 3'+1' 2'+3' | (3'+2' 1') . 1'+6 | 5 5+5 5 6+5 | 1' . . . :|
+> Tu-han na sun go-go i, to-gu au na ga-le i, sai na so-nang ro-hang-ki, mo-lo Ho sai tong-tong do-ngan-ki.
+> Je-sus sai ta-ngi-hon au, u-nang lo-as gang-gu au, mo-lo Tu-han rap-hon au da-me ja-la sai so-nang ma au.
+#V
+Tuhan na sun gogo i, togu au na gale i,
+sai na sonang rohangki, molo Ho sai tongtong donganki.
+Ref: Jesus sai tangihon au, unang loas ganggu au,
+molo Tuhan raphon au dame jala sai sonang ma au.
+-
+Mara di na rodopon, sai manosak ngolungkon,
+Tuhan tiop tangankon, sai ramoti daging tondingkon.
+Ref: Jesus sai tangihon ...
+-
+Jesus taiti rohangkon, asa sai donok tu Ho,
+raphon Ho au sonang di, O Tuhan, sai tangihon au on.
+Ref: Jesus sai tangihon ...

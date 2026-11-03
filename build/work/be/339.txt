@@ -1,0 +1,45 @@
+@be 339
+@bl 10
+@title Diingot halak dagang
+@key C
+@meter 6/8
+@credit Johannes Christian Beurle 1863
+@pages 317 318
+@status Lirik dicek · 16/18 baris sama dgn pembanding
+@check Pembanding lirik: beda kata pertama baris 11 (Masihol) dan 12 (Naeng); dicek ulang ke scan hlm 318 (ayat 6), buku dipertahankan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 339) | https://bukuende.wordpress.com/2013/06/13/diingot-halak-dagang-buku-ende-no-339-buku-logu-no-10/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Birama 6/8: 1 token = 1 not 1/8 (seperti BE 54).
+@check Pola "5.6" (1/8 bertitik + 1/16): letak lirik di buku menunjukkan satu suku kata untuk dua not itu (legato tidak tercetak) → ditulis legato; mohon dicek.
+@check Birama akhir "1 . . 1 ." (legato, 5/8) melengkapi ketukan gantung 1/8.
+#A
+5 | (5 .+6) 5 (5 .+6) 5 | (5 . 1') 5 . v 3 |
+3 . 3 (5 4) 3 | (2 . . 2) 0 5 | (5 .+6) 5 (5 .+6) 5 |
+(5 . 1') 3' . v 2' | 1' . 1' (7 .+6) 7 | (1' . . 1' .) |]
+> Di-i-ngot ha-lak da-gang do sam-bu-lo-na i, Ai hi-ra mar-si-non-dang di-si bin-tang-na i.
+#V
+Diingot halak dagang do sambulona i,
+Ai hira marsinondang disi bintangna i.
+-
+Malungun do ibana naeng tu donganna i:
+Sai naeng ma di rohana lao mandapothon i.
+-
+Hape ma sun duhuton sude tanoman ni,
+Umbahen sai ngalutan rohana mida i.
+-
+Alai sai lao rohana tongtong tu langit i,
+Mangihut tu bintangna, na marsinondang i.
+-
+Dung i didok rohana, disan do donganki,
+Di lambung ni Amana di hasonangan i.
+-
+Masihol ma rohana tu na di ginjang i;
+Naeng dohot ma ibana tu hasonangan i.
+-
+Ale amang pardagang, naeng tu na sonang ho?
+Sai unang di na alang tongtong tarlalap ho.
+-
+Haporseai ma Jesus, silehon tua i;
+Ibana do manobus Ho sian dosami.
+-
+Sai naeng togihononna tu hasonangan i
+Saluhut na porsea, naung tinobusNa i.

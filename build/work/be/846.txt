@@ -1,0 +1,19 @@
+@be 846
+@bl 0
+@title Amen (4 X)
+@key F
+@meter 4/4
+@credit Musik: Sigismund Neukomm
+@pages 935 936
+@status Lirik dicek · 1/1 baris sama dgn pembanding
+@check Pembanding lirik: 1/1 baris sama.
+@check Pembanding menyebut Buku Logu No. 846; buku tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 846) | https://bukuende.wordpress.com/2013/06/09/amen-4x-buku-ende-no-846-buku-logu-no-846/ | teks ayat
+@check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
+@check Lengkung 5–4–2–1–7 (hlm 936) = melisma "a"; lengkung 1…|1… di birama 4–5 = ikatan (A ditahan dua birama), ditulis sebagai legato.
+#A
+3 . . . | 2 . . 0 | 4 . . . | 3 . . 0 |
+(5 . 4 2 | 1 . 7,) . | 1 . . . | (1 . . . | 1) . . . | 1 . . . |]
+> A-men, a-men, a-men. A-men.
+#V
+Amen, amen, amen. Amen.

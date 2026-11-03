@@ -1,0 +1,53 @@
+@be 100
+@bl 155
+@title Bongoti ma Rohangku.
+@key F
+@meter 4/4
+@credit Johann Cruger, 1648
+@pages 90 91
+@status Lirik dicek · 20/24 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan baris 1 ("olopolop"), 5, 16, 18.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 100) | https://bukuende.wordpress.com/2013/06/16/mardongan-olop-olop-buku-ende-no-100-buku-logu-no-155/ | 20/24 baris sama
+@check "4*" = ♮B di paranada → #4. Pola "3 . 4" dan "4 . 5" bergaris satu+dua dan berlegato = 1/8 bertitik + 1/16 → (3+.+.+#4), (4+.+.+5).
+@check Nama komponis tercetak "Johann Cruger" (ejaan lazim: Crüger).
+@check Judul "Bongoti ma Rohangku.", baris pertama lirik "Mardongan olopolop ma".
+#A
+3 . | 1 . 5 . | 4 3 2 . | 1 . v 3 . |
+2 1 7, 1 | 2 . :|
+> Mar-do-ngan o-lop-o-lop ma naek Tu-han-ta i,
+> Ji-nang-kon ni na to-rop su-ru-su-ru-an i.
+#B
+0 2 | (3+.+.+#4) 5 5 #4 |
+5 . 0 5 | 2 1 2 3 | 4 . 3 v 3 | (4+.+.+5) 6 5 4 |
+3 . 2 . | 0 2 4 4 | 3 . 2 . | 1 . |]
+> An-tong nang hi-ta pe, ta-pu-ji ma Tu-han-ta. mar-en-de-en-de hi-ta, mar-o-lop-o-lop be.
+#V
+Mardongan olopolop ma naek Tuhanta i,
+Jinangkon ni na torop surusuruan i.
+Antong nang hita pe, tapuji ma Tuhanta.
+Marendeende hita, marolopolop be.
+-
+Na mulak do Tuhanta tu habangsaNa i,
+Tu lambung ni AmaNa di siamunNa i.
+Disomba sasude na di banuaginjang
+Tuhanta i na monang, ro sian tano i.
+-
+Tatimbang ma lapangna umbaen na songon i;
+Ai naeng ma dohot hita tumopot surgo i.
+Antong, taingot ma: ianggo Tuhan Jesus,
+Ibana do patulus, nidok ni Debata.
+-
+Ditaon do hamatean, humophop hita on,
+Pature pardalanan na sian tano on,
+Manogu hita be tu lambung ni AmaNa;
+Disi, di adopanNa naeng sahat sasude.
+-
+I pe ringgas ma hita mangalo dosa i,
+Manggotap roha daging, nang hajahaton pe.
+Tahalungunhon be Tuhanta na di ginjang;
+Ibana do na monang, i ma tatiru be.
+-
+O Jesus, Tuhannami asi ma rohaMi,
+Sai sesa dosanami, palua hami be.
+Pamasuk hami on tu hangoluan sogot,
+Sai loas hami dohot mamuji Ho tongtong.

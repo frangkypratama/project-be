@@ -1,0 +1,32 @@
+@be 290
+@bl 25
+@title Ai beasa tung humolso
+@key F
+@meter 3/4
+@credit Lagu: F.A. Schulz 1842
+@pages 270
+@status Lirik dicek · 8/10 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 (tahuton) & 5 (Haringothon) beda ejaan; scan hlm 270 ditulis apa adanya.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 290) | https://bukuende.wordpress.com/2013/06/06/ai-beasa-tung-humolso-buku-ende-no-290-buku-logu-no-25/ | 8/10 baris sama
+@check Baris 2: antara "3 . 1" dan "7̣ . 6̣ 7̣" tidak ada garis birama (angka & balok) sehingga satu birama 6 ketuk; garis birama ditambahkan.
+@check 4* = B♮ (balok bertanda pugar) → #4; birama "4 . 4" balok kembali ♭B.
+#A
+3 . 4 | 5 . 3 | (2 .+1) 2 | 3 . 3 v | 5 . 3 |
+2 . 5 | (#4 .+3) #4 | 5 . 0 | 4 . 4 | 3 . 1 | (7, .+6,) 7, |
+(1 .+2) 3 v | 4 . 3 | 6 . (4+2) | 1 . 7, | 1 . . |]
+> Ai be-a-sa tung hu-mol-so ja-la sai ta-hu-ton ho? Ha-sa-bam-hon par-so-ri-on, pi-na-ro-na i tu ho.
+#V
+Ai beasa tung humolso jala sai tahuton ho?
+Hasabamhon parsorion, pinarona i tu ho.
+-
+Sai pangido angka arta na so olo buruk be;
+Sai tundalhon ma na roa tu na sonang ho muse.
+-
+Haringothon manggotaphon harohaon tano on
+Sambulom ma halungunhon, tagan ho di ngolumon.
+-
+Marisuang ho, pasuang rohami tu Debata;
+Sai gogoi ma mangkaposi Jesus Kristus, Tuhanta!
+-
+Guru roha ni Debata ma baen langkalangkami.
+Amen, amen, sai pasangap ma tongtong goarNa i.

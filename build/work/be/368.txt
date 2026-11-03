@@ -1,0 +1,34 @@
+@be 368
+@bl 233
+@title Tuhan Jesus, Tuhan Jesus
+@key Eb
+@meter 3/4
+@credit Lagu: Gergoe Frederick Root
+@pages 352
+@status Lirik dicek · 7/10 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — 7 dari 10 baris sama; beda di baris 6, 8, 10 (penanda "Sai d.u." dan ejaan "surgo"); sesuai buku.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 368) | https://bukuende.wordpress.com/2013/06/18/tuhan-jesus-tuhan-jesus-buku-ende-no-368-buku-logu-no-233/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Bagian Ende di dakdanak. Kredit tercetak "Gergoe Frederick Root" (ejaan lazim: George Frederick Root); ditulis sesuai buku.
+@check Ayat 2–4 diakhiri "Sai d.u." (= ulangi refrein "Sai marhilong ..."), ditulis sesuai buku.
+#A
+1+2 | 3 3 3+4 | 5 5 v 6 | 3 3 2 | 1 . . v :|
+> Tu-han Je-sus, Tu-han Je-sus, ro mu-lak ha-pe.
+> Ti-no-bus-na, ti-no-bus-Na, di-to-gu mu-se.
+#B
+1'+7 | 6 6 1' | 5 5 6+.+.+5 | 1 1 2 |
+(3 5) v 1'+7 | 6 6 1' | 5 5 v 6 | 5 1 2 | 1 . |]
+> Sai mar-hil-long na-si-da so-ngon bin-tang su-de Sai mar-li-nang, sak-sak do u-los-na ta-he.
+#V
+Tuhan Jesus, Tuhan Jesus, ro mulak hape.
+Tinobusna, tinobusNa, ditogu muse.
+Sai marhillong nasida songon bintang sude
+Sai marlinang, saksak do ulosna tahe.
+-
+Dipapungu, dipapungu tinobusNa i,
+Angka jolma pinaias ni mudarNa i, Sai d.u.
+-
+Na magodang, nang na metmet, tu Jesus ma ro,
+Tu lambungNa na di surgo di togu hamu, Sai d.u.
+-
+Nang dakdanak, nang dakdanak, haolonNa disi.
+Ai naung sahat, ai naung sahat rohaNa tusi, Sai d.u.

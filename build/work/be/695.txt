@@ -1,0 +1,45 @@
+@be 695
+@bl 0
+@title Jesus Tuhanku di Ho ma au on
+@key Ab
+@meter 3/4
+@credit Syair: Jesus Tuhanku Di Ho ma au on, dipahombar Pdt. J.A.U. Doloksaribu, marojahan tu ende "Jesus Tuhanku rajai ma au on", BE. 273; Lagu: Christ My Savior tu Betlehem, NN. arr. E.E. Hasty
+@pages 726 727 728
+@status Lirik dicek · 15/17 baris sama dgn pembanding
+@check Pembanding lirik: baris 4 ('Sonang di', buku 'So-nangdi') dan 15 ('marpohosan') beda; buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 695) | https://bukuende.wordpress.com/2013/06/16/jesus-tuhanku-di-ho-ma-au-on-buku-ende-no-695-buku-logu-no-695/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 695. Angka 4 dicoret (kres) = D♮ di balok → #4.
+#A
+5 .+4 3 | 3 .+2 1 | 2 .+1 6, | 6, . . |
+5, .+1 1 | 1 .+2 3 | 3 .+2 1 | 2 . . |
+5 .+4 3 | 3 .+2 1 | 2 .+1 6, | 6, . . |
+5, .+1 3 | 2 . 1 | (1 . . | 1) . 0 |
+5, .+7, 2 | 5 .+4 2 | (1 . . | 1) . 0 |
+5, .+7, 2 | 4 . 6 | 5 .+#4 5 | 3 . . |
+5 .+4 3 | 3 .+2 1 | 2 .+1 6, | 6, . . |
+5, .+1 3 | 2 . 1 | (1 . . | 1) . 0 |]
+> Je-sus Tu-han-ku di Ho ma au on, a-sa ma-ngi-hut tu Ho au tong-tong go-hi ro-hang-ku i-nga-ni au on. So-nang di Ho tong-tong, O Tu-han to-gu ma au, O Tu-han to-gu to-gu ma au, go-hi ro-hang-ku i-nga-ni au on, so-nang di Ho tong-tong,
+#V
+Jesus Tuhanku di Ho ma au on,
+asa mangihut tu Ho au tongtong
+gohi rohangku ingani au on.
+Sonang di Ho tongtong,
+O Tuhan togu ma au, O Tuhan togu togu ma au,
+gohi rohangku ingani au on, sonang di Ho tongtong,
+-
+Mansai godang do pardangolanki,
+tagan so Jesus dope tohaphi.
+disesa Jesus sude dosangki, gok dame rohangki,
+asi rohaNa di au Tongtong asi rohaNa di au.
+disesa Jesus sude dosangki, gok dame rohangki.
+-
+Nang pe mangonggop sibolis di au,
+jala magigi musungki di au,
+ndada mabiar au pos rohangki Ho pangondianki,
+Jesus pangondianki. Jesus Tuhan pangondianki,
+ndada mabiar au pos rohangki, Ho pangondianki.
+-
+Na marpohosan tu Jesus tahe sai na martua ibana muse,
+sonang ibana diportibion, nang di surgo inon,
+jolma na bonar burju. Jolma na bonar huhut burju,
+sonang ibana di portibion, nang di surgo inon.

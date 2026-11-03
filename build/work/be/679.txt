@@ -1,0 +1,45 @@
+@be 679
+@bl 0
+@title Tung dangol do ho O jolma
+@key D
+@meter 3/4
+@credit Syair & Lagu: Pdt. Dr. J.Pardede
+@pages 704 705 706
+@status Lirik dicek · 8/16 baris sama dgn pembanding
+@check Pembanding lirik: bukuende.wordpress.com — beda di ejaan/pemisahan kata di baris 1, 4–7, 12–13 (baris ayat 1 disusun dari lirik di bawah not). Baris 3 di pembanding juga dimulai "lan". Kata yang beda dicek ulang ke scan; buku tetap acuan. Pembanding mencantumkan "Buku Logu No. 679" (sama dengan nomor BE); buku sendiri tidak mencetak nomor Logu.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 679) | https://bukuende.wordpress.com/2013/06/18/tung-dangol-do-ho-o-jolma-buku-ende-no-679-buku-logu-no-679/ | Pembanding lirik (ejaan tanda baca diabaikan).
+@check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0).
+@check Bagian A diulang (:||) dengan dua baris lirik; baris kedua tercetak mulai "lan do angka halilian ..." — ditulis apa adanya.
+@check "nai", "saut", "boi" bertanda lengkung (satu suku kata).
+#A
+3+.+.+4 | 5 .+5 6+.+.+3 | 5 4 4+.+.+5 | 7 .+5 6+.+.+5 |
+5 . 3+.+.+5 | 1' .+2' 1'+.+.+5 | 7 6 6+.+.+6 | 5 .+5 5+.+.+5 |
+5 . . :|
+> Tung dang-ol do ho O jol-ma a-la ha-la-la-pon-mi, so di bo-to ho ma-go-mu di-ra-ja-i hi-sap i,
+> lan do ang-ka ha-li-li-an na ma-nai-ti ro-ha-mi, ha-ri-bu-ron ha-u-li-on la-lap ho di hor-hon i,
+#B
+3+.+.+3 | 4 .+4 4+.+.+4 | 3 . 3+.+.+3 |
+5 .+2 6+.+.+5 | 5 . 3+.+.+3 | 4 .+4 4+.+.+4 |
+3 . 3+.+.+3 | 5 .+2 4+.+.+4 | 3 . 3+.+.+4 |
+5 .+5 6+.+.+7 | 1' 5 5+.+.+5 | 6 .+6 7+.+.+1' |
+2' . 5+.+.+1' | 3' .+3' 2'+.+.+1' | 2' 6 6+.+.+1' |
+7 .+7 6+.+.+7 | 1' . |]
+> I-da ma hi-ras-na i tung ne-ang do lang-ka-mi, ma-nge-a-hi ar-ta i, na mang-go-hi ro-ha-mi. A-ha ma la-bam O jol-ma nang di ho-lu-hut-na i, ma-go-po do di u-jung-na mo-lo ma-go ton-di-mi.
+#V
+Tung dangol do ho O jolma ala halalaponmi,
+so di boto ho magomu dirajai hisap i,
+lan do angka halilian na manaiti rohami,
+haribu ron hauli on lalap ho di horhon i,
+Ida ma hirasna i tung neang do langkami,
+mangeahi arta i, na manggohi rohami.
+Aha ma labam O jolma nang di holuhutna i,
+magopo do di ujungna molo mago tondimi.
+-
+Ia arta na ummarga ndada disarihon ho,
+tung so saut do ho taruli nang suksuk arta di ho,
+anggo sere dohot perak, na martingki do sude,
+tung so boi tondim mardemak, salpu do ngolum muse.
+Arta na ummarga i, Hatta ni Tuhanta i;
+i do na manongtong i, na pasonang rohami.
+Aha ma labam O jolma, nang di ho luhutna i ?
+magopo do di ujungna, molo mago tondimi.

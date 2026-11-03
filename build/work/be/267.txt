@@ -1,0 +1,46 @@
+@be 267
+@bl 100
+@title O Tuhan, sulingkit
+@key C
+@meter 3/4
+@credit Sarag G. Stock 1898
+@pages 247 248
+@check Judul kepala lagu "O Tuhan, sulingkit"; baris pertama lirik "O Tuhan, sulingkit ma au!".
+@check Kredit tercetak "Sarag G. Stock" (lazim: Sarah G. Stock, penulis syair).
+@check Bagian B bertanda ulang dengan satu baris lirik; ayat 2–6 menandai pengulangan dengan ":,:"; ditulis sesuai buku.
+@status Lirik dicek · 16/18 baris sama dgn pembanding
+@check Pembanding lirik: L2 kata 7 tambahan di buku, L15 kata 3–4 beda ejaan; buku dipakai.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 267) | https://bukuende.wordpress.com/2013/06/16/o-tuhan-sulingkit-buku-ende-no-267-buku-logu-no-100/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 1' 3 5 | 4 3 2 | 3 . v (1'+7) |
+6 6 2' | 7 7 7 | 1' . v 5 | 1' 3 5 |
+4 3 2 | 3 . |
+> O Tu-han, su-ling-kit ma au! Son-da-ngi ro-hang-ku tang-kas. Go-gong-ku so-a-da di au!
+#B
+(1'+7) | 6 6 6 | 5 5 5 |
+4 4 4 | (3+5) 1' v 1' | 2' 1' 7 | 1' . :|
+> Tu Ho au pa-ring-gas, tu Ho au pa-do-nok, di Ho na-ma au!
+#V
+O Tuhan, sulingkit ma au! Sondangi rohangku tangkas.
+Gogongku soada di au! Tu Ho au paringgas,
+tu Ho au padonok, di Ho nama au!
+-
+Tu aha marguna be i nang godang sinamot di au?
+Di ginjang, di sambulongki :,: Ho Jesus artangku,
+Tusi do siholhu, sonang rohangki.
+-
+Sude hupasahat tu Ho, ai Ho nampunasa hian;
+Tongtong au marguru tu Ho :,: Ai Ho, ale Jesus.
+Sihophop sudena, nampuna au on.
+-
+Hutiop tanganmu tongtong, dalanku tiur nang sonang.
+Sabam ma tongtong rohangkon, :,: Ai Ho Sipargogo,
+Ai Ho Siparngolu; Pangolu ma au.
+-
+Dipuji rohangku do Ho, o Jesus, donganku tutu;
+Gogongku sambing nama Ho. :,: Pinuji goarMu,
+Pinuji goarMu, hapuji burhu.
+-
+Tu Ho, o Tuhanku au lao, dung suda bohalhu dison.
+Pargogo, parbasa do Ho :,: Ramoti, dongani,
+Urupi ma hami, sai togu au on.

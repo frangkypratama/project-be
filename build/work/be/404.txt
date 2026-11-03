@@ -1,0 +1,33 @@
+@be 404
+@bl 268
+@title Unang ho sai di na holom
+@key Eb
+@meter 4/4
+@credit Ernst Gebthardt 1899
+@pages 387 388
+@status Lirik dicek · 7/12 baris sama dgn pembanding
+@check Kepala lagu juga mencetak "R.L. No. 229".
+@check Not angka birama "5 4͡3 4 2" tidak bergaris atas, tetapi not balok memakai dua not 1/8 (legato) untuk 4 3; dipakai not balok.
+@check Pembanding lirik: bukuende.wordpress.com — 7/12 baris sama; beda hanya pemisahan kata/kapital (portibion, pasesahonon mu, hangoluhonon mu, nio mohon na) dan "Tuhami" di pembanding; scan dicek: buku "Tuhanmi".
+@ref Lirik pembanding: bukuende.wordpress.com (BE 404) | https://bukuende.wordpress.com/2013/06/18/unang-ho-sai-di-na-holom-buku-ende-no-404-buku-logu-no-268/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+3 3 3 5 | 5 (4+3) 4 2 | 2 2 (2+3) (4+5) |
+6 5 5 . | 3 3 3 5 | 5 (4+3) 4 2 | 2+3 4+5 6 5 |
+1 . . . | 6 6 (6+7) (1'+6) | 5 5 5 3 | 2 2 (2+3) 4+5 | 6 5 5 . |
+6 6 6+7 1'+6 | 5 5 5 3 | 2+3 4+5 6 5 | 1 . . 0 |]
+> U-nang ho sai di na ho-lom, tu na ti-ur ho an-tong, Su-lu-su-lu i ma go-lom, ai ho-lom por-ti-bi on. Naeng ma pa-se-sa-ho-non-mu do-sa tu Tu-han Je-sus i, I-pe a-sa ha-ngo-lu-ho-non-mu na ni-o-mo-hon-na i.
+#V
+Unang ho sai di na holom, tu na tiur ho antong,
+Sulusulu i ma golom, ai holom portibi on.
+Naeng ma pasesahononmu dosa tu Tuhan Jesus i,
+Ipe asa hangoluhononmu na niomohonna i.
+-
+Unang ho di hagangguon, sai pasada rohami,
+Asa bali haliluon baenon ni sondangna i.
+Sai ungkapi ma rohamu, sai pasiat Tuhanmi.
+Pagomgomhon saluhut langkamu tu parholong roha i.
+-
+Dame dohot hatiuron tu roham manongtong ro,
+Hot ni roha hatoguon, sai lam tu tambana do.
+Raphon Jesus parangehon sasude ulaonmi.
+Pos roham, Tuhanta mangalehon roha na imbaru i.

@@ -1,0 +1,35 @@
+@be 464
+@bl 313
+@title Huboan ma diringku
+@key Eb
+@meter 6/8
+@credit F.B. No. 62 · Lagu: F Knapp 1908
+@pages 443 444
+@check Birama 6/8: 1 token = 1 not 1/8.
+@check Reff birama 4 ("au", hlm 444): angka "5..5" dan paranada not 1/4 bertitik diikat ke not 1/4 (= 5/8), padahal birama berikut penuh tanpa ketukan gantung → ditulis "(5 . . 5 . .)" (6/8). Perlu dicek.
+@check Ada fermata pada not "3" di "4..3.6" (su-ru); tanda fermata tidak bisa ditulis di format ini.
+@check Reff hanya dicetak lengkap di ayat 1; ayat 2–3 menulis "Pagalak...d.u.".
+@status Lirik dicek · 6/8 baris sama dgn pembanding
+@check Pembanding lirik: beda ejaan di reff baris 1 ("rohangku") dan baris 2 ("TondiMi"); scan hlm 444 mencetak "ro-hang-ku" dan "Ton-di Mi". Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 464) | https://bukuende.wordpress.com/2013/06/13/huboan-ma-diringku-buku-ende-no-464-buku-logu-no-313/ | Pembanding lirik (ejaan tanda baca diabaikan).
+#A
+5 | 5 . 5 6 . 6 | 2 . . 3 . 3 | 1 . 1 4 . 3 |
+(2 . . 2 .) 5 | 5 . 5 6 . 6 | 2 . . 3 . 3 | 1 . 2 3 . 2 | (1 . . 1 .) |
+> Hu-bo-an ma di-ring-ku, Tu-han, hi-bul tu Ho. Ai au do ti-no-bus-Mu, um-baen tar-baen au ro.
+#B
+5 | 1' . 3 4 . 6 | 5 . . 3 . 5 | 1' . 1' 7 . 6 | (5 . . 5 . .) |
+6 . 6 5 . 5 | 4 . . 3 . 6 | 5 . 1 3 . 2 | (1 . . 1 .) |]
+> Pa-ga-lak ma ro-hang-ku, di son ma-na-gam, au Ton-di-Mi ma su-ru, na boi mang-gom-gom au.
+#V
+Huboan ma diringku, Tuhan, hibul tu Ho.
+Ai au do tinobusMu, umbaen tarbaen au ro.
+Pagalak ma rohangku, di son managam, au
+TondiMi ma suru, na boi manggomgom au.
+-
+Ho sipalua ahu, sun hinagogoMi
+HataM do huhaposi, Na so boi muba i.
+Pagalak...d.u.
+-
+Ias do au diburi Ho, ale Tuhanki,
+Naeng dohot parulanku hombar tu hataMi,
+Pagalak...d.u.

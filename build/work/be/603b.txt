@@ -1,0 +1,36 @@
+@be 603
+@variant b
+@bl 0
+@title Dipanggagatan i
+@key F
+@meter 3/4
+@credit Syair: Away in manger; John T. MC. Farland, 1851-1913 · Terj.: Pdt. J. A. U. Doloksaribu · Lagu: William J. Kirk Patrick, 1838-1921
+@pages 597 598
+@status Lirik dicek · 11/12 baris sama dgn pembanding
+@check Pembanding lirik: baris 1 beda ejaan (pembanding "dipanggagatan" disambung; buku di bawah not "di pangga - ga-tan"). Buku tetap acuan.
+@ref Lirik pembanding: bukuende.wordpress.com (BE 603b) | https://bukuende.wordpress.com/2013/06/13/dipanggagatan-i-buku-ende-no-603b-buku-logu-no-603b/ | Pembanding lirik (ejaan & tanda baca diabaikan).
+@check Kepala lagu: "603b. Dipanggagatan i" (Luk. 2:6,7,12). Versi a (melodi James R. Murray) ada di BE 603.
+@check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan).
+@check Baris 3 "7 . 5" tercetak tanpa titik bawah; balok = E4 (1/2) & C4 → dibaca 7, dan 5,.
+#A
+5, | 1 1 (2+3) | 1 1 (3+4) | 5 5 6 |
+4 . (2+3) | 4 4 5 | 3 3 (1+3) | 2 6, 1 |
+7, . 5, | 1 1 (2+3) | 1 1 (3+4) |
+5 5 6 | 4 . (2+3) | 4 4 5 |
+3 3 (1+3) | 2 6, 7, | 1 . |]
+> Tung di pang-ga-ga-tan pe-ak Ho Tu-han, da-ngol pe Ho so-rang sa-bam do ro-haM, bin-tang-Mu di la-ngit hu-mir-dop to-rang, ma-na-tap Ho Je-sus na mo-dom so-nang.
+#V
+Tung di panggagatan peak Ho Tuhan,
+dangol pe Ho sorang sabam do rohaM,
+bintangMu di langit humirdop torang,
+manatap Ho Jesus na modom sonang.
+-
+Nang gaor humaliang pinahan disi,
+alai Ho O Jesus sinok tingki i,
+holong do rohangku di Ho Tuhanki
+di dalan na holom Ho ma donganki.
+-
+Sai Ho ma O, Jesus donganku tongtong,
+sarihon na metmet diportibion,
+sai togu luhut hami siseanMon
+tu ngolu na sonang di surgo inon.
