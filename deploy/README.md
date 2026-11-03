@@ -43,6 +43,17 @@ Tambah properti **Domain** `bukuende.com`, pasang record TXT yang diberikan
 di DNS registrar, verifikasi, lalu kirim sitemap
 `https://bukuende.com/sitemap.xml`.
 
+## Status
+
+- 2026-11-03: tayang di https://bukuende.com (VPS 202.10.35.60, Ubuntu 24.04,
+  Nginx 1.24). Sertifikat Let's Encrypt untuk bukuende.com + www, berlaku
+  sampai 2027-02-01, diperpanjang otomatis oleh `certbot.timer`.
+
+**Jangan salin ulang `nginx-bukuende.conf` ke `/etc/nginx/sites-available/bukuende`
+setelah certbot berjalan**: certbot sudah menambahkan bagian HTTPS ke file di
+server, dan menyalin ulang akan menghapusnya. `deploy.sh` tidak menyentuh
+konfigurasi Nginx.
+
 ## Memperbarui
 
 Setelah perubahan di-push ke GitHub, di VPS:
