@@ -39,46 +39,51 @@ body = src[src.index("</style>") + len("</style>"):src.index(abcjs)]
 
 HOME_CSS = """
 /* ---- beranda ---- */
-.home{display:flex;flex-direction:column;gap:34px;padding-top:6px}
-.home h2{margin:0 0 12px;font-size:14px;font-weight:600;color:var(--ink-2)}
-.intro h1{margin:0;font-family:var(--f-display);font-weight:600;font-size:clamp(36px,5.6vw,50px);line-height:1.02;letter-spacing:-.01em}
-.intro .sub{margin:10px 0 22px;max-width:52ch;font-size:17px;color:var(--ink-2)}
-.go{display:flex;flex-wrap:wrap;align-items:center;gap:10px 12px}
-.go label{font-family:var(--f-display);font-size:19px}
+.home{display:flex;flex-direction:column;gap:24px}
+.home h2{margin:0 0 10px;font-size:14px;font-weight:600}
+.hero{position:relative;background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:30px 28px 44px;overflow:hidden}
+.hero h1{margin:0;font-family:var(--f-display);font-weight:700;font-size:clamp(36px,6vw,52px);line-height:1.04;letter-spacing:-.01em}
+.hero .lead{margin:10px 0 22px;max-width:54ch;font-size:17px;color:var(--ink-2)}
+.go{display:flex;flex-wrap:wrap;align-items:center;gap:10px}
+.go label{font-family:var(--f-display);font-size:19px;margin-right:2px}
 /* kotak nomor meniru papan nomor ende di gereja: papan gelap, angka putih */
-.board{display:inline-flex;background:#20262f;border-radius:4px;padding:3px;box-shadow:inset 0 0 0 1px #000,0 1px 0 rgba(0,0,0,.08)}
-.board input{width:4.2ch;box-sizing:content-box;font-family:var(--f-num);font-size:30px;font-weight:600;font-variant-numeric:tabular-nums;letter-spacing:.06em;text-align:center;padding:2px 10px;border:0;border-radius:2px;background:#20262f;color:#f6f3ea}
+.board{display:inline-flex;background:#20262f;border-radius:4px;padding:3px;box-shadow:inset 0 0 0 1px #000}
+.board input{width:4.2ch;box-sizing:content-box;font-family:var(--f-num);font-size:28px;font-weight:600;font-variant-numeric:tabular-nums;letter-spacing:.06em;text-align:center;padding:2px 10px;border:0;border-radius:2px;background:#20262f;color:#f6f3ea}
 .board input::placeholder{color:#6d7480}
 .board input:focus{outline:2px solid var(--gorga);outline-offset:3px}
 .go .btn{font-size:15px;padding:9px 18px}
-.linkish{font:inherit;font-size:15px;background:none;border:0;padding:0;color:var(--gorga);cursor:pointer;text-decoration:underline;text-underline-offset:3px;text-decoration-thickness:1px}
-.linkish:focus-visible{outline:2px solid var(--gorga);outline-offset:2px}
 .go-msg{flex-basis:100%;min-height:1.2em;margin:0;font-size:14px;color:var(--warn)}
-.facts{display:flex;flex-wrap:wrap;gap:4px 0;margin:14px 0 0;font-size:14px;color:var(--ink-2)}
-.facts span+span::before{content:"·";margin:0 10px}
-.facts b{color:var(--ink);font-weight:600;font-variant-numeric:tabular-nums}
-.today{border-top:1px solid var(--rule);border-bottom:1px solid var(--rule);padding:20px 0 22px}
+/* lima garis paranada sebagai tepi bawah */
+.staffrule{position:absolute;left:28px;right:28px;bottom:14px;height:17px;background:repeating-linear-gradient(to bottom,var(--rule) 0 1px,transparent 1px 4px)}
+.stats{display:grid;grid-template-columns:repeat(4,minmax(0,1fr));margin:0;background:var(--sheet);border:1px solid var(--rule);border-radius:12px}
+.stats div{display:flex;flex-direction:column;gap:2px;padding:14px 18px;min-width:0}
+.stats dd{order:-1}
+.stats div+div{border-left:1px solid var(--rule)}
+.stats dd{margin:0;font-family:var(--f-num);font-size:26px;font-weight:700;line-height:1.1;font-variant-numeric:tabular-nums}
+.stats dt{font-size:13px;color:var(--ink-2);line-height:1.3}
+.today{background:var(--gorga-soft);border-radius:12px;padding:22px 24px 24px}
+.today h2{color:var(--gorga)}
 .today-head{display:grid;grid-template-columns:auto minmax(0,1fr);gap:0 16px;align-items:baseline;color:var(--ink);text-decoration:none}
-.today-head .no{font-family:var(--f-body);font-weight:600;font-size:34px;line-height:1;color:var(--ink-2);font-variant-numeric:tabular-nums;min-width:2.2ch}
+.today-head .no{font-family:var(--f-body);font-weight:600;font-size:34px;line-height:1;color:var(--gorga);font-variant-numeric:tabular-nums;min-width:2.2ch}
 .today-head .tt{display:flex;flex-wrap:wrap;align-items:baseline;gap:2px 14px;min-width:0}
 .today-head .t{font-family:var(--f-display);font-weight:600;font-size:clamp(22px,3.2vw,28px);line-height:1.2}
 .today-head .lg{font-size:14px;color:var(--ink-2)}
 .today-head:hover .t{text-decoration:underline;text-decoration-thickness:1px;text-underline-offset:5px}
 .today-head:focus-visible{outline:2px solid var(--gorga);outline-offset:4px}
-.today-v{margin:12px 0 0;font-family:var(--f-display);font-size:18px;line-height:1.6;max-width:60ch}
+.today-v{margin:12px 0 18px;font-family:var(--f-display);font-size:18px;line-height:1.6;max-width:60ch}
 .today-v span{display:block}
-/* tab per ratusan, seperti potongan tepi (thumb index) pada buku */
-.thumbs ol{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(250px,1fr));column-gap:24px;border-top:1px solid var(--rule)}
-.thumbs li{border-bottom:1px solid var(--rule)}
-.thumbs a{display:flex;align-items:baseline;gap:12px;padding:10px 12px 10px 0;color:var(--ink);text-decoration:none;min-width:0}
-.thumbs b{flex:none;width:5.6em;font-family:var(--f-num);font-weight:600;font-size:17px;font-variant-numeric:tabular-nums}
-.thumbs span{min-width:0;font-size:14px;color:var(--ink-2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
-.thumbs a:hover b{color:var(--gorga)}
-.thumbs a:focus-visible{outline:2px solid var(--gorga);outline-offset:-2px}
-.about dl{display:grid;grid-template-columns:7em minmax(0,1fr);gap:8px 18px;margin:0;max-width:720px}
-.about dt{font-family:var(--f-display);font-weight:600;font-size:17px}
-.about dd{margin:0;color:var(--ink-2)}
-@media (max-width:520px){.about dl{grid-template-columns:minmax(0,1fr);gap:2px}.about dd{margin-bottom:10px}.today-head .no{font-size:28px}}
+.home a.btn{text-decoration:none}
+.ranges{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px}
+.rng{display:flex;flex-direction:column;gap:2px;padding:12px 14px;background:var(--sheet);border:1px solid var(--rule);border-radius:10px;color:var(--ink);text-decoration:none;min-width:0}
+.rng:hover{border-color:var(--gorga)}
+.rng:focus-visible{outline:2px solid var(--gorga);outline-offset:2px}
+.rng .rn{font-family:var(--f-num);font-weight:700;font-size:19px;font-variant-numeric:tabular-nums}
+.rng .rt{font-family:var(--f-display);font-size:15px;color:var(--ink-2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.feats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
+.feats div{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:14px 16px}
+.feats h3{margin:0 0 4px;font-family:var(--f-display);font-size:18px;font-weight:600}
+.feats p{margin:0;font-size:14px;color:var(--ink-2)}
+@media (max-width:640px){.hero{padding:24px 18px 40px}.staffrule{left:18px;right:18px}.stats{grid-template-columns:repeat(2,minmax(0,1fr))}.stats div:nth-child(3){border-left:0}.stats div:nth-child(n+3){border-top:1px solid var(--rule)}.feats{grid-template-columns:minmax(0,1fr)}.today{padding:18px}.today-head .no{font-size:28px}}
 """
 
 
@@ -202,6 +207,7 @@ n_main = len([x for x in index if not x.get("variant")])
 all_h = [hymns[i] for i in ids]
 n_ayat = sum(len(h.get("verses") or []) for h in all_h)
 n_logu = sum(1 for h in all_h if h.get("bl"))
+n_vl = sum(1 for h in all_h for v in (h.get("vl") or [])[1:] if v and v.get("r")) + sum(1 for h in all_h if h.get("verses"))
 fmt = lambda n: f"{n:,}".replace(",", ".")
 first = hymns[ids[0]]
 ranges = []
@@ -209,40 +215,41 @@ for r0 in range(1, 865, 100):
     xs = [hymns[i] for i in ids if r0 <= hymns[i]["be"] < r0 + 100 and not hymns[i].get("variant")]
     if xs:
         ranges.append((r0, xs[-1]["be"], xs[0]))
-tabs = "".join(f'<li><a href="{P}/be/{h["be"]}/"><b>{a}–{b}</b><span>{E(h["title"])}</span></a></li>' for a, b, h in ranges)
+tiles = "".join(f'<a class="rng" href="{P}/be/{h["be"]}/"><span class="rn">{a}–{b}</span><span class="rt">{h["be"]}. {E(h["title"])}</span></a>' for a, b, h in ranges)
 v1 = "".join(f"<span>{E(l)}</span>" for l in (first.get("verses") or [[]])[0])
 logu1 = f"Logu No. {first['bl']}" if first.get("bl") else ""
 home = f"""<div class="home">
-<header class="intro">
+<section class="hero">
   <h1>Buku Ende</h1>
-  <p class="sub">Ende HKBP dengan not angka, not balok, dan lirik semua ayat. Not bisa diputar dengan suara organ.</p>
+  <p class="lead">Ende HKBP dengan not angka, not balok, dan lirik semua ayat. Not bisa diputar dengan suara organ.</p>
   <form class="go" id="goForm" autocomplete="off">
     <label for="goNo">Ende nomor</label>
     <span class="board"><input id="goNo" inputmode="numeric" placeholder="550" maxlength="5" aria-describedby="goMsg"></span>
-    <button type="submit" class="btn primary">Buka</button>
-    <button type="button" class="linkish" id="rndBtn">atau buka ende acak</button>
+    <button type="submit" class="btn primary">Buka</button><button type="button" class="btn" id="rndBtn">Ende acak</button>
     <p class="go-msg" id="goMsg" role="status"></p>
   </form>
-  <p class="facts"><span><b>{fmt(n_main)}</b> ende</span><span><b>{fmt(n_ayat)}</b> ayat</span><span><b>{fmt(n_logu)}</b> dengan nomor Logu</span></p>
-</header>
+  <div class="staffrule" aria-hidden="true"></div>
+</section>
+<dl class="stats">
+  <div><dt>Ende</dt><dd>{fmt(n_main)}</dd></div>
+  <div><dt>Ayat</dt><dd>{fmt(n_ayat)}</dd></div>
+  <div><dt>Ayat dengan lirik di bawah not</dt><dd>{fmt(n_vl)}</dd></div>
+  <div><dt>Dengan nomor Logu</dt><dd>{fmt(n_logu)}</dd></div>
+</dl>
 <section class="today" aria-labelledby="todayH">
   <h2 id="todayH">Ende hari ini</h2>
   <a class="today-head" id="todayLink" href="{P}/be/{first['be']}/"><span class="no" id="todayNo">{first['be']}</span><span class="tt"><span class="t" id="todayTitle">{E(first['title'])}</span><span class="lg" id="todayLogu">{logu1}</span></span></a>
   <p class="today-v" id="todayVerse">{v1}</p>
+  <a class="btn" id="todayBtn" href="{P}/be/{first['be']}/">Buka ende ini</a>
 </section>
-<section class="thumbs" aria-labelledby="thH">
-  <h2 id="thH">Buka per bagian nomor</h2>
-  <ol>{tabs}</ol>
-</section>
-<section class="about" aria-labelledby="abH">
-  <h2 id="abH">Di setiap ende</h2>
-  <dl>
-    <dt>Not angka</dt><dd>Ditulis seperti di buku: garis atas untuk not ½ ketuk, titik di atas atau di bawah angka untuk oktaf.</dd>
-    <dt>Not balok</dt><dd>Dibuat dari not angka, dengan lirik di bawah not.</dd>
-    <dt>Putar</dt><dd>Suara organ; not yang sedang berbunyi ditandai, dan tempo bisa diubah sambil diputar.</dd>
-    <dt>Ayat</dt><dd>Pilih ayat 1, 2, 3 dan seterusnya; lirik di bawah not ikut berganti.</dd>
-  </dl>
-</section>
+<section class="block"><h2>Per seratus nomor</h2><div class="ranges">{tiles}</div></section>
+<section class="block"><h2>Di setiap ende</h2>
+<div class="feats">
+  <div><h3>Not angka</h3><p>Ditulis seperti di buku: garis atas untuk not ½ ketuk, titik di atas atau di bawah angka untuk oktaf.</p></div>
+  <div><h3>Not balok</h3><p>Dibuat dari not angka, dengan lirik di bawah not.</p></div>
+  <div><h3>Putar</h3><p>Suara organ. Not yang sedang berbunyi ditandai; tempo bisa diubah sambil diputar.</p></div>
+  <div><h3>Ayat</h3><p>Pilih ayat 1, 2, 3 dan seterusnya; lirik di bawah not ikut berganti.</p></div>
+</div></section>
 </div>"""
 home_js = r"""<script>
 (function(){
@@ -260,7 +267,7 @@ home_js = r"""<script>
     var d=new Date(), k=Math.imul(d.getFullYear()*372+d.getMonth()*31+d.getDate(),2654435761)>>>0, e=ix[k%ix.length], id=e.id||e.be;
     return fetch(BP+"/data/b"+("0"+e.batch).slice(-2)+".json").then(function(r){return r.json();}).then(function(arr){
       var h=arr.filter(function(x){return String(x.id||x.be)===String(id);})[0]; if(!h) return;
-      document.getElementById("todayLink").href=BP+"/be/"+id+"/";
+      document.getElementById("todayLink").href=BP+"/be/"+id+"/"; document.getElementById("todayBtn").href=BP+"/be/"+id+"/";
       document.getElementById("todayNo").textContent=id; document.getElementById("todayTitle").textContent=h.title;
       document.getElementById("todayLogu").textContent=h.bl?"Logu No. "+h.bl:"";
       var v=document.getElementById("todayVerse"); v.textContent=""; (h.verses[0]||[]).forEach(function(l){var s=document.createElement("span");s.textContent=l;v.appendChild(s);});
