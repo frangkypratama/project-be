@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://frangkypratama.github.io/project-be/sitemap.xml

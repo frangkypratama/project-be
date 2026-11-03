@@ -24,6 +24,8 @@ ap.add_argument("--base", default="https://bukuende.example", help="alamat situs
 ap.add_argument("--out", default=os.path.join(ROOT, "dist"))
 a = ap.parse_args()
 BASE = a.base.rstrip("/")
+from urllib.parse import urlparse
+P = urlparse(BASE).path.rstrip("/")  # awalan path, mis. "/project-be" untuk GitHub Pages; "" untuk domain sendiri
 OUT = a.out
 E = lambda s: html.escape(str(s), quote=True)
 
@@ -41,19 +43,22 @@ def rep(s, old, new, cnt=1):
 
 
 # --- app.js: tautan nyata /be/<id>/ dan rute dari path, bukan hash ---
-js = rep(js, 'a.href="#be-"+(h.id||h.be);', 'a.href="/be/"+(h.id||h.be)+"/";')
-js = rep(js, """'<a class="prev" href="#be-'+(pv.id||pv.be)+'" rel="prev">""", """'<a class="prev" href="/be/'+(pv.id||pv.be)+'/" rel="prev">""")
-js = rep(js, """'<a class="next" href="#be-'+(nx.id||nx.be)+'" rel="next">""", """'<a class="next" href="/be/'+(nx.id||nx.be)+'/" rel="next">""")
-js = rep(js, 'fetch("data/b"+pad2(n)+".json")', 'fetch("/data/b"+pad2(n)+".json")')
-js = rep(js, 'fetch("data/index.json")', 'fetch("/data/index.json")')
+js = rep(js, 'a.href="#be-"+(h.id||h.be);', 'a.href=BP+"/be/"+(h.id||h.be)+"/";')
+js = rep(js, """'<a class="prev" href="#be-'+(pv.id||pv.be)+'" rel="prev">""", """'<a class="prev" href="'+BP+'/be/'+(pv.id||pv.be)+'/" rel="prev">""")
+js = rep(js, """'<a class="next" href="#be-'+(nx.id||nx.be)+'" rel="next">""", """'<a class="next" href="'+BP+'/be/'+(nx.id||nx.be)+'/" rel="next">""")
+js = rep(js, 'fetch("data/b"+pad2(n)+".json")', 'fetch(BP+"/data/b"+pad2(n)+".json")')
+js = rep(js, 'fetch("data/index.json")', 'fetch(BP+"/data/index.json")')
 js = rep(js, 'if(a)location.hash=a.getAttribute("href");}});', 'if(a)location.href=a.getAttribute("href");}});')
 js = rep(js, 'if(a){location.hash=a.getAttribute("href");}});', 'if(a){location.href=a.getAttribute("href");}});')
 js = rep(js, """  var m=location.hash.match(/^#be-(\\d+[a-z]?)$/), n=m?m[1].replace(/^0+/,""):String(INDEX[0].id||INDEX[0].be);""",
          """  var m=location.hash.match(/^#be-(\\d+[a-z]?)$/);
-  if(m){location.replace("/be/"+m[1].replace(/^0+/,"")+"/");return;} // alamat lama
+  if(m){location.replace(BP+"/be/"+m[1].replace(/^0+/,"")+"/");return;} // alamat lama
   if(!window.BE_PAGE) return; // beranda: isi dari HTML statis
   var n=String(window.BE_PAGE);""")
-js = js.replace('fetch("scans/b"', 'fetch("/scans/b"')
+js = js.replace('fetch("scans/b"', 'fetch(BP+"/scans/b"')
+js = js.strip()
+_bp = "var BP=" + json.dumps(P) + "; // awalan path situs\n"
+js = (js.replace('"use strict";', '"use strict";\n' + _bp, 1) if js.startswith('"use strict";') else _bp + js)
 
 os.makedirs(os.path.join(OUT, "assets"), exist_ok=True)
 for d in ("be", "data"):
@@ -89,9 +94,9 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
 <meta property="og:description" content="{E(desc)}">
 <meta property="og:url" content="{E(url)}">
 <meta property="og:locale" content="id_ID">
-<link rel="icon" href="/favicon.ico" sizes="any">
+<link rel="icon" href="{P}/favicon.ico" sizes="any">
 {fonts}
-<link rel="stylesheet" href="/assets/app.css">
+<link rel="stylesheet" href="{P}/assets/app.css">
 {extra_head}{('<script type="application/ld+json">' + json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + '</script>') if jsonld else ''}
 </head>
 <body>"""
@@ -99,8 +104,8 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
     b = rep(b, '<main id="main"></main>', '<main id="main">' + main + '</main>')
     if nav:
         b = rep(b, '<ol id="list"></ol>', '<ol id="list">' + nav + '</ol>')
-    b = b.replace('Buku Ende Digital<small>HKBP</small></div>', '<a href="/" style="color:inherit;text-decoration:none">Buku Ende Digital</a><small>HKBP</small></div>', 1)
-    tail = (f'<script>window.BE_PAGE={json.dumps(page_id)};</script>\n' if page_id else '') + abcjs + '\n<script src="/assets/app.js"></script>\n</body>\n</html>\n'
+    b = b.replace('Buku Ende Digital<small>HKBP</small></div>', f'<a href="{P}/" style="color:inherit;text-decoration:none">Buku Ende Digital</a><small>HKBP</small></div>', 1)
+    tail = (f'<script>window.BE_PAGE={json.dumps(page_id)};</script>\n' if page_id else '') + abcjs + f'\n<script src="{P}/assets/app.js"></script>\n</body>\n</html>\n'
     return head + b + tail
 
 
@@ -126,8 +131,8 @@ for i, hid in enumerate(ids):
                      for k, v in enumerate(h.get("verses") or []))
     pv, nx = (ids[i - 1] if i else None), (ids[i + 1] if i + 1 < len(ids) else None)
     pager = '<nav class="pager" aria-label="Ende sebelum dan sesudahnya">' + \
-            (f'<a class="prev" href="/be/{pv}/" rel="prev"><span class="lbl">← Sebelumnya</span><span class="ttl"><b>{pv}</b>{E(hymns[pv]["title"])}</span></a>' if pv else "") + \
-            (f'<a class="next" href="/be/{nx}/" rel="next"><span class="lbl">Berikutnya →</span><span class="ttl"><b>{nx}</b>{E(hymns[nx]["title"])}</span></a>' if nx else "") + "</nav>"
+            (f'<a class="prev" href="{P}/be/{pv}/" rel="prev"><span class="lbl">← Sebelumnya</span><span class="ttl"><b>{pv}</b>{E(hymns[pv]["title"])}</span></a>' if pv else "") + \
+            (f'<a class="next" href="{P}/be/{nx}/" rel="next"><span class="lbl">Berikutnya →</span><span class="ttl"><b>{nx}</b>{E(hymns[nx]["title"])}</span></a>' if nx else "") + "</nav>"
     main = f"""<header class="hymn-head"><div class="hymn-no">{E(hid)}</div><h1>{E(h['title'])}</h1><div class="meta">{meta}</div></header>
 <p class="loading">Memuat not angka dan not balok…</p>
 <section class="block"><h2>Ende</h2><div class="verses">{verses}</div><div class="credit">Lagu: {E(h.get('credit', ''))}</div></section>
@@ -146,16 +151,16 @@ for i, hid in enumerate(ids):
     urls.append(f"/be/{hid}/")
 
 # --- beranda ---
-nav = "".join(f'<li><a href="/be/{hid}/"><span class="n">{E(hid)}</span><span class="t">{E(hymns[hid]["title"])}</span>'
+nav = "".join(f'<li><a href="{P}/be/{hid}/"><span class="n">{E(hid)}</span><span class="t">{E(hymns[hid]["title"])}</span>'
               f'<span class="st">{("Logu " + str(hymns[hid]["bl"])) if hymns[hid].get("bl") else ""}</span></a></li>' for hid in ids)
 n_main = len([x for x in index if not x.get("variant")])
 home = f"""<header class="hymn-head"><div class="hymn-no">BE</div><h1>Buku Ende HKBP</h1><div class="meta"><span><b>{n_main}</b> ende</span><span>lirik · not angka · not balok</span></div></header>
 <section class="block"><h2>Tentang</h2><p>Buku Ende HKBP dalam bentuk digital: lirik semua ayat, not angka, dan not balok yang bisa diputar. Pilih nomor ende di daftar, atau cari nomor BE, nomor Logu, atau judul.</p>
-<p><a href="/be/1/">Mulai dari Buku Ende 1 – {E(hymns[ids[0]]['title'])}</a></p></section>"""
+<p><a href="{P}/be/1/">Mulai dari Buku Ende 1 – {E(hymns[ids[0]]['title'])}</a></p></section>"""
 ld = {"@context": "https://schema.org", "@type": "WebSite", "name": "Buku Ende Digital", "url": BASE + "/", "inLanguage": "id"}
 open(os.path.join(OUT, "index.html"), "w", encoding="utf-8").write(
     page("/", "Buku Ende Digital HKBP – lirik, not angka, not balok", f"Buku Ende HKBP digital: {n_main} ende dengan lirik semua ayat, not angka, dan not balok yang bisa diputar.", home, nav=nav, jsonld=ld))
-nf = """<header class="hymn-head"><div class="hymn-no">404</div><h1>Halaman tidak ditemukan</h1><div class="meta"><span>Pilih ende di daftar atau kembali ke <a href="/">beranda</a>.</span></div></header>"""
+nf = f"""<header class="hymn-head"><div class="hymn-no">404</div><h1>Halaman tidak ditemukan</h1><div class="meta"><span>Pilih ende di daftar atau kembali ke <a href="{P}/">beranda</a>.</span></div></header>"""
 open(os.path.join(OUT, "404.html"), "w", encoding="utf-8").write(page("/404.html", "Halaman tidak ditemukan | Buku Ende Digital", "Halaman tidak ditemukan.", nf, extra_head='<meta name="robots" content="noindex">\n'))
 
 # --- sitemap & robots ---

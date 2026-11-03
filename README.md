@@ -15,6 +15,7 @@ dan 6 lagu varian).
 | `build/make_prod.py` | Membuat `site-prod/index.html` (versi **Prod**) dari versi Dev |
 | `build/make_static.py` | Membuat `dist/`: satu halaman HTML per lagu + sitemap untuk Google |
 | `icon/` | Ikon salib (`salib.ico`) |
+| `docs/` | Hasil `make_static.py` untuk **GitHub Pages**: 870 halaman lagu siap dibaca Google |
 
 Scan PDF Buku Ende dan gambar halaman **tidak** disertakan di repo.
 
@@ -49,6 +50,38 @@ server {
 
 Lalu HTTPS dengan `certbot --nginx -d domainanda.id`, dan kirim
 `https://domainanda.id/sitemap.xml` di Google Search Console.
+
+## Supaya terbaca Google
+
+Setiap lagu punya halaman sendiri (`/be/550/`) dengan judul, deskripsi, lirik
+semua ayat langsung di HTML (tetap terbaca tanpa JavaScript), alamat kanonik,
+tag Open Graph, dan data terstruktur `MusicComposition` (bahasa Batak Toba,
+`bbc`). Beranda memuat tautan ke semua lagu; `sitemap.xml` berisi 871 alamat.
+
+**Pakai GitHub Pages (gratis, tanpa server):**
+
+1. Repo → Settings → Pages → *Deploy from a branch* → `main`, folder `/docs`.
+2. Situs tampil di <https://frangkypratama.github.io/project-be/>.
+3. Google Search Console → tambahkan properti *URL prefix*
+   `https://frangkypratama.github.io/project-be/` → verifikasi (file HTML
+   dari Search Console taruh di `docs/`) → kirim sitemap
+   `https://frangkypratama.github.io/project-be/sitemap.xml`.
+
+Di GitHub Pages proyek, `robots.txt` tidak dibaca karena tidak berada di akar
+domain; itu tidak masalah karena sitemap dikirim langsung lewat Search Console.
+
+Setiap kali data berubah, bangun ulang `docs/`:
+
+```bash
+python3 build/build_site.py && python3 build/make_prod.py
+python3 build/make_static.py --base https://frangkypratama.github.io/project-be --out docs
+touch docs/.nojekyll
+```
+
+**Pakai domain sendiri:** bangun ke `dist/` dengan `--base https://domainanda.id`
+lalu unggah ke server (lihat Nginx di bawah). Kalau domain sendiri dipasang di
+GitHub Pages (Settings → Pages → Custom domain), bangun `docs/` dengan
+`--base https://domainanda.id` agar alamatnya tanpa `/project-be`.
 
 ## Uji
 
