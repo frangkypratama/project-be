@@ -375,8 +375,11 @@ home_js = r"""<script>
 </script>
 """.replace("__BP__", json.dumps(P))
 ld = {"@context": "https://schema.org", "@type": "WebSite", "name": "Buku Ende HKBP Digital", "url": BASE + "/", "inLanguage": "id"}
-open(os.path.join(OUT, "index.html"), "w", encoding="utf-8").write(
-    page("/", "Buku Ende HKBP Digital – lirik, not angka, not balok", f"Buku Ende HKBP digital: {n_main} ende dengan lirik semua ayat, not angka, dan not balok yang bisa diputar.", home, nav=nav, jsonld=ld, extra_tail=home_js))
+_home_html = page("/", "Buku Ende HKBP Digital – lirik, not angka, not balok", f"Buku Ende HKBP digital: {n_main} ende dengan lirik semua ayat, not angka, dan not balok yang bisa diputar.", home, nav=nav, jsonld=ld, extra_tail=home_js)
+open(os.path.join(OUT, "index.html"), "w", encoding="utf-8").write(_home_html)
+# /be/ = dashboard Buku Ende juga (setara /bn/). Isinya sama persis; canonical tetap "/" supaya tidak dianggap ganda.
+os.makedirs(os.path.join(OUT, "be"), exist_ok=True)
+open(os.path.join(OUT, "be", "index.html"), "w", encoding="utf-8").write(_home_html)
 nf = f"""<header class="hymn-head"><div class="hymn-no">404</div><h1>Halaman tidak ditemukan</h1><div class="meta"><span>Pilih ende di daftar atau kembali ke <a href="{P}/">beranda</a>.</span></div></header>"""
 open(os.path.join(OUT, "404.html"), "w", encoding="utf-8").write(page("/404.html", "Halaman tidak ditemukan | Buku Ende HKBP Digital", "Halaman tidak ditemukan.", nf, extra_head='<meta name="robots" content="noindex">\n'))
 
