@@ -283,7 +283,7 @@ function renderList(filter){
   if(!shown.length){ol.innerHTML='<li class="empty">Tidak ada ende yang cocok. Coba nomor BE, nomor Logu, atau sebagian judul.</li>';return;}
   shown.forEach(function(h){
     var li=document.createElement("li"), a=document.createElement("a");
-    a.href=BP+"/be/"+(h.id||h.be)+"/"; a.innerHTML='<span class="n">'+(h.id||h.be)+'</span><span class="t">'+h.title+'</span><span class="st">'+(h.bl?'Logu '+h.bl:'')+(h.variant?(h.bl?' \u00b7 ':'')+'lagu kedua':'')+'</span>';
+    a.href=BP+"/be/"+(h.id||h.be)+"/"; a.innerHTML='<span class="n">'+(h.id||h.be)+'</span><span class="t">'+h.title+'</span><span class="st">'+(h.variant?'lagu kedua':'')+'</span>';
     if(CUR&&(CUR.id||CUR.be)==(h.id||h.be)) a.setAttribute("aria-current","page");
     li.appendChild(a); ol.appendChild(li);
   });

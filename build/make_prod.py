@@ -17,7 +17,7 @@ def rep(a, b, cnt=1):
 
 # ---- judul (dev memakai "Buku Ende Digital Dev") ----
 rep('<title>Buku Ende Digital Dev</title>', '<title>Buku Ende Digital</title>')
-rep('Buku Ende Digital<small class="dev">Dev</small></div>', 'Buku Ende Digital<small>HKBP</small></div>')
+rep('Buku Ende Digital<small class="dev">Dev</small></div>', 'Buku Ende Digital HKBP</div>')
 
 # ---- CSS ----
 rep('.index{align-self:start;position:sticky;top:calc(env(safe-area-inset-top,0px) + 70px);min-width:0}',
@@ -87,9 +87,9 @@ i = s.index('<footer>'); j = s.index('</footer>') + len('</footer>')
 s = s[:i] + ('<footer>Ditranskrip dari scan Buku Ende HKBP. Not balok dibuat otomatis dari not angka. '
              'Transkripsi masih berstatus draf: setiap lagu memuat catatan pemeriksaan dan scan halaman aslinya untuk dibandingkan.</footer>') + s[j:]
 
-# ---- daftar: nomor Logu, bukan status pengecekan ----
+# ---- daftar: tanpa nomor Logu (seperti daftar BN), bukan status pengecekan ----
 rep('<span class="st">\'+(h.status||"Draf \\u00b7 perlu dicek")+\'</span>\'',
-    '<span class="st">\'+(h.bl?\'Logu \'+h.bl:\'\')+(h.variant?(h.bl?\' \\u00b7 \':\'\')+\'lagu kedua\':\'\')+\'</span>\'')
+    '<span class="st">\'+(h.variant?\'lagu kedua\':\'\')+\'</span>\'')
 rep('INDEX.filter(function(x){return !x.variant;}).length+" dari "+TOTAL_BE+" ende sudah ditranskrip"',
     'INDEX.filter(function(x){return !x.variant;}).length+" ende"')
 rep('Belum ada ende yang cocok di antara yang sudah ditranskrip.',

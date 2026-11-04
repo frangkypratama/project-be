@@ -152,7 +152,7 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
     b = rep(b, '<main id="main"></main>', '<main id="main">' + main + '</main>')
     if nav:
         b = rep(b, '<ol id="list"></ol>', '<ol id="list">' + nav + '</ol>')
-    b = b.replace('Buku Ende Digital<small>HKBP</small></div>', f'<a href="{P}/" style="color:inherit;text-decoration:none">Buku Ende Digital</a><small>HKBP</small></div>', 1)
+    b = b.replace('Buku Ende Digital HKBP</div>', f'<a href="{P}/" style="color:inherit;text-decoration:none">Buku Ende Digital HKBP</a></div>', 1)
     tail = (f'<script>window.BE_STATIC=true;window.BE_PAGE={json.dumps(page_id)};</script>\n' if page_id else '') + abcjs + f'\n<script src="{P}/assets/app.js"></script>\n' + extra_tail + f'</body>\n</html>\n'
     return head + b + tail
 
@@ -200,7 +200,7 @@ for i, hid in enumerate(ids):
 
 # --- beranda ---
 nav = "".join(f'<li><a href="{P}/be/{hid}/"><span class="n">{E(hid)}</span><span class="t">{E(hymns[hid]["title"])}</span>'
-              f'<span class="st">{("Logu " + str(hymns[hid]["bl"])) if hymns[hid].get("bl") else ""}</span></a></li>' for hid in ids)
+              f'<span class="st">{"lagu kedua" if hymns[hid].get("variant") else ""}</span></a></li>' for hid in ids)
 n_main = len([x for x in index if not x.get("variant")])
 all_h = [hymns[i] for i in ids]
 n_ayat = sum(len(h.get("verses") or []) for h in all_h)
