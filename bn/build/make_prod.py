@@ -98,8 +98,7 @@ rx(r'<footer>.*?</footer>',
 
 # ---- daftar: tanpa status, jumlah lagu ----
 rep("""+(h.status?'<span class="st">'+h.status+'</span>':'');""", "+'';")
-rep('INDEX.length+" lagu termasuk varian)";', 'INDEX.length+" lagu termasuk varian)";')
-rep('" dari "+TOTAL_BE+" nomor lagu ("', '" nomor lagu ("')
+rep('" dari "+TOTAL_BE+" nomor lagu";', '" nomor lagu";')
 
 # ---- halaman lagu: tanpa catatan pemeriksaan / penanda "Perlu dicek" di prod ----
 rx(r"""   '<div class="status"><div><b>'\+\(h\.fixed.*?'</ul></div></div>'\+\n""",

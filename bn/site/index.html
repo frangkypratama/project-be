@@ -847,6 +847,6 @@ window.addEventListener("hashchange",function(){show();window.scrollTo(0,0);});
 try{window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",function(){applyView();});}catch(e){}
 new MutationObserver(function(){applyView();}).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
 fetch("data/index.json").then(function(r){return r.json();}).then(function(j){INDEX=j;
-  var c=document.getElementById("count"); if(c) c.textContent=(function(){var u={};INDEX.forEach(function(x){u[x.be]=1;});return Object.keys(u).length;})()+" dari "+TOTAL_BE+" nomor lagu ("+INDEX.length+" lagu termasuk varian)";
+  var c=document.getElementById("count"); if(c) c.textContent=(function(){var u={};INDEX.forEach(function(x){u[x.be]=1;});return Object.keys(u).length;})()+" dari "+TOTAL_BE+" nomor lagu";
   renderList("");show();}).catch(function(){document.getElementById("main").innerHTML='<p class="status">Daftar lagu gagal dimuat.</p>';});
 </script>
