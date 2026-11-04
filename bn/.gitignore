@@ -1,0 +1,4 @@
+__pycache__/
+build/work/pages.json
+build/work/scan-cache/
+site/scans/

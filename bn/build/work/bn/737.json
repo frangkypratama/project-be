@@ -1,0 +1,56 @@
+{
+ "be": 737,
+ "variant": "",
+ "bl": null,
+ "title": "Baht'ra kita yang berlayar",
+ "key": "D",
+ "meter": "6/8",
+ "credit": "Mark. 6:45-52 ; Heb. 12:2-3",
+ "pages": [
+  926
+ ],
+ "cat": "Pergumulan dan Penderitaan",
+ "tempo": 100,
+ "credits": [
+  "Syair: T. Scheepken onder Jesus hoede; C.S Adama Van Seelteme, 1815-1897",
+  "Lagu: Johan De Heer",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 . 3 | 5 . 5 5 . 6 | 5 . 3 1 . 5 | 6 . 6 (6 7) 1' |\n5 . . 1 . 3 | 5 . 5 5 . 6 | 5 . 3 (1' 7) 6 | 5 . 4\n3 . 2 | 1 . . 0 0 2 | 3 . 3 3 . 2 | 2 . 1 1 . 1 |\n2 . 2 (2 1) 2 | (3 . . 5) . 4 | 3 . 3 3 . 2 | 2 . 1\n1 . 1 | 2 . 2 (2 3) 2 | 1 . . |]",
+   "rows": [
+    "Bah-te-ra ki-ta yg ber-la-yar di te-ngah sa-mu-d'ra Om-bak la-ut ber-ge-lo-ra ba-dai to-pan me-ner-pa wa-lau-pun om-bak men-de-ru Ye-sus be-ser-ta-mu Tu-han me-man-du bah-t'ra-mu ke pan-tai yg te-duh"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Bahtera kita yg berlayar di tengah samud'ra Ombak laut bergelora badai topan menerpa walaupun ombak menderu Yesus besertamu Tuhan memandu baht'ramu ke pantai yg teduh"
+  ],
+  [
+   "Hai manusia yang berdosa, lihat panji salibNya",
+   "Dalam bah'tra Jurus'lamat, kau tak akan tenggelam",
+   "Walaupun ombak menderu, menerpa p'rahumu",
+   "Tuhan memandu baht'ramu ke pantai yang teduh"
+  ],
+  [
+   "Matahari t'lah bersinar, badai topan pun reda",
+   "Bunyi riak kedengaran mengiringi pujian",
+   "Bersyukurlah pada Tuhan, sujudlah menyembah",
+   "Tuhan t'lah pandu bahtera ke pantai yang tenang"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 926 baris 1-2: pemisahan kata sa-mu-d'ra (satu kata samud'ra); teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,93 @@
+{
+ "be": 42,
+ "variant": "",
+ "bl": 216,
+ "title": "Hai kamu yang dikutuk Musa",
+ "key": "Ab",
+ "meter": "4/4",
+ "credit": "Godfried Clemens, 1704",
+ "pages": [
+  53,
+  54
+ ],
+ "cat": "Adventus",
+ "tempo": 100,
+ "credits": [
+  "Syair: Godfired Clemens 1706-1776",
+  "Lagu: Halle 1704",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 3 3 2 5 | 1 4 3 . | 2 . 0 3 | 5 2 2 3 | 1\n1 7, :|",
+   "rows": [
+    "Hai ka-mu yg di-ku-tuk Mu-sa kar'-na me-lang-gar tau-rat-Nya",
+    "Nik-ma-ti-lah ke-ba-ha-gia-an yg di-be-ri-kan o-leh-Nya"
+   ]
+  },
+  {
+   "notes": "2 | 2 5, 5, 1 | 1 7, 6, . | 5, . 0 5, | 1 1 2 3 |\n4 5 3 . | 3 . 0 5 | 5 3 6 2 | 3 2 1 . | 0 5, 5, 4, |\n3, 5, 1 2 | 7, . 7, . | 0 2 2 3 | 1 4 3 3 | 2 . 2 . |\n0 3 1 6, | 4 2 3 2 | 1 . . |]",
+   "rows": [
+    "T'lah di-re-muk-kan ran-tai do-sa Ku-a-sa i-blis di-le-nyap-kan yg me-nye-sat-kan ha-ti-mu Da-tang-lah pa-da Tu-han Ye-sus Pe-ne-bus u-mat ma-nu-si-a ber-i-man-lah ke-pa-da-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hai kamu yg dikutuk Musa kar'na melanggar tauratNya",
+   "Nikmatilah kebahagiaan yg diberikan olehNya",
+   "T'lah diremukkan rantai dosa Kuasa iblis dilenyapkan yg menyesatkan hatimu Datanglah pada Tuhan Yesus Penebus umat manusia berimanlah kepadaNya"
+  ],
+  [
+   "Sang Guru Agung sudah datang, dengarkanlah ajaran-Nya",
+   "Bagimu ditunjukkan jalan menuju Surga yang baka",
+   "Yang tersembunyi dulu kala sekarang ini sudah nyata",
+   "Kepada orang beriman, Tuhan sudah memberitakan",
+   "Kepada orang yang percaraya, kehendak Allah Bapa-Nya"
+  ],
+  [
+   "Rajamu akan seg'ra datang terimalah di hatimu",
+   "KemuliaanNya ditinggalkan menanggung kutuk dosamu",
+   "Bersujudlah menyembah Dia sebagai umat yg setia Yg sudah dis'lamatkanNya ikrarkan iman percayamu tinggalkan semua dosamu taati Tuhan Allahmu"
+  ],
+  [
+   "Kekayaanmu tak ternilai, di dalam Yesus Tuhanmu",
+   "Dan hitunglah dengan teliti, anug'rah Tuhan padamu",
+   "Sekarang harus kau putuskan untuk memilih jalan Tuhan",
+   "Ke Surga hidup yang baka, sekarang saat paling indah",
+   "Kristus t'lah hadir bagi kita, sambutlah Yesus Tuhanmu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 53: Buku Logu tertulis 216 (data kosong) → bl 216",
+  "Koreksi dari gambar halaman: hal. 53: pemisahan kata di-ku-tuk Mu-sa, Ku-a-sa i-blis",
+  "Koreksi dari gambar halaman: hal. 54 (ayat 3): pemisahan kata me-nang-gung ku-tuk, di-s'la-mat-kan-Nya i-krar-kan",
+  "Koreksi dari gambar halaman: hal. 53: di-le-nyap-kan satu kata"
+ ],
+ "status": "",
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Ra-ja-mu a-kan se-g'ra da-tang te-ri-ma-lah di ha-ti-mu",
+     "Ke-mu-lia-an-Nya di-ting-gal-kan me-nang-gung ku-tuk do-sa-mu"
+    ],
+    [
+     "Ber-su-jud-lah me-nyem-bah Di-a se-ba-gai u-mat yg se-ti-a Yg su-dah di-s'la-mat-kan-Nya i-krar-kan i-man per-ca-ya-mu ting-gal-kan se-mu-a do-sa-mu ta-a-ti Tu-han Al-lah-mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 54)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,110 @@
+{
+ "be": 320,
+ "variant": "",
+ "bl": 211,
+ "title": "Terang dan siang hari",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "N.N",
+ "pages": [
+  393,
+  394
+ ],
+ "cat": "Nyanyian Malam Hari",
+ "tempo": 100,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 2 3 5 | 2 . 1 :|",
+   "rows": [
+    "Te-rang dan si-ang ha-ri",
+    "Ti-a-da nam-pak la-gi"
+   ]
+  },
+  {
+   "notes": "5 | 6 5 4 3 | 2 . 2\n3 | 4 3 2 1 | 7, . 5, 1 | 7, 1 2 2 | 1 . 0 1 | 7, 6, 7,\n2 | 6, . 5, 1 | 7, 6, 7, 2 | 6, . 5, 5 | 6 5 4 3 | 2 . 2\n3 | 4 3 2 1 | 7, . 5, 1 | 7, 1 2 2 | 1 . . |]",
+   "rows": [
+    "Ber-gan-ti ke-ge-la-pan se-hing-ga s'ti-ap o-rang ti-dur de-ngan se-nang Ge-lap di pan-dang ma-ta ha-ti-ku yg me-li-hat Pa-da-Mu yg men-cip-ta ber-gan-ti si-ang ma-lam ter-pu-ji Kau Tu-han"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Terang dan siang hari",
+   "Tiada nampak lagi",
+   "Berganti kegelapan sehingga s'tiap orang tidur dengan senang Gelap di pandang mata hatiku yg melihat PadaMu yg mencipta berganti siang malam terpuji Kau Tuhan"
+  ],
+  [
+   "Gemarlah hai jiwaku, muliakanlah Allahmu",
+   "Tiadalah terkira, berkat dan karunia melimpah padaku",
+   "Dalam setiap waktu diterima tanganku",
+   "Kasih kesetiaanNya dan berkat anug'rahNya, yang menghidupimu"
+  ],
+  [
+   "Bagai seorang gembala di padang belantara",
+   "Memelihara domba, diberikan makanan, dan keperluannya",
+   "Begitulah Tuhanku yang memberi bekalku",
+   "Dan aku dijagaNya sebagai anak domba, di dalam kasihNya"
+  ],
+  [
+   "'Ku tidak ditinggalkan walau tak 'ku indahkan",
+   "Perintah Hukum Tuhan, 'ku t'lah sesat di jalan hidupku tercela",
+   "Tuhan kasihi aku, redakanlah murkaMu",
+   "Harusnya 'ku terkutuk, namun aku bersujud, memohon kasihMu"
+  ],
+  [
+   "Dengarkanlah doaku",
+   "Hapuskanlah dosaka",
+   "Karena darah Kristus dan air baptisan kudus sucikan jiwaku Utuslah malaikatMu melindungi diriku berada di sisiku ketika aku tidur di waktu bangunpun"
+  ],
+  [
+   "Penuh keyakinanku, terhadap Kau Tuhanku",
+   "Maka aku terhibur, pergi ke tempat tidur tenanglah hatiku",
+   "Jiwaku tidak risau, kar'na ancaman musuh",
+   "Sebab perlindunganMu yang menaungi aku besar anugerahMu"
+  ],
+  [
+   "Baik tidur atau jaga, dimanapun berada",
+   "Aku dalam tanganNya, Tuhanlah kehidupan itu sesungguhnya",
+   "Tuhanlah perlindungan, baik siang atau malam",
+   "Dia kubu pertahanan, tak dapat 'ku tinggalkan hidupku bahagia"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 393 lirik ayat 1: \"s'tiap\" disatukan (sebelumnya \"s'ti ap\")",
+  "Koreksi dari gambar halaman: hal. 394 ayat 5 (bernot): \"bap ti san ku | dus\" = \"baptisan kudus\" (sebelumnya \"baptisanku dus\"); \"do sa ka\" disatukan jadi \"dosaka\" (buku tertulis \"ka\", kemungkinan salah cetak \"dosaku\"; huruf tidak diubah)"
+ ],
+ "status": "",
+ "vl_direct": {
+  "4": {
+   "r": [
+    [
+     "De-ngar-kan-lah do-a-ku",
+     "Ha-pus-kan-lah do-sa-ka"
+    ],
+    [
+     "Ka-re-na da-rah Kris-tus dan air bap-ti-san ku-dus su-ci-kan ji-wa-ku U-tus-lah ma-lai-kat-Mu me-lin-du-ngi di-ri-ku be-ra-da di si-si-ku ke-ti-ka a-ku ti-dur di wak-tu ba-ngun-pun"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 394)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

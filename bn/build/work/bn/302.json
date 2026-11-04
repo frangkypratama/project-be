@@ -1,0 +1,81 @@
+{
+ "be": 302,
+ "variant": "",
+ "bl": 71,
+ "title": "Matahari t'lah terbit",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Johann Rudolph Ahie, 1662",
+ "pages": [
+  373
+ ],
+ "cat": "Nyanyian Pagi Hari",
+ "tempo": 104,
+ "credits": [
+  "Syair: Martin Opitz 1634 (1597-1639); Christian Knprr von Rosenroth 1675 (1636-1689)",
+  "Lagu: Johann Rudolph Ahle 1662 (1625-1673)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 (2+1) 5 6 | 4 .+3 3 . | 1' 7 6 7 | 1' 7 6 . |\n5 . . . :|",
+   "rows": [
+    "Ma-ta-ha-ri t'lah ter-bit si-nar sur-ya da-ri Tu-han",
+    "Ber-si-nar-lah di ha-ti dan e-nyah-kan ke-ge-la-pan"
+   ]
+  },
+  {
+   "notes": "5 5 6 5 | 4 3 2 . | 3 . 2 . | 1 . . . |]",
+   "rows": [
+    "Du-nia fa-na yg ke-lam t'ra-ngi-lah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Matahari t'lah terbit sinar surya dari Tuhan",
+   "Bersinarlah di hati dan enyahkan kegelapan",
+   "Dunia fana yg kelam t'rangilah"
+  ],
+  [
+   "Kasih kemurahan-Mu bagai embun membasahi",
+   "Menyejukkan hatiku, meringankan duka hati",
+   "Bagi umat semua hiburlah"
+  ],
+  [
+   "Kehangatan kasih-Mu menghangatkan jiwa kami",
+   "Melakukan p'rintah-Mu untuk saling mengasihi",
+   "Juga mengasihi-Mu Tuhanku"
+  ],
+  [
+   "Darah perjanjianlah dasar kebenaran kami",
+   "Kuasa dosa hilanglah dari kehidupan kami",
+   "Duka pun berakhirlah s'lamanya"
+  ],
+  [
+   "T'rangmu Tuhan Allahku, t'rangilah kuburan kami",
+   "Waktu kedatangan-Mu, jasad kami bangkit lagi",
+   "Lalu masuk Surga-Mu yang baka"
+  ],
+  [
+   "Yesus Kau t'rang dunia, sinarilah langkah kami",
+   "Dari dunia yang gelap menuju t'rang yang ajaib",
+   "Tanah air yang baka di Surga"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 373 baris 1 (ulang): 'di ha ti' = 'di hati' (pemisahan kata). Not cocok."
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

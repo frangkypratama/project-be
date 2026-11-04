@@ -1,0 +1,68 @@
+{
+ "be": 411,
+ "variant": "",
+ "bl": 274,
+ "title": "Walau merah dosamu",
+ "key": "A",
+ "meter": "3/4",
+ "credit": "N.N",
+ "pages": [
+  523
+ ],
+ "cat": "Sengasara Yesus dan Jumat Agung",
+ "tempo": 100,
+ "credits": [
+  "Syair: Fanny J Crosby 1820-1915",
+  "Lagu: William Howard Doane 1832-1915",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5/+.//+5// | 5 . (3+4)+5 | 6 5 5/+.//+1'// | 7/+.//+1'// 7 6 |\n5 . |",
+   "rows": [
+    "Wa-lau me-rah do-sa-mu su-ci kar'-na da-rah-Ku"
+   ]
+  },
+  {
+   "notes": "5/+.//+5// | 5 . (3+4)+5 | 6 5 5/+.//+1'// |\n7/+.//+1'// 7 2' | 1' .+5 6+5 | 2' . (2'+3')+2' | 1' 1'\n1'+2' | 3' . 3 | 6 . 5+5 | 5 . (3+4)+5 | 6 5 3'/+.//+3'// | 3' .\n(1'+2')+3' | 4' 3' 2'+1' | 1' .+7 1'/+.//+6// | 5 . 5+5 | 5 .+5\n5/+.//+5// | 5 . . |]",
+   "rows": [
+    "Wa-lau me-rah do-sa-mu su-ci kar'-na da-rah-Ku me-rah ba-gai-kan ker-mi-zi 'kan pu-tih ber-sih wa-lau me-rah do-sa-mu wa-lau me-rah do-sa-mu su-ci kar'-na da-rah-Ku su-ci kar'-na da-rah-Ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Walau merah dosamu suci kar'na darahKu",
+   "Walau merah dosamu suci kar'na darahKu merah bagaikan kermizi 'kan putih bersih walau merah dosamu walau merah dosamu suci kar'na darahKu suci kar'na darahKu"
+  ],
+  [
+   "Suara Yesus memanggil: Mari dan bertobatlah",
+   "Suara Yesus memanggil: Mari dan bertobatlah",
+   "Karena murah hati-Nya, kau dipanggil-Nya",
+   "Suara Yesus memanggil, suara Yesus memanggil",
+   "Mari dan bertobatlah, mari dan bertobatlah"
+  ],
+  [
+   "Dosamu diampuni, tak dibalas padamu",
+   "Dosamu diampuni, tak dibalas padamu",
+   "Marilah yang tak berdaya dan letih lesu",
+   "Dosamu diampuni, dosamu diampuni",
+   "Tak dibalas padamu, tak dibalas padamu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Ulangan dengan kurung 1./2. (volta) di buku ditulis sebagai dua bagian: putaran 1 lalu putaran 2.",
+  "Koreksi dari gambar halaman: hal. 523 baris 2: 'ker mi zi' -> 'ker-mi-zi' (satu kata)",
+  "Koreksi dari gambar halaman: Volta (kurung 1./2.) ditulis sebagai dua bagian berurutan (putaran 1 lalu putaran 2), sama dengan cara assemble.py terbaru (contoh 396/435): baris 1 '[1. 7 . 1' 7 6 | 5 . :||]', baris 2 '[2. 7 . 1' 7 2']'"
+ ],
+ "status": "",
+ "ref": "U.L.No. 284",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

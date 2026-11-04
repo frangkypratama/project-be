@@ -1,0 +1,69 @@
+{
+ "be": 380,
+ "variant": "",
+ "bl": 253,
+ "title": "Hai dengarlah siapakah",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "George Prederick Root, 1895",
+ "pages": [
+  482
+ ],
+ "cat": "Tuhan Memanggilmu",
+ "tempo": 106,
+ "credits": [
+  "Syair: Harriet Elizabeth Beecher Stowe 1867 (1832-1896)",
+  "Lagu: George Frederick Root 1820-1895",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM & Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 .+3 3+3 0 | 5 4 3 0 | 2 .+2 2+2 0 | 4 3 2 0 |",
+   "rows": [
+    "Hai de-ngar-lah sia-pa-kah yg me-nge-tuk pin-tu-nya"
+   ]
+  },
+  {
+   "meter": "3/4",
+   "notes": "1+2 3 2 | 3+4 5 3 | 1+2 3 4 | 5+6 2 . | 1+2 3 2 |\n3+4 5 3 | 1+7, 6, 2 | 3+2 1 . |]",
+   "rows": [
+    "Di-a-lah sa-ha-bat ki-ta ma-ha-ka-sih se-ti-a ma-ri bu-ka ha-ti ki-ta a-gar Tu-han ma-suk-lah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hai dengarlah siapakah yg mengetuk pintunya Dialah sahabat kita mahakasih setia mari buka hati kita agar Tuhan masuklah"
+  ],
+  [
+   "O siapa mengetuk, merindukan bertemu",
+   "Dia Tuhan Maha Kuasa, Dia Maha Penyayang",
+   "Mari buka hati kita, Tuhan masuklah seg'ra"
+  ],
+  [
+   "Tuhan Yesus mengetuk dan menggugah hatiku",
+   "Ia tabib yang kuasa memberi kesembuhan",
+   "Jiwa raga dipulihkan dan hatiku pun tenang"
+  ],
+  [
+   "Tuhan Yesus tolonglah kami susah dan lelah",
+   "Pimpinlah kami murid-Mu selalu bersama-Mu",
+   "Bawalah kami semua masuk ke Surga yang kekal"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Kepala lagu di buku menulis 4 ketuk, tetapi 7 dari 10 birama berisi 3 ketuk → birama ditulis 3/4.",
+  "Koreksi dari gambar halaman: hal. 482: kepala '4 ketuk' berlaku untuk baris 1 (4 birama @4 ketuk), lalu baris 2 diberi tanda '3 ketuk' → lagu dibagi 2 bagian: bagian 1 birama 4/4, bagian 2 birama 3/4 (not tidak diubah)"
+ ],
+ "status": "",
+ "ref": "R.I No. 137",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

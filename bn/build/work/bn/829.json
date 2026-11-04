@@ -1,0 +1,42 @@
+{
+ "be": 829,
+ "variant": "",
+ "bl": null,
+ "title": "Hukum yang baharu",
+ "key": "D",
+ "meter": "4/4",
+ "credit": "Joh. 13:34-35",
+ "pages": [
+  1041
+ ],
+ "cat": "Firman Allah",
+ "tempo": 100,
+ "credits": [
+  "Syair: A new commandment",
+  "Lagu: NN",
+  "Terj.Ind.: St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5 | 3 . 3 3 | 2 1 . 1+1 | 4 . 4 3 | 2 . 3 4 | 5 .+5\n5 .+3 | 2 1 . 1+1 | 6 . 4 3 | 2 . 3 4 | 5 .+5 5 .+3 |\n2 1 . 1+1 | 4 . 7, .+7, | 1 . . 1+1 | 1' . 1' 1' | 7 7\n6 .+6 | 5 .+6 5 .+3 | 2 1 . 1 | 6 . . 6 | 5 . 3+3\n5+3 | 2 . . . | 3 . . 1+1 | 1' . 1' 1' | 7 7 6 .+6 | 5 .+6\n5 .+3 | 2 1 . 1 | 6 . . 6 | 5 . 3+3 5+3 | 2 . . . |\n1 . . |]",
+   "rows": [
+    "Hu-kum yg ba-ha-ru ku be-ri pa-da-mu me-nga-si-hi se-na-ma-mu se-per-ti di-ri-mu se-per-ti per-bu-a-tan-Ku me-nga-si-hi ka-mu se-mua o-rang kan ta-hu bah-wa ka-mu-lah mu-rid-ku Ji-ka ka-mu sa-ling me-nga-si-hi se-mua o-rang kan ta-hu bah-wa ka-mu-lah mu-rid-ku Ji-ka ka-mu sa-ling me-nga-si-hi"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hukum yg baharu ku beri padamu mengasihi senamamu seperti dirimu seperti perbuatanKu mengasihi kamu semua orang kan tahu bahwa kamulah muridku Jika kamu saling mengasihi semua orang kan tahu bahwa kamulah muridku Jika kamu saling mengasihi"
+  ]
+ ],
+ "vnum": [
+  1
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 1041: pemisahan kata lirik diperbaiki (ba-ha-ru ku be-ri, se-na-ma-mu — buku tertulis 'se na ma mu', kemungkinan salah cetak 'sesamamu', dibiarkan sesuai buku); teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

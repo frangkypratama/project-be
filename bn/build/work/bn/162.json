@@ -1,0 +1,72 @@
+{
+ "be": 162,
+ "variant": "",
+ "bl": 27,
+ "title": "Banyak benar",
+ "key": "Bb",
+ "meter": "4/4",
+ "credit": "Friedrich Funke, 1686",
+ "pages": [
+  196
+ ],
+ "cat": "Pengakuan dan Pengampunan Dosa",
+ "tempo": 100,
+ "credits": [
+  "Syair: Martin Rutillius 1604 (1551-1618)",
+  "Lagu: Johann Hermann Schein 1625 (1586-1630)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "1' . 7 6 | 5 . 0 5 | 6 7 1' . | 2' . 1' 7 | 6 7 6 . |\n5 . . . | 1' . 7 1' | 2' . 0 2' | 3' 1' 2' . | 0 5 6 7 |\n1' 3' 2' . | 1' . . . |]",
+   "rows": [
+    "Ba-nyak be-nar ya Al-lah-ku sung-guh be-rat do-sa-ku tak sa-tu-pun yg ku te-mu tem-pat per-lin-du-ngan-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Banyak benar ya Allahku sungguh berat dosaku tak satupun yg ku temu tempat perlindunganku"
+  ],
+  [
+   "Kemana pun aku pergi mencari bahagia",
+   "Tak satu pun dapat memb'ri damai dan bahagia"
+  ],
+  [
+   "Kini Tuhan kepada-Mu, 'ku serahkan diriku",
+   "Redakanlah amarah-Mu janganlah tolak aku"
+  ],
+  [
+   "Darah kudus Yesus Kristus, darah yang mendamaikan",
+   "Dosaku pun t'lah ditebus, aku t'lah dis'lamatkan"
+  ],
+  [
+   "Binasalah semuanya tanpa kemurahan-Mu",
+   "Ampunilah, 'ku tobatlah, kasihani hamba-Mu"
+  ],
+  [
+   "Kuduskanlah dan ajarlah aku berbaik budi",
+   "Kau 'ku sembah selamanya, firman-Mu 'ku patuhi"
+  ],
+  [
+   "Dan aku pun ya Tuhanku, mohon kemurahan-Mu",
+   "Di ajalku ya Tuhanku, terimalah jiwaku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 196 baris 1: buku mencetak 'Ba nyak ba nar'; judul lagu di halaman yg sama 'Banyak benar' → 'Ba-nyak be-nar' (ayat 1 ikut)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

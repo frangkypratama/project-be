@@ -1,0 +1,71 @@
+{
+ "be": 533,
+ "variant": "",
+ "bl": 367,
+ "title": "Kutahu kota yang indah",
+ "key": "G",
+ "meter": "3/4",
+ "credit": "N.N",
+ "pages": [
+  668
+ ],
+ "cat": "Kehidupan Sorgawi",
+ "tempo": 100,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5, | (3 2) 1 | 5 . 3 | 5 . 3 | 5 . . | 0 0 3 | 5, . 5, |\n(3 2) 1 | 2 . . | 3 . 0+3 |",
+   "rows": [
+    "Ku-ta-hu ko-ta yg in-dah yg ja-uh da-ri ki-ta Ger"
+   ]
+  },
+  {
+   "meter": "4/4",
+   "notes": "(5 . 4) .+3 | 3 . 2 .+1 |\n(3 . 2) .+4 | 3 . 0 3 | (4 . 2) .+7, | (1 . 7,) .+6, | (5, . 2+3)\n4 | 3 . . |",
+   "rows": [
+    "bang-nya di-bu-at da-ri mas ti-a-da la-gi yg ce-mas"
+   ]
+  },
+  {
+   "notes": "5, | (5, 6,) 7, | (1 2) 3 | (4 5 6) | 5 . 3 |\n(5 . . | 5 3 2) | 1 . |]",
+   "rows": [
+    "yg s'la-lu-ku rin-du-kan rin-du-kan"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kutahu kota yg indah yg jauh dari kita Gerbangnya dibuat dari mas tiada lagi yg cemas yg s'laluku rindukan rindukan"
+  ],
+  [
+   "Yang s'lalu merindukannya, tak tentram di dunia",
+   "Dan ingin segera di sana, ke sinar Surga yang cerah",
+   "Yang t'lah tiba bahagia, bahagia"
+  ],
+  [
+   "Bersorak-sorai jiwanya, hidupnya dipulihkan",
+   "Hai masuklah ke Surga baka, tinggalkanlah dunia fana",
+   "Masuki rumah Bapa, marilah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Birama berganti: 3 ketuk -> 4 ketuk (baris 2) -> 3 ketuk (baris 4) (lihat buku).",
+  "Koreksi dari gambar halaman: hal. 668: buku berganti birama: tanda \"4 ketuk\" + || sesudah \"3 . 0 3\" (baris 2) dan \"3 ketuk\" + || sesudah \"3 . .\" (baris 4) -> lagu dibagi 3 bagian, bagian 2 diberi meter 4/4 (not tidak diubah). Akibatnya kata \"Ger|bang-nya\" terpotong di batas bagian 1-2.",
+  "Koreksi dari gambar halaman: hal. 668 kepala: Buku Logu 367, ref Selesele (sebelumnya bl kosong)",
+  "Koreksi dari gambar halaman: Birama akhir \"1 .\" (2 ketuk, ada fermata) memang begitu di buku."
+ ],
+ "status": "",
+ "ref": "Selesele",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

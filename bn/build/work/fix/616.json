@@ -1,0 +1,49 @@
+{
+ "sections": [
+  {
+   "notes": "3 3/+.//+3// 5 .+5 | 6/+.//+6// 4/+.//+6// | 1' . 5/+.//+5// 3/+.//+2// |\n1 3/+.//+4// 5 4/+.//+2// | 1 . . 0 | 3 3/+.//+3// 5 .+5 | 6/+.//+6//\n4/+.//+6// | 1' . 5/+.//+5// #4/+.//+3// | 7 5/+.//+6// 7 1'/+.//+7// | 3 . .\n0+5 | 5 6 2 5 | 6/+.//+5// 1'/+.//+3// 6 5/+.//+5// | 5 6 2 5 |\n6/+.//+5// 1'/+.//+3// 5 0 | 1' . . 7/+.//+6// | 7 . . 7 | (2' . 2'/)+.//+6//\n6/+.//+6// | 1' . 1' 1' | (3' . 2') .+5 | (1' . . 7/)+.//+6// | (5 . 5/)+.//+5//\n6/+.//+5// | 5 . . 1' | 2' . . 5 | 3' . . 2' | 1' . .+7 1'/+.//+2'// |\n1' . . 0 |]",
+   "rows": [
+    "Ma-lam ku-dus di la-ngit ber-ta-bu-ran ca-ha-ya bin-tang te-rang ge-mer-lap Ma-lam i-ni t'lah la-hir Ju-ru-s'la-mat di kan-dang dom-ba di pa-lu-ngan-Nya Du-nia ge-lap be-ro-leh peng-ha-ra-pan me-li-hat si-nar Ju-ru-s'la-mat-nya Oh in-dah-nya de-ngar ki-dung ma-lai-kat ma-lam ku-dus la-hir Sang Pe-ne-bus ma-lam ku-dus la-hir Sang Pe-ne-bus"
+   ]
+  }
+ ],
+ "vl_direct": {
+  "1": {
+   "r": [
+    [
+     "Nun da-ri jauh t'lah da-tang o-rang Ma-jus di-tun-tun bin-tang ke pa-lu-ngan-Nya Me-re-ka-pun ber-su-jud pa-da Ye-sus dan me-nye-rah-kan per-sem-ba-han-nya Di-a yg la-hir da-tang da-ri sur-ga me-nye-la-mat-kan u-mat ma-nu-sia Oh in-dah-nya de-ngar ki-dung ma-lai-kat ma-lam ku-dus la-hir Sang Pe-ne-bus ma-lam ku-dus la-hir Sang Pe-ne-bus"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 2 tertulis di not (hal. 774)"
+   ]
+  },
+  "2": {
+   "r": [
+    [
+     "Oh in-dah-nya se-mua ber-su-ka-ci-ta kar'-na t'lah ti-ba ke-ra-ja-an-Nya Je-ma-at-Nya se-mua da-tang ber-sa-ma me-mu-ji Ra-ja yg Ma-ha mu-lia Dia si-nar t'rang yg mem-b'ri ke-hi-du-pan dan peng-ha-ra-pan hi-dup yg ke-kal Oh in-dah-nya de-ngar ki-dung ma-lai-kat ma-lam ku-dus la-hir Sang Pe-ne-bus ma-lam ku-dus la-hir Sang Pe-ne-bus"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 775)"
+   ]
+  }
+ },
+ "verses": [
+  [
+   "Malam kudus di langit bertaburan cahaya bintang terang gemerlap Malam ini t'lah lahir Jurus'lamat di kandang domba di palunganNya Dunia gelap beroleh pengharapan melihat sinar Jurus'lamatnya Oh indahnya dengar kidung malaikat malam kudus lahir Sang Penebus malam kudus lahir Sang Penebus"
+  ],
+  [
+   "Nun dari jauh t'lah datang orang Majus dituntun bintang ke palunganNya Merekapun bersujud pada Yesus dan menyerahkan persembahannya Dia yg lahir datang dari surga menyelamatkan umat manusia Oh indahnya dengar kidung malaikat malam kudus lahir Sang Penebus malam kudus lahir Sang Penebus"
+  ],
+  [
+   "Oh indahnya semua bersukacita kar'na t'lah tiba kerajaanNya JemaatNya semua datang bersama memuji Raja yg Maha mulia Dia sinar t'rang yg memb'ri kehidupan dan pengharapan hidup yg kekal Oh indahnya dengar kidung malaikat malam kudus lahir Sang Penebus malam kudus lahir Sang Penebus"
+  ]
+ ],
+ "note": [
+  "hal. 773 baris 1: 'ber ta bu ran' satu kata → ber-ta-bu-ran (bertaburan); teks ayat 1 ikut disesuaikan",
+  "Validator birama #2 dan #7 = 2 ketuk: benar menurut buku — di hal. 773-775 birama itu diberi tanda 2/4 (lalu kembali 4/4); pergantian birama per birama belum dimodelkan"
+ ]
+}

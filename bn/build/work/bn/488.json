@@ -1,0 +1,83 @@
+{
+ "be": 488,
+ "variant": "",
+ "bl": 330,
+ "title": "Meskipun tersembunyi",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "Eva Von Tiele - Winckler, 1930",
+ "pages": [
+  614
+ ],
+ "cat": "Hidup baru",
+ "tempo": 108,
+ "credits": [
+  "Syair: Eva von Tiele Winckler 1866-1930",
+  "Lagu: Fr. Ekhardt 1928",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3 2/+.//+1// 6, 2 | 1 . 7, 0 | 1 2/+.//+3// 4 3 | 2 . . 0 |\n2 3/+.//+4// 5 4+4 | (3 . 2) 3 | 4 6,/+.//+2// 1 7, | 1 . . 0 |]",
+   "rows": [
+    "Mes-ki-pun ter-sem-bu-nyi di da-lam ha-ti-ku Di-ha-pus Ye-sus Tu-han-ku de-ngan da-rah ku-dus"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Meskipun tersembunyi di dalam hatiku Dihapus Yesus Tuhanku dengan darah kudus"
+  ],
+  [
+   "Dosa dan kematian, jauh dalam hatiku",
+   "Karena pengasihan-Nya sembuhlah diriku"
+  ],
+  [
+   "Dosa dan kematian Adamlah sumbernya",
+   "Kristus sudah memulihkan, Dia menyembuhkan"
+  ],
+  [
+   "Yesuslah Jurus'lamat menebus hidupku",
+   "Darah-Nya 'ku pegang erat hingga ke Surga t'rus"
+  ],
+  [
+   "Di dalam hidup baru karena Tuhanku",
+   "Hidup lama telah pupus oleh Tuhan Yesus"
+  ],
+  [
+   "Aku t'lah dibangkitkan bersama Tuhanku",
+   "Di dalam kemenangan-Nya, 'ku seperti Yesus"
+  ],
+  [
+   "Besar rahmat kasih-Nya dib'rikan padaku",
+   "Darah-Nya yang dicurahkan, bebaskan jiwaku"
+  ],
+  [
+   "Iblis t'lah ditaklukkan, aku pun ditebus",
+   "Dosa tak lagi berkuasa di dalam hidupku"
+  ],
+  [
+   "Sungguh besar dosaku dan tak terbilang pun",
+   "Lebih besar kasih Yesus Tuhanku Penebus"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 614 kepala lagu: 'Buku Logu: 330' dan 'Jug.L.No. 103' -> bl 330 (sebelumnya kosong, ref tercampur). Melodi identik dengan Buku Ende 488 (Logu 330)"
+ ],
+ "status": "",
+ "ref": "Jug.L.No. 103",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,89 @@
+{
+ "be": 476,
+ "variant": "",
+ "bl": 322,
+ "title": "Aku bukanlah milikku",
+ "key": "G",
+ "meter": "3/4",
+ "credit": "N.N",
+ "pages": [
+  601,
+  602
+ ],
+ "cat": "Hidup baru",
+ "tempo": 98,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "3/+.//+4// | 5 .+3 6/+.//+5// | 5 4 2/+.//+3// | 4 .+6 5/+.//+4// | 3 .\n1/+.//+2// | 3 .+3 4/+.//+3// | 3 2 7,/+.//+1// | 2 .+4 3/+.//+2// | 1 .\n(1/+2/)+3/ | 2 . . 2/+3/+4/ | 3 . . 5/+.//+5// | (#4 . #4/)+.//+#4// 3/+.//+#4// |\n5/+.//+5// 7+6 5 5/+.//+4// | 3 .+3 2/+.//+3// | 4 6 5/+.//+4// | 3 .+1\n2/+.//+2// | 1 . |]",
+   "rows": [
+    "A-ku bu-kan-lah mi-lik-ku Ye-sus-lah pe-mi-lik-nya Tu-han Ye-sus Pe-ne-bus-ku ku se-ti-a pa-da-Nya Ku bu-kan pe-mi-lik-ku Ye-sus Ju-ru-s'la-mat-ku pe-mi-lik-ku dan se-la-ma a-ku hi-dup Ye-sus-lah pe-mi-lik-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Aku bukanlah milikku Yesuslah pemiliknya",
+   "Tuhan Yesus Penebusku ku setia padaNya",
+   "Ku bukan pemilikku Yesus Jurus'lamatku pemilikku",
+   "dan selama aku hidup Yesuslah pemilikku"
+  ],
+  [
+   "Bukan aku tapi Yesus memiliki diriku",
+   "Seluruhnya 'ku serahkan pada Yesus Tuhanku",
+   "'Ku bukan pemilikku, Yesus Jurus'lamatku, Pemilikku",
+   "Dan selama aku hidup, Yesuslah pemilikku"
+  ],
+  [
+   "Harta dan pekerjaanku memuliakan namaMu",
+   "tercurah darah kudusMu sungguh besar kasihMu",
+   "Ku bukan pemilikku Yesus Jurus'lamatku pemilikku",
+   "dan selama aku hidup Yesuslah pemilikku"
+  ],
+  [
+   "Di tangan-Mu ya Tuhanku, sudah ada namaku",
+   "'Ku 'kan muliakan nama-Mu, s'lama ada nafasku",
+   "'Ku bukan pemilikku, Yesus Jurus'lamatku, Pemilikku",
+   "Dan selama aku hidup, Yesuslah pemilikku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Birama berganti: 3 & 4 ketuk (lihat buku).",
+  "Koreksi dari gambar halaman: hal. 601/602 kepala lagu: Buku Logu 322 (bl kosong) → 322",
+  "Koreksi dari gambar halaman: hal. 601 baris 1-3: pemisahan kata \"A-ku bu-kan-lah\", \"Penebusku | ku setia\", \"padaNya | Ku bukan\" diperbaiki; hal. 602 \"kasihMu | Ku bukan\" dipisah; teks ayat 1 & 3 dibagi per baris seperti ayat 2",
+  "Koreksi dari gambar halaman: hal. 601 baris 3 (4 ketuk): '1 2 3' dan '2 3 4' masing-masing tiga not di bawah satu garis atas tanpa angka 3; sebagai ½ ketuk birama jadi 3,5 & 4,5 ketuk, sebagai triol pas 3 & 4 — tidak diubah (tanpa tanda 3), dilaporkan"
+ ],
+ "status": "",
+ "ref": "Buku Logu: R.L.No. 446 322",
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Har-ta dan pe-ker-ja-an-ku me-mu-lia-kan na-ma-Mu ter-cu-rah da-rah ku-dus-Mu sung-guh be-sar ka-sih-Mu Ku bu-kan pe-mi-lik-ku Ye-sus Ju-ru-s'la-mat-ku pe-mi-lik-ku dan se-la-ma a-ku hi-dup Ye-sus-lah pe-mi-lik-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 602)"
+   ]
+  }
+ },
+ "meter2": 4,
+ "fixed": true,
+ "warn": [
+  "tiga not ½ ketuk di bawah satu garis atas (tanpa tanda 3)",
+  "tiga not ½ ketuk di bawah satu garis atas (tanpa tanda 3)",
+  "tiga not ½ ketuk di bawah satu garis atas (tanpa tanda 3)",
+  "tiga not ½ ketuk di bawah satu garis atas (tanpa tanda 3)"
+ ]
+}

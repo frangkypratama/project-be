@@ -1,0 +1,65 @@
+{
+ "be": 229,
+ "variant": "",
+ "bl": 181,
+ "title": "Berbahagialah mereka",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "J.A. Freyl Inghausen, 1704",
+ "pages": [
+  284
+ ],
+ "cat": "Pengakuan dan Kesaksian Iman",
+ "tempo": 104,
+ "credits": [
+  "Syair: Gottfried Arnold 1698 (1666-1714)",
+  "Lagu: J.A Freylinghausen 1704 (1670-1739)",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "1 2 3 2 | 3 4 5 5 | 1' 1' 7 7 | 7 6 5 . :|",
+   "rows": [
+    "Ber-ba-ha-gia-lah me-re-ka yg tak ja-lan ber-sa-ma",
+    "De-ngan o-rang yg dur-ha-ka yg tak a-da i-man-nya"
+   ]
+  },
+  {
+   "notes": "1' 5\n6 6 | 5 .+4 3 1 | 3 3 5 5 | 4 3 2 . | 5 5 4 .+3 |\n4 5 3 1 | 2 3 4 5 | 3 2 1 . |]",
+   "rows": [
+    "Yg tak mau be-ker-ja sa-ma de-ngan o-rang ber-do-sa yg tak mau du-duk ber-sa-ma de-ngan pa-ra pe-nis-ta"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Berbahagialah mereka yg tak jalan bersama",
+   "Dengan orang yg durhaka yg tak ada imannya",
+   "Yg tak mau bekerja sama dengan orang berdosa yg tak mau duduk bersama dengan para penista"
+  ],
+  [
+   "Mendengarkan Firman Tuhan, itu kesukaannya",
+   "Pengajaran direnungkan dan dilaksanakannya",
+   "Bagai pohon tumbuh subur di tepian air tenang",
+   "Buahnya lebat dan ranum, daunnya pun tetap segar"
+  ],
+  [
+   "Pada masa penghakiman orang fasik sengsara",
+   "Tapi orang yang setia diberi mahkota-Nya",
+   "Orang fasik dan berdosa pasti dibinasakan",
+   "Tapi orang yang beriman bahagia s'lamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 284 baris 3: 'pe nis ta' satu kata → pe-nis-ta (penista); teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

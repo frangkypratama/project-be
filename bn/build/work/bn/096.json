@@ -1,0 +1,76 @@
+{
+ "be": 96,
+ "variant": "",
+ "bl": 101,
+ "title": "Maut sudah dikalahkan",
+ "key": "G",
+ "meter": "3/4",
+ "credit": "Theodor Kubler, Abad 19",
+ "pages": [
+  117
+ ],
+ "cat": "Kebangkitan Tuhan Yesus, Paskah",
+ "tempo": 104,
+ "credits": [
+  "Syair: Theodor Kubler, 1832-1905",
+  "Lagu: Philipp Paul Bliss, 1838-1876",
+  "Terj.Ind.: Pdt JAU Doloksaribu Mmin"
+ ],
+ "sections": [
+  {
+   "notes": "5/+.//+5// | 5 .+3 2/+.//+3// | 1 5, 1/+.//+1// | 2 .+4 3/+.//+2// | 3 .\n5/+.//+5// | 5 .+3 2/+.//+3// | 1 5, 1/+.//+1// | 2 .+4 3/+.//+2// | 1 .",
+   "rows": [
+    "Ma-ut su-dah di-ka-lah-kan Tu-han Ye-sus t'lah me-nang Bang-kit da-ri ku-bu-ran-Nya ber-da-sar-kan Fir-man-Nya"
+   ]
+  },
+  {
+   "notes": "1/+.//+1// | 6 .+6 6/+.//+6// | 5 3 3/+.//+5// | 4 .+4 3/+.//+2// |\n3 . |",
+   "rows": [
+    "Hal-le-lu-yah Hal-le-lu-yah Ye-sus bang-kit dan me-nang"
+   ]
+  },
+  {
+   "notes": "1/+.//+1// | 6 .+6 6/+.//+6// | 5 3 3/+.//+5// |\n4 .+4 3/+.//+2// | 1 . |]",
+   "rows": [
+    "Hal-le-lu-yah Hal-le-lu-yah Ye-sus bang-kit dan me-nang"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Maut sudah dikalahkan Tuhan Yesus t'lah menang Bangkit dari kuburanNya berdasarkan FirmanNya",
+   "Halleluyah Halleluyah Yesus bangkit dan menang",
+   "Halleluyah Halleluyah Yesus bangkit dan menang"
+  ],
+  [
+   "Pagi subuh, perempuan pergi ke kuburanNya",
+   "Yesus tidak ditemukan, sudah kosong kuburNya",
+   "Halleluyah, Halleluyah, Yesus bangkit dan menang",
+   "Halleluyah, Halleluyah, Yesus bangkit dan menang"
+  ],
+  [
+   "Marilah bersuka-cita kar'na kemenanganNya",
+   "Kita sudah dis'lamatkan dari dosa dan cela",
+   "Halleluyah, Halleluyah, Yesus bangkit dan menang",
+   "Halleluyah, Halleluyah, Yesus bangkit dan menang"
+  ],
+  [
+   "Mari kita puji Tuhan kar'na kemurahanNya",
+   "Muliakanlah namaNya kar'na kasih rahmatNya",
+   "Halleluyah, Halleluyah, Yesus bangkit dan menang",
+   "Halleluyah, Halleluyah, Yesus bangkit dan menang"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Ulangan dengan kurung 1./2. (volta) di buku ditulis sebagai dua bagian: putaran 1 lalu putaran 2."
+ ],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

@@ -1,0 +1,57 @@
+{
+ "be": 580,
+ "variant": "",
+ "bl": null,
+ "title": "Aku datang padaMu",
+ "key": "Db",
+ "meter": "4/4",
+ "credit": "Ps. 72:19-20",
+ "pages": [
+  727
+ ],
+ "cat": "Puji-pujian dan Penyembahan",
+ "tempo": 100,
+ "credits": [
+  "Syair: I just come to praise the Lord; Wayne Romero",
+  "Lagu:",
+  "Terj.Ind.: Pdt. J.A.U Doloksaribu, M.Min"
+ ],
+ "sections": [
+  {
+   "notes": "3+5 | 5+3 5 .+6 | 1 . . . | 6+1' 1'+6 1' .+2' |\n(4 ./+5//+6// 5) . | 3+5 5+3 5 .+6 | 3 (1//+2//+3/) 1 . |\n3+2 1+1 (7,+1) (2+1) | 1 . . |]",
+   "rows": [
+    "A-ku da-tang pa-da-Mu da-tang ke-ha-di-rat-Mu A-ku da-tang pa-da Tu-han-ku a-ku mau me-mu-ji-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Aku datang padaMu datang kehadiratMu Aku datang pada Tuhanku aku mau memujiMu"
+  ],
+  [
+   "Aku datang padaMu, datang mau menyembahMu",
+   "Aku datang pada Tuhanku, aku mau menyembahMu"
+  ],
+  [
+   "Aku datang padaMu, aku mengasihiMu",
+   "Aku datang pada Tuhanku, aku mengasihiMu"
+  ],
+  [
+   "'Ku bersyukur padaMu atas kasih berkatMu",
+   "Terimalah syukurku Tuhan, mazmur dan pujianku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 727 baris 1-2: 'A ku da tang' = Aku datang (pemisahan kata, 2 kali)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

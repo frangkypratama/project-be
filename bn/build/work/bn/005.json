@@ -1,0 +1,94 @@
+{
+ "be": 5,
+ "variant": "",
+ "bl": 83,
+ "title": "Mari puji Tuhan",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Johann Georg Basseler, 1806",
+ "pages": [
+  7
+ ],
+ "cat": "Puji-pujian dan Penyembahan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Matthias Jorissen 1793 (1739-1823)",
+  "Lagu: Johann Georg Bassler 1806 (1753-1807)",
+  "Terj. Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5, 1 2 3 | 6 5 (5+4) 3 | 2 3 4 5 | 3 2 1 . :|",
+   "rows": [
+    "Ma-ri pu-ji Tu-han Al-lah dan ber-so-rak so-rai-lah",
+    "Mu-li-a-kan-lah na-ma-Nya Al-lak Kha-lik yg be-nar"
+   ]
+  },
+  {
+   "notes": "3 2 1 7, | 1 6, 5, . | 5 (6 5)+4 3 | (4+3) 2 1 . |]",
+   "rows": [
+    "Hing-ga ak-hir ha-yat-ku 'ku mu-lia-kan Tu-han-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Mari puji Tuhan Allah dan bersorak sorailah",
+   "Muliakanlah namaNya Allak Khalik yg benar",
+   "Hingga akhir hayatku 'ku muliakan Tuhanku"
+  ],
+  [
+   "Janganlah kita andalkan, manusia di dunia",
+   "Sikapnya s'lalu berubah, pikirannyatak tetap",
+   "Bila tiba ajalnya, pupuslah rencananya"
+  ],
+  [
+   "Berbahagialah manusia, yang berlinding pada-Nya",
+   "Di dunia dan di Surga, berbahagia s'lamanya",
+   "Serahkanlah hidupmu, pada Tuhan Allahmu"
+  ],
+  [
+   "Tuhanlah yang menciptakan, jagad raya semesta",
+   "Hanya dengan firmanlah, terciptalah semuanya",
+   "Tuhan adalah setia, dulu dan selamanya"
+  ],
+  [
+   "Allah sumber keadilan, bagi kaum yang lemah",
+   "Roti Surga diberikan, agar umat-Nya kenyang",
+   "Yang tertindas, tertekan, dibebaskan Tuhannya"
+  ],
+  [
+   "Orang buta dicelikkan, orang lumpuh berjalan",
+   "Yang berduka dihiburkan, yang lemah dikuatkan",
+   "Tuhan murah hati-Nya, bagi orang yang benar"
+  ],
+  [
+   "Tuhan Allah melindungi, anak yatim yang lemah",
+   "Para janda dikuatkan, oleh pertolongan-Nya",
+   "Orang jahat ditentang, murka Tuhan 'kan datang"
+  ],
+  [
+   "Tuhan Allah Raja kita, sampai s'lama-lamanya",
+   "Marilah bersukacita, di hadapan tahta-Nya",
+   "Muliakan nama-Nya, soraklah Haleluya!"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 7 baris 1 (putaran ulang): suku kata 'Al lak' satu kata → Al-lak (tercetak 'lak' di buku, kemungkinan maksudnya Allah — ejaan buku dipertahankan)",
+  "Koreksi dari gambar halaman: hal. 7 baris 2: 'hayatku 'ku' dua kata → ha-yat-ku 'ku"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

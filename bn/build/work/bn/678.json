@@ -1,0 +1,52 @@
+{
+ "be": 678,
+ "variant": "",
+ "bl": null,
+ "title": "Bertobatlah kau pada Tuhan",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Hos. 2:7",
+ "pages": [
+  850
+ ],
+ "cat": "Panggilan Pertobatan",
+ "tempo": 98,
+ "credits": [
+  "Syair: Pauba roham tu Jahowa, NN",
+  "Lagu: Pauba roham tu Jahowa, NN",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5+5 5+5 (5+1) 3+5 | (6 .+5+3) 5 0 | 5+5 5+1 2+3 2+1 |\n2 . . 0 | 5+5 5+5 (5+1) 3+5 | (6 .+5+3) 5 0 | 5+5 5+1\n2+3 (2+1+2)+1 | 1 . . 0 |]",
+   "rows": [
+    "Ber-to-bat-lah kau pa-da Tu-han Ber-ba-lik-lah pa-da Al-lah-mu Ber-to-bat-lah kau pa-da Tu-han Ber-ba-lik-lah pa-da Al-lah-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Bertobatlah kau pada Tuhan Berbaliklah pada Allahmu Bertobatlah kau pada Tuhan Berbaliklah pada Allahmu"
+  ],
+  [
+   "Percayalah kau pada Tuhan, Setialah pada Allahmu",
+   "Percayalah kau pada Tuhan, Setialah pada Allahmu"
+  ],
+  [
+   "Peliharalah keadilan, Hayatilah kasih rahmatNya",
+   "Peliharalah keadilan, Hayatilah kasih rahmatNya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 850: 'Ber ba lik lah' = satu kata 'Berbaliklah' (2x)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,72 @@
+{
+ "be": 123,
+ "variant": "",
+ "bl": 180,
+ "title": "Hai saudara yang sehati",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "Johann Schop, 1642",
+ "pages": [
+  151
+ ],
+ "cat": "A. Gereja",
+ "tempo": 108,
+ "credits": [
+  "Syair: Nikolaus Ludwig Graf Zinzendorf 1725 (1700-1760)",
+  "Lagu: Johann Schop 1642 (1595-1667)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 2 3 5 | 4 3 2 2 | 3 2 1 2 | 1 7, 1 . :|",
+   "rows": [
+    "Hai sau-da-ra yg se-ha-ti ga-pai-lah ke-da-mai-an",
+    "Da-lam Ye-sus per-sa-tu-kan ka-sih per-sau-da-ra-an"
+   ]
+  },
+  {
+   "notes": "7, 1\n2 2 | 1 7, 6, 6, | 7, 1 2 3 | 4 3 2 . | 1 2 3 5 | 4 3\n2 2 | 3 2 4 2 | 1 7, 1 . |]",
+   "rows": [
+    "Kar'-na Ye-sus-lah ke-pa-la ki-ta-lah ang-go-ta-Nya Ye-sus Gu-ru dan te-la-dan ki-ta i-ni mu-rid-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hai saudara yg sehati gapailah kedamaian",
+   "Dalam Yesus persatukan kasih persaudaraan",
+   "Kar'na Yesuslah kepala kitalah anggotaNya Yesus Guru dan teladan kita ini muridNya"
+  ],
+  [
+   "Hayati kemurahan-Nya, tak terduga dalamnya",
+   "Saksikan kasih sayang-Nya yang tiada batasnya",
+   "Allah Bapa, Anak, Roh-Nya melindungi umat-Nya",
+   "Kita umat yang percaya dan setia pada-Nya"
+  ],
+  [
+   "Persatukanlah ya, Tuhan yang percaya pada-Mu",
+   "Rukun dalam kasih sayang seperti perintah-Mu",
+   "Menegakkan keadilan, itulah amanat-Mu",
+   "Berkati persekutuan dalam sinar terang-Mu"
+  ],
+  [
+   "Satukanlah hati kami bagai Bapa, Putra-Nya",
+   "Agar tidak ada lagi murtad ke jalan sesat",
+   "Tuhanlah teladan kami dalam budi pekerti",
+   "Itulah menjadi bukti kami murid sejati"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 151 baris 1: pemisahan kata 'ga pai lah' → 'ga-pai-lah', 'per sa tu kan' → 'per-sa-tu-kan'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

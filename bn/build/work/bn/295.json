@@ -1,0 +1,70 @@
+{
+ "be": 295,
+ "variant": "",
+ "bl": 237,
+ "title": "Hanya di surgalah",
+ "key": "Bb",
+ "meter": "3/4",
+ "credit": "Friderich Silcher, 1860",
+ "pages": [
+  366
+ ],
+ "cat": "Penghiburan",
+ "tempo": 106,
+ "credits": [
+  "Syair: Gottlieb Weigle 1816-1855",
+  "Lagu: Friedrich Silcher 1789-1860",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "(3+5) (1'+3) 5 | 4 6 6 | (5+7) (2'+4') (3'+2') | 1' . 0 :|",
+   "rows": [
+    "Ha-nya di sur-ga-lah da-mai se-nang"
+   ]
+  },
+  {
+   "notes": "1' 3' 5' | 4' .+3' 2' | 5 (7+2') 4' | 3' .+2' 1' | (3+5) (1'+3) 5 |\n4 6 6 | (5+7) (2'+4') (3'+2') | 1' . 0 |]",
+   "rows": [
+    "Ba-ha-gia sem-pur-na ti-a-da ta-ra-nya ku i-ngin di sa-na se-la-ma-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hanya di surgalah damai senang",
+   "Bahagia sempurna tiada taranya ku ingin di sana selamanya"
+  ],
+  [
+   "Hanya di Surgalah, damai senang",
+   "Hanya di Surgalah, damai senang",
+   "Dosa tiada lagi, hukum tegak tertib",
+   "Sungguh berbahagia penghuninya"
+  ],
+  [
+   "Dalam dunia fana, penuh duka",
+   "Dalam dunia fana, penuh duka",
+   "Manusia berdosa bertambah jahatnya",
+   "Dan pada akhirnya, binasalah"
+  ],
+  [
+   "Dalam dunia fana, tak sempurna",
+   "Di Surga yang baka damai semua",
+   "Hanya imanmulah jalanmu ke sana",
+   "Kasih yang sempurna, di Surgalah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 366: pemisahan kata lirik ayat 1 diperbaiki ('di sur-ga-lah', 'ta-ra-nya ku i-ngin di sa-na'). Not cocok."
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

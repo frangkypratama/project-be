@@ -1,0 +1,78 @@
+{
+ "be": 197,
+ "variant": "",
+ "bl": 8,
+ "title": "Gembala yang setia",
+ "key": "Db",
+ "meter": "4/4",
+ "credit": "Christian Barth, 1862",
+ "pages": [
+  245
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Christian Barth 1799-1862",
+  "Lagu: Christian von Palmer",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 | 5 .+1' 3 4 | (5 .+6) 5 1' | 7 .+5 2 #4 | 5 . 0 5 |\n5 .+4 (3+2) (1+2) | (3 4+5) 6 6 | 5 .+3 5 (6+7) | 1' . . 1' |\n(2'+1') (7+6) 5 (4+2) | 1 . 0 |]",
+   "rows": [
+    "Gem-ba-la yg se-ti-a dan a-jaib ka-sih-Nya Ya-i-tu Tu-han ki-ta yg mem-b'ri ba-ha-gia yg mem-b'ri ba-ha-gia"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Gembala yg setia dan ajaib kasihNya Yaitu Tuhan kita yg memb'ri bahagia yg memb'ri bahagia"
+  ],
+  [
+   "Dia datang ke dunia melawat manusia",
+   "Mereka menderita sesaat semuanya",
+   "Sesaat semuanya"
+  ],
+  [
+   "Oleh kedatangan-Nya ke dunia kelam",
+   "Menebus manusia membela umat-Nya",
+   "Membela umat-Nya"
+  ],
+  [
+   "Nyawa-Nya dikurbankan di salib Golgota",
+   "Menanggung kutuk dosa mengganti manusia",
+   "Mengganti manusia"
+  ],
+  [
+   "Dosamu semuanya dihapus darah-Nya",
+   "Asalkan kau percaya, kau dapat berkat-Nya",
+   "Kau dapat berkat-Nya"
+  ],
+  [
+   "Engkau yang kelelahan karena dosamu",
+   "Cepatlah kau bertobat kepada Tuhanmu",
+   "Kepada Tuhanmu"
+  ],
+  [
+   "Tuhanmu menginginkan hatimu bahagia",
+   "Serta membawa pulang Engkau ke rumah-Nya",
+   "Engkau ke rumah-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 245: Buku Logu tertulis 8 (data kosong)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

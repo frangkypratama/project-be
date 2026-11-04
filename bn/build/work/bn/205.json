@@ -1,0 +1,63 @@
+{
+ "be": 205,
+ "variant": "",
+ "bl": 90,
+ "title": "Yesus, Kaulah Tuhan kami",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "J.A. Malchoir, 1853",
+ "pages": [
+  258
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": 102,
+ "credits": [
+  "Syair: Joachim Neander 1679 (1650-1680)",
+  "Lagu: J.A Melchoir 1853",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5 (4+3) 2 1 | 6 (5+4) 3 2 | 2 2 5 4 | 3 2 1 . :|",
+   "rows": [
+    "Ye-sus Kau-lah Tu-han ka-mi li-hat ka-mi u-mat-Mu",
+    "Kau Gem-ba-la yg se-ti-a ka-mi i-ni dom-ba-Mu"
+   ]
+  },
+  {
+   "notes": "3 5 4 3 | 2 4 3 2 | 5 3 6 4 | 3 2 1 . |]",
+   "rows": [
+    "Ka-si-ha-ni di-ri ka-mi a-gar hi-dup de-ngan-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yesus Kaulah Tuhan kami lihat kami umatMu",
+   "Kau Gembala yg setia kami ini dombaMu",
+   "Kasihani diri kami agar hidup denganMu"
+  ],
+  [
+   "Yesus tolong bimbing kami agar jangan tersesat",
+   "Dan teguhkan iman kami tetap kokoh s'lamanya",
+   "Jika Kau bersama kami, tiada lagi bahaya"
+  ],
+  [
+   "Hati kami merindukan, bebas dari belenggu",
+   "Jauh dari kuasa dosa, hidup dalam firman-Mu",
+   "Tolong umat-Mu ya Tuhan, agar kudus bagi-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 258 baris 1: pemisahan kata 'ka-mi-i ni' → 'ka-mi i-ni'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

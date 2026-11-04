@@ -1,0 +1,97 @@
+{
+ "be": 203,
+ "variant": "",
+ "bl": 225,
+ "title": "'Ku sungguh mengasihi",
+ "key": "Bb",
+ "meter": "4/4",
+ "credit": "Starssburg, 1577",
+ "pages": [
+  254,
+  255,
+  256
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Martin Schalling 1569 (1532-1608)",
+  "Lagu: Strassburg 1577",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "1' . 7 6 | 5 (4+3) 6 6 | 5 . 1' . | 7 6 5 (4+3) | 6 6\n5 5 | 6 7 (1' 3') | 2' . (1' 7) | 1' . . . :|",
+   "rows": [
+    "'Ku sung-guh me-nga-si-hi-Mu Ja-ngan-lah ja-uh da-ri-ku ya Tu-han-ku Al-lah-ku",
+    "Tia-da yg se-per-ti Eng-kau yg me-nye-nang-kan ha-ti-ku ha-nya Eng-kau Tu-han-ku"
+   ]
+  },
+  {
+   "notes": "0 1' 1' 2' | 1' 6 1'\n1' | 7 7 1' 2' | 1' 6 1' 1' | 7 . 1' 3'+3' | 2'+1' 1'+7 1' 7 |\n1' . . 7 | 6 5 5 #4 | 5 . 3' . | 2' . 1' . | 7 3' 4' 2' |\n1' 2' 1' 7 | 1' 0+1' 1' 1' | 2' 1' 1' 7 | 1' . . . |]",
+   "rows": [
+    "Dan an-dai ti-ba a-jal-ku ha-nya Eng-kau ha-ra-pan-ku Eng-kau meng-hi-bur ha-ti-ku da-rah-Mu yg mem-ba-suh-ku ya Ye-sus-ku ya Ye-sus-ku ya Al-lah-ku su-ci-kan roh dan ji-wa-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "'Ku sungguh mengasihiMu Janganlah jauh dariku ya Tuhanku Allahku",
+   "Tiada yg seperti Engkau yg menyenangkan hatiku hanya Engkau Tuhanku",
+   "Dan andai tiba ajalku hanya Engkau harapanku Engkau menghibur hatiku darahMu yg membasuhku ya Yesusku ya Yesusku ya Allahku sucikan roh dan jiwaku"
+  ],
+  [
+   "Semua berkat rahmatMu seluruh tubuh jiwaku dan semua milikku",
+   "B'ri hikmat pada hambaMu untuk memakai rahmatMu memuliakan namaMu",
+   "Jauhkan dari diriku yg menyesatkan jiwaku tabahkan juga hatiku menanggung pergumulanku Ya Yesusku ya Allahku ya Tuhanku B'rilah damai di ajalku"
+  ],
+  [
+   "Tuhan utus malaikatMu membawa kepangkuanMu saat akhir hayatku",
+   "Baringkan jasadku Tuhan di dalam tanahpun tenang hingga di hari Tuhan",
+   "Bangkitkan nanti jasadku agar kulihat wajahMu Berikan sukacitaku dengan kasihMu padaku Ya Yesus de dengarkanlah dengarkanlah Engkau kupuji s'lamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 255 (ayat 2 bernot): 'di-a-jal-ku' → 'di a-jal-ku'",
+  "Koreksi dari gambar halaman: hal. 256 (ayat 3 bernot): 'Ba ring kan' → 'Ba-ring-kan', 'di-da-lam' → 'di da-lam', 'di-ha-ri' → 'di ha-ri'; 'Ya Ye-sus de de-ngar-kan-lah' dibiarkan sesuai buku (suku kata 'de' tampak salah cetak)"
+ ],
+ "status": "",
+ "vl_direct": {
+  "1": {
+   "r": [
+    [
+     "Se-mu-a ber-kat rah-mat-Mu se-lu-ruh tu-buh ji-wa-ku dan se-mu-a mi-lik-ku",
+     "B'ri hik-mat pa-da ham-ba-Mu un-tuk me-ma-kai rah-mat-Mu me-mu-lia-kan na-ma-Mu"
+    ],
+    [
+     "Ja-uh-kan da-ri di-ri-ku yg me-nye-sat-kan ji-wa-ku ta-bah-kan ju-ga ha-ti-ku me-nang-gung per-gu-mu-lan-ku Ya Ye-sus-ku ya Al-lah-ku ya Tu-han-ku B'ri-lah da-mai di a-jal-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 2 tertulis di not (hal. 255)"
+   ]
+  },
+  "2": {
+   "r": [
+    [
+     "Tu-han u-tus ma-lai-kat-Mu mem-ba-wa ke-pang-ku-an-Mu sa-at ak-hir ha-yat-ku",
+     "Ba-ring-kan ja-sad-ku Tu-han di da-lam ta-nah-pun te-nang hing-ga di ha-ri Tu-han"
+    ],
+    [
+     "Bang-kit-kan nan-ti ja-sad-ku a-gar ku-li-hat wa-jah-Mu Be-ri-kan su-ka-ci-ta-ku de-ngan ka-sih-Mu pa-da-ku Ya Ye-sus de de-ngar-kan-lah de-ngar-kan-lah Eng-kau ku-pu-ji s'la-ma-nya"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 256)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

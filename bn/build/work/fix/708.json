@@ -1,0 +1,61 @@
+{
+ "verses": [
+  [
+   "Yesus Kaulah Jurus'lamatku Yesus Tuhanku Pertolonganku Kaulah Tuhan Perlindunganku Yesus Tuhanku gunung batuku Kaulah Tuhan Jurus'lamatku Walaupun banyak musuh set'ru dan tak ada yg membela diriku Ya Yesus dengar doa hambaMu Kaulah Tuhan Jurus'lamatku"
+  ],
+  [
+   "Yesus Kaulah Jurus'lamatku Yesus Tuhanku Pertolonganku Kaulah Tuhan Perlindunganku Yesus Tuhanku gunung batuku Kaulah Tuhan Jurus'lamatku Hanya dalam naungan sayapMu ku beroleh perlindungan dariMu dan hanya dalam rumah Ruhanku damai dan tenteram hatiku"
+  ],
+  [
+   "Yesus Kaulah Jurus'lamatku Yesus Tuhanku Pertolonganku Kaulah Tuhan Perlindunganku Yesus Tuhanku gunung batuku Kaulah Tuhan Jurus'lamatku Ku serahkan s'luruh hidupku ke tanganMu Yesus Kristus Tuhanku ku mau tetap setia padaMu melakukan hukum kasihMu"
+  ],
+  [
+   "Yesus Kaulah Jurus'lamatku Yesus Tuhanku Pertolonganku Kaulah Tuhan Perlindunganku Yesus Tuhanku gunung batuku Kaulah Tuhan Jurus'lamatku Biarlah selama hidupku ku bersaksi akan kuasa kasihMu Temanku 'kan ku bawa padaMu beriman padaMu Tuhanku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "vl_direct": {
+  "1": {
+   "r": [
+    [
+     "Ye-sus Kau-lah Ju-ru-s'la-mat-ku Ye-sus Tu-han-ku Per-to-lo-ngan-ku Kau-lah Tu-han Per-lin-du-ngan-ku Ye-sus Tu-han-ku gu-nung ba-tu-ku Kau-lah Tu-han Ju-ru-s'la-mat-ku Ha-nya da-lam nau-ngan sa-yap-Mu ku be-ro-leh per-lin-du-ngan da-ri-Mu dan ha-nya da-lam ru-mah Ru-han-ku da-mai dan ten-te-ram ha-ti-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 2 tertulis di not (hal. 887)"
+   ]
+  },
+  "2": {
+   "r": [
+    [
+     "Ye-sus Kau-lah Ju-ru-s'la-mat-ku Ye-sus Tu-han-ku Per-to-lo-ngan-ku Kau-lah Tu-han Per-lin-du-ngan-ku Ye-sus Tu-han-ku gu-nung ba-tu-ku Kau-lah Tu-han Ju-ru-s'la-mat-ku Ku se-rah-kan s'lu-ruh hi-dup-ku ke ta-ngan-Mu Ye-sus Kris-tus Tu-han-ku ku mau te-tap se-ti-a pa-da-Mu me-la-ku-kan hu-kum ka-sih-Mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 888)"
+   ]
+  },
+  "3": {
+   "r": [
+    [
+     "Ye-sus Kau-lah Ju-ru-s'la-mat-ku Ye-sus Tu-han-ku Per-to-lo-ngan-ku Kau-lah Tu-han Per-lin-du-ngan-ku Ye-sus Tu-han-ku gu-nung ba-tu-ku Kau-lah Tu-han Ju-ru-s'la-mat-ku Bi-ar-lah se-la-ma hi-dup-ku ku ber-sak-si a-kan kua-sa ka-sih-Mu Te-man-ku 'kan ku ba-wa pa-da-Mu ber-i-man pa-da-Mu Tu-han-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 889)"
+   ]
+  }
+ },
+ "note": [
+  "hal. 887-890: keempat halaman berlabel \"Ayat 4\" (salah label di buku) tetapi masing-masing memuat lirik Strophen berbeda: hal. 887 Walaupun banyak musuh (=baris ayat 1), 888 Hanya dalam naungan sayapMu, 889 Ku serahkan s'luruh hidupku, 890 Biarlah selama hidupku. Data semula hanya 1 ayat (vnum 4) → dijadikan ayat 1-4 urut halaman, ayat 2-4 lengkap dengan bagian A+Reff yang sama.",
+  "hal. 890: pemisahan kata ayat 4 diperbaiki (hidupku ku bersaksi; Temanku 'kan ku bawa)"
+ ]
+}

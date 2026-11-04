@@ -1,0 +1,79 @@
+{
+ "be": 97,
+ "variant": "",
+ "bl": 129,
+ "title": "Rayakan dan hayatilah",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "Nikolaus Decius, 1522",
+ "pages": [
+  118
+ ],
+ "cat": "Kenaikan Tuhan Yesus",
+ "tempo": 104,
+ "credits": [
+  "Syair: Swiss 1742",
+  "Lagu: Nikolaus Decius 1522 (1485-1546)",
+  "Terj.Ind.: Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 3 . 4 | 5 . 4 | 3 . 2 | 3 . 3 | 3 . 2 |\n(4 3) 2 | (1 6, 7,) | 1 . :|",
+   "rows": [
+    "Ra-ya-kan dan ha-ya-ti-lah ke-nai-kan Tu-han Ye-sus",
+    "Kem-ba-li pa-da tah-ta-Nya ke-kal dan ma-han-ku-dus"
+   ]
+  },
+  {
+   "notes": "1 | 2 . 3 | 4 . 3 | 2 .\n#1 | 2 . 2 | 3 . 4 | 5 . 4 | 3 . 2 | 3 . 1 | 2 . 4 |\n3 . 2 | (1 6, 7,) | 1 . |]",
+   "rows": [
+    "Sem-bah dan pu-ji Pe-ne-bus yg pu-lang pa-da Ba-pa-Nya ter-pu-ji-lah na-ma-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Rayakan dan hayatilah kenaikan Tuhan Yesus",
+   "Kembali pada tahtaNya kekal dan mahankudus",
+   "Sembah dan puji Penebus yg pulang pada BapaNya terpujilah namaNya"
+  ],
+  [
+   "Terbuka pintu gerbang-Nya bagi orang percaya",
+   "Menuju Surga yang baka, tiada maut dan dosa",
+   "Dosamu diampuni-Nya, semua dipikul oleh-Nya",
+   "Muliakan nama Tuhan"
+  ],
+  [
+   "Jika benar kau bergemar kepada Tuhan kita",
+   "Bertobatlah kepada-Nya, taatilah firman-Nya",
+   "Lakukanlah kehendak-Nya dan teladani hidup-Nya",
+   "Selama kau di dunia"
+  ],
+  [
+   "Tuhanmu akan datanglah di hari penghakiman",
+   "Yang jahat maupun yang bebal dihalau ke neraka",
+   "Tetapi orang beriman di Surga jadi tempatnya",
+   "Bahagia selamanya"
+  ],
+  [
+   "Ya Yesus, kasihanilah umat yang menderita",
+   "Yang menghadapi cobaan, berilah pertolongan",
+   "Kuatkan kami semua sehingga kami berjaya",
+   "Hingga ke akhir zaman"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 118 baris 1 putaran 2: 'ma han ku dus' satu kata (ejaan buku) → 'ma-han-ku-dus'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

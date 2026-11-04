@@ -1,0 +1,78 @@
+{
+ "be": 541,
+ "variant": "",
+ "bl": 373,
+ "title": "Dengan kuasaNya",
+ "key": "Eb",
+ "meter": "3/4",
+ "credit": "Lewis Horissough, 1872",
+ "pages": [
+  679
+ ],
+ "cat": "Advent",
+ "tempo": 60,
+ "credits": [
+  "Syair: Lewia Hartsough 1872",
+  "Lagu: Lewis Hartsough 1872",
+  "Terj.Ind.: Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "(1+3) | 5 .+3 2+1 | 1 . 1 | 2 .+4 6+5 | 3 . 5 | 1' .+7\n6+5 | 6+5 3 1 | 2 .+1 3+2 | 1 . 0 | 1' .+7 6+5 |\n6 . . | 5 .+3 2+1 | 2 . . | 5 .+6 5+3 | 1+2 3 1 |\n2 .+1 3+2 | 1 . |]",
+   "rows": [
+    "De-ngan ku-a-sa-Nya Ye-sus da-tang ke-lak mem-ba-wa o-rang ber-i-man ke sur-ga yg ba-ka Ku-ting-gal-kan-lah kua-sa yg fa-na Ye-sus-lah ha-ra-pan-ku di ha-ri Tu-han-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Dengan kuasaNya Yesus datang kelak membawa orang beriman ke surga yg baka Kutinggalkanlah kuasa yg fana Yesuslah harapanku di hari Tuhanku"
+  ],
+  [
+   "Jangan 'ku tertinggal di kedatanganMu",
+   "Bila kuasa yang fana mengikat diriku",
+   "'Ku tinggalkanlah kuasa yang fana",
+   "Yesuslah harapanku di hari Tuhanku"
+  ],
+  [
+   "Kuasa, harta pun apakah gunanya",
+   "Semua akan tinggallah di dunia yang fana",
+   "'Ku tinggalkanlah kuasa yang fana",
+   "Yesuslah harapanku di hari Tuhanku"
+  ],
+  [
+   "Hatiku pun kudus dibasuh darahNya",
+   "Jangan di hari Tuhanku, hidupku bercela",
+   "'Ku tinggalkanlah kuasa yang fana",
+   "Yesuslah harapanku di hari Tuhanku"
+  ],
+  [
+   "Akan 'ku dengarkan Tuhan memanggilku",
+   "Jangan sampai 'ku terlena di hari Tuhanku",
+   "'Ku tinggalkanlah kuasa yang fana",
+   "Yesuslah harapanku di hari Tuhanku"
+  ],
+  [
+   "DarahNya yang kudus tetap peganganku",
+   "Menjadi perlindunganku di hari Tuhanku",
+   "'Ku tinggalkanlah kuasa yang fana",
+   "Yesuslah harapanku di hari Tuhanku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 679: pemisahan kata \"ke-sur-ga\" -> \"ke sur-ga\", \"di-ha-ri\" -> \"di ha-ri\" (teks ayat 2-6 juga menulis \"di hari Tuhanku\"); ayat 1 ikut"
+ ],
+ "status": "",
+ "ref": "Z.No. 649",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

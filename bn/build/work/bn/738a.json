@@ -1,0 +1,56 @@
+{
+ "be": 738,
+ "variant": "a",
+ "bl": null,
+ "title": "Dekat kepadaMu",
+ "key": "G",
+ "meter": "6/8",
+ "credit": "Ps. 31:2+6",
+ "pages": [
+  927
+ ],
+ "cat": "Pergumulan dan Penderitaan",
+ "tempo": 88,
+ "credits": [
+  "Syair: Nearer my God to Thee, Sarah F. Adams 1841",
+  "Lagu: Lowell Mason, 1856",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 . . 2 . 1 | 1 . 6, 6, . . | 5, . . 1 . 3 | (2 . . 2) . . |\n3 . . 2 . 1 | 1 . 6, 6, . . | (5, . 1) 7, . 2 | (1 . . 1) . . |\n5 . . 6 . 5 | 5 . 3 5 . . | 5 . . 6 . 5 | 5 . 3 2 . . |\n3 . . 2 . 1 | 1 . 6, 6, . . | (5, . 1) 7, . 2 | (1 . . 1) . . |]",
+   "rows": [
+    "De-kat ke-pa-da-Mu ya Tu-han-ku b'ri-kan-lah ta-ngan-Mu pe-ga-ngan-ku Bi-duk-ku mau teng-ge-lam di lau-tan da-lam Ba-wa-lah ji-wa-ku ke-pa-da-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Dekat kepadaMu ya Tuhanku b'rikanlah tanganMu peganganku Bidukku mau tenggelam di lautan dalam Bawalah jiwaku kepadaMu"
+  ],
+  [
+   "Dekat kepadaMu, ya Tuhanku",
+   "Biarlah salibMu ku ingat t'rus",
+   "DarahMu yang kudus menghapus dosaku",
+   "Ajaiblah kasihMu kepadaku"
+  ],
+  [
+   "Dekat kepadaMu, ya Tuhanku",
+   "Aku melangkah t'rus ke rumahMu",
+   "Di sana jiwaku serta malaikatMu",
+   "Memuji namaMu di SurgaMu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 927: pemisahan kata lirik ayat 1 diperbaiki (Tu-han-ku b'ri-kan-lah, Bi-duk-ku mau); teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

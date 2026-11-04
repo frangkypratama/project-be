@@ -1,0 +1,54 @@
+{
+ "note": [
+  "hal. 519 baris 3: 'Da-lam-ku ba ngan' -> 'Da-lam ku-ba-ngan'",
+  "hal. 520: ayat 3 (lirik di bawah not) hilang dari data -> ditambahkan sebagai teks (baris disusun mengikuti bentuk ayat 2/4); vnum [1,2,3,4]",
+  "CATATAN: not ayat 3 hal. 520 birama 2-3 berbeda dari ayat 1 ('1 . 1+1' dengan 1 not tanpa suku kata setelah 'men', dan '3 . 3 1 1 1' vs '3 . 3 1 . 1'), tidak dimodelkan"
+ ],
+ "sections": [
+  {
+   "notes": "5,+5, | 1 .+1 1 1 . 1 | 7, . 7, 1 . 1+1 | 3 . 3 1 . 1 |\n2 . . . 0 5,+5, | 1 1 1 1 . 1+1 | 3 . 3 1 . 1+1 | 2 .\n2+2 7, 7, 7, | 1 . . . 0 1+1 | 3 .+3 3 1 1 1 | 3 .+3 3\n1 . 5 | 5 .+5 5 5 3 1 | 2 1 2 3 . 5 | 5 .+5 6 5 3\n1 | 2 3 2 1 . |]",
+   "rows": [
+    "Se-ka-wa-nan dom-ba pu-lang kan-dang sa-tu la-gi tak pu-lang Na-mun sa-tu se-sat mung-kin per-gi jauh sa-ngat jauh da-ri ja-lan Tu-han Da-lam ku-ba-ngan lum-pur do-sa ma-nu-sia tia-da ke-se-na-ngan ha-ti-nya su-sah tia-da ke-se-na-ngan ha-ti-nya su-sah"
+   ]
+  }
+ ],
+ "vl_direct": {},
+ "verses": [
+  [
+   "Sekawanan domba pulang kandang satu lagi tak pulang Namun satu sesat mungkin pergi jauh sangat jauh dari jalan Tuhan Dalam kubangan lumpur dosa manusia tiada kesenangan hatinya susah tiada kesenangan hatinya susah"
+  ],
+  [
+   "Yesus Gembala Agung bersabda",
+   "Satu yang tidak pulang",
+   "Walau hanya satu tidak kembali",
+   "Sarus pulang, Aku tak henti",
+   "Dia pun mencari tanpa rasa penat",
+   "Memanggil domba-Nya yang jauh tersesat,",
+   "Memanggil domba-Nya yang jauh tersesat"
+  ],
+  [
+   "Berat derita-Nya Tuhan Yesus",
+   "Mencari yg tersesat",
+   "Bercucuran darah dari tubuh-Nya",
+   "Dari kaki serta tangan-Nya",
+   "Dari kepala-Nya bercucuran darah",
+   "O Yesus Tuhanku kasih-Mu besar",
+   "O Yesus Tuhanku kasih-Mu besar"
+  ],
+  [
+   "Akhirnya Yesus menemukannya",
+   "Domba yang t'lah tersesat",
+   "Dibersihkan, dibasuh dengan bersih",
+   "Dibersihkan dengan darah-Nya",
+   "Mari pujilah Gembala yang setia",
+   "Yang menyelamatkan manusia sesat",
+   "Yang menyelamatkan manusia sesat"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ]
+}

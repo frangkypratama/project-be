@@ -1,0 +1,81 @@
+{
+ "be": 216,
+ "variant": "",
+ "bl": 89,
+ "title": "Biar gunung batu runtuh",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Benjamin Schmolck, 1737",
+ "pages": [
+  270
+ ],
+ "cat": "Pengakuan dan Kesaksian Iman",
+ "tempo": 109,
+ "credits": [
+  "Syair: Benjamin Schmolck 1672-1737",
+  "Lagu: Schicht",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "1 3 5 5 | 6 7 1' 5 | 6 6 5 3 | 4 2 1 . :|",
+   "rows": [
+    "Bi-ar gu-nung ba-tu run-tuh bu-kit ba-tu ber-ge-rak",
+    "Na-mun ka-sih Tu-han-mu tuh jan-ji Tu-han-pun te-tap"
+   ]
+  },
+  {
+   "notes": "3 3\n2 5 | (6+7) 1' 7 . | 1' 5 (6+7) 1' | 1' 7 1' . |]",
+   "rows": [
+    "Ka-sih ka-ru-ni-a-ku tak ber-an-jak da-ri-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Biar gunung batu runtuh bukit batu bergerak",
+   "Namun kasih Tuhanmu tuh janji Tuhanpun tetap",
+   "Kasih karuniaku tak beranjak darimu"
+  ],
+  [
+   "Firman dan perintah Tuhan 'ku taati selalu",
+   "Akan s'lamatlah jiwaku oleh firman Tuhanku",
+   "Kasih karunia-Ku tak beranjak darimu"
+  ],
+  [
+   "Yang lelah-letih jiwanya akan dipulihkan-Nya",
+   "Engkau 'kan bersukacita bila mengandalkan-Nya",
+   "Kasih karunia-Ku tak beranjak darimu"
+  ],
+  [
+   "Kau berduka kar'na dosa, takut penghakiman-Nya",
+   "Yakin akan firman Allah, ingat pada sabda-Nya",
+   "Kasih karunia-Ku tak beranjak darimu"
+  ],
+  [
+   "Tuhan kuatkan jiwaku melakukan firman-Mu",
+   "Jangan bimbang pikiranku mentikan janji-Mu",
+   "Kasih karunia-Ku tak beranjak darimu"
+  ],
+  [
+   "Bila datang kematian saat tiba ajalku",
+   "'Ku beroleh kehidupan s'perti janji Tuhanku",
+   "Kasih karunia-Ku tak beranjak darimu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 270: dua bait teks sama-sama bernomor '5.' di buku ('Tuhan kuatkan jiwaku…' dan 'Bila datang kematian…'); data menggabungkannya jadi satu ayat 6 baris → dipisah menjadi ayat 5 dan 6 sesuai urutan halaman"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

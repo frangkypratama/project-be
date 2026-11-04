@@ -1,0 +1,64 @@
+{
+ "be": 379,
+ "variant": "",
+ "bl": 252,
+ "title": "Tiada waktu",
+ "key": "F",
+ "meter": "6/8",
+ "credit": "Philipp Paul Bliss, 1876",
+ "pages": [
+  481
+ ],
+ "cat": "Tuhan Memanggilmu",
+ "tempo": 104,
+ "credits": [
+  "Syair: Philipp Paul Bliss 1838-1876",
+  "Lagu: Philipp Paul Bliss 1838-1876",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM & Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 . . 4 . 4 | 3 . . 1 . . | 1 . . 2 . 2 | (3 . . 3) . . |\n3 . . 4 . 4 | 3 . . 1 . . | 2 . . 3 . 2 | (1 . . 1) . . |\n4 . . 4 . 4 | 4 . 3 3 . . | 5 . . 2 . 4 | 4 . 3 3 . . |\n1 . . 1 . 1 | 1 . 2 3 . . | 3 . . 3 . 2 | (1 . . 1) . . |]",
+   "rows": [
+    "Ti-a-da wak-tu kau ka-ta-kan per-gi-lah du-lu ku kan da-tang Hi-tung-lah ha-ri-mu a-kan ce-pat la-lu bi-la kau ter-lam-bat ben-ca-na b'rat"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tiada waktu kau katakan pergilah dulu ku kan datang Hitunglah harimu akan cepat lalu bila kau terlambat bencana b'rat"
+  ],
+  [
+   "Tiada waktu 'ku tak sempat",
+   "Aku 'kan datang saat tepat",
+   "Sering 'ku ingatkan, kau tak perdulikan",
+   "Tujuan hidupmu maut gelap"
+  ],
+  [
+   "Dengarlah Tuhan saat ini",
+   "Ingin berjumpa kau di sini",
+   "Tuhanmu sambutlah, Surga tujuanmu",
+   "Kasih setia-Nya pegang teguh"
+  ],
+  [
+   "Ubah hidupmu, kembalilah",
+   "Umurmu lanjut, ajal dekat",
+   "Mungkin kau tak sempat pikirkan yang kekal",
+   "'Ku mohon padamu, Aminkanlah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 481 baris 2: 'du lu | ku kan da tang' = dulu ku kan datang (sebelumnya du-lu-ku)"
+ ],
+ "status": "",
+ "ref": "R.I. No. 125",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

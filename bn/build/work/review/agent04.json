@@ -1,0 +1,217 @@
+[
+ {
+  "id": "132",
+  "status": "ok",
+  "detail": "hal. 162: judul/kunci Bb/3 ketuk/BL 193, semua birama (titik oktaf, garis atas, legato), lirik 2 baris ulang + bagian 2, ayat 2-3 cocok."
+ },
+ {
+  "id": "133",
+  "status": "ok",
+  "detail": "hal. 163-164: not kedua bagian cocok (#4 dicoret), lirik ayat 1 + ulang, ayat 5 bernot (hal. 164) cocok; ayat 2-8 lengkap & urut."
+ },
+ {
+  "id": "134",
+  "status": "fixed",
+  "detail": "hal. 165: not 6/8 cocok; lirik 'jan-ji kan' disambung jadi 'jan-ji-kan' (ayat 1 ikut)."
+ },
+ {
+  "id": "135",
+  "status": "ok",
+  "detail": "hal. 166: not, lirik ayat 1 (2 putaran + bagian 2), ayat 2-3 cocok."
+ },
+ {
+  "id": "136",
+  "status": "ok",
+  "detail": "hal. 167: not dicek dgn perbesaran (6,/+.//+5,// dan 3+#4 sesuai garis atas ganda & coretan); lirik + ayat 2-5 (baris ulang dicetak 2x di buku) cocok. Fermata di awal tidak dimodelkan."
+ },
+ {
+  "id": "137",
+  "status": "ok",
+  "detail": "hal. 168: not, lirik, ayat 2-4 cocok."
+ },
+ {
+  "id": "138",
+  "status": "fixed",
+  "detail": "hal. 169: not & lirik cocok; fix hanya mengunci pemisahan kata 'Di-a i-tu' karena regenerasi kamus otomatis sempat merusaknya jadi 'Di-a-i tu'."
+ },
+ {
+  "id": "139",
+  "status": "ok",
+  "detail": "hal. 170: not (legato, #4) dan lirik cocok, ayat 2-3 lengkap."
+ },
+ {
+  "id": "140",
+  "status": "fixed",
+  "detail": "hal. 171: not cocok; buku mencetak 'ber g mar' / 'be kr ja' (huruf hilang) -> 'ber-ge-mar te-kun be-ker-ja' (judul 'Tetap bergemar')."
+ },
+ {
+  "id": "141",
+  "status": "fixed",
+  "detail": "hal. 172: not = lagu 138, lirik cocok; mengunci \"de-pan-mu kan\" (regenerasi kamus sempat menyambung 'depanmukan'). Hanya 1 ayat di buku."
+ },
+ {
+  "id": "142",
+  "status": "ok",
+  "detail": "hal. 173: not = 135, lirik cocok, hanya 1 ayat di buku."
+ },
+ {
+  "id": "143",
+  "status": "fixed",
+  "detail": "hal. 174 birama 3: '4 ./ 3' -> '4 .+3' (garis atas di atas '. 3'; validator OK); lirik 'masy-hur', 'ber-se-rak', \"Yerusalem 'ku\"."
+ },
+ {
+  "id": "144",
+  "status": "fixed",
+  "detail": "hal. 175: not cocok; lirik 'di i kat'->'di-i-kat', buku mencetak 'pam bap ti san ku' (salah cetak) -> 'pem-bap-ti-san-ku'."
+ },
+ {
+  "id": "145",
+  "status": "fixed",
+  "detail": "hal. 176: not cocok; 'A ku-sung-guh' -> 'A-ku sung-guh'."
+ },
+ {
+  "id": "146",
+  "status": "ok",
+  "detail": "hal. 177: not, lirik, ayat 2-6 cocok."
+ },
+ {
+  "id": "147",
+  "status": "fixed",
+  "detail": "hal. 178: not cocok (garis atas/legato); 'han tar' -> 'han-tar'."
+ },
+ {
+  "id": "148",
+  "status": "ok",
+  "detail": "hal. 179: not (garis atas dicek dgn perbesaran) dan lirik cocok, ayat 2-6 lengkap."
+ },
+ {
+  "id": "149",
+  "status": "ok",
+  "detail": "hal. 180: not (garis atas+legato, akhir '1' . .' 3 ketuk krn ketuk angkat) dan lirik cocok, ayat 2-4 lengkap."
+ },
+ {
+  "id": "150",
+  "status": "fixed",
+  "detail": "hal. 181: bl kosong -> 125 (tertulis 'Buku Logu: 125'); \"mi-lik-ku 'ku\", \"Pe-ne-bus 'Ku\". Catatan: birama '6 6 4' 2'' di baris 2 tercetak tanpa titik oktaf pada 6 (lompatan 3'->6 janggal) - dibiarkan sesuai buku."
+ },
+ {
+  "id": "151",
+  "status": "issue",
+  "detail": "hal. 182 bagian 2 baris 3: buku jelas mencetak '| 4 3 3 | 2 . 0 5 |' (3 ketuk; bandingkan baris 2 '4 3 3 .') - kemungkinan titik tahan hilang di buku, TIDAK dikoreksi. Selebihnya not/lirik/ayat cocok."
+ },
+ {
+  "id": "152",
+  "status": "fixed",
+  "detail": "hal. 183: not cocok (#1, legato 3-2-#1); buku mencetak 'yg m nang gung' -> 'me-nang-gung' (bagian 2 dengan not sama: 'me nang gung')."
+ },
+ {
+  "id": "153",
+  "status": "fixed",
+  "detail": "hal. 184: not cocok; 'ber-hu-tang-nya wa' -> 'ber-hu-tang nya-wa' (berhutang nyawa)."
+ },
+ {
+  "id": "154",
+  "status": "issue",
+  "detail": "hal. 185 & 186 bagian 2: birama '6 . 5 |' memang hanya 3 ketuk di kedua halaman (kemungkinan titik hilang di buku) - TIDAK dikoreksi. Diperbaiki: 'di-un-dang', ayat 4 bernot 'ke-a-jaib-an' (teks + vl_direct). 'men b'ri' di ayat 4 dibiarkan seperti cetakan."
+ },
+ {
+  "id": "155",
+  "status": "fixed",
+  "detail": "hal. 187-188: not, lirik, ayat 3 bernot cocok; mengunci 'ro-ti i-ni' / 'ang-gur i-ni' (regenerasi kamus sempat merusak jadi 'ro-ti-i ni')."
+ },
+ {
+  "id": "156",
+  "status": "ok",
+  "detail": "hal. 189: not (5 .+4, #4) dan lirik cocok, ayat 2-5 lengkap."
+ },
+ {
+  "id": "157",
+  "status": "ok",
+  "detail": "hal. 190: not = 135, lirik + ayat 2-3 cocok."
+ },
+ {
+  "id": "158",
+  "status": "ok",
+  "detail": "hal. 191: not = 148, lirik + ayat 2-4 cocok."
+ },
+ {
+  "id": "159",
+  "status": "issue",
+  "detail": "hal. 192 & 193 bagian 2 baris 3: '| 0 1 3 5 |' hanya '0 1' bergaris atas, '3 5' tanpa garis atas di kedua halaman (= 3 ketuk dlm 2/4; di baris 1 keduanya bergaris) - kemungkinan garis hilang di buku, TIDAK dikoreksi. Diperbaiki: ayat 3 bernot 'dihormati', 'Mendidik', 'pertumbuhan' (teks + vl_direct)."
+ },
+ {
+  "id": "160",
+  "status": "ok",
+  "detail": "hal. 194: not = 135, lirik + ayat 2-3 cocok."
+ },
+ {
+  "id": "161",
+  "status": "fixed",
+  "detail": "hal. 195: not cocok; baris ulang 'ba nyakdo _ sa ku' -> 'A-mat-lah gun-dah ha-ti-ku se-bab ba-nyak do-sa-ku' (15 suku = 15 not), 'mem-ba-las'."
+ },
+ {
+  "id": "162",
+  "status": "fixed",
+  "detail": "hal. 196: not cocok; buku mencetak 'Ba nyak ba nar' -> 'be-nar' (judul 'Banyak benar')."
+ },
+ {
+  "id": "163",
+  "status": "fixed",
+  "detail": "hal. 197-198: not (#4, #5) & lirik cocok; ayat 5 bernot 'hidup kan' -> 'hidupkan' (teks + vl_direct)."
+ },
+ {
+  "id": "164",
+  "status": "fixed",
+  "detail": "hal. 199: not cocok; \"ha-da-pan-Mu 'ku\"; mengunci 'Ra-ja-ku de-ngar-kan' (regenerasi kamus sempat jadi 'Ra-ja ku-de-ngar-kan')."
+ },
+ {
+  "id": "165",
+  "status": "ok",
+  "detail": "hal. 200: not (legato, #4, garis atas) dan lirik cocok, ayat 2-5 lengkap."
+ },
+ {
+  "id": "166",
+  "status": "ok",
+  "detail": "hal. 201: not dicek dgn perbesaran (semua pasangan legato bergaris atas) dan lirik cocok, ayat 2-5 lengkap."
+ },
+ {
+  "id": "167",
+  "status": "fixed",
+  "detail": "hal. 202-203: bl kosong -> 108 ('Buku Logu: 108'); not (#5) & lirik cocok, ayat 4 bernot cocok."
+ },
+ {
+  "id": "168",
+  "status": "fixed",
+  "detail": "hal. 204-206: not cocok; 'bi-ngung', 'mem-bu-tuh-kan'; ayat 5 bernot: buku mencetak 'lu pu' & 'ber bua at' -> 'lu-put', 'ber-bu-at' (teks + vl_direct). 'o-leh-mu de-ngar' dibiarkan."
+ },
+ {
+  "id": "169",
+  "status": "fixed",
+  "detail": "hal. 207-211: not dicek dgn perbesaran (pola titik 3/+.//+4// = peringatan 0.75 ketuk wajar, legato cocok); 'kun-ju-ngi', \"ku-dus 'ku\"; ayat 2 'pa-da-ku ku-a-sa' (sebelumnya 'pa-da-ku-ku a-sa'). Catatan: hal. 208=210 dan 209=211 halaman ganda di PDF."
+ },
+ {
+  "id": "170",
+  "status": "ok",
+  "detail": "hal. 212: not, lirik, ayat 2-7 cocok."
+ },
+ {
+  "id": "171",
+  "status": "ok",
+  "detail": "hal. 213: not (garis atas, (1' .+5)) dan lirik cocok, ayat 2-3 lengkap."
+ },
+ {
+  "id": "172",
+  "status": "fixed",
+  "detail": "hal. 214: not cocok; buku mencetak \"'tra ngi\" -> \"t'ra-ngi\" (judul 'Yesus t'rang dunia, t'rangi')."
+ },
+ {
+  "id": "173",
+  "status": "fixed",
+  "detail": "hal. 215: not (legato '(6 . 6)+1'', garis atas) cocok; buku mencetak 'jaug' -> 'jauh'."
+ },
+ {
+  "id": "174",
+  "status": "ok",
+  "detail": "hal. 216: not 6/8 (#1') dan lirik cocok, ayat 2-5 lengkap."
+ }
+]

@@ -1,0 +1,68 @@
+{
+ "be": 393,
+ "variant": "",
+ "bl": 262,
+ "title": "Kesukaan yang besar",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "Eigenbeitreg",
+ "pages": [
+  498
+ ],
+ "cat": "Tuhan Memanggilmu",
+ "tempo": 104,
+ "credits": [
+  "Syair: Eigenbeitrag",
+  "Lagu: Eigenbeitrag",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM & Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5, .+6, 6, 1 | 1 7, (5 5) | 6 .+5 3 1 | 7, 6, (7, 7,) | 5, .+6,\n6, 1 | 1 7, (7, 6,) | 5, .+6, 6, 1 | 1 7, 5 . | 6 .+5 3 1 |\n2 1 (1 6,) | 5, 1 4 3 | 3 .+2 1 0 |]",
+   "rows": [
+    "Ke-su-ka-an yg be-sar ku-ba-wa-kan pa-da-mu ku-ra-sa-kan ba-ha-gia de-ngan Ye-sus ber-te-mu Ku ha-rap-kan kau te-man de-ngan Ye-sus ba-ha-gia"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kesukaan yg besar kubawakan padamu kurasakan bahagia dengan Yesus bertemu Ku harapkan kau teman dengan Yesus bahagia"
+  ],
+  [
+   "Gelap sangat hatimu, dosa membelenggumu",
+   "Sambut Yesus Tuhanmu, Kristus Jurus'lamatmu",
+   "'Ku harapkan kau teman dengan Yesus bahagia"
+  ],
+  [
+   "Semua keluhanmu tersimpan di hatimu",
+   "Yesus datang padamu meringankan bebanmu",
+   "'Ku harapkan kau teman dengan Yesus bahagia"
+  ],
+  [
+   "Jauh di lubuk hatimu, dosa kegelapanmu",
+   "Tuhan datang padamu, t'rang bersinar bagimu",
+   "'Ku harapkan kau teman dengan Yesus bahagia"
+  ],
+  [
+   "Dan semua nestapamu akan sirna darimu",
+   "Sukacita bagimu, Tuhan pengharapanmu",
+   "'Ku harapkan kau teman dengan Yesus bahagia"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 498 baris 1: pemisahan kata 'ku-ba-wa kan' -> 'ku-ba-wa-kan' (kubawakan)",
+  "Koreksi dari gambar halaman: hal. 498 Reff: 'Ku-ha-rap-kan' -> 'Ku ha-rap-kan' (sesuai teks ayat lain \"'Ku harapkan\")"
+ ],
+ "status": "",
+ "ref": "Jug.L.No. 69",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

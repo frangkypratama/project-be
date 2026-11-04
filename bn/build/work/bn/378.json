@@ -1,0 +1,70 @@
+{
+ "be": 378,
+ "variant": "",
+ "bl": 382,
+ "title": "Meskipun dosa penuh",
+ "key": "D",
+ "meter": "3/4",
+ "credit": "James McGranahan, 1907",
+ "pages": [
+  480
+ ],
+ "cat": "Tuhan Memanggilmu",
+ "tempo": 100,
+ "credits": [
+  "Syair: Neu meister",
+  "Lagu: James Mc Granahan 1840-1907",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3/+.//+4// | 5 . 6 3/+.//+6// | 5 . 5/+.//+1'// | 7 . 6 5/+.//+4// |\n3 . 3/+.//+4// | 5 .+6 3/+.//+6// | 5 . 5/+.//+1'// | 7 .+5 6/+.//+7// |\n1' . |",
+   "rows": [
+    "Mes-ki-pun do-sa pe-nuh Ye-sus me-ne-ri-ma-mu wa-lau ja-uh ter-se-sat a-sal da-tang pa-da-Nya"
+   ]
+  },
+  {
+   "meter": "12/8",
+   "notes": "(3 4) 5 | (6 . . 6 . . 6) . 1' (1' 7) 6 | (5 . . 5 . .\n5) . . (5 6) 3 | (5 . . 5 . . 5) . 5 (5 6) 3 | (5 . . 5 . . 5) . .\n(3 4) 5 | (6 . . 6 . . 6) . 1' (1' 7) 6 | (5 . . 5 . . 5) . . 1' .\n1' | 2' . 2' 1' . . 7 . . | (1' . . 1') . . |]",
+   "rows": [
+    "Fir-man-Nya be-ri-ta-kan pa-da o-rang yg se-sat Ye-sus me-ne-ri-ma-Nya yg mau di-be-ri ber-kat"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Meskipun dosa penuh Yesus menerimamu walau jauh tersesat asal datang padaNya FirmanNya beritakan pada orang yg sesat Yesus menerimaNya yg mau diberi berkat"
+  ],
+  [
+   "Jangan tunda datanglah, pasti kau 'kan bahagia",
+   "Kau pun diterima-Nya, jiwamu sejahtera",
+   "Firman-Nya, beritakan pada orang yang sesat",
+   "Yesus menerimanya, yang mau diberi berkat"
+  ],
+  [
+   "Aku pun dit'rima-Nya disucikan jiwaku",
+   "'Ku rasakan bahagia kar'na Yesus Tuhanku",
+   "Firman-Nya, beritakan pada orang yang sesat",
+   "Yesus menerimanya, yang mau diberi berkat"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Birama berganti: 3 & 12 ketuk (lihat buku).",
+  "3 garis birama tidak tertulis di buku (birama berisi 6 ketuk) — ditambahkan agar birama 3/4 terbaca benar.",
+  "Koreksi dari gambar halaman: hal. 480: kepala '3 & 12 ketuk' dan tanda '12 ketuk' + '||' sesudah '1˙ .' (baris 3) → lagu dibagi 2 bagian: bagian 1 birama 3/4, bagian 2 meter 12/8; garis birama tambahan hasil ekstraksi di bagian 12 ketuk dibuang",
+  "Koreksi dari gambar halaman: hal. 480 baris 4 & 4-akhir: busur ikat menyambung tiga not 5 ('5 . . ⌒5 . . ⌒5') → (5 . . 5 . . 5) (sebelumnya 5 ketiga lepas dan mendapat suku kata → 58 not vs 56 suku kata)",
+  "Koreksi dari gambar halaman: hal. 480 akhir: '1˙ . . ⌒1˙ . .' satu birama tanpa garis di tengah",
+  "Koreksi dari gambar halaman: Sisa peringatan validator sesuai tulisan buku: baris 1 '5 . 6 3 . 6' dan '7 . 6 5 . 4' tanpa garis atas di '. 6' (4 ketuk; baris 2 yang sejajar memakai garis atas), dan birama '2˙ . 2˙ 1˙ . . 7 . .' = 9 ketuk"
+ ],
+ "status": "",
+ "ref": "Z. No. 189",
+ "vl_direct": {},
+ "meter2": 12,
+ "fixed": true,
+ "warn": []
+}

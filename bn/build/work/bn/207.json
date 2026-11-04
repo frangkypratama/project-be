@@ -1,0 +1,79 @@
+{
+ "be": 207,
+ "variant": "",
+ "bl": 150,
+ "title": "Pegang erat tanganku",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Freiedrich Silcner, 1842",
+ "pages": [
+  260
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Julie Hausmann 1862 (1825-1901)",
+  "Lagu: Friedrich Silcher 1842 (1789-1860)",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM & Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "5 | 6 5 4 3 | 3 . 2 3 | 4 . 5 . | 3 . 0 :|",
+   "rows": [
+    "Pe-gang e-rat ta-ngan-ku dan tun-tun-lah",
+    "Sam-pai da-tang a-jal-ku lin-du-ngi-lah"
+   ]
+  },
+  {
+   "notes": "3 | 2 5 #4 6 | (5 .+6) 7 1' | 7 . 6 . | 5 . 0 5 | 1'\n(7+6) 5 5 | 6 . 5 4 | (3 4) . 2 | 1 . 0 |]",
+   "rows": [
+    "Tak i-ngin-ku sen-di-ri di ja-lan-ku ku mo-hon Kau-lah Tu-han mem-bim-bing-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Pegang erat tanganku dan tuntunlah",
+   "Sampai datang ajalku lindungilah",
+   "Tak inginku sendiri di jalanku ku mohon Kaulah Tuhan membimbingku"
+  ],
+  [
+   "Hiburkanlah hatiku yang bersedih",
+   "Dengan rahmat kasih-Mu tak terperi",
+   "Ampunilah dosaku ya Tuhanku",
+   "'Ku 'kan tetap setia kepada-Mu"
+  ],
+  [
+   "Walaupun kesusahan melandaku",
+   "Tetap tenang 'kurasa bersama-Mu",
+   "Walaupun kekelaman menghadangku",
+   "Terang-Mu bercahaya di hatiku"
+  ],
+  [
+   "Di kaki-Mu ya Tuhan, 'ku bertelut",
+   "'Ku mau istirahat di sisi-Mu",
+   "'Ku serahkan hidupku kepada-Mu",
+   "Jiwaku pun sentosa bersama-Mu"
+  ],
+  [
+   "Pegang erat tanganku dan tuntunlah",
+   "Sampai datang ajalku, lindungilah",
+   "Dan nanti aku tiba di rumah-Mu",
+   "'Ku puji Kau selalu di sisi-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 260 baris 2-3: pemisahan kata 'ja-lan-ku-ku' → 'ja-lan-ku ku'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

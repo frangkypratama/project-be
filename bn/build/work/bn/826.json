@@ -1,0 +1,56 @@
+{
+ "be": 826,
+ "variant": "",
+ "bl": null,
+ "title": "Gohi au Tuhan",
+ "key": "C",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  1038
+ ],
+ "cat": "Firman Allah",
+ "tempo": 104,
+ "credits": [
+  "Syair: Fill me with Thy words; N.N",
+  "Lagu: Fill me with Thy words; N.N",
+  "Terj.Ind.: St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "1 2 | 3 .+3 3 5 | 4 2 1 7, | (1 . . . | 1) . 3 4 |\n5 .+5 5 1' | 6 5 4 6 | (5 . . . | 5) . 6 7 | 1' .+1'\n1' 1' | 2' 1' 7 6 | 5 1' 5 4 | 3 . 1 2 | 3 .+3 3 5 |\n4 2 1 7, | (1 . . . | 1) . |]",
+   "rows": [
+    "De-ngan fir-man-Mu pe-nu-hi ha-ti-ku de-ngan fir-man-Mu pe-nu-hi ha-ti-ku a-ku ba-gai-kan tem-pa-yan yg ko-song di su-mur-Mu de-ngan fir-man-Mu pe-nu-hi ha-ti-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Dengan firmanMu penuhi hatiku dengan firmanMu penuhi hatiku aku bagaikan tempayan yg kosong di sumurMu dengan firmanMu penuhi hatiku"
+  ],
+  [
+   "Dengan FirmanMu penuhi hatiku",
+   "Dengan FirmanMu penuhi hatiku",
+   "Hatiku haus dan rindu mendengarkan FirmanMu",
+   "Dengan FirmanMu penuhi hatiku"
+  ],
+  [
+   "Dengan FirmanMu penuhi hatiku",
+   "Dengan FirmanMu penuhi hatiku",
+   "Agar imanku bertumbuh kar'na dengar FirmanMu",
+   "Dengan FirmanMu penuhi hatiku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 1038: pemisahan kata lirik ayat 1 diperbaiki (a-ku ba-gai-kan, di su-mur-Mu); teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

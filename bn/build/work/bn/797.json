@@ -1,0 +1,68 @@
+{
+ "be": 797,
+ "variant": "",
+ "bl": null,
+ "title": "Yesus gembalaku",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "",
+ "pages": [
+  1006
+ ],
+ "cat": "Keluarga dan pembinaan kategori",
+ "tempo": 100,
+ "credits": [
+  "Syair: Shepherd of teder youth; Clemen of Alexander, C 170-220",
+  "Lagu: Felice de Giandini, 1716-1796",
+  "Terj.Ind.: St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5 3 1 | (2 1) 7, | 1 . . | 1 2 3 | (4+5 4) 3 | 2 . . |\n5 3 1 | 5, . . | 2 3 4 | 3 .+2 1 | 2 3 4 | 3 .+2\n1 | 1 3 5 | 5 .+6 5 | 4 3 2 | 1 . . |]",
+   "rows": [
+    "Ye-sus Gem-ba-la-ku to-long-lah ham-ba-Mu di ja-lan-ku ku da-tang pa-da-Mu dan a-nak a-nak-ku me-mu-lia-kan na-ma-Mu Tu-han-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yesus Gembalaku tolonglah hambaMu",
+   "Di jalanku ku datang padaMu",
+   "Dan anak-anakku memuliakan namaMu Tuhanku"
+  ],
+  [
+   "Tuhan Maha Kudus, b'ri damai umatMu",
+   "Dan rahmatMu, Kau mati sengsara",
+   "Menebus manusia dari semua dosa dan neraka"
+  ],
+  [
+   "Kristus Imam Besar, jamuanMu besar",
+   "Surga senang, kami yang sengsara",
+   "Dari dunia fana dengarkanlah Tuhan doa sembah"
+  ],
+  [
+   "Kristus yang terbesar, pembela yang setia",
+   "Maha Kuasa firmanMu ya, Tuhan",
+   "Memanggil umatMu mengikut jalanMu ke rumahMu"
+  ],
+  [
+   "Tanamkan ya, Tuhan di hati umatMu",
+   "S'lalu tekun memuji namaMu",
+   "Semua jemaatMu, nyanyikan namaMu, Haleluya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 1006 baris 2: 'di ja lan ku | ku da tang' = di jalanku ku datang (pemisahan kata salah); ayat 1 dipecah 3 baris spt ayat lain"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

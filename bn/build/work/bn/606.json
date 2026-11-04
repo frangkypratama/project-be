@@ -1,0 +1,77 @@
+{
+ "be": 606,
+ "variant": "",
+ "bl": null,
+ "title": "Kristus lahir di dunia",
+ "key": "G",
+ "meter": "2/4",
+ "credit": "Mat. 2:22-23,26",
+ "pages": [
+  761,
+  762
+ ],
+ "cat": "Natal",
+ "tempo": 88,
+ "credits": [
+  "Syair: Li est ne, le divin enfant",
+  "Lagu: Ende Natal Perancis",
+  "Terj.Ind.: Pdt. J.A.U Doloksaribu, Mmin"
+ ],
+ "sections": [
+  {
+   "notes": "5,+1 1/+3//+1// | 5,+1 1 | 1/+1//+2// 3/+4//+3// | 2+1 (2/+7,//)+5,// | 5,+1\n1/+3//+1// | 5,+1 1 | 1+2 3/+4//+3// | 2+5 1 | 3+4 5/+4//+3// |\n4+6 5 | 3/+3//+4// 5/+6//+5// | 4+3 3+2 | 3+4 6/+4//+3// | 4+6 5 |\n3+4 5/+6//+5// | 4+3 2 |",
+   "rows": [
+    "Kris-tus la-hir di du-ni-a sam-but-lah Di-a de-ngan Nya-nyi-an Kris-tus la-hir di du-ni-a Pu-ji Tu-han Hal-le-lu-yah Jan-ji Al-lah su-dah ge-nap se-per-ti nu-bu-at pa-ra na-bi Jan-ji Al-lah su-dah ge-nap da-lam Kris-tus yg t'lah la-hir"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kristus lahir di dunia sambutlah Dia dengan Nyanyian Kristus lahir di dunia Puji Tuhan Halleluyah Janji Allah sudah genap seperti nubuat para nabi Janji Allah sudah genap dalam Kristus yg t'lah lahir"
+  ],
+  [
+   "Kristus lahir di dunia, Sambutlah Dia dengan nyanyian",
+   "Kristus lahir di dunia, Puji Tuhan, Haleluya",
+   "Perhatikan di wajahNya, Kasih Tuhanmu sungguh besarlah",
+   "Perhatikan di wajahNya, Kemuliaan Allah Bapa",
+   "Kristus lahir di dunia, Sambutlah Dia dengan nyanyian",
+   "Kristus lahir di dunia, Puji Tuhan, Haleluya"
+  ],
+  [
+   "Kristus lahir di dunia sambutlah Dia dengan Nyanyian Kristus lahir di dunia Puji Tuhan Halleluyah Kandang hinalah rumahNya tempat tidurNya palungan hewan kandang hinalah rumahNya kandang domba pilihanNya"
+  ],
+  [
+   "Kristus lahir di dunia, Sambutlah Dia dengan nyanyian",
+   "Kristus lahir di dunia, Puji Tuhan, Haleluya",
+   "Yesus anak lemah lembut, Raja dan Tuhan alam semesta",
+   "Yesus anak lemah lembut, Kami sujud dan menyembah",
+   "Kristus lahir di dunia, Sambutlah Dia dengan nyanyian",
+   "Kristus lahir di dunia, Puji Tuhan, Haleluya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 762 ayat 3 baris 3: 'he wan' satu kata (hewan)"
+ ],
+ "status": "",
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Kris-tus la-hir di du-ni-a sam-but-lah Di-a de-ngan Nya-nyi-an Kris-tus la-hir di du-ni-a Pu-ji Tu-han Hal-le-lu-yah Kan-dang hi-na-lah ru-mah-Nya tem-pat ti-dur-Nya pa-lu-ngan he-wan kan-dang hi-na-lah ru-mah-Nya kan-dang dom-ba pi-li-han-Nya"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 762)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

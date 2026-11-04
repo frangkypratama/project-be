@@ -1,0 +1,67 @@
+{
+ "be": 16,
+ "variant": "",
+ "bl": 12,
+ "title": "Segenap hati kita",
+ "key": "A",
+ "meter": "3/4",
+ "credit": "Karl Friedrich Schulz, 1810",
+ "pages": [
+  23
+ ],
+ "cat": "Puji-pujian dan Penyembahan",
+ "tempo": 116,
+ "credits": [
+  "Syair: Ludwig Helmbold 1575 (1532-1598)",
+  "Lagu: Nikolaus Selnecker 1587 (1528-1592)",
+  "Terj. Ind.: Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 1 . 7, | 6, . 1 | 2 . . | 1 . 1 | 1 . 2 | 7, .\n2 | 1 . . | 7, . 7, | 1 . 1 | 2 . 3 | 2 . . | 2 .\n3 | 4 . 3 | 2 . 1 | 2 . . | 1 . |]",
+   "rows": [
+    "Se-ge-nap ha-ti ki-ta me-mu-ji Tu-han Al-lah Kar'-na ke-mu-rah-an-Nya ke-pa-da ge-re-ja-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Segenap hati kita memuji Tuhan Allah Kar'na kemurahanNya kepada gerejaNya"
+  ],
+  [
+   "Kita semua dicipta, roh, tubuh, jiwa kita",
+   "Bekal dan hidup kita, semua dib'ri oleh-Nya"
+  ],
+  [
+   "Putra-Nya diberikan, yaitu Jurus'lamat",
+   "Mendamaikan manusia kepada Tuhan Allah"
+  ],
+  [
+   "T'lah hapus semua dosa, s'lamatlah jiwa kita",
+   "Semua yang percaya, pewaris harta Surga"
+  ],
+  [
+   "Sekarang kami puji, kemurahan-Mu Tuhan",
+   "Sungguh Kau maha kasih, pada umat manusia"
+  ],
+  [
+   "Berilah kekuatan, tambahkan sukacita",
+   "Memuji Dikau Tuhan, kekal s'lama-lamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 23: Buku Logu tertulis 12 (data kosong) → bl 12"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

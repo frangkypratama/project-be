@@ -1,0 +1,82 @@
+{
+ "be": 176,
+ "variant": "",
+ "bl": 3,
+ "title": "Terbukalah surga",
+ "key": "Bb",
+ "meter": "3/4",
+ "credit": "Basel, 1875",
+ "pages": [
+  218
+ ],
+ "cat": "Pengakuan dan Pengampunan Dosa",
+ "tempo": 100,
+ "credits": [
+  "Syair: Basel 1875",
+  "Lagu: Lagu rakyat Oberaargau",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 | (1'+5) 5 (6+4) | (4+3) 3 (1'+2') | 3' 3' (5'+3') | 2' .",
+   "rows": [
+    "Ter-bu-ka-lah sur-ga se-bab a-pa-kah"
+   ]
+  },
+  {
+   "notes": "5 |\n4' (4'+3') 2' | 3' 3' 1' | 2' 2' 7 | 1' . :|",
+   "rows": [
+    "S'bab Ye-sus t'lah da-tang mem-bu-ka-kan-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Terbukalah surga sebab apakah",
+   "S'bab Yesus t'lah datang membukakannya"
+  ],
+  [
+   "Dia sudah menanggung maut di Golgota",
+   "Menebus dosamu dengan darah-Nya",
+   "Menebus dosamu dengan darah-Nya"
+  ],
+  [
+   "Jiwaku datanglah pada Tuhanmu",
+   "Hati-Nya gembira menyambut engkau",
+   "Hati-Nya gembira menyambut engkau"
+  ],
+  [
+   "Bagaikan kesumba merah dosamu",
+   "Darah-Nya tercurah menguduskanmu",
+   "Darah-Nya tercurah menguduskanmu"
+  ],
+  [
+   "Di kala jiwamu letih dan lesu",
+   "Serahkan pada-Nya pergumulanmu",
+   "Serahkan pada-Nya pergumulanmu"
+  ],
+  [
+   "Derita dan lara disembuhkan-Nya",
+   "Langkahmu dibimbing ke Surga baka",
+   "Langkahmu dibimbing ke Surga baka"
+  ],
+  [
+   "Ya Yesus, Engkaulah warisan kekal",
+   "Beri sukacita damai yang kekal",
+   "Beri sukacita damai yang kekal"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

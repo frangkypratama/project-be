@@ -1,0 +1,63 @@
+{
+ "be": 109,
+ "variant": "",
+ "bl": 78,
+ "title": "Turunlah ya Roh kudus",
+ "key": "Ab",
+ "meter": "4/4",
+ "credit": "Johann Rudolp Ahle, 1664",
+ "pages": [
+  135
+ ],
+ "cat": "Pentakosta Roh Kudus",
+ "tempo": 104,
+ "credits": [
+  "Syair: Benjamin Schmolck 1715 (1672-1737)",
+  "Lagu: Johann Rudolf Ahle 1664 (1625-1673)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 1 2 (5+4) | 3 (2+1) 2 . | 1 .+7, (6,+7,) 1 | 2 3 2 . |\n1 . . . :|",
+   "rows": [
+    "Tu-run-lah ya Roh Ku-dus pe-nu-hi-lah je-ma-at-Mu",
+    "A-jar ka-mi ber-te-kun ber-i-ba-dah ke-pa-da-Mu"
+   ]
+  },
+  {
+   "notes": "5, .+5, 6, 7, | 1 (2+1) 7, 5, | 1 .+1 2 3 | 4\n3 2 . | 1 . . . |]",
+   "rows": [
+    "De-ngar-kan-lah per-mo-ho-nan do-a u-mat di-ka-bul-kan"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Turunlah ya Roh Kudus penuhilah jemaatMu",
+   "Ajar kami bertekun beribadah kepadaMu",
+   "Dengarkanlah permohonan doa umat dikabulkan"
+  ],
+  [
+   "Roh Kudus nan mulia, lawat kami jemaat-Mu",
+   "Ajar dan kuatkanlah kami taat kepada-Mu",
+   "Agar kami sungguh bebas dari dosa dan kuasa-Nya"
+  ],
+  [
+   "Roh Kudus terangilah manusia seluruhnya",
+   "Agar semua menyembah Yesus Sang Jurus'lamatnya",
+   "Agar semua manusia jadi warga k'rajaan-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 135 baris 2-3: 'di ka bul kan' satu kata → 'di-ka-bul-kan'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,74 @@
+{
+ "be": 401,
+ "variant": "",
+ "bl": 267,
+ "title": "Mengapa engkau masih ragu?",
+ "key": "A",
+ "meter": "6/8",
+ "credit": "N.N",
+ "pages": [
+  510
+ ],
+ "cat": "Hidup bersama Yesus",
+ "tempo": 90,
+ "credits": [
+  "Syair: George Frederick Root 1820-1895",
+  "Lagu: George Frederick Root 1820-1895",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 5, 5, 5, 6, 5, #4, | 5, . . 1 . 1 | 2 2 2 2 1 2 | (3 . . 3) . 5, |\n5, 5, 5, 7, 6, 5, | 5, . . 1 . 2 | 3 4 3 2 6, 7, | (1 . . 1) . 0 |",
+   "rows": [
+    "Me-nga-pa eng-kau ma-sih ra-gu 'tuk me-mu-tus-kan ha-ti-mu Tak i-ngin ke sur-ga ji-wa-mu ke sa-na a-rah lang-kah-mu"
+   ]
+  },
+  {
+   "notes": "3 . . 1 . 0 | 1 . . 6, . 0 | 5, 5, 5, 7, 6, 5, | (5, . . 1) . 0 |",
+   "rows": [
+    "Sung-guh ma-lang o-rang yg ra-gu ra-gu"
+   ]
+  },
+  {
+   "notes": "3 . . 1 . 0 | 1 . . 6, . 0 | 5, 5, 5, 7, 6, 5, |\n(1 . . 1) . |]",
+   "rows": [
+    "Ja-ngan ja-uh da-ri da-mai Tu-han-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Mengapa engkau masih ragu 'tuk memutuskan hatimu Tak ingin ke surga jiwamu ke sana arah langkahmu",
+   "Sungguh malang orang yg ragu ragu",
+   "Jangan jauh dari damai Tuhanmu"
+  ],
+  [
+   "Hatimu s'lalu merasakan derita dalam hidupmu",
+   "Engkau selalu menyesalkan beban yang meletihkanmu",
+   "Jangan lupa Firman Tuhan hidupmu",
+   "Pegang erat Firman Tuhan hidupmu"
+  ],
+  [
+   "Tinggal serta dengan Tuhanmu yang sangat mengasihimu",
+   "Dan Yesus kebahagiaanmu, dengar Dia panggil namamu",
+   "Cepat sambut, sambut pengorbanan-Nya",
+   "Agar jadi bersamamu damai-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Ulangan dengan kurung 1./2. (volta) di buku ditulis sebagai dua bagian: putaran 1 lalu putaran 2.",
+  "Koreksi dari gambar halaman: hal. 510 baris 1: 'me mu tus kan' -> 'me-mu-tus-kan'",
+  "Koreksi dari gambar halaman: Volta (kurung 1./2.) ditulis sebagai dua bagian berurutan (putaran 1 lalu putaran 2), sama dengan cara assemble.py terbaru (contoh 396/435): baris 3 '||: ... [1. 5, . . 1 . 0 :||]' dan baris 4 '[2. 1 . . 1 .]'",
+  "Koreksi dari gambar halaman: teks ayat 1: baris 'mu' (volta 2) digabung -> 'Jangan jauh dari damai Tuhanmu'"
+ ],
+ "status": "",
+ "ref": "R.L.No. 160",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

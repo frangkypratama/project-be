@@ -1,0 +1,35 @@
+{
+ "sections": [
+  {
+   "notes": "5/ 6+5 | 3 .+5 1'+7 2'+1' | (2 . 2)+3 4+5 | 7 .+6 2+3\n4+5 | (5 . 5)+5 6+5 | (3 . 3)+1' 2'+1' | (1' . 1')+1' 7+6 |\n5+6 7+1' 1' 7 | 1' . ./ | 5/ 5+5 | 2' .+2' 3'+2' 2'+1' |\n(5 . 5)+1' 1'+1' | 1' .+1' 1'+6 7+1' | (2' . 2')+5 5+5 | (3' . 3')+1'\n2'+1' | (1' . 1')+1' 7+6 | 5+6 7+1' 1' 7 | 1' . ./ |]",
+   "rows": [
+    "Ke-pa-da Al-lah peng-ha-ra-pan-ku di da-rat laut di wak-tu ma-na-pun ke-pa-da-Nya ku per-ca-ya Ba-pa sur-ga-wi sum-ber hi-dup-ku Wa-lau-pun ba-dai on-bak men-de-ru a-ku ber-ha-rap pa-da Al-lah-ku ku tak gen-tar kar'-na ku tau Tu-han s'la _ _ _ _ _ _ _"
+   ]
+  }
+ ],
+ "vl_direct": {},
+ "verses": [
+  [
+   "Kepada Allah pengharapanku di darat laut di waktu manapun",
+   "kepadaNya ku percaya Bapa surgawi sumber hidupku",
+   "Walaupun badai onbak menderu aku berharap pada Allahku",
+   "ku tak gentar kar'na ku tau Tuhan s'la… (baris terakhir tanpa lirik di buku)"
+  ],
+  [
+   "Unggas kecil dan bunga yang indah, Ikan di laut, semua ciptaanNya",
+   "Yang terkecil dan terbesar, Tuhanlah yang menjaga semuanya",
+   "Walaupun badai, ombak menderu, Aku berharap pada Allahku",
+   "'Ku tak gentar, kar'na 'ku tau, Tuhan s'lalu menjaga hidupku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2
+ ],
+ "note": [
+  "hal. 969 baris 4: lengkung legato hanya mengikat 2' . 2' (suku kata 'ku'); not 5 sesudahnya mendapat suku kata 'ku' (ku tak gen) → (2' . 2')+5 5+5",
+  "hal. 969 baris 4-5: lengkung mengikat 3' . 3' ('tar') dan 1' . 1' (baris 5) masing-masing, bukan 3'…1' melintasi birama → (3' . 3')+1' 2'+1' | (1' . 1')+1' 7+6",
+  "hal. 969: pemisahan kata ke-pa-da-Nya ku per-ca-ya, Al-lah-ku ku tak gen-tar; 'on bak' dibiarkan sesuai buku (ejaan buku, ayat 2: ombak)",
+  "hal. 969 baris 5: di bawah not baris terakhir buku tidak mencetak lirik — dibiarkan kosong (_). Di ayat 2 bagian ini berbunyi \"kar'na 'ku tau, Tuhan s'lalu menjaga hidupku\"."
+ ]
+}

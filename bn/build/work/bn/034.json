@@ -1,0 +1,51 @@
+{
+ "be": 34,
+ "variant": "",
+ "bl": 222,
+ "title": "Yesus Kau junjungan kami",
+ "key": "C",
+ "meter": "4/4",
+ "credit": "Philipp Nicolai, 1599",
+ "pages": [
+  42
+ ],
+ "cat": "Hari Minggu",
+ "tempo": 102,
+ "credits": [
+  "Syair: Albert Knapp 1824 (1798-1864)",
+  "Lagu: Philipp Nicolai 1599 (1556-1608)",
+  "Terj.Ind.:Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "1 3 | 5 5 5 5 | 6 . 5 . | 0 5 1' 5 | 1' 3' 2' 1' |\n2' . 5 . | 0 5 1' 5 | 6 3 4 2 | 1 . :|",
+   "rows": [
+    "Ye-sus Kau jun-ju-ngan ka-mi Pe-ne-bus hu-tang do-sa ka-mi De-ngan da-rah-Mu yg ku-dus",
+    "Ye-sus Tu-han Ra-ja ka-mi te-ri-ma roh dan ji-wa ka-mi yg ber-se-rah ke-pa-da-Mu"
+   ]
+  },
+  {
+   "notes": "0 5 | 5 4 3\n2 | 1 . . 5 | 5 4 3 2 | 1 . 2 3 | 4 . 3 5 | 6 7 1'\n1' | 3' 2' 1' . | 0 5 1' 5 | 6 3 4 2 | 1 . |]",
+   "rows": [
+    "I-ni-lah u-mat-Mu je-maat yg Kau te-bus ber-se-ku-tu ku-dus-kan-lah br-ka-ti-lah lin-du-ngi s'la-ma la-ma-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yesus Kau junjungan kami Penebus hutang dosa kami Dengan darahMu yg kudus",
+   "Yesus Tuhan Raja kami terima roh dan jiwa kami yg berserah kepadaMu",
+   "Inilah umatMu jemaat yg Kau tebus bersekutu kuduskanlah brkatilah lindungi s'lama lamanya"
+  ]
+ ],
+ "vnum": [
+  1
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 42 baris 4: 'br ka ti lah' satu kata → br-ka-ti-lah (ejaan buku 'br', maksudnya berkatilah)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

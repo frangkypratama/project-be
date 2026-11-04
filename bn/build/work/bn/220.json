@@ -1,0 +1,72 @@
+{
+ "be": 220,
+ "variant": "",
+ "bl": 142,
+ "title": "Tak ada tanda",
+ "key": "Ab",
+ "meter": "4/4",
+ "credit": "Andreas Sulger, 1830",
+ "pages": [
+  275
+ ],
+ "cat": "Pengakuan dan Kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Albert Knapp 1798-1864",
+  "Lagu: Andreas Sulger 1779-1830",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5,/ | 3 3+2 (2 1)+1 | 4 3+3 2 0+2 | 5 5+3 4 3+2 | 1\n7,+1 2 0+2 | 2 5+2 (3/+.//+2//) 2+5, | 5 #4+3 2 0+7, | 1 1+1\n1 6+6 | 5 7,+7, 1 0/ |]",
+   "rows": [
+    "Tak a-da tan-da mu-sa-fir ra-gu me-nu-ju ke sur-ga ja-lan ber-li-ku bi-la me-ngan-dal-kan pi-ki-ran sa-ja ti-a-da ja-jan se-lain Ye-sus Tu-han"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tak ada tanda musafir ragu menuju ke surga jalan berliku bila mengandalkan pikiran saja tiada jajan selain Yesus Tuhan"
+  ],
+  [
+   "Bila kau lelah kar'na dosamu; Hatimu resah damai pun makin jauh",
+   "Datang pada Yesus, mohon kasih-Nya; Percaya pada-Nya, kau 'kan bahagia"
+  ],
+  [
+   "Rindu hatimu, Sinar yang terang; Hatimu pun bimbang 'kan hidup kekal",
+   "Tuhan yang pengasih telah berseru; Engaku yang merana, percaya teguh!"
+  ],
+  [
+   "Allah mengenal siapa dirimu; Dirancang oleh-Nya jalan hidupmu",
+   "Sekarang kau bimbang nanti kau senang; Tuhanmu penyayang membawa terang"
+  ],
+  [
+   "Pasrahkan semua pada Tuhanmu; Dia 'kan menaklukkan semua musuhmu",
+   "Kendati berjalan di jalan kelam; Teguhkanlah iman Yesus pemenang"
+  ],
+  [
+   "Hatimu jangan biarkan resah; Tuhanmu pemurah memberi berkah",
+   "Roh Kudus menghibur hatimu gemar; Menuju ke Surga, hidup yang tenang"
+  ],
+  [
+   "Dan bila kelak ajalmu tiba; Engkau mengharapkan, kau pasti menang",
+   "Ikutlah Yesus Jurus'lamatmu; Membawa ke Surga tempat bahagia"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 275 baris 2: suku kata 'ber li ku' satu kata → ber-li-ku; 'ja jan' (tertulis begitu di buku, salah ketik untuk 'jalan') satu kata → ja-jan; teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

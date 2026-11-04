@@ -1,0 +1,54 @@
+{
+ "be": 688,
+ "variant": "",
+ "bl": null,
+ "title": "Tuhan 'pabila tutur kataku",
+ "key": "Ab",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  863
+ ],
+ "cat": "Pengakuan dan Pengampunan Dosa",
+ "tempo": 90,
+ "credits": [
+  "Syair: I have wounded any soul today land evening prayer; Cbatterly",
+  "Lagu: Lagu: Charles H. Gabriel, 1856-1932",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 3 .+7, 2+1 3,+5, | 7, .+6, 6, 1 | 7, .+2 4+5, 7,+6, |\n5, .+4, 3, 5, | 3 .+4 5+1 2+3 | 4 .+6, 1 (7,+6,) | (5, 3) .\n2 | 1 . . |]",
+   "rows": [
+    "Tu-han 'pa-bi-la tu-tur ka-ta-ku mem-bu-at sa-kit ha-ti ka-wan-ku Pi-ki-ran ser-ta per-bu-a-tan-ku am-pu-ni-lah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhan 'pabila tutur kataku membuat sakit hati kawanku Pikiran serta perbuatanku ampunilah"
+  ],
+  [
+   "Pabila salah perbuatanku",
+   "Membuat sakit hati kawanku",
+   "Sikapku melawan perintahMu, ampunilah"
+  ],
+  [
+   "Di hadapanMu aku bertelut",
+   "Menyerahkan hidupku padaMu",
+   "Penuhi aku dengan kasihMu, ampunilah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 863 baris 1: ''pa bi la' = satu kata ''pabila' (judul: Tuhan 'pabila tutur kataku)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

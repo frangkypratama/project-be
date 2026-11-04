@@ -1,0 +1,113 @@
+{
+ "be": 361,
+ "variant": "",
+ "bl": 157,
+ "title": "Oh alangkah baiknya",
+ "key": "Bb",
+ "meter": "4/4",
+ "credit": "Johann Georg Ebeling, 1666",
+ "pages": [
+  454,
+  455
+ ],
+ "cat": "Mazmur",
+ "tempo": 104,
+ "credits": [
+  "Syair: Paul Gerhardt 1607-1676",
+  "Lagu: Johann Georg Ebeling 1666 (1637-1676",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 3 5 1' 3' | 2' 2' . 7 | 1' 5 5 .+4 | 3 . . :|",
+   "rows": [
+    "Oh a-lang-kah ba-ik-nya me-mu-ji na-ma-Nya",
+    "De-ngan ki-dung pu-ji-an mas-yur-kan ka-sih-Nya"
+   ]
+  },
+  {
+   "notes": "1' | 5 5 6 6 | 5 5 . 3' | 2' 1' 7 7 | 6 . . 5 | 1' 2' 3'\n1' | 4' . 3' 2' | 1' 1' 1' 7 | 1' . . |]",
+   "rows": [
+    "Maz-mur-kan na-ma Al-lah di pa-gi me-re-kah dan ma-lam me-nya-nyi-kan ka-sih se-ti-a-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Oh alangkah baiknya memuji namaNya",
+   "Dengan kidung pujian masyurkan kasihNya",
+   "Mazmurkan nama Allah di pagi merekah dan malam menyanyikan kasih setiaNya"
+  ],
+  [
+   "Dengan musik yang indah, suara yang merdu",
+   "Nyanyikanlah pujian kepada Allahku",
+   "Dengan bersukacita, bersyukur hatiku",
+   "Kar'na perbuatan-Nya benar, baik dan kudus"
+  ],
+  [
+   "Ajaiblah semuanya, buatan tangan-Nya",
+   "Dan alangkah dalamnya rancangan hikmat-Nya",
+   "Tak mungkin diselami lelaki yang bebal",
+   "Tetapi dipahami orang yang beriman"
+  ],
+  [
+   "Bertumbuh pun penjahat di seluruh dunia",
+   "Bagai semak belukar pasti kering seg'ra",
+   "Mereka 'kan binasa selama-lamanya",
+   "Tuhan yang maha kuasa, mulia selamanya"
+  ],
+  [
+   "MusuhMu sungguh jahat ya Tuhan Allahku",
+   "Semuanya 'kan binasa tak tinggal satupun",
+   "Tetapi Kau tinggikan semua umatMu Kau b'rikan kekuatan memuliakanMu"
+  ],
+  [
+   "Mataku menyaksikan hancurnya seteru",
+   "Hatiku dipuaskan jatuhnya musuhku",
+   "Kau Tuhan menggagalkan rancangan lawanku",
+   "Yang mau membinasakan hamba-Mu Tuhanku"
+  ],
+  [
+   "Bagaikan pohon kurma buahnya makin baik",
+   "Seperti pohon aras, besar dan s'makin baik",
+   "Umat-Mu di bait Allah bertunas dan kekar",
+   "Sampai di hari tua s'makin memberi berkat"
+  ],
+  [
+   "S'makin lebat berbuah dihari tuanya",
+   "S'makin lanjut umurnya, bertambah hikmatnya",
+   "Gemar memberitakan kebaikan Allahnya",
+   "Tuhannya maha kuasa dan ajaib karya-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {
+  "4": {
+   "r": [
+    [
+     "Mu-suh-Mu sung-guh ja-hat ya Tu-han Al-lah-ku",
+     "Se-mua-nya 'kan bi-na-sa tak ting-gal sa-tu-pun"
+    ],
+    [
+     "Te-ta-pi Kau ting-gi-kan se-mu-a u-mat-Mu Kau b'ri-kan ke-ku-a-tan me-mu-li-a-kan-Mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 455)"
+   ]
+  }
+ },
+ "warn": []
+}

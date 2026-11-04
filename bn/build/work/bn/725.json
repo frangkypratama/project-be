@@ -1,0 +1,73 @@
+{
+ "be": 725,
+ "variant": "",
+ "bl": null,
+ "title": "Yesus berfirman",
+ "key": "F",
+ "meter": "2/4",
+ "credit": "Joh. 13:15",
+ "pages": [
+  909
+ ],
+ "cat": "Penahbisan Imam",
+ "tempo": 92,
+ "credits": [
+  "Syair: Pdt. J.A.U Doloksaribu, M.Min 2001",
+  "Lagu: Pdt. J.A.U Doloksaribu, M.Min 2001",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 5+5 | 3 1+1 | 6+6 6+6 | 5 3 | 1+1 1+2 | 3+3 6+5 |\n3+3 5+3 | 2 2 | 5+5 5+5 | 6 6+6 | 5+5 3+5 | 5+3\n2+5, | 1+1 1+2 | 3+3 1+3 | 2+1 3+2 | 1 1",
+   "rows": [
+    "Ye-sus ber-Fir-man ke-pa-da pe-ngi-kut-Nya con-toh dan te-la-dan-Ku be-ri-kan ke-pa-da-mu a-gar kau la-ku-kan se-per-ti yg A-ku la-ku-kan Ber-ba-ha-gi-a-lah ka-mu yg me-la-ku-kan-nya"
+   ]
+  },
+  {
+   "notes": "5,+2\n2+2 2+2 3+2 | 1+3 3+3 3 3 | 5,+2 2+2 2+2 3+2 | 1+1\n1+1 1 1 :|",
+   "rows": [
+    "Ja-di-kan-lah di-ri-mu sa-lu-ran ber-kat Tu-han ba-gi ke-hi-du-pan bang-sa dan ge-re-ja ki-ta"
+   ],
+   "meter": "4/4"
+  }
+ ],
+ "verses": [
+  [
+   "Yesus berFirman kepada pengikutNya contoh dan teladanKu berikan kepadamu agar kau lakukan seperti yg Aku lakukan Berbahagialah kamu yg melakukannya",
+   "Jadikanlah dirimu saluran berkat Tuhan bagi kehidupan bangsa dan gereja kita"
+  ],
+  [
+   "Marilah meneladani Tuhan kita",
+   "Merendahkan diri menebus umat manusia",
+   "Marilah semua saling merendahkan dirinya",
+   "Di dalam pelayanan masyarakat dan g'reja",
+   "Jadikanlah dirimu saluran berkat Tuhan",
+   "Bagi kehidupan bangsa dan gereja kita",
+   "Jadikanlah dirimu saluran berkat Tuhan",
+   "Bagi kehidupan bangsa dan gereja kita"
+  ],
+  [
+   "Marilah kita menghayati FirmanNya",
+   "Jadilah teladan bagi orang yang percaya",
+   "Dalam tutur kata maupun perbuatan kita",
+   "Teladan kasih sayang bagi umat manusia",
+   "Jadikanlah dirimu saluran berkat Tuhan",
+   "Bagi kehidupan bangsa dan gereja kita",
+   "Jadikanlah dirimu saluran berkat Tuhan",
+   "Bagi kehidupan bangsa dan gereja kita"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 909 baris 3: di atas Reff (sesudah '||:') tertulis '4 ketuk' → bagian 2 (Reff) diberi meter 4/4; 2 garis birama yang sebelumnya ditambahkan otomatis (di '1 3 3 3 | 3 3' dan '5̣ 2 2 2 | 2 2 3 2') dihapus sesuai buku: birama Reff = 1‾3 3‾3 3 3 dan 5̣‾2 2‾2 2‾2 3‾2 (garis atas di atas 5̣ 2 terlihat pada perbesaran)",
+  "Koreksi dari gambar halaman: hal. 909 baris 1-2: pemisahan kata 'ber Fir man' = berFirman, 'yg A | ku la ku kan' = yg Aku lakukan; juga di teks ayat 1"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

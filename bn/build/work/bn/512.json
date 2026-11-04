@@ -1,0 +1,82 @@
+{
+ "be": 512,
+ "variant": "",
+ "bl": 352,
+ "title": "Yesus menjalani",
+ "key": "Eb",
+ "meter": "2/4",
+ "credit": "Edwin O. Exell, 1921",
+ "pages": [
+  641,
+  642
+ ],
+ "cat": "Pekabaran Injil",
+ "tempo": 95,
+ "credits": [
+  "Syair: B Kuhn",
+  "Lagu: Edwin O Excell 1851-1921",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3+3 3+4 | 5+5 5+3 | 4 3 | 4 . | 2+3 4+5 | 7+6 5+4 |\n3 4 | 5 . | 3+3 3+4 | 5+5 5+3 | 4 3 | 4 . | 2+3 4+5 |\n7 6 | 5 4 | 3 2 | 1 . | 5 .+5 | 1'+5 5+3 | 4 4 | 4 . |\n4 .+4 | 7+6 5+4 | 3 4 | 5 . | 1' .+1' | 7 6 | 7+7 6+6 |\n5 . | 1'+1' 1'+7 | 7+6 5+4 | 3 2 | 1 . |]",
+   "rows": [
+    "Ye-sus men-ja-la-ni su-ngai da-rat laut nya-ta-kan ka-sih-Nya pa-da-ku dan kau Roh ku-dus-Nya me-ne-me-ni se-la-lu yg meng-ha-pus do-sa-mu dan do-sa-ku Sau-da-ra-ku ma-ri da-tang-lah ba-wa han-dai-to-lan ber-sa-ma Sau-da-ra-ku se-g'ra da-tang-lah ba-wa pa-da Ye-sus te-man se-mu-a"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yesus menjalani sungai darat laut nyatakan kasihNya padaku dan kau Roh kudusNya menemeni selalu yg menghapus dosamu dan dosaku Saudaraku mari datanglah bawa handaitolan bersama Saudaraku seg'ra datanglah bawa pada Yesus teman semua"
+  ],
+  [
+   "Ada kuasa Firmankah di rumahmu? Itukah kau gunakan senjatamu?",
+   "Hikmat yang terindah itu FirmanNya, Akan kau peroleh semua dariNya",
+   "Saudaraku mari datanglah, Bawa handai tolan bersama",
+   "Saudaraku, seg'ra datanglah, Bawa pada Yesus teman semua"
+  ],
+  [
+   "Saudara seiman yang dis'lamatkan, Lindungi dan bawa orang yang sesat",
+   "Agar kedamaian makin nyatalah, Saling mengasihilah sesamanya",
+   "Saudaraku mari datanglah, Bawa handai tolan bersama",
+   "Saudaraku, seg'ra datanglah, Bawa pada Yesus teman semua"
+  ],
+  [
+   "Bila kau cemas dalam pencobaan dan lemah hadapi penderitaan Mari pandang Yesus Jurus'lamatmu kekuatan baru dib'ri padamu Saudaraku mari datanglah bawa handaitolan bersama Saudaraku seg'ra datanglah bawa pada Yesus teman semua"
+  ],
+  [
+   "Sempurnalah sudah sukacitaku, Bila yang sesat kembali padaMu",
+   "Untuk memuliakan Yesus Tuhanku, Karena bertambah masuk rumahMu",
+   "Saudaraku mari datanglah, Bawa handai tolan bersama",
+   "Saudaraku, seg'ra datanglah, Bawa pada Yesus teman semua"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "1 garis birama tidak tertulis di buku (birama berisi 4 ketuk) — ditambahkan agar birama 2/4 terbaca benar.",
+  "Koreksi dari gambar halaman: hal. 641 baris 2: 'me ne me ni' satu kata (ejaan buku) -> me-ne-me-ni; ayat 1 disesuaikan"
+ ],
+ "status": "",
+ "ref": "R.L.No. 533",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Bi-la kau ce-mas da-lam pen-co-ba-an dan le-mah ha-da-pi pen-de-ri-ta-an Ma-ri pan-dang Ye-sus Ju-ru-s'la-mat-mu ke-ku-a-tan ba-ru di-b'ri pa-da-mu Sau-da-ra-ku ma-ri da-tang-lah ba-wa han-dai-to-lan ber-sa-ma Sau-da-ra-ku se-g'ra da-tang-lah ba-wa pa-da Ye-sus te-man se-mu-a"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 642)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

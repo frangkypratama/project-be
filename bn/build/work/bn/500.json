@@ -1,0 +1,55 @@
+{
+ "be": 500,
+ "variant": "",
+ "bl": 226,
+ "title": "Bebanmu berat",
+ "key": "A",
+ "meter": "3/4",
+ "credit": "Georg Friedrich Fickert, 1815",
+ "pages": [
+  628
+ ],
+ "cat": "Pemeliharaan Tuhan",
+ "tempo": 100,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 1 (2+1) | (1 7,) 5, | 2 2 (3+2) | (2 1) 5, | 3 3 3 |\n3 2 (4+2) | (1 . 7,) | 1 . |]",
+   "rows": [
+    "Be-ban-mu be-rat se-rah-kan se-mua pa-da Ye-sus Ma-ha pe-mu-rah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Bebanmu berat serahkan semua pada Yesus Maha pemurah"
+  ],
+  [
+   "Hatimu resah tiada berkat",
+   "Serahkan semua pada Tuhan"
+  ],
+  [
+   "Hatimu tenang, hidupmu senang",
+   "Kar'na kau dihiburkan Tuhan"
+  ],
+  [
+   "Hati yang resah dibuang seg'ra",
+   "Oleh Tuhan Yesus Pemurah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [],
+ "status": "",
+ "ref": "R.L.No. 400",
+ "vl_direct": {},
+ "warn": []
+}

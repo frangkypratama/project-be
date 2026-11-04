@@ -1,0 +1,79 @@
+{
+ "sections": [
+  {
+   "notes": "3 .+3 3+3 #2+3 | 4 . 3 2 | 1 .+1 1+1 7,+1 | 3 . 2 5, | 3 .+3\n3+3 #2+3 | 4 . 3 2 | 1 .+1 1+7, 6,+7, | 1 . 2",
+   "rows": [
+    "Ye-sus tun-tun-lah lang-kah-ku kar'-na ha-ri-ku 'kan ber-la-lu Ge-lap su-nyi se-ke-li-ling-ku pa-bi-la ku jauh da-ri-Mu De"
+   ]
+  },
+  {
+   "notes": "2 .+2 2+3\n4+3 | 3 . 1 3 | 3 .+3 #4+#4 #4+#4 | 5 . . 5 | 5 .+5 5+5\n4+3 | 4 . 1 2 | 3 .+3 3+2 1+2 | 1 . . 2 |",
+   "rows": [
+    "ngan ma-lai-kat-ku me-la-yang ter-bang ke sur-ga yg su-ci Ting-gal-lah du-ni-a yg fa-na ji-wa-ku ber-se-ri se-ri De"
+   ]
+  },
+  {
+   "notes": "2 .+2 2+3\n4+3 | 3 . 1 3 | 3 .+3 #4+#4 #4+#4 | 5 . . 5 | 5 .+5 5+5\n4+3 | 4 . 6 6 |\n5/+.//+3// 1/+.//+2// 3 2 | 1 . . 0 |]",
+   "rows": [
+    "ngan ma-lai-kat-ku me-la-yang ter-bang ke sur-ga yg su-ci Ting-gal-lah du-ni-a yg fa-na ji wak-tu ber-se-ri se-ri"
+   ]
+  }
+ ],
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Nya-nyi-an ma-lai-kat sur-ga me-nyam-but pe-me-nang yg da-tang Tia-da ta-ngis dan a-ir ma-ta ba-ha-gia hi-dup s'la-ma-nya Ko"
+    ],
+    [
+     "ta Ye-ru-sa-lem yg ba-ru tem-pat ku-dus dan mu-li-a Di sa-na Al-lah ber-sa-ma-ku dan hi-dup s'la-ma la-ma-nya Ko"
+    ],
+    [
+     "ta Ye-ru-sa-lem yg ba-ru tem-pat ku-dus dan mu-li-a Di sa-na Al-lah ber-sa-ma-ku dan hi-dup s'la-ma la-ma-nya"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 1033)"
+   ]
+  }
+ },
+ "verses": [
+  [
+   "Yesus tuntunlah langkahku kar'na hariku 'kan berlalu",
+   "Gelap sunyi sekelilingku pabila ku jauh dariMu",
+   "Dengan malaikatku melayang terbang ke surga yg suci",
+   "Tinggallah dunia yg fana jiwaku berseri-seri",
+   "Dengan malaikatku melayang terbang ke surga yg suci",
+   "Tinggallah dunia yg fana ji waktu berseri-seri"
+  ],
+  [
+   "Yesus tuntunlah langkahku, kar'na hariku 'kan berlalu",
+   "Engkau berjalan bersamaku, hingga di akhir hidupku",
+   "Walau kuburan t'lah terbuka, aku tak takut dan gentar",
+   "Pada waktunya dibangkitkan yang tidur dalam kuburnya",
+   "Walau kuburan t'lah terbuka, aku tak takut dan gentar",
+   "Pada waktunya dibangkitkan yang tidur dalam kuburnya"
+  ],
+  [
+   "Nyanyian malaikat surga menyambut pemenang yg datang",
+   "Tiada tangis dan air mata bahagia hidup s'lamanya",
+   "Kota Yerusalem yg baru tempat kudus dan mulia",
+   "Di sana Allah bersamaku dan hidup s'lama-lamanya",
+   "Kota Yerusalem yg baru tempat kudus dan mulia",
+   "Di sana Allah bersamaku dan hidup s'lama-lamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "note": [
+  "hal. 1032: pemisahan kata 'ha ri ku kan' = hariku 'kan, 'se ke li ling ku' = sekelilingku, 'pa bi la ku', 'ber se ri se ri' = berseri-seri.",
+  "hal. 1032 baris 3: 'ku me la yg ter bang' — 'yg' di sini singkatan 'yang' dari kata 'melayang' (me-la-yang, 3 not: 3 . 1) → 'me-la-yang'.",
+  "hal. 1032 volta 2: buku mencetak 'fa na ji | wak tu ber se ri' (kemungkinan salah cetak dari 'jiwaku'), dibiarkan sesuai cetakan.",
+  "Volta 1./2. sudah diurai assembler menjadi bagian 2 & 3 (struktur tidak diubah).",
+  "ayat 1 & 3 (hal. 1033) dipecah per baris; teks ayat 3 'Ko / ta' disatukan jadi 'Kota'; vl_direct ayat 3 'Di-sa-na' → 'Di sa-na'."
+ ]
+}

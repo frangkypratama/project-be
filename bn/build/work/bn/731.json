@@ -1,0 +1,72 @@
+{
+ "be": 731,
+ "variant": "",
+ "bl": null,
+ "title": "Setialah",
+ "key": "Bb",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  917
+ ],
+ "cat": "Pergumulan dan Penderitaan",
+ "tempo": 82,
+ "credits": [
+  "Syair: Sel Nur getreu; Christoph Blumhard, 1888",
+  "Lagu: Conrad Kocher, 1838",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1' 7 1' | 2' . . 5 | 1' 7 1' 2' | 3' 3' 6 (4'+3') | 2' 2' |\n1' :|",
+   "rows": [
+    "Se-ti-a-lah di da-lam du-ka-mu Ye-sus be-ser-ta-mu",
+    "Se-ti-a-lah di ja-lan yg ter-jal Ye-sus me-no-long-mu"
+   ]
+  },
+  {
+   "notes": "5 1' 1' | 7 6 2' 6 | 7 . . . | 6 2' 3' 7 | 1' 1'\n4' 3' | (2' 1') 2' 5 | 6 . 7 . | 1' |]",
+   "rows": [
+    "'Kan da-tang Ra-ja yg ber-ja-ya Pe-no-long o-rang yg per-ca-ya se-ti-a-lah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Setialah di dalam dukamu Yesus besertamu",
+   "Setialah di jalan yg terjal Yesus menolongmu",
+   "'Kan datang Raja yg berjaya Penolong orang yg percaya setialah"
+  ],
+  [
+   "Setialah, kuatkan hatimu percaya janjiNya",
+   "Setialah, berjuanglah terus kau pasti 'kan menang",
+   "T'lah diremukkan rantai setan",
+   "Oleh Tuhan Sang Jurus'lamat, setialah"
+  ],
+  [
+   "Setialah, berdoalah terus jangan kau terlelap",
+   "Setialah, mahkota bagimu sesudah kau menang",
+   "Walau bertambah duka lara",
+   "Akhirnya nanti sukacita, setialah"
+  ],
+  [
+   "Setialah, kepada Tuhanmu meski maut kau tempuh",
+   "Setialah, sedia upahmu di tangan Tuhanmu",
+   "Mahkota hidup diberiNya",
+   "Damai di Surga selamanya, setialah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Birama berganti: 4 & 2 ketuk (lihat buku)."
+ ],
+ "status": "",
+ "vl_direct": {},
+ "meter2": 2,
+ "warn": []
+}

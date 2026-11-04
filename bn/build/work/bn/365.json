@@ -1,0 +1,65 @@
+{
+ "be": 365,
+ "variant": "",
+ "bl": 167,
+ "title": "Halleluyah! Pujilah",
+ "key": "D",
+ "meter": "4/4",
+ "credit": "Matthias Joristen, 1739-1823",
+ "pages": [
+  466
+ ],
+ "cat": "Mazmur",
+ "tempo": 104,
+ "credits": [
+  "Syair: Matthias",
+  "Lagu: Jenewa 1567",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 3 2 1 | 3 #4 5 . :|",
+   "rows": [
+    "Hal-le-lu-yah pu-ji-lah",
+    "Al-lah di ha-di-rat-Nya"
+   ]
+  },
+  {
+   "notes": "3 6 5 1' | 1' 7 1' . | 5 1'\n6 5 | 5 #4 5 . | 3 5 6 5 | 4 3 2 1 | 1 4 3 2 | 3 #4\n5 . | 1 4 3 2 | 3 #4 5 . | 1' 6 5 4 | 3 2 1 1 |]",
+   "rows": [
+    "Mu-li-a-kan na-ma-Nya hing-ga ca-kra-wa-la-Nya a-tas ke-per-ka-sa-an-Nya pu-ji Kha-lik se-mes-ta Al-lah yg Ma-ha E-sa kar'-na ke-a-gu-ngan Al-lah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Halleluyah pujilah",
+   "Allah di hadiratNya",
+   "Muliakan namaNya hingga cakrawalaNya atas keperkasaanNya puji Khalik semesta Allah yg Maha Esa kar'na keagungan Allah"
+  ],
+  [
+   "Puji Allah yang esa, sangkakala tiuplah",
+   "Dan bunyikan rebana, seruling dan ceracap",
+   "Mari serentak bunyikan juga tari-tarian",
+   "Padukanlah semuanya bagi kemuliaan Tuhan"
+  ],
+  [
+   "Dengan musik yang megah, puji Allah semesta",
+   "Dengan hati gembira hanya itu yang benar",
+   "Untuk memuliakan Allah semua yang bernyawa",
+   "Mari datang menyembah, menyanyikan Haleluya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 466 baris 2: 'ke-per-ka-sa-an-Nya' disambung"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

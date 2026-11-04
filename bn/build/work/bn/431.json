@@ -1,0 +1,64 @@
+{
+ "be": 431,
+ "variant": "",
+ "bl": 291,
+ "title": "Ada seorang perempuan",
+ "key": "D",
+ "meter": "6/8",
+ "credit": "George Frederick Root, 1895",
+ "pages": [
+  547
+ ],
+ "cat": "Penghayatan Akan Keselamatan",
+ "tempo": 104,
+ "credits": [
+  "Syair: George Frederick Root 1820-1895",
+  "Lagu: George Frederick Root 1820-1895",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5 | 5 . 5 5 . 5 | (5 #4) 5 6 5 3 | 2 . 3 5 . 4 |\n(3 . . 3) . 5 | 5 . 5 5 . 5 | (5 #4) 5 6 5 6 | 2' . 1'\n7 . 6 | (5 . . 5) . | 5 | 1' . 1' 7 6 5 | 6 . . 5 .\n5 | 6 . 1' 5 . 3 | (2 . . 2) . 2 | 3 . 3 5 . 5 | 1' .\n1' (2' 1') 6 | 5 . 5 6 . 7 | (1' . . 1') . |]",
+   "rows": [
+    "A-da se-o-rang pe-rem-pu-an da-tang meng-ham-pi-ri men-ja-mah rum-bai ju-bah Ye-sus se-g'ra di-a sem-buh De-ngan e-rat pe-gang Ye-sus dan ya-kin-lah te-guh ji-wa-mu men-ja-di sem-buh o-leh Tu-han Ye-sus"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Ada seorang perempuan datang menghampiri menjamah rumbai jubah Yesus seg'ra dia sembuh Dengan erat pegang Yesus dan yakinlah teguh jiwamu menjadi sembuh oleh Tuhan Yesus"
+  ],
+  [
+   "Tegarkanlah hatimu datang kepada Tuhanmu",
+   "Katakanlah pada-Nya semua sakit deritamu",
+   "Dengan erat pegang Yesus dan yakinlah teguh",
+   "Jiwamu menjadi sembuh oleh Tuhan Yesus"
+  ],
+  [
+   "Katakan saja kebenaran, nyatakan semua",
+   "Dia tak menolak yang datang, besar pun dosanya",
+   "Dengan erat pegang Yesus dan yakinlah teguh",
+   "Jiwamu menjadi sembuh oleh Tuhan Yesus"
+  ],
+  [
+   "Dan bila engkau telah sembuh oleh kasih Tuhan",
+   "Katakanlah besar kasih-Nya pada semua orang",
+   "Dengan erat pegang Yesus dan yakinlah teguh",
+   "Jiwamu menjadi sembuh oleh Tuhan Yesus"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 547 baris 2: \"men ja mah rum bai\" -> \"men-ja-mah rum-bai\""
+ ],
+ "status": "",
+ "ref": "Ev.L.No. 90",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

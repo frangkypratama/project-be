@@ -1,0 +1,67 @@
+{
+ "be": 509,
+ "variant": "",
+ "bl": 349,
+ "title": "Tanaman rumput pun",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "N.N",
+ "pages": [
+  638
+ ],
+ "cat": "Pemeliharaan Tuhan",
+ "tempo": 104,
+ "credits": [
+  "Syair: Ay. 1-2 Wuppertal; ay. 3-4 Karl Kuhlo 1818-1909",
+  "Lagu:",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 3 3 3 3 | 3 . 0 2 | 4 4 (4+6) (5+4) | 3 . 0 (3+4) |\n5 (4+3) 1' 6 | 6 .+5 5 3 | 3 2 (2+6) (5+4) | 4 .+3 3\n(1+3) | 5 . 4 . | 3 . 0 (1+3) | 5 . 4 . | 3 . 0 |]",
+   "rows": [
+    "Ta-na-man rum-put-pun dan bu-nga gu-gur-lah Dan ke-be-sa-ran du-nia-pun be-rak-hir se-per-ti de-bu dan ber-la-lu dan ber-la-lu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tanaman rumputpun dan bunga gugurlah Dan kebesaran duniapun berakhir seperti debu dan berlalu dan berlalu"
+  ],
+  [
+   "Kegembiraan pun sebentar berlalu",
+   "Bagai semua permainan akan berakhir segera",
+   "Tiada tetap, tiada tetap"
+  ],
+  [
+   "Tetapi carilah kehidupan baka",
+   "Roh Kudus, Roh Penghiburmu, diutus Yesus Tuhanmu",
+   "Dan pintalah, dan pintalah"
+  ],
+  [
+   "Sedih dan duka pun yang datang padaku",
+   "Semua dipakai Tuhanku untuk membina diriku",
+   "Membinaku, membinaku"
+  ],
+  [
+   "Oh bahagianya orang yang beriman",
+   "Dosanya diampuni-Nya, dia dit'rima Tuhan-Nya",
+   "Di rumah-Nya, di rumah-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 638 baris 1-2: 'gu gur lah' -> gu-gur-lah, 'ke be sa ran' -> ke-be-sa-ran; ayat 1 disesuaikan"
+ ],
+ "status": "",
+ "ref": "M.H.No. 244",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

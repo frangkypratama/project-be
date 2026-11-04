@@ -1,0 +1,80 @@
+{
+ "be": 58,
+ "variant": "",
+ "bl": 123,
+ "title": "Tumbuhlah tunas baru",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Louis Bourgeois, 1551",
+ "pages": [
+  71
+ ],
+ "cat": "Natal",
+ "tempo": 100,
+ "credits": [
+  "Syair: Friedrich Layritz 1844 (1808-1859)",
+  "Lagu: Michael Praetorius 1609 (1572-1621)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 . 5 5 | 6 5 5 . | 3 . 4 . | 3 2 . (1 | 1) 7,\n1 . :|",
+   "rows": [
+    "Tum-buh-kah tu-nas ba-ru da-ri tung-gul I-sai",
+    "Di-nu-bu-at-kan du-lu o-leh pa-ra na-bi"
+   ]
+  },
+  {
+   "notes": "0 3 2 7, | 1 6, 5, . | 0 5 5 5 | 6 5 5 . |\n3 . 4 . | 3 2 . (1 | 1) 7, 1 . |]",
+   "rows": [
+    "Jan-ji-Nya t'lah pe-nuh Se-o-rang Pu-t'ra la-hir di ma-lam yg ku-dus"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tumbuhkah tunas baru dari tunggul Isai",
+   "Dinubuatkan dulu oleh para nabi",
+   "JanjiNya t'lah penuh Seorang Put'ra lahir di malam yg kudus"
+  ],
+  [
+   "Yesaya nubuatkan tunas masa depan",
+   "Itu yang dilahirkan Maria Bunda-Nya",
+   "Genaplah janji-Nya, Sang Putra Tunggal Allah",
+   "Dib'ri pada kita"
+  ],
+  [
+   "Dia sangat rupawan bersinar wajah-Nya",
+   "Walaupun Dia papa di mata dunia",
+   "Dia memb'ri terang ke dalam hati kita",
+   "Di dunia yang kelam"
+  ],
+  [
+   "Muliakan Tuhan Allah, besar anug'rah-Nya",
+   "Anak-Nya diberikan menebus manusia",
+   "Agungkan nama-Nya dengan hati ceria",
+   "Mengingat rahmat-Nya"
+  ],
+  [
+   "Ya Yesus Tuhan kami, Kau datang ke dunia",
+   "Untuk melawat kami yang hidup sengsara",
+   "Ya Tuhan tolonglah, pimpinlah langkah kami",
+   "Ke Surga yang baka"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 71: pemisahan kata lirik diperbaiki: 'tung gul I sai' → 'tung-gul I-sai' (tunggul Isai), 'Di nu-bu-at-kan' → 'Di-nu-bu-at-kan' (dinubuatkan), 'di-ma-lam' → 'di ma-lam'; teks ayat 1 disesuaikan",
+  "Koreksi dari gambar halaman: catatan: lirik birama 1 tercetak 'Tum buh kah' padahal judul 'Tumbuhlah' — dibiarkan sesuai cetakan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

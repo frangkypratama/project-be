@@ -1,0 +1,91 @@
+{
+ "be": 76,
+ "variant": "",
+ "bl": 199,
+ "title": "Hanya satu hal",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Albert Kanpp, 1748",
+ "pages": [
+  92,
+  93
+ ],
+ "cat": "Sengsara Tuhan Yesus dan Jumat Agung",
+ "tempo": 100,
+ "credits": [
+  "Syair: Albert Kanpp 1829 (1798-1864)",
+  "Lagu: Hernnhut 1748",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 1 6, 2 | 1 7, 1 5 | 3 . 1 . | 1 1 6, 4 | 3 2\n1 . :|",
+   "rows": [
+    "Ha-nya sa-tu hal yg ku i-ngin-kan da-lam du-nia yg fa-na",
+    "Pas-ti hi-dup-ku ber-su-ka-ci-ta bi-la-ku men-da-pat-nya"
+   ]
+  },
+  {
+   "notes": "7, 1 2 5 | 5 4 4 3 | 3 . 2 . | 7, 1 2 5 |\n5 4 4 3 | 3 . 2 . | 1 1 6, 4 | 3 2 1 . | 1 1 6, 4 |\n3 . 2 . | 1 . . . |]",
+   "rows": [
+    "A-kan ku-ke-nang s'la-ma hi-dup-ku pe-ngor-ba-nan Ye-sus ke-pa-da-ku Ye-sus ma-ti ba-gi-ku di-te-bus-Nya do-sa-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hanya satu hal yg ku inginkan dalam dunia yg fana",
+   "Pasti hidupku bersukacita bilaku mendapatnya",
+   "Akan kukenang s'lama hidupku pengorbanan Yesus kepadaku Yesus mati bagiku ditebusNya dosaku"
+  ],
+  [
+   "Yesus tak 'kan mungkin 'ku lupakan, saat Dia disesah",
+   "Pada salib Ia digantungkan, bercucuran darah-Nya",
+   "Kar'na aku Dia menderita, agar aku menjadi milik-Nya",
+   "Kata: “Sudahlah genap.”, maka aku pun s'lamat"
+  ],
+  [
+   "Yesus tolong aku diingatkan dosaku dan rahmatMu",
+   "Saat aku dalam kegelapan Kau lapangkan hatiMu",
+   "Yg telah lama Engkau mencari aku yg sesat agar tak mati Kau korbankan dirimu membebaskan jiwaku"
+  ],
+  [
+   "Kepada-Mu Tuhan, 'ku serahkan seluruhnya hidupku",
+   "Katakanlah amin, dan ukirkan nama-Mu di hatiku",
+   "Kehendak-Mulah 'ku utamakan dalam apapun yang 'ku kerjakan",
+   "Itu janji tekadku kepada-Mu, Tuhanku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 93: halaman bernot kedua berlabel 'Ayat 1' tetapi isinya ayat 3 (hal. 92 berisi ayat 1 + teks ayat 2, hal. 93 berisi teks ayat 4) → lirik hal. 93 dipindah dari ayat 1 ke ayat 3 (vl_direct '0' → '2'); ayat 1 dikembalikan ke lirik hal. 92 'Hanya satu hal ...'; vnum 1-4",
+  "Koreksi dari gambar halaman: hal. 93: pemisahan kata 'la pang kan' → 'la-pang-kan' (lapangkan)"
+ ],
+ "status": "",
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Ye-sus to-long a-ku di-i-ngat-kan do-sa-ku dan rah-mat-Mu",
+     "Sa-at a-ku da-lam ke-ge-la-pan Kau la-pang-kan ha-ti-Mu"
+    ],
+    [
+     "Yg te-lah la-ma Eng-kau men-ca-ri a-ku yg se-sat a-gar tak ma-ti Kau kor-ban-kan di-ri-mu mem-be-bas-kan ji-wa-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 93; buku keliru menulis label 'Ayat 1')"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": [
+  "nomor ayat: [1, 2, 4]"
+ ]
+}

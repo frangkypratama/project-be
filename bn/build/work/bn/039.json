@@ -1,0 +1,121 @@
+{
+ "be": 39,
+ "variant": "",
+ "bl": 156,
+ "title": "'Ku harus bagaimana",
+ "key": "C",
+ "meter": "4/4",
+ "credit": "Melchoir Teschner, 1613",
+ "pages": [
+  48,
+  49
+ ],
+ "cat": "Adventus",
+ "tempo": 104,
+ "credits": [
+  "Syair: Paul Gerhardt 1648 (1607-1676)",
+  "Lagu: Melchior Teschner 1613 (1584-1635)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 5 5 6 7 | 1' . 1' 3' | 2' 1' 6 7 | 1' . . :|",
+   "rows": [
+    "'Ku ha-rus ba-gai-ma-na me-nyam-but Tu-han-ku",
+    "Dan me-nge-lu-e-lu-kan da-tang-Mu Ra-ja-ku"
+   ]
+  },
+  {
+   "notes": "1' | 3' 3' 2' 1' | 2' . 7 5 | 1' 7 6 6 | 5 . . 5 | 3 5\n6 5 | 5 . 3 5 | 6 1' 1' 7 | 1' . . |]",
+   "rows": [
+    "Te-ra-ngi-lah ji-wa-ku yg bo-doh dan ke-lam A-gar per-bu-a-tan-ku me-mu-ji-Mu Tu-han"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "'Ku harus bagaimana menyambut Tuhanku",
+   "Dan mengelu-elukan datangMu Rajaku",
+   "Terangilah jiwaku yg bodoh dan kelam Agar perbuatanku memujiMu Tuhan"
+  ],
+  [
+   "Penghuni kota Sion, bersorak bagi-Mu",
+   "Jiwaku pun menyongsong datang-Mu Tuhanku",
+   "Dengan hati ceria, 'ku puji nama-Mu",
+   "Kerja dan rancanganku, sesuai maksud-Mu"
+  ],
+  [
+   "Semuanya sempurna, karya-Mu Tuhanku",
+   "Kau pulihkan hatiku dengan anug'rah-Mu",
+   "Hidupku menderita karena dosaku",
+   "Syukur Tuhanku datang, bahagia hidupku"
+  ],
+  [
+   "Mengapa Kau tinggalkan, tahta-Mu Tuhanku",
+   "Kau rela menderita, menebus umat-Mu",
+   "Hanya kar'na kasih-Mu kepada dunia",
+   "Agar tidak binasa yang datang pada-Mu"
+  ],
+  [
+   "Di saat ku terpasung Kau datang padaku",
+   "Kau buang rantai dosa yg membelengguku",
+   "Segala aib dan nista Kau hapus dariku dan b'ri kemuliaan padaku hambaMu"
+  ],
+  [
+   "Dan kamu yang berduka, kuatkan hatimu",
+   "Dengar berita Surga, penghibur hatimu",
+   "Sang Jurus'lamat dunia, t'lah datang padamu",
+   "Memb'ri damai sejaht'ra, bahagia bagimu"
+  ],
+  [
+   "Tak usah kau kuatir terhadap musuhmu",
+   "Rajamu sudah hadir, pelindung bagimu",
+   "Semua musuh Tuhan, 'kan lahir dan lenyap",
+   "Kuasa kemenangan-Nya, kekal selamanya"
+  ],
+  [
+   "Dia kan kembali nanti, menghukum dunia",
+   "Mengutuk orang fasik, menyambut umat-Nya",
+   "Semua yang dibenarkan, hatinya bergemar",
+   "Menyanyikan pujian, kepada Tuhannya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 48: Buku Logu tertulis 156 (data kosong) → bl 156",
+  "Koreksi dari gambar halaman: hal. 48: pemisahan kata me-nge-lu-e-lu-kan, bo-doh",
+  "Koreksi dari gambar halaman: hal. 49: ayat 5 (tertulis di bawah not, tidak ada di data) ditambahkan ke verses/vnum dan vl_direct; jumlah suku kata sama dgn ayat 1, tetapi birama 'a an pa' ayat 5 berirama 5 3 . 5 (ayat 1: 5 . 3 5) — beda irama tidak dimodelkan"
+ ],
+ "status": "",
+ "vl_direct": {
+  "4": {
+   "r": [
+    [
+     "Di sa-at ku ter-pa-sung Kau da-tang pa-da-ku",
+     "Kau bu-ang ran-tai do-sa yg mem-be-leng-gu-ku"
+    ],
+    [
+     "Se-ga-la aib dan nis-ta Kau ha-pus da-ri-ku dan b'ri ke-mu-li-a-an pa-da-ku ham-ba-Mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 49); di sana birama 'a an . pa' bernot 5 3 . 5 (ayat 1: 5 . 3 5)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": [
+  "not ayat 5 (hal. [49]) beda dengan ayat 1; liriknya dipasang dari teks",
+  "nomor ayat: [1, 2, 3, 4, 6, 7, 8]"
+ ]
+}

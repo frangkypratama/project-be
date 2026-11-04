@@ -1,0 +1,68 @@
+{
+ "be": 416,
+ "variant": "",
+ "bl": 403,
+ "title": "Aku datang",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Julius Anton Von Poseck,",
+ "pages": [
+  530
+ ],
+ "cat": "Sengasara Yesus dan Jumat Agung",
+ "tempo": 104,
+ "credits": [
+  "Syair: Julius Anton von Poseck 1816-1896",
+  "Lagu: Johann Sorensen",
+  "Terj.Ind.: Tinagam Siallagan ST, MBA"
+ ],
+ "sections": [
+  {
+   "notes": "3 .+5 5 4 | 4 3 2 1 | 7, 1 4 3 | 6 4 (3 2) | 2 3 4\n3 | 6 5 7 1' | 6 7 1' 3 | 4 2 1 . |]",
+   "rows": [
+    "A-ku da-tang ya Tu-han-ku Ku cu-rah-kan ha-ti-ku de-ngar do-a ra-ta-pan-ku t'ri-ma per-mo-ho-nan-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Aku datang ya Tuhanku Ku curahkan hatiku dengar doa ratapanku t'rima permohonanku"
+  ],
+  [
+   "'Ku menyesali diriku atas semua dosaku",
+   "Banyak waktuku berlalu tanpa arti bagi-Mu"
+  ],
+  [
+   "Sering kali 'ku tinggalkan jalan kebenaran-Mu",
+   "Bahkan jalan kematian, t'lah memikat hatiku"
+  ],
+  [
+   "Aku menyesal dan malu datang ke hadirat-Mu",
+   "Tuhan ampuni dosaku, kasihani hamba-Mu"
+  ],
+  [
+   "'Ku berjanji ya Tuhanku, akan ikut jalan-Mu",
+   "Surga jadi tujuanku, Yesus tuntun langkahku"
+  ],
+  [
+   "'Ku mau ikut Dikau Tuhan, kuatkanlah hatiku",
+   "Itu janjiku pada-mu, jadilah kehendak-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 530 baris 1: 'A ku-da-tang ya Tu-han-ku-ku cu-rah-kan' -> 'A-ku da-tang ya Tu-han-ku Ku cu-rah-kan'"
+ ],
+ "status": "",
+ "ref": "M.H.No. 140",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,69 @@
+{
+ "be": 65,
+ "variant": "",
+ "bl": 129,
+ "title": "Tahun yang baru bagiku",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "Nikolaus Decius, 1522",
+ "pages": [
+  81
+ ],
+ "cat": "Tahun baru",
+ "tempo": null,
+ "credits": [
+  "Syair: Samuel Preiswerk 1799-1871",
+  "Lagu: Nikolaus Decius 1522 (1485-1546)",
+  "Terj.Ind.: Tem Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 3 . 4 | 5 . 4 | 3 . 2 | 3 . 3 | 3 . 2 |\n(4 3) 2 | (1 6, 7,) | 1 . :|",
+   "rows": [
+    "Ta-hun yg ba-ru ba-gi-ku di-b'ri-kan Tu-han Ye-sus",
+    "Ber-kat ka-sih-Nya pa-da-ku ran-ca-ngan-Nya ter-wu-jud"
+   ]
+  },
+  {
+   "notes": "1 | 2 . 3 | 4 . 3 | 2 .\n#1 | 2 . 2 | 3 . 4 | 5 . 4 | 3 . 2 | 3 . 1 | 2 . 4 |\n3 . 2 | (1 6, 7,) | 1 . |]",
+   "rows": [
+    "Di-a mem-bim-bing di-ri-ku da-lam se-ti-ap lang-kah-ku ba-ha-gia-lah hi-dup-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tahun yg baru bagiku dib'rikan Tuhan Yesus",
+   "Berkat kasihNya padaku rancanganNya terwujud",
+   "Dia membimbing diriku dalam setiap langkahku bahagialah hidupku"
+  ],
+  [
+   "'Ku puji Kau dan 'ku sembah, ya Yesus Kau Tuhanku",
+   "Kau tiada pernah berlelah memb'ri kebutuhanku",
+   "'Ku ukir dalam hatiku, betapa banyak berkat-Mu",
+   "Penolong yang setia"
+  ],
+  [
+   "Sekarang dan masa depan, Engkaulah andalanku",
+   "Walau berakhir dunia aku tetap setia",
+   "Di dalam suka duka pun dan kala hidup mati pun",
+   "Tuhan, Engkau setia"
+  ],
+  [
+   "Berikan hormat, pujian, hai umat manusia",
+   "Kepada Bapa, Putra-Nya, dan Roh Kudus-Nya juga",
+   "Aminkanlah pujianku, ikutilah percayaku",
+   "Kepada Tuhan Allah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

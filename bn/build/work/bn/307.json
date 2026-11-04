@@ -1,0 +1,86 @@
+{
+ "be": 307,
+ "variant": "",
+ "bl": 208,
+ "title": "T'rang matahari",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "Johann Georg Ebeling, 1666",
+ "pages": [
+  379,
+  380
+ ],
+ "cat": "Nyanyian Pagi Hari",
+ "tempo": 102,
+ "credits": [
+  "Syair: Paul Gerhardt 1666 (1607-1676)",
+  "Lagu: Johann Georg Ebeling 1666 (1637-1676)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 5 6 | (5 .+4) 3 | 5 4 2 | (3 .+2) 1 | 3 4 5 | 6 . 6 |\n2 3 4 | 5 . 5 | 1 1 2 | 3 .+4 5 | 2 1 7, | 1 . . |\n5 5 4 | 3 3 2 | 1 .+7, 6, | 7, 5, 0 | 1 1 2 | 3 3 2 |\n3 .+3 #4 | 5 5 0 | 3 1 2 | 3 .+4 5 | 2 1 7, | 1 . . |]",
+   "rows": [
+    "Trang ma-ta-ha-ri di pa-gi ha-ri t'lah me-ne-ra-ngi dan me-nyi-na-ri 'tuk bu-mi ke-ha-nga-tan-nya di-b'ri ku me-nik-ma-ti ti-dur ma-lam ta-di di sa-at i-ni a-ku me-nik-ma-ti be-ta-pa in-dah si-nar yg di-b'ri"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Trang matahari di pagi hari t'lah menerangi dan menyinari 'tuk bumi kehangatannya dib'ri ku menikmati tidur malam tadi di saat ini aku menikmati betapa indah sinar yg dib'ri"
+  ],
+  [
+   "Aku melihat indahnya alam; Sangat sempurna dan menakjubkan",
+   "Ciptaan Allah yang Maha Esa; Aku melihat dan tetap berharap",
+   "Harta warisan yang ada di Surga; Bagi semua orang beriman"
+  ],
+  [
+   "Kita nyanyikan kidung pujian; Dan persembahkan kurban syukuran",
+   "Bagi kemuliaan nama-Nya; Berilah persembahan yang terindah",
+   "Hati dan nyanyianmu itu dupa; Yang sangat berkenan kepada-Nya"
+  ],
+  [
+   "Pagi dan malam Tuhan memb'rikan berkat dan rahmat bagi umatNya yg beriman dan setia padaNya di waktu malam Tuhan yg berjaga di waktu siang Dia menerbitkan surga bagi makhluk ciptaanNya"
+  ],
+  [
+   "Tuhan memb'rikan kebahagiaan; Kalaupun duka ditimpakan-Nya",
+   "Semua berguna untuk umat-Nya; Allah mengatur kehidupan kita",
+   "Dia menuntun umat-Nya ke Surga; Penderitaan pun jadi berkat"
+  ],
+  [
+   "Tiap derita akan berakhir; Malam berlalu kabut tersingkir",
+   "Tertiup angin dari tempatnya; Tuhan memb'rikan kita sukacita",
+   "Dan bahagia yang baka di Surga; Sesudah kita tiba di sana"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 379: judul tertulis \"Buku Lagu: 208\" → bl 208 (ekstraksi kosong)",
+  "Koreksi dari gambar halaman: hal. 379 lirik ayat 1: pemisahan kata \"dib'ri ku menikmati\", \"di saat\"",
+  "Koreksi dari gambar halaman: hal. 380 ayat 4 (bernot): \"me ner bit kan\" → \"menerbitkan\""
+ ],
+ "status": "",
+ "ref": "Buku Lagu: 208",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Pa-gi dan ma-lam Tu-han mem-b'ri-kan ber-kat dan rah-mat ba-gi u-mat-Nya yg ber-i-man dan se-tia pa-da-Nya di wak-tu ma-lam Tu-han yg ber-ja-ga di wak-tu si-ang Di-a me-ner-bit-kan sur-ga ba-gi makh-luk cip-ta-an-Nya"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 380)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

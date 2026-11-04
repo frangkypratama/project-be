@@ -1,0 +1,51 @@
+{
+ "be": 513,
+ "variant": "",
+ "bl": 394,
+ "title": "Terhampar luas padi",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "George Friderick Root, 1895",
+ "pages": [
+  643
+ ],
+ "cat": "Pekabaran Injil",
+ "tempo": 100,
+ "credits": [
+  "Syair: Eben E Rexford",
+  "Lagu: George Friderick Root 1820-1895",
+  "Terj.Ind.: Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 1/+.//+1// 1 2/+.//+3// | 5, 6, 5, 0+1 | 2 2/+.//+2// 2 3/+.//+2// |\n1 6, 1 0+1 | 3 3/+.//+3// 3 3/+.//+3// | 4 4 4 0+4 | 5 5/+.//+5//\n5 4/+.//+2// | 1 7, 1 0 | 5 5/+.//+5// 5+5 0+5, | 1 2 3 0+3 |\n4 4/+.//+4// 4+3 5+3 | 2 2 2 0+2 | 3 3 3+3 0+3 | 4 4 4\n0+4 | 5 5+5 5 4/+.//+2// | 1 7, 1 |]",
+   "rows": [
+    "Ter-ham-par lu-as pa-di me-ngu-ning te-ta-pi pe-ker-ja-nya se-di-kit Ka-ta-kan ke-pa-da pe-mi-lik-nya me-ngu-tus pe-nu-ai 'tuk be-ker-ja Ma-sa me-nu-ai te-lah ti-ba a-gar di-u-tus-nya pa-ra pe-ker-ja ja-ngan le-wat-kan ki-rim-kan-lah su-pa-ya pa-nen tak si-a si-a"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Terhampar luas padi menguning tetapi pekerjanya sedikit Katakan kepada pemiliknya mengutus penuai 'tuk bekerja Masa menuai telah tiba agar diutusnya para pekerja jangan lewatkan kirimkanlah supaya panen tak sia-sia"
+  ],
+  [
+   "Engkaulah Tuhan Sang Pemiliknya, Kau sangat mengasihi manusia",
+   "Semua bagiMu tiada bedanya, Kau rindu kedatangan mereka",
+   "Masa menuai telah tiba, Agar diutusNya para pekerja",
+   "Jangan lewatkan, kirimkanlah, Supaya panen tak sia-sia"
+  ]
+ ],
+ "vnum": [
+  1,
+  2
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 643 kepala lagu: 'Buku Logu: 394', 'Z.No. 656' -> bl 394 (sebelumnya kosong, ref tercampur); melodi = Buku Ende 513 (Logu 394)",
+  "Koreksi dari gambar halaman: hal. 643 baris 1-3: 'me ngu ning' -> me-ngu-ning, 'pe nu ai' -> pe-nu-ai; ayat 1 disesuaikan ('sia-sia' seperti ayat 2)"
+ ],
+ "status": "",
+ "ref": "Z.No. 656",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

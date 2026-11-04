@@ -1,0 +1,79 @@
+{
+ "be": 222,
+ "variant": "",
+ "bl": 163,
+ "title": "Kepada Tuhan Yesus",
+ "key": "G",
+ "meter": "6/8",
+ "credit": "Karl Voightlander, 1853",
+ "pages": [
+  277
+ ],
+ "cat": "Pengakuan dan Kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Dora Rappard-Gobat 1842-1923",
+  "Lagu: Karl Voigtlander 1853 (1827-1858)",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3 | (5 4) 3 (3 2) 1 | 1 . . 7, . 2 | (4 3) 2 (2 1) 7, |\n1 . . 0 0 :|",
+   "rows": [
+    "Ke-pa-da Tu-han Ye-sus-ku ba-wa hi-dup-ku",
+    "Dan Di-a-lah Ra-ja-ku pe-lin-dung ji-wa-ku"
+   ]
+  },
+  {
+   "notes": "3 | 2 . 2 (2 3) #4 | 5 . . 2 . 2 | (#4 3) 2\n(2 3) #4 | 5 . . 0 0 3 | (5 4) 3 (3 2) 1 | 1 . . 7, . 2 | (4 3)\n2 (2 1) 7, | (1 . . 1) . |]",
+   "rows": [
+    "'Ku se-rah-kan pa-da-Nya ran-ca-na hi-dup-ku Ha-nya pe-nga-si-han-Nya me-nga-tur ja-lan-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kepada Tuhan Yesusku bawa hidupku",
+   "Dan Dialah Rajaku pelindung jiwaku",
+   "'Ku serahkan padaNya rancana hidupku Hanya pengasihanNya mengatur jalanku"
+  ],
+  [
+   "Di waktu kesusahan, 'ku pandang Tuhanku",
+   "Allahku s'lalu datang menolong diriku",
+   "Dan tak dibiarkan-Nya 'ku menderita t'rus",
+   "Dan pasti dis'lamatkan 'ku dari lembah maut"
+  ],
+  [
+   "Terkadang 'ku rasakan beban sengsaraku",
+   "Cobaan tak berkurang terus menghimpitku",
+   "Namun 'ku makin kuat memikul salibku",
+   "'Ku tahu Tuhanku ada dekat di sisiku"
+  ],
+  [
+   "Tanganku pun dituntun di jalan hidupku",
+   "Tuhan dekat selalu menolong diriku",
+   "Roh Kudus mengungkapkan kasih-Nya padaku",
+   "Semakin aku kuat memikul salibku"
+  ],
+  [
+   "Waktuku ditentukan di dalam kasih-Nya",
+   "Bila waktuku tiba dipanggil oleh-Nya",
+   "Kasih-Nya 'ku muliakan selama-lamanya",
+   "Mengingat sengsaraku berlalu olehnya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 277 baris 2: 'ran ca na' (buku menulis begitu, untuk 'rencana') satu kata → ran-ca-na; teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

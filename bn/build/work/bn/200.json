@@ -1,0 +1,98 @@
+{
+ "be": 200,
+ "variant": "",
+ "bl": 106,
+ "title": "Sahabat kita yang di surga",
+ "key": "Eb",
+ "meter": "3/4",
+ "credit": "Benjamin Schmojck, 1698",
+ "pages": [
+  249,
+  250
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": 82,
+ "credits": [
+  "Syair: Benjamin Schmoick 1672-1737",
+  "Lagu: Lagu rakyat Perancis",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 5 . 5 | (5 4) 3 | (5 4) 3 | 2 1 6, | (4 3) 2 |\n3 . 3 | (5 4) 3 | 2 . :|",
+   "rows": [
+    "Sa-ha-bat ki-ta yg di sur-ga baik dan se-ti-a s'la-ma-nya",
+    "Di du-nia tia-da ki-ta jum-pa sa-ha-bat yg te-tap se-tia"
+   ]
+  },
+  {
+   "notes": "2 | 2 . 2 | 3 . 3 | (4 3)\n4 | 5 . 5 | (1' 7) 6 | (5 .+6) (5+4) | 3 . 2 | 1 . |]",
+   "rows": [
+    "Te-ri-ma Ye-sus Tu-han-mu te-tap men-ja-di so-bat-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Sahabat kita yg di surga baik dan setia s'lamanya",
+   "Di dunia tiada kita jumpa sahabat yg tetap setia",
+   "Terima Yesus Tuhanmu tetap menjadi sobatmu"
+  ],
+  [
+   "Sahabat karib di dunia terombang-ambing hatinya",
+   "Tetapi Yesus yang di Surga tetap setia hati-Nya",
+   "Terima Yesus Tuhanmu, tetap menjadi sobatmu"
+  ],
+  [
+   "Manusia mengharapkan untung di dalam cinta kasihnya",
+   "Ketika tidak ada untung, lenyaplah cinta kasihnya",
+   "Terima Yesus Tuhanmu tetap menjadi sobatmu"
+  ],
+  [
+   "Demi keselamatan kita Dia berkorban di Golgota",
+   "Darah kudusNya dicurahkan menghapus dosa manusia",
+   "Terima Yesus Tuhanmu tetap menjadi sobatmu"
+  ],
+  [
+   "Tetap hati-Nya pada kita dan tak berubah s'lamanya",
+   "Abadi kasih setia-Nya kepada semua umat-Nya",
+   "Terima Yesus Tuhanmu tetap menjadi sobatmu"
+  ],
+  [
+   "Ya Yesus, Kau sahabat kami, peganglah tangan umat-Mu",
+   "Teguhkan roh dan jiwa kami berjalan mau ke rumah-Mu",
+   "Terima Yesus Tuhanmu tetap menjadi sobatmu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 249 baris 1: pemisahan kata 'di-sur-ga' → 'di sur-ga', 'Di-du-nia' → 'Di du-nia'"
+ ],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "De-mi ke-se-la-ma-tan ki-ta Dia ber-kor-ban di Gol-go-ta",
+     "Da-rah ku-dus-Nya di-cu-rah-kan meng-ha-pus do-sa ma-nu-sia"
+    ],
+    [
+     "Te-ri-ma Ye-sus Tu-han-mu te-tap men-ja-di so-bat-mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 250)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

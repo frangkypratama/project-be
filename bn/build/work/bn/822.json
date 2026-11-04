@@ -1,0 +1,52 @@
+{
+ "be": 822,
+ "variant": "",
+ "bl": null,
+ "title": "Hari ini",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Psalm 118:24",
+ "pages": [
+  1034
+ ],
+ "cat": "Nyanyian Pagi dan Malam Hari",
+ "tempo": 108,
+ "credits": [
+  "Syair: This is the day; N.N",
+  "Lagu: This is the day; N.N",
+  "Terj.Ind.:"
+ ],
+ "sections": [
+  {
+   "notes": "1+1 .+2 3 . | 1+1 .+2 3 3+4 | 3 2 2 3+4 | 3 2 2 . |\n7,+7, .+1 2 . | 7,+7, .+1 2 2+3 | 2 1 1 2+3 | 2 1 1 . |\n6+6 .+6 6 6+6 | 5 (3+2) 1 . | 6+6 .+6 6 6+6 | 5 (3+2)\n1 . | 1+1 .+2 3 . | 1+1 .+2 3 3+4 | 3 . 2 . | 1 . . . |]",
+   "rows": [
+    "Ha-ri i-ni ha-ri i-ni ha-ri-nya Tu-han ha-ri-Nya Tu-han ma-ri ki-ta ma-ri ki-ta ber-su-ka-ri-a ber-su-ka-ri-a Ha-ri i-ni ha-ri-nya Tu-han ma-ri ki-ta ber-su-ka-ri-a ha-ri i-ni ha-ri i-ni ha-ri-nya Tu-han"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hari ini hari ini harinya Tuhan hariNya Tuhan",
+   "Mari kita mari kita bersukaria bersukaria",
+   "Hari ini harinya Tuhan mari kita bersukaria",
+   "Hari ini hari ini harinya Tuhan"
+  ],
+  [
+   "Hari Senin dan Selasa harinya Tuhan, harinya Tuhan",
+   "Hari Rabu, hari Kamis, harinya Tuhan, harinya Tuhan",
+   "Hari Jumat harinya Tuhan, hari Sabtu harinya Tuhan",
+   "Hari Minggu, semua hari, harinya Tuhan"
+  ]
+ ],
+ "vnum": [
+  1,
+  2
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 1034: pemisahan kata 'Ha ri i ni' = Hari ini (bukan 'Harii ni'); baris 1 di bawah not tercetak 'Tu hsn' (salah ketik 'han', baris sama di sebelahnya 'Nya Tu han') → 'Tu-han'; ayat 1 dipecah 4 baris spt ayat 2"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

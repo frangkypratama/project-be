@@ -1,0 +1,75 @@
+{
+ "be": 204,
+ "variant": "",
+ "bl": 73,
+ "title": "'Ku setia padaMu",
+ "key": "Bb",
+ "meter": "2/4",
+ "credit": "Samuel Hofer, Abad 19",
+ "pages": [
+  257
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": null,
+ "credits": [
+  "Syair: Christian Keimann 1658 (1607-1662)",
+  "Lagu: Samuel Hofer 1835-1862",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5 5 | 5 1' | 7 1' | (3' 2') | 3' 3' | 4' 2' | 1' 3' | 2' . |\n1' . :|",
+   "rows": [
+    "'Ku se-ti-a pa-da-Mu Ye-sus Ju-ru-s'la-mat du-nia",
+    "S'la-lu i-kut de-ngan-Mu ta-at pa-da pe-rin-ta-Mu"
+   ]
+  },
+  {
+   "notes": "3' 2' | 1' 5 | 4' 3' | 2' . | 5' 4' | 3' (4'+2') | 1'\n7 | 1' . |]",
+   "rows": [
+    "Kau-la sum-ber hi-dup-ku a-ku i-kut de-ngan-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "'Ku setia padaMu Yesus Jurus'lamat dunia",
+   "S'lalu ikut denganMu taat pada perintaMu",
+   "Kaula sumber hidupku aku ikut denganMu"
+  ],
+  [
+   "Tuhan karunia-Mu, roh dan jiwaku semua",
+   "Nyawa juga hidupku, harta milikku semua",
+   "'Ku serahkan pada-Mu untuk s'lama-lamanya"
+  ],
+  [
+   "Walau tubuhku renta, kuping tuli, rabun mata",
+   "Dan ingatan melemah, lidah kaku tak berkata",
+   "Tanda ajal mendekat, Yesus 'ku pegang erat"
+  ],
+  [
+   "Yesus 'ku pegang erat sampai nanti masuk Surga",
+   "Yang 'ku rindu di dunia rumah Tuhanku di Surga",
+   "'Ku bahagia dan senang, sampai s'lama-lamanya"
+  ],
+  [
+   "Nikmat kedaginganku tidak lagi 'ku dambakan",
+   "Surgalah idamanku, dunia ini kutinggalkan",
+   "Yesus, Kaulah milikku sampai s'lama-lamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 257: pemisahan kata 'pe rin ta Mu' → 'pe-rin-ta-Mu', 'Kau la' → 'Kau-la' (suku kata sesuai buku)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

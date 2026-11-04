@@ -1,0 +1,123 @@
+{
+ "be": 396,
+ "variant": "",
+ "bl": 101,
+ "title": "Musuhmu t'lah ditaklukkan",
+ "key": "G",
+ "meter": "3/4",
+ "credit": "Theodor Kubler, Abad 19",
+ "pages": [
+  504,
+  505
+ ],
+ "cat": "Datanglah pada Yesus",
+ "tempo": 100,
+ "credits": [
+  "Syair:",
+  "Lagu: Philipp Paul Bliss 1838-1876",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5/+.//+5// | 5 .+3 2/+.//+3// | 1 5, 1/+.//+1// | 2 .+4 3/+.//+2// |\n3 . 5/+.//+5// | 5 .+3 2/+.//+3// | 1 5, 1/+.//+1// | 2 .+4 3/+.//+2// |\n1 .",
+   "rows": [
+    "Mu-suh-mu t'lah di-tak-luk-kan tia-da la-gi be-leng-gu Ki-ni kau t'lah di-be-bas-kan da-ri ran-tai do-sa-mu"
+   ]
+  },
+  {
+   "notes": "1/+.//+1// | 6 .+6 6/+.//+6// | 5 3 3/+.//+5// | 4 .+4\n3/+.//+2// | 3 . |",
+   "rows": [
+    "Ber-se-rah ke-pa-da Ye-sus yg meng-hi-bur ha-ti-mu"
+   ]
+  },
+  {
+   "notes": "1/+.//+1// | 6 .+6 6/+.//+6// | 5 3 3/+.//+5// |\n4 .+4 3/+.//+2// | 1 . |]",
+   "rows": [
+    "Ber-se-rah ke-pa-da Ye-sus yg meng-hi-bur ha-ti-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Musuhmu t'lah ditaklukkan tiada lagi belenggu Kini kau t'lah dibebaskan dari rantai dosamu",
+   "Berserah kepada Yesus yg menghibur hatimu",
+   "Berserah kepada Yesus yg menghibur hatiku"
+  ],
+  [
+   "Janganlah kau mengatakan: “Sungguh malang nasibku”",
+   "Yesus sanggup menyembuhkan luka yang di hatimu",
+   "Berserah kepada Yesus yang menghibur hatimu",
+   "Berserah kepada Yesus yang menghibur hatiku"
+  ],
+  [
+   "Janganlah kau mengatakan: “Sangat miskin hidupku”",
+   "Bukan harta yang dilihat, Yesus butuh hatimu",
+   "Berserah kepada Yesus yang menghibur hatimu",
+   "Berserah kepada Yesus yang menghibur hatiku"
+  ],
+  [
+   "Janganlah kau mengatakan: “Dosa menghalangiku”",
+   "Dosamu t'lah dihapuskan, muliakan Tuhanmu",
+   "Berserah kepada Yesus yang menghibur hatimu",
+   "Berserah kepada Yesus yang menghibur hatiku"
+  ],
+  [
+   "Janganlah kau mengatakan \"Amat banyak musuhku\" Musuhmu t'lah dikalahkan Yesus Jurus'lamatmu",
+   "Berserah kepada Yesus yg menghibur hatimu",
+   "Berserah kepada Yesus yg menghibur hatiku"
+  ],
+  [
+   "Janganlah kau mengatakan: “Dunia menaklukkanku”",
+   "T'rima Yesus dan aminkan, Kristus Tuhan Rajamu",
+   "Berserah kepada Yesus yang menghibur hatimu",
+   "Berserah kepada Yesus yang menghibur hatiku"
+  ],
+  [
+   "Janganlah kau mengatakan: “Aku pamit dahulu”",
+   "Lupakan masa lalumu, pandang masa depanmu",
+   "Berserah kepada Yesus yang menghibur hatimu",
+   "Berserah kepada Yesus yang menghibur hatiku"
+  ],
+  [
+   "Musuhmu t'lah dikalahkan, iblis juga dosa, maut",
+   "Tiada lagi penghalang bagi kes'lamatanmu",
+   "Berserah kepada Yesus yang menghibur hatimu",
+   "Berserah kepada Yesus yang menghibur hatiku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "checks": [
+  "Ulangan dengan kurung 1./2. (volta) di buku ditulis sebagai dua bagian: putaran 1 lalu putaran 2."
+ ],
+ "status": "",
+ "ref": "R.I.No. 93",
+ "vl_direct": {
+  "4": {
+   "r": [
+    [
+     "Ja-ngan-lah kau me-nga-ta-kan \"A-mat ba-nyak mu-suh-ku\" Mu-suh-mu t'lah di-ka-lah-kan Ye-sus Ju-ru-s'la-mat-mu"
+    ],
+    [
+     "Ber-se-rah ke-pa-da Ye-sus yg meng-hi-bur ha-ti-mu"
+    ],
+    [
+     "Ber-se-rah ke-pa-da Ye-sus yg meng-hi-bur ha-ti-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 505)"
+   ]
+  }
+ },
+ "warn": []
+}

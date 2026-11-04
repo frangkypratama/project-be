@@ -1,0 +1,84 @@
+{
+ "sections": [
+  {
+   "notes": "3 (3+4) 5 5 | 1 2 3 . | 6 7 1' 3 | 2 . 1 . :|",
+   "rows": [
+    "Bang-kit-lah hai ji-wa-ku dan te-kun ber-do-a",
+    "Ji-ka da-tang se-te-ru kau te-tap si-a-ga"
+   ]
+  },
+  {
+   "notes": "5 2 3 . | 6 3 4 . | 5 2 (3+#4) 5 | (5 #4) 5 . | 6 7 1'\n3 | 2 . 1 . |]",
+   "rows": [
+    "Go-da-an se-tan-pun s'la-lu mem-per-da-ya o-rang yg ber-i-man"
+   ]
+  }
+ ],
+ "vl_direct": {
+  "4": {
+   "r": [
+    [
+     "Ber-te-kun-lah ber-do-a a-gar kau se-la-mat",
+     "Da-ri ma-ra-ba-ha-ya hi-dup-mu ba-ha-gia"
+    ],
+    [
+     "Ye-sus-lah yg kua-sa yg t'lah me-nak-luk-kan i-blis maut dan do-sa"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 307)"
+   ]
+  }
+ },
+ "verses": [
+  [
+   "Bangkitlah hai jiwaku dan tekun berdoa",
+   "Jika datang seteru kau tetap siaga",
+   "Godaan setanpun s'lalu memperdaya orang yg beriman"
+  ],
+  [
+   "Bangunlah yang terlelap dari kuasa dosa",
+   "Jangan oleh kar'nanya kau berhutang nyawa",
+   "Segera datangnya masa pencobaan; Bagi yang terlena"
+  ],
+  [
+   "Bangkitlah dan t'rimalah sinar t'rang Roh Tuhan",
+   "Agar kau dimampukan menaklukkan dosa",
+   "Bangkitlah, mintalah agar diberikan; Kasih dan rahmat-Nya"
+  ],
+  [
+   "Bangkit, jaga hatimu jangan disesatkan",
+   "S'luruh hasrat dagingmu harus kau taklukkan",
+   "Jagalah dirimu dari kesombongan; Sumber kesalahan"
+  ],
+  [
+   "Bertekunlah berdoa agar kau selamat",
+   "Dari marabahaya hidupmu bahagia",
+   "Yesuslah yg kuasa yg t'lah menaklukkan iblis maut dan dosa"
+  ],
+  [
+   "Mohon dalam doamu pada Allah Bapa",
+   "Dalam Yesus Penebus, perlindungan kita",
+   "Padamu, Tuhanmu mendengarkan doa; Dan memb'ri jawabnya"
+  ],
+  [
+   "Kar'na itu marilah bertekun berdoa",
+   "Pada Allah yang kuasa, Bapa yang di Surga",
+   "Tibalah hari-Nya, kedatangan Tuhan; Menghakimi insan"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "note": [
+  "hal. 306: pemisahan kata 'si a ga' → si-a-ga, 'mem per da ya' → mem-per-da-ya; teks ayat 1 ikut disesuaikan",
+  "hal. 307 (ayat 5 bernot) baris 2: 'me nak luk kan | i blis' → me-nak-luk-kan i-blis (sebelumnya me-nak-luk-kan-i blis); vl_direct dan teks ayat 5 diperbaiki"
+ ]
+}

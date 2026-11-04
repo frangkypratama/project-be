@@ -1,0 +1,75 @@
+{
+ "be": 185,
+ "variant": "",
+ "bl": 85,
+ "title": "Allah kita Mahaesa",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Johann Christian Bach, 1693",
+ "pages": [
+  230
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Heinrich Held 1658",
+  "Lagu: Johann Christian Bach 1693",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "3 1 2 5 | 1 2 7, 5, | 6, 7, 1 1 | 2 5 3 . :|",
+   "rows": [
+    "Al-lah ki-ta Ma-ha E-sa Kha-lik a-lam se-mes-ta",
+    "Pen-cip-ta yg ke-li-ha-tan ju-ga yg tak ter-li-hat"
+   ]
+  },
+  {
+   "notes": "3 1\n2 5 | 5 #4 5 . | 6 5 4 3 | 2 2 1 . |]",
+   "rows": [
+    "Se-li-di-ki-lah cer-mat a-gar kau tak ter-se-sat"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Allah kita Maha Esa Khalik alam semesta",
+   "Pencipta yg kelihatan juga yg tak terlihat",
+   "Selidikilah cermat agar kau tak tersesat"
+  ],
+  [
+   "Allah kita tak bermula; Dan tak ada akhirnya",
+   "Tak terlihat oleh mata; Kar'na Rohlah ada-Nya",
+   "Hanya mata hatilah; Yang dapat mengenal-Nya"
+  ],
+  [
+   "Maha hadir Allah kita; Hadir di semua tempat",
+   "Bahkan dalam hati kita; Dia berkuasa atasnya",
+   "Allah maha kuasa; Tidak ada tara-Nya"
+  ],
+  [
+   "Maha adil Allah kita; Maha kudus dan mulia",
+   "Dia yang memelihara; Semua dengan hikmat-Nya",
+   "Yakin dan percayalah; Allah baik dan setia"
+  ],
+  [
+   "Firman Allah kehidupan; Dan sempurna p'rintah-Nya",
+   "Walaupun besar kasih-Nya; Tak berubah firman-Nya",
+   "Taatilah p'rintah-Nya; Kau 'kan hidup bahagia"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 230 baris 2: pemisahan kata 'Se li di ki lah cer mat' → 'Se-li-di-ki-lah cer-mat'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

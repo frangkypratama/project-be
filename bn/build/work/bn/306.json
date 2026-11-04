@@ -1,0 +1,77 @@
+{
+ "be": 306,
+ "variant": "",
+ "bl": 112,
+ "title": "Kupuji Kau ya Tuhan",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Johannes Zahn, 1852",
+ "pages": [
+  377,
+  378
+ ],
+ "cat": "Nyanyian Pagi Hari",
+ "tempo": 116,
+ "credits": [
+  "Syair: Friedrich Ruckert 1834 (1788-1866)",
+  "Lagu: Johannes Zahn 1852 (1817-1895)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5, . | 1 . 2 . | 3 5 4 3 | 2 . 1 . | 0 0 2 . | 2 .\n3 . | 2 7, 1 7, | 6, . 5, . | 0 0 5, . | 1 2 3 6 | 5 .\n#4 . | 5 . . . | 0 0 5 . | 1 . 2 . | 3 5 4 3 | 2 .\n1 . | 0 0 2 . | 2 . 3 . | 2 7, 1 7, | 6, . 5, . | 0 0\n5, . | 1 . 2 . | (3 .+4 5) 6 | (5 4+3) 2 . | 1 . |]",
+   "rows": [
+    "Ku-pu-ji Kau ya Tu-han Al-lah kar'-na ge-lap te-lah ber-la-lu T'rang kem-ba-li ke du-ni-a Se-mu-a mah-luk ber-gem-bi-ra Ti-a-da la-gi ke-ge-la-pan ki-ni te-rang se-mu-a-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kupuji Kau ya Tuhan Allah kar'na gelap telah berlalu T'rang kembali ke dunia Semua mahluk bergembira Tiada lagi kegelapan kini terang semuanya"
+  ],
+  [
+   "Hai bangunlah engkau jiwaku, sujudlah menyembah Tuhanmu",
+   "Dan persembahkan syukurmu, kenallah kasih setia-nya",
+   "Yang setiap pagi diberikan, gemarlah puji nama-Nya"
+  ],
+  [
+   "Dan inilah yang 'ku dambakan, agar Allah mau memb'rikannya",
+   "Terangi hatiku Tuhan agar cerah bagaikan langit",
+   "Yesus bagaikan matahari, yang 'ku sembah dan 'ku puji"
+  ],
+  [
+   "Singkirkanlah ya Tuhan Yesus semua unsur kegelapan Dari semua hihupku dan baharuilah pikiran setia dalam perjalanan sampai ke rumah Tuhanku"
+  ],
+  [
+   "Dan itulah permohonanku, kabulkanlah ya Allah Bapa",
+   "Amin-Mu mewujudkannya, nanti bila ajalku tiba",
+   "Terang surgawi yang 'ku tuju; 'Ku bahagia di sisi-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 378 ayat 4 (bernot): pemisahan kata 'un sur' -> 'unsur', 'hi hup ku' -> 'hihupku' (buku tertulis 'hi hup', kemungkinan salah cetak 'hidupku'; tidak diubah hurufnya)"
+ ],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Sing-kir-kan-lah ya Tu-han Ye-sus se-mu-a un-sur ke-ge-la-pan Da-ri se-mu-a hi-hup-ku dan ba-ha-ru-i-lah pi-ki-ran se-ti-a da-lam per-ja-la-nan sam-pai ke ru-mah Tu-han-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 378)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

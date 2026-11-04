@@ -1,0 +1,58 @@
+{
+ "note": [
+  "hal. 537 kepala lagu: 'Buku Logu: 283' (data kosong) -> bl 283",
+  "hal. 537 baris 1: 'Ma-lam-pun' -> 'Ma-lam pun' (sesuai judul)",
+  "hal. 537 baris 2: \"di-da-lam\" -> \"di da-lam\""
+ ],
+ "sections": [
+  {
+   "notes": "(5+4) | 3 2 1 2 | 3 0 0 6 | 5 4 (3+2) 1 | (4 3+5)\n2 :|",
+   "rows": [
+    "Ma-lam pun men-je-lang te-rang si-ang ber-la-lu",
+    "Ya Ye-sus Kau Tu-han te-ra-ngi-lah ha-ti-ku"
+   ]
+  },
+  {
+   "notes": "5 | 1' 5 6 (5+4) | 3 0 0 3 | 6 (5+4) 3 (2+3) |\n1 . 0 |]",
+   "rows": [
+    "Te-rang yg sem-pur-na di da-lam di-ri-Mu"
+   ]
+  }
+ ],
+ "vl_direct": {},
+ "verses": [
+  [
+   "Malam pun menjelang terang siang berlalu",
+   "Ya Yesus Kau Tuhan terangilah hatiku",
+   "Terang yg sempurna di dalam diriMu"
+  ],
+  [
+   "Banyaklah dosaku dalam kehidupanku,",
+   "Kau tulis salahku di dalam pustaka-Mu",
+   "Kalau 'ku renungkan, diriku 'ku kecam"
+  ],
+  [
+   "Sedihnya hatiku, amat besar dosaku,",
+   "Ampuni diriku, hapuskanlah dosaku",
+   "Dan seperti Petrus, 'ku menyesal terus"
+  ],
+  [
+   "Di saat ajalku, hukum-Mu menimpaku,",
+   "'Ku rindu Tuhanku, aku jadi milik-Mu",
+   "Ampuni dosaku, kasihilah aku"
+  ],
+  [
+   "Andai malam ini Kau panggil aku ini,",
+   "Sertailah hamba-Mu memasuki rumah-Mu",
+   "Bersama-Mu s'karang dan s'lama-lamanya"
+  ]
+ ],
+ "bl": 283,
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ]
+}

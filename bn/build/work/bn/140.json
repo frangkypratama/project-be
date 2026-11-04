@@ -1,0 +1,63 @@
+{
+ "be": 140,
+ "variant": "",
+ "bl": 141,
+ "title": "Tetap bergemar",
+ "key": "Ab",
+ "meter": "3/4",
+ "credit": "Philipp Nicolai, 1599",
+ "pages": [
+  171
+ ],
+ "cat": "B. Zending",
+ "tempo": 100,
+ "credits": [
+  "Syair: Christian Barth 1799-1862",
+  "Lagu: William Croft 1708 (1678-1727)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 1 2 | 3 . 5 | 1 2 7, | 1 . 2 | 3 2 1 | 7, .\n1 | 2 (1+7,) (6,/+.//+5,//) | 5, . 7, | 1 2 3 | 1 6, 4 | 3 2 1 |\n5 . 5, | 6, 7, 1 | 2 5, 3 | 6, 2 7, | 1 . |]",
+   "rows": [
+    "Te-tap ber-ge-mar te-kun be-ker-ja me-nga-jak se-mua da-tang pa-da-Nya su-pa-ya per-ca-ya Ye-sus Tu-han-nya b'ri-ta-kan Fir-man-Nya s'la-ma di du-nia"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tetap bergemar tekun bekerja mengajak semua datang padaNya supaya percaya Yesus Tuhannya b'ritakan FirmanNya s'lama di dunia"
+  ],
+  [
+   "Tetaplah tenang dan jangan gentar",
+   "Dayamu semua, pergunakanlah",
+   "Meski semua setan datang menyerang",
+   "Dengan kuasa Tuhan kau pasti menang"
+  ],
+  [
+   "Tetaplah setia dengar firman-Nya",
+   "Kau pasti menang di kancah perang",
+   "Lihat Yesus Raja, pahlawan besar",
+   "Semua musuh-Nya binasa kelak"
+  ],
+  [
+   "Dengarlah Tuhan, kasihanilah",
+   "Firman-Mu Tuhan, wujudkan seg'ra",
+   "Berkati semua karya hamba-Mu",
+   "Agar berbahagia semua umat-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 171 baris 1: buku mencetak 'ber g mar' dan 'be kr ja' (huruf hilang); jumlah suku kata = jumlah not (ber-ge-mar, be-ker-ja), kata 'bergemar' sesuai judul → diperbaiki jadi 'ber-ge-mar te-kun be-ker-ja' (ayat 1 ikut)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

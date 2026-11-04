@@ -1,0 +1,73 @@
+{
+ "be": 677,
+ "variant": "",
+ "bl": null,
+ "title": "Dengan lembut Tuhan Yesus",
+ "key": "G",
+ "meter": "6/8",
+ "credit": "",
+ "pages": [
+  848,
+  849
+ ],
+ "cat": "Panggilan Pertobatan",
+ "tempo": 72,
+ "credits": [
+  "Syair: Softly and tenderly; Will L. Thomson, 1880",
+  "Lagu: Will L. Thomson, 1880",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "3 .+2 1 1 7, 1 | 2 1 6, 6, 5, 0 | 1 1 1 3 .+2 1 |\n(2 . . 2) . 0 | 3 .+2 1 1 7, 1 | 2 1 6, 6, 5, 0 | 1 1 4\n3 .+1 2 | (1 . . 1) . | 5, | (2 . . 2) . 3 | 1 . 2 3 . . |\n2 2 2 3 3 #4 | 5 . #4 4 . . | 3 .+2 1 1 7, 1 | 2 1\n6, 6, 5, 0 | 1 1 4 3 .+1 2 | (1 . . 1) . . |]",
+   "rows": [
+    "De-ngan lem-but Tu-han Ye-sus me-mang-gil me-mang-gil a-ku dan kau De-ngan p'ri-ha-tin Dia s'la-lu me-nan-ti me-nan-ti a-ku dan kau Kem-ba-li da-tang-lah hai yg le-lah ma-ri da-tang-lah De-ngan lem-but Tu-han Ye-sus me-mang-gil hai yg se-sat da-tang-lah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Dengan lembut Tuhan Yesus memanggil memanggil aku dan kau Dengan p'rihatin Dia s'lalu menanti menanti aku dan kau Kembali datanglah hai yg lelah mari datanglah Dengan lembut Tuhan Yesus memanggil hai yg sesat datanglah"
+  ],
+  [
+   "Jangan engkau mengabaikan Tuhanmu, Memanggil aku dan kau",
+   "Jangan enggan menerima kasihNya, Terhadap aku dan kau",
+   "Kembali datanglah, hai yang lelah mari datanglah",
+   "Dengan lembut Tuhan Yesus memanggil, Hai yang sesat datanglah"
+  ],
+  [
+   "Hidup manusia cepatlah berlalu hidupku dan hidupmu Dan kematian selalu mengancam mengancam aku dan kau Kembali datanglah hai yg lelah mari datanglah Dengan lembut Tuhan Yesus memanggil hai yg sesat datanglah"
+  ],
+  [
+   "Sungguh ajaib janji kasih setiaNya, Kepada aku dan kau",
+   "Yesus ampuni orang yang berdosa, Seperti aku dan kau",
+   "Kembali datanglah, hai yang lelah mari datanglah",
+   "Dengan lembut Tuhan Yesus memanggil, Hai yang sesat datanglah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 848 baris 2: 'p'ri ha tin' = satu kata 'p'rihatin' (p'ri-ha-tin); vl_direct ayat 3 dipertahankan"
+ ],
+ "status": "",
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Hi-dup ma-nu-sia ce-pat-lah ber-la-lu hi-dup-ku dan hi-dup-mu Dan ke-ma-ti-an se-la-lu me-ngan-cam me-ngan-cam a-ku dan kau Kem-ba-li da-tang-lah hai yg le-lah ma-ri da-tang-lah De-ngan lem-but Tu-han Ye-sus me-mang-gil hai yg se-sat da-tang-lah"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 849)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

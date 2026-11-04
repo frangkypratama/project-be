@@ -1,0 +1,80 @@
+{
+ "be": 786,
+ "variant": "",
+ "bl": null,
+ "title": "Dalam kerajaan Tuhan",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "",
+ "pages": [
+  989
+ ],
+ "cat": "Perjuangan Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Not alone for mighty empire; William P. Merril, 1867-1954",
+  "Lagu: Rowland Hugh Prichard, 1811-1887",
+  "Terj.Ind.: St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "1 . 2 | (1 .+2) 3 | 4 . 3 | (2 1) 2 | 5 . 4 | 3 .\n3 | (2 1) 2 | 1 . . :|",
+   "rows": [
+    "Da-lam ke-ra-ja-an Tu-han tia-da yg ke-se-pi-an",
+    "Se-mua da-pat per-lin-du-ngan ser-ta pe-ngam-pu-nan-Nya"
+   ]
+  },
+  {
+   "notes": "5 . 5 | (5 4) 3 | 4 . 4 | (4 3)\n2 | 3 . 3 | (3 4) 5 | (5 4) 3 | 2 . . | (5 3) 5 | (4 2) 4 |\n(3 1) 3 | (2+3 4+3) 2 | 5 . 5 | (6 5) 4 | 3 . 2 | 1 . . |]",
+   "rows": [
+    "Syu-kur ba-gi-Mu ya Tu-han a-tas ka-sih rah-mat-Mu Ber-kat yg Tu-han jan-ji-kan ba-gi s'lu-ruh u-mat-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Dalam kerajaan Tuhan tiada yg kesepian",
+   "Semua dapat perlindungan serta pengampunanNya",
+   "Syukur bagiMu ya Tuhan atas kasih rahmatMu",
+   "Berkat yg Tuhan janjikan bagi s'luruh umatMu"
+  ],
+  [
+   "Bukan benteng pertahanan atau senjata perang",
+   "Hanya kuasa RohMu Tuhan, itu kami andalkan",
+   "Ajar hati kami Tuhan bersyukur dalam iman",
+   "Atas karya kes'lamatan bagi s'luruh dunia"
+  ],
+  [
+   "Tuhan bimbing semua umat mensyukuri kasihMu",
+   "Dalam rumah dan sekolah, kerja dan gerejaku",
+   "Hidup damai dengan semua dalam kasih rahmatMu",
+   "Bernegara dan berbangsa, rukun dalam kasihMu"
+  ],
+  [
+   "Puji syukur dari kami atas semua yang pergi",
+   "Yang mendahului kami ke SurgaMu abadi",
+   "Juga para Rasul kami, para Nabi yang Kau b'ri",
+   "Yang setia dan bersaksi mengabarkan kabar baik"
+  ],
+  [
+   "Engkau Allah Maha Kasih, Allah yang Maha Benar",
+   "Jauhkan dari bangsa kami perpecahan dan perang",
+   "Dan teguhkan hati kami taat di dalam iman",
+   "Hidup saling mengasihi serta p'nuh pengharapan"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 989: 'ke se pi an' = kesepian, 'jan ji kan' = janjikan (satu kata); ayat 1 dipecah 4 baris spt ayat lain"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

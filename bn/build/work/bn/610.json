@@ -1,0 +1,44 @@
+{
+ "be": 610,
+ "variant": "",
+ "bl": null,
+ "title": "Muliakanlah, muliakanlah",
+ "key": "Ab",
+ "meter": "4/4",
+ "credit": "Luk. 2:14",
+ "pages": [
+  766,
+  767
+ ],
+ "cat": "Natal",
+ "tempo": 120,
+ "credits": [
+  "Syair: Ere zij God; Luk. 2:14",
+  "Lagu: F.A. Schulz, 1870",
+  "Terj.Ind.: Dari nyanyian Rohani No. 29"
+ ],
+ "sections": [
+  {
+   "notes": "5 . 5 4 | 3 . . 0 | 5 . 5 4 | 3 . 0 5+5 | 6 6 0 5+5 |\n6 6 0 5+5 | (6 . 7) . | 1' . . 0 | 5 . 4 3 | 3 . 2 0 | (2 3)\n4 5 | 4 . 3 2+2 | (3 4) 5 3 | (6 . 5) 4 | (3 . 2) . |\n1 . . . | 5 . 5 5 | 5 . 6 7 | 1' . 5 0 | 1' . 1' 1' |\n7 . 1' 6 | (5 . #4) . | 5 . . 0 | (1 .+7,) 1 2 | (3 .+2) 1 0 |\n(3 .+2) 3 4 | (5 .+4) 3 0 | 2 . 2 2 | 2 . 2 0 | (5 .+#4)\n5 6 | (7 .+6) 5 5+5 | 5 . 5 5+5 | 5 . 5 5 | 5 . 1' . |\n7 5 0 1'+1' | 7 5 0+1' 1'+1' | 7 5 0+5 5+6 | (7 . 6) . |\n5 . . 0 | 5 . 5 4 | 3 . . 0 | 5 . 5 4 | 3 . . 5+5 | 6 6\n0 5+5 | 6 6 0 5+5 | (6 . 7) . | 1' . . 0 | 5 . 4 3 | 3 .\n2 0 | (2 3) 4 5 | 4 . 3 2+2 | (3 4) 5 3 | (6 . 5) 4 |\n(3 . 2) . | 1 . . . | (2 3 4 5) | 3 . . 0 | (3 . 2) . | 1 . . . |]",
+   "rows": [
+    "Mu-lia-kan-lah mu-lia-kan-lah Tu-han AL-lah Tu-han Al-lah Ma-ha-ting-gi Da-mai se-jah-t'ra tu-run ke bu-mi Ba-gi o-rang ke-su-ka-an-Nya Mu-lia-kan-lah Tu-han Al-lah Mu-lia-kan-lah Tu-han Al-lah Da-mai se-jah-t'ra tu-run ke bu-mi Da-mai se-jah-t'ra tu-run ke bu-mi Ba-gi o-rang ba-gi o-rang ke-su-ka-an-Nya ba-gi o-rang ke-su-ka-an-Nya ke-su-ka-an-Nya Mu-lia-kan-lah mu-lia-kan-lah Tu-han Al-lah Tu-han Al-lah Ma-ha-ting-gi Da-mai se-jah-t'ra tu-run ke bu-mi ba-gi o-rang ke-su-ka-an-Nya A-min A-min"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Muliakanlah muliakanlah Tuhan ALlah Tuhan Allah Mahatinggi Damai sejaht'ra turun ke bumi Bagi orang kesukaanNya Muliakanlah Tuhan Allah Muliakanlah Tuhan Allah Damai sejaht'ra turun ke bumi Damai sejaht'ra turun ke bumi Bagi orang bagi orang kesukaanNya bagi orang kesukaanNya kesukaanNya Muliakanlah muliakanlah Tuhan Allah Tuhan Allah Mahatinggi Damai sejaht'ra turun ke bumi bagi orang kesukaanNya Amin Amin"
+  ]
+ ],
+ "vnum": [
+  1
+ ],
+ "checks": [
+  "1 garis birama tidak tertulis di buku (birama berisi 8 ketuk) — ditambahkan agar birama 4/4 terbaca benar.",
+  "Koreksi dari gambar halaman: hal. 766-767: \"ke bu mi\" = kata depan + kata → ke bu-mi (ke bumi), 4x; teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

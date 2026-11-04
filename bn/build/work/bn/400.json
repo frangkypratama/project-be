@@ -1,0 +1,55 @@
+{
+ "be": 400,
+ "variant": "",
+ "bl": 401,
+ "title": "Hai kamu yang telah sesat",
+ "key": "Ab",
+ "meter": "3/4",
+ "credit": "Dora Rappard",
+ "pages": [
+  509
+ ],
+ "cat": "Hidup bersama Yesus",
+ "tempo": 102,
+ "credits": [
+  "Syair: Dora Rappard 1842-1923",
+  "Lagu: Dora Rappard 1842-1923",
+  "Terj.Ind.: Pdt JAU Doloksaribu Mmin & Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5, | (5, 6,) 7, | (1 2) 3 | 3 . 2 | 1 0 5, | 6, . 6, | 1/+.//+7,//\n1 6, | (6, 5,) 5, | 3 . 1 | 1 . 1 | 6 . 4 | 4 0 6, |\n(5, . . | 7,) . . | 1 0 5, | (3 . . | 3) . . | 1 . |]",
+   "rows": [
+    "Hai ka-mu yg te-lah se-sat kau ja-di mi-lik du-ni-a Kem-ba-li dan ber-to-bat-lah kem-ba-li ce-pat-lah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hai kamu yg telah sesat kau jadi milik dunia Kembali dan bertobatlah kembali cepatlah"
+  ],
+  [
+   "Dan bila engkau mendengar panggilan dari Tuhanmu",
+   "Bukalah hatimu seg'ra, dengarlah Tuhanmu"
+  ],
+  [
+   "Terkadang pedih hatimu kar'na semua deritamu",
+   "Cepat dapatkan Tuhanmu, penyembuh hatimu"
+  ],
+  [
+   "'Ku bahagia kar'na Yesus, s'kali lagi 'ku ucapkan",
+   "Engkau dit'rima Tuhanmu, sekarang, sekarang"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [],
+ "status": "",
+ "ref": "Chr.L.No. 11",
+ "vl_direct": {},
+ "warn": []
+}

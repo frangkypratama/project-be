@@ -1,0 +1,58 @@
+{
+ "be": 719,
+ "variant": "",
+ "bl": null,
+ "title": "Kudengar suaraMu",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  903
+ ],
+ "cat": "Pengakuan Iman dan Penyerahan Diri",
+ "tempo": 115,
+ "credits": [
+  "Syair: I can hear my Savior calling, E.W Blandy",
+  "Lagu: John S. Norris 1890",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5,+1 | 3 .+3 4 .+3 | 3+2 . . 5,+7, | 2 .+1 2 .+2 |\n2+1 . . 1+3 | 5 .+5 6 .+5 | 5+4 . . 1+2 | 3+5, 3+5,\n2 .+1 | 1 . . :|",
+   "rows": [
+    "Ku-de-ngar sua-ra-Mu Ye-sus ku-de-ngar sua-ra-Mu Ye-sus Ku-de-ngar sua-ra-Mu Ye-sus pi-kul sa-lib i-kut-lah A-ku",
+    "Pe-gang-lah ta-ngan-ku Ye-sus ku-at-kan-lah a-ku Ye-sus to-long tun-juk-kan ja-lah-Mu Tu-han pim-pin pim-pin lang-kah-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kudengar suaraMu Yesus kudengar suaraMu Yesus Kudengar suaraMu Yesus pikul salib ikutlah Aku",
+   "Peganglah tanganku Yesus kuatkanlah aku Yesus tolong tunjukkan jalahMu Tuhan pimpin pimpin langkahku"
+  ],
+  [
+   "'Ku serahkanlah diriku, 'ku serahkanlah diriku",
+   "'Ku serahkanlah diriku, 'ku mau ikut, ikut Tuhanku",
+   "Peganglah tanganku Yesus, Kuatkanlah aku Yesus",
+   "Tolong tunjukkan jalanMu, Tuhan pimpin, pimpin langkahku"
+  ],
+  [
+   "Tolonglah hambaMu Yesus, tolonglah hambaMu Yesus",
+   "Tolonglah hambaMu Yesus, 'ku mau pikul, pikul salibku",
+   "Peganglah tanganku Yesus, Kuatkanlah aku Yesus",
+   "Tolong tunjukkan jalanMu, Tuhan pimpin, pimpin langkahku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 903 baris 1-2: pemisahan kata 'Yesus | ku de ngar' (2x) = Yesus kudengar; baris 2 Reff: 'ja lah Mu' satu kata (ja-lah-Mu; kemungkinan salah cetak utk jalanMu, huruf tidak diubah); juga di teks ayat 1"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

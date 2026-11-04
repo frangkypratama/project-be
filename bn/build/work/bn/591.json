@@ -1,0 +1,51 @@
+{
+ "be": 591,
+ "variant": "",
+ "bl": null,
+ "title": "Boru Sion",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Zak. 9:9 ; Mat. 21:9",
+ "pages": [
+  742
+ ],
+ "cat": "Advent",
+ "tempo": 120,
+ "credits": [
+  "Syair: Tochier Zion; Freue Dich, Fredrich Hainrich Ranke, 1820",
+  "Lagu: George Friedrich Handel, 1714",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 . (3 .+4) | 5 . 1 . | (2+3 4+5 4) 3 | 2 . . 0 | (3+4 5+6 5)\n5 | 1' . 5 . | (4 3 2) .+1 | 1 . . 0 | (3+2 3+4 3) 3 | 2 .\n1 . | (4 3 2) 1 | 7, . . 0 | (1+7, 1+2 1) 1 | 6 . #4 . |\n(5 6+5 #4) .+5 | 5 . . 0 | 5 . (3 .+4) | 5 . 1 . | (2+3 4+5 4)\n3 | 2 . . 0 | (3+4 5+6 5) 5 | 1' . 5 . | (4 3 2) .+1 |\n1 . . 0 |]",
+   "rows": [
+    "Pu-tri Si-on Ber-ge-mar So-rak-lah Ye-ru-sa-lem Se-g'ra da-tang Ra-ja-mu Ra-ja Da-mai sam-but-lah Pu-tri Si-on ber-ge-mar so-rak-lah Ye-ru-sa-lem"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Putri Sion Bergemar Soraklah Yerusalem Seg'ra datang Rajamu Raja Damai sambutlah Putri Sion bergemar soraklah Yerusalem"
+  ],
+  [
+   "Hosianna Putra Daud, b'ri umatMu berkatMu",
+   "K'rajaanMu damai t'rus, bahagia s'lamanya",
+   "Hosianna Putra Daud, b'ri umatMu berkatMu"
+  ],
+  [
+   "Hosianna Putra Daud, masuklah di hatiku",
+   "B'ri jiwaku damaiMu, 'ku menyambut datangMu",
+   "Hosianna Putra Daud, masuklah di hatiku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

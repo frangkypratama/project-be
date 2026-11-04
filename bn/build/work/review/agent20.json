@@ -1,0 +1,222 @@
+[
+ {
+  "id": "823",
+  "status": "ok",
+  "detail": "hal. 1035: not, garis atas (1+5, .+5), lirik ayat 1 dan ayat 2-4 cocok."
+ },
+ {
+  "id": "824",
+  "status": "ok",
+  "detail": "hal. 1036: not & lirik cocok (kanon 3 suara; nomor masuk kanon & fermata tidak dimodelkan)."
+ },
+ {
+  "id": "825",
+  "status": "fixed",
+  "detail": "hal. 1037: not cocok; pemisahan kata lirik diperbaiki (har-ga-mu, mem-ba-ca-mu ku me-nge-na)."
+ },
+ {
+  "id": "826",
+  "status": "fixed",
+  "detail": "hal. 1038: not cocok; pemisahan kata diperbaiki (a-ku ba-gai-kan, di su-mur-Mu)."
+ },
+ {
+  "id": "827",
+  "status": "ok",
+  "detail": "hal. 1039: not (termasuk 5+6 bergaris atas+legato) dan 7 ayat cocok."
+ },
+ {
+  "id": "828",
+  "status": "ok",
+  "detail": "hal. 1040: not, lirik, ayat 2-5 cocok."
+ },
+ {
+  "id": "829",
+  "status": "fixed",
+  "detail": "hal. 1041: not 7 baris cocok; lirik diperbaiki (ba-ha-ru ku be-ri, se-na-ma-mu). Catatan: buku tertulis 'se na ma mu' (kemungkinan salah cetak 'sesamamu'), dibiarkan sesuai buku."
+ },
+ {
+  "id": "830",
+  "status": "fixed",
+  "detail": "hal. 1042-1043: not cocok termasuk bagian '3 ketuk' (meter2=3) dan kelompok garis atas ganda; lirik diperbaiki (Fir-man-Mu kan ku de-ngar-kan). Catatan: buku menulis 'Ka sih sa yg Mu' (= sayangMu), dibiarkan."
+ },
+ {
+  "id": "831",
+  "status": "fixed",
+  "detail": "hal. 1044-1045: not cocok; lirik ayat 1 diperbaiki (Sa-ma-ria, me-mi-num); ayat 3 bernot (vl_direct) 'se pat'→se-pat. 'dan s saj t'ra' memang begitu tercetak (kemungkinan salah cetak 'sejahtera')."
+ },
+ {
+  "id": "832",
+  "status": "fixed",
+  "detail": "hal. 1046: not cocok (#4 dicoret); lirik diperbaiki (lu-rus)."
+ },
+ {
+  "id": "833",
+  "status": "fixed",
+  "detail": "hal. 1047: not cocok; lirik diperbaiki (ke-mu-li-a-an-Nya ku me-li-hat)."
+ },
+ {
+  "id": "834",
+  "status": "fixed",
+  "detail": "hal. 1048: not cocok (#4, garis atas); lirik diperbaiki (A-ku sung-guh)."
+ },
+ {
+  "id": "835",
+  "status": "ok",
+  "detail": "hal. 1049: not (kelompok titik-dua-garis, legato), 2 bagian (ulang), lirik & ayat 2-5 cocok. Buku tertulis 'disambut pa pa malaikat', dibiarkan."
+ },
+ {
+  "id": "836",
+  "status": "fixed",
+  "detail": "hal. 1050 baris 3: legato palsu '(6 5)' dihapus → '6+6 5+b7' (tiap not punya suku kata: a jal ku s'ma kin de), s'ma-kin; pemisahan kata (a-jal-ku ti-ba ku i-ngin, b'ri a-ku ma-suk)."
+ },
+ {
+  "id": "837",
+  "status": "ok",
+  "detail": "hal. 1051: not (banyak kelompok '1 . 2' bergaris ganda) dan lirik cocok."
+ },
+ {
+  "id": "838",
+  "status": "fixed",
+  "detail": "hal. 1052: not cocok (#1, #4); lirik diperbaiki (ber-se-dih Ku men-ca-ri, Ku me-ra-sa)."
+ },
+ {
+  "id": "839",
+  "status": "issue",
+  "detail": "hal. 1053: not & ayat cocok. Akhir lagu: lirik buku berhenti di 'ba' (di bawah 1, baris 3) — not 2 dan 1 berikutnya tanpa suku kata; data memakai legato '(1 2 | 1 . . . | 1)' padahal busur di buku hanya terlihat dari 1 (baris 4) ke 1. Kemungkinan lirik terpotong di buku; tidak dikoreksi."
+ },
+ {
+  "id": "840",
+  "status": "fixed",
+  "detail": "hal. 1054 baris 7 birama 2: \"3' . 2' . 1'/\" (4,5 ketuk) → \"3' . 2' .+1'\" (garis atas di atas '. 1''); lirik ke-ku-a-sa-an. Not lain dicek per birama, cocok."
+ },
+ {
+  "id": "841",
+  "status": "fixed",
+  "detail": "hal. 1056: not cocok; lirik ke-ku-a-sa-an."
+ },
+ {
+  "id": "842",
+  "status": "ok",
+  "detail": "hal. 1057: not & legato cocok."
+ },
+ {
+  "id": "843",
+  "status": "ok",
+  "detail": "hal. 1057: not & legato cocok."
+ },
+ {
+  "id": "844a",
+  "status": "ok",
+  "detail": "hal. 1057: not & legato cocok."
+ },
+ {
+  "id": "844b",
+  "status": "ok",
+  "detail": "hal. 1058: not & legato cocok."
+ },
+ {
+  "id": "845",
+  "status": "ok",
+  "detail": "hal. 1058: cocok."
+ },
+ {
+  "id": "846",
+  "status": "ok",
+  "detail": "hal. 1058: cocok."
+ },
+ {
+  "id": "847",
+  "status": "ok",
+  "detail": "hal. 1059: not, lirik, ayat 2-3 cocok."
+ },
+ {
+  "id": "848",
+  "status": "fixed",
+  "detail": "hal. 1060: not (kelompok garis ganda, legato 2-1, 0/) cocok; lirik diperbaiki (a-ku ba-wa, di-ban-ding-kan)."
+ },
+ {
+  "id": "849",
+  "status": "ok",
+  "detail": "hal. 1061: cocok (penanda kanon a-d tidak dimodelkan)."
+ },
+ {
+  "id": "850",
+  "status": "ok",
+  "detail": "hal. 1062: not, legato, ayat 2 cocok."
+ },
+ {
+  "id": "851",
+  "status": "issue",
+  "detail": "hal. 1063: validator birama #4 = 2 ketuk (3/4). Buku memang menulis '3 2 1 2' dengan garis atas di atas '3 2 1' dan garis kedua di atas '2 1' (=1 ketuk) lalu '2' (1 ketuk) → 2 ketuk; data sesuai gambar. Kemungkinan salah cetak di buku (mis. '2 .'); tidak dikoreksi."
+ },
+ {
+  "id": "852",
+  "status": "ok",
+  "detail": "hal. 1063: cocok."
+ },
+ {
+  "id": "853",
+  "status": "ok",
+  "detail": "hal. 1064: cocok."
+ },
+ {
+  "id": "854",
+  "status": "ok",
+  "detail": "hal. 1065: ketuk angkat '3, 4,' bergaris ganda (½ ketuk) memang begitu di buku dan dilengkapi birama akhir 3,5 ketuk; semua kelompok garis ganda dicek, cocok."
+ },
+ {
+  "id": "855",
+  "status": "fixed",
+  "detail": "hal. 1066: not cocok; lirik s'ba-gai."
+ },
+ {
+  "id": "856",
+  "status": "ok",
+  "detail": "hal. 1067: cocok."
+ },
+ {
+  "id": "857",
+  "status": "fixed",
+  "detail": "hal. 1068: not & legato cocok; lirik diperbaiki (de-ngar-kan-lah nya-ta-kan pa-da-ku)."
+ },
+ {
+  "id": "858",
+  "status": "ok",
+  "detail": "hal. 1069: not (#5 dicoret), lirik, ayat 2-3 cocok."
+ },
+ {
+  "id": "859",
+  "status": "ok",
+  "detail": "hal. 1070: cocok (kanon)."
+ },
+ {
+  "id": "860",
+  "status": "ok",
+  "detail": "hal. 1071: not, legato, ayat 2-4 cocok."
+ },
+ {
+  "id": "861",
+  "status": "ok",
+  "detail": "hal. 1072: cocok."
+ },
+ {
+  "id": "862",
+  "status": "ok",
+  "detail": "hal. 1073: cocok."
+ },
+ {
+  "id": "863",
+  "status": "ok",
+  "detail": "hal. 1074: cocok."
+ },
+ {
+  "id": "864",
+  "status": "fixed",
+  "detail": "hal. 1075: lirik bu-da-ya, a-dat; coda 'Amin' sesudah garis ganda dijadikan bagian 2 sehingga birama '1 . 0 0/' (3,5 ketuk, pelengkap ketuk angkat 5/) tidak lagi diperingatkan. 'Amen dinyanyikan pada ayat terakhir' (catatan buku) tidak dimodelkan."
+ },
+ {
+  "id": "865",
+  "status": "fixed",
+  "detail": "pages salah [1076..1097] → [1076, 1077] (hal. 1078-1097 = halaman indeks/navigasi); ayat 2 berisi ratusan baris nomor lagu & daftar kategori dari halaman indeks → dipotong jadi 5 baris; lirik ayat 1 (di-lan-da, per-be-da-an, la-ya-ni-lah) dan ayat 3 bernot (har-mo-ni, les-ta-ri-kan-lah, Ke-ra-ku-san, 'Cip ta am' sesuai cetakan). Not, triol 6-5-6 & 2-1-2 cocok."
+ }
+]

@@ -1,0 +1,43 @@
+{
+ "be": 552,
+ "variant": "",
+ "bl": 415,
+ "title": "Ku 'kan pergi jauh",
+ "key": "D",
+ "meter": "4/4",
+ "credit": "N.N",
+ "pages": [
+  692
+ ],
+ "cat": "Nyanyian Kanon",
+ "tempo": 110,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "1 1 2 . | 3 .+2 1 .+1 | 3 3 4 4 | (5 .+4) 3 . | 1' .\n7 . | 1' .+7 1' .+1' | (1' 7+6 5+4) (3+2) | 1 . 1 1 | 5 .\n4 . | 3 .+4 5 0 | 3' . 2' .+5 | 1' . . . :|",
+   "rows": [
+    "Ku kan per-gi ja-uh ke sur-ga-lah rin-du-ku Ye-sus Tu-han-ku ba-wa-lah a-ku ke sur-ga ru-mah-Mu ber-sa-ma-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Ku kan pergi jauh ke surgalah rinduku Yesus Tuhanku bawalah aku ke surga rumahMu bersamaMu"
+  ]
+ ],
+ "vnum": [
+  1
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 692: pemisahan kata \"Tu-han ku-ba-wa-lah\" -> \"Tu-han-ku ba-wa-lah\" (Yesus Tuhanku, bawalah aku); ayat 1 ikut"
+ ],
+ "status": "",
+ "ref": "Sionom Logu",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

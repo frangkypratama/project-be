@@ -1,0 +1,93 @@
+{
+ "be": 99,
+ "variant": "",
+ "bl": 206,
+ "title": "Engkau Panglima perkasa",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Philipp Nicolai, 1599",
+ "pages": [
+  120,
+  121
+ ],
+ "cat": "Kenaikan Tuhan Yesus",
+ "tempo": 100,
+ "credits": [
+  "Syair: Ernst Christoph Homburg 1659 (1605-1662)",
+  "Lagu: Philipp Nikolai 1599 (1556-1608)",
+  "Terj.Ind.: St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 5 3 1 5 | 6 6 5 5 | 6 7 1' 7 | 6 6 5 3 |\n6 5 4 3 | 2 . 1 :|",
+   "rows": [
+    "Eng-kau pang-li-ma per-ka-sa Kau pa-da ha-ri i-ni-lah Kau naik ke tah-ta sur-ga",
+    "Tu-gas-Mu su-dah-lah ge-nap Eng-kau se-ti-a dan te-tap me-ne-bus ma-nu-si-a"
+   ]
+  },
+  {
+   "notes": "0 | 5 . 3 . | 5 . 3 . | 4\n3 2 3 | 4 3 2 3 | 4 3 2 . | 1 . 1' 7 | 6 5 4 3 |\n2 . 1 |]",
+   "rows": [
+    "Ta-bah ga-gah dan mu-li-a Kau kem-ba-li naik ke sor-ga di se-be-lah ka-nan Ba-pa"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Engkau panglima perkasa Kau pada hari inilah Kau naik ke tahta surga",
+   "TugasMu sudahlah genap Engkau setia dan tetap menebus manusia",
+   "Tabah gagah dan mulia Kau kembali naik ke sorga di sebelah kanan Bapa"
+  ],
+  [
+   "Berjuta-juta Serapim, beribu-ribu Kerubim Memuji Kau yang jaya",
+   "Sang Jurus'lamat dunia memperdamaikan manusia Dengan Allah di Surga",
+   "Puji, puji Yesus Kristus yang setia dengan tulus Melakukan p'rintah Allah"
+  ],
+  [
+   "Engkau kepala Gereja dan kamilah anggota-Nya Tubuh-Mulah Gereja",
+   "Engkaulah sumber hidupnya yang memberikan sejaht'ra Kepada jemaat-Mu",
+   "Bimbing, pimpin, hati kami agar kami jadi saksi Kemuliaan-Mu Tuhan"
+  ],
+  [
+   "Kuduskan hati umatMu berikan kekuatanMu melakukan FirmanMu",
+   "Berilah hati yg bersih perangai yg berbudi baik yg suka melayani",
+   "B'rilah kami hidup baru dan umatMu agar mampu melakukan kehendakMu"
+  ],
+  [
+   "Kuatkan langkah umat-Mu, berikan hati yang teguh Berjalan ke rumah-Mu",
+   "Lindungi kami semua selama hidup di dunia Bahagia dan sejahtera",
+   "Kemenangan Kau berikan bagi kami umat Tuhan Di rumah-Mu yang di Surga"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 120/121 kepala: Buku Logu 206 (data None)",
+  "Koreksi dari gambar halaman: hal. 120 baris 2-3: pemisahan kata 'ga gah' → 'ga-gah', 'se be-lah' → 'se-be-lah'"
+ ],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Ku-dus-kan ha-ti u-mat-Mu be-ri-kan ke-ku-a-tan-Mu me-la-ku-kan Fir-man-Mu",
+     "Be-ri-lah ha-ti yg ber-sih pe-ra-ngai yg ber-bu-di baik yg su-ka me-la-ya-ni"
+    ],
+    [
+     "B'ri-lah ka-mi hi-dup ba-ru dan u-mat-Mu a-gar mam-pu me-la-ku-kan ke-hen-dak-Mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 121)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

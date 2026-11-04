@@ -1,0 +1,52 @@
+{
+ "be": 686,
+ "variant": "",
+ "bl": null,
+ "title": "Kubercela di depanMu",
+ "key": "Db",
+ "meter": "6/8",
+ "credit": "",
+ "pages": [
+  861
+ ],
+ "cat": "Pengakuan dan Pengampunan Dosa",
+ "tempo": 100,
+ "credits": [
+  "Syair: Just as I am without one plea; Charlotte Elliot",
+  "Lagu: William B. Bradbury",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "(1+2) | 3 . 3 (5 .+4) 3 | (2 .+3) 4 3 . 3 | (5 2) 3 4 .\n6 | 6 . 5 3 . (1+2) | 3 . 3 (5 .+4) 3 | 6 . 6 (1' .+7)\n6 | 5 . 5 (5 .+4) 3 | 2 . . 5 . . | (3 . . 3) . . |]",
+   "rows": [
+    "Ku-ber-ce-la di de-pan-Mu na-mun Kau pang-gil di-ri-ku Ku di-ku-dus-kan da-rah-Mu ya A-nak Dom-ba Al-lah-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kubercela di depanMu namun Kau panggil diriku Ku dikuduskan darahMu ya Anak Domba Allahku"
+  ],
+  [
+   "Kini 'ku datang padaMu dengan banyaknya dosaku",
+   "DarahMu t'lah membasuhku, ya Anak Domba Allahku"
+  ],
+  [
+   "Dengan belas kasihanMu, kini 'ku datang padaMu",
+   "T'lah Kau kuduskan jiwaku, ya Anak Domba Allahku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 861 baris 2: 'di ri ku Ku di ku dus kan' → 'di-ri-ku Ku di-ku-dus-kan' (sebelumnya 'di-ri-ku-Ku')"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

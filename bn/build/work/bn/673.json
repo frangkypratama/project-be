@@ -1,0 +1,77 @@
+{
+ "be": 673,
+ "variant": "",
+ "bl": null,
+ "title": "Yesuslah mata air kudus",
+ "key": "Bb",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  843,
+  844
+ ],
+ "cat": "Panggilan Pertobatan",
+ "tempo": 100,
+ "credits": [
+  "Syair: There is fountain field with blood; William Cowper, 1771",
+  "Lagu: Traditional America Melody Art, by Lowell Mason, 1830",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "(1+3) | 5 .+6 5 1' | 1' .+6 5 (1+3) | 5 .+5 (6+5) (3+1) |\n2 . . (1+3) | 5 .+6 5 1' | 1' .+6 5 (1'+2') | 3' .+1' 2' 3' |\n1' . . (1'+2') | 3' .+1' 2' 3' | (1' .+6 1') 6 | 5 .+5 (6+5) (3+1) |\n2 . . (1+3) | 5 .+6 5 1' | 1' .+6 5 (1'+2') | 3' .+1' 2' 3' |\n1' . . |]",
+   "rows": [
+    "Ye-sus-lah ma-ta air ku-dus di bu-kit Gol-ga-ta yg mau ber-to-bat di-te-bus di-ba-suh do-sa-nya di-ba-suh do-sa-nya di-ba-suh do-sa-nya Yg mau ber-to-bat di-te-bus di-ba-suh do-sa-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yesuslah mata air kudus di bukit Golgata yg mau bertobat ditebus dibasuh dosanya dibasuh dosanya dibasuh dosanya Yg mau bertobat ditebus dibasuh dosanya"
+  ],
+  [
+   "Penyamun yang di sisiNya beroleh anug'rah",
+   "Dan aku yang penuh dosa dibasuh darahNya",
+   "Dibasuh darahNya, dibasuh darahNya",
+   "Dan aku yang penuh dosa dibasuh darahNya"
+  ],
+  [
+   "Kuasa darah kudusNya kekal selamanya",
+   "Semua yang datang padaNya dihapus dosanya",
+   "Dihapus dosanya, dihapus dosanya",
+   "Semua yang datang padaNya dihapus dosanya"
+  ],
+  [
+   "Sejakku pandang Kau Yesus dalam sengsaraMu KasihMulah kupuji t'rus selama hidupku Selama hidupku selama hidupku KasihMulah kupuji t'rus selama hidupku"
+  ],
+  [
+   "Dan jika mulutku kelu di saat ajalku",
+   "'Ku muliakan namaMu kekal di SurgaMu",
+   "Kekal di SurgaMu, kekal di SurgaMu",
+   "'Ku muliakan namaMu kekal di SurgaMu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Se-jak-ku pan-dang Kau Ye-sus da-lam seng-sa-ra-Mu Ka-sih-Mu-lah ku-pu-ji t'rus se-la-ma hi-dup-ku Se-la-ma hi-dup-ku se-la-ma hi-dup-ku Ka-sih-Mu-lah ku-pu-ji t'rus se-la-ma hi-dup-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 844)"
+   ]
+  }
+ },
+ "warn": []
+}

@@ -1,0 +1,217 @@
+[
+ {
+  "id": "263",
+  "status": "fixed",
+  "detail": "hal.326: not & durasi cocok; pemisahan kata ayat 1 diperbaiki ('(me-la-ku-kan}', 'yg ku tau'). Teks kurung '(me la ku kan}' memang tertulis begitu di buku."
+ },
+ {
+  "id": "264",
+  "status": "fixed",
+  "detail": "hal.327-328: not cocok; pemisahan kata ayat 1 (la-ra-nga-Mu, gu-na, du-ni) dan ayat 3 di not (a-ku i-ni) diperbaiki."
+ },
+ {
+  "id": "265",
+  "status": "fixed",
+  "detail": "hal.329: bl 192 diisi (sebelumnya kosong); pemisahan kata 'Dan ku bersyukur', 'sa-yg-Mu'. Not cocok."
+ },
+ {
+  "id": "266",
+  "status": "issue",
+  "detail": "hal.330: volta 1./2. di birama 4 belum dimodelkan (struktur dibiarkan). Teks ayat 1 dirapikan: suku 'i' di volta 2 = akhir 'temui', bukan awal baris berikut (fix ditulis). Not lain cocok."
+ },
+ {
+  "id": "267",
+  "status": "fixed",
+  "detail": "hal.331-332: not cocok; ayat 4 di not 'TanganMu 'ku pegang' (pemisahan kata) diperbaiki."
+ },
+ {
+  "id": "268",
+  "status": "ok",
+  "detail": "hal.333: not, lirik, 4 ayat cocok."
+ },
+ {
+  "id": "269",
+  "status": "issue",
+  "detail": "hal.334-335: not & lirik ayat 1 cocok. Ayat 4 (di not hal.335) di buku hanya berisi baris 'Dia yg menuntunku baik siang malampun' untuk bagian 2 — sisa refrein tidak tertulis di buku, jadi ayat 4 tidak lengkap (data apa adanya, 13 '_')."
+ },
+ {
+  "id": "270",
+  "status": "ok",
+  "detail": "hal.336: not (termasuk durasi titik 3/+.//+4//), lirik, 3 ayat cocok."
+ },
+ {
+  "id": "271",
+  "status": "fixed",
+  "detail": "hal.337: not cocok (1 dicoret = #1'); 'sumber bahagia' (pemisahan kata) diperbaiki."
+ },
+ {
+  "id": "272",
+  "status": "fixed",
+  "detail": "hal.338: not cocok; pemisahan kata 'pe-dang', 'Ki-bar-kan' diperbaiki."
+ },
+ {
+  "id": "273",
+  "status": "fixed",
+  "detail": "hal.339: not cocok; 'tetap 'ku pegang' diperbaiki. Buku Logu tertulis '240a' — bl tetap kosong (bukan angka murni)."
+ },
+ {
+  "id": "274",
+  "status": "fixed",
+  "detail": "hal.340: not cocok (fermata akhir tidak dimodelkan); pemisahan kata 'Pabila, melayakkanmu, so-sa-mu' (buku menulis 'so sa mu', kemungkinan salah cetak 'dosamu')."
+ },
+ {
+  "id": "275",
+  "status": "ok",
+  "detail": "hal.341: not (#4), lirik, 4 ayat cocok."
+ },
+ {
+  "id": "276",
+  "status": "fixed",
+  "detail": "hal.342: bl 235 diisi; lirik buku '\\Ya ... pe ,e nang' (salah ketik) dibaca 'Ya ... pe-me-nang' sesuai judul. Not 6/8 cocok."
+ },
+ {
+  "id": "277",
+  "status": "ok",
+  "detail": "hal.343: not, lirik, 7 ayat cocok."
+ },
+ {
+  "id": "278",
+  "status": "fixed",
+  "detail": "hal.344-345: bl 234 diisi; ayat 4 'sifat' diperbaiki. Not cocok (garis birama tambahan sudah benar)."
+ },
+ {
+  "id": "279a",
+  "status": "fixed",
+  "detail": "hal.346: not & durasi cocok; pemisahan kata 'Ma-nu-si be-ren-ca-na', 'pe-nen-tu' diperbaiki (buku menulis 'si')."
+ },
+ {
+  "id": "279b",
+  "status": "fixed",
+  "detail": "hal.347: not cocok (3/4 benar); 'be-ren-ca-na', 'pe-nen-tu' diperbaiki. Buku Logu tertulis '260b' — bl tetap kosong."
+ },
+ {
+  "id": "280",
+  "status": "fixed",
+  "detail": "hal.348: bl 173 diisi; 'di-ber-bu-at' diperbaiki. Not cocok."
+ },
+ {
+  "id": "281",
+  "status": "fixed",
+  "detail": "hal.349-350: not cocok; 'asasnya' diperbaiki; ayat 5 di not benar. (Ayat 2 'bertlah' salah ketik di buku, dibiarkan.)"
+ },
+ {
+  "id": "282",
+  "status": "fixed",
+  "detail": "hal.351-352: not cocok; 'tak perlu 'ku ragu' dan ayat 7 'diancam' diperbaiki."
+ },
+ {
+  "id": "283",
+  "status": "ok",
+  "detail": "hal.353: not, lirik, 7 ayat cocok."
+ },
+ {
+  "id": "284",
+  "status": "fixed",
+  "detail": "hal.354-355: not cocok (b7, #1'); 's'lalu 'ku terima' diperbaiki."
+ },
+ {
+  "id": "285",
+  "status": "ok",
+  "detail": "hal.356: not, lirik, 9 ayat cocok."
+ },
+ {
+  "id": "286",
+  "status": "fixed",
+  "detail": "hal.357: not 12/8 cocok; 'bergemuruh' diperbaiki."
+ },
+ {
+  "id": "287",
+  "status": "ok",
+  "detail": "hal.358: not & durasi (2/4, legato) cocok, lirik & 4 ayat cocok."
+ },
+ {
+  "id": "288",
+  "status": "ok",
+  "detail": "hal.359: not, lirik, 6 ayat cocok."
+ },
+ {
+  "id": "289",
+  "status": "ok",
+  "detail": "hal.360: not, lirik, 2 ayat cocok."
+ },
+ {
+  "id": "290",
+  "status": "fixed",
+  "detail": "hal.361: bl 25 diisi (sebelumnya kosong). Not & lirik cocok."
+ },
+ {
+  "id": "291",
+  "status": "fixed",
+  "detail": "hal.362: kepala '3 ketuk', 4 birama awal memang 3 ketuk lalu tertulis '4 krtuk' di atas '| 4 3 3 1' → dibagi 2 bagian (bagian 1 3/4, bagian 2 meter 4/4), meter lagu 3/4; validator kini OK. 'menghidupi' diperbaiki."
+ },
+ {
+  "id": "292",
+  "status": "fixed",
+  "detail": "hal.363: bl 141 diisi. Not (6,/+.//+5, legato) & lirik cocok."
+ },
+ {
+  "id": "293",
+  "status": "fixed",
+  "detail": "hal.364: durasi rumit (ketuk angkat 5,/ dan 0/) cocok; 'Dia sahabamu' (pemisahan kata) diperbaiki."
+ },
+ {
+  "id": "294",
+  "status": "issue",
+  "detail": "hal.365: not 6/8 & lirik cocok. Buku Logu tertulis '70a' — bl kosong karena bukan angka murni (tidak diubah)."
+ },
+ {
+  "id": "295",
+  "status": "fixed",
+  "detail": "hal.366: not cocok; 'di surgalah', 'taranya 'ku ingin di sana' diperbaiki. Catatan: ayat 4 baris 1-2 berbeda (bukan ulangan) sementara bagian ulang hanya 1 baris lirik."
+ },
+ {
+  "id": "296",
+  "status": "fixed",
+  "detail": "hal.367: not cocok; 'Di dalam', 'menghiburku 'Ku' diperbaiki."
+ },
+ {
+  "id": "297",
+  "status": "ok",
+  "detail": "hal.368: not (legato) & lirik, 7 ayat cocok."
+ },
+ {
+  "id": "298",
+  "status": "fixed",
+  "detail": "hal.369: not cocok; 'Di sisiMu' diperbaiki."
+ },
+ {
+  "id": "299",
+  "status": "ok",
+  "detail": "hal.370: not & lirik, 7 ayat cocok (fermata tidak dimodelkan)."
+ },
+ {
+  "id": "300",
+  "status": "fixed",
+  "detail": "hal.371: not cocok; 'muliaka' satu kata (buku menulis 'mu li a ka')."
+ },
+ {
+  "id": "301",
+  "status": "fixed",
+  "detail": "hal.372: not cocok; 'Di pagi hari ini', 'Di atas tahtaMu 'ku', 'di dalam' diperbaiki."
+ },
+ {
+  "id": "302",
+  "status": "fixed",
+  "detail": "hal.373: not cocok; 'di hati' diperbaiki."
+ },
+ {
+  "id": "303",
+  "status": "fixed",
+  "detail": "hal.374: not cocok; 'berlalu 'ku lihat', 'tubuhku pun' diperbaiki."
+ },
+ {
+  "id": "304",
+  "status": "fixed",
+  "detail": "hal.375: not cocok; 'hari ini' diperbaiki ('di Kau' dibiarkan seperti buku)."
+ }
+]

@@ -1,0 +1,88 @@
+{
+ "be": 466,
+ "variant": "",
+ "bl": 314,
+ "title": "Aku datang ya Tuhanku",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Winfield S. Weeden, 1896",
+ "pages": [
+  588
+ ],
+ "cat": "Roh Kudus",
+ "tempo": 90,
+ "credits": [
+  "Syair: Judson W. Van Deventer 1896 (1855-1939)",
+  "Lagu: Winfield S. Weeden 1896 (1847-1908)",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM & Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 .+5 6 5 | 4 .+4 5 4 | 3 .+3 6 5 | 4 5 3 . :|",
+   "rows": [
+    "A-ku da-tang ya Tu-han-ku pa-da ka-ki sa-lib-Mu",
+    "Ku per-sem-bah-kan di-ri-ku kar'-na pe-ngor-ba-nan-Mu"
+   ]
+  },
+  {
+   "notes": "1' .+7 6 5 | 4 . . 0 | 7 .+6 5 4 | 3 . . 0 | 3 .+4\n6 5 | 1' .+7 7 6 | 5 .+4 3 2 | 1 . . 0 |]",
+   "rows": [
+    "A-ku ba-ha-gia ber-su-ka-ci-ta ke-pa-da-Mu Ju-ru-s'la-mat a-ku ber-se-rah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Aku datang ya Tuhanku pada kaki salibMu",
+   "Ku persembahkan diriku kar'na pengorbananMu",
+   "Aku bahagia bersukacita",
+   "KepadaMu Jurus'lamat aku berserah"
+  ],
+  [
+   "Tiada pegangan hidupku hanya pada tangan-Mu",
+   "Kedamaian 'ku temukan hanya dalam Firman-Mu",
+   "Aku bahagia, bersukacita",
+   "Kepada-Mu Jurus'lamat, aku berserah"
+  ],
+  [
+   "Materaikan di hatiku, Roh Kudus-Mu Tuhanku",
+   "Jadikan aku bait-Mu, aku ini milik-Mu",
+   "Aku bahagia, bersukacita",
+   "Kepada-Mu Jurus'lamat, aku berserah"
+  ],
+  [
+   "Isilah diriku Tuhan dengan Roh-Mu yang kudus",
+   "Nikmat dunia kutinggalkan untuk datang pada-Mu",
+   "Aku bahagia, bersukacita",
+   "Kepada-Mu Jurus'lamat, aku berserah"
+  ],
+  [
+   "Di dalam kelemahanku kuasa-Mu kuatkan 'ku",
+   "Naungan kasih-Mu Tuhanku, mengiringi langkahku",
+   "Aku bahagia, bersukacita",
+   "Kepada-Mu Jurus'lamat, aku berserah"
+  ],
+  [
+   "Betapa dalam kasih-Mu kepadaku Tuhanku",
+   "Aku taat kepada-Mu, aku ini milik-Mu",
+   "Aku bahagia, bersukacita",
+   "Kepada-Mu Jurus'lamat, aku berserah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 588 baris 1: bagian \"||: ... \" berisi dua baris lirik (A ku da tang / Ku per sem bah kan) dengan panah ke reff; tanda akhir baris tercetak \"|||\" tetapi jelas daerah ulang → bagian 1 diakhiri :| dengan dua baris lirik, reff menjadi bagian 2 (sebelumnya satu bagian dengan baris kedua diisi _)",
+  "Koreksi dari gambar halaman: hal. 588: pemisahan kata \"A-ku da-tang\", \"a-ku ber-se-rah\" diperbaiki"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

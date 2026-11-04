@@ -1,0 +1,84 @@
+{
+ "be": 24,
+ "variant": "",
+ "bl": 59,
+ "title": "Lawatlah Tuhan",
+ "key": "Ab",
+ "meter": "3/4",
+ "credit": "Adam Drese, 1698",
+ "pages": [
+  31
+ ],
+ "cat": "Hari Minggu",
+ "tempo": 80,
+ "credits": [
+  "Syair: Nikolaus Ludwig von Zinzendorf 1725 (1700-1760)",
+  "Lagu: Adam Drese 1698 (1620-1701)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1+1 7, 1 | 2 . 0 | 1 2 3 2 | 1 . 0 | 3+4 5 4 | 3+2\n3 2 | 1+2 3 2 | 1+7, 1 7, | 1+1 7, 1 | 1 . 0 | 1+2 3\n2 | 1 . 0 |]",
+   "rows": [
+    "La-wat-lah Tu-han ka-mi u-mat-Mu Ka-mi mau me-mu-ji Tu-han kar'-na ka-sih dan rah-mat-Mu La-wat-lah Tu-han ka-mi u-mat-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Lawatlah Tuhan kami umatMu Kami mau memuji Tuhan kar'na kasih dan rahmatMu Lawatlah Tuhan kami umatMu"
+  ],
+  [
+   "Kasihanilah, kami yang sesat",
+   "Kaulah Yesus pertolongan, yang memb'ri keselamatan",
+   "Kasihanilah, kami yang sesat"
+  ],
+  [
+   "Tolonglah Tuhan, kami yang lemah",
+   "B'rilah kami kekuatan, menghadapi pencobaan",
+   "Tolonglah Tuhan, kami yang lemah"
+  ],
+  [
+   "Sucikan Tuhan, kami yang cemar",
+   "T'rima pertobatan kami, dan kuduskan hati kami",
+   "Sucikan Tuhan, kami yang cemar"
+  ],
+  [
+   "Tuhan bimbinglah, kami umat-Mu",
+   "Agar tau memilih jalan, yang menuju ke Surga-Mu",
+   "Tuhan bimbinglah, kami umat-Mu"
+  ],
+  [
+   "Pembenaran-Mu, sangatlah perlu",
+   "Agar kami menyesali, dan mengaku dosa kami",
+   "Pembenaran-Mu, sangatlah perlu"
+  ],
+  [
+   "Bangunkan Tuhan, kami umat-Mu",
+   "Janganlah Tuhan biarkan, hidup kami dalam dosa",
+   "Bangunkan Tuhan, kami umat-Mu"
+  ],
+  [
+   "Bukalah Tuhan, pintu rumah-Mu",
+   "Bila ajal kami tiba, jiwa kami masuk Surga",
+   "Bukalah Tuhan, pintu rumah-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 31: Buku Logu tertulis 59 (data kosong) → bl 59"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

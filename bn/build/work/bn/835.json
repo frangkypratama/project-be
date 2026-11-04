@@ -1,0 +1,70 @@
+{
+ "be": 835,
+ "variant": "",
+ "bl": null,
+ "title": "Nunga lao, nunga lao",
+ "key": "G",
+ "meter": "3/4",
+ "credit": "",
+ "pages": [
+  1049
+ ],
+ "cat": "Akhir zaman",
+ "tempo": 88,
+ "credits": [
+  "Syair: NN",
+  "Lagu: NN",
+  "Terj.Ind.: St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5,/+.//+3// | (3 2) 5,/+.//+4// | (4 3) 1/+.//+3// | 5 .+3 4/+.//+2// |\n(2 1) 0 | 3/+.//+3// 3+3 3+3 | (5/+.//+4//) 2 0 | 4/+.//+4// 4+4\n4+4 | (6/+.//+5//) 3",
+   "rows": [
+    "T'lah per-gi t'lah per-gi so-bat ki-ta t'lah per-gi ke ru-mah Ba-pa di sur-ga di-sam-but pa-pa ma-lai-kat"
+   ]
+  },
+  {
+   "notes": "1/+.//+3// | 5 .+3 4/+.//+2// | (2 1) :|",
+   "rows": [
+    "Ma-suk sur-ga yg ba-ka"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "T'lah pergi t'lah pergi sobat kita t'lah pergi ke rumah Bapa di surga disambut papa malaikat",
+   "Masuk surga yg baka"
+  ],
+  [
+   "Ingatlah, ingatlah kita juga 'kan pergi",
+   "Handai tolan 'kan melawat, berdoa serta bernyanyi",
+   "Saat roh kita pergi, saat roh kita pergi"
+  ],
+  [
+   "Bahagia, bahagia yang percaya padaNya",
+   "Pada Yesus Tuhan kita akan hidup selamanya",
+   "Dalam Surga yang baka, dalam Surga yang baka"
+  ],
+  [
+   "Dengarlah, dengarlah Firman Tuhan Allahmu",
+   "Renungkanlah hingga malam dan hayatilah olehmu",
+   "Sampai akhir hidupmu, sampai akhir hidupmu"
+  ],
+  [
+   "Camkanlah, camkanlah dan hayati p'rintahNya",
+   "Kasihilah Tuhan Allah dan lakukan kehendakNya",
+   "Sampai tiba di Surga, sampai tiba di Surga"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

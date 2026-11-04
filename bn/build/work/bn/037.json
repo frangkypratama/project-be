@@ -1,0 +1,39 @@
+{
+ "be": 37,
+ "variant": "",
+ "bl": 48,
+ "title": "Kasih karunia",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Christian Gregor, 1763",
+ "pages": [
+  45
+ ],
+ "cat": "Hari Minggu",
+ "tempo": 104,
+ "credits": [
+  "Syair: 2 Korintus 13:13",
+  "Lagu: Christian Gregor 1784 (1723-1801)",
+  "Terj.Ind.:St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5 . 5 5 | 1' . 5 5 | 5 5 6 5 | (5 4) 3 . | 5 . 5 5 |\n1' . 5 . | 6 5 (5 4) | 3 . . 0 | 5 . 5 5 | 1' . 5 5 |\n(5 4) 3 5 | 4 3 2 1 | 6 5 4 3 | 2 . 1 . |]",
+   "rows": [
+    "Ka-sih ka-ru-nia Tu-han-ku Ye-sus Kris-tus Ka-sih se-ti-a Al-lah Ba-pa Per-se-ku-tu-an Roh Ku-dus ki-ra-nya ser-ta ki-ta se-mua A-min"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kasih karunia Tuhanku Yesus Kristus Kasih setia Allah Bapa Persekutuan Roh Kudus kiranya serta kita semua Amin"
+  ]
+ ],
+ "vnum": [
+  1
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

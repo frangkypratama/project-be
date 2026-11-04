@@ -1,0 +1,45 @@
+{
+ "sections": [
+  {
+   "notes": "5, | 1 .+5, 5, 1 | (3 .+2) 1 1 | 1 .+6, (2+1) 6, | 5, . . 5, |\n2 .+1 2 3 | 2 1 . (1+3) | 5 .+3 (3+2) 1 | 2 . . 2 | 2 .+3\n4 4 | 4 3 . 3 | 3 .+2 1 (2+1) | 7, . . 7, | 6, .+7, 1 6, |\n6, 5, . 1 | 2 .+1 3 .+2 | 1 . . 5, | 5, .+7, 2 .+3 | 2 1 .\n1 | 1 .+4 4 4 | 4 3 . 3 | 5 .+3 (3+2) 1 | 2 1 . 6, |\n5, 1 2 .+1 | 1 . . 0 |]",
+   "rows": [
+    "Ku-su-ka me-mas-yur-kan be-ri-ta in-jil-Nya Ce-ri-ta Tu-han Ye-sus dan cin-ta ka-sih-Nya Ku su-ka me-mas-yur-kan yg a-ku tau be-nar Pu-as-kan ha-ti rin-du Peng-hi-bur ter-be-sar Ku su-ka me-mas-yur-kan ku su-ka me-nu-tur-kan Ce-ri-ta Tu-han Ye-sus dan cin-ta ka-sih-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kusuka memasyurkan berita injilNya Cerita Tuhan Yesus dan cinta kasihNya Ku suka memasyurkan yg aku tau benar Puaskan hati rindu Penghibur terbesar Ku suka memasyurkan ku suka menuturkan Cerita Tuhan Yesus dan cinta kasihNya"
+  ],
+  [
+   "'Ku suka memasyhurkan berita InjilNya, cerita paling indah tiada bandingnya",
+   "'Ku suka menuturkan kepada sobatku, kar'na cerita itu b'ri kehidupanku",
+   "'Ku suka memasyhurkan, 'ku suka menuturkan, cerita Tuhan Yesus dan cinta kasihNya"
+  ],
+  [
+   "Kusuka memasyurkan berita injilNya Setiapku b'ritakan bertambah nikmatnya Ku suka memasyurkan berita injilnya Ku suka memasyurkan berita injilNya Ku suka memasyurkan ku suka menuturkan Cerita Tuhan Yesus dan cinta kasihNya"
+  ],
+  [
+   "'Ku suka memasyhurkan berita InjilNya, dan bagi umat Tuhan tak bosan mendengar",
+   "Di Surga selamanya semua menyanyikan, cerita Tuhan Yesus dan cinta kasihNya",
+   "'Ku suka memasyhurkan, 'ku suka menuturkan, cerita Tuhan Yesus dan cinta kasihNya"
+  ]
+ ],
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Ku-su-ka me-mas-yur-kan be-ri-ta in-jil-Nya Se-ti-ap-ku b'ri-ta-kan ber-tam-bah nik-mat-nya Ku su-ka me-mas-yur-kan be-ri-ta in-jil-nya Ku su-ka me-mas-yur-kan be-ri-ta in-jil-Nya Ku su-ka me-mas-yur-kan ku su-ka me-nu-tur-kan Ce-ri-ta Tu-han Ye-sus dan cin-ta ka-sih-Nya"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 838)"
+   ]
+  }
+ },
+ "note": [
+  "hal. 837 (ayat 1): pemisahan kata diperbaiki: 'kasihNya Ku suka', 'terbesar Ku suka', 'memasyurkan ku suka', 'Pu-as-kan' (sebelumnya 'kasihNyaKu', 'Pu as kan', dst.)",
+  "hal. 838 (ayat 3, lirik di not): 'nikmatnya Ku', 'injilnya Ku', 'injilNya Ku', 'memasyurkan ku' dipisah (vl_direct + teks ayat 3)"
+ ]
+}

@@ -1,0 +1,57 @@
+{
+ "be": 443,
+ "variant": "",
+ "bl": 393,
+ "title": "Kuberbahagia",
+ "key": "Eb",
+ "meter": "9/8",
+ "credit": "Fanny J. Crosby, 1915",
+ "pages": [
+  563
+ ],
+ "cat": "Pujilah Penebus",
+ "tempo": null,
+ "credits": [
+  "Syair: Fanny J. Crosby 1820-1915",
+  "Lagu: Mrs. Joseph F. Knapp 1839-1908",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3 2 1 | 5 . . 5 . . 4 5 6 | (5 . . 5) . 0 5 3 5 | 1' . . 7 . .\n6 5 4 | (5 . . 5) . 0 3 2 1 | 5 . . 5 . . 4 5 6 | (5 . . 5) . 0\n1 2 3 | 4 . . 2 . . 1 2 7, | (1 . . 1) . 0 5 5 5 | 1' . . 5 . .\n6 6 6 | (5 . . 5) . 0 5 5 5 | 6 . . 1' . . 7 7 6 | (7 . . 7) . 0\n7 1' 2' | 1' . . 5 . . 6 5 6 | (5 . . 5) . 0 1' 7 1' | 2' . . 6 . .\n5 1' 7 | (1' . . 1') . 0 |]",
+   "rows": [
+    "'Ku ber-ba-ha-gia da-mai pe-nuh Se-su-dah Ye-sus pe-mi-lik-ku A-ku be-ro-leh i-man te-guh se-mua do-sa-ku t'lah di-te-bus ma-ri sak-si-kan ka-sih Tu-han tia-da ta-ra-nya ku-a-sa-Nya Ke-mu-ra-han-Nya dan ber-kat-Nya pu-ji-lah Ye-sus se-la-ma-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "'Ku berbahagia damai penuh Sesudah Yesus pemilikku Aku beroleh iman teguh semua dosaku t'lah ditebus mari saksikan kasih Tuhan tiada taranya kuasaNya KemurahanNya dan berkatNya pujilah Yesus selamanya"
+  ],
+  [
+   "Pasrah diriku kepada-Mu, Aku bahagia, Kau milikku",
+   "Kau besertaku menolongku, Kalahkan dosa dan hasratku",
+   "Mari saksikan kasih Tuhan, Tiada taranya kuasa-Nya",
+   "Kemurahan-Nya dan berkat-Nya, Pujilah Yesus selamanya"
+  ],
+  [
+   "Aku berserah diri penuh, Senang hatiku bersama-Mu",
+   "Firman-Mu tinggal di hatiku, Sampai 'ku tiba di rumah-Mu",
+   "Mari saksikan kasih Tuhan, Tiada taranya kuasa-Nya",
+   "Kemurahan-Nya dan berkat-Nya, Pujilah Yesus selamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 563 kepala lagu: tertulis \"Buku Lagu: 393\" (salah ketik untuk Buku Logu) → bl 393"
+ ],
+ "status": "",
+ "ref": "Buku Lagu: 393 R.L.No. 237",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

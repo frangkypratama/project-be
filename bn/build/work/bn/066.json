@@ -1,0 +1,55 @@
+{
+ "be": 66,
+ "variant": "",
+ "bl": 52,
+ "title": "Tuhan Allah sertamu",
+ "key": "Ab",
+ "meter": "3/4",
+ "credit": "Julius Karl Heinrich Grobe, 1640",
+ "pages": [
+  82
+ ],
+ "cat": "Tahun baru",
+ "tempo": null,
+ "credits": [
+  "Syair: Christoph Christian Hohjfeldt 1776-1849",
+  "Lagu: Julius Karl Heinrich Grobe 1840 (1807-1877)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 . 3 | (5 4) 2 | 1 . (3+2) | 1 . 0 | 3 . 2 | 1 . 1 |\n(1 2) 3 | (5+4) 2 . | 2 . 1 | 7, 1 | (2 5) 4 | 4 . 3 | 3 .\n3 | (2 1) 7, | (1 7,) 6, | 5, . 0 | 2 . 2 | (5 3) 1 | 1 . 2 |\n3 . 0 | 3 . 3 | 6 . (4+2) | 1 . 7, | 1 . 0 |]",
+   "rows": [
+    "Tu-han Al-lah ser-ta-mu me-nu-nai-kan pang-gi-lan-mu Tu-han-lah ya me-nun-tun-mu ren-dah-kan-lah ha-ti-mu Tu-han Al-lah ser-ta-mu Tu-han Al-lah ser-ta-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhan Allah sertamu menunaikan panggilanmu Tuhanlah ya menuntunmu rendahkanlah hatimu Tuhan Allah sertamu Tuhan Allah sertamu"
+  ],
+  [
+   "Tuhan Allah sertamu, jika Dia membimbingmu",
+   "Tidak akan kau keliru, 'kan berhasil karyamu",
+   "Tuhan Allah sertamu, Tuhan Allah sertamu"
+  ],
+  [
+   "Tuhan Allah sertamu, 'kan tercapai tujuanmu",
+   "'Kan bahagialah hidupmu, kar'na berkat Tuhanmu",
+   "Tuhan Allah sertamu, Tuhan Allah sertamu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 82 kepala lagu: 'Buku Logu: 52' (data kosong) → bl 52",
+  "Koreksi dari gambar halaman: validator birama #10 = 2 ketuk: buku memang mencetak '| 7̣ 1 |' (lah ya) tanpa titik tahan — dibiarkan sesuai cetakan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

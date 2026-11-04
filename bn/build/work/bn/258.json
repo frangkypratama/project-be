@@ -1,0 +1,72 @@
+{
+ "be": 258,
+ "variant": "",
+ "bl": 218,
+ "title": "Kumenuju kehidupan",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Philipp Friedrich Hiller, 1769",
+ "pages": [
+  320
+ ],
+ "cat": "Pergumulan dan Penderitaan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Philipp Friedrich Hiller 1699-1769",
+  "Lagu: Lagu Jerman 1853",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3 .+2 (2+1) 1 | 5 .+4 (4+3) 3 | (3+2) (4+2) 1 7, |\n1 . 0 0 :|",
+   "rows": [
+    "Ku-me-nu-ju ke-hi-du-pan yg meng-hi-bur-ku",
+    "Ku ber-ju-ang mau ke sur-ga man-tap lang-kah-ku"
+   ]
+  },
+  {
+   "notes": "5 .+3 6 .+5 | (5+4) (4+3) 4 . | 4 .+2\n5 .+4 | (4+3) (3+2) 3 . | 3 .+2 (2+1) 1 | 5 .+4 (4+3)\n3 | (3+2) (4+2) 1 7, | 1 . 0 0 |]",
+   "rows": [
+    "Rin-ta-ngan-ku sing-kir-kan ku ha-ya-ti Fir-man-Nya Ber-te-kun-lah dan te-mu-kan sur-ga ba-ha-gia"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kumenuju kehidupan yg menghiburku",
+   "Ku berjuang mau ke surga mantap langkahku",
+   "Rintanganku singkirkan ku hayati FirmanNya Bertekunlah dan temukan surga bahagia"
+  ],
+  [
+   "Engkaulah yang memanggilku, masuk rumah-Mu",
+   "Apabila aku ragu, malang hidupku",
+   "Yang terhalang langkahnya, hilanglah mahkotanya",
+   "'Ku tinggalkan, 'ku lupakan, hidup yang fana"
+  ],
+  [
+   "Tuhan Yesus, tunjukkanlah arah jalanku",
+   "B'ri padaku kekuatan, aku yang lesu",
+   "Tabahkanlah hatiku, meninggalkan duniaku",
+   "Agar s'lamat dan bahagia, aku hamba-Mu"
+  ],
+  [
+   "'Ku tak mampu menaklukkan dosa-dosaku",
+   "Bawa aku, ke sisi-Mu ke tempat teduh",
+   "Ingatkanlah hatiku, menghayati Firman-Mu",
+   "'Ku agungkanlah nama-Mu dalam hidupku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 320: pemisahan kata 'man tap' → man-tap; 'sing kir kan | ku ha ya ti' → sing-kir-kan ku ha-ya-ti; teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

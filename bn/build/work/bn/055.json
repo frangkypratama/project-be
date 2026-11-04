@@ -1,0 +1,55 @@
+{
+ "be": 55,
+ "variant": "",
+ "bl": 68,
+ "title": "Malam yang Kau kuduskan",
+ "key": "G",
+ "meter": "6/8",
+ "credit": "N.N",
+ "pages": [
+  68
+ ],
+ "cat": "Natal",
+ "tempo": 56,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "1 . 1 (1 7,) 1 | 2 . 4 3 . . | (5 4) 3 (3 2) 1 | 4 . 3\n2 . . | 2 . 2 (2 .+3) 2 | (2 . 5) (#4+3) (2+3) 2+0 | 2 .\n2 (2 1) 7, | (1 . 2 3)+1 (7,+1) 7,+0 | 1 . 1 (2 1) 2 | (3 4)\n5 1 . . | (4 3) 2 (6 5) 4 | 3 . 2 1 . . |]",
+   "rows": [
+    "Ma-lam yg Kau ku-dus-kan ma-lam yg pe-nuh ber-kat Pu-t'ra Tung-gal Al-lah Ba-pa La-hir ja-di ma-nu-si-a Mu-li-a-kan na-ma-Nya Ju-ru-s'la-mat ma-nu-sia"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Malam yg Kau kuduskan malam yg penuh berkat Put'ra Tunggal Allah Bapa Lahir jadi manusia Muliakan namaNya Jurus'lamat manusia"
+  ],
+  [
+   "Manusia berdosa tak 'kan lagi binasa",
+   "Kar'na Yesus meny'lamatkan dari dosa kematian",
+   "Juga hati yang kelam, 'kan beroleh sinar t'rang"
+  ],
+  [
+   "Terpujilah Kau Tuhan, yang memb'ri kedamaian",
+   "Manusia Kau pulihkan, jadi kesudian Allah",
+   "Malam yang penuh berkat, malam yang Kau kuduskan"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 68 kepala lagu: 'Buku Logu: 68' (data kosong) → bl 68",
+  "Koreksi dari gambar halaman: hal. 68 baris 3: 'La hir ja di ma nu si a' = 'Lahir jadi manusia' (pemisahan kata, juga teks ayat 1)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

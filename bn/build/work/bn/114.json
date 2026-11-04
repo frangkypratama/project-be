@@ -1,0 +1,68 @@
+{
+ "be": 114,
+ "variant": "",
+ "bl": 212,
+ "title": "Ya Allah, kasihanilah",
+ "key": "Ab",
+ "meter": "4/4",
+ "credit": "Joseph Hayde, Abad 18",
+ "pages": [
+  140
+ ],
+ "cat": "Trinitatis",
+ "tempo": 102,
+ "credits": [
+  "Syair: Sam Preiswerk 1799-1871",
+  "Lagu: Joseph Haydn 1732-1809",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 1 1 3 | 3 .+2 2 4 | 3 (4+2) 1 7, | 1 . . :|",
+   "rows": [
+    "Ya Al-lah ka-si-ha-ni-lah se-mu-a u-mat-Mu",
+    "Yg sa-rat de-ngan do-sa-nya ber-su-jud pa-da-Mu"
+   ]
+  },
+  {
+   "notes": "(3+1) | 5, 5, 5, 4, | 4, .+3, 3, (3+1) | 5, 5, 5, 4, | 4, .+3, 3, 5, |\n1 .+1 (1+3) (3+5) | 5 .+4 4 5, | 1 .+1 (1+3) (3+5) | 5 .+4\n4 5, | 1 . b7, . | 6, . 0 (4+2) | 1 .+1 (3+2) (1+7,) | 1 . 0 |]",
+   "rows": [
+    "Ya Ba-pa ka-si-ha-ni-lah Am-pu-ni do-sa u-mat-Mu o-leh a-nak-Mu Pe-ne-bus d-ngan da-rah-Nya yg ku-dus di Gol-ga-ta Di bu-kit Gol-ga-ta"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Ya Allah kasihanilah semua umatMu",
+   "Yg sarat dengan dosanya bersujud padaMu",
+   "Ya Bapa kasihanilah Ampuni dosa umatMu oleh anakMu Penebus dngan darahNya yg kudus di Golgata Di bukit Golgata"
+  ],
+  [
+   "Ya Yesus Tuhan Rajaku, kasihi umatMu",
+   "Engkaulah benteng yang teguh, lindungi umatMu",
+   "UmatMu yang Kau s'lamatkan, jangan biarkan tersesat",
+   "Jauhkan Iblis penyesat dengan niatnya yang jahat",
+   "Lindungilah, Ya Yesus tolonglah"
+  ],
+  [
+   "Ya Roh Penghibur datanglah, berkati umatMu",
+   "Taburkan kasih setiaMu di hati umatMu",
+   "Satukan dan terangilah hati umatMu semua",
+   "Melakukan kehendakMu dan merindukan sinarMu",
+   "Berkatilah, satukan umatmu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 140 baris 1 putaran 2: 'sa rat' satu kata → 'sa-rat'",
+  "Koreksi dari gambar halaman: hal. 140 baris 3: buku menulis 'd ngan' (dengan, huruf hilang) di dua not → disatukan 'd-ngan'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

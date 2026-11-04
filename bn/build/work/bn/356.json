@@ -1,0 +1,130 @@
+{
+ "be": 356,
+ "variant": "",
+ "bl": 179,
+ "title": "KepadaMu ya Tuhanku",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "Matthias Jorssen, 1823",
+ "pages": [
+  444,
+  445
+ ],
+ "cat": "Mazmur",
+ "tempo": 100,
+ "credits": [
+  "Syair: Matthias Jorissen 1739-1823",
+  "Lagu: Jenewa 1551",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 7, 6, 5, | 1 2 3 . | 1 . . . | 3 3 4 3 | 1 2\n1 . :|",
+   "rows": [
+    "Ke-pa-da-Mu ya Tu-han-ku ku-se-rah-kan ji-wa-ku",
+    "Ha-nya Kau-lah ke-kua-tan-ku meng-ha-da-pi se-te-ru"
+   ]
+  },
+  {
+   "notes": "1 2 3 1 | 4 4 3 . | 1 6, 7, 5, | 6, 1 7, . |\n1 . . . | 3 3 1 4 | 3 2 1 . | 3 5 4 3 | 2 1 2 . |\n1 . . |]",
+   "rows": [
+    "O-rang me-nan-ti-kan-Mu ti-dak-kan men-da-pat ma-lu yg dur-ha-ka pa-da-Mu-i tu yg men-da-pat ma-lu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "KepadaMu ya Tuhanku kuserahkan jiwaku",
+   "Hanya Kaulah kekuatanku menghadapi seteru",
+   "Orang menantikanMu tidak kan mendapat malu yg durhaka padaMu itu yg mendapat malu"
+  ],
+  [
+   "B'ritahukanlah jalan-Mu dan tunjukkan padaku",
+   "Bimbing jugalah jalanku dalam kebenaran-Mu",
+   "Dikau Jurus'lamatku yang 'ku dambakan selalu",
+   "Dalam masa hidupku, 'ku setia kepada-Mu"
+  ],
+  [
+   "Tuhan ingatlah kiranya rahmat kemurahan-Mu",
+   "Sudah sejak purba kala, Kau kasihi umat-Mu",
+   "Jangan ingat dosaku, sewaktu masa mudaku",
+   "Ampunilah hamba-Mu demi kasih setia-Mu"
+  ],
+  [
+   "Tuhan itu bijaksana, maha baik dan benar",
+   "Yang berdosa dipanggil-Nya agar tobat, menyesal",
+   "Orang yang hati rendah, diberi-Nya bahagia",
+   "Orang baik dan benar, hidup yang kekal upanya"
+  ],
+  [
+   "Keadilan, kemurahan, Jalan Tuhan semua",
+   "Bagi yang berkeyakinan pada Firman Tuhannya",
+   "Tuhan, kar'na kasih-Mu kasihanilah hamba-Mu",
+   "Sungguh banyak dosaku, tolong b'ri pengampunan-Mu"
+  ],
+  [
+   "Yg setia pada Tuhan dan yg takut padaNya",
+   "Kepadanya ditunjukkan jalan yg dipilihnya",
+   "Juga anak cucunya hidup damai dan sejaht'ra dunia serta isinya diwariskan kepadanya"
+  ],
+  [
+   "Bila takut pada Tuhan, akan akrab dengan-Nya",
+   "Juga rahasia Tuhan dinyatakan padanya",
+   "Harap pada Tuhannya dan berdoa pada Allah",
+   "Yang menarik kakinya dari jerat seterunya"
+  ],
+  [
+   "Ya Tuhan, lawat hamba-Mu, tataplah sengsaraku",
+   "Dikaulah gunung batuku, selamatkan jiwaku",
+   "Lepaskanlah hamba-Mu dari s'gala ketakutan",
+   "Dan ampuni dosaku serta kuduskan hamba-Mu"
+  ],
+  [
+   "Lihatlah betapa banyak musuh bebuyutanku",
+   "Mempunyai dendam kesumat yang mengancam jiwaku",
+   "Tiap hari tertekan iri hati yang mendalam",
+   "Ya Tuhan lindungilah, jauhkan niat jahatnya"
+  ],
+  [
+   "Tuhan jagalah jiwaku dan luputkan nyawaku",
+   "Janganlah mendapat malu yang berharap pada-Mu",
+   "Aku mohon pada-Mu, peliharalah diriku",
+   "Bebaskanlah hamba-Mu dan lindungilah umat-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 445 ayat 6: 'cu cu nya' disambung (cucunya)"
+ ],
+ "status": "",
+ "vl_direct": {
+  "5": {
+   "r": [
+    [
+     "Yg se-ti-a pa-da Tu-han dan yg ta-kut pa-da-Nya",
+     "Ke-pa-da-nya di-tun-juk-kan ja-lan yg di-pi-lih-nya"
+    ],
+    [
+     "Ju-ga a-nak cu-cu-nya hi-dup da-mai dan se-jah-t'ra du-nia ser-ta i-si-nya di-wa-ris-kan ke-pa-da-nya"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 6 tertulis di not (hal. 445)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

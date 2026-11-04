@@ -1,0 +1,52 @@
+{
+ "be": 35,
+ "variant": "",
+ "bl": 199,
+ "title": "Kami saling berjabat tangan",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Albert Kanpp, 1748",
+ "pages": [
+  43
+ ],
+ "cat": "Hari Minggu",
+ "tempo": 100,
+ "credits": [
+  "Syair: Christian Reantus von Zinzendorf 1750 (1700-1760)",
+  "Lagu: Herrhut 1748",
+  "Terj.Ind.:Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "1 1 6, 2 | 1 7, 1 5 | 3 . 1 . | 1 1 6, 4 | 3 2\n1 . :|",
+   "rows": [
+    "Ka-mi sa-ling ber-ja-ba-tan ta-ngan di ha-da-pan tah-ta-Mu",
+    "Da-lam da-rah-Mu ka-mi ik-rar-kan ke-sa-tu-an u-mat-Mu"
+   ]
+  },
+  {
+   "notes": "7, 1 2 5 | 5 4 4 3 | 3 . 2 . | 7, 1 2 5 |\n5 4 4 3 | 3 . 2 . | 1 1 6, 4 | 3 2 1 . | 1 1 6, 4 |\n3 . 2 . | 1 . . . |]",
+   "rows": [
+    "Ye-sus i-ngat-kan u-mat-Mu s'la-lu un-tuk me-la-ku-kan ke-hen-dak-Mu A-min do-a u-mat-Mu Da-mai ba-gi g're-ja-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kami saling berjabatan tangan di hadapan tahtaMu",
+   "Dalam darahMu kami ikrarkan kesatuan umatMu",
+   "Yesus ingatkan umatMu s'lalu untuk melakukan kehendakMu Amin doa umatMu Damai bagi g'rejaMu"
+  ]
+ ],
+ "vnum": [
+  1
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 43 baris 1: 'ber ja ba tan ta ngan' = berjabatan tangan → ber-ja-ba-tan ta-ngan (sebelumnya 'tan-ta-ngan')",
+  "Koreksi dari gambar halaman: hal. 43 baris 1: 'di hadapan' dua kata → di ha-da-pan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

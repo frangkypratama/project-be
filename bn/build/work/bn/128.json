@@ -1,0 +1,84 @@
+{
+ "be": 128,
+ "variant": "",
+ "bl": 162,
+ "title": "Semua umat Tuhan",
+ "key": "Ab",
+ "meter": "4/4",
+ "credit": "Philip Spirtz, 1843",
+ "pages": [
+  156,
+  157
+ ],
+ "cat": "A. Gereja",
+ "tempo": 54,
+ "credits": [
+  "Syair: Philpp Spitta 1843 (1801-1859)",
+  "Lagu: Felix Mendellssohn Bartholdy 1837 (1809-1847)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 5 .+4 3 2 | 2 . 1 1 | 2 2 2 (1+2) | 3 . . 3 |\n4 .+2 1 7, | 1 . 5, 3 | 4 .+2 1 7, | 1 . 0 3 | 2 1\n7, 6, | (#5, 7,) 6, 3 | 2 .+1 7, 6, | (6, . 5,) 5, | 5 .+4 3 2 |\n2 . 1 1 | 2 2 2 (1+2) | 3 . . 3 | 4 .+2 1 7, | 1 .\n5, 3 | 4 .+2 1 7, | 1 . 0 |]",
+   "rows": [
+    "Se-mu-a u-mat Tu-han o-leh-Nya di-ke-nal yg tu-a dan yg mu-da ke-cil mau-pun be-sar tak sa-tu-pun yg hi-lang Tu-han men-ja-ga-nya se-mu-a di-han-tar-Nya ke tem-pat yg se-nang se-mu-a di-han-tar-Nya ke tem-pat yg se-nang"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Semua umat Tuhan olehNya dikenal yg tua dan yg muda kecil maupun besar tak satupun yg hilang Tuhan menjaganya semua dihantarNya ke tempat yg senang semua dihantarNya ke tempat yg senang"
+  ],
+  [
+   "Semua dikenal-Nya karena imannya",
+   "Mereka yang percaya kepada firman-Nya",
+   "Firman-Nya kehidupan dan juga gurunya",
+   "Senjata paling ampuh melawan dosanya",
+   "Senjata paling ampuh melawan dosanya"
+  ],
+  [
+   "Semua dikenal-Nya kar'na harapannya",
+   "Menerima janji-Nya dengan hati senang",
+   "Semua janji Tuhan 'kan digenapi-Nya",
+   "Tetap berpengharapan sampai ke ajalnya",
+   "Tetap berpengharapan sampai ke ajalnya"
+  ],
+  [
+   "Semua dikenalNya karena kasihNya Kepada Tuhan Allah serta sesamanya KasihNya menggerakkan seluruh hidupnya melakukan p'rintahNya seumur hidupnya melakukan p'rintahNya seumur hidupnya"
+  ],
+  [
+   "Begitu Tuhan Allah mengenal umat-Nya",
+   "Iman dan pengharapan dan juga kasih-Nya",
+   "Pelaku firman Tuhan, itulah umat-Nya",
+   "Mereka ditempatkan di sisi kanan-Nya",
+   "Mereka ditempatkan di sisi kanan-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Kepala lagu di buku menulis 2 ketuk, tetapi 19 dari 19 birama berisi 4 ketuk → birama ditulis 4/4.",
+  "Koreksi dari gambar halaman: hal. 156 baris 3-5: kata depan terpisah → 'ke tem-pat'"
+ ],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Se-mu-a di-ke-nal-Nya ka-re-na ka-sih-Nya Ke-pa-da Tu-han Al-lah ser-ta se-sa-ma-nya Ka-sih-Nya meng-ge-rak-kan se-lu-ruh hi-dup-nya me-la-ku-kan p'rin-tah-Nya se-u-mur hi-dup-nya me-la-ku-kan p'rin-tah-Nya se-u-mur hi-dup-nya"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 157)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

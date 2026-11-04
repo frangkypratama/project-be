@@ -1,0 +1,79 @@
+{
+ "be": 807,
+ "variant": "",
+ "bl": null,
+ "title": "Tuhan Allah beserta engkau",
+ "key": "C",
+ "meter": "4/4",
+ "credit": "Ul. 20:32",
+ "pages": [
+  1017,
+  1018
+ ],
+ "cat": "Perpisahan dan Pengutusan",
+ "tempo": 94,
+ "credits": [
+  "Syair: God be with you; Jeremiah Ernes Ranzim, 1880",
+  "Lagu: William G. Tomer, 1883",
+  "Terj.Ind.: Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "3 .+3 3+3 3+3 | 5 2 3 0 | 6 .+6 6+6 6+6 | 6 . 5 0 |\n5 .+5 5+5 5+5 | 5 . 3 0 | 3 .+3 6+5 1+2 | 3 2 1\n| 3/+.//+4// | 5 1' 3' 2'/+.//+1'// | (6 1') . 7/+.//+6// | 5 .+6 5+3\n1+3 | 2 . . 3/+.//+4// | 5 1' 3' 2'/+.//+1'// | (6 1') . . | 1' .+6\n5+3' 1'+2' | 3' 2' 1' . |]",
+   "rows": [
+    "Tu-han Al-lah be-ser-ta eng-kau sam-pai nan-ti ki-ta jum-pa Tun-tu-nan-Nya se-la-ma-nya Tu-han Al-lah be-ser-ta eng-kau Sam-pai ber-te-mu ber-te-mu sam-pai nan-ti ki-ta ber-te-mu Sam-pai ber-te-mu ber-te-mu Tu-han Al-lah be-ser-ta eng-kau"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhan Allah beserta engkau sampai nanti kita jumpa",
+   "TuntunanNya selamanya Tuhan Allah beserta engkau",
+   "Sampai bertemu bertemu sampai nanti kita bertemu",
+   "Sampai bertemu bertemu Tuhan Allah beserta engkau"
+  ],
+  [
+   "Tuhan Allah beserta engkau dalam naungan kasihNya",
+   "Dan hayatilah FirmanNya, Tuhan Allah beserta engkau",
+   "Sampai bertemu, bertemu, sampai nanti kita bertemu",
+   "Sampai bertemu, bertemu, Tuhan Allah beserta engkau"
+  ],
+  [
+   "Tuhan Allah beserta engkau dalam semua pergumulan",
+   "Engkau dalam rangkulanNya Tuhan Allah beserta engkau",
+   "Sampai bertemu bertemu sampai nanti kita bertemu",
+   "Sampai bertemu bertemu Tuhan Allah beserta engkau"
+  ],
+  [
+   "Tuhan Allah beserta engkau, Firman Allah kekuatanmu",
+   "Kau 'kan mengalahkan musuh, Tuhan Allah beserta engkau",
+   "Sampai bertemu, bertemu, sampai nanti kita bertemu",
+   "Sampai bertemu, bertemu, Tuhan Allah beserta engkau"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 1017 baris 2: 'Tun tu nan Nya se la ma nya' = TuntunanNya selamanya; data 'Tun tu nan Nyase _' salah (suku kata 'Nya' & 'se' tergabung + '_') → diperbaiki, jumlah suku kata = not. vl_direct ayat 3 (hal. 1018) dipertahankan. Ayat 1 & 3 dipecah 4 baris spt ayat 2/4."
+ ],
+ "status": "",
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Tu-han Al-lah be-ser-ta eng-kau da-lam se-mua per-gu-mu-lan Eng-kau da-lam rang-ku-lan-Nya Tu-han Al-lah be-ser-ta eng-kau Sam-pai ber-te-mu ber-te-mu sam-pai nan-ti ki-ta ber-te-mu Sam-pai ber-te-mu ber-te-mu Tu-han Al-lah be-ser-ta eng-kau"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 1018)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

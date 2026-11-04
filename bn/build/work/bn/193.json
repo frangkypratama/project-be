@@ -1,0 +1,89 @@
+{
+ "be": 193,
+ "variant": "",
+ "bl": 193,
+ "title": "Terbuka cakrawala",
+ "key": "Bb",
+ "meter": "3/4",
+ "credit": "Johann Wolfgang Franck, 1681",
+ "pages": [
+  239,
+  240
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Wilhelm Osterwald 1820-1887",
+  "Lagu: Johann Wolfgang Faranck 1681 (1641-1688)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 3 . (2+1) | 2 . 3 | 4 . 4 | 4 3 1 | 6, . 2 |\n7, . 1 | (1 .+2) 7, | 1 . :|",
+   "rows": [
+    "Ter-bu-ka ca-kra-wa-la sur-ga o-leh be-sar-nya ka-sih-Mu",
+    "Ke-pa-da o-rang yg seng-sa-ra se-hing-ga nya-ta rah-mat-Mu"
+   ]
+  },
+  {
+   "notes": "5, | 1 . 1 | 6, . 6, | 2 .\n2 | 7, 7, 7, | 3 . 3 | 6, . 7, | 7, . 6, | 5, . 2 | 3 . 3 |\n1 . 1 | 4 . 4 | 2 2 2 | 5 . 3 | (1 .+7,) 1 | 3 . 2 |\n1 . |]",
+   "rows": [
+    "T'lah di-sak-si-kan ma-nu-si-a Di-se-an-te-ro du-ni-a Kau Ye-sus da-tang ke du-ni-a me-nye-la-mat-kan du-ni-a"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Terbuka cakrawala surga oleh besarnya kasihMu",
+   "Kepada orang yg sengsara sehingga nyata rahmatMu",
+   "T'lah disaksikan manusia Diseantero dunia Kau Yesus datang ke dunia menyelamatkan dunia"
+  ],
+  [
+   "Engkau menanggung semua dosa yang dilakukan manusia",
+   "Sehingga Kau berkorban nyawa menebus dosa manusia",
+   "Engkau menanggung kematian di kayu salib Golgota",
+   "Supaya orang yang beriman mendapat harta yang baka"
+  ],
+  [
+   "Hatiku berterima kasih padaMu Yesus Tuhanku",
+   "Dosaku sudah Kau lunasi di dalam kematianMu",
+   "Terhindar dari kematian hanya berkat anug'rahMu terpujilah namaMu Tuhan sepanjang masa hidupku"
+  ],
+  [
+   "Jadikanlah aku milik-Mu selama ada nafasku",
+   "Perangai dan kelakuanku akan memuji nama-Mu",
+   "'Ku tirulah perbuatan-Mu yaitu kasih setia-Mu",
+   "'Ku sangkal jugalah diriku mengikut Kau, ya Tuhanku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 239 baris 2-3: pemisahan kata 'di sak-si-kan' → 'di-sak-si-kan', 'Di se an te ro' → 'Di-se-an-te-ro'",
+  "Koreksi dari gambar halaman: hal. 240 (ayat 3 bernot): 'ber te-ri-ma' → 'ber-te-ri-ma', 'lu na-si' → 'lu-na-si'"
+ ],
+ "status": "",
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Ha-ti-ku ber-te-ri-ma ka-sih pa-da-Mu Ye-sus Tu-han-ku",
+     "Do-sa-ku su-dah Kau lu-na-si di da-lam ke-ma-ti-an-Mu"
+    ],
+    [
+     "Ter-hin-dar da-ri ke-ma-ti-an ha-nya ber-kat a-nu-g'rah-Mu ter-pu-ji-lah na-ma-Mu Tu-han se-pan-jang ma-sa hi-dup-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 240)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

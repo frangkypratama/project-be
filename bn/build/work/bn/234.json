@@ -1,0 +1,89 @@
+{
+ "be": 234,
+ "variant": "",
+ "bl": 32,
+ "title": "Di arus dunia yang fana",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Gochzzheim, 1628",
+ "pages": [
+  290
+ ],
+ "cat": "Pengakuan dan Kesaksian Iman",
+ "tempo": 108,
+ "credits": [
+  "Syair: Wilhelm Il Herzog zu Sachsen Weimar 1648 (1598-1663)",
+  "Lagu: Goscheim Franken 1628",
+  "Terj.Ind.: Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "1 . 3 . | 5 3 . 2 | 3 #4 #5 . | 6 . 5 . | 3 2 . 1 |\n1 7, 1 . | 2 . 3 . | 3 2 . 5 | 5 4 5 . | 3 . 4 . |\n3 2 . 1 | 1 7, . 1 |]",
+   "rows": [
+    "Di a-rus du-nia yg fa-na ha-ti-ku s'la-lu ter-se-sat Ku hi-tung ke-be-na-ran-ku ku an-dal-kan ke-bai-kan-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Di arus dunia yg fana hatiku s'lalu tersesat Ku hitung kebenaranku ku andalkan kebaikanku"
+  ],
+  [
+   "Sejak 'ku pandang Tuhanku, 'ku sadar kelemahanku",
+   "'Ku lihat nyata diriku, betapa malang hidupku"
+  ],
+  [
+   "Tiada perbuatanku yang jadi kebanggaanku",
+   "Membuat malu hatiku, bicara tentang diriku"
+  ],
+  [
+   "Melihat kekuranganku, betapa banyak dosaku",
+   "Tak layak lagi diriku, berdiri di hadapan-Mu"
+  ],
+  [
+   "Kini aku pun bertelut kepada Yesus Tuhanku",
+   "Kematian-Nya jalanku, berdamai dengan Allahku"
+  ],
+  [
+   "Di hari Tuhan 'kan datang, surya bersinar cemerlang",
+   "Hatiku rasa dahaga dan kini telah terjaga"
+  ],
+  [
+   "Aku rindukan Firman-Nya, itulah kehidupanku",
+   "'Ku dengar dan 'ku percaya, maka 'ku ikut Tuhanku"
+  ],
+  [
+   "Hidup baru 'ku alami, hidup lama 'ku lalui",
+   "Damai sejaht'ra jiwaku, bersama Yesus Tuhanku"
+  ],
+  [
+   "Yesusku kebenaranku, itulah kehormatanku",
+   "Sepanjang masa hidupku, sampai datangnya ajalku"
+  ],
+  [
+   "Aku tak mungkin kecewa untuk selama-lamanya",
+   "'Ku mau hidupku yang benar, kar'na Tuhanku baik benar"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9,
+  10
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 290 kepala lagu: Buku Logu 32 (data kosong) → bl 32",
+  "Koreksi dari gambar halaman: hal. 290 baris 2-3: 'ter se sat | Ku hi tung' → ter-se-sat Ku; 'ke be na ran ku | ku an dal kan' → ke-be-na-ran-ku ku; teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "ref": "Ayat 1",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

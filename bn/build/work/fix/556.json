@@ -1,0 +1,20 @@
+{
+ "sections": [
+  {
+   "notes": "(1+5,) 3 . | (2+5,) 4 . | (3 2) 1 | 1 7, . | (6 5+4) (3+1) |\n(5 . 4) 3 | (3+2 1 7,) | 1 . . | 5 . . | 5 . . | (5 4)\n3 | 3 2 . | 6 6 . | 5 5 . | (5+4 3 2) | 1 . . |\n1 . . | 1 . . | (1 .+2) (3+4) | 5 5, . | 5 5 . | 4\n4 . | (7,+2 5 5,) | 1 . |",
+   "rows": [
+    "Tu-han b'ri-lah ka-mi da-mai Tu-han b'ri-lah da-mai Tu-han b'ri-lah da-mai Tu-han b'ri-lah da-mai Tu-han b'ri-lah da-mai da-me b'ri-lah da-mai"
+   ]
+  }
+ ],
+ "vl_direct": {},
+ "verses": [
+  [
+   "Tuhan b'rilah kami damai Tuhan b'rilah damai Tuhan b'rilah damai Tuhan b'rilah damai Tuhan b'rilah damai dame b'rilah damai"
+  ]
+ ],
+ "note": [
+  "hal. 696 baris 4: \"da me-b'ri-lah\" -> \"da-me b'ri-lah\" (buku: da me b'ri lah); ayat 1 ikut",
+  "Validator: birama 6 \"5 . 4 3\" = 4 ketuk — di buku (hal. 696 baris 2, diperbesar) memang tertulis 5 . 4 3 tanpa garis atas; kemungkinan salah cetak (seharusnya 5 .+4 3), TIDAK dikoreksi."
+ ]
+}

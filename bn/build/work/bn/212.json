@@ -1,0 +1,72 @@
+{
+ "be": 212,
+ "variant": "",
+ "bl": 24,
+ "title": "Kasih sayang maha kudus",
+ "key": "Bb",
+ "meter": "3/4",
+ "credit": "Wilhem Brockhaus, 1888",
+ "pages": [
+  266
+ ],
+ "cat": "Pengakuan dan Kesaksian Iman",
+ "tempo": 90,
+ "credits": [
+  "Syair: Julius Anton von Poseck 1816-1896",
+  "Lagu: Wilhelm Brackhaus 1856 (1819-1888)",
+  "Terj.Ind.: Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "3 . 4 | 5 . 1' | (1' 7) 6 | 6 . 5 | 5 . 1' | 5 . 3' |\n(2' 3') 2' | 1' . 0 | 3' . 3' | (3' 2') 2' | (2' 7) 5 | 1' . 5 |\n(1' 7) 6 | 5 . 1' | 3' . 2' | 1' . . |]",
+   "rows": [
+    "Ka-sih sa-yang ma-ha ku-dus da-ri Ye-sus pe-ne-bus Ma-suk-lah da-lam ha-ti-ku dan pe-nu-hi ji-wa-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kasih sayang maha kudus dari Yesus penebus Masuklah dalam hatiku dan penuhi jiwaku"
+  ],
+  [
+   "Sukacita yang ceria dari Surga yang kekal",
+   "B'rilah aku ketenangan, rinduku puaskanlah"
+  ],
+  [
+   "Kesenangan, kedamaian dari Yesus Tuhanku",
+   "B'rikan aku keteduhan dan legakan hatiku"
+  ],
+  [
+   "B'rikan daku kesabaran menghadapi temanku",
+   "Agar dengan sukacita mengasihi musuhku"
+  ],
+  [
+   "Kemurahan, kedamaian dari Yesus Tuhanku",
+   "Isi hati serta jiwa, tinggal dalam hidupku"
+  ],
+  [
+   "Kasih dari Tuhan Yesus, sucikanlah hatiku",
+   "Jauhkan aib dan dosaku, agar s'lamat jiwaku"
+  ],
+  [
+   "'Ku memohon ya Tuhanku, kuatkanlah hatiku",
+   "Agar bersama umat-Mu bertemu di Surga-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 266 baris 1: 'sa yg' (singkatan buku untuk 'sa-yang', sesuai judul 'Kasih sayang maha kudus') → 'sa-yang'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

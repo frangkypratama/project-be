@@ -1,0 +1,78 @@
+{
+ "be": 601,
+ "variant": "",
+ "bl": null,
+ "title": "Dahulu di kota Daud",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Luk. 2:11",
+ "pages": [
+  754
+ ],
+ "cat": "Natal",
+ "tempo": 100,
+ "credits": [
+  "Syair: Once in royal David's city; Cecil F. Alexander, 1848",
+  "Lagu: Henry John",
+  "Terj.Ind.: Pdt. J.A.U Doloksaribu, MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5, 7, | 1 .+1 (1+7,) (1+2) | 2 1 1 3 | 5 .+3 (3+2)\n(1+7,) | 1 . :|",
+   "rows": [
+    "Da-hu-lu di ko-ta Da-ud a-da kan-dang yg hi-na",
+    "Di pa-lu-ngan di-ba-ring-kan Ba-yi a-nak Ma-ri-a"
+   ]
+  },
+  {
+   "notes": "6 6 | 5 .+1 4 4 | 3 . 6 6 | 5 .+3\n(3+2) (1+7,) | 1 . |]",
+   "rows": [
+    "Kris-tus ba-yi yg mu-lia ti-dur di pa-lu-ngan-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Dahulu di kota Daud ada kandang yg hina",
+   "Di palungan dibaringkan Bayi anak Maria",
+   "Kristus bayi yg mulia tidur di palunganNya"
+  ],
+  [
+   "Dia turun dari Surga, Kini lahir di dunia",
+   "Raja yang Maha Kuasa, Kandang tempat lahirNya",
+   "Sungguh hatiNya rendah, Dia sobat manusia"
+  ],
+  [
+   "Pada masa kanak-kanak, Sangat baik hatiNya",
+   "Hormat pada orang tua, Tumbuh dan s'makin besar",
+   "Anak-anak marilah, Teladani diriNya"
+  ],
+  [
+   "Yesus sama s'perti kita, Dirimu dan diriku",
+   "Suka duka pergumulan, Semuanya Dia tau",
+   "Bahagia, sengsara, Semua dirasakanNya"
+  ],
+  [
+   "Anak miskin mendertia, Jurus'lamat manusia",
+   "Rela menanggung derita, Menebus kita semua",
+   "Kita umat beriman, Masuk Surga s'lamanya"
+  ],
+  [
+   "Kemuliaan Yesus Kristus, Kita lihat di Surga",
+   "Bukan di kandang yang hina, Nyata kekuasaanNya",
+   "Nanti semua menyembah, Di hadapan tahtaNya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

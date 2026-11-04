@@ -1,0 +1,56 @@
+{
+ "be": 548,
+ "variant": "",
+ "bl": 377,
+ "title": "Hai Anak yang maha kudus",
+ "key": "Ab",
+ "meter": "3/4",
+ "credit": "Ludwig Erk, 1883",
+ "pages": [
+  688
+ ],
+ "cat": "Nyanyian Anak-anak",
+ "tempo": 100,
+ "credits": [
+  "Syair: Franz Graf Pocci",
+  "Lagu: Ludwig Erk 1807-1883",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 . 2 | 3 . 4 | (3 1) 2 | 1 . 5, | 1 . 2 | 3 .\n4 | (3 1) 2 | 1 . 0 | 0 0 3 | 2 . 7, | 5, . 3 | (2 7,)\n6, | 5, . 5, | 1 . 2 | 3 . 4 | (3 1 2 | 1) . 7, | 1 . |]",
+   "rows": [
+    "Hai A-nak yg ma-ha ku-dus ku-su-jud di ha-da-pan-Mu Ber-so-rak so-rai ha-ti-ku ber-so-rak so-rai ha-ti-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hai Anak yg maha kudus kusujud di hadapanMu",
+   "Bersorak sorai hatiku bersorak sorai hatiku"
+  ],
+  [
+   "Kau Anak Yang Maha Kudus, yang lahir di kandang kumuh",
+   "Kau datang untuk menebus, Kau datang untuk menebus"
+  ],
+  [
+   "Berbahagia umatMu yang menerima damaiMu",
+   "Berdiamlah di hatiku, berdiamlah di hatiku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 688: lagu ditulis DUA SUARA berbentuk kanon (baris Dakdanak dan baris Guru bergantian dalam satu sistem); ekstraksi mencampur kedua baris jadi satu melodi dengan lirik kacau. Kini hanya suara Dakdanak (melodi utama) yang dipakai.",
+  "Koreksi dari gambar halaman: Suara Guru (masuk 2 birama kemudian, melodi sama) TIDAK dimodelkan; isinya menurut hal. 688: \"0 | 0 0 5, | 1 . 2 | 3 . 4 | (3 1) 2 | 1 . 5, | 1 . / 2 | 3 . 4 | (3 1) 2 | 1 . 1 | (7, 1) 2 | (3 2) 1 | (7, 2) / 1 | 7, . 0 | 0 0 5, | 1 . 2 | 3 . 4 | (3 1) 2 | 1 . |]\" dengan lirik yang sama.",
+  "Koreksi dari gambar halaman: ayat 1 disusun ulang dari lirik suara Dakdanak."
+ ],
+ "status": "",
+ "ref": "M.No. 66",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

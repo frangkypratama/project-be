@@ -1,0 +1,39 @@
+{
+ "be": 851,
+ "variant": "",
+ "bl": null,
+ "title": "Halleluyah [1]",
+ "key": "G",
+ "meter": "3/4",
+ "credit": "",
+ "pages": [
+  1063
+ ],
+ "cat": "Nyanyian Liturgi",
+ "tempo": 82,
+ "credits": [
+  "Syair: Liturgi Belanda, 1930",
+  "Lagu: Liturgi Belanda, 1930",
+  "Terj.Ind.:"
+ ],
+ "sections": [
+  {
+   "notes": "5+5 | 6 5 1+1 | 2 1 4+4 | (3/+2//+1// 2) | 1 . |]",
+   "rows": [
+    "Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Halleluyah Halleluyah Halleluyah"
+  ]
+ ],
+ "vnum": [
+  1
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

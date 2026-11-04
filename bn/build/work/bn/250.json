@@ -1,0 +1,79 @@
+{
+ "be": 250,
+ "variant": "",
+ "bl": 181,
+ "title": "Putuskan semua rantai",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "J.A. Freyl Inghausen, 1704",
+ "pages": [
+  308
+ ],
+ "cat": "Pergumulan dan Penderitaan",
+ "tempo": 104,
+ "credits": [
+  "Syair: Gottfried Arnold 1698 (1666-1714)",
+  "Lagu: J.A Freylinghausen 1670-1739",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "1 2 3 2 | 3 4 5 5 | 1' 1' 7 7 | 7 6 5 . :|",
+   "rows": [
+    "Pu-tus-kan se-mu-a ran-tai do-sa yg mem-be-leng-gu",
+    "Tu-han-kan si ha ni ka-mi u-mat yg t'lah Kau te-bus"
+   ]
+  },
+  {
+   "notes": "1' 5 6\n6 | 5 .+4 3 1 | 3 3 5 5 | 4 3 2 . | 5 5 4 .+3 |\n4 5 3 1 | 2 3 4 5 | 3 2 1 . |]",
+   "rows": [
+    "Su-ci-kan-lah ha-ti ka-mi da-ri kua-sa do-sa maut a-gar has-rat du-ni-a-wi tak ber-kua-sa a-tas-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Putuskan semua rantai dosa yg membelenggu",
+   "Tuhankan si ha ni kami umat yg t'lah Kau tebus",
+   "Sucikanlah hati kami dari kuasa dosa maut agar hasrat duniawi tak berkuasa atasku"
+  ],
+  [
+   "Itulah kehendak Bapa, tugas Yesus di dunia",
+   "Yang telah dilaksanakan dalam kasih sayang-Nya",
+   "Agar satu pun tak hilang, yang dib'rikan pada-Nya",
+   "Harus tiba semuanya, memasuki rumah-Nya"
+  ],
+  [
+   "Bawalah kami ya Tuhan, hingga Surga rumah-Mu",
+   "Dengar kami yang berdoa berkenan di hati-Mu",
+   "Tatap kami yang terhina kar'na ikut salib-Mu",
+   "Yang tekun dan yang percaya kebenaran firman-Mu"
+  ],
+  [
+   "Tuhan, Kaulah Raja kami yang perkasa, pemenang",
+   "Kalahkanlah musuh kami, umat-Mu lindungilah",
+   "Pimpin kami yang percaya satu dalam darah-Mu",
+   "Yang tekun terus berjalan memasuki rumah-Mu"
+  ],
+  [
+   "Kami hidup bersama –Mu, matipun bersama-Mu",
+   "Jauhkanlah dari umat-Mu, dosa kebencian-Mu",
+   "Tolong kami memenangkan perjuangan umat-Mu",
+   "Hingga ajal kami tiba, kami masuk rumah-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 308 kepala lagu: Buku Logu 181 (data kosong) → bl 181"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,77 @@
+{
+ "be": 80,
+ "variant": "",
+ "bl": 39,
+ "title": "Walau Yesus",
+ "key": "A",
+ "meter": "4/4",
+ "credit": "N.N",
+ "pages": [
+  99
+ ],
+ "cat": "Sengsara Tuhan Yesus dan Jumat Agung",
+ "tempo": 98,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 1 7, 6, | 5, 1 6, 5, | 4, . 3, 0 | 5, 7, 2 7, | 2 1 7, 6, |\n7, . . 0 | 5, 1 1 6, | 1 4 3 2 | 1 . 7, 0 | 3 5 5 4 |\n3 2 1 7, | 1 . . 0 |]",
+   "rows": [
+    "Wa-lau Ye-sus sum-ber a-ir hi-dup yg t'rus me-nga-lir se-la-ma-nya O be-ta-pa Di-a ke-ha-u-san ke-ti-ka Ye-sus di-sa-lib-kan"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Walau Yesus sumber air hidup yg t'rus mengalir selamanya O betapa Dia kehausan ketika Yesus disalibkan"
+  ],
+  [
+   "Cinta kasih-Mu ya, Tuhan Yesus",
+   "Apa yang setara dengannya",
+   "Siksa derita-Mu yang menebus",
+   "Aku dari dosa dan cela"
+  ],
+  [
+   "Yesus mengapa Engkau dahaga",
+   "Waktu Kau disiksa dicela",
+   "Aku tau yang Tuhan perjuangkan",
+   "Diriku dan seg'nap manusia"
+  ],
+  [
+   "'Ku tak layak ada di depan-Mu",
+   "Tanpa luluh perasaanku",
+   "Tak sekali pun 'ku mengingkari",
+   "Kaulah Yesus, Jurus'lamatku"
+  ],
+  [
+   "Aku sudah lama juga haus",
+   "Akan hidup damai abadi",
+   "Semua sia-sia tanpa Yesus",
+   "Sebab Dia air hidupku"
+  ],
+  [
+   "Kasihanilah aku, Tuhanku",
+   "Dan puaskanlah dahagaku",
+   "Dengan darah-Mu kuduskan aku",
+   "Agar 'ku tetap bersama-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 99 kepala lagu: 'Buku Logu: 39' (data kosong) → bl 39"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

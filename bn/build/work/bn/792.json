@@ -1,0 +1,113 @@
+{
+ "be": 792,
+ "variant": "",
+ "bl": null,
+ "title": "Tuhan datanglah dan b'ri",
+ "key": "D",
+ "meter": "8/4",
+ "credit": "",
+ "pages": [
+  996,
+  997,
+  998,
+  999,
+  1000
+ ],
+ "cat": "Perjuangan Iman",
+ "tempo": 162,
+ "credits": [
+  "Syair: Herr, wir gitten; Komm und segne uns",
+  "Lagu: Herr, wir gitten; Komm und segne uns",
+  "Terj.Ind.: St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "1 . . 1 3 3 5 3 | 6 . . 6 5 . . . | 6 . . 6 5 2 3 4 |\n(3 . . . 2) . . . | 1 . . 1 3 3 5 3 | 6 . . 6 5 . . . |\n4 . . 4 3 3 2 2 | (1 . . . 1) . . . | 3 . . 3 3 2+1 . . |\n4 . . 4 4 3+2 . . | 3 . . 3 3 5 3 1 | (3 . . 4+3)\n2 . . . | 3 . . 3 3 2+1 . . | 4 . . 4 4 3+2 . . |\n3 . . 1 3 3 2 2 | (1 . . . 1) . . . |]",
+   "rows": [
+    "Tu-han da-tang-lah dan b'ri ber-kat da-mai dan ku-a-sa-Mu Ku-at-kan-lah u-mat-Mu Tu-han me-la-ku-kan p'rin-tah-Mu Di du-nia-i ni to-long-lah a-ku ja-di sa-lu-ran ber-kat-Mu Ba-gi yg se-dih hi-bu-ran di-b'ri per-to-lo-ngan-pun di-b'ri"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhan datanglah dan b'ri berkat damai dan kuasaMu Kuatkanlah umatMu Tuhan melakukan p'rintahMu Di dunia ini tolonglah aku jadi saluran berkatMu Bagi yg sedih hiburan dib'ri pertolonganpun dib'ri"
+  ],
+  [
+   "Tuhan datanglah dan b'ri berkat damai dan kuasaMu Kuatkanlah umatMu Tuhan melakukan p'rintahMu Di dunia ini mampukan kami menghadapi pencobaan semua musuhmu iblis seteru kalah kar'na kuasaMu"
+  ],
+  [
+   "Tuhan datanglah dan b'ri berkat damai dan kuasaMu Kuatkanlah umatMu Tuhan melakukan p'rintahMu Di dunia ini jadikan aku pembawa damai dariMu Jauhkanlah benci iri dan dengki dengan kuasa firmanMu"
+  ],
+  [
+   "Tuhan datanglah dan b'ri berkat damai dan kuasaMu Kuatkanlah umatMu Tuhan melakukan p'rintahMu Di dunia ini tolonglah aku melakukan kehendakMu tuntun umatMu taat p'rintahMu menghayati kasihMu"
+  ],
+  [
+   "Tuhan datanglah dan b'ri berkat damai dan kuasaMu Kuatkanlah umatMu Tuhan melakukan p'rintahMu Di dunia ini tolonglah aku menegakkan keadilan dan kedamaian bagi semua dan keutuhan ciptaan"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 998 (ayat 3) baris 4: 'pem ba wa' = pembawa (satu kata) → pem-ba-wa di lirik bernot dan teks ayat 3"
+ ],
+ "status": "",
+ "vl_direct": {
+  "1": {
+   "r": [
+    [
+     "Tu-han da-tang-lah dan b'ri ber-kat da-mai dan ku-a-sa-Mu Ku-at-kan-lah u-mat-Mu Tu-han me-la-ku-kan p'rin-tah-Mu Di du-nia i-ni mam-pu-kan ka-mi meng-ha-da-pi pen-co-ba-an se-mua mu-suh-mu i-blis se-te-ru ka-lah kar'-na kua-sa-Mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 2 tertulis di not (hal. 997)"
+   ]
+  },
+  "2": {
+   "r": [
+    [
+     "Tu-han da-tang-lah dan b'ri ber-kat da-mai dan ku-a-sa-Mu Ku-at-kan-lah u-mat-Mu Tu-han me-la-ku-kan p'rin-tah-Mu Di du-nia i-ni ja-di-kan a-ku pem-ba-wa da-mai da-ri-Mu Jauh-kan-lah ben-ci i-ri dan deng-ki de-ngan kua-sa fir-man-Mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 998)"
+   ]
+  },
+  "3": {
+   "r": [
+    [
+     "Tu-han da-tang-lah dan b'ri ber-kat da-mai dan ku-a-sa-Mu Ku-at-kan-lah u-mat-Mu Tu-han me-la-ku-kan p'rin-tah-Mu Di du-nia i-ni to-long-lah a-ku me-la-ku-kan ke-hen-dak-Mu tun-tun u-mat-Mu ta-at p'rin-tah-Mu meng-ha-ya-ti ka-sih-Mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 999)"
+   ]
+  },
+  "4": {
+   "r": [
+    [
+     "Tu-han da-tang-lah dan b'ri ber-kat da-mai dan ku-a-sa-Mu Ku-at-kan-lah u-mat-Mu Tu-han me-la-ku-kan p'rin-tah-Mu Di du-nia i-ni to-long-lah a-ku me-ne-gak-kan ke-a-di-lan dan ke-da-mai-an ba-gi se-mu-a dan ke-u-tu-han cip-taan"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 1000)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": [
+  "teks kecil: Jika dinyantikan lebih dari satu ayat maka pada ayat terakhi",
+  "teks kecil: Jika dinyantikan lebih dari satu ayat maka pada ayat terakhi",
+  "teks kecil: Jika dinyantikan lebih dari satu ayat maka pada ayat terakhi",
+  "teks kecil: Jika dinyantikan lebih dari satu ayat maka pada ayat terakhi",
+  "teks kecil: Jika dinyantikan lebih dari satu ayat maka pada ayat terakhi"
+ ]
+}

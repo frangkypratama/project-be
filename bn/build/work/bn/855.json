@@ -1,0 +1,52 @@
+{
+ "be": 855,
+ "variant": "",
+ "bl": null,
+ "title": "Kub'ri persembahan",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  1066
+ ],
+ "cat": "Nyanyian Liturgi",
+ "tempo": 100,
+ "credits": [
+  "Syair: In ons vreugdepolje; H.J.W. Moddermon",
+  "Lagu: In ons vreugdepolje; H.J.W. Moddermon",
+  "Terj.Ind.:"
+ ],
+ "sections": [
+  {
+   "notes": "5, 3 3 5 | 5 . 4 . | 5, 7, 2 4 | 3 . . 0 | 5, 3 3 5 |\n(5 4) 6, . | 5, 3 3 2 | 1 . . 0 |]",
+   "rows": [
+    "Ku-b'ri per-sem-ba-han pa-da Tu-han-ku s'ba-gai pu-ji-an-ku pa-da Tu-han-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kub'ri persembahan pada Tuhanku s'bagai pujianku pada Tuhanku"
+  ],
+  [
+   "Dengan sukacita, 'ku persembahankan",
+   "Dari yang 'ku punya padaMu Tuhan"
+  ],
+  [
+   "Dengan rasa syukur, b'ri persembahan",
+   "Ikhlas memberikan pada Tuhanmu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 1066: pemisahan kata lirik diperbaiki (s'ba-gai); teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

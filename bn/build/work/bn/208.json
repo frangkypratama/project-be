@@ -1,0 +1,72 @@
+{
+ "be": 208,
+ "variant": "",
+ "bl": 180,
+ "title": "Hai kawan yang terpenjara",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "Johann Schop, 1642",
+ "pages": [
+  261
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": 108,
+ "credits": [
+  "Syair: Johann Paschel 1711-1742",
+  "Lagu: Johann Schop 1642 (1595-1667)",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM & Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "1 2 3 5 | 4 3 2 2 | 3 2 1 2 | 1 7, 1 . :|",
+   "rows": [
+    "Hai ka-wan yg ter-pen-ja-ra o-leh kua-sa do-sa-mu",
+    "Ke-hi-du-pan yg sem-pur-na ku-ka-bar-kan pa-da-mu"
+   ]
+  },
+  {
+   "notes": "7, 1\n2 2 | 1 7, 6, 6, | 7, 1 2 3 | 4 3 2 . | 1 2 3 5 | 4 3\n2 2 | 3 2 1 2 | 1 7, 1 . |]",
+   "rows": [
+    "Al-lah su-dah me-nya-ta-kan rah-mat ka-sih sa-yang-Nya Di-a me-ngu-tus A-nak-Nya mem-b'ri hi-dup yg ke-kal"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hai kawan yg terpenjara oleh kuasa dosamu",
+   "Kehidupan yg sempurna kukabarkan padamu",
+   "Allah sudah menyatakan rahmat kasih sayangNya Dia mengutus AnakNya memb'ri hidup yg kekal"
+  ],
+  [
+   "Anak Allah Jurus'lamat sudah datang ke dunia",
+   "Membebaskan manusia yang berdosa dan sesat",
+   "Yesus Kristuslah nama-Nya, yang menebus manusia",
+   "Dia yang membayar lunas hutang dosa umat-Nya"
+  ],
+  [
+   "Yesus Kristus penuntunku masuk Surga yang baka",
+   "Dibimbing-Nya roh, jiwaku memasuki rumah-Nya",
+   "Jangan lagi 'ku terhina yang gelisah dan sesat",
+   "Dan jiwaku pun selamat dari musuh yang jahat"
+  ],
+  [
+   "Bila ajal akan tiba, Yesuslah penghiburku",
+   "Dan di saat penghakiman, Yesuslah pembelaku",
+   "Tiada yang 'ku takuti, Tuhanlah pelindungku",
+   "Selamanya 'ku memuji kasih Tuhan padaku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 261: pemisahan kata 'sem-pur-na-ku ka-bar-kan' → 'sem-pur-na ku-ka-bar-kan'; 'sa yg Nya' (singkatan buku untuk 'sa-yang') → 'sa-yang-Nya'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

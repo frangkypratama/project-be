@@ -1,0 +1,63 @@
+{
+ "be": 312,
+ "variant": "",
+ "bl": 56,
+ "title": "Pujilah Tuhan Allah",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "J.A. Freyl Inghausen, 1665",
+ "pages": [
+  385
+ ],
+ "cat": "Sebelum dan Sesudah Makan",
+ "tempo": 96,
+ "credits": [
+  "Syair: Gerhard Tersteegen 1697-1769",
+  "Lagu: Stralsund 1665",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "1 1 5 | 3 .+2 1 | 7, 6, 5, | 6, 7, 1 | 2 . . | 1 . 0 :|",
+   "rows": []
+  },
+  {
+   "notes": "5 5 5 | 6 . . | 3 4 5 | 5 .+4 3 | 2 . . | 5, 6, 7, |\n1 2 3 | 2 . . | 1 . . |]",
+   "rows": []
+  }
+ ],
+ "verses": [
+  [],
+  [
+   "Tuhan t'lah memberi makanan minuman kami",
+   "Supaya kami memuji, Tuhan Maha Tinggi",
+   "BagiMulah segala kemuliaan",
+   "Kini kami persembahkan"
+  ],
+  [
+   "Ya sumber hayat, lindungilah roh, jiwa kami",
+   "B'rilah bekal dalam perjalanan hidup kami",
+   "Ya Tuhanku, kami merindukanMu",
+   "Bawa kami ke SurgaMu"
+  ],
+  [
+   "Ya Yesus gembalakan kami di padang gurun",
+   "Kuatkan kami agar layak masuk rumahMu",
+   "Kuatkanlah, kami lemah di jalan",
+   "Ke perjamuan di Surga"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 385: judul tertulis \"Buku Logu: 56\" → bl 56 (ekstraksi kosong)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

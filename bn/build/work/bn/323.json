@@ -1,0 +1,95 @@
+{
+ "be": 323,
+ "variant": "",
+ "bl": 204,
+ "title": "Ya Gembala Agung",
+ "key": "Bb",
+ "meter": "4/4",
+ "credit": "Johann Cruger, 1653",
+ "pages": [
+  398,
+  399
+ ],
+ "cat": "Nyanyian Malam Hari",
+ "tempo": 92,
+ "credits": [
+  "Syair: Benjamin Schmolck 1715 (1672-1737)",
+  "Lagu: Johann Cruger 1653 (1598-1662)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "6 6 5 4 | 3 . 2 . | 6 7 1' 6 | 2' . #1' . | 2' 4' 3'\n3' | 2' . . . :|",
+   "rows": [
+    "Ya Gem-ba-la A-gung yg tak per-nah ti-dur ja-ga dom-ba-Mu",
+    "Ka-sih se-ti-a-Mu me-lin-du-ngi a-ku se-ha-ri pe-nuh"
+   ]
+  },
+  {
+   "notes": "6 6 b7 6 | 5 5 4 . | 6 7 1' 6 | 2' 1'\n7 . | 6 . 4 6 | 5 4 3 . | 2 . . . |]",
+   "rows": [
+    "Ma-lam i-ni-pun Tu-han jauh-kan se-mu-a ba-ha-ya da-ri u-mat Tu-han"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Ya Gembala Agung yg tak pernah tidur jaga dombaMu",
+   "Kasih setiaMu melindungi aku sehari penuh",
+   "Malam inipun Tuhan jauhkan semua bahaya dari umat Tuhan"
+  ],
+  [
+   "Segala ancaman, dan marabahaya, jauhkanlah Tuhan",
+   "Hapuskanlah dosa, kuduskanlah jiwa, b'rilah damaiMu",
+   "Yesus mati berkorban, menebus segala dosa; Aku berbahagia"
+  ],
+  [
+   "Turutlah kiranya, kerabat tercinta, dalam tanganMu",
+   "Lihat, perhatikan, kami sekalian, anak dombaMu",
+   "Aku mau bersamaMu, Kau tetaplah di sisiku; Akulah milikMu"
+  ],
+  [
+   "Semua derita atau kesusahan jauhkanlah Tuhan",
+   "Bapa yg di surga Kaulah yg menjaga hambaMu Tuhan",
+   "Jauhkanlah seteru agar kami hidup tent'ram memuji namaMu"
+  ],
+  [
+   "Mungkin malam ini, ajal mengakhiri jalan hidupku",
+   "Andaikan Tuhanku, itu kehendakMu bawa hambaMu",
+   "Asal Yesus berkenan membawaku masuk Surga; Puaslah hatiku"
+  ],
+  [
+   "Tenanglah hatiku, saat aku tidur dalam namaMu",
+   "Terserah padaMu, tubuh, roh, jiwaku dalam tanganMu",
+   "KehendakMu 'ku cari jika aku bangun pagi; Kaulah yang 'ku puji"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Se-mu-a de-ri-ta a-tau ke-su-sa-han jauh-kan-lah Tu-han",
+     "Ba-pa yg di sur-ga Kau-lah yg men-ja-ga ham-ba-Mu Tu-han"
+    ],
+    [
+     "Ja-uh-kan-lah se-te-ru a-gar ka-mi hi-dup ten-t'ram me-mu-ji na-ma-Mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 399)"
+   ]
+  }
+ },
+ "warn": []
+}

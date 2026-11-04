@@ -1,0 +1,70 @@
+{
+ "be": 465,
+ "variant": "",
+ "bl": 311,
+ "title": "Tuhanku, berkatMu m'limpah",
+ "key": "Ab",
+ "meter": "6/8",
+ "credit": "Willian B. Bradbury, 1868",
+ "pages": [
+  587
+ ],
+ "cat": "Roh Kudus",
+ "tempo": 109,
+ "credits": [
+  "Syair: Elizabeth Codner 1824-1919",
+  "Lagu: William B. Bradbury 1816-1868",
+  "Terj.Ind.: Pdt Susi Endang Hutabarat STh"
+ ],
+ "sections": [
+  {
+   "notes": "3 . 4 5 . 1 | 4 . 3 3 . 2 | 2 . 3 4 . 2 | 1 .\n7, 1 . . :|",
+   "rows": [
+    "Tu-han-ku ber-kat-Mu m'lim-pah Kau be-ri-kan pa-da-ku",
+    "Ba-gai hu-jan yg per-la-han mem-ba-sa-hi di-ri-ku"
+   ]
+  },
+  {
+   "notes": "5 . 3 5 . . | 3 . 1 3 . . | 3 . 4 5 .\n1 | 3 . 2 1 . . |]",
+   "rows": [
+    "A-ku-pun a-ku-pun dan cu-rah-kan pa-da-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhanku berkatMu m'limpah Kau berikan padaku",
+   "Bagai hujan yg perlahan membasahi diriku",
+   "Akupun akupun dan curahkan padaku"
+  ],
+  [
+   "Tuhan, datanglah padaku hiburkanlah dukaku",
+   "Sembuhkan juga hatiku, pulihkanlah diriku",
+   "Aku pun, aku pun, pulihkanlah aku pun"
+  ],
+  [
+   "Lihatlah cemar diriku, sucikanlah hatiku",
+   "Hanya Kaulah harapanku membebaskan hidupku",
+   "Aku pun, aku pun, bebaskanlah aku pun"
+  ],
+  [
+   "Bimbing aku dengan Roh-Mu, sempurnakan hidupku",
+   "B'ri padaku hidup baru di naungan kasih-Mu",
+   "Aku pun, aku pun, di naungan kasih-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 587 baris 1 (lirik baris ulang): \"per la han\" satu kata → per-la-han"
+ ],
+ "status": "",
+ "ref": "R.L.No. 118",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,82 @@
+{
+ "be": 594,
+ "variant": "",
+ "bl": null,
+ "title": "Sao ro ma Ho Immanuel",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "Jes. 7:14",
+ "pages": [
+  745,
+  746
+ ],
+ "cat": "Advent",
+ "tempo": 100,
+ "credits": [
+  "Syair: Veni, veni Immnanuel / O come, come Immanuel; Latin Hymn",
+  "n Hymn",
+  "Lagu: Perancis, abad 15; Thomas Helmon, 1811-1890",
+  "M.Min",
+  "Terj.Ind.: Pdt Marolop P Sinaga MTh & Pdt Sarlen Lumbantobing MA",
+  "1-1890"
+ ],
+ "sections": [
+  {
+   "notes": "6, | 1 3 3 3 | (2 4) (3 2) | 1 . . 2 | 3 1 6, 1 | (2 7, 6,)\n5, | 6, . . 2 | 2 6, 6, 7, | (1 . 7,) 5, | 5, . . 1 | 2 3 3\n3 | (2 4 3) 2 | 1 . . | 5 | 5 . . 3 | 3 . . 3 |\n(2 4 3) 2 | 1 . . 2 | 3 1 6, 1 | (2 7, 6,) 5, | 6, . . |]",
+   "rows": [
+    "Ya da-tang-lah Im-ma-nu-el kun-ju-ngi u-mat Is-ra-el U-mat-Mu t'lah me-nan-ti-Mu meng-ha-rap ke-da-ta-ngan-Mu Ber-so-rak-lah hai Is-ra-el 'kan da-tang-lah Im-ma-nu-el"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Ya datanglah Immanuel kunjungi umat Israel UmatMu t'lah menantiMu mengharap kedatanganMu Bersoraklah hai Israel 'kan datanglah Immanuel"
+  ],
+  [
+   "Hai datanglah Kau Tuhanku, sembuhkanlah deritaku",
+   "UmatMu selamatkanlah, dari siksa dan sengsaranya",
+   "Bersoraklah hai Israel, 'kan datanglah Immanuel"
+  ],
+  [
+   "Ya datanglah T'rang Dunia, enyahkanlah kuasa g'lap",
+   "Terangi perjalananku, penuhi damai hatiku",
+   "Bersoraklah hai Israel, 'kan datanglah Immanuel"
+  ],
+  [
+   "Ya datanglah Kau Tuhanku s'lamatkan yg terbelenggu Bukalah pintu surgaMu tutuplah jalan musuhku Bersoraklah hai Israel 'kan datanglah Immanuel"
+  ],
+  [
+   "Ya Allah datanglah seg'ra, nyatakan kuasa FirmanMu",
+   "Di Sinai t'lah Kau lakukan dengan semua mujizatMu",
+   "Bersoraklah hai Israel, 'kan datanglah Immanuel"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 745 baris 1: 'kun ju ngi' = kunjungi (satu kata)",
+  "Koreksi dari gambar halaman: hal. 745 baris 4: 'Is ra el kan' = Israel 'kan (seperti ayat 2-5 dan hal. 746)",
+  "Koreksi dari gambar halaman: hal. 746 ayat 4 baris 2: 'tu tup lah' = tutuplah (satu kata)"
+ ],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Ya da-tang-lah Kau Tu-han-ku s'la-mat-kan yg ter-be-leng-gu Bu-ka-lah pin-tu sur-ga-Mu tu-tup-lah ja-lan mu-suh-ku Ber-so-rak-lah hai Is-ra-el 'kan da-tang-lah Im-ma-nu-el"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 746)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

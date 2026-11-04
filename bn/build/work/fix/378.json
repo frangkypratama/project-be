@@ -1,0 +1,24 @@
+{
+ "sections": [
+  {
+   "notes": "3/+.//+4// | 5 . 6 3/+.//+6// | 5 . 5/+.//+1'// | 7 . 6 5/+.//+4// |\n3 . 3/+.//+4// | 5 .+6 3/+.//+6// | 5 . 5/+.//+1'// | 7 .+5 6/+.//+7// |\n1' . |",
+   "rows": [
+    "Mes-ki-pun do-sa pe-nuh Ye-sus me-ne-ri-ma-mu wa-lau ja-uh ter-se-sat a-sal da-tang pa-da-Nya"
+   ]
+  },
+  {
+   "meter": "12/8",
+   "notes": "(3 4) 5 | (6 . . 6 . . 6) . 1' (1' 7) 6 | (5 . . 5 . .\n5) . . (5 6) 3 | (5 . . 5 . . 5) . 5 (5 6) 3 | (5 . . 5 . . 5) . .\n(3 4) 5 | (6 . . 6 . . 6) . 1' (1' 7) 6 | (5 . . 5 . . 5) . . 1' .\n1' | 2' . 2' 1' . . 7 . . | (1' . . 1') . . |]",
+   "rows": [
+    "Fir-man-Nya be-ri-ta-kan pa-da o-rang yg se-sat Ye-sus me-ne-ri-ma-Nya yg mau di-be-ri ber-kat"
+   ]
+  }
+ ],
+ "vl_direct": {},
+ "note": [
+  "hal. 480: kepala '3 & 12 ketuk' dan tanda '12 ketuk' + '||' sesudah '1˙ .' (baris 3) → lagu dibagi 2 bagian: bagian 1 birama 3/4, bagian 2 meter 12/8; garis birama tambahan hasil ekstraksi di bagian 12 ketuk dibuang",
+  "hal. 480 baris 4 & 4-akhir: busur ikat menyambung tiga not 5 ('5 . . ⌒5 . . ⌒5') → (5 . . 5 . . 5) (sebelumnya 5 ketiga lepas dan mendapat suku kata → 58 not vs 56 suku kata)",
+  "hal. 480 akhir: '1˙ . . ⌒1˙ . .' satu birama tanpa garis di tengah",
+  "Sisa peringatan validator sesuai tulisan buku: baris 1 '5 . 6 3 . 6' dan '7 . 6 5 . 4' tanpa garis atas di '. 6' (4 ketuk; baris 2 yang sejajar memakai garis atas), dan birama '2˙ . 2˙ 1˙ . . 7 . .' = 9 ketuk"
+ ]
+}

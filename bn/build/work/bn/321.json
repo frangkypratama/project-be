@@ -1,0 +1,113 @@
+{
+ "be": 321,
+ "variant": "",
+ "bl": 174,
+ "title": "Sinar sang surya terbenam",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "Anton Englert, 1723",
+ "pages": [
+  395,
+  396
+ ],
+ "cat": "Nyanyian Malam Hari",
+ "tempo": 104,
+ "credits": [
+  "Syair: Christian Schriver 1684 (1629-1693)",
+  "Lagu: Anton Englert 1723 (1674-1751)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 5, 1 7, 1 | 2 3 2 . | 0 2 3 2 | 1 7, 6, . |\n5, . . :|",
+   "rows": [
+    "Si-nar sang sur-ya ter-be-nam se-ka-rang su-dah ma-lam",
+    "Se-ka-rang is-ti-ra-hat-lah nik-ma-ti-lah ber-kat-Nya"
+   ]
+  },
+  {
+   "notes": "3 | 1 1 4 3 | 2 . . 3 | 1 1 4 3 | 2 . . 2 |\n3 3 6, 6, | 2 2 7, . | 0 5, 1 2 | 3 4 3 2 | 1 . . |]",
+   "rows": [
+    "Sua-ra-mu ang-kat-lah nya-nyi-kan na-ma-Nya de-ngan se-ge-nap ha-ti-mu ke-pa-da Ye-sus Tu-han-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Sinar sang surya terbenam sekarang sudah malam",
+   "Sekarang istirahatlah nikmatilah berkatNya",
+   "Suaramu angkatlah nyanyikan namaNya dengan segenap hatimu kepada Yesus Tuhanmu"
+  ],
+  [
+   "Bintang selalu cemerlang dan juga sinar bulan",
+   "Malam kelam jadi terang, langit pun gemerlapan",
+   "Lebih t'rang Yesusku, bersinar selalu",
+   "Dia menerangi hatiku, Tuhanku perlindunganku"
+  ],
+  [
+   "Di malam hari tidurlah, ternak dan manusia",
+   "Yang jaga hanya Tuhanlah, menjaga ciptaanNya",
+   "Tuhanku tak pernah, tertidur terlelap",
+   "Karena itu jiwaku, berjaga dengan Tuhanku"
+  ],
+  [
+   "Dengarkanlah nyanyianku, pujianku ya Yesus",
+   "Hatiku tiada tentram sebelum 'ku nyanyikan",
+   "Kidungku padaMu, itulah milikku",
+   "Sebab tiada hartaku, yang layak 'ku b'ri padaMu"
+  ],
+  [
+   "Engkau tetap di sisiku selama aku tidur",
+   "Engkaulah perlindunganku selama aku hidup",
+   "Hatiku tak kecut meskipun datang maut waktuku tidur Kau dekat bu bangun Kau memb'ri berkat"
+  ],
+  [
+   "Enyahlah kau sekalian, engkau pasukan setan",
+   "Aku bukanlah hambamu, sang Yesuslah rajaku",
+   "Malaikat Tuhanku, menjaga rumahku",
+   "Kendati ada niatmu, 'ku tak 'kan menghiraukanmu"
+  ],
+  [
+   "'Ku akan tidur tentram, di tanganMu ya Tuhan",
+   "Berbaring dalam kasihMu, naungan dan rahmatMu",
+   "Engkau pelindungku, 'ku taat firmanMu",
+   "Roh Kudus ingatkan daku, tetap setia padaMu"
+  ],
+  [
+   "Tidurlah tubuh jiwaku, di dalam ketenangan",
+   "Pejamkan juga matamu, tiada kau risaukan",
+   "Kau minta dariku, imanku yang teguh",
+   "'Ku s'rahkan diriku penuh, ke tanganMu ya Tuhanku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {
+  "4": {
+   "r": [
+    [
+     "Eng-kau te-tap di si-si-ku se-la-ma a-ku ti-dur",
+     "Eng-kau-lah per-lin-du-ngan-ku se-la-ma a-ku hi-dup"
+    ],
+    [
+     "Ha-ti-ku tak ke-cut mes-ki-pun da-tang maut wak-tu-ku ti-dur Kau de-kat bu ba-ngun Kau mem-b'ri ber-kat"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 396)"
+   ]
+  }
+ },
+ "warn": []
+}

@@ -1,0 +1,71 @@
+{
+ "be": 389,
+ "variant": "",
+ "bl": 258,
+ "title": "Hai kawanku, ikut Yesus",
+ "key": "D",
+ "meter": "9/8",
+ "credit": "Charles C. Case, 1918",
+ "pages": [
+  493,
+  494
+ ],
+ "cat": "Tuhan Memanggilmu",
+ "tempo": 108,
+ "credits": [
+  "Syair: Maj. Daniel W. Whittle 1840-1901",
+  "Lagu: Charles C.Case 1843-1918",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM & Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 . 1' | 7 . . 2 . . 7 . 6 | 5 . . 3 . . 6 . 5 |\n4 . . 2 . . 5 . 4 | (3 . . 3) . . 5 . 1' | 7 . .\n2 . . 7 . 6 | 5 . . 3 . . 6 . 5 | 4 . 3 4 . .\n2 . . | (1 . . 1) . . 1' . 7 | (6 . . 6) . . 7 . 6 |\n(5 . . 5) . . 6 . 5 | 4 . 3 4 . . 5 . . | (2 . .\n2) . . 1' . 7 | (6 . . 6) . . 7 . 6 | (5 . . 5) . .\n6 . 5 | 4 . 3 4 . . 2 . . | (1 . . . 1) . . |]",
+   "rows": [
+    "Hai ka-wan-ku i-kut Ye-sus Di-a pang-gil na-ma-mu Ja-ngan to-lak pang-gi-lan-Nya se-g'ra i-kut pa-da-Nya Da-tang-lah da-tang-lah Ye-sus me-nan-ti-kan-mu Da-tang-lah da-tang-lah Ye-sus me-nan-ti-kan-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hai kawanku ikut Yesus Dia panggil namamu Jangan tolak panggilanNya seg'ra ikut padaNya Datanglah datanglah Yesus menantikanmu Datanglah datanglah Yesus menantikanmu"
+  ],
+  [
+   "Kau tak mungkin melindungi tubuh serta jiwamu",
+   "Tuhan Yesus pelindungmu, umat-Nya yang ditebus",
+   "Pulanglah kepada Yesus, Tuhan Jurus'lamatmu",
+   "Yang sengsara di sambut-Nya, mohon ampun dosamu"
+  ],
+  [
+   "Ketenangan kediaman dunia tak memb'rikanNya pada Yesus kedamaian jiwa ditenangkanNya Datanglah da lah Yesus menantikanmu Datanglah datanglah Yesus menantikanmu"
+  ],
+  [
+   "Keresahan, kegalauan, serahkanlah pada-Nya",
+   "Yakin akan kuasa-Nya, hati ditenangkan-Nya",
+   "Datanglah, datanglah, Yesus menantikanmu",
+   "Datanglah, datanglah, Yesus menantikanmu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [],
+ "status": "",
+ "ref": "Ev. II No.",
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Ke-te-na-ngan ke-di-a-man du-ni-a tak mem-b'ri-kan-Nya pa-da Ye-sus ke-da-mai-an ji-wa di-te-nang-kan-Nya Da-tang-lah da lah Ye-sus me-nan-ti-kan-mu Da-tang-lah da-tang-lah Ye-sus me-nan-ti-kan-mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 494)"
+   ]
+  }
+ },
+ "warn": []
+}

@@ -1,0 +1,45 @@
+{
+ "be": 674,
+ "variant": "",
+ "bl": null,
+ "title": "Yesus mengasihimu",
+ "key": "A",
+ "meter": "3/4",
+ "credit": "",
+ "pages": [
+  845
+ ],
+ "cat": "Panggilan Pertobatan",
+ "tempo": 100,
+ "credits": [
+  "Syair: O how He loves you and me; Kurt Kaiser",
+  "Lagu: O how He loves you and me; Kurt Kaiser",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3, 3, 4, | 5, 6, 7, | (1 . . | 1) . . | 6, 6, 7, | 1 1 2 |\n(3 . . | 3) . 0 | 3 4 3 | 2 . 3+2 | 1 2 3 | 1 . . |\n5, 1 7, | 6, 2 . | 5, 5, 7, | 6, 2 . | 5, 1 7, | 6, 2 7, |\n(1 . . | 1) . . |]",
+   "rows": [
+    "Ye-sus me-nga-si-hi-mu ju-ga me-nga-si-hi-ku Da-rah-Nya t'lah ter-cu-rah ba-gi-mu Tia-da ta-ra-nya cin-ta ka-sih-Nya ba-gi u-mat ma-nu-sia"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yesus mengasihimu juga mengasihiku DarahNya t'lah tercurah bagimu Tiada taranya cinta kasihNya bagi umat manusia"
+  ],
+  [
+   "Tersalib di Golgota gantikan kita semua",
+   "Yang beriman tak lagi binasa",
+   "Tiada taranya pengorbananNya bagi umat manusia"
+  ]
+ ],
+ "vnum": [
+  1,
+  2
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

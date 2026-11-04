@@ -1,0 +1,61 @@
+{
+ "be": 403,
+ "variant": "",
+ "bl": 402,
+ "title": "Aku yakin pada Tuhan",
+ "key": "Ab",
+ "meter": "3/4",
+ "credit": "J.A. Naumann, 1801",
+ "pages": [
+  512
+ ],
+ "cat": "Hidup bersama Yesus",
+ "tempo": 94,
+ "credits": [
+  "Syair: Benjamin Schmolck 1672-1737",
+  "Lagu: J.A Naumann 1741-1801",
+  "Terj.Ind.: Pdt Mori AP Sihombing MTh"
+ ],
+ "sections": [
+  {
+   "notes": "5,+5, 5,+1 1+3 | 2 1 3+5 | 4 .+2 3+4 | (3 2) 0 |",
+   "rows": [
+    "A-ku ya-kin pa-da Tu-han tak ke-ce-wa pa-da-Nya"
+   ]
+  },
+  {
+   "notes": "5,+5, 5,+1 1+3 | 2 1 3+5 | 4 .+2 3+4 |\n(3 2) 7,+2 | 2 .+7, 1+2 | 7, . 1+3 | 3 .+1 2+3 | 1 .\n1+7, | 6,/+.//+6,// 5, 5, | 5, . |]",
+   "rows": [
+    "Yg se-la-lu ku-do-a-kan ku-te-tap br-sa-ma-Nya A-ku ya-kin dan te-guh di-ka-bul-kan do-a-ku di-pu-as-kan ha-ti-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Aku yakin pada Tuhan tak kecewa padaNya",
+   "Yg selalu kudoakan kutetap brsamaNya",
+   "Aku yakin dan teguh dikabulkan doaku dipuaskan hatiku"
+  ],
+  [
+   "Tiap hari 'ku rasakan, Dia menuntun langkahku",
+   "Dan selalu mencukupkan kebutuhan hidupku",
+   "Biarlah makin peka 'ku mendengar Firman-Nya",
+   "Menurut kehendak-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2
+ ],
+ "checks": [
+  "Ulangan dengan kurung 1./2. (volta) di buku ditulis sebagai dua bagian: putaran 1 lalu putaran 2.",
+  "Koreksi dari gambar halaman: hal. 512: pemisahan kata baris ulang 'se-la-lu-ku do-a-kan-ku te-tap br sa-ma' -> 'se-la-lu ku-do-a-kan ku-te-tap br-sa-ma(-Nya)'; 'di ka-bul-kan' -> 'di-ka-bul-kan'; teks ayat 1 dirapikan ('Nya' volta 2 ke baris 2)",
+  "Koreksi dari gambar halaman: Volta (kurung 1./2.) ditulis sebagai dua bagian berurutan (putaran 1 lalu putaran 2), sama dengan cara assemble.py terbaru (contoh 396/435): baris 1 '[1. 3 2 0 :||]', baris 2 '[2. 3 2 7, 2]'",
+  "Koreksi dari gambar halaman: CATATAN hal. 512 baris 3: '6, . 6,' bergaris atas satu (tanpa garis ganda) — ditafsirkan titik (6,/ .// 6,//) agar birama 3 ketuk"
+ ],
+ "status": "",
+ "ref": "U.L.No. 30",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

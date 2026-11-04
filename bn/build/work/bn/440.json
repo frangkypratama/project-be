@@ -1,0 +1,61 @@
+{
+ "be": 440,
+ "variant": "",
+ "bl": 296,
+ "title": "Terpujilah agungkan",
+ "key": "C",
+ "meter": "3/4",
+ "credit": "Hans Georg Nageli, 1836",
+ "pages": [
+  558
+ ],
+ "cat": "Pujilah Penebus",
+ "tempo": 100,
+ "credits": [
+  "Syair: Georg Gessner 1765-1843",
+  "Lagu: Hans Georg Negeli 1773-1836",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5 | (1' .+7) (6+5) | (5 3) 5 | 5 .+4 3+2 | 3 1 5 | (6 1')\n6 | (5 3) 5 | 6 .+7 1'+6 | 5 3 3' | (2' .+3') 4' | 3' . 1' |\n(7 .+1') 2' | 1' . |]",
+   "rows": [
+    "Ter-pu-ji-lah a-gung-kan Tu-han ki-ta Mu-lia-kan-lah la-ku-kan ke-hen-dak-Nya Pu-ji Tu-han se-la-ma-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Terpujilah agungkan Tuhan kita Muliakanlah lakukan kehendakNya Puji Tuhan selamanya"
+  ],
+  [
+   "Nyanyikanlah sampai ke hadirat-Nya",
+   "Besar kecil, bernyanyilah bersama",
+   "Puji Tuhan selamanya"
+  ],
+  [
+   "'Ku tau Tuhan suaraku tak sempurna",
+   "Nyanyianku, Tuhan tetap terima",
+   "Puji Tuhan selamanya"
+  ],
+  [
+   "'Kan datanglah saatnya akan tiba",
+   "Di Surgalah nyanyian kami indah",
+   "Puji Tuhan selamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 558 baris 2 birama 3 (birama #8): garis atas menaungi \". 7\" (seperti \"1' . 7\" di birama 2) → 6 .+7 1'+6 = 3 ketuk"
+ ],
+ "status": "",
+ "ref": "R.L.No. 621",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

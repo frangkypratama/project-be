@@ -1,0 +1,65 @@
+{
+ "be": 304,
+ "variant": "",
+ "bl": 143,
+ "title": "Aku mau memuji",
+ "key": "Bb",
+ "meter": "4/4",
+ "credit": "Karl August Grots, 1817",
+ "pages": [
+  375
+ ],
+ "cat": "Nyanyian Pagi Hari",
+ "tempo": 108,
+ "credits": [
+  "Syair: Amilie Julianne Reichsgrafin von Schwarzburg-Rudolstadt 1699 (1637-1706)",
+  "Lagu: Kaarl August Gross 1817 (1789-1861)",
+  "Terj.Ind.: Sr Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5 3 1' 5 | 6 . 5 0 | 3' 1' 7 (1'+3') | 2' . . 0 :|",
+   "rows": [
+    "A-ku mau me-mu-ji di Kau Tu-han-ku",
+    "Pa-gi ha-ri i-ni kar'-na rah-mat-Mu"
+   ]
+  },
+  {
+   "notes": "2' .+1' 7 5 | 3' . 1' 2'+3' | 4' . 3' . | 2' . . 0 | 3' 2'\n1' 7 | 6 4' 3' 2' | 1' . 7 . | 1' . . 0 |]",
+   "rows": [
+    "Ba-ngun pa-gi ha-ri se-gar tu-buh-ku kar'-na lin-du-ngan-Mu ten-t'ram hi-dup-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Aku mau memuji di Kau Tuhanku",
+   "Pagi hari ini kar'na rahmatMu",
+   "Bangun pagi hari segar tubuhku kar'na lindunganMu tent'ram hidupku"
+  ],
+  [
+   "Kau yang memulihkan daya tubuhku",
+   "Untuk menunaikan pekerjaanku",
+   "Roh dan pikiranku, Kau beri terang",
+   "Agar seharian Kau 'ku muliakan"
+  ],
+  [
+   "B'rilah kekuatan bagi diriku",
+   "Untuk melakukan semua p'rintah-Mu",
+   "Jauhkanlah dosa dari hatiku",
+   "Kau 'ku muliakan s'lama hidupku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 375 baris 1 (ulang): 'ha ri i ni' = 'hari ini' (pemisahan kata). Not cocok."
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,100 @@
+{
+ "be": 83,
+ "variant": "",
+ "bl": 214,
+ "title": "Lihatlah domba",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Wolfgang Dachstein, 1525",
+ "pages": [
+  102,
+  103
+ ],
+ "cat": "Sengsara Tuhan Yesus dan Jumat Agung",
+ "tempo": 94,
+ "credits": [
+  "Syair: Paul Gerhardt 1647 (1607-1676)",
+  "Lagu: Wolfgang Dachstein 1525 (1487-1561)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 . 6 5 | 3 . 5 . | 4 4 3 . | 2 . 3 4 | 5 . (4 3) |\n2 . 1 . :|",
+   "rows": [
+    "Li-hat-lah dom-ba yg ku-dus me-mi-kul do-sa du-nia",
+    "Re-la dan ta-bah me-ne-bus hu-tang do-sa ma-nu-sia"
+   ]
+  },
+  {
+   "notes": "1 . 2 3 | 4 . 2 . | 3 2 1 . | 1 . 3 4 |\n5 . 6 . | 3 4 5 . | 3 . 5 6 | 5 3 4 . | 3 . 6 . | 6 6\n2 . | 5 . (4 2) | 3 . 2 . | 4 . 3 2 | 1 . 2 . | (7, 1)\n6, . | 5, . 5, . | 1 2 3 4 | (5 .+4 3 4 | 2) . 1 . |]",
+   "rows": [
+    "Ja-lan seng-sa-ra di-tem-puh di-sik-sa tan-pa me-nge-luh nya-wa-Nya di-se-rah-kan di-hi-na ju-ga di-cer-ca ma-ti di sa-lib Gol-ga-ta de-ngan tu-lus dan ik-las"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Lihatlah domba yg kudus memikul dosa dunia",
+   "Rela dan tabah menebus hutang dosa manusia",
+   "Jalan sengsara ditempuh disiksa tanpa mengeluh nyawaNya diserahkan dihina juga dicerca mati disalib Golgata dengan tulus dan iklas"
+  ],
+  [
+   "Domba setia dan kudus, itulah sahabatku",
+   "Dia diutus Allahku membebaskan jiwaku",
+   "Kata-Nya pada Anak-Nya, “Bebaskanlah manusia.",
+   "Dari belenggu dosa, terimalah di pundak-Mu",
+   "Kutukan dan amarah-Ku dengan korban darah-Mu.”"
+  ],
+  [
+   "Bapa, 'ku taat pada-Mu dengan seg'nap hatiku",
+   "Melaksanakan titah-Mu itulah kehendakku",
+   "Alangkah ajaib kasi-Nya, dengan apakah taranya",
+   "Kasih-Nya untuk dunia, Putra-Nya pun dib'rikan-Nya",
+   "Menanggung dosa dunia, dengan kematian-Nya"
+  ],
+  [
+   "Selama ada nafasku ku ingat Kau ya Yesus",
+   "Firman dan p'rintah kasihMu ku ingat kulakukan",
+   "Engkau tumpuan kasihku aku mengikut langkahMu di jalan kehidupan Kaulah yg punya diriku baik hidup atau matipun Kau Tuhan dan Rajaku"
+  ],
+  [
+   "Di waktu pagi, malam pun, kasih-Mu 'ku nyanyikan",
+   "Kan 'ku serahkan diriku menjadi persembahan",
+   "Ya Tuhan, tolong t'rimalah pujian syukur dan sembah",
+   "Bagi kemuliaan-Mu bawalah aku hamba-Mu",
+   "Masuk ke dalam rumah-Mu dan tinggal di sisi-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 102 baris 2-5: 'di tem puh' = 'ditempuh', 'ik las' = 'iklas' (satu kata; juga teks ayat 1)",
+  "Koreksi dari gambar halaman: hal. 103 ayat 4: 'na fas ku ku i ngat' = 'nafasku ku ingat', 'ka sih Mu ku i ngat' = 'kasihMu ku ingat' (vl_direct dan teks ayat 4)",
+  "Koreksi dari gambar halaman: kata depan dipisah: di-sa-lib"
+ ],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Se-la-ma a-da na-fas-ku ku i-ngat Kau ya Ye-sus",
+     "Fir-man dan p'rin-tah ka-sih-Mu ku i-ngat ku-la-ku-kan"
+    ],
+    [
+     "Eng-kau tum-pu-an ka-sih-ku a-ku me-ngi-kut lang-kah-Mu di ja-lan ke-hi-du-pan Kau-lah yg pu-nya di-ri-ku baik hi-dup a-tau ma-ti-pun Kau Tu-han dan Ra-ja-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 103)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,87 @@
+{
+ "be": 232,
+ "variant": "",
+ "bl": 116,
+ "title": "Dari segala karunia",
+ "key": "E",
+ "meter": "3/4",
+ "credit": "Kothen, 1733",
+ "pages": [
+  287
+ ],
+ "cat": "Pengakuan dan Kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Roma 11:15-32",
+  "Lagu: Kothen 1733",
+  "Terj.Ind.: Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "1 5, 1 | 3 .+2 1 | 3 3 #4 | 5 5 . | 5 5 5 | 1' 5\n3 | 6 5 3 | 2 . . :|",
+   "rows": [
+    "Da-ri se-ga-la ka-ru-nia ber-har-ga sa-tu ku-ta-hu ku ya-kin te-guh",
+    "Ye-sus TU-han-ku Kau pa-ling ber-har-ga pa-ling u-ta-ma da-lam hi-dup-ku"
+   ]
+  },
+  {
+   "notes": "2 2 2 | 7, .+6, 5, | 4 5 3 | 2\n2 . | 1 3 5 | 1' 5 4 | 3 4 2 | 1 1 . |]",
+   "rows": [
+    "I-kut Tu-han-mu ta-a-ti Fir-man-Nya Per-ca-ya dan an-dal-kan-lah jan-ji-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Dari segala karunia berharga satu kutahu ku yakin teguh",
+   "Yesus TUhanku Kau paling berharga paling utama dalam hidupku",
+   "Ikut Tuhanmu taati FirmanNya Percaya dan andalkanlah janjiNya"
+  ],
+  [
+   "Ingin berhikmat? Temuilah Tuhan-Mu",
+   "Serahkan semua kekuranganmu",
+   "Turut Firman-Nya rendahkan hatimu",
+   "Damai sentosa seg'nap hidupmu",
+   "Ikut Tuhanmu, taati Firman-Nya",
+   "Percaya dan andalkanlah janji-Nya"
+  ],
+  [
+   "Ingin kau dibenarkan oleh Yesus?",
+   "Yang meninggalkan kemuliaan-Nya",
+   "Turun ke dunia menebus dosamu",
+   "Puji, syukuri pengorbanan-Nya",
+   "Ikut Tuhanmu, taati Firman-Nya",
+   "Percaya dan andalkanlah janji-Nya"
+  ],
+  [
+   "Kau ingin hidup bahagia s'lamanya?",
+   "Hanyalah Yesus yang memb'rikannya",
+   "Kuasa iblis t'lah ditaklukkan-Nya",
+   "Kuasa maut dikalahkan-Nya",
+   "Ikut Tuhanmu, taati Firman-Nya",
+   "Percaya dan andalkanlah janji-Nya"
+  ],
+  [
+   "Yesus Tuhanku, Kaulah harapanku",
+   "Nyatakanlah kasih-Mu padaku",
+   "Dengarkan doa dan permohonanku",
+   "B'rikan hidup-Mu bagi umat-Mu",
+   "Ikut Tuhanmu, taati Firman-Nya",
+   "Percaya dan andalkanlah janji-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 287 baris 1: 'sa tu ku ta hu | ku ya kin te guh' → ku-ta-hu ku ya-kin ('satu kutahu, 'ku yakin teguh'); teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

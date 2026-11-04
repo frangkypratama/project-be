@@ -1,0 +1,56 @@
+{
+ "be": 681,
+ "variant": "",
+ "bl": null,
+ "title": "Kudatang sujud",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  854
+ ],
+ "cat": "Pengakuan dan Pengampunan Dosa",
+ "tempo": 98,
+ "credits": [
+  "Syair: Ale Amang asi rohaM, NN",
+  "Lagu: John H. Stockton, 1847",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 5, .+6, 5, 1 | 3 .+3 2 1 | 5 5 3 1 | 2 . . 3 |\n5 .+5 3 1 | 1 .+1 6, 5, | 5, 1 3 2 | 1 . . 0 | 5 .+3\n(3+2) 1 | 1 .+6, 6, 5, | 5, 1 3 1 | 2 . . 0 | 5 .+3 (3+2)\n1 | 1 .+6, 6, 5, | 5, 1 3 2 | 1 . . |]",
+   "rows": [
+    "Ku-da-tang su-jud me-nyem-bah pa-da-Mu Al-lah-ku Ku ba-nyak do-sa dan ce-la am-pu-ni ham-ba-Mu B'ri-lah a-ku pe-ngam-pu-nan a-tas do-sa-ku Lu-pa-kan-lah pem-ba-la-san da-ri ha-ti-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kudatang sujud menyembah padaMu Allahku Ku banyak dosa dan cela ampuni hambaMu B'rilah aku pengampunan atas dosaku Lupakanlah pembalasan dari hatiMu"
+  ],
+  [
+   "Ya Bapa tolong hambaMu kuatkan imanku",
+   "Melawan iblis seteru di dalam hidupku",
+   "Curahkanlah Roh KudusMu dalam hatiku",
+   "Agar aku mengalahkan iblis seteru"
+  ],
+  [
+   "Terima kasih padaMu ya Allah Bapaku",
+   "Terima aku anakMu di Surga rumahMu",
+   "Agar aku berbahagia di Surga baka",
+   "Memuliakan nama Tuhan s'lama-lamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 854: pemisahan kata ayat 1: 'Al-lah-ku Ku ba-nyak' (sebelumnya 'Al-lah-ku-Ku'), 'pem-ba-la-san'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

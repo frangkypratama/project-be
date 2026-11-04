@@ -1,0 +1,59 @@
+{
+ "be": 634,
+ "variant": "",
+ "bl": null,
+ "title": "Yesus bangkit dan menang",
+ "key": "C",
+ "meter": "4/4",
+ "credit": "Rom. 14:9 ; Pang. 19:6",
+ "pages": [
+  795
+ ],
+ "cat": "Kebangkitan Tuhan Yesus",
+ "tempo": 100,
+ "credits": [
+  "Syair: Nunga hehe Tuhan i; N.N",
+  "Lagu: Nunga hehe Tuhan i; N.N",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 (4+5) 6 5 | 6 7 1' . | 1 .+3 4 6 | 5 3 2 . | 3 2\n3 2 | 1 . 7, 0 | 1 3 5 . | 1' (3'+1') 5 . | 1' .+7 1' 2' |\n(5 6/+.//+7// 1') 2' | 3' 2' 3' 2' | 1' . 7 0 | 1' (3'+1') 5 . | 3\n1 5 . | 3 (4+5) 6 .+5 | (6 7+1' 2' 1' | 7 1'+2' 3' 2' | 1')\n2' 7 1' | 1' . 7 . | 1' . . 0 |]",
+   "rows": [
+    "Ye-sus bang-kit dan me-nang Al-lah mem-bang-kit-kan-nya ma-ut su-dah ka-lah Dia hi-dup Dia hi-dup Kris-tus yg di-bu-nuh Kris-tus yg di-bu-nuh Kua-sa-Nya kua-sa-Nya mem-bang-kit-kan Ye-sus da-ri ku-bur-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yesus bangkit dan menang Allah membangkitkannya maut sudah kalah Dia hidup Dia hidup Kristus yg dibunuh Kristus yg dibunuh KuasaNya kuasaNya membangkitkan Yesus dari kuburNya"
+  ],
+  [
+   "Hanya Allah Bapaku membangkitkan Yesusku",
+   "Maut sudah kalah, soraklah, soraklah",
+   "Duka t'lah berubah jadi sukacita",
+   "KuasaNya, KuasaNya membangkitkan Yesus",
+   "Dari kuburNya"
+  ],
+  [
+   "Pujilah Tuhan kita yang memb'ri kehidupan",
+   "Hidup yang bahagia, Dia hidup, Dia hidup",
+   "Percayalah pada Tuhan Yesus Kristus",
+   "KuasaNya, KuasaNya membangkitkan Yesus",
+   "Dari kuburNya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 795 baris 4: busur legato 6→7 lalu 7→1' (awal baris 5) bersambung, seluruhnya satu suku kata 'Ye'; 'sus' baru pada 2' baris 5 → legato diperpanjang sampai 1' (memperbaiki 60 not vs 55 suku kata)",
+  "Koreksi dari gambar halaman: hal. 795 baris 2-3: 'di bu nuh' (2x) → di-bu-nuh (dibunuh); teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

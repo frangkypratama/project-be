@@ -1,0 +1,48 @@
+{
+ "bl": 177,
+ "sections": [
+  {
+   "notes": "1 1 7, 1 | 2 3 (3+2) 2 | 1 1 (2+3) (4+2) | 1 7 1 . :|",
+   "rows": [
+    "'Ku gem-bi-ra me-ra-ya-kan da-tang-Mu ke du-ni-a",
+    "Ye-sus Kau t'lah se-la-mat-kan ka-mi o-rang yg pa-pa"
+   ]
+  },
+  {
+   "notes": "5 (6+5) 4 4 | 4 (6+4) 3 . | 3 2 1 7, | 6, (2+1) 7, . | 1 (1+7,)\n(6,+7,) 1 | 4 3 (3+2) 2 | 5 4 3 (4+2) | 1 7, (7,+1) 1 |]",
+   "rows": [
+    "Do-sa ka-mi Kau te-bus de-ngan da-rah yg ku-dus A-gar je-ma-at-Mu ku-dus ju-ga mu-lia ser-ta lu-hur"
+   ]
+  }
+ ],
+ "vl_direct": {},
+ "verses": [
+  [
+   "'Ku gembira merayakan datangMu ke dunia",
+   "Yesus Kau t'lah selamatkan kami orang yg papa",
+   "Dosa kami Kau tebus dengan darah yg kudus Agar jemaatMu kudus juga mulia serta luhur"
+  ],
+  [
+   "Di hadirat-Mu ya Tuhan, jemaat-Mu menyembah",
+   "Yang selalu merindukan Kau, Tuhan dan Rajanya",
+   "Jemaat-Mu berkemas, Tuhan dinantikannya",
+   "Mengikuti Kau, Rajanya ke rumah-Mu yang di Surga"
+  ],
+  [
+   "Datanglah seg'ra ya Tuhan, Maranata datanglah",
+   "Itulah doa seruan mempelai-Mu di dunia",
+   "Datanglah ya Tuhanku, lihatlah sengsaraku",
+   "Bawa kami yang percaya ikut ke jamuan raya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "note": [
+  "hal. 158 kepala: Buku Logu 177 (data None)",
+  "hal. 158 baris 3: 'je ma at Mu ku dus' → 'je-ma-at-Mu ku-dus'",
+  "hal. 158 baris 1: 'ke du ni a' = dua kata (ke dunia) → 'ke du-ni-a'"
+ ]
+}

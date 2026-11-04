@@ -1,0 +1,60 @@
+{
+ "be": 3,
+ "variant": "",
+ "bl": 137,
+ "title": "Puji hai jiwaku, Puji Tuhan",
+ "key": "Ab",
+ "meter": "3/4",
+ "credit": "J.A. Freyl Inghausen, 1664",
+ "pages": [
+  5
+ ],
+ "cat": "Puji-pujian dan Penyembahan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Johan Daniel Herrnschmidt 1714 (1675-1723)",
+  "Lagu: J.A Freylinghausen 1664",
+  "Terj. Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 5, 1 | 1 .+7, 1 | (2 3) 4 | 3 . . | 2 . 0 | 2 2\n3 | 4 .+3 2 | 3 . 2 | 1 . . :|",
+   "rows": [
+    "Pu-ji hai ji-wa-ku pu-ji Tu-han Pu-ji-lah Al-lah-mu s'la-ma-nya",
+    "Se-be-lum be-rak-hir ke-hi-du-pan Syu-ku-ri se-mua a-nu-g'rah-Nya"
+   ]
+  },
+  {
+   "notes": "2 3 2 | (1 .+2) 7, |\n6, . 6, | 5, . 0 | 5, 5, 5, | 1 . 1 | (2 .+3) 4 | 3 . 0 |\n1 2 3 | (4 .+5 6) | 5 (3+1) 2 | 1 . . |]",
+   "rows": [
+    "Dia kha-lik a-lam se-mes-ta se-mua m mu-ji na-ma-Nya Hal-le-lu-yah Hal-le-lu-yah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Puji hai jiwaku puji Tuhan Pujilah Allahmu s'lamanya",
+   "Sebelum berakhir kehidupan Syukuri semua anug'rahNya",
+   "Dia khalik alam semesta semua m muji namaNya Halleluyah Halleluyah"
+  ],
+  [
+   "Orang yang hina dan yang terhormat, Hidupnya di dunia yang fana",
+   "Keinginannya pun akan sirna, Terkubur bersama jasadnya",
+   "Dunia bukan andalanku, Hanya Tuhan harapanku. Haleluya, Haleluya"
+  ],
+  [
+   "Berbahagia orang percaya, Kepada Allahnya Yang Esa",
+   "Di dalam Yesus nyata diri-Nya, Sesuai yang dijanjikan-Nya",
+   "Jikalau Allah sertamu, Sungguh bahagia hidupmu. Haleluya, Haleluya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

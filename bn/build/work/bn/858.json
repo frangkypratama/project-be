@@ -1,0 +1,53 @@
+{
+ "be": 858,
+ "variant": "",
+ "bl": null,
+ "title": "Yesus Kristus",
+ "key": "D",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  1069
+ ],
+ "cat": "Nyanyian Liturgi",
+ "tempo": 85,
+ "credits": [
+  "Syair: Jesus le Christ; Agustinus",
+  "Lagu: Jacques Berthier",
+  "Terj.Ind.: Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "6+6 .+3 | 4 0+2 5 5+2 | 3 3 1 1+1 | 2 1+2 3+3\n6+6 | #5 . 6+6 .+3 | 4 0+6 7 7+5 | 3 3 1 1 | 2\n1+2 3 6+#5 | 6 . |]",
+   "rows": [
+    "Kris-tus Ye-sus te-ra-ngi ha-ti-ku ja-ngan ge-lap me-ngua-sa-i ji-wa-ku Kris-tus Ye-sus te-ra-ngi ha-ti-ku ka-sih-Mu pe-nu-hi ha-ti-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kristus Yesus terangi hatiku jangan gelap menguasai jiwaku Kristus Yesus terangi hatiku kasihMu penuhi hatiku"
+  ],
+  [
+   "Kristus Yesus, terangi hatiku",
+   "Jangan gelap, menguasai jiwaku",
+   "Kristus Yesus, terangi hatiku",
+   "Roh Kudus, penuhi hatiku"
+  ],
+  [
+   "Kristus Yesus, terangi hatiku",
+   "Jangan gelap, menguasai jiwaku",
+   "Kristus Yesus, terangi hatiku",
+   "DamaiMu, penuhi hatiku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

@@ -1,0 +1,63 @@
+{
+ "be": 608,
+ "variant": "",
+ "bl": null,
+ "title": "Hai kota kecil Betlehem",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Mika 5:1 ; Mat. 2:6",
+ "pages": [
+  764
+ ],
+ "cat": "Natal",
+ "tempo": 100,
+ "credits": [
+  "Syair: O little town of Betlehem; Philip Brooks, 1835-1893",
+  "Lagu: Lewis H. Redner, 1830-1908",
+  "Terj.Ind.: Pdt. J.A.U Doloksaribu, Mmin & St Drs Nurdin Dolokaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "3 | 3 3 #2 3 | 5 4 6, 2 | 1 (7,+1) 2 5, | 3 . . 3 | 3 3\n6 5 | 5 4 6, 2 | 1 (7,+1) 3 2 | 1 . . 3 | 3 3 2 1 | 7, .\n7, 7, | 6, 7, 1 2 | 3 . . 3 | 3 3 #2 3 | 5 4 6, 6 | 5 1\n3 .+2 | 1 . . |]",
+   "rows": [
+    "Hai ko-ta ke-cil Bet-le-hem be-ta-pa kau se-nyap Bin-tang di la-ngit-mu te-rang ke-ti-ka kau le-lap di da-lam lo-rong g'lap-mu ber-si-nar t'rang ke-kal do-a ser-ta ha-ra-pan-Mu t'lah di-ge-na-pi-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hai kota kecil Betlehem betapa kau senyap Bintang di langitmu terang ketika kau lelap di dalam lorong g'lapmu bersinar t'rang kekal doa serta harapanMu t'lah digenapiNya"
+  ],
+  [
+   "Bagimu kini lahirlah Mesias Tuhanmu",
+   "Dan bintang t'rangmu turutlah memberitakannya",
+   "Para malaikat Surga bernyanyi bagiMu",
+   "Kemuliaan bagiNya damai di dunia"
+  ],
+  [
+   "Tenang di malam yang gelap, janjiNya pun genap",
+   "T'rus dari Surga datangNya, yang lahir di dunia",
+   "Dunia yang penuh dosa, yang jahat tercela",
+   "Kepada yang percayalah, Tuhan memb'ri berkat"
+  ],
+  [
+   "Ya Yesus anak yang kudus, lawatlah umatMu",
+   "Masuklah dalam hatiku, kuduskan hambaMu",
+   "UmatMu t'lah dengarkan berita mulia",
+   "Bawa kami ke rumahMu, kekal selamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 764 baris 1-2: 'se nyap' dan 'lo rong' satu kata → se-nyap (senyap), lo-rong (lorong); teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

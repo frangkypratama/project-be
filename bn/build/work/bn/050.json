@@ -1,0 +1,57 @@
+{
+ "be": 50,
+ "variant": "",
+ "bl": 119,
+ "title": "Bernyanyilah merdu",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "Choral Buch 166 Wirtenberg,",
+ "pages": [
+  63
+ ],
+ "cat": "Natal",
+ "tempo": 130,
+ "credits": [
+  "Syair: Latin abad ke-14",
+  "Lagu: Jerman abad ke-14",
+  "Terj.Ind.: Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 1 . 1 | 3 . 4 | (5 . 6 | 5) . 5 | 1 . 1 | 3 .\n4 | (5 . 6 | 5) . . | 5 . 6 | 5 . 4 | 3 . . | 1 .\n1 | 2 . 2 | 3 . 2 | (1 . 2 | 3) . 3 | 5 . 6 | 5 .\n4 | 3 . . | 1 . 1 | 2 . 2 | 3 . 2 | (1 . 2 | 3) . . |\n6, . 6, | 7, . 7, | (1 . . | 5) . . | 3 . 3 | 2 . 2 |\n(1 . . | 1) . |]",
+   "rows": [
+    "Ber-nya-nyi-lah mer-du u-cap-kan-lah syu-kur Ke-sa-ya-ngan ki-ta Sang ba-yi yg ku-dus T'lah la-hir di du-ni-a men-ja-di Pe-ne-bus Ye-sus Tu-han-ku Ye-sus Tu-han-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Bernyanyilah merdu ucapkanlah syukur Kesayangan kita Sang bayi yg kudus T'lah lahir di dunia menjadi Penebus Yesus Tuhanku Yesus Tuhanku"
+  ],
+  [
+   "O Anak yang kudus, hamba-Mu bertelut, Hiburlah hatiku, di jalan hidupku",
+   "Dan raihlah jiwaku, dekat kepada-Mu, Raih jiwaku, raih jiwaku"
+  ],
+  [
+   "Ya Tuhan Allahku, Kau b'rikan anak-Mu, Untuk menghapuskan dosa manusia",
+   "Serta menyediakan bahagia yang baka, Aku bahagia, aku bahagia"
+  ],
+  [
+   "Di Surga yang baka, damai dan bahagia, Bersama Malaikat dan orang beriman",
+   "Bernyanyi dan bersorak, memuji nama-Nya, S'lama-lamanya, s'lama-lamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 63: 'di du ni a' = kata depan 'di' + 'dunia' → 'di du-ni-a' (juga teks ayat 1)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

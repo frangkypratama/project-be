@@ -1,0 +1,78 @@
+{
+ "be": 72,
+ "variant": "",
+ "bl": 84,
+ "title": "Orang yang belum percaya",
+ "key": "C",
+ "meter": "4/4",
+ "credit": "Joachim Neander, 1680",
+ "pages": [
+  88
+ ],
+ "cat": "Epiphanias",
+ "tempo": 106,
+ "credits": [
+  "Syair: Johann Rist 1655 (1607-1667)",
+  "Lagu: Joachim Neander 1680 (1650-1680)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 .+2 3 1 | 3 4 5 5 | 1' (7+6) 5 3' | 2' 2' 1' . :|",
+   "rows": [
+    "O-rang yg be-lum per-ca-ya bang-kit dan ber-si-nar-lah",
+    "Kar'-na t'rang-mu su-dah da-tang de-ngan si-nar ce-mer-lang"
+   ]
+  },
+  {
+   "notes": "3' .+3' 2' 2' | 1' 1' 7 . | 6 .+6 5 1' | 2' 7 1' . |]",
+   "rows": [
+    "Ye-sus ber-si-nar te-rang ba-gi ha-ti yg ke-lam"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Orang yg belum percaya bangkit dan bersinarlah",
+   "Kar'na t'rangmu sudah datang dengan sinar cemerlang",
+   "Yesus bersinar terang bagi hati yg kelam"
+  ],
+  [
+   "Dulu masih tersembunyi, niat kasih s'lamat-Nya",
+   "Manusia di atas bumi, hidup dalam dosanya",
+   "Semuanya tersesat dalam kehidupannya"
+  ],
+  [
+   "T'lah berlalu kegelapan sudah datang sinar t'rang",
+   "Cahayanya gemerlapan, memb'ri damai dan senang",
+   "Tinggalkanlah yang kelam, datanglah kepada t'rang"
+  ],
+  [
+   "Yesus, Engkau t'rang dunia; b'ri sinar-Mu padaku",
+   "Jauhkan aku dari dosa, kuduskanlah hatiku",
+   "Arahkanlah langkahku menghampiri sinar-Mu"
+  ],
+  [
+   "Pernyataan-Mu Tuhanku, menyinari hatiku",
+   "Bahagialah jiwaku hingga akhir hayatku",
+   "Apa pun menimpaku, Engkau Tuhan Rajaku"
+  ],
+  [
+   "Tuntunlah langkahku, Tuhan; menghampiri tahta-Mu",
+   "Agar aku menyaksikan keagungan hikmat-Mu",
+   "Di rumah-Mu yang baka, Kau 'ku puji s'lamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

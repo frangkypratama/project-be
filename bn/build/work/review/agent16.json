@@ -1,0 +1,222 @@
+[
+ {
+  "id": "650",
+  "status": "fixed",
+  "detail": "Not, judul, do=Bes, 4 ketuk cocok hal. 815. Lirik: 'ter pang-gil' → 'ter-pang-gil'. 8 ayat lengkap."
+ },
+ {
+  "id": "651",
+  "status": "fixed",
+  "detail": "Not 3 halaman (816-818) cocok (ketuk angkat 3'.2' bertitik dicek perbesaran). Pemisahan kata: di-te-tap-kan, ber-Fir-man; ayat 2 'A kuberjanji'→'Aku berjanji', 'Kupersembahkan'; vl_direct ayat 2-3 dari lirik di not. Catatan: garis ganda sebelum Reff ditulis '|' (tidak berpengaruh)."
+ },
+ {
+  "id": "652",
+  "status": "fixed",
+  "detail": "Not 6/8 cocok hal. 819. Lirik baris 2 tercetak 'je ma ta Mu' (salah ketik buku) → je-ma-at-Mu. Catatan: buku memakai FINE + D.C. al FINE (belum dimodelkan); ayat 2 6 baris sesuai pola D.C."
+ },
+ {
+  "id": "653",
+  "status": "fixed",
+  "detail": "Not cocok hal. 820. Pemisahan kata: Ju-bi-le-uh, li-ma pu-luh, si-lam, Si-ngat."
+ },
+ {
+  "id": "654",
+  "status": "ok",
+  "detail": "Not, lirik, 3 ayat cocok hal. 821."
+ },
+ {
+  "id": "655",
+  "status": "fixed",
+  "detail": "Not cocok hal. 822. Lirik: 'Di a-tas', 'bap-ti-san ku-dus'."
+ },
+ {
+  "id": "656",
+  "status": "fixed",
+  "detail": "Not cocok hal. 823. Lirik: 'ber-se-jah-te-ra'."
+ },
+ {
+  "id": "657",
+  "status": "fixed",
+  "detail": "Not (ritme bertitik, kres #4/#1) cocok hal. 824, dicek perbesaran. Lirik: 'me-mu-ji-mu-ji'."
+ },
+ {
+  "id": "658",
+  "status": "ok",
+  "detail": "Not, bagian ulang, lirik 2 putaran, 3 ayat cocok hal. 825."
+ },
+ {
+  "id": "659",
+  "status": "fixed",
+  "detail": "Not cocok hal. 826. Lirik: 'mem-bu-tuh-kan'."
+ },
+ {
+  "id": "660",
+  "status": "fixed",
+  "detail": "Not (termasuk #1, ikatan antar-birama) cocok hal. 827. Lirik: 'di sa-na'."
+ },
+ {
+  "id": "661",
+  "status": "fixed",
+  "detail": "Not 2/4 cocok hal. 828. Lirik: ke-ma-la-ngan, di-li-pu-ti. Catatan: FINE + D.C. al FINE belum dimodelkan (ayat 2-4 = A-B-A)."
+ },
+ {
+  "id": "662",
+  "status": "ok",
+  "detail": "Not, lirik, 7 ayat cocok hal. 829."
+ },
+ {
+  "id": "663",
+  "status": "fixed",
+  "detail": "Peringatan validator birama #9 = 1 ketuk: buku memang mencetak '| 1 ||' FINE (pelengkap ketuk angkat 3 ketuk). Dipecah jadi 2 bagian di FINE (not/lirik tidak diubah) → validator OK. D.C. al FINE belum dimodelkan."
+ },
+ {
+  "id": "664",
+  "status": "ok",
+  "detail": "Not, lirik, 3 ayat cocok hal. 831."
+ },
+ {
+  "id": "665",
+  "status": "issue",
+  "detail": "Not cocok hal. 832 (kanon 4 suara, penanda 1-4 tidak dimodelkan). Lirik akhir tercetak 't'rang mu t'lah da lah' — kata 'da lah' tidak jelas maknanya (mungkin salah ketik buku), dibiarkan sesuai cetakan. Hanya 1 ayat."
+ },
+ {
+  "id": "666",
+  "status": "ok",
+  "detail": "Not 2 halaman (833-834) cocok, kres #2/#4, ritme bertitik; ayat 3 di not (vl_direct) benar."
+ },
+ {
+  "id": "667",
+  "status": "fixed",
+  "detail": "Not 6/8 cocok hal. 835. Lirik: me-ngu-ning, me-mu-ai-nya, 'i-ni a-ku u-tus-lah'."
+ },
+ {
+  "id": "668",
+  "status": "fixed",
+  "detail": "Not cocok hal. 836. Lirik tercetak 'Na nyak' (salah ketik buku) → 'Ba-nyak'."
+ },
+ {
+  "id": "669",
+  "status": "fixed",
+  "detail": "Not cocok hal. 837-838. Pemisahan kata ayat 1 & ayat 3 (vl_direct): 'kasihNya Ku suka', 'terbesar Ku', 'memasyurkan ku', 'Pu-as-kan', 'nikmatnya Ku', 'injilnya Ku'."
+ },
+ {
+  "id": "670",
+  "status": "fixed",
+  "detail": "Not ritme bertitik + ikatan cocok hal. 839-840 (dicek perbesaran). Lirik: 'me-nge-rang'. vl_direct ayat 3 dipertahankan."
+ },
+ {
+  "id": "671",
+  "status": "ok",
+  "detail": "Not (ritme bertitik, #1) dan lirik cocok hal. 841; 3 ayat 8 baris lengkap."
+ },
+ {
+  "id": "672",
+  "status": "issue",
+  "detail": "Lirik diperbaiki (ke-wa-ji-ban-mu, di-ri-mu su-ri). Validator birama #4 = 5 ketuk TETAP: di buku '7 1'' di awal baris 2 tidak bergaris atas (dicek perbesaran 400 dpi), padahal birama sejajar di reff baris 4 bergaris atas (7+1'). Kemungkinan salah cetak; tidak dikoreksi."
+ },
+ {
+  "id": "673",
+  "status": "ok",
+  "detail": "Not dan lirik ayat 1 & ayat 4 (vl_direct) cocok hal. 843-844; 5 ayat."
+ },
+ {
+  "id": "674",
+  "status": "ok",
+  "detail": "Not 3/4 dan lirik cocok hal. 845."
+ },
+ {
+  "id": "675",
+  "status": "ok",
+  "detail": "Not, lirik, 4 ayat cocok hal. 846."
+ },
+ {
+  "id": "676",
+  "status": "ok",
+  "detail": "Not (bagian ulang + bagian 2), lirik 2 putaran, 3 ayat cocok hal. 847."
+ },
+ {
+  "id": "677",
+  "status": "fixed",
+  "detail": "Not 6/8 (#4, ikatan) cocok hal. 848-849. Lirik: 'p'ri-ha-tin'. vl_direct ayat 3 dipertahankan."
+ },
+ {
+  "id": "678",
+  "status": "fixed",
+  "detail": "Not (triol, 4 not 1/4 dengan legato) cocok hal. 850. Lirik: 'Ber-ba-lik-lah' (2x)."
+ },
+ {
+  "id": "679",
+  "status": "fixed",
+  "detail": "Not bagian ulang + bagian 2 cocok hal. 851-852. Lirik: 'ta-rik' (Daya tarik); teks ayat 2 'di dunia'. Catatan: ayat 2 tercetak 'se mua nua' (mungkin salah ketik buku), dibiarkan."
+ },
+ {
+  "id": "680",
+  "status": "ok",
+  "detail": "Not (#4) dan lirik cocok hal. 853; ayat 2 tiga baris lengkap."
+ },
+ {
+  "id": "681",
+  "status": "fixed",
+  "detail": "Not cocok hal. 854. Lirik: 'Al-lah-ku Ku ba-nyak', 'pem-ba-la-san'."
+ },
+ {
+  "id": "682",
+  "status": "fixed",
+  "detail": "Not cocok hal. 855. Ayat 3 palsu '[4x]' (dari tanda ulang teks ayat 2) dihapus; ayat 2 ditulis 4 baris sesuai '[4x]'."
+ },
+ {
+  "id": "683",
+  "status": "fixed",
+  "detail": "Not cocok hal. 856. Teks ayat 2 'Yeus' (salah ketik buku) → 'Yesus'."
+ },
+ {
+  "id": "684",
+  "status": "fixed",
+  "detail": "Not 6/8 cocok hal. 857-859. Lirik reff 'ku-dus ku di-te-bus' (bukan 'ku-dus-ku'), 'la-lu ku', ayat 3 'Yr sus' (salah ketik buku) → 'Ye-sus'; vl_direct ayat 2-3 diperbarui."
+ },
+ {
+  "id": "685",
+  "status": "ok",
+  "detail": "Not 3/4 dan lirik cocok hal. 860; 4 ayat."
+ },
+ {
+  "id": "686",
+  "status": "fixed",
+  "detail": "Not 6/8 cocok hal. 861. Lirik: 'di-ri-ku Ku di-ku-dus-kan'."
+ },
+ {
+  "id": "687",
+  "status": "ok",
+  "detail": "Not dan lirik cocok hal. 862; 3 ayat."
+ },
+ {
+  "id": "688",
+  "status": "fixed",
+  "detail": "Not cocok hal. 863. Lirik: ''pa-bi-la'."
+ },
+ {
+  "id": "689",
+  "status": "fixed",
+  "detail": "Not (#4 #4) cocok hal. 864. Lirik: 'ber-de-bar'. Catatan: teks ayat 2 'rahmatkasihNya' memang tercetak begitu."
+ },
+ {
+  "id": "690",
+  "status": "fixed",
+  "detail": "Not cocok hal. 865. Lirik akhir: 'ke-pu-tu-san-ku ku tak ing-kar ku tak ing-kar'."
+ },
+ {
+  "id": "691",
+  "status": "ok",
+  "detail": "Not dan lirik ayat 1 & 4 (vl_direct) cocok hal. 866-867; 6 ayat urut (buku mencetak ayat 6 di kolom kiri, 5 di kanan)."
+ },
+ {
+  "id": "692",
+  "status": "fixed",
+  "detail": "Not (#5, 5' bertitik atas dicek perbesaran) cocok hal. 868. Lirik: 'sum-ber su-ka-ci-ta-ku'."
+ },
+ {
+  "id": "693",
+  "status": "fixed",
+  "detail": "Not 6/8 cocok hal. 869-871. Lirik: 'men-ja-gai' (sebelumnya 'menja _ gai'), 'kua-at-kan', reff 'hi-dup-ku se-la-lu' (juga vl_direct ayat 2-3), ayat 2 'Wa-lau ku ter-lu-ka'. 'br' dibiarkan sesuai cetakan."
+ }
+]

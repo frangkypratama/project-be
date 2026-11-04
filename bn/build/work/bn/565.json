@@ -1,0 +1,63 @@
+{
+ "be": 565,
+ "variant": "",
+ "bl": null,
+ "title": "Hatiku gemar memuji",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "Psalm 145:10",
+ "pages": [
+  705
+ ],
+ "cat": "Puji-pujian dan Penyembahan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Joyful, Joyful, We adore Thee; Henry Van Dyke, 1907",
+  "Lagu: Ludwig Van Beethoven",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 3 4 5 | 5 4 3 2 | 1 1 2 3 | 3 .+2 2 . | 3 3 4\n5 | 5 4 3 2 | 1 1 2 3 | 2 .+1 1 . | 2 2 3 1 | 2\n(3+4) 2 1 | 2 (3+4) 3 2 | 1 2 5, . | 3 3 4 5 | 5 4 3\n2 | 1 1 2 3 | 2 .+1 1 . |]",
+   "rows": [
+    "Ha-ti-ku ge-mar me-mu-ji kar'-na ka-sih rah-mat-Mu Ba-gai bu-nga pa-gi ha-ri me-kar kar'-na ber-kat-Mu Kua-sa do-sa ra-tap ta-ngis sir-na kar'-na ka-sih-Mu su-ka-ci-ta yg a-ba-di b'ri pa-da-ku Tu-han-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hatiku gemar memuji kar'na kasih rahmatMu Bagai bunga pagi hari mekar kar'na berkatMu Kuasa dosa ratap tangis sirna kar'na kasihMu sukacita yg abadi b'ri padaku Tuhanku"
+  ],
+  [
+   "Semua alam ciptaanMu menyatakan kuasaMu",
+   "Tata surya, malaikatMu, mengitari tahtaMu",
+   "Ladang, gunung, lembah hijau, suara ombak menderu",
+   "Margasatwa pun bermazmur memuliakan namaMu"
+  ],
+  [
+   "Tuhan Allah maha kudus, ampunilah dosaku",
+   "Hati, jiwaku bersyukur kar'na kemurahanMu",
+   "Curahkanlah Roh KudusMu bagi semua umatMu",
+   "Agar semua jemaatMu menghayati kasihMu"
+  ],
+  [
+   "Marilah semua bernyanyi memuliakan namaNya",
+   "Dengan suara sorak-sorai kar'na berkat rahmatNya",
+   "Kasih Allah yang sejati sungguh tiada batasnya",
+   "Kebahagiaan abadi dib'ri pada umatNya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 705 baris 2-3: \"ra tap\" -> \"ra-tap\" (ratap tangis); ayat 1 ikut"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

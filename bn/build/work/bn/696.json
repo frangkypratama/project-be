@@ -1,0 +1,56 @@
+{
+ "be": 696,
+ "variant": "",
+ "bl": null,
+ "title": "Bertambah kasihku",
+ "key": "Ab",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  875
+ ],
+ "cat": "Iman dan Hidup Baru",
+ "tempo": 104,
+ "credits": [
+  "Syair: More love to Thee, o Christ; Elizabeth P. Prentiss",
+  "Lagu: William H. Doane",
+  "Terj.Ind.: St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5, . 6, 5, | 1 .+2 3 . | 3 . 2 1 | 2 . . . | 5, . 6, 5, |\n1 .+2 3 . | 2 . 1 7, | 1 . . . | 4 . 4 4 | 4 .+3\n3 . | 2 . 2 2 | 2 .+1 1 . | 6, . 6, 6, | 1 . . . |\n2 . 1 7, | 1 . . . |]",
+   "rows": [
+    "Ber-tam-bah ka-sih-ku ke-pa-da-Mu I-tu-lah do-a-ku se-ngar-kan-ku Ber-tam-bah ka-sih-ku pa-da-Mu Ye-sus-ku De-ngar-kan-lah ya Tu-han-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Bertambah kasihku kepadaMu Itulah doaku sengarkanku Bertambah kasihku padaMu Yesusku Dengarkanlah ya Tuhanku"
+  ],
+  [
+   "Dulu 'ku mencari hasrat dunia",
+   "Kini 'ku taati hanya Tuhan",
+   "Bertambah kasihku, itulah janjiku",
+   "Dengarkanlah ya Tuhanku"
+  ],
+  [
+   "Di akhir hidupku, 'ku mau pergi",
+   "Ke Surga yang teduh nan abadi",
+   "'Ku puji namaMu selama-lamanya",
+   "Ya Tuhanku dengarkanlah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 875 baris 2: lirik 'se ngar kan ku' = satu kata (se-ngar-kan-ku; kemungkinan salah cetak buku utk dengarkanku, tidak diubah); pemisahan kata diperbaiki, juga di teks ayat 1"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

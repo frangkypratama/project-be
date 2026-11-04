@@ -1,0 +1,54 @@
+{
+ "be": 823,
+ "variant": "",
+ "bl": null,
+ "title": "Bila malam t'lah datang",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "Mat. 5:16, 1 Pet. 2:12",
+ "pages": [
+  1035
+ ],
+ "cat": "Nyanyian Pagi dan Malam Hari",
+ "tempo": 104,
+ "credits": [
+  "Syair: Abend Ward Balt Kommt die Naht; Rudolf Alexander Schroder, 1942",
+  "Lagu: Samuel Rothenberg, 1948",
+  "Terj.Ind.: St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "1 2 3 (1+5,) | 6, 7, 1 . | 4 3 2 2 | 3 . . . | 3 4\n5 .+5 | 4 3 2 . | 5, 1 2 2 | 1 . . . |]",
+   "rows": [
+    "Bi-la ma-lam t'lah da-tang ma-ri ti-dur-lah Al-lah yg men-ja-ga-mu ber-ja-ga te-rus"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Bila malam t'lah datang mari tidurlah Allah yg menjagamu berjaga terus"
+  ],
+  [
+   "Yesus yang besertamu, yang letih lesu",
+   "Pada Yesus datanglah, kau nyaman tent'ram"
+  ],
+  [
+   "Pintaku ya Tuhanku, saat tidurku",
+   "Jauhkan semua seteru dari dekatku"
+  ],
+  [
+   "Yesus sumber bahagia, kehidupanku",
+   "Esok aku bekerja, Kau besertaku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

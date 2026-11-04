@@ -1,0 +1,59 @@
+{
+ "be": 530,
+ "variant": "",
+ "bl": 364,
+ "title": "Kuselalu merindukan",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "N.N",
+ "pages": [
+  665
+ ],
+ "cat": "Kehidupan Sorgawi",
+ "tempo": 100,
+ "credits": [
+  "Syair: Magenau",
+  "Lagu:",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "1 (1+2) 3 (3+4) | 5 1' 6 1' | 5 3 6+5 3+1 | 2 . . 0 | 1\n(1+2) 3 (3+4) | 5 1' 6 1' | 5 3 2+4 3+2 | 1 . . (3+4)+5 |\n6 . 4 (1'+7)+6 | 5 . 3 2+3 | 4 .+3 4 6 | (5 . 3) (3+4)+5 |\n6 . 4 (1'+7)+6 | 5 . 3 3+4 | 5 5 6 7 | 1' . . 0 |]",
+   "rows": [
+    "Ku-se-la-lu me-rin-du-kan ru-mah per-hen-ti-an-ku Di sa-na-lah ku-te-mu-kan ke-te-na-ngan ji-wa-ku ku-rin-du-kan ru-mah Tu-han per-hen-ti-an yg te-duh be-ban hi-dup me-le-mah-kan di se-pan-jang hi-dup-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kuselalu merindukan rumah perhentianku Disanalah kutemukan ketenangan jiwaku kurindukan rumah Tuhan perhentian yg teduh beban hidup melemahkan disepanjang hidupku"
+  ],
+  [
+   "Di tempat perhentianku, 'ku bertemu Yesusku",
+   "Tinggal bersama Tuhanku, tentram damai jiwaku",
+   "Di tempat perhentianku, 'ku temukan Tuhankku",
+   "Tuhan Yesus, Tuhan Yesus, Engkau Jurus'lamatku"
+  ],
+  [
+   "Ke rumah perhentianku, marilah bersamaku",
+   "Dan bertemu dengan Yesus serta handai tolanmu",
+   "Aku rindu ke rumahku, marilah bersamaku",
+   "Tak seorangpun tertinggal masuk ke Surga kekal"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 665 kepala: Buku Logu 364, ref R.L.No. 572 (sebelumnya bl kosong dan nomor masuk ke ref)",
+  "Koreksi dari gambar halaman: hal. 665 baris 2: pemisahan kata \"ji-wa-ku-ku rin-du-kan\" -> \"ji-wa-ku ku-rin-du-kan\"; baris 4: \"me-le-mah kan\" -> \"me-le-mah-kan\"; teks ayat 1 ikut disesuaikan",
+  "Koreksi dari gambar halaman: kata depan dipisah: Di-sa-na-lah, di-se-pan-jang"
+ ],
+ "status": "",
+ "ref": "R.L.No. 572",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

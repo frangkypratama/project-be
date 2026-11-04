@@ -1,0 +1,64 @@
+{
+ "be": 718,
+ "variant": "",
+ "bl": null,
+ "title": "Dengar Yesus memanggil",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Mat. 8:19",
+ "pages": [
+  902
+ ],
+ "cat": "Pengakuan Iman dan Penyerahan Diri",
+ "tempo": 115,
+ "credits": [
+  "Syair: I can hear my Savior calling; E.W. Blandy",
+  "Lagu: John S. Norris 1890",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5,/+.//+1// | 3 .+3 4 .+3 | 3+2 . .+0 5,/+.//+7,// | 2 .+1 3 .+2 |\n2+1 . .+0 1/+.//+3// | 5 .+5 6 .+5 | 5+4 . .+0 1+2 | 3+5, 3+5,\n2 .+1 | 1 . . | 5,/+.//+1// | 3 .+3 4 .+3 | 3+2 . .+0\n5,/+.//+7,// | 2 .+1 3 .+2 | 2+1 . .+0 1/+.//+3// | 5 .+5 6 .+5 |\n5+4 . .+0 1+2 | 3+5, 3+5, 2 .+1 | 1 . . |]",
+   "rows": [
+    "Ku-de-ngar Ye-sus me-mang-gil Ku de-ngar Ye-sus me-mang-gil Ju-ru-s'la-mat-ku me-mang-gil pi-kul sa-lib i-kut-lah A-ku A-ku i-kut Tu-han Ye-sus A-ku i-kut Tu-han Ye-sus dan ke ma-na-pun Tu-han-ku A-ku i-kut Ye-sus Tu-han-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kudengar Yesus memanggil Ku dengar Yesus memanggil Jurus'lamatku memanggil pikul salib ikutlah Aku Aku ikut Tuhan Yesus Aku ikut Tuhan Yesus dan kemanapun Tuhanku Aku ikut Yesus Tuhanku"
+  ],
+  [
+   "Ke Getsemani 'ku ikut, Ke Getsemani 'ku ikut",
+   "Dalam doa aku ikut, Aku ikut, ikut Tuhanku",
+   "Aku ikut Tuhan Yesus, Aku ikut Tuhan Yesus",
+   "Dan ke manapun Tuhanku, Aku ikut Yesus, Tuhanku"
+  ],
+  [
+   "Aku mau menyangkal diri, Aku mau menyangkal diri",
+   "Pikul salib tiap hari, Aku ikut, ikut Tuhanku",
+   "Aku ikut Tuhan Yesus, Aku ikut Tuhan Yesus",
+   "Dan ke manapun Tuhanku, Aku ikut Yesus, Tuhanku"
+  ],
+  [
+   "Tuhan b'rilah kekuatan, Tuhan b'rilah kekuatan",
+   "Dan mahkota kehidupan, Dalam Surga, Surga bahagia",
+   "Aku ikut Tuhan Yesus, Aku ikut Tuhan Yesus",
+   "Dan ke manapun Tuhanku, Aku ikut Yesus, Tuhanku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 902 baris 1: lirik 'me mang gil | Ku de ngar' — pemisahan kata memanggil Ku dengar, juga di teks ayat 1",
+  "Koreksi dari gambar halaman: kata depan dipisah: ke-ma-na-pun"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

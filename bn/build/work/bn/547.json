@@ -1,0 +1,74 @@
+{
+ "be": 547,
+ "variant": "",
+ "bl": 376,
+ "title": "Biarkan anak-anak datang",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "William B. Bradbury, 1868",
+ "pages": [
+  687
+ ],
+ "cat": "Nyanyian Anak-anak",
+ "tempo": 100,
+ "credits": [
+  "Syair: Dorothy Ann Thrupp 1779-1847",
+  "Lagu: William B Bradbury 1816-1868",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3 3 3+2 3+4 | (5 1') (5 3) | 2 3 4+6 5+4 | 3 . . . |",
+   "rows": [
+    "Bi-ar a-nak-a-nak da-tang sab-da Ye-sus Tu-han-ku"
+   ]
+  },
+  {
+   "notes": "3 3 3+2 3+4 | (5 1') (5 3) | 2 3 4+6 5+4 |\n3 . . 5+5 | 6 1' . 7+6 | 5 3 . 3+3 | 2 6 5 4 | 3 . .\n5+5 | 6 1' . 7+6 | 5 1' . 1+2 | 3 5 4 .+2 | 1 . . . |]",
+   "rows": [
+    "Ma-ri da-tang-lah se-mu-a de-ngar sua-ra Pe _ bus Hai te-man-ku ja-ngan tun-da pa-da Ye-sus da-tang-lah Hai te-man-ku ja-ngan tun-da pa-da Ye-sus da-tang-lah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Biar anak-anak datang sabda Yesus Tuhanku",
+   "Mari datanglah semua dengar suara Pe…bus Hai temanku jangan tunda pada Yesus datanglah Hai temanku jangan tunda pada Yesus datanglah"
+  ],
+  [
+   "Dari mulut anak-anak lagu indah terdengar",
+   "Yang memuji Tuhan Yesus, mari puji namaNya",
+   "Hai temanku jangan tunda, pada Yesus datanglah",
+   "Hai temanku jangan tunda, pada Yesus datanglah"
+  ],
+  [
+   "Meski hati s'perti anak, b'rikan pada Tuhanmu",
+   "Kala susah dan berduka Tuhan yang menghiburmu",
+   "Hai temanku jangan tunda, pada Yesus datanglah",
+   "Hai temanku jangan tunda, pada Yesus datanglah"
+  ],
+  [
+   "Tuhan, kini aku datang; aku mengasihiMu",
+   "Peganglah erat tanganku menghadapi seteru",
+   "Hai temanku jangan tunda, pada Yesus datanglah",
+   "Hai temanku jangan tunda, pada Yesus datanglah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Ulangan dengan kurung 1./2. (volta) di buku ditulis sebagai dua bagian: putaran 1 lalu putaran 2.",
+  "Koreksi dari gambar halaman: hal. 687 baris 1: \"a-nak a-nak\" -> \"a-nak-a-nak\" (judul: anak-anak)",
+  "Koreksi dari gambar halaman: hal. 687 putaran 2: suku kata \"han\" di bawah not 4 (birama 3) tidak ada di buku (tersalin dari baris \"Tu han\" putaran 1); di buku not itu kosong antara \"Pe\" dan \"bus\" — dibiarkan kosong (_), kemungkinan maksudnya \"Penebus\".",
+  "Koreksi dari gambar halaman: ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "ref": "Z.No. 315",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

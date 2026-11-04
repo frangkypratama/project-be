@@ -1,0 +1,82 @@
+{
+ "be": 300,
+ "variant": "",
+ "bl": 12,
+ "title": "Hai bangkitlah",
+ "key": "A",
+ "meter": "3/4",
+ "credit": "Karl Friedrich Schulz, 1810",
+ "pages": [
+  371
+ ],
+ "cat": "Nyanyian Pagi Hari",
+ "tempo": 115,
+ "credits": [
+  "Syair: Paul Gerhardt 1647 (1607-1676)",
+  "Lagu: Nikolaus Selnecker 1587 (1528-1592)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMinn"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 1 . 7, | 6, . 1 | 2 . . | 1 . 1 | 1 . 2 | 7, .\n2 | 1 . . | 7, . 7, | 1 . 1 | 2 . 3 | 2 . . | 2 .\n3 | 4 . 3 | 2 . 1 | 2 . . | 1 . |]",
+   "rows": [
+    "Hai bang-kit-lah ji-wa-ku mu-li-a-ka Al-lah-mu yg baik dan ma-ha-kua-sa ke-pa-da ma-nu-si-a"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hai bangkitlah jiwaku muliaka Allahmu yg baik dan mahakuasa kepada manusia"
+  ],
+  [
+   "Di saat aku tidur, Tuhan s'lalu berjaga",
+   "Sehingga 'ku terhindar dari mara bahaya"
+  ],
+  [
+   "Kau Tuhan mengatakan, “Tidurlah kau anak-Ku",
+   "Tak usah kau risaukan, gelap seg'ra berlalu.”"
+  ],
+  [
+   "FirmanMu t'lah terwujud, 'ku lihat t'rang surya-Mu",
+   "Gelap sudah berlalu, 'ku dalam lindungan-Mu"
+  ],
+  [
+   "Apakah persembahan yang berkenan bagi-Mu",
+   "Nyanyian, permohonan, syukuran dan doaku"
+  ],
+  [
+   "Engkau tak menolaknya, Kau tau isi hatiku",
+   "Kau tau bahwa tiada yang baik dari diriku"
+  ],
+  [
+   "Lanjutkanlah karya-Mu, berikanlah berkat-Mu",
+   "Hidupku seluruhnya dalam tangan-Mu, Tuhan"
+  ],
+  [
+   "Berkati pekerjaan agar besar manfaatnya",
+   "Awalnya dan akhirnya, Engkau menentukannya"
+  ],
+  [
+   "Terangilah langkahku, diamlah di hatiku",
+   "Firman-Mu pedomanku berjalan ke rumah-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 371 baris 1: 'mu li a ka' satu kata (= muliakan; buku menulis 'ka'), pemisahan kata diperbaiki. Not cocok."
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

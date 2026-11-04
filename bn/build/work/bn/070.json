@@ -1,0 +1,79 @@
+{
+ "be": 70,
+ "variant": "",
+ "bl": 36,
+ "title": "Setahun waktu berlalu",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "Wilhem Hauff, Abad 17",
+ "pages": [
+  86
+ ],
+ "cat": "Tahun baru",
+ "tempo": null,
+ "credits": [
+  "Syair: Wilhelm Hauff",
+  "Lagu:",
+  "Terj.Ind.: St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5,/ 1+2 | 3 .+4 2+3 | 1 .+2 3+4 | 5 .+6 4+5 | 3 ./",
+   "rows": [
+    "Se-ta-hun wak-tu ber-la-lu a-ku ber-syu-kur pa-da-Mu"
+   ]
+  },
+  {
+   "notes": "1/ 1+1 | 6 .+6 1'+6 | (5 3)+5 5+5 | 4 .+2 5+4 |\n3 ./ :|",
+   "rows": [
+    "A-tas ber-kat dan rah-mat-Mu me-me-li-ha-ra u-mat-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Setahun waktu berlalu aku bersyukur padaMu",
+   "Atas berkat dan rahmatMu memelihara umatMu"
+  ],
+  [
+   "O Yesus, kasihanilah nyatakan kemurahan-Mu",
+   "Di tahun baru ini pun berkat-Mu makin nyatalah",
+   "Di tahun baru ini pun berkat-Mu makin nyatalah"
+  ],
+  [
+   "Taburkan firman-Mu Tuhan, kuatkan hati yang resah",
+   "Enyahkan iblis penyesat dari umat-Mu yang lemah",
+   "Enyahkan iblis penyesat dari umat-Mu yang lemah"
+  ],
+  [
+   "Dosa dan pelanggaranku, 'ku mohon pengampunan-Mu",
+   "Sucikan kami umat-Mu dengan belas kasihan-Mu",
+   "Sucikan kami umat-Mu dengan belas kasihan-Mu"
+  ],
+  [
+   "Kuatkan aku selalu melaksanakan p'rintah-Mu",
+   "Melawan iblis seteru dan keinginan tubuhku",
+   "Melawan iblis seteru dan keinginan tubuhku"
+  ],
+  [
+   "Arahkanlah makin dekat, ke arah hidup yang kekal",
+   "Berkat-Mu abadikanlah bagi umat-Mu semuanya",
+   "Berkat-Mu abadikanlah bagi umat-Mu semuanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 86 kepala lagu: 'Buku Logu: 36' (data kosong) → bl 36"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

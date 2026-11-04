@@ -1,0 +1,99 @@
+{
+ "be": 106,
+ "variant": "",
+ "bl": 176,
+ "title": "Allah Bapa mahakasih",
+ "key": "F",
+ "meter": "6/8",
+ "credit": "Jenewa, 1551",
+ "pages": [
+  131,
+  132
+ ],
+ "cat": "Pentakosta Roh Kudus",
+ "tempo": 100,
+ "credits": [
+  "Syair: Freiberg 1620",
+  "Lagu: Jenewa 1551",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 . 2 3 . 2 | 1 7, 6, . 5, . | 1 . 2 3 . 4 | 3 .\n2 . 1 . :|",
+   "rows": [
+    "Al-lah Ba-pa ma-ha-ka-sih cu-rah-kan-lah Roh ku-dus",
+    "Dan pe-nu-hi ha-ti ka-mi u-mat yg Eng-kau te-bus"
+   ]
+  },
+  {
+   "notes": "3 . 3 5 . 4 | 3 . 2 . 3 . | 5 . 5 6 .\n5 | 4 . 3 . 2 . | 3 . 5 4 . 3 | 1 2 3 . 1 . | 3 . 3\n4 . 3 | 2 1 (1 7,) 1 . |]",
+   "rows": [
+    "Ba-ha-ru-i ji-wa-ku ja-di bait-Mu yg ku-dus ya de-ngar-kan-lah do-a-ku de-mi ka-sih se-ti-a-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Allah Bapa mahakasih curahkanlah Roh kudus",
+   "Dan penuhi hati kami umat yg Engkau tebus",
+   "Baharui jiwaku jadi baitMu yg kudus ya dengarkanlah doaku demi kasih setiaMu"
+  ],
+  [
+   "'Ku tak dapat melakukan apapun kehendak-Mu",
+   "Jika Roh Kudus-Mu Tuhan, tidak ada padaku",
+   "Dengan pertolongan-Mu, 'ku memuji nama-Mu",
+   "Jika sinar-Mu tak datang, 'ku di dalam kegelapan"
+  ],
+  [
+   "Kar'na Roh Kudus-Mu Bapa, 'ku beriman padamu",
+   "'Ku percaya Yesus Tuhan sumber kehidupanku",
+   "Jika Roh-Mu tak datang, hatiku tetap kelam",
+   "Maka curahkanlah Roh-Mu, b'rilah hikmat dan firman-Mu"
+  ],
+  [
+   "Harta yg bertahan lama sampai s'lama lamanya",
+   "Hanya Kau yg dapat b'rikan pada umatMu Tuhan",
+   "'Ku memohon padaMu b'rikanlah Roh KudusMu dan penuhilah diriku tinggallah dalam hatiku"
+  ],
+  [
+   "Perlihatkanlah padaku dosaku yang tak 'ku tau",
+   "Hal yang memisahkan aku dari-Mu ya, Tuhanku",
+   "'Ku mengaku pada-Mu, semua kesalahanku",
+   "Tuhan ampuni dosaku dan kuduskanlah diriku"
+  ],
+  [
+   "Ajar aku ya Roh Kudus, tunjukkanlah jalanku",
+   "Agar budi pekertiku berkenan di hati-Mu",
+   "Dan kuduskan hatiku melakukan firman-Mu",
+   "Agar di saat ajalku, aku tiba di rumah-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Har-ta yg ber-ta-han la-ma sam-pai s'la-ma la-ma-nya",
+     "Ha-nya Kau yg da-pat b'ri-kan pa-da u-mat-Mu Tu-han"
+    ],
+    [
+     "'Ku me-mo-hon pa-da-Mu b'ri-kan-lah Roh Ku-dus-Mu dan pe-nu-hi-lah di-ri-ku ting-gal-lah da-lam ha-ti-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 132)"
+   ]
+  }
+ },
+ "warn": []
+}

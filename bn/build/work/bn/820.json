@@ -1,0 +1,71 @@
+{
+ "be": 820,
+ "variant": "",
+ "bl": null,
+ "title": "Pakai waktumu",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  1031
+ ],
+ "cat": "Nyanyian Pagi dan Malam Hari",
+ "tempo": 58,
+ "credits": [
+  "Syair: Griip Toch de Kansen; Ira D. Sankey",
+  "Lagu: Ira D Sankey",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5 #4/+.//+5// 1' 5/+.//+3// | 5 4/+.//+2// 4 3 | 6 7/+.//+7// 1' 5/+.//+6// |\n7 6/+.//+6// 5 . | 5 #4/+.//+5// 1' 5/+.//+3// | 5 4/+.//+2// 4 3 | 6\n7/+.//+7// 1' 5/+.//+4// | 3 2/+.//+2// 1 . | 2 2/+.//+3// 4+4 4+0 |\n3 3/+.//+4// 5+5 5+0 | 5 #4+5 (6+7) 1'+1' | 7 6/+.//+6// 5 . |\n5 #4/+.//+5// 1' 5/+.//+3// | 5 4/+.//+2// 4 3 | 6 7/+.//+7// 1' 5+4 |\n3 2/+.//+2// 1 . |]",
+   "rows": [
+    "Pa-kai wak-tu-mu yg di-b'ri-kan Tu-han kar'-na se-mua 'kan ber-la-lu se-g'ra Se-mua har-ta-mu ha-nya se-men-ta-ra Ka-sih yg tu-lus ke-kal s'la-ma-nya Du-nia dan i-si-nya tia-da yg me-ne-tap Se-mua yg ter-in-dah ju-ga le-nyap Se-mua har-ta-mu ha-nya se-men-ta-ra Ka-sih yg tu-lus ke-kal s'la-ma-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Pakai waktumu yg dib'rikan Tuhan",
+   "Kar'na semua 'kan berlalu seg'ra",
+   "Semua hartamu hanya sementara",
+   "Kasih yg tulus kekal s'lamanya",
+   "Dunia dan isinya tiada yg menetap",
+   "Semua yg terindah juga lenyap",
+   "Semua hartamu hanya sementara",
+   "Kasih yg tulus kekal s'lamanya"
+  ],
+  [
+   "Pakai waktumu dan jangan terlena",
+   "Kasih yang tulus lakukan seg'ra",
+   "Pertolonganmu kepada yang susah",
+   "T'rang pelitamu memuliakanNya",
+   "Dunia dan isinya tiada yang menetap",
+   "Semua yang terindah juga lenyap",
+   "Semua hartamu hanya sementara",
+   "Kasih yang tulus kekal s'lamanya"
+  ],
+  [
+   "Yang kau perbuat tertulis di Surga",
+   "Dan dari Tuhan ada balasnya",
+   "Belas kasihmu yang t'lah kau taburkan",
+   "Nanti upahmu besar di Surga",
+   "Dunia dan isinya tiada yang menetap",
+   "Semua yang terindah juga lenyap",
+   "Semua hartamu hanya sementara",
+   "Kasih yang tulus kekal s'lamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 1031 baris 1: 'se mua kan ber la lu' = semua 'kan berlalu; ayat 1 dipecah 8 baris spt ayat 2-3"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,99 @@
+{
+ "be": 269,
+ "variant": "",
+ "bl": 163,
+ "title": "Saatnya kuberjalan",
+ "key": "G",
+ "meter": "6/8",
+ "credit": "Karl Voightlander, 1853",
+ "pages": [
+  334,
+  335
+ ],
+ "cat": "Pergumulan dan Penderitaan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Friedrich Samuel Dreger 1798-1859",
+  "Lagu: Karl Voigtlander 1853 (-1827-1858)",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3 | (5 4) 3 (3 2) 1 | 1 . . 7, . 2 | (4 3) 2 (2 1) 7, |\n1 . . 0 0 :|",
+   "rows": [
+    "Sa-at-nya ku-ber-ja-lan ke tem-pat ba-ha-gia",
+    "Wak-tu-ku ham-pir ti-ba di sur-ga yg ba-ka"
+   ]
+  },
+  {
+   "notes": "3 | 2 . 2 (2 3) #4 | 5 . . 2 . 2 | (#4 3) 2\n(2 3) #4 | 5 . . 0 0 3 | (5 4) 3 (3 2) 1 | 1 . . 7, . 2 |\n(4 3) 2 (2 1) 7, | (1 . . 1) . |]",
+   "rows": [
+    "Nun jauh a-ku me-man-dang ca-ha-ya sa-ngat t'rang Me-re-ka yg t'lah ti-ba se-mu-a ba-ha-gia"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Saatnya kuberjalan ke tempat bahagia",
+   "Waktuku hampir tiba di surga yg baka",
+   "Nun jauh aku memandang cahaya sangat t'rang Mereka yg t'lah tiba semua bahagia"
+  ],
+  [
+   "Meski rintangan banyak di perjalananku",
+   "Semuanya 'ku abaikan, 'ku melangkah terus",
+   "Cobaan pun melanda di dalam hidupku",
+   "'Ku hadapi derita, andalkan Yesusku"
+  ],
+  [
+   "Ditimpa hari panas dan hujan yang deras",
+   "Cobaan menakutkan membuat 'ku cemas",
+   "Mataku pun menatap pegangan hidupku",
+   "'Ku harap perhentian di rumah Tuhanku"
+  ],
+  [
+   "Tak surut semangatku meski banyak set'ru",
+   "Sebab Yesus sertaku teman setiaku",
+   "Dia yg menuntunku baik siang malampun"
+  ],
+  [
+   "'Ku simpan salib Yesus di dalam hatiku",
+   "Menjadi peganganku, naungan hidupku",
+   "Selamatlah jiwaku, dosaku ditebus",
+   "Dan Dia yang menuntun sampai tujuanku"
+  ],
+  [
+   "Dengan penuh percaya 'ku ayun langkahku",
+   "Dan bila ajal tiba 'ku capai rumahku",
+   "Kendati tiap saat, hidupku terlelah",
+   "Tak lama akan tiba, 'ku akan bahagia"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Tak su-rut se-ma-ngat-ku mes-ki ba-nyak se-t'ru",
+     "Se-bab Ye-sus ser-ta-ku te-man se-ti-a-ku"
+    ],
+    [
+     "Di-a yg me-nun-tun-ku baik si-ang ma-lam-pun _ _ _ _ _ _ _ _ _ _ _ _ _"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 335)"
+   ]
+  }
+ },
+ "warn": []
+}

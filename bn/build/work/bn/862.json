@@ -1,0 +1,39 @@
+{
+ "be": 862,
+ "variant": "",
+ "bl": null,
+ "title": "Tuhan Yesus Kristus",
+ "key": "F",
+ "meter": "2/4",
+ "credit": "",
+ "pages": [
+  1073
+ ],
+ "cat": "Nyanyian Liturgi",
+ "tempo": 98,
+ "credits": [
+  "Syair: Kyrie Eleison",
+  "Lagu: Amerika abad 18",
+  "Terj.Ind.: Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "5/+.//+4// 3+4 | 5 3 | 4/+.//+3// 2+3 | (4 2) | 5/+.//+4// 3+4 |\n5 6 | 5 4 | 3 . |]",
+   "rows": [
+    "Tu-han Ye-sus Kris-tus am-pu-ni ka-mi ka-si-ha-ni ka-mi ya Tu-han"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhan Yesus Kristus ampuni kami kasihani kami ya Tuhan"
+  ]
+ ],
+ "vnum": [
+  1
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

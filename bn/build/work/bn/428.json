@@ -1,0 +1,66 @@
+{
+ "be": 428,
+ "variant": "",
+ "bl": 288,
+ "title": "Yakinlah pada Tuhanmu",
+ "key": "G",
+ "meter": "6/8",
+ "credit": "N.N",
+ "pages": [
+  542
+ ],
+ "cat": "Penghayatan Akan Keselamatan",
+ "tempo": 94,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5, 5, | 1 . 1 . 3 6 | 5 . 3 . 6 5 | 4 . 5, . 3\n2 | 1 . . . :|",
+   "rows": [
+    "Ya-kin-lah pa-da Tu-han-mu kau yg su-sah dan pe-nat",
+    "Di-ki-at-kan-Nya ha-ti-mu sa-at ber-be-ban be-rat"
+   ]
+  },
+  {
+   "notes": "7, 5, | 2 . 7, . 1 5, | 3 . 1 . 7, 5, |\n2 . 7, . 1 5, | (3 . 1) . 5 6 | 5 . 2 . 5 6 | 5 . 3 .\n6 5 | 4 . 5, . 3 2 | 1 . . . |]",
+   "rows": [
+    "Ja-ngan ra-gu ja-ngan bim-bang ke-be-na-ran Fir-man-Nya Tu-han pas-ti meng-ge-na-pi se-mua jan-ji se-tia-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yakinlah pada Tuhanmu kau yg susah dan penat",
+   "DikiatkanNya hatimu saat berbeban berat",
+   "Jangan ragu jangan bimbang kebenaran FirmanNya Tuhan pasti menggenapi semua janji setiaNya"
+  ],
+  [
+   "Jangan lagi ditaklukkan oleh dunia yang kelam",
+   "Pandanglah kepada Yesus, Tuhan Jurus'lamatmu",
+   "Jangan ragu, jangan bimbang, kebenaran Firman-Nya",
+   "Tuhan pasti menggenapi semua janji setia-Nya"
+  ],
+  [
+   "Tinggalkanlah kesedihan, Yesuslah penghiburmu",
+   "Suka duka dan derita menguatkan imanmu",
+   "Jangan ragu, jangan bimbang, kebenaran Firman-Nya",
+   "Tuhan pasti menggenapi semua janji setia-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 542 baris ulang: \"Di ki at kan-Nya\" -> \"Di-ki-at-kan-Nya\" (satu kata, ejaan buku)"
+ ],
+ "status": "",
+ "ref": "Chr.L.No. 14",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,54 @@
+{
+ "be": 54,
+ "variant": "",
+ "bl": 64,
+ "title": "Malam kudus",
+ "key": "C",
+ "meter": "6/8",
+ "credit": "Frans Gruber, Abad 18",
+ "pages": [
+  67
+ ],
+ "cat": "Natal",
+ "tempo": 45,
+ "credits": [
+  "Syair: Joseph Mohr 1818 (1792-1848)",
+  "Lagu: Franz Gruber 24-12-1818 (1787-1863)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5 .+6 5 3 . . | 5 .+6 5 3 . . | 2' . 2' 7 . . | 1' . 1'\n5 . . | 6 . 6 1' .+7 6 | (5 .+6) 5 3 . . | 6 . 6 1' .+7\n6 | (5 .+6) 5 3 . . | 2' . 2' 4' .+2' 7 | (1' . . 3') . . |\n(1' .+5) 3 5 .+4 2 | 1 . . . . |]",
+   "rows": [
+    "Ma-lam ku-dus su-nyi se-nyap bin-tang-Nya ge-mer-lap Ju-ru-s'la-mat ma-nu-si-a su-dah la-hir di du-ni-a Kris-tus A-nak Da-ud Kris-tus A-nak Da-ud"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Malam kudus sunyi senyap bintangNya gemerlap Jurus'lamat manusia sudah lahir di dunia Kristus Anak Daud Kristus Anak Daud"
+  ],
+  [
+   "Malam kudus, sungguh senang, Penebus t'lah datang",
+   "Terdengar lagu yang merdu, mengenai kedatangan-Mu",
+   "Jurus'lamat dunia, Jurus'lamat dunia"
+  ],
+  [
+   "Malam kudus, penuh berkat, umat-Mu bahagia",
+   "Manusia Kau s'lamatkan dari maut kar'na dosanya",
+   "Yesus Sang Penebus, Yesus Sang Penebus"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 67 birama 2: lirik 'se nyap' = satu kata 'senyap' (juga di teks ayat 1)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

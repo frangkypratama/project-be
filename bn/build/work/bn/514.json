@@ -1,0 +1,75 @@
+{
+ "be": 514,
+ "variant": "",
+ "bl": 395,
+ "title": "Cari kawanmu yang hilang",
+ "key": "A",
+ "meter": "4/4",
+ "credit": "N.N",
+ "pages": [
+  644,
+  645
+ ],
+ "cat": "Pekabaran Injil",
+ "tempo": 100,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3,/+.//+4,// | 5, .+5, 6, 5, | 5, 1 . 1/+.//+2// | 3 .+1 2 2 |\n1 . . :|",
+   "rows": [
+    "Ca-ri ka-wan-mu yg hi-lang wak-tu ber-la-lu ce-pat",
+    "Tak ter-lam-bat ba-wa pu-lang ja-ngan ha-bis wak-tu-nya"
+   ]
+  },
+  {
+   "notes": "1/+.//+2// | 3 .+2 3 4 | 5 . . 3/+.//+4// | 5 .+3\n4 3 | 2 . . 3/+.//+2// | 1 .+2 1 6, | 5, . . 1/+.//+2// | 3 .+1\n2 2 | 1 . . 1/+.//+2// | 3 . . 1/+.//+6,// | 5, . . 1/+.//+3// |\n5 . . 3/+.//+1// | 2 . . 1/+.//+2// | 3 3 2 1 | 5, . . 1/+.//+2// |\n3 .+1 2 2 | 1 . . |]",
+   "rows": [
+    "Kau-lah si-nar yg te-rang hing-ga ti-ba a-jal-mu ja-ngan eng-kau ter-le-na wak-tu ce-pat ber-la-lu wak-tu-mu ber-la-lu wak-tu-mu ber-la-lu sung-guh ba-nyak tu-gas-mu wak-tu ce-pat ber-la-lu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Cari kawanmu yg hilang waktu berlalu cepat",
+   "Tak terlambat bawa pulang jangan habis waktunya",
+   "Kaulah sinar yg terang hingga tiba ajalmu jangan engkau terlena waktu cepat berlalu waktumu berlalu waktumu berlalu sungguh banyak tugasmu waktu cepat berlalu"
+  ],
+  [
+   "Kerjakanlah yg berguna waktu cepat berlalu",
+   "Jangan melupakan tugas jangan lewat waktunya",
+   "Yg terkurung hiburlah bawa Yesus ke sana Yesuslah pembebasmu waktu cepat berlalu waktumu berlalu waktumu berlalu sungguh banyak tugasmu waktu cepat berlalu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 645 (ayat 2 bernot) baris 3: 'pem be bas mu' satu kata -> pem-be-bas-mu (lirik bernot dan teks ayat 2)"
+ ],
+ "status": "",
+ "ref": "Ret.No. 192",
+ "vl_direct": {
+  "1": {
+   "r": [
+    [
+     "Ker-ja-kan-lah yg ber-gu-na wak-tu ce-pat ber-la-lu",
+     "Ja-ngan me-lu-pa-kan tu-gas ja-ngan le-wat wak-tu-nya"
+    ],
+    [
+     "Yg ter-ku-rung hi-bur-lah ba-wa Ye-sus ke sa-na Ye-sus-lah pem-be-bas-mu wak-tu ce-pat ber-la-lu wak-tu-mu ber-la-lu wak-tu-mu ber-la-lu sung-guh ba-nyak tu-gas-mu wak-tu ce-pat ber-la-lu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 2 tertulis di not (hal. 645)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

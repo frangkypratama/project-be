@@ -1,0 +1,39 @@
+{
+ "be": 853,
+ "variant": "",
+ "bl": null,
+ "title": "Halleluyah [2]",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  1064
+ ],
+ "cat": "Nyanyian Liturgi",
+ "tempo": 95,
+ "credits": [
+  "Syair: Alleluia; Jerry Sinclair",
+  "Lagu: Alleluia; Jerry Sinclair",
+  "Terj.Ind.:"
+ ],
+ "sections": [
+  {
+   "notes": "5,+5, | 1 1 . 1+7, | 6, 6, . 6,+1 | 7, 7, . 6,+7, | 6, 5, . 5,+5, |\n1 1 . 1+7, | 6, 6, . 6,+1 | 7, 7, . 6,+7, | 1 1 . 0 | 3 . .\n3 | 4 4 . . | 2 . . 2 | 3 3 . . | 1 . . 1 | 2 2 . . |\n7, . . 7, | 1 1 . |]",
+   "rows": [
+    "Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah hal-le-lu-yah hal-le-lu-yah hal-le-lu-yah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Halleluyah Halleluyah Halleluyah Halleluyah Halleluyah Halleluyah Halleluyah Halleluyah Halleluyah halleluyah halleluyah halleluyah"
+  ]
+ ],
+ "vnum": [
+  1
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

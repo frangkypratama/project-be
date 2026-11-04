@@ -1,0 +1,73 @@
+{
+ "be": 53,
+ "variant": "",
+ "bl": 51,
+ "title": "Di Betlehem t'lah lahir",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Friedrich Von Spee, 1637",
+ "pages": [
+  66
+ ],
+ "cat": "Natal",
+ "tempo": 104,
+ "credits": [
+  "Syair: Friedrich von Spee 1637 (1591-1635)",
+  "Lagu: Koln 1638",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 (2+4) 3 2 | (1+7,) 1 0 1 | 2 (3+4) 3 2 | 1 . 0 5 |\n(5+4) 3 4 5 | (6+5) 4 0 4 | 3 2 5 (4+3) | 2 . . 0 | 3 .\n2 . | 3 . 2 (3+4) | 5 (1+2) 3 2 | 1 . . |]",
+   "rows": [
+    "Di Bet-le-hem t'lah la-hir Se-o-rang Pu-te-ra Yg b'ri da-mai a-ba-di ke-pa-da du-ni-a A-min A-min da-mai ba-ha-gi-a"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Di Betlehem t'lah lahir Seorang Putera Yg b'ri damai abadi kepada dunia Amin Amin damai bahagia"
+  ],
+  [
+   "Hatiku 'ku serahkan, ke dalam kasih-Nya",
+   "Semua 'ku serahkan, diriku bagi-Nya",
+   "Amin, amin, diriku bagi-Nya"
+  ],
+  [
+   "'Ku 'kan mengasihi-Mu, ya Yesus Tuhanku",
+   "Selama aku hidup, 'Ku taat pada-Mu",
+   "Amin, amin, 'ku taat pada-Mu"
+  ],
+  [
+   "Pada-Mu 'ku serahkan, seluruh hidupku",
+   "Kasihi aku Tuhan, kuatkan jiwaku",
+   "Amin, amin, kuatkan jiwaku"
+  ],
+  [
+   "'Ku mau jadi milikMu dan Kau pun milikku",
+   "Kepada-Mu berpadu, Kau harta milikku",
+   "Amin, amin, Kau harta milikku"
+  ],
+  [
+   "Kasih-Mu yang mengikat, hatiku pada-Mu",
+   "Dan janganlah terpisah, diriku dari-Mu",
+   "Amin, amin, diriku milik-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 66 kepala lagu: 'Buku Logu: 51' (data kosong) → bl 51",
+  "Koreksi dari gambar halaman: hal. 66 birama 4: lirik 'Pu te ra' = satu kata 'Putera' (juga di teks ayat 1)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

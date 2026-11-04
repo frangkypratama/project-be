@@ -1,0 +1,58 @@
+{
+ "be": 107,
+ "variant": "",
+ "bl": 207,
+ "title": "Datanglah Kau Rohul kudus",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Marthin Luterh, 1524",
+ "pages": [
+  133
+ ],
+ "cat": "Pentakosta Roh Kudus",
+ "tempo": 104,
+ "credits": [
+  "Syair: Martin Luther 1524 (1483-1546)",
+  "Lagu: Johann Walter 1624 (1496-1570)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 . (6 5) | 3 5 2 . | 3 #4 5 0+5 | 6 5 2 4 | 3 2 1\n0+1 | 2 4 (3+4) 5 | 2 (1+6,) 5, 0+5, | 1 2 (3+5) .+4 | 3\n2 3 0+3 | 5 6 5 2 | 3 #4 5 0+5 | 6 5 2 4 | 3 2 1\n0+1 | 2 4 (3+4) 5 | 2 (1+6,) 5, 0+5, | 1 2 (3+5) .+4 | 3\n2 (6, 7,) | 1 0+2 3 1 | 6, 2 3 2 | 1 . . . |]",
+   "rows": [
+    "Da-tang-lah Kau Roh-ul ku-dus ber-di-am-lah di ha-ti-ku lim-pah-kan ke-mu-ra-han-Mu cu-rah-kan ke-ba-ji-kan-Mu de-ngan ca-ha-ya si-nar-Mu ke-pa-da-ku dan u-mat-Mu yg ber-se-ku-tu de-ngan-Mu yg ber-i-ba-dah me-mu-ji-Mu Hal-le-lu-yah Hal-le-lu-yah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Datanglah Kau Rohul kudus berdiamlah di hatiku limpahkan kemurahanMu curahkan kebajikanMu dengan cahaya sinarMu kepadaku dan umatMu yg bersekutu denganMu yg beribadah memujiMu Halleluyah Halleluyah"
+  ],
+  [
+   "Ya Sinar Kasih yang kudus, bersinarlah di hatiku",
+   "Supaya paham firman-Mu dan 'ku setia pada-Mu",
+   "Jauhkan iblis seteru yang menyesatkan hatiku",
+   "Biarlah Yesus panduku, Dialah Tuhan dan Rajaku",
+   "Halleluya, Halleluya"
+  ],
+  [
+   "Ya Roh Penghibur, datanglah, hiburkan hati yang resah",
+   "Bersabar dalam derita selama hidup di dunia",
+   "Kuatkan kami umat-Mu berkorban demi nama-Mu",
+   "Melawan dosa seteru sehingga masuk di rumah-Mu",
+   "Halleluya, Halleluya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 133 baris 1: kata depan terpisah → 'di ha-ti-ku'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

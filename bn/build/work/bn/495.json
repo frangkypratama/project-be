@@ -1,0 +1,74 @@
+{
+ "be": 495,
+ "variant": "",
+ "bl": 36,
+ "title": "Di surga ada Bapaku",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "Wilhem Hauff, Abad 17",
+ "pages": [
+  623
+ ],
+ "cat": "Pemeliharaan Tuhan",
+ "tempo": 100,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Pdt Mori AP Sihombing MTh"
+ ],
+ "sections": [
+  {
+   "notes": "0+5, 1+2 | 3 .+4 2+3 | 1 .+2 3+4 | 5 .+6 4+5 | 3",
+   "rows": [
+    "Di sur-ga a-da Ba-pa-ku yg ma-ha-kua-sa Tu-han-ku"
+   ]
+  },
+  {
+   "notes": "0+1 1+1 | 6 .+6 1'+6 | (5 3)+5 5+5 | 4 .+2 5+4 |\n3 . :|",
+   "rows": [
+    "Dan da-ri sa-na Ba-pa-ku a-ma-ti ti-ap lang-kah-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Di surga ada Bapaku yg mahakuasa Tuhanku",
+   "Dan dari sana Bapaku amati tiap langkahku"
+  ],
+  [
+   "Lihatlah burung yang terbang dan juga bunga yang mekar",
+   "Dipelihara Tuhanku dan dilindungi Tuhanku",
+   "Dipelihara Tuhanku dan dilindungi Tuhanku"
+  ],
+  [
+   "Dan rambut di kepalaku dihitung oleh Tuhanku",
+   "Di tempat tersembunyi pun Tuhan tau isi hatiku",
+   "Di tempat tersembunyi pun Tuhan tau isi hatiku"
+  ],
+  [
+   "Tertulis sudah namaku dalam buku pustaka-Mu",
+   "Engkau perlukan hidupku masuk ke dalam rumah-Mu",
+   "Engkau perlukan hidupku masuk ke dalam rumah-Mu"
+  ],
+  [
+   "Ya Tuhan tolong hamba-Mu mempergunakan hidupku",
+   "Sucikan juga jiwaku seperti para malak-Mu",
+   "Sucikan juga jiwaku seperti para malak-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 623 baris 2: 'a ma ti' satu kata -> a-ma-ti; ayat 1 disesuaikan"
+ ],
+ "status": "",
+ "ref": "R.L.No. 622",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

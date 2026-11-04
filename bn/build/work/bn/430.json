@@ -1,0 +1,78 @@
+{
+ "be": 430,
+ "variant": "",
+ "bl": 290,
+ "title": "Tahukah engkau?",
+ "key": "D",
+ "meter": "4/4",
+ "credit": "N.N",
+ "pages": [
+  544,
+  545,
+  546
+ ],
+ "cat": "Penghayatan Akan Keselamatan",
+ "tempo": 92,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3/+.//+3// 3/+.//+#2// 3 3/+.//+4// | 5 . . 5/+.//+3// | 2 2+2 3 4/+.//+3// |\n2 . . 0 | 3/+.//+3// 3/+.//+#2// 3 3/+.//+4// | 5 . . 5/+.//+3// | 2 2+2\n2 3/+.//+2// | 1 . . 0 | 6/+.//+6// 6/+.//+6// 6 6/+.//+4// | (3 . 5)\n5+5 | 6 6/+.//+6// (6+1') 7+6 | (5 . 4) 0 | 3/+.//+3// 3/+.//+#2// 3\n3/+.//+4// | 5 . . 3+3 | 2 2/+.//+2// 2+3 .+2 | 1 . . 0 |\n(5 . 5/)+.//+3// 5/+.//+1'// | 7 . . 0 | (4 . 4/)+.//+2// 4/+.//+6// | 5 . . 0 |\n1'/+.//+1'// 1'/+.//+1'// 1' 1'/+.//+7// | (6 . 4) 6 | 5 3/+.//+1// 2 3/+.//+2// |\n1 . 0 |]",
+   "rows": [
+    "Ta-hu-kah eng-kau sum-ber-nya air ke-hi-du-pan di Gol-ta-ta Yg ter-gan-tung di-sa-lib-Nya dan meng-ha-pus do-sa ma-nu-sia Mes-ki-pun be-sar do-sa-mu le-bih ting-gi da-ri ra-ga-mu le-bih ku-at-lah Tu-han-mu me-nga-lah-kan se-mua se-te-ru Di-su-ci-kan-Nya ki-ni ha-ti-ku Ye-sus pe-me-nang ba-gi-ku di-su-ci-kan-Nya ha-ti-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tahukah engkau sumbernya air kehidupan di Goltata Yg tergantung disalibNya dan menghapus dosa manusia Meskipun besar dosamu lebih tinggi dari ragamu lebih kuatlah Tuhanmu mengalahkan semua seteru DisucikanNya kini hatiku Yesus pemenang bagiku disucikanNya hatiku"
+  ],
+  [
+   "Sakit yg Tuhan rasakan agar aku diselamatkan Menderita disalibkan Umat manusia dibebaskan Aku berserah padaNya hidupkupun dipulihkanNya hanyalah dengan darahNya jiwakupun disembuhkanNya DisucikanNya kini hatiku Yesus pemenang bagiku disucikanNya hatiku"
+  ],
+  [
+   "Saat aku jauh dariMu Engkau yg menebus dosaku Engkau datang menggendongku darahMulah kesembuhanku Dengan darahMu yg kudus aku yakin Tuhan kuasaMu Perlindunganku yg teduh air kehidupan di sisiMu DisucikanNya kini hatiku Yesus pemenang bagiku disucikanNya hatiku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 544-546 kepala lagu: \"Buku Logu: 290\" (data kosong) -> bl 290",
+  "Koreksi dari gambar halaman: hal. 544 baris 1-2: \"Gol ta-ta\" -> \"Gol-ta-ta\" (satu kata, ejaan buku)",
+  "Koreksi dari gambar halaman: hal. 545 (ayat 2 bernot): \"A ku-ber-se-rah\" -> \"A-ku ber-se-rah\""
+ ],
+ "status": "",
+ "ref": "Buku Logu: Z.L.No. 211 290",
+ "vl_direct": {
+  "1": {
+   "r": [
+    [
+     "Sa-kit yg Tu-han ra-sa-kan a-gar a-ku di-se-la-mat-kan Men-de-ri-ta di-sa-lib-kan U-mat ma-nu-sia di-be-bas-kan A-ku ber-se-rah pa-da-Nya hi-dup-ku-pun di-pu-lih-kan-Nya ha-nya-lah de-ngan da-rah-Nya ji-wa-ku-pun di-sem-buh-kan-Nya Di-su-ci-kan-Nya ki-ni ha-ti-ku Ye-sus pe-me-nang ba-gi-ku di-su-ci-kan-Nya ha-ti-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 2 tertulis di not (hal. 545)"
+   ]
+  },
+  "2": {
+   "r": [
+    [
+     "Sa-at a-ku jauh da-ri-Mu Eng-kau yg me-ne-bus do-sa-ku Eng-kau da-tang meng-gen-dong-ku da-rah-Mu-lah ke-sem-bu-han-ku De-ngan da-rah-Mu yg ku-dus a-ku ya-kin Tu-han kua-sa-Mu Per-lin-du-ngan-ku yg te-duh air ke-hi-du-pan di si-si-Mu Di-su-ci-kan-Nya ki-ni ha-ti-ku Ye-sus pe-me-nang ba-gi-ku di-su-ci-kan-Nya ha-ti-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 546)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

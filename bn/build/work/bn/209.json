@@ -1,0 +1,97 @@
+{
+ "be": 209,
+ "variant": "",
+ "bl": 136,
+ "title": "'Ku bahagia",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "Johann Rudolf Ahle, 1662",
+ "pages": [
+  262,
+  263
+ ],
+ "cat": "Pengakuan dan Kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Franz Joachim Burmeister 1633-1672",
+  "Lagu: Johann Rudolf Ahle 1662 (1625-1673)",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM & Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "1 . | 2 . 2 . | 3 . 0 3 | 5 2 2 4 | 3 . 0 2 |\n(3+#4) 5 5 #4 | 5 . :|",
+   "rows": [
+    "'Ku ba-ha-gia se-jak Ye-sus Kris-tus men-ja-di Tu-han-ku",
+    "Tia-da la-gi yg a-ku ri-sau-kan se-ba-gai ham-ba-Nya"
+   ]
+  },
+  {
+   "notes": "0 2 | 2 2 3 2 | 4 3 3 . | 2 .\n0 2 | 2 2 3 2 | 4 3 3 . | 2 . 0 5 | 3 . 2 . | 1 .\n0 5 | 3 . 2 . | 1 . |]",
+   "rows": [
+    "A-ku te-tap me-ngi-kut Di-a Me-nyang-kal di-ri dan du-ni-a ku ba-ha-gia ku ba-ha-gia"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "'Ku bahagia sejak Yesus Kristus menjadi Tuhanku",
+   "Tiada lagi yg aku risaukan sebagai hambaNya",
+   "Aku tetap mengikut Dia Menyangkal diri dan dunia ku bahagia ku bahagia"
+  ],
+  [
+   "'Ku bahagia, semua hilanglah yang membebaniku",
+   "Sungguh senang, hatiku giranglah dihibur Tuhanku",
+   "'Ku tak kuatirkan hidupku semua terserah Bapaku",
+   "'Ku bahagia, 'ku bahagia"
+  ],
+  [
+   "'Ku bahagia, Bapaku sungguh baik perduli padaku",
+   "Baik benar, semua diberi yang indah bagiku",
+   "Yang tak percaya kuatirkan akan makanan, kehidupan",
+   "'Ku bahagia, 'ku bahagia"
+  ],
+  [
+   "Ku bahagia di kerajaanNya dan hukum kasihNya",
+   "Sungguh benar ku jumpa disana yg t'lah ku idamkan",
+   "Sekarang inilah tekadku Mengikut kehendak Tuhanku ku bahagia ku bahagia"
+  ],
+  [
+   "'Ku bahagia, hatiku pun tent'ram dipangku Tuhanku",
+   "Dan hilanglah semua derita 'ku rasa kasih-Nya",
+   "Dan inilah kerinduanku, Surga menjadi tujuanku",
+   "'Ku bahagia, 'ku bahagia"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 262 baris 3-4: pemisahan kata 'du-ni-a-ku ba-ha-gia-ku ba-ha-gia' → 'du-ni-a ku ba-ha-gia ku ba-ha-gia' (sejajar baris ayat lain ''Ku bahagia, 'ku bahagia')",
+  "Koreksi dari gambar halaman: hal. 263 (ayat 4 bernot): 'be-nar-ku' → 'be-nar ku', 't'lah-ku i dam kan' → 't'lah ku i-dam-kan', 'Tu-han-ku-ku ba-ha-gia-ku' → 'Tu-han-ku ku ba-ha-gia ku'",
+  "Koreksi dari gambar halaman: kata depan dipisah: di-sa-na"
+ ],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Ku ba-ha-gia di ke-ra-ja-an-Nya dan hu-kum ka-sih-Nya",
+     "Sung-guh be-nar ku jum-pa di sa-na yg t'lah ku i-dam-kan"
+    ],
+    [
+     "Se-ka-rang i-ni-lah te-kad-ku Me-ngi-kut ke-hen-dak Tu-han-ku ku ba-ha-gia ku ba-ha-gia"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 263)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,80 @@
+{
+ "be": 624,
+ "variant": "",
+ "bl": null,
+ "title": "Halleluyah, Halleluyah",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "1 Kor. 15,20 ; Kol. 2:12",
+ "pages": [
+  783,
+  784
+ ],
+ "cat": "Kebangkitan Tuhan Yesus",
+ "tempo": 112,
+ "credits": [
+  "Syair: Alleluya; N.N",
+  "Lagu: NN",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "5,+5, | 1 1 2+3 | 1 1 2+3 | 4 4 3 | 2+1 7, 5,+5, | 1\n1 2+3 | 1 1 2+3 | 4 5 (3+2) | 1 . . | 5 5 3 | 6 .\n5 | 4 . (3+4) | 2 . . | 3 2 1 | 1 2 3 | 4 . (3+4) |\n2 . |",
+   "rows": [
+    "Hal-le-lu-yah Hal-le-lu-yah pu-ji-lah Tu-han yg me-nang Hal-le-lu-yah Hal-le-lu-yah mu-lia-kan na-ma-Nya Ye-sus-lah Ra-ja se-mes-ta Tu-han a-lam ser-ta i-si-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Halleluyah Halleluyah pujilah Tuhan yg menang Halleluyah Halleluyah muliakan namaNya Yesuslah Raja semesta Tuhan alam serta isinya"
+  ],
+  [
+   "Haleluya, Haleluya, Pujilah Tuhan yang menang",
+   "Haleluya, Haleluya, muliakan namaNya",
+   "Kabar yang baik b'ritakanlah, Bagi seluruh ciptaan-Nya",
+   "Haleluya, Haleluya, Pujilah Tuhan yang menang",
+   "Haleluya, Haleluya, muliakan namaNya"
+  ],
+  [
+   "Haleluya, Haleluya, Pujilah Tuhan yang menang",
+   "Haleluya, Haleluya, muliakan namaNya",
+   "Yang mati dengan Tuhannya, 'Kan bangkit bersama Tuhannya",
+   "Haleluya, Haleluya, Pujilah Tuhan yang menang",
+   "Haleluya, Haleluya, muliakan namaNya"
+  ],
+  [
+   "Halleluyah Halleluyah Pujilah Tuhan yg menang Halleluyah Halleluyah muliakan namaNya Hidup bahagia dan kekal diwariskan bagi yg menang"
+  ],
+  [
+   "Haleluya, Haleluya, Pujilah Tuhan yang menang",
+   "Haleluya, Haleluya, muliakan namaNya",
+   "Muliakan Allah di Surga, Mari nyanyikan haleluya",
+   "Haleluya, Haleluya, Pujilah Tuhan yang menang",
+   "Haleluya, Haleluya, muliakan namaNya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Hal-le-lu-yah Hal-le-lu-yah Pu-ji-lah Tu-han yg me-nang Hal-le-lu-yah Hal-le-lu-yah mu-lia-kan na-ma-Nya Hi-dup ba-ha-gia dan ke-kal di-wa-ris-kan ba-gi yg me-nang"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 784)"
+   ]
+  }
+ },
+ "warn": []
+}

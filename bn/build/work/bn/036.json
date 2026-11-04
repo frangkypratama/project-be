@@ -1,0 +1,63 @@
+{
+ "be": 36,
+ "variant": "",
+ "bl": 4,
+ "title": "Tuhan Allah kami",
+ "key": "C",
+ "meter": "4/4",
+ "credit": "Christian Gregor, 1764",
+ "pages": [
+  44
+ ],
+ "cat": "Hari Minggu",
+ "tempo": 102,
+ "credits": [
+  "Syair: Johannes Gassner 1773-1858",
+  "Lagu: Christian Gregor 1784 (1723-1801)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 5 1' 6 | (5 4) 3 . :|",
+   "rows": [
+    "Tu-han Al-lah ka-mi",
+    "Ber-ka-ti-lah ka-mi"
+   ]
+  },
+  {
+   "notes": "6 6 2' 1' | 7 6 5 . |\n1' 5 6 2' | 1' 7 1' . |]",
+   "rows": [
+    "Ha-dap-kan-lah wa-jah-Mu me-nyi-na-ri u-mat-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhan Allah kami",
+   "Berkatilah kami",
+   "Hadapkanlah wajahMu menyinari umatMu"
+  ],
+  [
+   "B'rilah pada kami, damai tiap hari",
+   "Curahkan Roh Kudus-Mu memenuhi umat-Mu"
+  ],
+  [
+   "Kami menyanyikan, amin bagi Tuhan",
+   "Kar'na kasih setia-Mu, s'gala hormat bagi-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 44: ayat 2 dan 3 dua kolom; baris 'Kar'na kasih setia-Mu, s'gala hormat bagi-Mu' milik ayat 3 (kolom kanan, di bawah 'Kami menyanyikan...'), bukan ayat 2"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": [
+  "teks tanpa nomor ayat:  Kami menyanyikan, amin bagi Tuhan"
+ ]
+}

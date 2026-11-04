@@ -1,0 +1,92 @@
+{
+ "be": 729,
+ "variant": "",
+ "bl": null,
+ "title": "Yesus berpesan, beritakanlah",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Mark. 16:15",
+ "pages": [
+  914,
+  915
+ ],
+ "cat": "Penahbisan Imam",
+ "tempo": 100,
+ "credits": [
+  "Syair: Lagu: Pdt JAU Doloksaribu MMin",
+  "Lagu: Lagu: Pdt JAU Doloksaribu MMin",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 .+1 2 .+2 | 3 . 0 1+3 | 5 .+6 (5/+.//+2//) (3+4) | 3 . 0\n3+2 | 1 .+1 2/+(3//+2//) 1+2 | 3 . 0 1+2 | 3+3 3+4 3 (2+1+2) |\n1 . . 0 :|",
+   "rows": [
+    "Ye-sus ber-pe-san be-ri-ta-kan In-jil-Nya Ka-bar ba-ik ba-gi du-ni-a ka-bar ba-ik ba-gi du-ni-a",
+    "Be-ri-ta-kan-lah In-jil ke-ra-ja-an-Nya Ba-gi se-lu-ruh cip-ta-an-Nya ba-gi se-lu-ruh cip-ta-an-Nya"
+   ]
+  },
+  {
+   "notes": "3 3+3 4/+(5//+4//) 3+4 | 5 . 0+5 5+5 | 1' .+1' 7/+(6//+5//)\n6/+(7//+6//) | 5 . . 0 | 6+6 .+6 5+5 5+4 | 3 2 1 1+2 | 3+3\n3+4 3 2 | 1 . . 0 :|",
+   "rows": [
+    "Ang-ka-sa ra-ya ber-ge-mar a-ir dan su-ngai ti-dak ter-ce-mar sa-wah dan la-dang su-bur dan te-nang hu-tan pe-po-ho-nan-pun ten-t'ram",
+    "Ge-mu-ruh om-bak men-de-ru lem-bah dan bu-kit tu-rut ber-se-ru Tu-han-lah Ra-ja a-tas du-ni-a a-lam ra-ya-pun ber-so-rak-lah"
+   ]
+  },
+  {
+   "notes": "4 . . . | 3 . . . |]",
+   "rows": [
+    "A-min"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yesus berpesan beritakan InjilNya Kabar baik bagi dunia kabar baik bagi dunia",
+   "Beritakanlah Injil kerajaanNya Bagi seluruh ciptaanNya bagi seluruh ciptaanNya",
+   "Angkasa raya bergemar air dan sungai tidak tercemar sawah dan ladang subur dan tenang hutan pepohonanpun tent'ram",
+   "Gemuruh ombak menderu lembah dan bukit turut berseru Tuhanlah Raja atas dunia alam rayapun bersoraklah",
+   "Amin"
+  ],
+  [
+   "Mari bergemar hamba Tuhan bangkitlah Injil Tuhan beritakanlah Injil Tuhan beritakanlah",
+   "Berdayakanlah semua orang beiman di setiap waktu dan tempat dalam perubahan yg cepat",
+   "Kabar yg baik inilah bantuan bagi orang yg lemah orang tertawan dibebaskanNya yg berduka dihiburkanNya",
+   "Tegakkan keadilanNya yg butapun celikkan matanya b'ri kedamaian bagi semua kebenaranNyapun nyatakanlah",
+   "Amin"
+  ]
+ ],
+ "vnum": [
+  1,
+  2
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 915 (ayat 2 di not) baris 3-4: 'ter ta wan' = tertawan, 'ce lik kan' = celikkan (pemisahan kata), juga di teks ayat 2"
+ ],
+ "status": "",
+ "vl_direct": {
+  "1": {
+   "r": [
+    [
+     "Ma-ri ber-ge-mar ham-ba Tu-han bang-kit-lah In-jil Tu-han be-ri-ta-kan-lah In-jil Tu-han be-ri-ta-kan-lah",
+     "Ber-da-ya-kan-lah se-mua o-rang be-i-man di se-ti-ap wak-tu dan tem-pat da-lam pe-ru-ba-han yg ce-pat"
+    ],
+    [
+     "Ka-bar yg ba-ik i-ni-lah ban-tu-an ba-gi o-rang yg le-mah o-rang ter-ta-wan di-be-bas-kan-Nya yg ber-du-ka di-hi-bur-kan-Nya",
+     "Te-gak-kan ke-a-di-lan-Nya yg bu-ta-pun ce-lik-kan ma-ta-nya b'ri ke-da-mai-an ba-gi se-mua ke-be-na-ran-Nya-pun nya-ta-kan-lah"
+    ],
+    [
+     "A-min"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 2 tertulis di not (hal. 915)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": [
+  "teks kecil: Note: Amen dinyanyikan pada ayat terakhir",
+  "teks kecil: Note: Amen dinyanyikan pada ayat terakhir"
+ ]
+}

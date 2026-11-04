@@ -1,0 +1,50 @@
+{
+ "sections": [
+  {
+   "notes": "3/+.//+4// | 5 .+5 6/+.//+3// | 5 4 4/+.//+5// | 7 .+5 6/+.//+5// |\n5 . 3/+.//+5// | 1' .+2' 1'/+.//+5// | 7 6 6/+.//+6// | 5 .+5 5/+.//+5// |\n5 . . :|",
+   "rows": [
+    "Yg ter-ti-dur da-lam do-sa sung-guh ma-lang hi-dup-nya kar'-na di-a ti-dak sa-dar di-per-bu-dak has-rat-nya",
+    "Da-ya ta-rik du-ni-a-wi yg meng-go-da ha-ti-nya ke-nik-ma-tan du-ni-a-wi t'lah me-mi-kat ji-wa-nya"
+   ]
+  },
+  {
+   "notes": "3/+.//+3// | 4 .+4 4/+.//+4// | 3 . 3/+.//+3// | 5 .+2\n6/+.//+5// | 5 . 3/+.//+3// | 4 .+4 4/+.//+4// | 3 . 3/+.//+3// | 5 .+2\n4/+.//+4// | 3 . 3/+.//+4// | 5 .+5 6/+.//+7// | 1' 5 5/+.//+5// | 6 .+6\n7/+.//+1'// | 2' . 5/+.//+1'// | 3' .+3' 2'/+.//+1'// | 2' 6 6/+.//+1'// | 7 .+7\n6/+.//+7// | 1' . |]",
+   "rows": [
+    "Ke-ka-ya-an du-ni-a me-me-nu-hi ha-ti-nya ke-mu-lia-an du-ni-a i-tu-lah dam-ba-an-nya A-pa gu-na-nya ba-gi-mu ji-ka hi-lang nya-wa-mu Se-mu-a a-kan ber-la-lu pi-kir-kan-lah ji-wa-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yg tertidur dalam dosa sungguh malang hidupnya kar'na dia tidak sadar diperbudak hasratnya",
+   "Daya tarik duniawi yg menggoda hatinya kenikmatan duniawi t'lah memikat jiwanya",
+   "Kekayaan dunia memenuhi hatinya kemuliaan dunia itulah dambaannya Apa gunanya bagimu jika hilang nyawamu Semua akan berlalu pikirkanlah jiwaku"
+  ],
+  [
+   "Harta yg paling berharga tak terpikir olehmu Hidupmu tiada berguna tanpa surga milikmu",
+   "Emas uang dan permata akan mudah berlalu Hidup di dunia yg fana juga akan berlalu",
+   "Harta mulia dan baka Firman Allah yg kekal Harta mulia di sorga sukacita s'lamanya Apa gunanya bagimu jika hilang nyawamu semua nua akan berlalu pikirkanlah jiwamu"
+  ]
+ ],
+ "vl_direct": {
+  "1": {
+   "r": [
+    [
+     "Har-ta yg pa-ling ber-har-ga tak ter-pi-kir o-leh-mu Hi-dup-mu tia-da ber-gu-na tan-pa sur-ga mi-lik-mu",
+     "E-mas u-ang dan per-ma-ta a-kan mu-dah ber-la-lu Hi-dup di du-nia yg fa-na ju-ga a-kan ber-la-lu"
+    ],
+    [
+     "Har-ta mu-lia dan ba-ka Fir-man Al-lah yg ke-kal Har-ta mu-lia di sor-ga su-ka-ci-ta s'la-ma-nya A-pa gu-na-nya ba-gi-mu ji-ka hi-lang nya-wa-mu se-mua nua a-kan ber-la-lu pi-kir-kan-lah ji-wa-mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 2 tertulis di not (hal. 852)"
+   ]
+  }
+ },
+ "note": [
+  "hal. 851 baris ulang (Da ya ta rik): 'ta-rik' satu kata ('Daya tarik')",
+  "hal. 852 (ayat 2 di not): 'ter-pi-kir' satu kata (vl_direct); teks ayat 2 'didunia' → 'di dunia' (buku: 'di du nia')"
+ ]
+}

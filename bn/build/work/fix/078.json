@@ -1,0 +1,90 @@
+{
+ "bl": 158,
+ "sections": [
+  {
+   "notes": "3 | 6 5 4 3 | 2 . 3 7 | 1' 1' 7 7 | 6 . . :|",
+   "rows": [
+    "Ke-pa-la yg ber-da-rah yg lu-ka di-se-sah",
+    "Ter-tun-duk di seng-sa-ra dan sa kita sik-sa-nya"
+   ]
+  },
+  {
+   "notes": "1' | 7 5 6 7 | 1' . 1' 5 | 6 5 6 4 | 3 . . 1' | 7 2'\n1' 7 | 6 . 7 3 | 4 3 2 2 | 3 . . |]",
+   "rows": [
+    "Wa-lau mah-ko-ta du-ri mem-per-ma-lu-kan-Mu Ka-mi te-tap me-mu-ji me-nyem-bah di-ri-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kepala yg berdarah yg luka disesah",
+   "Tertunduk di sengsara dan sa kita siksanya",
+   "Walau mahkota duri mempermalukanMu Kami tetap memuji menyembah diriMu"
+  ],
+  [
+   "O wajah yang mulia, yang patut disembah",
+   "Mengapa Kau disiksa, diejek, dicerca",
+   "Wajah-Mu diludahi, apa penyebabnya?",
+   "Tubuh-Mu dilukai, salah-Mu apakah?"
+  ],
+  [
+   "Sengsara-Mu ya Tuhan, semua salahku",
+   "Engkau menjadi korban karena dosaku",
+   "'Ku menyesal dan malu di kaki salib-Mu",
+   "Ampunilah hamba-Mu, curahkan kasih-Mu"
+  ],
+  [
+   "Ya Yesus, Kau gembala dan aku domba-Mu",
+   "Engkau sumber bahagia, penuntun hidupku",
+   "'Ku berserah pada-Mu, mengingat bilur-Mu",
+   "'Ku taat kepada-Mu karena darah-Mu"
+  ],
+  [
+   "Hatiku bergembira setiap mengenang",
+   "Derita dan sengsara di bukit Golgota",
+   "Sekarang aku sujud di bawah salibMu PadaMuku berlindung selama hidupku"
+  ],
+  [
+   "Hatiku penuh syukur, ya Yesus sobatku",
+   "Kar'na kematian-Mu, menebus diriku",
+   "Rintihan dan darah-Mu, Kau b'rikan untukku",
+   "Terimalah hamba-Mu di saat ajalku"
+  ],
+  [
+   "Di saat aku nanti meninggal dunia",
+   "Di pintu Surga nanti datanglah ya, Tuhan",
+   "Kuatkanlah imanku tinggalkan dunia",
+   "Ulurkanlah tangan-Mu kepadaku Tuhan"
+  ],
+  [
+   "Kau Tuhan, perlindungan, penghibur hatiku",
+   "Di saat menghembuskan nafas terakhirku",
+   "Wajah-Mu yang 'ku pandang dengan iman teguh",
+   "Di Surga 'ku 'kan tinggal bersama Tuhanku"
+  ]
+ ],
+ "vl_direct": {
+  "4": {
+   "r": [
+    [
+     "Ha-ti-ku ber-gem-bi-ra se-ti-ap me-nge-nang",
+     "De-ri-ta dan seng-sa-ra di bu-kit Gol-go-ta"
+    ],
+    [
+     "Se-ka-rang a-ku su-jud di ba-wah sa-lib-Mu Pa-da-Mu-ku ber-lin-dung se-la-ma hi-dup-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 96)"
+   ]
+  }
+ },
+ "note": [
+  "hal. 95/96 kepala lagu: 'Buku Logu: 158' (data kosong) → bl 158",
+  "hal. 95: pemisahan kata 'di seng-sa-ra', 'mem-per-ma-lu-kan-Mu' (juga teks ayat 1)",
+  "hal. 96 ayat 5: 'a ku su jud' = 'aku sujud', 'di bukit', 'di bawah' (vl_direct dan teks ayat 5)",
+  "catatan: hal. 95 baris lirik 2 tercetak 'dan sa kita sik sa nya' (kemungkinan 'sakit') — dibiarkan sesuai cetakan",
+  "kata depan dipisah: di-bu-kit, di-ba-wah"
+ ]
+}

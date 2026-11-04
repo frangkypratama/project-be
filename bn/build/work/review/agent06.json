@@ -1,0 +1,222 @@
+[
+ {
+  "id": "219",
+  "status": "fixed",
+  "detail": "Not, kunci F, 4 ketuk, BL 183, ayat 2-3 cocok dengan hal. 274. Pemisahan kata: 'ti na' → ti-na (buku menulis 'ti na', kemungkinan salah ketik 'tiba'; tidak diubah ejaannya)."
+ },
+ {
+  "id": "220",
+  "status": "fixed",
+  "detail": "Not/durasi dicek dengan zoom hal. 275, cocok. Pemisahan kata: ber-li-ku, ja-jan (buku menulis 'ja jan', kemungkinan salah ketik 'jalan'). Ayat 2-7 lengkap (ayat 3 'Engaku' salah ketik di buku, dibiarkan)."
+ },
+ {
+  "id": "221",
+  "status": "fixed",
+  "detail": "Not hal. 276 cocok (kunci Ab, 4 ketuk, BL 5). Pemisahan kata diperbaiki: Ye-sus-ku ber-sa-ma. Ayat 2-6 lengkap (ayat 3 'hiudpku' salah ketik di buku, dibiarkan)."
+ },
+ {
+  "id": "222",
+  "status": "fixed",
+  "detail": "Not hal. 277 cocok (G, 6 ketuk, BL 163; #4 coretan, legato). Pemisahan kata: ran-ca-na (buku 'ran ca na'). Ayat 2-5 lengkap."
+ },
+ {
+  "id": "223",
+  "status": "ok",
+  "detail": "Not, lirik ayat 1, kunci Ab, 4 ketuk, BL 244 cocok dengan hal. 278; ayat 2-4 lengkap."
+ },
+ {
+  "id": "224",
+  "status": "fixed",
+  "detail": "hal. 279: birama 10 '6, . 5,' garis atas pada '. 5,' → 6, .+5, (validator OK); pemisahan kata Ber-sa-ma-Mu ku. Not lain, kunci Ab, 2 ketuk, BL 232, ayat 2-4 cocok."
+ },
+ {
+  "id": "225",
+  "status": "issue",
+  "detail": "Not, kunci F, 3 ketuk, BL 25, ayat 2-4 cocok dengan hal. 280. Lirik ayat 1 baris 2-3 di buku tertulis 'do a ku 9 ni' (angka 9, jelas salah ketik untuk 'i' → 'ini'); data mengikuti buku ('9 ni'), tidak dikoreksi — perlu keputusan pemilik apakah diganti 'i-ni'."
+ },
+ {
+  "id": "226",
+  "status": "ok",
+  "detail": "hal. 281 diperiksa dengan zoom: pickup 6, (bukan 5,), '2 . 5 4 6' baris 2 sesuai buku; selisih dengan BE (kemiripan 0.91) memang dari buku BN. Kunci Eb, 4 ketuk, BL 247, lirik dan ayat 2-3 cocok."
+ },
+ {
+  "id": "227",
+  "status": "fixed",
+  "detail": "Not 9/8 hal. 282 cocok (Ab, BL 26). Pemisahan kata: pr-lin-du-ngan-ku, di-hup-ku (ejaan salah ketik buku 'pr', 'dihupku' dibiarkan). Ayat 2-6 lengkap."
+ },
+ {
+  "id": "228",
+  "status": "ok",
+  "detail": "Not, lirik ayat 1, kunci A, 4 ketuk, BL 246 cocok dengan hal. 283; ayat 2-5 lengkap dan urut."
+ },
+ {
+  "id": "229",
+  "status": "fixed",
+  "detail": "Not hal. 284 cocok (Eb, 4 ketuk, BL 181; ||: :|| bagian 1). Selisih kecil dengan BE (0.98) tidak tampak salah di gambar. Pemisahan kata: pe-nis-ta. Ayat 2-3 lengkap."
+ },
+ {
+  "id": "230",
+  "status": "fixed",
+  "detail": "hal. 285: BL 182 ditambahkan (data None); pemisahan kata A-ku rin-du, ha-ra-pan-ku Ku. Not (Bb, 4 ketuk, ||: :||) dan ayat 2-4 cocok."
+ },
+ {
+  "id": "231",
+  "status": "fixed",
+  "detail": "hal. 286 birama 5: '4 . 3 2 | 7' garis atas pada '. 3' → 4 .+3 2 (validator OK). Kunci Eb, 4 ketuk, BL 13, lirik, ayat 2-5 cocok."
+ },
+ {
+  "id": "232",
+  "status": "fixed",
+  "detail": "Not hal. 287 cocok (E, 3 ketuk, BL 116, ||: :||). Pemisahan kata: ku-ta-hu ku ya-kin. 'TU-han-ku' memang huruf besar di buku. Ayat 2-5 lengkap (dengan refrein)."
+ },
+ {
+  "id": "233",
+  "status": "fixed",
+  "detail": "hal. 288-289: not (D, 4 ketuk, BL 241) cocok; ayat 4 bernot di hal. 289 sudah ada di vl_direct dan cocok. Pemisahan kata: t-tap-kan (buku 't tap kan'). Ayat 2-6 lengkap. Catatan: hal. 289 berjudul Batak 'Turena i manodo' (kekhasan buku)."
+ },
+ {
+  "id": "234",
+  "status": "fixed",
+  "detail": "hal. 290: BL 32 ditambahkan (data None); pemisahan kata ter-se-sat Ku, ke-be-na-ran-ku ku. Not (F, 4 ketuk, #4 #5) dan ayat 2-10 cocok."
+ },
+ {
+  "id": "235",
+  "status": "ok",
+  "detail": "Not 6 ketuk hal. 291 cocok (F, BL 235, legato, #4); selisih kecil dengan BE (0.98) tidak tampak salah di gambar. Lirik ayat 1 dan ayat 2-4 cocok."
+ },
+ {
+  "id": "236",
+  "status": "ok",
+  "detail": "Not 6 ketuk hal. 292 (F, BL 7, legato) dan lirik ayat 1 cocok; ayat 2-6 lengkap."
+ },
+ {
+  "id": "237",
+  "status": "fixed",
+  "detail": "Not hal. 293 cocok (Eb, 4 ketuk, BL 91, kres #4/#5). Pemisahan kata: di-kua-sai, a-wal. Ayat 2-5 lengkap (ayat 5 'samU' salah ketik buku, dibiarkan)."
+ },
+ {
+  "id": "238",
+  "status": "ok",
+  "detail": "Not hal. 294 (Eb, 4 ketuk, BL 93, ||: :||), lirik ayat 1 dan ayat 2-7 cocok."
+ },
+ {
+  "id": "239",
+  "status": "ok",
+  "detail": "Not hal. 295 (F, 4 ketuk, BL 22), lirik ayat 1 dan ayat 2-12 cocok."
+ },
+ {
+  "id": "240",
+  "status": "fixed",
+  "detail": "Not hal. 296 cocok (C, 4 ketuk, BL 222, ||: :||). Pemisahan kata: ti-pu, pe-dang, ter-ka-lah-kan, Cer-dik. Ayat 2-3 lengkap."
+ },
+ {
+  "id": "241",
+  "status": "fixed",
+  "detail": "Not hal. 297 cocok (D, 4 ketuk, BL 61, legato). Pemisahan kata: da-ri-ku ku. Ayat 2-3 lengkap."
+ },
+ {
+  "id": "242",
+  "status": "fixed",
+  "detail": "Not hal. 298 cocok (Bb, 3 ketuk, BL 76, ||: :||, legato bagian 2). Pemisahan kata: be-ba-ha-gi-a (ejaan buku 'bebahagia' dibiarkan). Ayat 2-5 lengkap."
+ },
+ {
+  "id": "243",
+  "status": "fixed",
+  "detail": "Not hal. 299 dicek dengan zoom, cocok (Eb, 4 ketuk, BL 169). Pemisahan kata: Pe-be-bus (salah ketik buku untuk 'Penebus', ejaan dibiarkan). Ayat 2-4 lengkap."
+ },
+ {
+  "id": "244",
+  "status": "ok",
+  "detail": "Not hal. 300 (F, 4 ketuk, BL 22), lirik ayat 1 dan ayat 2-6 cocok."
+ },
+ {
+  "id": "245",
+  "status": "ok",
+  "detail": "Not hal. 301 dicek dengan zoom (D, 4 ketuk, BL 61; melodi sama dengan 241), lirik ayat 1 dan ayat 2-3 cocok."
+ },
+ {
+  "id": "246",
+  "status": "fixed",
+  "detail": "hal. 302-303: blok not hal. 303 berlabel 'Ayat 4' (bukan ayat 2) → lirik bernot dipindah ke ayat 4 (vl_direct kunci 3); ayat 2 teks hal. 302 yang hilang ditambahkan; vnum kini [1,2,3,4,5]. Pemisahan kata me-nyer-gap, ko-ba-ran. Not (E, 3 ketuk, BL 116) cocok."
+ },
+ {
+  "id": "247",
+  "status": "ok",
+  "detail": "Not hal. 304 dicek dengan zoom, cocok (Bb, 4 ketuk, BL 159); selisih dengan BE (0.94) berasal dari buku BN. Fermata di not akhir tidak dimodelkan. Lirik ayat 1 dan ayat 2-4 cocok."
+ },
+ {
+  "id": "248",
+  "status": "fixed",
+  "detail": "Not hal. 305 cocok (Ab, 4 ketuk, BL 18). Pemisahan kata: di du-nia. Ayat 2-8 lengkap (ayat 6 'bukut' salah ketik buku, dibiarkan)."
+ },
+ {
+  "id": "249",
+  "status": "fixed",
+  "detail": "hal. 306-307: not (Eb, 4 ketuk, BL 122, ||: :||) cocok; selisih kecil dengan BE (0.97) tidak tampak salah di gambar. Pemisahan kata ayat 1: si-a-ga, mem-per-da-ya; ayat 5 bernot (hal. 307): me-nak-luk-kan i-blis (vl_direct + teks). Ayat 2-7 lengkap."
+ },
+ {
+  "id": "250",
+  "status": "issue",
+  "detail": "hal. 308: BL 181 ditambahkan (data None). Not (Eb, 4 ketuk, ||: :||; melodi sama dengan 229) dan ayat 2-5 cocok; fermata di birama terakhir tidak dimodelkan. RAGU (tidak dikoreksi): baris ulang bagian 1 tertulis 'Tu han kan si | ha ni ka mi' — kemungkinan salah ketik untuk 'Tuhan kasihani kami'; data kini 'Tu-han-kan si ha ni ka-mi' (pemisahan kata janggal), perlu keputusan pemilik."
+ },
+ {
+  "id": "251",
+  "status": "fixed",
+  "detail": "hal. 309-311: lirik ulang ayat 1 't'lahdi _' → t'lah di-ka-lah-kan (suku kata 'di' di not 5); ayat 4 bernot Ku-se-rah-kan Ku-a-sa; ayat 7 bernot di si-si (vl_direct + teks). Not (Eb, 3 ketuk, BL 138) cocok. CATATAN volta: buku menulis ||: 5 1' 5 | 5 . 4 3 | 4 3 2 | dengan volta 1 '3 . . :||' dan volta 2 '1 . . |||'; data membuka ulangan jadi bagian 3 dan 4 (struktur tidak diubah, sesuai brief) — ini juga sebab kemiripan BE 0.90."
+ },
+ {
+  "id": "252",
+  "status": "fixed",
+  "detail": "Not hal. 312 cocok (Eb, 4 ketuk, BL 6). Pemisahan kata: bim-ding (salah ketik buku untuk 'bimbing', ejaan dibiarkan). Ayat 2-7 lengkap."
+ },
+ {
+  "id": "253",
+  "status": "fixed",
+  "detail": "hal. 313: BL 209 ditambahkan (data None); pemisahan kata di si-si-Mu, se-hing-ga ku. Not (F, 3 ketuk) cocok; ayat 2-5 lengkap. CATATAN volta: buku menulis '||: 2 2 5 | [1.] 3 . . :|| [2.] 1 . . |||' (kurung volta 1 mencakup '2 2 5 | 3 . .'); data: bagian 3 '2 2 5 | 3 . .' + bagian 4 '1 . .' saja, jadi pengulangan '2 2 5' (ke-pa-da) sebelum volta 2 tidak terwakili — struktur tidak diubah sesuai brief."
+ },
+ {
+  "id": "254",
+  "status": "fixed",
+  "detail": "hal. 314-315: BL 124 ditambahkan (data None). Not (F, 4 ketuk, ||: :||) dan lirik ayat 1 cocok. Ayat 5 bernot (hal. 315) pemisahan kata diperbaiki: di ha-ti-ku, me-nga-si-hi-Mu ku, ja-di ke-hi-du-pan-ku (vl_direct + teks). Ayat 2-4, 6-7 lengkap."
+ },
+ {
+  "id": "255",
+  "status": "fixed",
+  "detail": "hal. 316: kepala '4 ketuk' berlaku untuk bagian 1 (||: :||, 4 ketuk/birama); buku menulis '3 ketuk' di awal bagian 2 → meter 4/4 + sections[1].meter '3/4' (validator OK), checks diperbarui. BL 187 ditambahkan (data None). Not dan ayat 2-3 cocok. Perlu dipastikan situs menampilkan meter per bagian."
+ },
+ {
+  "id": "256",
+  "status": "issue",
+  "detail": "hal. 317: lirik ayat 1 diperbaiki — huruf nyasar 'Y' sebelum 'Ye sus' dihapus (suku kata kini 30 = not), di-no-bat-kan. RAGU (tidak dikoreksi): birama 7 '(1 1') 7+6 5 3 5 4' = 7 ketuk; di buku garis atas hanya di atas '7 6', tidak ada garis atas pada '5 3 5 4' dan '1 1'' (kemungkinan buku kurang garis atas) — validator tetap memperingatkan birama 7. Not lain (F, 4 ketuk, BL 95, ||: :||) dan ayat 2-7 cocok."
+ },
+ {
+  "id": "257",
+  "status": "fixed",
+  "detail": "hal. 318-319: not (G, 4 ketuk, BL 210, ||: :||) dan lirik ayat 1 cocok; ayat 4 bernot (hal. 319) sudah di vl_direct, pemisahan kata diperbaiki: ku-la-ku-kan ku. Ayat 2-3, 5-6 lengkap."
+ },
+ {
+  "id": "258",
+  "status": "fixed",
+  "detail": "Not hal. 320 cocok (F, 4 ketuk, BL 218, ||: :||). Pemisahan kata: man-tap, sing-kir-kan ku. Ayat 2-4 lengkap."
+ },
+ {
+  "id": "259",
+  "status": "fixed",
+  "detail": "Not hal. 321 cocok (Ab, 4 ketuk, BL 166, ||: :||; garis atas 4‿3 dicek zoom). Pemisahan kata: Di sa-na-lah, di sa-na. Ayat 2-5 lengkap."
+ },
+ {
+  "id": "260",
+  "status": "fixed",
+  "detail": "Not hal. 322 dicek dengan zoom, cocok (Bb, 4 ketuk, BL 40). Pemisahan kata: me-nyer-ta-i-ku (2x). Ayat 2-5 lengkap."
+ },
+ {
+  "id": "261",
+  "status": "fixed",
+  "detail": "hal. 323: BL 145 ditambahkan (data None). Not (Eb, 4 ketuk; #4, legato, ||: :|| bagian 2) dan lirik ayat 1 cocok; ayat 2-3 lengkap (baris terakhir diulang sesuai buku)."
+ },
+ {
+  "id": "262",
+  "status": "fixed",
+  "detail": "hal. 324-325: not (F, 4 ketuk, BL 149, ||: :||) cocok. Pemisahan kata ayat 1: sum-ber ke-ba-i-kan, sum-ber ke-hi-du-pan; ayat 5 bernot (hal. 325, vl_direct + teks): Di ha-ri. Ayat 2-4, 6-8 lengkap (ayat 6 'kehiudpan' salah ketik buku, dibiarkan)."
+ }
+]

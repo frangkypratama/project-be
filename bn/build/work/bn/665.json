@@ -1,0 +1,39 @@
+{
+ "be": 665,
+ "variant": "",
+ "bl": null,
+ "title": "Bangkitlah kau",
+ "key": "D",
+ "meter": "4/4",
+ "credit": "Jes. 60:1",
+ "pages": [
+  832
+ ],
+ "cat": "Pekabaran Injil",
+ "tempo": 100,
+ "credits": [
+  "Syair: Mache dich auf und Werde lihet; Kommunitat Gnadental, 1972",
+  "Lagu: Mache dich auf und Werde lihet; Kommunitat Gnadental, 1972",
+  "Terj.Ind.: Biv. Elfrida Lista Manurung"
+ ],
+ "sections": [
+  {
+   "notes": "1 1+1 2 2+2 | 5, 5,+5, 1 . | 3 3+3 4 4+4 | 2 2+2\n3 . | 1' 1'+1' 2'+1' 7+6 | 5 5 5 . | 5 5 6 . | 7 .\n1' . |]",
+   "rows": [
+    "Bang-kit-lah kau dan men-ja-di te-rang Bang-kit-lah kau dan men-ja-di te-rang Kar'-na te-rang-mu ki-ni t'lah da-tang t'rang-mu t'lah da lah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Bangkitlah kau dan menjadi terang Bangkitlah kau dan menjadi terang Kar'na terangmu kini t'lah datang t'rangmu t'lah da lah"
+  ]
+ ],
+ "vnum": [
+  1
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

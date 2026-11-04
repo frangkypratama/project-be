@@ -1,0 +1,87 @@
+{
+ "be": 358,
+ "variant": "",
+ "bl": 194,
+ "title": "Bersoraklah hai isi dunia",
+ "key": "Ab",
+ "meter": "4/4",
+ "credit": "Louis Bourgeois, 1561",
+ "pages": [
+  448,
+  449
+ ],
+ "cat": "Mazmur",
+ "tempo": 104,
+ "credits": [
+  "Syair: Matthias Jorissen 1739-1823",
+  "Lagu: Loise Bourgeois 1510-1561",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "1 . 6, 5, | 1 1 2 4 | 3 . 2 . | 0 0 5 . | 3 3 1 4 |\n3 . 2 . | 1 . 0 0 | 1 . 6, 5, | 1 1 2 4 | 3 . 2 . | 0 0\n5 . | 4 3 2 1 | 1 7, 1 . | 0 0 5 . | 5 4 3 . | 2 .\n1 7, | 6, . 5, . | 0 0 5, . | 1 1 7, 6, | 1 . 2 . | 3 .\n0 0 | 1 . 1 2 | 3 1 4 4 | 3 . 2 . | 0 0 5 . | 4 3 2\n1 | 1 7, 1 . |]",
+   "rows": [
+    "Ber-so-rak-lah hai i-si du-nia ke-pa-da Al-lah nya-nyi-lah Maz-mur-kan-lah ke-mu-li-a-an dan ke-a-gu-ngan na-ma-Nya Ka-ta-kan-lah ke-pa-da Al-lah be-ta-pa dah-syat kar-ya-Mu Se-hing-ga mu-suh-Mu se-mu-a ber-te-kuk di ha-da-pan-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Bersoraklah hai isi dunia kepada Allah nyanyilah Mazmurkanlah kemuliaan dan keagungan namaNya Katakanlah kepada Allah betapa dahsyat karyaMu Sehingga musuhMu semua bertekuk di hadapanMu"
+  ],
+  [
+   "Seluruh bumi akan sujud dan menyembah kepada-Mu",
+   "Mereka juga pun bermazmur dan mengagungkan nama-Mu",
+   "Semua bangsa 'kan melihat betapa dahsyat karya-Mu",
+   "Sehingga umat manusia bersukacita dengan-Mu"
+  ],
+  [
+   "Pujilah hai segala bangsa, nyanyikan Allah yang besar",
+   "Yang menghidupkan jiwa kita serta memeliharanya",
+   "Bagai emas yang dimurnikan, umat-Nya disucikan-Nya",
+   "Segala noda disingkirkan supaya layak bagi-Nya"
+  ],
+  [
+   "BaitMu akan kumasuki mempersembahkan kurbanku dengan senang kan kupenuhi segala nazar janjiku Aku tak akan melupakan yg terucapkan mulutku Apa yg sudah kujanjikan di waktu kesusahanku"
+  ],
+  [
+   "Umat yang takut akan Tuhan, dengarkanlah cerit'raku",
+   "Aku s'lalu mempersaksikan yang dilakukan padaku",
+   "'Ku berseru kepada Tuhan di dalam kesesakanku",
+   "Kini 'ku t'lah diselamatkan, terpuji nama Allahku"
+  ],
+  [
+   "Gemar 'ku puji Kau Allahku, kekal kasih setia-Mu",
+   "Engkau tak menolak doaku, namun kabulkan doaku",
+   "Aku yang hina, kekurangan, terasing di atas dunia",
+   "Tetapi Allah mencurahkan padaku s'gala berkat-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 449 ayat 4: pemisahan kata diperbaiki (akan kumasuki, kupenuhi, nazar, melupakan, terucapkan, sudah kujanjikan)"
+ ],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Ba-it-Mu a-kan ku-ma-su-ki mem-per-sem-bah-kan kur-ban-ku de-ngan se-nang kan ku-pe-nu-hi se-ga-la na-zar jan-ji-ku A-ku tak a-kan me-lu-pa-kan yg ter-u-cap-kan mu-lut-ku A-pa yg su-dah ku-jan-ji-kan di wak-tu ke-su-sa-han-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 449)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

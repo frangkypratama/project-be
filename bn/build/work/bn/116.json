@@ -1,0 +1,85 @@
+{
+ "be": 116,
+ "variant": "",
+ "bl": 243,
+ "title": "Kau t'lah menciptaku",
+ "key": "D",
+ "meter": "4/4",
+ "credit": "Franz Heinrich Christoph, 1729",
+ "pages": [
+  142
+ ],
+ "cat": "Trinitatis",
+ "tempo": 104,
+ "credits": [
+  "Syair: Johann Jakob Rambach 1729 (1693-1735)",
+  "Lagu: Franz Heinrich Christoph 1741 (1705-1767)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 1 2 3 3 | 2 . 0 5 | 4 3 2 2 | 1 . 0 :|",
+   "rows": [
+    "Kau t'lah men-cip-ta-ku si-na-ri ha-ti-ku",
+    "A-pa-pun mi-lik-ku se-mua-nya da-ri-Mu"
+   ]
+  },
+  {
+   "notes": "5 |\n6 6 7 7 | 1' 5 0 3 | 6 5 4 3 | 2 2 0 :|",
+   "rows": [
+    "Kua-sa-i-lah di-ri-ku 'ku mau ta-at pa-da-Mu",
+    "Ku-at-kan-lah di-ri-ku me-la-ku-kan Fir-man-Mu"
+   ]
+  },
+  {
+   "notes": "5 | 1 1 2\n3 | 4 4 3 6 | 5 1 2 2 | 1 . . |]",
+   "rows": [
+    "To-long-lah a-ku Tu-han-ku Al-lah pen-cip-ta-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kau t'lah menciptaku sinari hatiku",
+   "Apapun milikku semuanya dariMu",
+   "Kuasailah diriku 'ku mau taat padaMu",
+   "Kuatkanlah diriku melakukan FirmanMu",
+   "Tolonglah aku Tuhanku Allah penciptaku"
+  ],
+  [
+   "Tuhan penebusku, kuduskan jiwaku",
+   "Dengan darah kudus hapuskan dosaku",
+   "Terpujilah nama-Mu kar'na pengorbanan-Mu",
+   "Dengan perkataanku maupun perbuatanku",
+   "Ya Yesus Jurus'lamatku, t'rimalah syukurku"
+  ],
+  [
+   "Pada-Mu Roh Kudus, 'ku s'rahkan diriku",
+   "Kuasailah tubuhku, hatiku, jiwaku",
+   "'Ku turut panggilan-Mu dan tuntunlah langkahku",
+   "Berbakti kepada-Mu, hiburkanlah hatiku",
+   "Di dalam pergumulanku, kuatkan hatiku"
+  ],
+  [
+   "Ya Tuhan Allahku, Tritunggal mulia",
+   "Kuduskan hatiku, jadikan rumah-Mu",
+   "Berilah aku hikmat semakin mengenal-Mu",
+   "Berilah kekuatan dalam perjalananku",
+   "Sampai 'ku masuk rumah-Mu, Tritunggal yang kudus"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 142 baris 1: suku kata 'men' di bawah not 2 dan 'cip' di bawah not 3 (bukan 'mencip' + not kosong) → 'men-cip-ta-ku'",
+  "Koreksi dari gambar halaman: hal. 142 baris 2: 'di ri ku 'ku mau' → 'di-ri-ku 'ku mau'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

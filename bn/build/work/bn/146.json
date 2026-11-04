@@ -1,0 +1,64 @@
+{
+ "be": 146,
+ "variant": "",
+ "bl": 6,
+ "title": "Ya Yesus t'rima kami",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Choral Busch 29 Melchoir Vulpius 1609",
+ "pages": [
+  177
+ ],
+ "cat": "C. Baptisan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Jena 1609",
+  "Lagu: Melchoir Vulpius 1609 (1560-1615)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 3 2 3 6 | (5 4) 3 6 | 5 4 3 2 | 3 . 0 5 | 6 7 1'\n7 | 6 . 5 3 | 4 3 2 2 | 1 . . |]",
+   "rows": [
+    "Ya Ye-sus t'ri-ma ka-mi yg da-tang pa-da-Mu mem-ba-wa a-nak ka-mi mo-hon bap-ti-san-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Ya Yesus t'rima kami yg datang padaMu membawa anak kami mohon baptisanMu"
+  ],
+  [
+   "Mereka diantarkan ibu dan bapanya",
+   "Yang ingin menyerahkan pada-Mu anaknya"
+  ],
+  [
+   "Manusia dalam dosa lahir ke dunia",
+   "Dari nenek moyangnya dan orang tuanya"
+  ],
+  [
+   "Tetapi Engkau Yesus, sumber bahagia",
+   "Dengan darah yang kudus, Kau hapus dosanya"
+  ],
+  [
+   "Dan itulah sebabnya, anaknya pun serta",
+   "Memohon kes'lamatan dengan dibaptiskan"
+  ],
+  [
+   "Kasihi kami Tuhan, tuliskan namanya",
+   "Di Kitab Kehidupan, di Surga yang baka"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

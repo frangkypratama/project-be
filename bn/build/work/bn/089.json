@@ -1,0 +1,90 @@
+{
+ "be": 89,
+ "variant": "",
+ "bl": 130,
+ "title": "Hai maut dimana sengatmu",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Georg Weissel, 1523",
+ "pages": [
+  109
+ ],
+ "cat": "Kebangkitan Tuhan Yesus, Paskah",
+ "tempo": 100,
+ "credits": [
+  "Syair: Georg Weissel 1644 (1590-1635)",
+  "Lagu: Nurnberg 1532",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "0+5 | 5 5 5 b7 | 6 5 4 0+5 | 3 1 3 #4 | (5 6) 5 :|",
+   "rows": [
+    "Hai maut di-ma-na se-ngat-mu di-ma-na ku-a-sa-mu",
+    "Ne-ra-ka ma-na kua-sa-mu ma-na ke-me-na-ngan-mu"
+   ]
+  },
+  {
+   "notes": "0+5 | 1' 7 6 7 | 1' 6 5 0+5 | 1' 5 6 3 | 5 4 3 0+1 |\n2 4 3 2 | (6, 7,) 1 |]",
+   "rows": [
+    "Se-mu-a di-tak-luk-kan-Nya si i-blis dan pe-ngi-kut-nya Ye-sus me-nga-lah-kan-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hai maut dimana sengatmu dimana kuasamu",
+   "Neraka mana kuasamu mana kemenanganmu",
+   "Semua ditaklukkanNya si iblis dan pengikutnya Yesus mengalahkannya"
+  ],
+  [
+   "Walaupun ular menentang, melawan sang pahlawan",
+   "Walau terpagut tumit-Nya, racunnya dilumpuhkan",
+   "Kepala ular diremuk diinjak oleh Tuhanku",
+   "Si iblis tak berdaya"
+  ],
+  [
+   "Yang mati, bangkit dan menang; penjara diruntuhkan",
+   "Si iblis t'lah dikalahkan, tawanan dibebaskan",
+   "Siapa lagi menentang Melawan Tuhan yang menang",
+   "Sang Raja kehidupan"
+  ],
+  [
+   "Yang bangkit, hidup s'lamanya membuka pintu Surga",
+   "Umat-Nya pun dipanggil-Nya mengikuti Tuhannya",
+   "Yang menghayati Firman-Nya dan yang percaya pada-Nya",
+   "'Kan hidup selamanya"
+  ],
+  [
+   "Siapa saja yang tekun, bertobat dan percaya",
+   "Kepada Yesus Penebus, menyerahkan hidupnya",
+   "Mereka pun turut serta Pewaris kerajaan-Nya",
+   "Hidup kekal di Surga"
+  ],
+  [
+   "Bersukacitalah semua di saat hari Paskah",
+   "Bahagia, hidup yang kekal, mengganti kematian",
+   "Yang kita harap di dunia Di Surga akan nyatalah",
+   "Bersama Kristus Tuhan"
+  ],
+  [
+   "Hai kematian takluklah, dan tunduklah hai iblis",
+   "Hai kau neraka tunduklah, seperti yang tertulis",
+   "Terpuji Allah semesta bersoraklah, Haleluya",
+   "Atas kebangkitan-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

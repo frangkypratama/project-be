@@ -1,0 +1,65 @@
+{
+ "be": 134,
+ "variant": "",
+ "bl": 176,
+ "title": "Para penyembah berhala",
+ "key": "F",
+ "meter": "6/8",
+ "credit": "Jenewa, 1551",
+ "pages": [
+  165
+ ],
+ "cat": "B. Zending",
+ "tempo": 104,
+ "credits": [
+  "Syair:",
+  "Lagu: Louis Bourgeois 1550-1561",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "1 . 2 3 . 2 | 1 7, 6, . 5, . | 1 . 2 3 . 4 | 3 .\n2 . 1 . :|",
+   "rows": [
+    "Pa-ra pe-nyem-bah ber-ha-la ma-sih ba-nyak di du-nia",
+    "Ye-sus a-jar-lah me-re-ka a-gar i-kut se-ge-ra"
+   ]
+  },
+  {
+   "notes": "3 . 3 5 . 4 | 3 . 2 . 3 . | 5 . 5 6 .\n5 | 4 . 3 . 2 . | 3 . 5 4 . 3 | 1 2 3 . 1 . | 3 .\n3 4 . 3 | 2 1 (1 7,) 1 . |]",
+   "rows": [
+    "Me-nik-ma-ti rah-mat-Mu ma-suk ke-ra-ja-an-Mu mem-pe-ro-leh ke-s'la-ma-tan se-per-ti yg Kau jan-ji-kan"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Para penyembah berhala masih banyak di dunia",
+   "Yesus ajarlah mereka agar ikut segera",
+   "Menikmati rahmatMu masuk kerajaanMu memperoleh kes'lamatan seperti yg Kau janjikan"
+  ],
+  [
+   "Tambahkan jumlah pelayan, Guru Injil yang setia",
+   "Mengabarkan kes'lamatan ke seluruh dunia",
+   "Dan curahkanlah roh-Mu bagi semua hamba-Mu",
+   "Agar penyembah berhala makin banyak yang bertobat"
+  ],
+  [
+   "Perhatikanlah ya Tuhan, kami para domba-Mu",
+   "Tolonglah para pelayan dari semua umat-Mu",
+   "Menunaikan tugasnya mengenalkan kasih-Mu",
+   "Memenangkan sesamanya kepada-Mu, Yesus Kristus"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 165 baris terakhir: 'jan ji kan' = satu kata 'janjikan' (pemisahan kata diperbaiki; ayat 1 ikut)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

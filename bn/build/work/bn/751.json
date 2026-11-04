@@ -1,0 +1,58 @@
+{
+ "be": 751,
+ "variant": "",
+ "bl": null,
+ "title": "Tuhan yang Mahakuasa",
+ "key": "C",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  947
+ ],
+ "cat": "Pergumulan dan Penderitaan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Just closer walk with Thee",
+  "Lagu: Tradisional Amerika",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 .+#5 6+3 5+#4 | 4 . . . | 2' .+1' 7+5 6+1' |\n(1'+6 5) . . | 3' .+3' 3'+1' 2'+3' | (3'+2' 1') . 1'+6 | 5 5+5\n5 6+5 | 1'/ . . . :|",
+   "rows": [
+    "Tu-han Yg Ma-ha-kua-sa tun-tun a-ku yg le-mah Ba-ha-gia-lah ha-ti-ku bi-la Kau ber-sa-ma de-ngan-ku",
+    "Ye-sus de-ngar do-a-ku ja-uh-kan-lah kua-tir-ku Bi-la Kau ber-sa-ma-ku ji-wa-ku a-kan da-lam te-duh"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhan Yg Mahakuasa tuntun aku yg lemah Bahagialah hatiku bila Kau bersama denganku",
+   "Yesus dengar doaku jauhkanlah kuatirku Bila Kau bersamaku jiwaku akan dalam teduh"
+  ],
+  [
+   "Dalam dunia yang kelam meresahkan hatiku",
+   "Pimpin langkahku Tuhan, ya Tuhan lindungi jiwaku",
+   "Yesus dengar doaku, jauhkanlah kuatirku",
+   "Bila Kau bersamaku, jiwaku akan dalam teduh"
+  ],
+  [
+   "Yesus raihlah diriku mendekat kepadaMu",
+   "Bila 'ku bersamaMu, bahagia damailah hidupku",
+   "Yesus dengar doaku, jauhkanlah kuatirku",
+   "Bila Kau bersamaku, jiwaku akan dalam teduh"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 947 birama 1: angka 5 (ketuk 2, kedua) dan 4 (ketuk 4, kedua) dicoret \"/\" (coretan berwarna biru) → #5 dan #4"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

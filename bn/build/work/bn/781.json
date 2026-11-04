@@ -1,0 +1,56 @@
+{
+ "be": 781,
+ "variant": "",
+ "bl": null,
+ "title": "Puji syukur pada Allah",
+ "key": "Bb",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  984
+ ],
+ "cat": "Ciptaan dan Lingkungan Hidup",
+ "tempo": 100,
+ "credits": [
+  "Syair: Freut euch der schonen ende; Philip Spitta, 1933",
+  "Lagu: Frieda Fronmuller, 1920",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1' .+1' 5 5 | (6+5) (6+7) 1' 1' | 2' (3'+4') 3' (2'+1') | 7 1' 2' . |\n4' .+4' 2' 2' | 5' .+5' 3' 3' | 4' (3'+2') 3' 1' | 1' 7 1' . | 4' (3'+2')\n5' (4'+3') | (2'+1') 2' 1' . |]",
+   "rows": [
+    "Pu-ji syu-kur pa-da Al-lah a-tas kar-ya cip-ta-Nya La-ut gu-nung dan lem-bah-nya ser-ta ja-gat se-mes-ta ser-ta ja-gat se-mes-ta"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Puji syukur pada Allah atas karya ciptaNya",
+   "Laut gunung dan lembahnya serta jagat semesta",
+   "Serta jagat semesta"
+  ],
+  [
+   "Semua yang dicipta Allah memuliakan namaNya",
+   "Aku juga memuliakan nama Khalik semesta",
+   "Nama Khalik semesta"
+  ],
+  [
+   "Nanti bila 'ku di Surga 'kan melihat wajahNya",
+   "Dengan semua yang percaya bermahkota yang kudus",
+   "Bermahkota yang kudus"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 984: 'ja gat' satu kata (jagat) → ja-gat; ayat 1 dipecah 3 baris spt ayat 2-3"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

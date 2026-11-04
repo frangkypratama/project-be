@@ -1,0 +1,56 @@
+{
+ "be": 286,
+ "variant": "",
+ "bl": 144,
+ "title": "Usap air matamu",
+ "key": "Bb",
+ "meter": "12/8",
+ "credit": "Philipp Paul Bies, 1876",
+ "pages": [
+  357
+ ],
+ "cat": "Penghiburan",
+ "tempo": 76,
+ "credits": [
+  "Ernst Gebhardt 1832-1899",
+  "Lagu: Philipp Paul Bliss 1838-1876",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1' . . 1' 7 6 6 . . 5 . . | 4 . . 4 6 5 3 . . . . . |\n1' . . 1' 7 6 6 . . 5 . . | #4 . . #4 5 6 5 . . . . . |\n7 . . 7 1' 2' 2' . . 5 . . | 5 . . 7 1' 2' 3' . . . . . |\n3' . . 3' 2' 7 1' . . 6 . . | 5 . . 5 5 5 5 . . . . . |]",
+   "rows": [
+    "U-sap air ma-ta-mu a-tas du-ka-mu Ba-wa de-ri-ta-mu pa-da Tu-han-mu Om-bak ber-ge-mu-ruh ba-dai men-de-ru Se-mua kan ber-la-lu kuat-kan ha-ti-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Usap air matamu atas dukamu Bawa deritamu pada Tuhanmu Ombak bergemuruh badai menderu Semua kan berlalu kuatkan hatimu"
+  ],
+  [
+   "Yesus merasakan pedih hatimu",
+   "Datanglah pada-Nya, tulus hatimu",
+   "S'karang di dunia kau dihibur-Nya",
+   "Nanti pun di Surga pasti bahagia"
+  ],
+  [
+   "Ada yang berduka seperti engkau",
+   "Beri tau padanya yang menghiburmu",
+   "Berdoa bersama dengan sobatmu",
+   "Semua berbahagia, berkat Tuhanmu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 357 baris 3: 'ber ge mu ruh' = 'bergemuruh' (pemisahan kata). Not cocok."
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

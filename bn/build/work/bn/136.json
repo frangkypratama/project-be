@@ -1,0 +1,70 @@
+{
+ "be": 136,
+ "variant": "",
+ "bl": 38,
+ "title": "Betapa luas dunia g'lap",
+ "key": "Ab",
+ "meter": "3/4",
+ "credit": "Friedrich Silcher, Abad 18",
+ "pages": [
+  167
+ ],
+ "cat": "B. Zending",
+ "tempo": 100,
+ "credits": [
+  "Syair: Friedrich Silcher 1789-1860",
+  "Lagu: Friedrich Silcher 1789-1860",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 . 5, | 6, .+5, 6,+7, | 1 . (6,/+.//+5,//) | 5, . 5, | 3 .\n5 | 2 .+1 2+3 | 1 .",
+   "rows": [
+    "Be-ta-pa lu-as du-nia g'lap dan ma-sih ba-nyak o-rang ter-se-sat"
+   ]
+  },
+  {
+   "notes": "5, | 5 . 4 | 3 . 2 | 1 .+2\n3+#4 | 5 . (6,/+.//+5,//) | 5, . 5, | 3 . 5 | 2 .+1 2+3 | 1 . :|",
+   "rows": [
+    "Si i-blis ber-ku-a-sa a-tas-nya ber-ha-la ju-ga se-tan di-sem-bah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Betapa luas dunia g'lap dan masih banyak orang tersesat",
+   "Si iblis berkuasa atasnya berhala juga setan disembah"
+  ],
+  [
+   "Ya Tuhan, perhatikanlah; derita manusia yang lelah",
+   "Dengarlah jeritannya berseru; memohon pertolongan dari-Mu",
+   "Dengarlah jeritannya berseru; memohon pertolongan dari-Mu"
+  ],
+  [
+   "Genaplah janji setia-Nya; Allah selamatkan umat manusia",
+   "Semua manusia akan mendengar; panggilan untuk hidup kekal",
+   "Semua manusia akan mendengar; panggilan untuk hidup kekal"
+  ],
+  [
+   "Segala daya pakailah; membawa firman hidup yang kekal",
+   "Kepada semua bangsa di dunia; b'ritakan Injil dengan bergemar",
+   "Kepada semua bangsa di dunia; b'ritakan Injil dengan bergemar"
+  ],
+  [
+   "Ya Yesus, Raja yang mulia; Kau yang menebus umat manusia",
+   "Sinarilah manusia dalam g'lap; milikilah mereka s'lamanya",
+   "Sinarilah manusia dalam g'lap; milikilah mereka s'lamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

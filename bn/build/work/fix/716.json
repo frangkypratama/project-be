@@ -1,0 +1,41 @@
+{
+ "sections": [
+  {
+   "notes": "3 #2 3 5 4 3 | 2 3 2 1 . . | 4 5 6 1' 7 6 | (5 . . 5) . . |\n1' 6 1' 7 5 7 | 6 4 6 5 . . | 5 6 7 1' 7 6 | (5 . . 5) . . |\n3 . . 5 . 3 | 4 . . 6 . . | 7 . . 3' . 2' | 1' . . 5 . . | 6 . .\n1' . 6 | (5 . . 5) . 3 | 3 . . 2 . . . | (2 . . 2) . . | 3 . .\n5 . 3 | 4 . . 6 . 6 | 7 . . 1' . 2' | (3' . . 3') . . | 2' . .\n3' . 3' | 4' . . 6 . 4' | 3' . . 3' . 2' | (1' . . 1') . . |]",
+   "rows": [
+    "Di ja-lan hi-dup di du-nia ke-lam ba-nyak se-dih me-nge-rang To-long me-re-ka di du-nia ge-lap ba-wa-lah si-nar te-rang Pa-kai-lah a-ku ja-di ham-ba-mu ba-wa te-rang ke du-nia g'lap Ja-di-kan a-ku sa-lu-ran ber-kat ba-gi u-mat-Mu yg hi-dup re-sah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Di jalan hidup di dunia kelam banyak sedih mengerang Tolong mereka di dunia gelap bawalah sinar terang Pakailah aku jadi hambamu bawa terang ke dunia g'lap Jadikan aku saluran berkat bagi umatMu yg hidup resah"
+  ],
+  [
+   "Beritakanlah Yesus Tuhanmu, Sang Jurus'lamat dunia",
+   "Agar percaya pada Tuhanmu, kau salurkan berkatNya",
+   "Pakailah aku jadi hambaMu, bawa terang ke dunia g'lap",
+   "Jadikan aku saluran berkat bagi umatMu yang hidup resah"
+  ],
+  [
+   "Jadilah berkat bagi semua s'perti Tuhan lakukan Beri bantuan bagi yg lemah di dalam kasih Tuhan Pakailah aku jadi hambamu bawa terang ke dunia g'lap Jadikan aku saluran berkat bagi umatMu yg hidup resah"
+  ]
+ ],
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Ja-di-lah ber-kat ba-gi se-mu-a s'per-ti Tu-han la-ku-kan Be-ri ban-tu-an ba-gi yg le-mah di da-lam ka-sih Tu-han Pa-kai-lah a-ku ja-di ham-ba-mu ba-wa te-rang ke du-nia g'lap Ja-di-kan a-ku sa-lu-ran ber-kat ba-gi u-mat-Mu yg hi-dup re-sah"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 900)"
+   ]
+  }
+ },
+ "note": [
+  "hal. 899 baris 1: lirik 'me nge rang' satu kata (me-nge-rang), juga di teks ayat 1",
+  "Validator birama #15 = 7 ketuk: buku memang mencetak '3 . . 2 . . .' (hal. 899 & 900 baris 4, tiga titik sesudah 2) — tidak diubah"
+ ]
+}

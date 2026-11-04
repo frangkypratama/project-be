@@ -1,0 +1,78 @@
+{
+ "sections": [
+  {
+   "notes": "0 5 3 5 | 6 5 4 3 | 2 . 1 3 | 2 1 2 3 | 4 3\n2 . :|",
+   "rows": [
+    "T'lah ku-te-mu-kan da-sar ku-at ba-gi ji-wa-ku yg se-sat",
+    "Da-rah Ye-sus-ku i-tu da-sar yg ku-at s'la-ma la-ma-nya"
+   ]
+  },
+  {
+   "notes": "0 2 2 2 | 3 5 5 4 | 5 . 0 5 | 3 1 6 4 |\n3 2 1 . |]",
+   "rows": [
+    "Bi-ar-pun du-ni-a le-nyap tak go-yah ke-ku-a-tan-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "T'lah kutemukan dasar kuat bagi jiwaku yg sesat",
+   "Darah Yesusku itu dasar yg kuat s'lama lamanya",
+   "Biarpun dunia lenyap tak goyah kekuatanNya"
+  ],
+  [
+   "Tuhan membentangkan tangan-Nya merangkul umat manusia",
+   "Begitulah kasih setia-Nya terhadap isi dunia",
+   "Yang sudah datang pada-Nya akan dibimbing semua"
+  ],
+  [
+   "Tuhan tak akan membiarkan umat-Nya hilang tersesat",
+   "Maka Putra-Nya diutus-Nya untuk menyelamatkannya",
+   "Dengarkanlah ketukan-Nya, buka hatimu bagi-Nya"
+  ],
+  [
+   "Di dalam darah Tuhan kita semua a do se terbenam",
+   "Jika kita benar percaya kutukan dosa tak mempan",
+   "Orang percaya bebaslah kar'na dibela darahNya"
+  ],
+  [
+   "Maka dengan baptisan itu t'lah dibenamkan diriku",
+   "Terhapuslah semua dosaku dibasuh darah yang kudus",
+   "Di dalam penyesalanku pada-Mu Yesus, 'ku seru"
+  ],
+  [
+   "Di dasar itu 'ku berdiri sepanjang masa hidupku",
+   "Dan itulah yang 'ku hayati selama ada nafasku",
+   "Aku memuji nama-Mu, Tuhanku Jurus'lamatku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Di da-lam da-rah Tu-han ki-ta se-mua a do se ter-be-nam",
+     "Ji-ka ki-ta be-nar per-ca-ya ku-tu-kan do-sa tak mem-pan"
+    ],
+    [
+     "O-rang per-ca-ya be-bas-lah kar'-na di-be-la da-rah-Nya"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 229)"
+   ]
+  }
+ },
+ "note": [
+  "hal. 229 (ayat 4 bernot): pemisahan kata 'per-ca-ya-ku tu kan do-sa tak mem pan' → 'per-ca-ya ku-tu-kan do-sa tak mem-pan', 'di be-la' → 'di-be-la'; suku kata 'a do se' dibiarkan sesuai buku",
+  "hal. 228 baris 1 (putaran 2): pemisahan kata 'Ye-sus-ku-i tu' → 'Ye-sus-ku i-tu'"
+ ]
+}

@@ -1,0 +1,222 @@
+[
+ {
+  "id": "044",
+  "status": "ok",
+  "detail": "hal. 56: kunci/birama/BL, semua birama, lirik ayat 1-2 putaran dan ayat 2-5 cocok."
+ },
+ {
+  "id": "045",
+  "status": "fixed",
+  "detail": "hal. 57: not cocok (legato 3'-2', 4'+2'); lirik 'Ran ting pal ma' → 'Ran-ting pal-ma' (+ teks ayat 1)."
+ },
+ {
+  "id": "046",
+  "status": "fixed",
+  "detail": "hal. 58: not cocok; lirik 'b'ri ta' → 'b'ri-ta' (+ teks ayat 1). Ayat 2-11 lengkap."
+ },
+ {
+  "id": "047",
+  "status": "fixed",
+  "detail": "hal. 59-60: not cocok (beda dengan BE hanya varian). Lirik tercetak 'du ni' (a terpotong) → 'du-nia'; ayat 4 (bernot, vl_direct) 'Ha sil kan' → 'Ha-sil-kan'. 'yg' memang tercetak di buku."
+ },
+ {
+  "id": "048",
+  "status": "ok",
+  "detail": "hal. 61: not cocok termasuk #4 dan melisma (1+2 3+4 | 5); lirik dan ayat 2-7 cocok."
+ },
+ {
+  "id": "049",
+  "status": "fixed",
+  "detail": "hal. 62: not cocok; lirik 'Pem ba-wa' → 'Pem-ba-wa' (+ teks ayat 1)."
+ },
+ {
+  "id": "050",
+  "status": "fixed",
+  "detail": "hal. 63: not cocok. Hanya pemisahan kata 'di-du-ni-a' → 'di du-ni-a' (regresi dari ekstraksi ulang pk 18:43)."
+ },
+ {
+  "id": "051",
+  "status": "ok",
+  "detail": "hal. 64: not, legato, oktaf, lirik dan ayat 2-7 cocok."
+ },
+ {
+  "id": "052",
+  "status": "fixed",
+  "detail": "hal. 65: not cocok (birama akhir memang 3 ketuk di buku). 'di-du-ni-a' → 'di du-ni-a' (regresi ekstraksi ulang)."
+ },
+ {
+  "id": "053",
+  "status": "fixed",
+  "detail": "hal. 66: bl kosong → 51; lirik 'Pu te ra' → 'Pu-te-ra'. Not (semua pasangan bergaris+legato) cocok."
+ },
+ {
+  "id": "054",
+  "status": "fixed",
+  "detail": "hal. 67: not cocok; 'se nyap' → 'se-nyap'. Catatan: buku menulis '6 ketuk', data 6/8 (konvensi, tidak diubah); ada busur di birama 1 yang tidak bermakna melisma (dua suku kata)."
+ },
+ {
+  "id": "055",
+  "status": "fixed",
+  "detail": "hal. 68: bl kosong → 68; 'ja di-ma-nu-si-a' → 'ja-di ma-nu-si-a' (regresi ekstraksi ulang). Not 6 ketuk dengan kelompok garis atas rumit diperiksa per birama: cocok."
+ },
+ {
+  "id": "056",
+  "status": "fixed",
+  "detail": "hal. 69: not (titik dua garis, legato) cocok; lirik tercetak 'be him pun' → 'ber-him-pun' sesuai judul."
+ },
+ {
+  "id": "057",
+  "status": "ok",
+  "detail": "hal. 70: semua birama bertitik (3/.//5//) diperiksa dengan zoom: cocok; lirik dan ayat 2-3 cocok. Beda dengan BE = varian."
+ },
+ {
+  "id": "058",
+  "status": "fixed",
+  "detail": "hal. 71: not cocok; pemisahan kata 'tung-gul I-sai', 'Di-nu-bu-at-kan', 'di ma-lam'. Lirik tercetak 'Tum buh kah' (judul 'Tumbuhlah') — dibiarkan."
+ },
+ {
+  "id": "059",
+  "status": "fixed",
+  "detail": "hal. 72: not cocok; 'di-du-nia' → 'di du-nia' (regresi ekstraksi ulang)."
+ },
+ {
+  "id": "060",
+  "status": "fixed",
+  "detail": "hal. 73-74: bl kosong → 236; 'mem-bu-ka-kan'; ayat 5 (bernot) tercetak 'Tu han da' → 'dan'; teks ayat 1 'Bersorak-sorailah'."
+ },
+ {
+  "id": "061",
+  "status": "issue",
+  "detail": "hal. 75-76: ayat 7 (lirik di bawah not hal. 76) hilang → ditambahkan, vnum 1-12; teks ayat 1 baris 'ku' diganti ulangan baris 2. ISSUE: volta 1./2. di akhir bagian ulang (3 . . / 1 . .) belum dimodelkan — bagian 3 berisi hanya '1 . .' + lirik 'ku'."
+ },
+ {
+  "id": "062",
+  "status": "fixed",
+  "detail": "hal. 77: bl → 172; birama 1 '3/+.//+4/' → '3/+.//+4//' (4.25→4 ketuk); birama 'ke nan' '(2/+.// 3)' → '(2/+.//+3//)' (4.75→4); lirik tercetak 'Ke mu li an' → 'Ke-mu-lia-an'. Validator OK."
+ },
+ {
+  "id": "063",
+  "status": "ok",
+  "detail": "hal. 78: not, legato, lirik 2 putaran, ayat 2-5 cocok."
+ },
+ {
+  "id": "064",
+  "status": "fixed",
+  "detail": "hal. 79-80: bl → 192; 'me-nge-ce-wa-kan-Mu'; ayat 4 (bernot) pemisahan kata 'pelanggaran', 'membalaskan', 'setimpal', 'Malahan', 'me-me-af-kan' (tercetak 'memeafkan', bukan 'memaafkan' — dibiarkan)."
+ },
+ {
+  "id": "065",
+  "status": "ok",
+  "detail": "hal. 81: not (#1 dicoret), legato, lirik dan ayat 2-4 cocok."
+ },
+ {
+  "id": "066",
+  "status": "issue",
+  "detail": "hal. 82: bl → 52. Validator birama #10 = 2 ketuk: buku memang mencetak '| 7̣ 1 |' (lah ya) tanpa titik tahan — tidak dikoreksi; mungkin salah cetak di buku."
+ },
+ {
+  "id": "067",
+  "status": "fixed",
+  "detail": "hal. 83: not cocok; 'sum ber-ke-hi-du-pan' → 'sum-ber ke-hi-du-pan' (regresi ekstraksi ulang)."
+ },
+ {
+  "id": "068",
+  "status": "fixed",
+  "detail": "hal. 84: not cocok; 'ke-ak-hir' → 'ke ak-hir' (regresi ekstraksi ulang)."
+ },
+ {
+  "id": "069",
+  "status": "ok",
+  "detail": "hal. 85: not, lirik 2 putaran, ayat 2-6 cocok."
+ },
+ {
+  "id": "070",
+  "status": "fixed",
+  "detail": "hal. 86: bl kosong → 36. Not (ketuk angkat ½ + 1, (5 3)+5) cocok."
+ },
+ {
+  "id": "071",
+  "status": "fixed",
+  "detail": "hal. 87: bl kosong → 156; 'di-sur-ga', 'di-a-lam', 'di-s'lu-ruh' → dipisah (regresi ekstraksi ulang)."
+ },
+ {
+  "id": "072",
+  "status": "ok",
+  "detail": "hal. 88: not, lirik, ayat 2-6 cocok."
+ },
+ {
+  "id": "073",
+  "status": "ok",
+  "detail": "hal. 89: not (#4, legato) dan lirik cocok."
+ },
+ {
+  "id": "074",
+  "status": "ok",
+  "detail": "hal. 90: not dan lirik cocok."
+ },
+ {
+  "id": "075",
+  "status": "fixed",
+  "detail": "hal. 91: bl kosong → 206. Not dan lirik cocok."
+ },
+ {
+  "id": "076",
+  "status": "fixed",
+  "detail": "hal. 92-93: hal. 93 berlabel 'Ayat 1' padahal ayat 3 → lirik hal. 93 dipindah ke ayat 3 (vl_direct '0'→'2'), ayat 1 dikembalikan ke 'Hanya satu hal...', vnum 1-4; 'la-pang-kan'."
+ },
+ {
+  "id": "077",
+  "status": "fixed",
+  "detail": "hal. 94: not cocok; 'di-sa-lib' → 'di sa-lib' (tergantung di salib)."
+ },
+ {
+  "id": "078",
+  "status": "issue",
+  "detail": "hal. 95-96: bl → 158; 'di seng-sa-ra', 'mem-per-ma-lu-kan-Mu', ayat 5 'a-ku su-jud', 'di bukit', 'di bawah'. ISSUE: lirik tercetak 'dan sa kita sik sa nya' (kemungkinan 'sakit') — tidak dikoreksi."
+ },
+ {
+  "id": "079",
+  "status": "fixed",
+  "detail": "hal. 97-98: 'Di a-tas'; ayat 5 (bernot) 'men-do-rong', teks 'bersungguh-sungguh'."
+ },
+ {
+  "id": "080",
+  "status": "fixed",
+  "detail": "hal. 99: bl kosong → 39. Not dan lirik cocok."
+ },
+ {
+  "id": "081",
+  "status": "fixed",
+  "detail": "hal. 100: 'sum-ber ke-hi-du-pan', 'ke-ma-ti-an mu-suh' (Kau kalahkan kematian musuh kehidupanku)."
+ },
+ {
+  "id": "082",
+  "status": "fixed",
+  "detail": "hal. 101: bl kosong → 21; 'a-ku su-jud'. Not (legato) cocok."
+ },
+ {
+  "id": "083",
+  "status": "fixed",
+  "detail": "hal. 102-103: 'di-tem-puh', 'ik-las'; ayat 4 (bernot) 'na-fas-ku ku i-ngat', 'ka-sih-Mu ku i-ngat'. Not cocok (beda dengan BE = varian)."
+ },
+ {
+  "id": "084",
+  "status": "fixed",
+  "detail": "hal. 104: birama 'pe nya' '(3/ 4)' → '(3+4)' (garis atas tercetak pendek; birama 3 ketuk) → validator OK; 'se-la-li' disatukan (tercetak 'selali', kemungkinan 'selalu' — dibiarkan)."
+ },
+ {
+  "id": "085",
+  "status": "ok",
+  "detail": "hal. 105: not dan lirik cocok."
+ },
+ {
+  "id": "086",
+  "status": "ok",
+  "detail": "hal. 106: semua kelompok bertitik (x/.//y//) cocok; lirik dan ayat 2-5 cocok."
+ },
+ {
+  "id": "087",
+  "status": "fixed",
+  "detail": "hal. 107: not (#4, #5, legato) cocok; 'gun dah' → 'gun-dah'."
+ }
+]

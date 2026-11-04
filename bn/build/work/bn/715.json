@@ -1,0 +1,56 @@
+{
+ "be": 715,
+ "variant": "",
+ "bl": null,
+ "title": "Agunglah kasihMu",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  898
+ ],
+ "cat": "Pengakuan Iman dan Penyerahan Diri",
+ "tempo": 102,
+ "credits": [
+  "Syair: Savior, Thy dying love; S. Dryden Phelps",
+  "Lagu: Robert Lowry",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 . 4 3 | 2 .+6, 2 . | (1 7,) 6, 7, | (1 . 5,) . | 3 . 4\n3 | 2 .+6, 2 . | (1 7,) 3 .+2 | 1 . . . | 2 . 2 3 |\n4 .+3 2 . | 3 . 3 4 | 5 .+4 3 . | 5 . 4 3 | 2 .+3\n4 . | (1 7,) 3 .+2 | 1 . . . |]",
+   "rows": [
+    "A-gung-lah ka-sih-Mu ya Pe-ne-bus Kau b'ri-kan nya-wa-Mu me-ne-bus-ku Se-lu-ruh hi-dup-ku ku s'rah-kan pa-da-Mu I-tu-lah jan-ji-ku ke-pa-da-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Agunglah kasihMu ya Penebus Kau b'rikan nyawaMu menebusku Seluruh hidupku ku s'rahkan padaMu Itulah janjiku kepadaMu"
+  ],
+  [
+   "Aku mau setia kepadaMu",
+   "'Ku mau setiap saat bersamaMu",
+   "Seluruh hidupku nyatakan kasihMu",
+   "Membawa temanku kepadaMu"
+  ],
+  [
+   "Segala milikku anug'rahMu",
+   "Suka dan dukaku muliakanMu",
+   "Kelak di SurgaMu, 'ku lihat wajahMu",
+   "Damailah hatiku ya Tuhanku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 898 baris 2-3: lirik 'hi dup ku | ku s'rah kan' — pemisahan kata hidupku ku, juga di teks ayat 1"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

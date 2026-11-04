@@ -1,0 +1,75 @@
+{
+ "be": 504,
+ "variant": "",
+ "bl": 344,
+ "title": "Tuhanku yang membimbingku",
+ "key": "D",
+ "meter": "4/4",
+ "credit": "William B. Bradbury, 1868",
+ "pages": [
+  632,
+  633
+ ],
+ "cat": "Pemeliharaan Tuhan",
+ "tempo": 104,
+ "credits": [
+  "Syair: He leadeth me; Joseph H Gilmore 1834-1918",
+  "Lagu: William B Bradbury 1816-1868",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5 | 3 .+2 1 5 | 6 4 4 6 | 5 3 3 (2+1) | 3 3 2 5 |\n3 .+2 1 5 | 6 4 1' (7+6) | 5 3 (3+2) (1+2) | 3 .+2 1 5 |\n5 1' 7 2' | 1' (7+6) 5 6 | 5 3 (3+2) (1+2) | 3 3 2 5 | 5\n1' 7 2' | 1' (7+6) 5 6 | 5 3 (3+2) (1+2) | 3 .+2 1 |]",
+   "rows": [
+    "Tu-han-ku yg mem-bim-bing-ku Di-a meng-hi-bur ha-ti-ku Di ja-lan su-sah dan be-rat ta-ngan-Nya ku pe-gang e-rat Ye-sus-lah yg mem-bim-bing-ku ta-ngan-ku di-pe-gang te-guh A-ku se-rah-kan di-ri-ku ta-ngan-ku di-pe-gang te-guh"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhanku yg membimbingku Dia menghibur hatiku Di jalan susah dan berat tanganNya ku pegang erat Yesuslah yg membimbingku tanganku dipegang teguh Aku serahkan diriku tanganku dipegang teguh"
+  ],
+  [
+   "Di jalan yang gelap kelam, bayangan maut pun mencekam",
+   "Atau di jalan yang terang tetap tanganku dipegang",
+   "Yesuslah yang membimbingku, tanganku di pegang teguh",
+   "Aku serahkan diriku, tanganku dipegang teguh"
+  ],
+  [
+   "Tanganku dipegang erat jangan sampaiku tersesat Di dalam kesesakanku Tuhanlah perlindunganku Yesuslah yg membimbingku tanganku dipegang teguh Aku serahkan diriku tanganku dipegang teguh"
+  ],
+  [
+   "Tuhanku tau tiap langkahku, dijauhkan bala dariku",
+   "Kar'na Tuhan tetap dekat, tangan-Nya 'ku pegang erat",
+   "Yesuslah yang membimbingku, tanganku di pegang teguh",
+   "Aku serahkan diriku, tanganku dipegang teguh"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 632 baris 2-3: 'ta ngan Nya ku pe gang' -> ta-ngan-Nya ku pe-gang (ayat 4: 'tangan-Nya 'ku pegang'); baris 3-4 'A ku se rah kan' -> A-ku se-rah-kan (ayat 2/4: 'Aku serahkan'); ayat 1 disesuaikan",
+  "Koreksi dari gambar halaman: hal. 633 (ayat 3 bernot) baris 3: buku menulis 'te gung' (salah ketik; frasa sama di akhir lagu dan ayat 2/4 = 'teguh') -> te-guh; 'A ku-se-rah-kan' -> A-ku se-rah-kan"
+ ],
+ "status": "",
+ "ref": "Ev.S.No. 38",
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Ta-ngan-ku di-pe-gang e-rat ja-ngan sam-pai-ku ter-se-sat Di da-lam ke-se-sa-kan-ku Tu-han-lah per-lin-du-ngan-ku Ye-sus-lah yg mem-bim-bing-ku ta-ngan-ku di-pe-gang te-guh A-ku se-rah-kan di-ri-ku ta-ngan-ku di-pe-gang te-guh"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 633)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

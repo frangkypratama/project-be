@@ -1,0 +1,70 @@
+{
+ "be": 292,
+ "variant": "",
+ "bl": 141,
+ "title": "Sejak Yesusku",
+ "key": "Ab",
+ "meter": "3/4",
+ "credit": "Philipp Nicolai, 1599",
+ "pages": [
+  363
+ ],
+ "cat": "Penghiburan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Dr Christian Gottlab Barth 1799-1862",
+  "Lagu: William Craft 1708 (1698-1727)",
+  "Terj.Ind.: Pdt Susi Endang Hutabarat STh"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 1 2 | 3 . 5 | 1 2 7, | 1 . 2 | 3 2 1 | 7, . 1 |\n2 (1+7,) (6,/+.//+5,//) | 5, . 7, | 1 2 3 | 1 6, 4 | 3 2 1 | 5 .\n5, | 6, 7, 1 | 2 5, 3 | 6, 2 7, | 1 . |]",
+   "rows": [
+    "Se-jak Ye-sus-ku da-tang pa-da-ku Kua-sa-Nya nya-ta ka-sih rah-mat-Nya Di-a ha-ra-pan-ku per-lin-du-ngan-ku wa-lau a-jal ti-ba ha-ti-ku se-nang"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Sejak Yesusku datang padaku KuasaNya nyata kasih rahmatNya Dia harapanku perlindunganku walau ajal tiba hatiku senang"
+  ],
+  [
+   "Sejak datang-Nya semua bahagia",
+   "Yang s'lalu setia, senang hatinya",
+   "Tiada ratapan, maut sudah lenyap",
+   "Semua yang di Surga hidup bahagia"
+  ],
+  [
+   "Meski tersesak derita berat",
+   "Hatiku pilu, remuk jiwaku",
+   "Namun 'ku tak bimbang, 'ku tau Tuhanku",
+   "Dan aku percaya Dia pelindungku"
+  ],
+  [
+   "Kau tau Tuhan kesusahanku",
+   "'Ku mohon Tuhan pertolongan-Mu",
+   "Tak ada manusia yang menolongku",
+   "Selain menambah duka laraku"
+  ],
+  [
+   "Yesus Tuhanku, Engkau 'ku sembah",
+   "Seg'nap diriku milik-Mu jua",
+   "'Ku tidak mau jauh dari-Mu, Tuhan",
+   "Semua berbahagia di Surga baka"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 363 kepala lagu: Buku Logu 141 (tertulis jelas, sebelumnya kosong). Not dan lirik cocok."
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

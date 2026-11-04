@@ -1,0 +1,62 @@
+{
+ "be": 4,
+ "variant": "",
+ "bl": 148,
+ "title": "Sekarang b'ri syukur",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Choral Buch 156, Johann Cruger 1647",
+ "pages": [
+  6
+ ],
+ "cat": "Puji-pujian dan Penyembahan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Martin Rinckart 1636 (1586-1649)",
+  "Lagu: Johan Cruger 1647 (1598-1662)",
+  "Terj. Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5 | 5 5 6 6 | 5 . . 3 | 4 3 2 3 | 2 . 1 :|",
+   "rows": [
+    "Se-ka-rang b'ri syu-kur ke-pa-da Tu-han Al-lah",
+    "Ra-ja dan Kha-lik-mu se-lu-ruh ja-gad ra-ya"
+   ]
+  },
+  {
+   "notes": "2 | 2 2 3 3 | 2 . . 2 | 3 5 5 #4 | 5 . . 5 | 6 5\n4 3 | 4 . . 3 | 2 3 2 2 | 1 . . |]",
+   "rows": [
+    "Roh tu-buh ji-wa-mu mu-lia-kan na-ma-Nya ber-kat-Nya ba-gi-mu ke-kal se-la-ma-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Sekarang b'ri syukur kepada Tuhan Allah",
+   "Raja dan Khalikmu seluruh jagad raya",
+   "Roh tubuh jiwamu muliakan namaNya berkatNya bagimu kekal selamanya"
+  ],
+  [
+   "Tuhan Allah memb'ri, anak-Nya Yesus Kristus",
+   "Kasih-Nya tak terp'ri, wujud-Nya dalam Kristus",
+   "Manusia ditebus, dengan darah kudus",
+   "Oleh-Nya kita pun, bersyukurlah terus"
+  ],
+  [
+   "B'ri hormat pujimu, muliakan nama Tuhan",
+   "Sang Bapa, putra-Nya, serta roh pengasihan",
+   "Allah maha besar, Tritunggal yang esa",
+   "Terpuji nama-Nya, kekal selamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

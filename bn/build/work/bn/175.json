@@ -1,0 +1,51 @@
+{
+ "be": 175,
+ "variant": "",
+ "bl": 53,
+ "title": "Kemana kau hai yang lelah",
+ "key": "Ab",
+ "meter": "3/4",
+ "credit": "Thomas Hastings, 1872",
+ "pages": [
+  217
+ ],
+ "cat": "Pengakuan dan Pengampunan Dosa",
+ "tempo": 100,
+ "credits": [
+  "Syair: Julius Karl Arndt 1863",
+  "Lagu: Thomas Hastings 1784-1872",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 3 . 2 | 1 . 5, | (6, 1) 6, | 5, . 5, | (6, 7,) 1 | (2+3 4)\n3 | 2 . 5, | 3 . 2 | 1 . 5, | 5 . 4 | 3 . 5, | (5, 6,)\n7, | (1+2 3) 2 | 1 . 5, | 1 . (2+3) | 1 . 5, | 1 . (2+3) |\n1 . |]",
+   "rows": [
+    "Ke-ma-na kau hai yg le-lah ka-re-na do-sa-mu Kau tia-da da-pat ba-ha-gia di ja-lan yg se-sat Kem-ba-li-lah de-ngan se-g'ra"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Kemana kau hai yg lelah karena dosamu Kau tiada dapat bahagia di jalan yg sesat Kembalilah dengan seg'ra"
+  ],
+  [
+   "Serahkan dukacitamu, kepada Tuhanmu",
+   "Serahkan juga dosamu, kepada Penebus",
+   "Kembalilah dengan seg'ra"
+  ],
+  [
+   "Dihiburkan-Nya hatimu, damailah jiwamu",
+   "Jikalau kau tetap tak mau, tetaplah dukamu",
+   "Kembalilah dengan seg'ra"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

@@ -1,0 +1,58 @@
+{
+ "be": 224,
+ "variant": "",
+ "bl": 232,
+ "title": "Sambut tanganku",
+ "key": "Ab",
+ "meter": "2/4",
+ "credit": "Hubert P. Main, 1925",
+ "pages": [
+  279
+ ],
+ "cat": "Pengakuan dan Kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: A.J Ramaker",
+  "Lagu: Hubert P Main 1839-1925",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5, #4,+5, | 6, .+5, | 5,+3 2+1 | 1 7, | 2 7,+1 | 2 3 | 5,/+.//+5,//\n7,/+.//+6,// | 5, . | 5, #4,+5, | 6, .+5, | 1+3 5+4 | 3 2 | 5 4+3 |\n6, 2 | 1+7, 3/+.//+2// | 1 . |]",
+   "rows": [
+    "Sam-but ta-ngan-ku tun-tun a-ku Tu-han a-ku tak mam-pu tan-pa Kau Tu-han Ber-sa-ma-Mu ku a-man dan sen-to-sa mes-ki-pun maut meng-ha-dang di de-pan"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Sambut tanganku tuntun aku Tuhan aku tak mampu tanpa Kau Tuhan BersamaMu ku aman dan sentosa meskipun maut menghadang di depan"
+  ],
+  [
+   "Pimpin tanganku, 'ku rindu pada-Mu; Biarlah aku dekat pada-Mu",
+   "Tanpa Engkau aku mudah tertipu; Menyimpang dari kebenaran-Mu"
+  ],
+  [
+   "Ajari aku agar 'ku melihat; Dan mengerti 'kan perbuatan-Mu",
+   "Hanya Roh Tuhan dapat menerangkan; Sungguh sempurna kebaikan-Mu"
+  ],
+  [
+   "Tolonglah aku di akhir hayatku; Melintas jurang kematian pun",
+   "Sinar wajah-Mu terangi jalanku; Membawa aku masuk rumah-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 279 baris 2 birama 10: '. 5̣' bergaris atas satu → 6, .+5, (sebelumnya ./ 5, = 2,5 ketuk)",
+  "Koreksi dari gambar halaman: hal. 279 baris 2: 'Ber sa ma Mu ku a man' → Ber-sa-ma-Mu ku (Bersama-Mu 'ku aman); teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

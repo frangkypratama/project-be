@@ -1,0 +1,57 @@
+{
+ "be": 672,
+ "variant": "",
+ "bl": null,
+ "title": "Sungguh banyak kerja",
+ "key": "C",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  842
+ ],
+ "cat": "Pekabaran Injil",
+ "tempo": 100,
+ "credits": [
+  "Syair: NN",
+  "Lagu: NN",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3+4 | 5 5/+.//+5// 5 3+5 | 6 6/+.//+6// 6 6+6 | 5 1'/+.//+1'// 1'\n7 1' | 2' . . 1'+2' | 3' 3'/+.//+2'// 1' 1'+7 | 6 6/+.//+1'// 5 5+5 |\n6+1' 1'+2' 3' 2'/+.//+2'// | 1' . . | 1'+2' | 3' 5/+.//+5// 5 1'+7 |\n6 6+1' 5 5+5 | 1' 1'/+.//+1'// 1' 7+1' | 2' . . 1'+2' | 3' 3'/+.//+2'//\n1' 1'+7 | 6 6/+.//+1'// 5 5+5 | 6+7 1'+2' 3' 2'/+.//+2'// | 1' . . |]",
+   "rows": [
+    "Sung-guh ba-nyak ker-ja dan ke-wa-ji-ban-mu da-lam tu-gas pe-la-ya-nan-mu Gi-at-lah be-ker-ja ja-di-kan di-ri-mu su-ri dan te-la-dan je-ma-at-mu Se-rah-kan hi-dup-mu tu-nai-kan tu-gas-mu tan-pa pam-rih de-mi Tu-han-mu Tu-han Al-lah mem-b'ri ber-kat dan rah-mat-Nya da-lam se-lu-ruh pe-la-ya-nan-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Sungguh banyak kerja dan kewajibanmu dalam tugas pelayananmu Giatlah bekerja jadikan dirimu suri dan teladan jemaatmu Serahkan hidupmu tunaikan tugasmu tanpa pamrih demi Tuhanmu Tuhan Allah memb'ri berkat dan rahmatNya dalam seluruh pelayananmu"
+  ],
+  [
+   "Dengan lemah lembut Tuhan memanggilmu, Sambutlah dengan rasa syukur",
+   "Dan hayati s'lalu tugas panggilanmu, Bawa orang lain pada Tuhanmu",
+   "Serahkan hidupmu, tunaikan tugasmu, Tanpa pamrih demi Tuhanmu",
+   "Tuhan Allah memb'ri berkat dan rahmatNya, Dalam seluruh pelayananmu"
+  ],
+  [
+   "Bawalah terangmu ke dunia kelam, Firman hidup t'rang kes'lamatan",
+   "Memb'ri pertolongan juga penghiburan, Bagi orang lapar dan sengsara",
+   "Serahkan hidupmu, tunaikan tugasmu, Tanpa pamrih demi Tuhanmu",
+   "Tuhan Allah memb'ri berkat dan rahmatNya, Dalam seluruh pelayananmu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 842: pemisahan kata ayat 1: 'ke-wa-ji-ban-mu', 'di-ri-mu su-ri (dan teladan)'",
+  "Koreksi dari gambar halaman: BIARKAN: birama 4 (akhir baris 1 + awal baris 2 '5 1'.1' 1' | 7 1'') = 5 ketuk karena di buku '7 1'' di awal baris 2 TIDAK bergaris atas; birama sejajar di reff baris 4 ('1' 1'.1' 1' 7 1'') bergaris atas → kemungkinan salah cetak buku, tidak dikoreksi"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

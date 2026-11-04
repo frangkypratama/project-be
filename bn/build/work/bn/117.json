@@ -1,0 +1,77 @@
+{
+ "be": 117,
+ "variant": "",
+ "bl": 205,
+ "title": "Tuhan yang Mahakuasa Dialah",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Martin Luther, 1528",
+ "pages": [
+  143
+ ],
+ "cat": "A. Gereja",
+ "tempo": 104,
+ "credits": [
+  "Syair: Martin Luther 1528 (1483-1546)",
+  "Lagu: Martin Luther 1528 (1483-1546)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1'/ | 1' 1' (5+6) 7 | (1'+7) 6 5 .+1' | 7 6 5 6 | (4+3 2)\n1 ./ :|",
+   "rows": [
+    "Tu-han yg ma-ha-ku-a-sa Di-a-lah ben-teng ki-ta",
+    "Se-mu-a mu-suh u-mat-Nya 'kan ka-lah tak ber-da-ya"
+   ]
+  },
+  {
+   "notes": "1/ | 3 6 5 #4 | 5 .+1 5 5 | 6 7 1' .+7 | 1' 7\n6 6 | 5 .+6 6 5 | 6 4 3 .+1' | 7 6 5 6 | (4+3 2) 1 ./ |]",
+   "rows": [
+    "Si i-blis pe-nye-sat yg li-cik dan ke-jam meng-go-da ma-nu-sia su-pa-ya bi-na-sa tia-da yg meng-hen-ti-kan"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhan yg mahakuasa Dialah benteng kita",
+   "Semua musuh umatNya 'kan kalah tak berdaya",
+   "Si iblis penyesat yg licik dan kejam menggoda manusia supaya binasa tiada yg menghentikan"
+  ],
+  [
+   "Kekuatan kita yang fana tak sanggup melawannya",
+   "Pemimpin kita Yesuslah, yang diurapi Allah",
+   "Siapakah Dia? Itulah Putra-Nya",
+   "Sang Kristus Penebus, pahlawan yang kudus",
+   "Dia tetap berjaya"
+  ],
+  [
+   "Walaupun setan di dunia, penuh tiada terkira",
+   "Janganlah takut dan gentar, kita tak 'kan binasa",
+   "Penghulu dunia, walaupun menyerang",
+   "Mustahil 'kan menang, kuasanya 'kan lenyap",
+   "Karena firman Allah"
+  ],
+  [
+   "Kuasa firman Tuhanku, tak mungkin digoyangkan",
+   "Bersama dengan Roh Kudus, umat-Mu 'kan berjaya",
+   "Meskipun hartamu ataupun nyawamu",
+   "Dirampas seteru, kita tetap menang",
+   "Kerajaan-Nya baka"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 143 baris 3 akhir: buku mencetak 'kan' dua kali (yang kedua di bawah titik tahan, bukan not) → satu 'kan'; kata disatukan 'meng-hen-ti-kan'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": [
+  "dua suku kata di satu not: kan + kan"
+ ]
+}

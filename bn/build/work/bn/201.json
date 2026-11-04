@@ -1,0 +1,62 @@
+{
+ "be": 201,
+ "variant": "",
+ "bl": 168,
+ "title": "'Ku memakai tongkat mas",
+ "key": "C",
+ "meter": "3/4",
+ "credit": "Johannes Baptist Berger, 1888",
+ "pages": [
+  251
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Johannes Baptist Berger 1888",
+  "Lagu: Lagu rakyat Jerman",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5+5 | 1' 1' 3'+1' | 5 . 3+5 | 4 (4+3) 4+5 | 3 . :|",
+   "rows": [
+    "'Ku me-ma-kai tong-kat mas da-lam per-ja-la-nan jauh",
+    "Da-ri sur-ga da-tang-nya sur-ga-lah tu-ju-an-ku"
+   ]
+  },
+  {
+   "notes": "5+4 | 3 3 3+4 | (6+5) 5 5+4 | 3 3 3+4 | (6+5) 5 5+5 |\n1' 1' 3'+1' | 5 . 3+5 | 4 (4+3) 4+5 | 3 . |]",
+   "rows": [
+    "I-tu i-man per-ca-ya-ku mem-bang-kit-kan se-ma-ngat-ku me-man-tap-kan lang-kah-ku sam-pai ru-mah Tu-han-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "'Ku memakai tongkat mas dalam perjalanan jauh",
+   "Dari surga datangnya surgalah tujuanku",
+   "Itu iman percayaku membangkitkan semangatku memantapkan langkahku sampai rumah Tuhanku"
+  ],
+  [
+   "Dari Surga turun-Nya yang diutus Tuhanku",
+   "Di hatiku tinggal-Nya dan menjadi panduku",
+   "Itulah kasih sayang-Nya, sungguh mulia anug'rah-Nya",
+   "Diberikan padaku untuk kes'lamatanku"
+  ],
+  [
+   "Ada sinar yang terang diam dalam hatiku",
+   "Satu bintang cemerlang yang menghibur hatiku",
+   "Itulah pengharapanku, rahmat Tuhan kepadaku",
+   "Menerangi jalanku masuk ke rumah Bapaku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

@@ -1,0 +1,50 @@
+{
+ "be": 496,
+ "variant": "",
+ "bl": 337,
+ "title": "Sion tempat perhentian",
+ "key": "Eb",
+ "meter": "6/8",
+ "credit": "Rudolf Kogel, 1896",
+ "pages": [
+  624
+ ],
+ "cat": "Pemeliharaan Tuhan",
+ "tempo": 104,
+ "credits": [
+  "Syair: Rudolf Kogel 1829-1896",
+  "Lagu: 1708",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5 .+4 3 5 4 2 | 3 . 1 . 2 1 | 4 . 3 . 2 1 | 2 . . . . . |\n5 .+4 3 5 6 5 | (5 4) 3 . 2 1 | 5 4 3 . 2 . | 1 . . . . . |]",
+   "rows": [
+    "Si-on tem-pat per-hen-ti-an sir-na ra-sa ce-mas-mu Tu-han Ye-sus t'lah ber-sab-da da-mai da-mai ba-gi-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Sion tempat perhentian sirna rasa cemasmu Tuhan Yesus t'lah bersabda damai damai bagimu"
+  ],
+  [
+   "Dan tenangkan pikiranmu, telah datang Rajamu",
+   "Hanya yang terus menunggu dengan Yesus bertemu"
+  ],
+  [
+   "Masa lalu kau tinggalkan, songsong masa depanmu",
+   "Apapun yang kau inginkan, mohon pada Tuhanmu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [],
+ "status": "",
+ "ref": "E.P.No. 564",
+ "vl_direct": {},
+ "warn": []
+}

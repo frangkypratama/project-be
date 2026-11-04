@@ -1,0 +1,28 @@
+{
+ "verses": [
+  [
+   "Pabila ada waktu jumpa adalah waktu perpisahan",
+   "Hati sedih saat berpisah dari persekutuan kita",
+   "Tuhanlah yg beserta kita Sampai kelak kita berjumpa"
+  ],
+  [
+   "Yesuslah yang mempersatukan kita yang akrab bersahabat",
+   "Jauh dekat pun kita tinggal, kita 'kan saling mendoakan",
+   "Tuhanlah yang beserta kita, Sampai kelak kita berjumpa"
+  ],
+  [
+   "Bila kau rindukan sahabat serta teman persekutuan",
+   "Sebutkanlah dalam syafaat semua teman yg kau rindukan",
+   "Tuhanlah yg beserta kita Sampai kelak kita berjumpa"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "note": [
+  "hal. 1015: halaman kedua berlabel 'Ayat 1' (salah label) tetapi berisi lirik lain di bawah not ('Bila kau rindukan sahabat ...') → ditambahkan sebagai ayat 3 (teks saja). Not baris ke-4 di hal. 1015 (0 5 1' 2'3' | 3' . . 2'1 | 2' . . 1'6 | ...) berbeda dari hal. 1014 (0 3 5 6 5 | ...), tidak dimodelkan.",
+  "ayat 1 dipecah 3 baris spt ayat 2"
+ ]
+}

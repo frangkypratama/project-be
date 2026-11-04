@@ -1,0 +1,59 @@
+{
+ "be": 732,
+ "variant": "",
+ "bl": null,
+ "title": "Di dalam suka atau pun duka",
+ "key": "F",
+ "meter": "6/8",
+ "credit": "",
+ "pages": [
+  918
+ ],
+ "cat": "Pergumulan dan Penderitaan",
+ "tempo": 86,
+ "credits": [
+  "Syair: In dir ist Freude; Cyriakus Schneegass, 1546-1598",
+  "Lagu: Giovanni Giacomo Gastoldi, 1591",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "5 5 4 | 3 . 1 5 5 4 | 3 . 1 5 . 4 | (3 .+2) 1\n2 . 2 | 1 . . :|",
+   "rows": [
+    "Di da-lam su-ka a-tau-pun du-ka Ye-sus Kris-tus so-bat-ku",
+    "Ku di-ku-at-kan dan di-te-guh-kan di-hi-bur-kan ji-wa-ku"
+   ]
+  },
+  {
+   "notes": "3 4 5 | 6 . 4 6 b7 5 | 6 . 4\n5 3 4 | 5 . 5 4 2 3 | 4 . 4 4 4 3 | (2 .+1) 7, 1 1\n7, | 1 . 0 :|",
+   "rows": [
+    "To-long-lah a-ku ya Tu-han Ye-sus Kau ha-ra-pan-ku sum-ber ku-at-ku dan ba-ha-gia-ku Hal-le-lu-yah",
+    "Da-lam hi-dup-ku sa-at a-jal-ku Kau-lah Tu-han-ku da-lam rah-mat-Mu kau pe-lin-dung-ku Hal-le-lu-yah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Di dalam suka ataupun duka Yesus Kristus sobatku",
+   "Ku dikuatkan dan diteguhkan dihiburkan jiwaku",
+   "Tolonglah aku ya Tuhan Yesus Kau harapanku sumber kuatku dan bahagiaku Halleluyah",
+   "Dalam hidupku saat ajalku Kaulah Tuhanku dalam rahmatMu kau pelindungku Halleluyah"
+  ],
+  [
+   "Bila hidupku dalam naunganMu, 'ku tak takut seteru",
+   "Pergumulanku oleh Tuhanku jadi sukacitaku",
+   "Karena itu 'ku memujiMu, namaMu Yesus",
+   "Jurus'lamatku, 'ku menyanyikan Haleluya",
+   "Bawalah aku ya, Tuhan Yesus ke tujuanku",
+   "Rumah Allahku, Surga bahagia. Haleluya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

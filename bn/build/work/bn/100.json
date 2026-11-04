@@ -1,0 +1,79 @@
+{
+ "be": 100,
+ "variant": "",
+ "bl": 155,
+ "title": "Waktu Yesus ke surga",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Johann Cruger, 1648",
+ "pages": [
+  122
+ ],
+ "cat": "Kenaikan Tuhan Yesus",
+ "tempo": 100,
+ "credits": [
+  "Syair: Paul Gerhardt 1653 (1607-1676)",
+  "Lagu: Johann Cruger 1648 (1598-1662)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 . | 1 . 5 . | 4 3 2 . | 1 . 3 . | 2 1 7, 1 | 2 . :|",
+   "rows": [
+    "Wak-tu Ye-sus ke sur-ga ke sing-ga-sa-na-Nya",
+    "Ma-lai-kat dan mu-rid-Nya ber-so-rak ba-gi-Nya"
+   ]
+  },
+  {
+   "notes": "0 2 | (3/+.//+#4//) 5 5 #4 | 5 . 0 5 | 2 1 2 3 | 4 . 3 3 |\n(4/+.//+5//) 6 5 4 | 3 . 2 . | 0 2 4 4 | 3 . 2 . | 1 . |]",
+   "rows": [
+    "Dan ki-ta i-kut-lah me-mu-lia-kan na-ma-Nya me-mu-ji Tu-han Al-lah ber-so-rak so-rai-lah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Waktu Yesus ke surga ke singgasanaNya",
+   "Malaikat dan muridNya bersorak bagiNya",
+   "Dan kita ikutlah memuliakan namaNya memuji Tuhan Allah bersorak sorailah"
+  ],
+  [
+   "Yesus naik ke Surga, di sana tahta-Nya",
+   "Bersama Allah Bapa, diseb'lah kanan-Nya",
+   "Dipuji, disembah semua penghuni Surga",
+   "Tuhan menang berjaya, Sang Raja yang kekal"
+  ],
+  [
+   "Renungkanlah maknanya Yesus naik ke Surga",
+   "Kita pun ikut juga ke Surga yang baka",
+   "Hayati firman-Nya, rencana s'lamat Allah",
+   "Bagi umat manusia t'lah digenapi-Nya"
+  ],
+  [
+   "Nyawa-Nya diserahkan menebus manusia",
+   "Jalan t'lah disediakan ke Surga yang baka",
+   "Kita dibimbing-Nya ke sisi Allah Bapa",
+   "Di sana kita jumpa, di Surga s'lamanya"
+  ],
+  [
+   "Ya Yesus Tuhan kami, berilah kasih-Mu",
+   "Ampuni dosa kami, berkati umat-Mu",
+   "Dan perkenankanlah kami masuk rumah-Mu",
+   "Di Surga selamanya kami memuji-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 122 baris 1: 'ke sur ga ke sing ga sa na Nya' = kata depan terpisah → 'ke sur-ga ke sing-ga-sa-na-Nya'"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

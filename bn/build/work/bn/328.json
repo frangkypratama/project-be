@@ -1,0 +1,70 @@
+{
+ "be": 328,
+ "variant": "",
+ "bl": 66,
+ "title": "Minggu hampir berlalu",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Johann Abraham Peter Schalz, 1790",
+ "pages": [
+  406
+ ],
+ "cat": "Nyanyian Malam Hari",
+ "tempo": 104,
+ "credits": [
+  "Syair: Matthias Claudius 1779 (1740-1815)",
+  "Lagu: Johann Abraham Peter Schulz 1790 (1747-1800)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 2 1 4 3 | 2 . 1 3 | 3 3 6 5 | 4 . 3 3 | 3 3 4\n3 | 2 . . 1 | 2 1 4 3 | 2 . 1 3 | 3 3 6 2 | 4 . 3\n3 | 3 3 4 3 | 2 2 1 |]",
+   "rows": [
+    "Ming-gu ham-pir ber-la-lu pu-as le-pas rin-du-ku pa-da-Mu Tu-han-ku Su-dah Eng-kau a-jar-kan ji-wa-ku Kau ke-nyang-kan de-ngan Fir-man-Mu yg ku-dus"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Minggu hampir berlalu puas lepas rinduku padaMu Tuhanku Sudah Engkau ajarkan jiwaku Kau kenyangkan dengan FirmanMu yg kudus"
+  ],
+  [
+   "Kini Engkau berdiam, di hatiku ya Tuhan",
+   "Jiwaku pun tent'ram",
+   "Kau ampuni dosaku, senanglah aku tidur",
+   "Berselimutkan kasihMu"
+  ],
+  [
+   "Yang sakit dalam kalbu, sudah sembuh Tuhanku",
+   "'Ku jadi baitMu",
+   "Semua kegelapan, sudah Engkau singkirkan",
+   "Bersukacita hatiku"
+  ],
+  [
+   "Engkau yang melindungi, dan juga menyinari",
+   "Hidupku yang kelam",
+   "Sampai datangnya hari, yang tak berakhir lagi",
+   "Di dunia baru yang kekal"
+  ],
+  [
+   "Sungguh tent'ram jiwaku, 'ku sadar malaikatMu",
+   "Menjaga diriku",
+   "Hatiku pun memandang, ke rumahMu ya Tuhan",
+   "'Ku rindu di sana seg'ra"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 406 lirik ayat 1: \"puas\" dan \"kenyangkan\" disatukan. Not diperiksa: birama \"3 3 6 2\" (baris 2) memang 2 di buku (beda dgn Buku Ende tidak dikoreksi)"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

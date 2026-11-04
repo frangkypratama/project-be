@@ -1,0 +1,37 @@
+{
+ "be": 842,
+ "variant": "",
+ "bl": null,
+ "title": "Amin [1]",
+ "key": "Ab",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  1057
+ ],
+ "cat": "Nyanyian Liturgi",
+ "tempo": 53,
+ "credits": [
+  "Musik: Sigismund Neukomm"
+ ],
+ "sections": [
+  {
+   "notes": "(1 | 2 3 4 3 | 2) . 1 . | (4 . 2) . | 1 . . . |]",
+   "rows": [
+    "A-min A-min"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Amin Amin"
+  ]
+ ],
+ "vnum": [
+  1
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

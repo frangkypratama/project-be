@@ -1,0 +1,63 @@
+{
+ "be": 21,
+ "variant": "",
+ "bl": 72,
+ "title": "Dengarkanlah olehmu",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "Peter Rinter, 1636",
+ "pages": [
+  28
+ ],
+ "cat": "Hari Minggu",
+ "tempo": 100,
+ "credits": [
+  "Syair:",
+  "Lagu: Peter Ritter 1686",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 . 1 | (1 7,) 1 | (2 3) 2 | 1 . 0 | 3 . 3 | (3 2)\n3 | (5 4) 3 | 3 2 0 :|",
+   "rows": [
+    "De-ngar-kan-lah o-leh-mu hai se-mu-a yg ber-du-ka",
+    "Ye-sus ma-ti ba-gi-mu do-sa-mu t'lah di-ha-pus-Nya"
+   ]
+  },
+  {
+   "notes": "2 . 3 | (4 3) 2 | 3 . 4 |\n5 . 0 | 6 . 6 | (5 4) 3 | (4 3) 2 | 1 . 0 |]",
+   "rows": [
+    "O-leh rah-mat Al-lah-mu da-lam Ye-sus Pu-t'ra-Nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Dengarkanlah olehmu hai semua yg berduka",
+   "Yesus mati bagimu dosamu t'lah dihapusNya",
+   "Oleh rahmat Allahmu dalam Yesus Put'raNya"
+  ],
+  [
+   "Yesus Kristus, Dialah Jurus'lamat bagi dunia",
+   "Dia tinggalkan takhta-Nya dan menjadi manusia",
+   "Dicurahkan darah-Nya, tebus dosa umat-Nya"
+  ],
+  [
+   "Dengarkan hai yang resah, dengarkanlah janji Allah",
+   "Tak 'kan ada yang sesat, semua orang yang percaya",
+   "Pada Yesus Penebus, Jurus'lamat manusia"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 28: Buku Logu tertulis 72 (data kosong) → bl 72"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,74 @@
+{
+ "be": 412,
+ "variant": "",
+ "bl": 387,
+ "title": "Lihat jauh di bukit",
+ "key": "Bb",
+ "meter": "6/8",
+ "credit": "Rev. George Bennard, 1958",
+ "pages": [
+  524,
+  525
+ ],
+ "cat": "Sengasara Yesus dan Jumat Agung",
+ "tempo": 55,
+ "credits": [
+  "Syair: Rev. George Bennard 1873-1958",
+  "Lagu: Rev. George Bennard 1873-1958",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3 .+4 | 5 .+#4 6 5 5 .+5 | 6 .+#5 7 6 . 6 | 7 .+6\n5 4 5 4 | 3 . . . . 3+4 | 5 .+#4 6 5 . 5+5 | 6 .+#5\n7 6 . 6+6 | 7 .+6 5 4' 3' 2' | 1' . . . . | 7+1' | 2' .+2'\n2' 2' 1' 7 | 1' . . . . 1'+7 | 6 .+6 6 1' 7 6 | 5 . . . .\n5+1' | 3' .+3' 3' 3' 4' 3' | 6 . . . . 4'+4' | 3' .+2' 1' 5 7\n2' | 1' . . . |]",
+   "rows": [
+    "Li-hat jauh di bu-kit a-da sa-lib Tu-han ber-lu-mur da-rah dan pe-luh Ye-sus di-sa-lib-kan un-tuk ke-sem-bu-han du-ka dan de-ri-ta ha-ti-mu A-ku sung-guh cin-ta sa-lib-Nya Sa-lib Tu-han-ku di Gol-go-ta Ku de-kat-kan di-ri pa-da-Nya sam-pai nan-ti a-ku di sur-ga"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Lihat jauh di bukit ada salib Tuhan berlumur darah dan peluh Yesus disalibkan untuk kesembuhan duka dan derita hatimu Aku sungguh cinta salibNya Salib Tuhanku di Golgota Ku dekatkan diri padaNya sampai nanti aku di surga"
+  ],
+  [
+   "Salib-Nya ditolak, dikecam, dihina, bagiku ajaib mulia",
+   "Walau banyak dosa ditebus oleh-Nya, dengan tercurahnya darah-Nya",
+   "Aku sungguh cinta salib-Nya, salib Tuhanku di Golgota",
+   "'Ku dekatkan diri pada-Nya, sampai nanti aku di Surga"
+  ],
+  [
+   "Dari salib itu mengalir darahNya menghapus dosaku semua Sungguh deritaNya tiada taranya jadi keselamatan dunia Aku sungguh cinta salibNya Salib Tuhanku di Golgota Ku dekatkan diri padaNya sampai nanti aku di surga"
+  ],
+  [
+   "Walau 'ku dihina, 'ku mengikut Dia, Selama hidup di dunia",
+   "Kelak 'ku terima mahkota dari-Nya, Dengan Yesus 'ku bahagia",
+   "Aku sungguh cinta salib-Nya, Salib Tuhanku di Golgota",
+   "'Ku dekatkan diri pada-Nya, Sampai nanti aku di Surga"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 524/525 Reff: 'A ku-sung-guh' -> 'A-ku sung-guh', 'Gol-go-ta-Ku de-kat-kan' -> 'Gol-go-ta Ku de-kat-kan' (ayat 1 dan ayat 3 bernot)"
+ ],
+ "status": "",
+ "ref": "Z.L.No. 10",
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "Da-ri sa-lib i-tu me-nga-lir da-rah-Nya meng-ha-pus do-sa-ku se-mua Sung-guh de-ri-ta-Nya ti-a-da ta-ra-nya ja-di ke-se-la-ma-tan du-nia A-ku sung-guh cin-ta sa-lib-Nya Sa-lib Tu-han-ku di Gol-go-ta Ku de-kat-kan di-ri pa-da-Nya sam-pai nan-ti a-ku di sur-ga"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 525)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

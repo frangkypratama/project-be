@@ -1,0 +1,76 @@
+{
+ "bl": 192,
+ "sections": [
+  {
+   "notes": "5, | 1 2 3 1 | 5 5 3 1 | 0 3 2 5 | 3 6 5 #4 |\n5 . . :|",
+   "rows": [
+    "Se-ta-hun ki-ni t'lah ber-la-lu ma-kin de-kat-lah a-jal-ku",
+    "'Ku me-re-nung-kan ma-sa la-lu dan se-mua per-bu-a-tan-ku"
+   ]
+  },
+  {
+   "notes": "2 | 2 2 7, 5, | 1 2 3 1 | 0 3 2 3 | 1\n7, 6, 6, | 5, . . 5, | 1 2 3 1 | 5 5 3 1 | 0 5 1 4 |\n7, (1+2) 3 2 | 1 . . |]",
+   "rows": [
+    "I-man dan ka-sih-ku pa-da-Mu tak me-nye-nang-kan ha-ti-Mu ka-sih-ku pa-da se-sa-ma-ku ten-tu me-nge-ce-wa-kan-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Setahun kini t'lah berlalu makin dekatlah ajalku",
+   "'Ku merenungkan masa lalu dan semua perbuatanku",
+   "Iman dan kasihku padaMu tak menyenangkan hatiMu kasihku pada sesamaku tentu mengecewakanMu"
+  ],
+  [
+   "'Ku tak 'kan mampu memberikan, tanggung jawabku pada-Mu",
+   "Mengingat semua p'langgaranku terhadap Hukum Taurat-Mu",
+   "Tanganku melakukan dosa, jiwa, hatiku tercela",
+   "Dan kaki, mata, serta lidah, berbuat dosa semuanya"
+  ],
+  [
+   "Andai 'ku mati saat ini, kemana jiwaku pergi?",
+   "Ke Surga kota yang abadi, tempat bahagia sejati?",
+   "Aku memuji-Mu ya Tuhan, atas kasih anug'rah-Mu",
+   "Ataukah 'ku masuk neraka, menahan siksa murka-Mu?"
+  ],
+  [
+   "Berapa banyak pelanggaran yg kulakukan padaMu?",
+   "Dan tak terhitung banyak berkat kasihMu Yesus padaku",
+   "Tuhan tak membalaskan dosa setimpal pelanggaranku Malahan Tuhan memeafkan segala aib dan dosaku"
+  ],
+  [
+   "Sekarang ini Kau 'ku puji atas rahmat-Mu padaku",
+   "Jikalau aku Kau adili, tak patut 'ku Kau ampuni",
+   "Ya Yesus, Engkau maha kasih, terimalah pujianku",
+   "Atas besarnya cinta kasih yang Kau berikan padaku"
+  ],
+  [
+   "'Ku mohon pada-Mu ya Tuhan, penyertaan-Mu padaku",
+   "Dan tuntun aku masuk Surga di kala tiba ajalku",
+   "Firman-Mu akan 'ku taati, selama hidup yang Kau b'ri",
+   "Akan 'ku siarkan Injil-Mu dengan segala kuatku"
+  ]
+ ],
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Be-ra-pa ba-nyak pe-lang-ga-ran yg ku-la-ku-kan pa-da-Mu?",
+     "Dan tak ter-hi-tung ba-nyak ber-kat ka-sih-Mu Ye-sus pa-da-ku"
+    ],
+    [
+     "Tu-han tak mem-ba-las-kan do-sa se-tim-pal pe-lang-ga-ran-ku Ma-la-han Tu-han me-me-af-kan se-ga-la aib dan do-sa-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 80)"
+   ]
+  }
+ },
+ "note": [
+  "hal. 79/80 kepala lagu: 'Buku Logu: 192' (data kosong) → bl 192",
+  "hal. 79 baris 4: lirik 'me nge ce wa kan Mu' = 'mengecewakan-Mu' (pemisahan kata, juga teks ayat 1)",
+  "hal. 80 ayat 4 (lirik di bawah not): pemisahan kata 'pe lang ga ran', 'mem ba las kan', 'se tim pal', 'Ma la han', 'me me af kan' disatukan per kata (vl_direct dan teks ayat 4)"
+ ]
+}

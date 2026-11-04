@@ -1,0 +1,98 @@
+{
+ "be": 167,
+ "variant": "",
+ "bl": 108,
+ "title": "Yesus menyambut tiap orang",
+ "key": "Bb",
+ "meter": "3/4",
+ "credit": "George Neumark, 1641",
+ "pages": [
+  202,
+  203
+ ],
+ "cat": "Pengakuan dan Pengampunan Dosa",
+ "tempo": 92,
+ "credits": [
+  "Syair: Georg Neumark 1641 (1621-1681)",
+  "Lagu: Georg Neumark 1641 (1621-1681)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3 6 7 | 1' . 7 | 6 . 7 | #5 3 0 | 5 5 4 | 3 .\n6 | 6 . #5 | 6 . . :|",
+   "rows": [
+    "Ye-sus me-nyam-but ti-ap o-rang yg me-nye-sa-li do-sa-nya",
+    "Yg me-ning-gal-kan ke-ja-ha-tan dan mau ber-to-bat pa-da-Nya"
+   ]
+  },
+  {
+   "notes": "7 1' 2' | 3' . 3' | 2' . 2' |\n1' . . | 1' 7 6 | #5 . 6 | 6 . #5 | 6 . . |]",
+   "rows": [
+    "Ser-ta per-ca-ya Fir-man-Nya Ye-sus me-ne-bus do-sa-nya"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yesus menyambut tiap orang yg menyesali dosanya",
+   "Yg meninggalkan kejahatan dan mau bertobat padaNya",
+   "Serta percaya FirmanNya Yesus menebus dosanya"
+  ],
+  [
+   "Orang yang menyesali dosa dan semua kesalahannya",
+   "Yang sungguh-sungguh mau bertobat dan meninggalkan dosanya",
+   "Dia disambut Tuhannya, Yesus menyelamatkannya"
+  ],
+  [
+   "Ditinggalkan-Nya tahta Surga menebus umat manusia",
+   "Namanya patut dimuliakan oleh semua umat-Nya",
+   "Dosa umat-Nya ditebus, Yesus Tuhanku Penebus"
+  ],
+  [
+   "Yesus menanggung kematian disalibkan di Golgota",
+   "Di situ kita didamaikan kepada Allah BapaNya",
+   "Orang yg datang padaNya berbahagia s'lamanya"
+  ],
+  [
+   "Datanglah hai orang berduka, dengarkanlah panggilan-Nya",
+   "Hayati kabar kesukaan, berita Injil firman-Nya",
+   "Yesus menghapus dosamu, membawa kes'lamatanmu"
+  ],
+  [
+   "Sucikan hati kami Tuhan, tolong dan kasihanilah",
+   "Bawalah kami kemudian kepada Bapa di Surga",
+   "Di sana kami umat-Mu kekal memuji nama-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 202/203: kepala lagu 'Buku Logu: 108' → bl=108 (sebelumnya kosong)"
+ ],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Ye-sus me-nang-gung ke-ma-ti-an di-sa-lib-kan di Gol-go-ta",
+     "Di si-tu ki-ta di-da-mai-kan ke-pa-da Al-lah Ba-pa-Nya"
+    ],
+    [
+     "O-rang yg da-tang pa-da-Nya ber-ba-ha-gi-a s'la-ma-nya"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 203)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

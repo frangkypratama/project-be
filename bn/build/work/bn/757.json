@@ -1,0 +1,71 @@
+{
+ "be": 757,
+ "variant": "",
+ "bl": null,
+ "title": "Siapa yang mau berbahagia",
+ "key": "Bb",
+ "meter": "4/4",
+ "credit": "",
+ "pages": [
+  955
+ ],
+ "cat": "Penghiburan dan Pertolongan Tuhan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Fried lied; N.N",
+  "Lagu: NN",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5+5 | 1' 1' 5 5 | (3 5+3) 1 1'+1' | 2' 3' 2' 3' | (2'+5' #4'+3') 2'\n1'+1' | 7 .+1' 2' .+2' | 5 . 0",
+   "rows": [
+    "Sia-pa yg mau ber-ba-ha-gia sia-pa yg mau di-mu-lia-kan yg ma-u di-mu-lia-kan"
+   ]
+  },
+  {
+   "notes": "5+5 | 4' .+2' 3' .+1' |\n(3' .+2') 2' :|",
+   "rows": [
+    "Mu-li-a-kan Tu-han Al-lah"
+   ]
+  },
+  {
+   "notes": "5+5 | 1' 1' 2' 2' | (5' .+3' 1') 1'+7 | (6+4' 3')+2'\n3' 2' | 1' . 0 |]",
+   "rows": [
+    "A-gar sung-guh mu-li-a a-gar sung-guh mu-li-a"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Siapa yg mau berbahagia siapa yg mau dimuliakan yg mau dimuliakan",
+   "Muliakan Tuhan Allah",
+   "Agar sungguh mulia agar sungguh mulia"
+  ],
+  [
+   "Siapa yang mau kaya raya?",
+   "Siapa yang hendak senang?",
+   "Siapa yang hendak senang?",
+   "Berimanlah pada Allah. Berimanlah pada Allah",
+   "Berimanlah pada Allah. Berimanlah pada Allah",
+   "Agar sungguh kau senang, agar sungguh kau senang"
+  ],
+  [
+   "Siapa yang mau masuk Surga?",
+   "Siapa mau hidup bahagia",
+   "Hidup damai dan kekal",
+   "Berimanlah pada Allah. Berimanlah pada Allah",
+   "Berimanlah pada Allah. Berimanlah pada Allah",
+   "Dalam Yesus Penebus, dalam Yesus Penebus"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

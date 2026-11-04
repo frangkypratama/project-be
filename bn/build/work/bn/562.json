@@ -1,0 +1,44 @@
+{
+ "be": 562,
+ "variant": "",
+ "bl": null,
+ "title": "Semua suku bangsa",
+ "key": "Ab",
+ "meter": "3/4",
+ "credit": "Psalm 117",
+ "pages": [
+  702
+ ],
+ "cat": "Puji-pujian dan Penyembahan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Laudate Omnes Genies",
+  "Musik Talze Jaques Berthier",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "0+3 | 3 .+3 4+3 | 2 1 0+1 | 1 .+2 3+4 | 2 . 0+3 |\n3 .+3 4+3 | 2 1 0+3 | 2 .+1 1+7, | 1 . |]",
+   "rows": [
+    "Se-mu-a su-ku bang-sa mu-lia-kan Tu-han-mu Se-mu-a su-ku bang-sa a-gung-kan Tu-han-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Semua suku bangsa muliakan Tuhanmu Semua suku bangsa agungkan Tuhanmu"
+  ],
+  [
+   "Besar kasih setiaNya kepada umatNya",
+   "Serta kemurahanNya kekal selamanya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

@@ -1,0 +1,98 @@
+{
+ "be": 284,
+ "variant": "",
+ "bl": 204,
+ "title": "Tenteram hatiku",
+ "key": "Bb",
+ "meter": "4/4",
+ "credit": "Johann Cruger, 1653",
+ "pages": [
+  354,
+  355
+ ],
+ "cat": "Penghiburan",
+ "tempo": 92,
+ "credits": [
+  "Syair: Johann Kaspar Schade 1666-1698",
+  "Lagu: Johann Cruger 1653 (1598-1662)",
+  "Terj.Ind.: Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "6 6 5 4 | 3 . 2 . | 6 7 1' 6 | 2' . #1' . | 2' 4' 3'\n3' | 2' . . . :|",
+   "rows": [
+    "Ten-te-ram ha-ti-ku a-ku tau Tu-han-ku sum-ber hi-dup-ku",
+    "A-pa yg di-b'ri-Nya s'la-lu ku te-ri-ma di da-lam i-man"
+   ]
+  },
+  {
+   "notes": "6 6 b7 6 | 5 5 4 . | 6 7 1' 6 | 2' 1'\n7 . | 6 . 4 6 | 5 4 3 . | 2 . . . |]",
+   "rows": [
+    "Ma-kin ku-at lang-kah-ku a-sal Ye-sus be-ser-ta-ku ke ru-mah Al-lah-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tenteram hatiku aku tau Tuhanku sumber hidupku",
+   "Apa yg dib'riNya s'lalu ku terima di dalam iman",
+   "Makin kuat langkahku asal Yesus besertaku ke rumah Allahku"
+  ],
+  [
+   "Hatiku terpaut pada-Mu Tuhanku, aku milik-Mu",
+   "Aku menjauhkan yang mau memisahkan aku dari-Mu",
+   "Kekayaan dunia pautan hati banyak orang; 'Ku terpaut pada-Mu"
+  ],
+  [
+   "“Satu pujianku, Dia junjunganku”, kata jiwaku",
+   "Itulah Tuhanku, Yesus Penebusku, harta milikku",
+   "Itu saja tekadku: “Aku ini milik Yesus,; Tuhan dan Rajaku.”"
+  ],
+  [
+   "Hitunglah berkatNya kasih setiaNya bagi dunia",
+   "Itulah pahami serta kau hayati damai abadi",
+   "Roh manusia yg tenang beribadah pada Allah yg dimuliakannya"
+  ],
+  [
+   "Semua 'ku serahkan kepada Tuhanku, suka dukaku",
+   "Aku s'lalu ingat dalam derita-Mu timbul kuatku",
+   "Ketabahan Yesusku membangkitkan semangatku; Menghibur hatiku"
+  ],
+  [
+   "Orang yang berlindung pada Tuhan Yesus bertahan terus",
+   "Tuhan menghiburnya dalam deritanya, tabah hatinya",
+   "Bahagia hidupnya, asalkan tetap percaya; Pada Tuhan Allah"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 354 baris 1 (ulang): 's'la lu ku te ri ma' = 's'lalu 'ku terima' (pemisahan kata). Not hal. 354-355 cocok (7 dicoret \\ = b7, 1 dicoret / = #1')."
+ ],
+ "status": "",
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Hi-tung-lah ber-kat-Nya ka-sih se-ti-a-Nya ba-gi du-ni-a",
+     "I-tu-lah pa-ha-mi ser-ta kau ha-ya-ti da-mai a-ba-di"
+    ],
+    [
+     "Roh ma-nu-sia yg te-nang be-ri-ba-dah pa-da Al-lah yg di-mu-lia-kan-nya"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 355)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

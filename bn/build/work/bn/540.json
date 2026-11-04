@@ -1,0 +1,68 @@
+{
+ "be": 540,
+ "variant": "",
+ "bl": 372,
+ "title": "Tuhan Yesus kunantikan",
+ "key": "D",
+ "meter": "4/4",
+ "credit": "N.N",
+ "pages": [
+  678
+ ],
+ "cat": "Advent",
+ "tempo": 102,
+ "credits": [
+  "Syair:",
+  "Lagu:",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "1 .+1 4 3 | 2 .+3 2 1 | 6 .+6 6 6 | 7 1' 7 . |\n1' .+5 7 6 | 6 .+7 6 5 | 1' .+5 6 4 | 2 5 1 . |]",
+   "rows": [
+    "Tu-han Ye-sus ku-nan-ti-kan ha-ri ke-da-ta-ngan-Mu Kau ku-tung-gu ti-ap sa-at te-tap meng-ha-rap-kan-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhan Yesus kunantikan hari kedatanganMu Kau kutunggu tiap saat tetap mengharapkanMu"
+  ],
+  [
+   "Engkau yang memilih aku, jauhkan dari dosaku",
+   "Dan berjalan di jalanMu, menunggu Kau Rajaku"
+  ],
+  [
+   "'Ku saksikan kasih Tuhan, yang dib'rikan padaku",
+   "Hidupku dilindungiNya, dipikulNya dosaku"
+  ],
+  [
+   "'Ku nantikan Engkau Tuhan, selalu 'ku nyanyikan",
+   "Harapkan sukacitaMu, yang Kau b'rikan padaku"
+  ],
+  [
+   "Tuhan segera 'kan datang dalam waktu yang dekat",
+   "Mari sambutlah Sang Raja dengan lagu pujian"
+  ],
+  [
+   "Yakinlah pada FirmanNya, nanti akan nyatalah",
+   "JanjiNya digenapiNya saat kedatanganNya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 678 baris 2: \"Kau-ku tung-gu\" -> \"Kau ku-tung-gu\"; ayat 1 ikut"
+ ],
+ "status": "",
+ "ref": "Ret.II.No. 182",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

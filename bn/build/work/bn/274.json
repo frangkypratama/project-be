@@ -1,0 +1,63 @@
+{
+ "be": 274,
+ "variant": "",
+ "bl": 159,
+ "title": "Pabila kau andalkan",
+ "key": "Bb",
+ "meter": "4/4",
+ "credit": "G.J. Webb, 1837",
+ "pages": [
+  340
+ ],
+ "cat": "Pergumulan dan Penderitaan",
+ "tempo": 108,
+ "credits": [
+  "Syair: Johann de Heer",
+  "Lagu: George James Webb 1803-0887",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 .+1 3 1 | 1 . 6, 1 | 5, 1 2 3 | 2 . 0 5, | 1 .+1\n3 1 | 1 . 6, 1 | 5, 1 2 3 | 1 . 0 5, | 2 .+2 1 2 | 3 .\n3 3 | 4 3 6, 2 | (1 . 7,) 5, | 1 .+1 3 1 | 1 . 6, 1 | 5,\n1 3 2 | 1 . 0 |]",
+   "rows": [
+    "'Pa-bi-la kau an-dal-kan ke-kua-tan di-ri-mu Per-ja-la-nan ke sur-ga tak mam-pu kau tem-puh An-dal-kan Tu-han Ye-sus pan-du-mu yg ku-dus yg me-ne-bus so-sa-mu dan me-la-yak-kan-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "'Pabila kau andalkan kekuatan dirimu Perjalanan ke surga tak mampu kau tempuh Andalkan Tuhan Yesus pandumu yg kudus yg menebus sosamu dan melayakkanmu"
+  ],
+  [
+   "Dan jangan kau gelisah meski beban berat",
+   "Serahkan pada Tuhan semua deritamu",
+   "Tanganmu dituntun-Nya, dipegang-Nya erat",
+   "Sempurna bimbingan-Nya, imanmu pun teguh"
+  ],
+  [
+   "Dan jangan kau menoleh ke masa lalumu",
+   "Berdamailah hatimu di dalam Yesusmu",
+   "Rahmat-Nya kau peroleh berlimpah bagimu",
+   "Tempat perhentianmu di sisi Bapamu"
+  ],
+  [
+   "Hatimu jangan bimbang di saat ajalmu",
+   "Tak 'kan dibiarkan-Nya engkau yang ditebus",
+   "Asalkan kau setia bersama Tuhanmu",
+   "Kau pasti dimenangkan di akhir hidupmu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 340: pemisahan kata lirik ayat 1 diperbaiki ('Pabila, melayakkanmu; 'so sa mu' tertulis begitu di buku, kemungkinan salah cetak 'dosamu'). Not cocok; fermata di birama akhir tidak dimodelkan."
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

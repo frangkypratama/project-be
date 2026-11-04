@@ -1,0 +1,80 @@
+{
+ "be": 280,
+ "variant": "",
+ "bl": 173,
+ "title": "Benar dan baik semuanya",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Severus Gastorius, 1675",
+ "pages": [
+  348
+ ],
+ "cat": "Penghiburan",
+ "tempo": 92,
+ "credits": [
+  "Syair: Samuel Rodigast 1675 (1649-1703)",
+  "Lagu: 1641 (1646-1682)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin & St Drs Nurdin Doloksaribu MSi"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 2 3 6 | 5 4 3 6 | 5 4 3 3 | 2 . 1 :|",
+   "rows": [
+    "Be-nar dan ba-ik se-mua-nya yg di-ber-bu-at Al-lah",
+    "Ja-ngan-lah me-nye-sa-li-nya sem-pur-na ren-ca-na-Nya"
+   ]
+  },
+  {
+   "notes": "5 | 6 6 2 2 | 5 5 1 3 | 2 1 7, 7, | 6, . 5, 5 | 6 5\n4 3 | 2 . 1 |]",
+   "rows": [
+    "Per-ca-ya-lah ke-pa-da-Nya la-ku-kan-lah Fir-man-Nya Dia ba-ik dan se-ti-a"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Benar dan baik semuanya yg diberbuat Allah",
+   "Janganlah menyesalinya sempurna rencanaNya",
+   "Percayalah kepadaNya lakukanlah FirmanNya Dia baik dan setia"
+  ],
+  [
+   "Tiada sepatah Firman-Nya yang menyesatkan kita",
+   "Alangkah adil dan benar, tindakan dan hukum-Nya",
+   "Semuanya baik teguran-Nya, akhirnya jadi indah",
+   "Tak mungkin Allah salah"
+  ],
+  [
+   "Semua yang baik bagiku diketahui Allah",
+   "Yang tidak baik bagiku tak akan diberikan",
+   "Anug'rah-Nya sungguh besar, pada-Nya 'ku serahkan",
+   "Hidupku seluruhnya"
+  ],
+  [
+   "Benar kekal semuanya yang diperbuat Allah",
+   "Semua kebutuhanku, dib'rikan Tuhan Allah",
+   "Disaatnya 'kan nyatalah kemuliaan Tuhan",
+   "Saat 'ku masuk Surga"
+  ],
+  [
+   "Ya Yesus b'rilah rahmat-Mu, terimalah umat-Mu",
+   "Yang sudah jadi milik-Mu berkat kurban darah-Mu",
+   "Dengarkanlah doa sembah, ya Sumber kehidupan",
+   "Bagi-Mulah pujian"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 348 kepala lagu: Buku Logu 173 (tertulis jelas, sebelumnya kosong).",
+  "Koreksi dari gambar halaman: hal. 348 baris 1: 'di ber bu at' satu kata (pemisahan kata). Not cocok."
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

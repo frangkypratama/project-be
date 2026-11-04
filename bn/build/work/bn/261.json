@@ -1,0 +1,65 @@
+{
+ "be": 261,
+ "variant": "",
+ "bl": 145,
+ "title": "Bintang penuntunku",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Minna Koch Schupper, 1897",
+ "pages": [
+  323
+ ],
+ "cat": "Pergumulan dan Penderitaan",
+ "tempo": 100,
+ "credits": [
+  "Syair: Friedrich Adolf Krummacher 1824-1884",
+  "Lagu: Minna Koch Schupper 1897 (1845-1924)",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3 .+4 2 7, | 1 . 5, 0 | 4 .+5 3 1 | 2 . . 0 | 3 .+3\n#4 #4 | 5 . (3 1) | 7, .+7, 1 6, | 5, . . 0 | 4 .+5 3 1 |\n3 . 2 0 | 6 .+5 (5+4) (4+3) | 2 . . 0",
+   "rows": [
+    "Bin-tang pe-nun-tun-ku ka-rang yg te-guh Tong-kat pe-ga-ngan-ku wak-tu-ku le-su Ro-ti ke-hi-du-pan sum-ber air se-gar"
+   ]
+  },
+  {
+   "notes": "5 .+5 1' 7 |\n(7 6) (4 2) | 1 .+1 3 2 | 1 . . 0 :|",
+   "rows": [
+    "Yg ja-di tu-ju-an ha-nya Ye-sus-lah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Bintang penuntunku karang yg teguh Tongkat peganganku waktuku lesu Roti kehidupan sumber air segar",
+   "Yg jadi tujuan hanya Yesuslah"
+  ],
+  [
+   "Kau kekuatanku, sukacitaku",
+   "Damai di hatiku, kesenanganku",
+   "Roh kehidupanku, pengharapanku",
+   "Tiada yang lain, hanya Yesusku",
+   "Tiada yang lain, hanya Yesusku"
+  ],
+  [
+   "Hanya Engkau Yesus, perantaraku",
+   "Untuk memperoleh kehidupanku",
+   "Dan yang menguatkan di deritaku",
+   "Kasih yang sejati, Kaulah Yesusku",
+   "Kasih yang sejati, Kaulah Yesusku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 323 kepala lagu: Buku Logu 145 (data kosong) → bl 145"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

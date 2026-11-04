@@ -1,0 +1,57 @@
+{
+ "be": 521,
+ "variant": "",
+ "bl": 358,
+ "title": "Rumahmu yang teduh",
+ "key": "D",
+ "meter": "4/4",
+ "credit": "Karl Friderich Paulus, 1893",
+ "pages": [
+  652
+ ],
+ "cat": "Kehidupan Sorgawi",
+ "tempo": 92,
+ "credits": [
+  "Syair: Karl Friederich Paullus 1843-1893",
+  "Lagu:",
+  "Terj.Ind.: Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "5 .+1' 7 .+0 | 4 .+6 5 .+0 | 6 .+7 1' 3 | (3 2) (3 4) |\n5 .+5 5 1' | 1' 6 4 6 | 5 .+4 3 2 | 1 . . 3 | 3 .+3\n3 6 | 6 .+#5 #5 #5 | 6 .+6 7 1' | 2' . . 7 | 1' .+5 3\n1' | 1' 6 4 6 | 5 .+4 3 2 | 1 . . . |]",
+   "rows": [
+    "Ru-mah-mu yg te-duh ja-ngan lu-pa kau dan ka-pan a-da wak-tu-mu me-nu-ju ru-mah-mu Kau men-de-ri-ta di du-nia ka-re-na do-sa-mu di-ri-mu di-ja-uh-kan-Nya da-ri sur-ga te-duh"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Rumahmu yg teduh jangan lupa kau dan kapan ada waktumu menuju rumahmu Kau menderita di dunia karena dosamu dirimu dijauhkanNya dari surga teduh"
+  ],
+  [
+   "T'lah datang, t'lah datang Raja Perkasa",
+   "Dia membujuk hatimu, datanglah padaNya",
+   "Sesali semua dosamu, mohon ampunanNya",
+   "Engkau akan bahagia ditebus olehNya"
+  ],
+  [
+   "Rumahmu yang teduh makin nyatalah",
+   "Semakin dekat rumahmu oleh Tuhan Allah",
+   "Dekatkan pada Yesusmu sepenuh hatimu",
+   "Tuhan akan mengangkatmu naik ke rumahmu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 652 baris 3: 'di du nia' -> di du-nia (kata depan); ayat 1 disesuaikan"
+ ],
+ "status": "",
+ "ref": "R.L.561",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,57 @@
+{
+ "be": 630,
+ "variant": "",
+ "bl": null,
+ "title": "Jemaat Kristus soraklah",
+ "key": "D",
+ "meter": "3/4",
+ "credit": "1 Kor. 15:54-57",
+ "pages": [
+  791
+ ],
+ "cat": "Kebangkitan Tuhan Yesus",
+ "tempo": 104,
+ "credits": [
+  "Syair: Wir wollen alle frohlich sein; Resurexit Dominus, Jerman abad 12",
+  "Lagu: Michael Praetortus, 1609",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 | 1 . 3 | 5 . 6 | (5 3) 4 | 5 . 1' | (7 6) 7 | 1' . 5 |\n(5 . 4) | 3 . 3 | (2 3) 4 | (3 2) 3 | (1 6,) 7, | 1 . 1 | 1 .\n3 | 5 . 6 | (5 3) 4 | 5 . 1' | (7 6) 7 | 1' . 5 | 5 . 4 |\n3 . 3 | 2 . 4 | (3 2) 3 | (1 6,) 7, | 1 . |]",
+   "rows": [
+    "Je-ma-at Kris-tus so-rak-lah di ha-ri ke-bang-ki-tan ka-re-na Kris-tus t'lah me-nang Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah Hal-le-lu-yah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Jemaat Kristus soraklah di hari kebangkitan karena Kristus t'lah menang Halleluyah Halleluyah Halleluyah Halleluyah Halleluyah Halleluyah"
+  ],
+  [
+   "Sang Kristus yang disalibkan t'lah bangkit dari kubur, Dia hidup s'lama-lamanya",
+   "Haleluya, haleluya, haleluya, Haleluya, haleluya, haleluya"
+  ],
+  [
+   "Kuasa maut dikalahkan, si iblis tak berdaya, Yesus t'lah mengalahkannya",
+   "Haleluya, haleluya, haleluya, Haleluya, haleluya, haleluya"
+  ],
+  [
+   "Dan bagi orang beriman, Surga t'lah terbuka, S'bab Yesus Kristus t'lah menang",
+   "Haleluya, haleluya, haleluya, Haleluya, haleluya, haleluya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 791 baris 1: 'di ha ri' = kata depan + kata → di ha-ri (di hari); teks ayat 1 ikut disesuaikan"
+ ],
+ "status": "",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

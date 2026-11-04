@@ -1,0 +1,104 @@
+{
+ "be": 202,
+ "variant": "",
+ "bl": 102,
+ "title": "Tuhanlah sumber kekuatanku",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Johann Balthasar konig, 1758",
+ "pages": [
+  252,
+  253
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": 100,
+ "credits": [
+  "Syair: Johann Schefler 1657 (1624-1677)",
+  "Lagu: Johann Balthasar Konig 1738 (1691-1758)",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSH & Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "0 1 3 5 | 1' 5 6 5 | 4 . 3 . | 0 2 3 #4 | 5 1' 7\n6 | 5 . . . :|",
+   "rows": [
+    "Tu-han-lah sum-ber ke-kua-tan-ku 'ku sung-guh me-nga-si-hi-Mu",
+    "De-ngan se-ga-la per-bua-tan-ku de-ngan se-ge-nap ha-ti-ku"
+   ]
+  },
+  {
+   "notes": "0 2 2 2 | 3 2 3 4 | 2 . 0 5 | 1 4 3\n2 | 1 . . . |]",
+   "rows": [
+    "Kau me-nyi-na-ri di-ri-ku sam-pai ke a-jal-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhanlah sumber kekuatanku 'ku sungguh mengasihiMu",
+   "Dengan segala perbuatanku dengan segenap hatiku",
+   "Kau menyinari diriku sampai ke ajalku"
+  ],
+  [
+   "Tuhanku, Kau sumber hidupku. Engkau sahabat setiaku",
+   "'Ku puji-puji Kau Tuhanku, yang menyinari hidupku",
+   "Kasihku tulus pada-Mu, ya Yesus Tuhanku"
+  ],
+  [
+   "Mengapa tak sejak dahulu 'ku mengenal Kau, Tuhanku",
+   "Mengapa tak 'ku tau dahulu, Kau yang terbaik bagiku",
+   "Tertunduk aku menyesal, kar'na aku bebal"
+  ],
+  [
+   "Aku sesat dan tak melihat, tak mampu mengenal Engkau",
+   "Hidupku hina penuh dosa, 'ku menjauhi jalan-Mu",
+   "Kini aku mengenal-Mu, Engkau ya Tuhanku"
+  ],
+  [
+   "Aku bersyukur kepadaMu terang dan sinar hidupku",
+   "Kupuji Kau Jurus'lamatku yg membebaskan jiwaku",
+   "T'lah Kau pulihkan hatiku bahagia hidupku"
+  ],
+  [
+   "Ya Tuhanku, pimpin langkahku di jalan kebenaran-Mu",
+   "Kuatkan hati dan jiwaku 'tuk melakukan firman-Mu",
+   "Ya Sinar Surga yang kudus, terangi hatiku"
+  ],
+  [
+   "Aku tetap mengasihi-Mu, Allahku dan mahkotaku",
+   "Betapa pun kesusahanku, aku setia pada-Mu",
+   "'Ku mengasihi Tuhanku, selama hidupku"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 252: pemisahan kata 'sum ber-ke-kua-tan-ku' → 'sum-ber ke-kua-tan-ku', 'ke-a-jal-ku' → 'ke a-jal-ku'"
+ ],
+ "status": "",
+ "vl_direct": {
+  "4": {
+   "r": [
+    [
+     "A-ku ber-syu-kur ke-pa-da-Mu te-rang dan si-nar hi-dup-ku",
+     "Ku-pu-ji Kau Ju-ru-s'la-mat-ku yg mem-be-bas-kan ji-wa-ku"
+    ],
+    [
+     "T'lah Kau pu-lih-kan ha-ti-ku ba-ha-gia hi-dup-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 253)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

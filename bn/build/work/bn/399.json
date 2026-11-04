@@ -1,0 +1,52 @@
+{
+ "be": 399,
+ "variant": "",
+ "bl": 266,
+ "title": "Janganlah engkau terlena",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "John R. Sweney, 1899",
+ "pages": [
+  508
+ ],
+ "cat": "Datanglah pada Yesus",
+ "tempo": 98,
+ "credits": [
+  "Syair: Fanny J Crosby 1820-1915",
+  "Lagu: John R Sweney 1837-1899",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "3 3/+.//+2// 1 3/+.//+4// | 5 . 3 0 | 5 2/+.//+3// 4 3/+.//+2// | 3 . . 0 |\n3 3/+.//+3// 4 5/+.//+6// | 5 . 3 0 | 5 2/+.//+3// 4 3/+.//+2// | 3 . . 0 |\n6 6/+.//+6// 1' 7/+.//+6// | 6 . 5 0 | 5 6/+.//+5// 4 5/+.//+4// | 3 . . 0 |\n6 6/+.//+6// 1' 7/+.//+6// | 6 . 5 0 | 5 2/+.//+7// (7+6) 5/+.//+#4// | (5 . 4) . |",
+   "rows": [
+    "Ja-ngan-lah eng-kau ter-le-na ga-pai-lah ha-ra-pan-mu Tak kan mung-kin kau ba-ha-gia bi-la ba-nyak a-ral-mu Ma-ka pu-tus-kan-lah se-mua go-da-an di ha-ti-mu Har-ta mar-ta-bat dan kua-sa a-ral be-rat ba-gi-mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Janganlah engkau terlena gapailah harapanmu Tak kan mungkin kau bahagia bila banyak aralmu Maka putuskanlah semua godaan di hatimu Harta martabat dan kuasa aral berat bagimu"
+  ],
+  [
+   "Janganlah lengah di jalan menuju Surga baka",
+   "T'lah tersedia di sana tempat di Rumah Bapa",
+   "Jangan hatimu berduka, yakinkanlah hatimu",
+   "Pasti kau 'kan dituntun-Nya dekat Tuhan Allahmu",
+   "Janganlah lengah di jalan menuju Surga baka",
+   "T'lah tersedia di sana tempat di Rumah Bapa"
+  ]
+ ],
+ "vnum": [
+  1,
+  2
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 508: pemisahan kata 'ga pai lah', 'a ral mu', 'mar ta bat', 'a ral' -> 'ga-pai-lah', 'a-ral-mu', 'mar-ta-bat', 'a-ral'"
+ ],
+ "status": "",
+ "ref": "Z.No. 588",
+ "vl_direct": {},
+ "fixed": true,
+ "warn": []
+}

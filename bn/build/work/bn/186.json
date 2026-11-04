@@ -1,0 +1,72 @@
+{
+ "be": 186,
+ "variant": "",
+ "bl": 173,
+ "title": "Tuhankulah harapanku",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Severus Gastorius, 1675",
+ "pages": [
+  231
+ ],
+ "cat": "Pengakuan dan kesaksian Iman",
+ "tempo": 92,
+ "credits": [
+  "Syair: Samuel Rodigast 1675 (1649-1682)",
+  "Lagu: Severus Gastorius 1675 (1646-1682)",
+  "Terj.Ind.: Pdt Marolop P Sinaga MTh"
+ ],
+ "sections": [
+  {
+   "notes": "5, | 1 2 3 6 | 5 4 3 6 | 5 4 3 3 | 2 . 1 :|",
+   "rows": [
+    "Tu-han-ku-lah ha-ra-pan-ku yg mem-b'ri peng-hi-bu-ran",
+    "Yg me-ne-ra-ngi ja-lan-ku di ja-lan ke-hi-du-pan"
+   ]
+  },
+  {
+   "notes": "5 | 6 6 2 2 | 5 5 1 3 | 2 1 7, 7, | 6, . 5, 5 | 6 5\n4 3 | 2 . 1 |]",
+   "rows": [
+    "Ha-ti-ku-pun se-nang ten-t'ram kar'-na ka-sih Al-lah-ku p'rin-tah-Mu pe-do-man-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tuhankulah harapanku yg memb'ri penghiburan",
+   "Yg menerangi jalanku di jalan kehidupan",
+   "Hatikupun senang tent'ram kar'na kasih Allahku p'rintahMu pedomanku"
+  ],
+  [
+   "'Ku yakin akan kuasa-Mu, ya Tuhan Allah Bapa",
+   "Engkaulah sumber hidupku, yang mencukupkan nafkah",
+   "Kuasa-Mu sungguh besar, jadilah kehendak-Mu, Maha besar kuasa-Mu"
+  ],
+  [
+   "Kau ingat s'lalu umat-Mu yang taat dan setia",
+   "Kau memberi anug'rah-Mu damai dan sukacita",
+   "Bahagia sejahtera, setiap yang percaya lepas dari bahaya"
+  ],
+  [
+   "Pahami dan hayatilah teladan Tuhan Yesus",
+   "Yang tersalib di Golgota, darah-Nya dicurahkan",
+   "Dia teguh, yakin penuh, Dia taat pada Bapa, t'ladanilah hidup-Nya"
+  ],
+  [
+   "Jiwaku kini berserah pada-Mu Tuhan Allah",
+   "Diriku kasihanilah, dengarlah permohonan",
+   "Kuatkanlah dan bimbinglah sampai ajalku tiba, b'ri tempatku di Surga"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

@@ -1,0 +1,106 @@
+{
+ "be": 357,
+ "variant": "",
+ "bl": 177,
+ "title": "Bagai rusa yang diburu",
+ "key": "G",
+ "meter": "4/4",
+ "credit": "N.N",
+ "pages": [
+  446,
+  447
+ ],
+ "cat": "Mazmur",
+ "tempo": 104,
+ "credits": [
+  "Syair: Mazmur 42",
+  "Lagu:",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1 1 7, 1 | 2 3 (3+2) 2 | 1 1 (2+3) (4+2) | 1 7, 1 . :|",
+   "rows": [
+    "Ba-gai ru-sa yg di-bu-ru ha-us a-kan air se-juk",
+    "De-mi-ki-an-lah ji-wa-ku me-rin-du-kan Tu-han-ku"
+   ]
+  },
+  {
+   "notes": "5 (6+5) 4 4 | 4 (6+4) 3 . | 3 2 1 7, | 6, (2+1) 7, . | 1 (1+7,)\n(6,+7,) 1 | 4 3 (3+2) 2 | 5 4 3 (4+2) | 1 7, (7,+1) 1 |]",
+   "rows": [
+    "Sung-guh ha-us ji-wa-ku a-kan di Kau Al-lah-ku bi-la-ma-na-kah wak-tu-ku da-pat me-li-hat wa-jah-Mu"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Bagai rusa yg diburu haus akan air sejuk",
+   "Demikianlah jiwaku merindukan Tuhanku",
+   "Sungguh haus jiwaku akan di Kau Allahku bilamanakah waktuku dapat melihat wajahMu"
+  ],
+  [
+   "Siang malam air mata makanan, minumanku",
+   "Kar'na musuhku berkata: “Dimanakah Allahmu?”",
+   "Hancur luluh hatiku, mengenang bait Allahku",
+   "Dulu sorak dan pujian, s'karang tiada perayaan"
+  ],
+  [
+   "Sungguh tertekan jiwaku dan bergumul selalu",
+   "Bila aku mengenang-Mu dalam pembuanganku",
+   "Bagai ombak menderu juga air terjun-Mu",
+   "Dan gelombang yang gemuruh menerpa kehidupanku"
+  ],
+  [
+   "Oh mengapa kau tertunduk dan gelisah jiwaku",
+   "Haraplah kepada Allah, Tuhan pertolonganmu",
+   "Aku tunduk menyerah pada Tuhan Allahku",
+   "Dan bersyukur kepada-Nya, yang setia menolongku"
+  ],
+  [
+   "Sudah dijanjikan Tuhan kemurahanNya kekal",
+   "Jika aku merenungkan jiwaku tak kan kesal",
+   "Siang atau malampun kunyanyikan namaMu dan kasih setia Allahku andalan pertolonganku"
+  ],
+  [
+   "Mengapa lupa padaku, Engkau gunung batuku",
+   "Makin tersesak jiwaku, musuhku mencemoohkanku",
+   "Aniaya seteru meremukkan tulangku",
+   "Pertanyaan seteruku: “Di mana Tuhan Allahmu?”"
+  ],
+  [
+   "Mengapa engkau tertunduk dan gelisah jiwaku",
+   "Yakinlah pada Allahmu, Dia tak melupkanmu",
+   "Lihatlah sesungguhnya dengan nyanyi pujian",
+   "Aku memuliakan Allah karena pertolongan-Nya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "checks": [],
+ "status": "",
+ "vl_direct": {
+  "4": {
+   "r": [
+    [
+     "Su-dah di-jan-ji-kan Tu-han ke-mu-ra-han-Nya ke-kal",
+     "Ji-ka a-ku me-re-nung-kan ji-wa-ku tak kan ke-sal"
+    ],
+    [
+     "Si-ang a-tau ma-lam-pun ku-nya-nyi-kan na-ma-Mu dan ka-sih se-tia Al-lah-ku an-da-lan per-to-lo-ngan-ku"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 447)"
+   ]
+  }
+ },
+ "warn": []
+}

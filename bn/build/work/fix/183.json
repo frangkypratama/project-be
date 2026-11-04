@@ -1,0 +1,62 @@
+{
+ "verses": [
+  [
+   "T'lah kutemukan Raja kasih bagiku orang yg sesat",
+   "Dialah Yesus yg mahakasih bagiku yg hilang penat",
+   "Sekarang aku mengenal Tuhan pengasih yg kekal Tuhan pengasih yg kekal"
+  ],
+  [
+   "Kar'na dosaku sangat banyak, nerakalah hukumanku",
+   "Tetapi Yesus mendamaikan 'ku dengan Allah Bapaku",
+   "Dengan darah-Nya yang kudus, 'ku damai dengan Allah t'rus",
+   "'Ku damai dengan Allah t'rus"
+  ],
+  [
+   "Maka yang dapat 'ku andalkan hanyalah pengasihan-Nya",
+   "Segala puji bagi Tuhan yang melimpahkan rahmat-Nya",
+   "Aku bersyukur bertemu, memuji kasih Tuhanku",
+   "Memuji kasih Tuhanku"
+  ],
+  [
+   "KasihNya tak kan tergoyahkan oleh siapapun juga",
+   "Itu yg s'lalu ku andalkan di dalam doa dan kerja",
+   "Walau disaat ajalku ku yakin akan kasihMu ku yakin akan kasihMu"
+  ],
+  [
+   "Tuhan dengarkanlah doaku, jangan undurkan kasih-Mu",
+   "Bawalah aku ke rumah-Mu di saat tiba ajalku",
+   "Di sana girang hatiku, kekal memuji kasih-Mu",
+   "Kekal memuji kasih-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5
+ ],
+ "vl_direct": {
+  "3": {
+   "r": [
+    [
+     "Ka-sih-Nya tak kan ter-go-yah-kan o-leh si-a-pa-pun ju-ga",
+     "I-tu yg s'la-lu ku an-dal-kan di da-lam do-a dan ker-ja"
+    ],
+    [
+     "Wa-lau di sa-at a-jal-ku ku ya-kin a-kan ka-sih-Mu ku ya-kin a-kan ka-sih-Mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 4 tertulis di not (hal. 227; di buku berlabel 'Ayat 3')"
+   ]
+  }
+ },
+ "note": [
+  "hal. 226: teks ayat bernomor 3 ('Maka yang dapat 'ku andalkan ...') hilang dari data karena bentrok nomor dengan lirik bernot hal. 227 yang berlabel 'Ayat 3'; teks itu dikembalikan sebagai ayat 3",
+  "hal. 227: lirik bernot berlabel 'Ayat 3' terletak sesudah ayat 3 teks dan sebelum ayat 5 → dijadikan ayat 4 (label 'Ayat 3' di buku tampaknya salah cetak; urutan halaman 1,2,3 lalu not, lalu 5)",
+  "hal. 227: pemisahan kata lirik bernot: 'ter go-yah kan' → 'ter-go-yah-kan', 's'la-lu-ku' → 's'la-lu ku', 'a-jal-ku-ku' → 'a-jal-ku ku', 'ka-sih-Mu-ku' → 'ka-sih-Mu ku'",
+  "kata depan dipisah: di-sa-at"
+ ]
+}

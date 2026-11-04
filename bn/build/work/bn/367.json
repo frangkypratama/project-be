@@ -1,0 +1,85 @@
+{
+ "be": 367,
+ "variant": "",
+ "bl": 2,
+ "title": "Tinggi dalam surga",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "Hans George Nageli, 1815",
+ "pages": [
+  468
+ ],
+ "cat": "Nyanyian Anak-anak",
+ "tempo": 100,
+ "credits": [
+  "Syair: Rudolf Flad 1804-1830",
+  "Lagu: Hans Georg Nageli 1773-1836",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "3/+.//+4// 5 4 | 3 2 0 | 1/+.//+1// 2 5 | 3 . .",
+   "rows": [
+    "Ting-gi da-lam sur-ga di te-rang ba-ka"
+   ]
+  },
+  {
+   "notes": "6/+.//+5//\n4+3 | 5 .+4 3+2 | (1 3) 2 | 3 . . |",
+   "rows": [
+    "Al-lah me-me-rin-tah sung-guh mu-li-a"
+   ]
+  },
+  {
+   "notes": "6/+.//+5//\n4+3 | 5 .+4 3+2 | (1 3) 2 | 1 . . |]",
+   "rows": [
+    "Al-lah me-me-rin-tah sung-guh mu-li-a"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Tinggi dalam surga di terang baka",
+   "Allah memerintah sungguh mulia",
+   "Allah memerintah sungguh mulia"
+  ],
+  [
+   "Walau maha tinggi Allah yang kuasa",
+   "Allah mengasihi anak-anak-Nya",
+   "Allah mengasihi anak-anak-Nya"
+  ],
+  [
+   "Diperhatikan-Nya semua anak-Nya",
+   "Malaikat menjaga anak-anak-Nya",
+   "Malaikat menjaga anak-anak-Nya"
+  ],
+  [
+   "Dilindungi Tuhan anak yang lemah",
+   "Jangan disesatkan iblis penyesat",
+   "Jangan disesatkan iblis penyesat"
+  ],
+  [
+   "Nasi dan pakaian diberikan-Nya",
+   "Sakit dan derita disembuhkan-Nya",
+   "Sakit dan derita disembuhkan-Nya"
+  ],
+  [
+   "Wahai anak-anak ceritakanlah",
+   "Allah Bapa kita baik dan benar",
+   "Allah Bapa kita baik dan benar"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6
+ ],
+ "checks": [
+  "Ulangan dengan kurung 1./2. (volta) di buku ditulis sebagai dua bagian: putaran 1 lalu putaran 2."
+ ],
+ "status": "",
+ "vl_direct": {},
+ "warn": []
+}

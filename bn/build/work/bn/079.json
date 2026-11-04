@@ -1,0 +1,117 @@
+{
+ "be": 79,
+ "variant": "",
+ "bl": 124,
+ "title": "Hatiku sangat susah",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Julius Gessenius, 1450",
+ "pages": [
+  97,
+  98
+ ],
+ "cat": "Sengsara Tuhan Yesus dan Jumat Agung",
+ "tempo": 90,
+ "credits": [
+  "Syair: Justus Gesenius 1646 (1601-1673)",
+  "Lagu: Jerman Nurnberg 1450",
+  "Terj.Ind.: Tim Penerjemah"
+ ],
+ "sections": [
+  {
+   "notes": "1 . | 1 3 2 1 | 7, . 6, . | 3 . 4 2 | 3 . 2 . |\n1 . :|",
+   "rows": [
+    "Ha-ti-ku sa-ngat su-sah ka-re-na do-sa-ku",
+    "I-ngat-kan a-ku Tu-han hal ke-ma-ti-an-Mu"
+   ]
+  },
+  {
+   "notes": "1 . | 3 3 4 4 | 5 5 2 . | 5 . 3 . | 1 2 .\n1 | 7, . 6, . | 3 . 4 2 | 3 . 2 . | 1 . |]",
+   "rows": [
+    "Di a-tas ka-yu sa-lib-Mu da-rah-Mu t'lah ter-cu-rah me-ne-bus do-sa-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Hatiku sangat susah karena dosaku",
+   "Ingatkan aku Tuhan hal kematianMu",
+   "Di atas kayu salibMu darahMu t'lah tercurah menebus dosaku"
+  ],
+  [
+   "'Ku takjub memikirkan, kuasa kasih-Mu",
+   "Engkau menjadi korban menebus dosaku",
+   "Dib'rikan Allah, Putra-Nya mengorbankan nyawa-Nya",
+   "S'lamatkan diriku"
+  ],
+  [
+   "Kini aku pun bebas dari hukuman b'rat",
+   "Karena kasih Tuhan aku dis'lamatkan",
+   "Yesus berkorban bagiku, aku tak lagi takut",
+   "Akan kuasa maut"
+  ],
+  [
+   "'Ku puji Kau selalu ya, Yesus Tuhanku",
+   "Mengingat derita-Mu di kayu salib-Mu",
+   "'Ku mengenang jeritan-Mu serta darah kudus-Mu",
+   "Dan kasih setia-Mu"
+  ],
+  [
+   "Biarlah sengsaraMu mendorong hatiku",
+   "Untuk bersungguh-sungguh menjauhi dosaku",
+   "Jerih payahMu pun Tuhan tak akanku lupakan walaupun sebentar"
+  ],
+  [
+   "Jikalau kesusahan menghimpit hidupku",
+   "Tolonglah aku Tuhan, memikul salibku",
+   "Kaulah teladanku Tuhan, menghadapi cobaan",
+   "Di dunia yang fana"
+  ],
+  [
+   "Pengorbanan-Mu Tuhan, kasih-Mu padaku",
+   "Itu mau 'ku lakukan pada sesamaku",
+   "Mampukan aku Tuhanku, mengasihi diri-Mu",
+   "Setulus hatiku"
+  ],
+  [
+   "Damai-Mu di hatiku, mengingat salib-Mu",
+   "Saat kematianku, 'ku ingat darah-Mu",
+   "Itulah keyakinanku, Tuhan menyambut aku",
+   "Di pintu Surga-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 97 baris 2: 'Di a tas' = 'Di atas' (kata depan dipisah; juga teks ayat 1)",
+  "Koreksi dari gambar halaman: hal. 98 ayat 5: 'men do rong' = 'mendorong', 'ber sung guh sung guh' = 'bersungguh-sungguh' (vl_direct dan teks ayat 5)"
+ ],
+ "status": "",
+ "vl_direct": {
+  "4": {
+   "r": [
+    [
+     "Bi-ar-lah seng-sa-ra-Mu men-do-rong ha-ti-ku",
+     "Un-tuk ber-sung-guh sung-guh men-jau-hi do-sa-ku"
+    ],
+    [
+     "Je-rih pa-yah-Mu pun Tu-han tak a-kan-ku lu-pa-kan wa-lau-pun se-ben-tar"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 98)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,88 @@
+{
+ "be": 627,
+ "variant": "",
+ "bl": null,
+ "title": "Yesus t'lah bangkit, Halleluyah",
+ "key": "F",
+ "meter": "3/4",
+ "credit": "Luk 24:6-9",
+ "pages": [
+  787,
+  788
+ ],
+ "cat": "Kebangkitan Tuhan Yesus",
+ "tempo": 112,
+ "credits": [
+  "Syair: Infurahimi, halleluyah; Bernard Kymanyawa",
+  "Lagu: Haja Tanzania Melodi",
+  "Terj.Ind.: Biv. Fitah Eirene Sinaga"
+ ],
+ "sections": [
+  {
+   "notes": "5, 5, 5, | 1 . 1 | 3 2 2 | 1 . . | 2 3 4 | 3 .\n1 | 7, 1 2 | 1 . . :|",
+   "rows": [
+    "Ye-sus t'lah bang-kit Hal-le-lu-yah Pu-ji nya-nyi-kan Hal-le-lu-yah",
+    "Ma-ut dan i-blis di-ka-lah-kan Ye-sus ber-ja-ya dan t'lah me-nang"
+   ]
+  },
+  {
+   "notes": "5 5 5 | 5 2 3 | 4 4 4 |\n3 . . | 5 5 5 | 5 2 3 | 4 4 4 | 3 . . | 5, 5, 5, |\n1 . 1 | 3 2 2 | 1 . . | 2 3 4 | 3 . 1 | 7, 1 2 |\n1 . . |]",
+   "rows": [
+    "Ber-so-rak-lah mu-li-a-kan Tu-han ka-re-na ma-ut t'lah di-ka-lah-kan se-mu-a do-sa di-te-bus-Nya Ye-sus t'lah bang-kit Hal-le-lu-yah"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yesus t'lah bangkit Halleluyah Puji nyanyikan Halleluyah",
+   "Maut dan iblis dikalahkan Yesus berjaya dan t'lah menang",
+   "Bersoraklah muliakan Tuhan karena maut t'lah dikalahkan semua dosa ditebusNya Yesus t'lah bangkit Halleluyah"
+  ],
+  [
+   "Hari ketiga kematianNya, Sudah terbuka kuburanNya",
+   "Yesuslah Raja kehidupan, Dosa dan maut t'lah ditaklukkan",
+   "Bersoraklah muliakan Tuhan, Karena maut t'lah dikalahkan",
+   "Semua dosa ditebusNya, Yesus t'lah bangkit, Haleluya"
+  ],
+  [
+   "Dengarlah kata malaikatNya lihat ini kain kafanNya",
+   "Yesus tak ada dikuburNya janganlah takut percayalah",
+   "Bersoraklah muliakan Tuhan karena maut t'lah dikalahkan semua dosa ditebusNya Yesus t'lah bangkit Halleluyah"
+  ],
+  [
+   "Mari b'ritakan Kristus Yesus, Dia bangkit dan hidup s'lamanya",
+   "Penebusan-Nya sudah genap, Bagi semua manusia",
+   "Bersoraklah muliakan Tuhan, Karena maut t'lah dikalahkan",
+   "Semua dosa ditebusNya, Yesus t'lah bangkit, Haleluya"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 788 ayat 3 baris 1: 'ka fan Nya' satu kata → ka-fan-Nya (kafanNya), di lirik ayat bernot dan teks ayat 3"
+ ],
+ "status": "",
+ "vl_direct": {
+  "2": {
+   "r": [
+    [
+     "De-ngar-lah ka-ta ma-lai-kat-Nya li-hat i-ni ka-in ka-fan-Nya",
+     "Ye-sus tak a-da di-ku-bur-Nya ja-ngan-lah ta-kut per-ca-ya-lah"
+    ],
+    [
+     "Ber-so-rak-lah mu-li-a-kan Tu-han ka-re-na ma-ut t'lah di-ka-lah-kan se-mu-a do-sa di-te-bus-Nya Ye-sus t'lah bang-kit Hal-le-lu-yah"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 3 tertulis di not (hal. 788)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

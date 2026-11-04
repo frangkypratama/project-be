@@ -1,0 +1,121 @@
+{
+ "be": 343,
+ "variant": "",
+ "bl": 198,
+ "title": "Yerusalem mulia dan kudus",
+ "key": "Eb",
+ "meter": "4/4",
+ "credit": "Melchoir Franck, 1663",
+ "pages": [
+  426,
+  427
+ ],
+ "cat": "Akhir Zaman",
+ "tempo": 94,
+ "credits": [
+  "Syair: Johann Matthaus Meyfart 1626 (1590-1642)",
+  "Lagu: Melchoir Franck 1663 (1575-1639)",
+  "Terj.Ind.: Pdt JAU Doloksaribu MMin"
+ ],
+ "sections": [
+  {
+   "notes": "1' . 5 3 | 1 . 0 3 | 4 5 6 6 | 5 . 0 6 | 5 2 3\n#4 | 5 . . . |",
+   "rows": [
+    "Ye-ru-sa-lem mu-li-a dan ku-dus Kau-lah dam-ba-an-ku"
+   ]
+  },
+  {
+   "notes": "1' . 5 3 | 1 . 0 3 | 4 5 6 6 | 5 . 0 6 | 5 2 3\n#4 | 5 . . 6 | 6 .+7 1' 6 | 5 . 3 5 |\n6 5 4 3 | 2 . 1 . | 6 5 4 3 | (2 3+4) 5 3 | 4 3 2 2 |\n1 . . . |]",
+   "rows": [
+    "A-ku be-nar i-ngin me-li-hat-mu ting-gal di ko-ta-mu Jauh da-ri du-nia fa-na dan ang-ka-sa ra-ya Di a-tas se-ga-la-nya di ne-g'ri yg ba-ka"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Yerusalem mulia dan kudus Kaulah dambaanku",
+   "Aku benar ingin melihatmu tinggal di kotamu Jauh dari dunia fana dan angkasa raya Di atas segalanya di neg'ri yg baka"
+  ],
+  [
+   "O hariku yang amat cemerlang, bilakah saatmu",
+   "Aku tentu gembira dan senang, 'ku s'rahkan nyawaku",
+   "Ke tangan Allah Bapa, pemilik hidupku",
+   "Bahagia selamanya, tinggal di kota-Mu"
+  ],
+  [
+   "'Ku 'kan seg'ra ke angkasa raya, terbang bersama-Nya",
+   "Amat senang, s'lama perjalanan, meninggalkan dunia",
+   "Yesus memerintahkan para malaikat-Nya",
+   "Menyambut kedatangan aku yang t'lah menang"
+  ],
+  [
+   "Yerusalem, 'ku rindu padamu bukalah gerbangmu",
+   "Lama sungguh rinduku padamu, 'ku ingin bertemu",
+   "'Ku mau tinggalkan dunia yang jahat tercela",
+   "Allahku memberikan warisan yang kekal"
+  ],
+  [
+   "Siapakah orang yang di sana, bersinar wajahnya",
+   "Merekalah jemaat yang t'lah menang bergumul di dunia",
+   "Semua berbahagia dengan mahkotanya",
+   "Seperti aku juga, seg'ra mendapatnya"
+  ],
+  [
+   "Berhimpunlah leluhur mulia dan para nabiNya",
+   "Rasul semua umat yg beriman bersama Tuhannya Yg dulu menderita sengsara di dunia kini bersukacita di dalam t'rang baka"
+  ],
+  [
+   "Dan aku pun 'kan tiba di sana, lepaslah rinduku",
+   "'Ku lihatlah Allah dan Anak-Nya, Yesus Penebusku",
+   "Bahagia yang sempurna mengisi hatiku",
+   "Nyanyikan Haleluya, memuji Tuhanku"
+  ],
+  [
+   "Mari dengar di Surga menggegap, nyanyian yang besar",
+   "Gambus, gendang, nafiri dan serdam, sempurna dan lengkap",
+   "Memb'rikan pada Allah dan Yesus Put'ra-Nya",
+   "Serta Roh Kudus juga, pujian yang megah"
+  ],
+  [
+   "Sungguh Engkau dambaan hatiku, kotaku yang kudus",
+   "Aku jemu di dunia terus dan rindu pada-Mu",
+   "Sekarang 'ku tinggalkan semua yang fana",
+   "Menuju kedamaian di Surga yang kekal"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7,
+  8,
+  9
+ ],
+ "checks": [
+  "Ulangan dengan kurung 1./2. (volta) di buku ditulis sebagai dua bagian: putaran 1 lalu putaran 2.",
+  "Koreksi dari gambar halaman: hal. 426 lirik ayat 1: \"Di atas\" (sebelumnya \"Diatas\")",
+  "Koreksi dari gambar halaman: hal. 427 ayat 6 (bernot): \"leluhur\" disatukan (sebelumnya \"le luhur\")"
+ ],
+ "status": "",
+ "vl_direct": {
+  "5": {
+   "r": [
+    [
+     "Ber-him-pun-lah le-lu-hur mu-li-a dan pa-ra na-bi-Nya"
+    ],
+    [
+     "Ra-sul se-mua u-mat yg ber-i-man ber-sa-ma Tu-han-nya Yg du-lu men-de-ri-ta seng-sa-ra di du-nia ki-ni ber-su-ka-ci-ta di da-lam t'rang ba-ka"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 6 tertulis di not (hal. 427)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}

@@ -1,0 +1,110 @@
+{
+ "be": 254,
+ "variant": "",
+ "bl": 124,
+ "title": "Ya Yesus sumber hidup",
+ "key": "F",
+ "meter": "4/4",
+ "credit": "Julius Gessenius, 1450",
+ "pages": [
+  314,
+  315
+ ],
+ "cat": "Pergumulan dan Penderitaan",
+ "tempo": 90,
+ "credits": [
+  "Ludwig Andreas Gotter 1695 (1661-1735)",
+  "Lagu: Wittenberg 1524",
+  "Terj.Ind.: Pdt Toga PL Rajagukguk BSM"
+ ],
+ "sections": [
+  {
+   "notes": "1 . | 1 3 2 1 | 7, . 6, . | 3 . 4 2 | 3 . 2 . |\n1 . :|",
+   "rows": [
+    "Ya Ye-sus sum-ber hi-dup cu-rah-kan rah-mat-Mu",
+    "Be-ri-lah ke-hi-du-pan da-mai ba-ha-gi-a"
+   ]
+  },
+  {
+   "notes": "1 . | 3 3 4 4 | 5 . 2 . | 5 . 3 . | 1 2 .\n1 | 7, . 6, . | 3 . 4 2 | 3 . 2 . | 1 . |]",
+   "rows": [
+    "Ce-ri-a-kan wa-jah-ku bang-kit-kan se-ma-ngat-ku de-ngar-lah do-a-ku"
+   ]
+  }
+ ],
+ "verses": [
+  [
+   "Ya Yesus sumber hidup curahkan rahmatMu",
+   "Berilah kehidupan damai bahagia",
+   "Ceriakan wajahku bangkitkan semangatku dengarlah doaku"
+  ],
+  [
+   "Ampunilah diriku, jauhkan dosaku",
+   "Redakanlah murka-Mu bagiku yang sesat",
+   "Penuhilah hatiku dengan damai-Mu Tuhan",
+   "Dengarlah doaku"
+  ],
+  [
+   "Singkirkanlah dariku segala yang jahat",
+   "Yang menguasai hidupku, merusak jiwaku",
+   "'Ku ingin mengikut-Mu, memuliakan nama-Mu",
+   "Ya Yesus Tuhanku"
+  ],
+  [
+   "Sinarilah hatiku dengan Roh Kudus-Mu",
+   "Berikanlah hikmat-Mu mengerti Firman-Mu",
+   "Teguhkanlah imanku dengan kebenaran-Mu",
+   "Melawan seteru"
+  ],
+  [
+   "Nyalakan di hatiku kasihMu padaku",
+   "Aku mengasihiMu ku taat FirmanMu",
+   "Kiranya kehendakMu jadi kehidupanku karena rahmatMu"
+  ],
+  [
+   "Berikan kekuatan bagiku yang lemah",
+   "Hanya Roh-Mu ya Tuhan yang memberikannya",
+   "Tiada kesanggupanku melakukan p'rintah-Mu",
+   "Tiada dayaku"
+  ],
+  [
+   "Kar'na itu Tuhanku kasihi hamba-Mu",
+   "Baharui hidupku, kuatkan hatiku",
+   "Diamlah di hatiku dan bimbinglah langkahku",
+   "Ikuti jalan-Mu"
+  ]
+ ],
+ "vnum": [
+  1,
+  2,
+  3,
+  4,
+  5,
+  6,
+  7
+ ],
+ "checks": [
+  "Koreksi dari gambar halaman: hal. 314 kepala lagu: Buku Logu 124 (data kosong) → bl 124",
+  "Koreksi dari gambar halaman: hal. 315 (ayat 5 bernot): pemisahan kata diperbaiki: di ha-ti-ku, me-nga-si-hi-Mu ku, ja-di ke-hi-du-pan-ku (sebelumnya di-ha-ti-ku, me-nga-si-hi-Mu-ku, ja di-ke-hi-du-pan-ku); vl_direct + teks ayat 5"
+ ],
+ "status": "",
+ "vl_direct": {
+  "4": {
+   "r": [
+    [
+     "Nya-la-kan di ha-ti-ku ka-sih-Mu pa-da-ku",
+     "A-ku me-nga-si-hi-Mu ku ta-at Fir-man-Mu"
+    ],
+    [
+     "Ki-ra-nya ke-hen-dak-Mu ja-di ke-hi-du-pan-ku ka-re-na rah-mat-Mu"
+    ]
+   ],
+   "c": 0,
+   "n": [
+    "lirik ayat 5 tertulis di not (hal. 315)"
+   ]
+  }
+ },
+ "fixed": true,
+ "warn": []
+}
