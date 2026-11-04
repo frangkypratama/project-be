@@ -621,6 +621,8 @@ function renderList(filter){
     if(CUR&&(CUR.id||CUR.be)==(h.id||h.be)) a.setAttribute("aria-current","page");
     li.appendChild(a); ol.appendChild(li);
   });
+  var cur=ol.querySelector("[aria-current]");   // buka halaman lagu: daftar langsung tergulir ke lagu yang sedang dibuka
+  if(cur&&!f){ol.scrollTop+=cur.getBoundingClientRect().top-ol.getBoundingClientRect().top-(ol.clientHeight-cur.offsetHeight)/2;}
 }
 function current(){return CUR;}
 function pad2(n){return ("0"+n).slice(-2);}
