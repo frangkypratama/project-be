@@ -81,11 +81,10 @@ Alamat lama (`/be/550/`, `/bn/62/`) dialihkan 301 oleh Nginx memakai daftar yang
 di `/etc/nginx/bukuende-redirects.map`. Pasang sekali di VPS:
 
 ```bash
-/opt/project-be/deploy/deploy.sh                 # membuat berkas redirects.map
-nano /etc/nginx/sites-available/bukuende         # tambahkan 2 hal (lihat deploy/nginx-bukuende.conf):
-#   di luar blok server:  map_hash_bucket_size 128;  dan blok  map $uri $bk_baru { default ""; include /etc/nginx/bukuende-redirects.map; }
-#   di blok server HTTPS (listen 443):  if ($bk_baru) { return 301 $bk_baru; }
-nginx -t && systemctl reload nginx
+/opt/project-be/deploy/deploy.sh                  # membuat /etc/nginx/bukuende-redirects.map
+/opt/project-be/deploy/setup-redirects.sh         # memasang map + baris "if" di Nginx, nginx -t, reload
 ```
+
+Skrip kedua aman dijalankan berulang dan menyimpan cadangan konfigurasi (`*.bak-<waktu>`).
 
 Sebelum itu dipasang, alamat lama tetap bekerja lewat halaman pengalih (meta refresh) yang ikut dibangun.
