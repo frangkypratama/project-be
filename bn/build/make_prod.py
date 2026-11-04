@@ -132,8 +132,7 @@ document.addEventListener("keydown",function(e){var tg=e.target&&e.target.tagNam
   var sel=e.key==="ArrowLeft"?".pager a.prev":e.key==="ArrowRight"?".pager a.next":null;var a=sel&&document.querySelector(sel);if(a){location.hash=a.getAttribute("href");}});""")
 
 # ---- beranda prod: tanpa keterangan pratinjau Dev ----
-rep(' <i>Pratinjau Dev: tab Buku Ende membuka bukuende.com di tab baru.</i>', '')
-rep(' <b>\'+nf(chk)+\'</b> nyanyian masih ditandai "Perlu dicek".', '')
+
 
 # ---- kunci penyimpanan bersama: tema dan tampilan not satu untuk Buku Ende dan Buku Nyanyian (satu alamat) ----
 for _k in ("theme", "view"):

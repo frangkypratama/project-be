@@ -640,7 +640,7 @@ function demoFeat(f){ // contoh langsung di beranda: satu baris pertama dari lag
   var one={lines:[ln],rows:s0.rows.slice(0,1),src:"",meter:s0.meter,key:s0.key};
   var head='<p class="dtitle">Contoh: BN '+(h.id||h.be)+' \u00b7 '+h.title+(f==='ayat'?'':' (6 birama pertama)')+'</p>';
   if(f==="angka"){
-    d.innerHTML=head+'<div class="angka" id="dAngka"></div><p class="dcap">Ditulis seperti di buku: garis atas untuk not \u00bd ketuk, titik di atas atau di bawah angka untuk oktaf.</p>';
+    d.innerHTML=head+'<div class="angka" id="dAngka"></div>';
     renderAngka(one,document.getElementById("dAngka"),1);
   }else if(f==="balok"||f==="putar"){
     d.innerHTML=head+(f==="putar"?'<div class="row"><button type="button" class="btn primary" id="playBtn">'+PLAY_LABEL+'</button><span class="dcap">Suara organ; not yang berbunyi ditandai.</span></div>':'')+'<div class="staff" id="staff"></div>'+(f==="balok"?'<p class="dcap">Dibuat otomatis dari not angka, dengan lirik di bawah not.</p>':'');
@@ -678,7 +678,7 @@ function renderHome(){
    '<button type="button" role="tab" data-f="putar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z"/></svg>Putar</button>'+
    '<button type="button" role="tab" data-f="ayat"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7h14M5 12h14M5 17h9"/></svg>Ayat</button></div>'+
    '<div class="demo" id="demo" role="tabpanel"><p class="dtitle">Memuat contoh\u2026</p></div></section>'+
-   '<section class="xnote"><b>Dua buku, satu situs.</b> Tab di kiri atas berpindah antara Buku Ende dan Buku Nyanyian. '+nf(be)+' nyanyian punya pasangan di Buku Ende (Buku Logu sama) dan tautannya ada di halamannya.</section></div>';
+   '</div>';
   document.querySelectorAll(".fchips button").forEach(function(b){b.addEventListener("click",function(){demoFeat(b.dataset.f);});});
   document.getElementById("goForm").addEventListener("submit",function(e){e.preventDefault();
     var v=document.getElementById("goNo").value.trim().toLowerCase().replace(/^(bn)\s*-?\s*/,"").replace(/^0+/,"");
