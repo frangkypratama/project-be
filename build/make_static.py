@@ -226,7 +226,7 @@ logu1 = f"Logu No. {first['bl']}" if first.get("bl") else ""
 home = f"""<div class="home">
 <section class="hero">
   <h1>Buku Ende</h1>
-  <p class="lead">Ende HKBP dengan not angka, not balok, dan lirik semua ayat. Not bisa diputar dengan suara organ.</p>
+  <p class="lead">Nyanyikan, mainkan, dan dengarkan {fmt(n_main)} ende HKBP, lengkap dengan not angka, not balok, dan semua ayatnya.</p>
   <form class="go" id="goForm" autocomplete="off">
     <label for="goNo">Ende nomor</label>
     <span class="board"><input id="goNo" inputmode="numeric" placeholder="550" maxlength="5" aria-describedby="goMsg"></span>

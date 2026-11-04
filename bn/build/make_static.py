@@ -166,7 +166,7 @@ for i, hid in enumerate(ids):
 nav = "".join(f'<li><a href="{BP}/{hid}/"><span class="n">{E(hid)}</span><span class="t">{E(hymns[hid]["title"])}</span></a></li>' for hid in ids)
 n_main = len({x["be"] for x in index})
 home = f"""<div class="home"><section class="hero"><h1>Buku Nyanyian</h1>
-<p class="lead">Nyanyian HKBP dengan not angka, not balok, dan lirik semua ayat. Not bisa diputar dengan suara organ.</p></section></div>"""
+<p class="lead">Nyanyikan, mainkan, dan dengarkan {n_main} nyanyian HKBP, lengkap dengan not angka, not balok, dan semua ayatnya.</p></section></div>"""
 ld = {"@context": "https://schema.org", "@type": "WebSite", "name": BOOK, "url": BASE + "/bn/", "inLanguage": "id"}
 open(os.path.join(BNOUT, "index.html"), "w", encoding="utf-8").write(
     page("/bn/", f"{BOOK} – lirik, not angka, not balok",
