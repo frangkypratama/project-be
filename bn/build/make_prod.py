@@ -135,6 +135,11 @@ document.addEventListener("keydown",function(e){var tg=e.target&&e.target.tagNam
 # ---- beranda prod: tanpa keterangan pratinjau Dev ----
 rep(' <i>Pratinjau Dev: tab Buku Ende membuka bukuende.com di tab baru.</i>', '')
 
+# ---- kunci penyimpanan bersama: tema dan tampilan not satu untuk Buku Ende dan Buku Nyanyian (satu alamat) ----
+for _k in ("theme", "view"):
+    s = s.replace('localStorage.getItem("bn-' + _k + '")', '(localStorage.getItem("' + _k + '")||localStorage.getItem("bn-' + _k + '")||localStorage.getItem("be-' + _k + '"))')
+    s = s.replace('localStorage.setItem("bn-' + _k + '"', 'localStorage.setItem("' + _k + '"')
+
 os.makedirs(os.path.dirname(dst), exist_ok=True)
 open(dst, 'w', encoding='utf-8').write(s)
 print('ok', dst, len(s))

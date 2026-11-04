@@ -153,6 +153,11 @@ s = re.sub(r'<p class="pilot-note">.*?</p>\s*', '', s, flags=re.S)
 _b = s.count('<footer>'); assert _b == 1, _b
 s = re.sub(r'\s*<footer>.*?</footer>', '', s, flags=re.S)
 
+# ---- kunci penyimpanan bersama: tema dan tampilan not satu untuk Buku Ende dan Buku Nyanyian (satu alamat) ----
+for _k in ("theme", "view"):
+    s = s.replace('localStorage.getItem("be-' + _k + '")', '(localStorage.getItem("' + _k + '")||localStorage.getItem("be-' + _k + '")||localStorage.getItem("bn-' + _k + '"))')
+    s = s.replace('localStorage.setItem("be-' + _k + '"', 'localStorage.setItem("' + _k + '"')
+
 os.makedirs(os.path.dirname(dst), exist_ok=True)
 open(dst, 'w', encoding='utf-8').write(s)
 print('ok', dst, len(s))

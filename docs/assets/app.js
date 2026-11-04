@@ -266,7 +266,7 @@ var PLAY_LABEL='<svg width="12" height="12" viewBox="0 0 12 12" aria-hidden="tru
 var STOP_LABEL='<svg width="12" height="12" viewBox="0 0 12 12" aria-hidden="true"><rect x="2" y="2" width="8" height="8" fill="currentColor"/></svg>Berhenti';
 
 /* ---------- state + views ---------- */
-var view="both"; try{view=localStorage.getItem("be-view")||"both";}catch(e){}
+var view="both"; try{view=(localStorage.getItem("view")||localStorage.getItem("be-view")||localStorage.getItem("bn-view"))||"both";}catch(e){}
 var bpm=84;
 var VSEL={id:null,k:0}, VALL=true, CURSECS=null, CURH=null; // ayat yang sedang tampil; putar semua ayat
 function pad3(n){return ("00"+n).slice(-3);}
@@ -358,7 +358,7 @@ function renderHymn(){
   main.appendChild(pg);
   applyView();
 
-  document.querySelectorAll(".seg button").forEach(function(b){b.addEventListener("click",function(){view=b.dataset.v;try{localStorage.setItem("be-view",view);}catch(e){}applyView();});});
+  document.querySelectorAll(".seg button").forEach(function(b){b.addEventListener("click",function(){view=b.dataset.v;try{localStorage.setItem("view",view);}catch(e){}applyView();});});
   document.getElementById("playBtn").addEventListener("click",function(){if(audio.playing)stopAudio();else playHymn(h,secs,bpm);});
   var pb=document.getElementById("printBtn"); if(pb) pb.addEventListener("click",function(){stopAudio();window.print();});
   document.querySelectorAll(".vchips button").forEach(function(b){b.addEventListener("click",function(){var was=audio.playing;if(was)stopAudio();setVerse(+b.dataset.k);if(was)playHymn(h,secs,bpm);});});
@@ -471,16 +471,16 @@ var ORIG={};
   var root=document.documentElement, btn=document.getElementById("themeBtn"), mq=window.matchMedia?window.matchMedia("(prefers-color-scheme: dark)"):null;
   function isDark(){var t=root.getAttribute("data-theme");return t?t==="dark":!!(mq&&mq.matches);}
   function label(){var d=isDark();btn.setAttribute("aria-label",d?"Ganti ke mode terang":"Ganti ke mode gelap");btn.title=d?"Mode terang":"Mode gelap";}
-  var saved=null; try{saved=localStorage.getItem("be-theme");}catch(e){}
+  var saved=null; try{saved=(localStorage.getItem("theme")||localStorage.getItem("be-theme")||localStorage.getItem("bn-theme"));}catch(e){}
   if(saved==="dark"||saved==="light") root.setAttribute("data-theme",saved);
   else if(mq&&mq.matches) root.setAttribute("data-theme","dark");
   label();
   btn.addEventListener("click",function(){
     var next=isDark()?"light":"dark"; root.setAttribute("data-theme",next);
-    try{localStorage.setItem("be-theme",next);}catch(e){}
+    try{localStorage.setItem("theme",next);}catch(e){}
     label();
   });
-  if(mq&&mq.addEventListener) mq.addEventListener("change",function(){var sv=null;try{sv=localStorage.getItem("be-theme");}catch(e){} if(!sv){root.setAttribute("data-theme",mq.matches?"dark":"light");label();}});
+  if(mq&&mq.addEventListener) mq.addEventListener("change",function(){var sv=null;try{sv=(localStorage.getItem("theme")||localStorage.getItem("be-theme")||localStorage.getItem("bn-theme"));}catch(e){} if(!sv){root.setAttribute("data-theme",mq.matches?"dark":"light");label();}});
 })();
 document.getElementById("q").addEventListener("input",function(e){renderList(e.target.value);});
 document.getElementById("q").addEventListener("keydown",function(e){if(e.key==="Enter"){var a=document.querySelector("#list a");if(a)location.href=a.getAttribute("href");}});
