@@ -627,7 +627,7 @@ function renderHome(){
    '<dl class="stats"><div><dt>Nyanyian</dt><dd>'+nf(main)+'</dd></div><div><dt>Ayat</dt><dd>'+nf(nv)+'</dd></div>'+
    '<div><dt>Ayat dengan lirik di bawah not</dt><dd>'+nf(nvl)+'</dd></div><div><dt>Dengan nomor Buku Logu</dt><dd>'+nf(bl)+'</dd></div></dl>'+
    '<section class="today"><h2>Nyanyian hari ini</h2><a class="today-head" id="todayLink" href="#bn-1"><span class="no" id="todayNo"></span><span class="tt"><span class="t" id="todayTitle"></span><span class="lg" id="todayLogu"></span></span></a><p class="today-v" id="todayVerse"></p><a class="btn" id="todayBtn" href="#bn-1">Buka nyanyian ini</a></section>'+
-   '<section class="block"><h2>Per seratus nomor</h2><div class="ranges">'+tiles+'</div></section>'+
+   '<section class="block"><h2>Per seratus nomor</h2><div class="ranges">'+tiles+'</div>'+(window.BE_STATIC?'<p class="more"><a href="'+BP+'/daftar/">Lihat daftar lengkap '+main+' nyanyian beserta judulnya \u2192</a></p>':'')+'</section>'+
    '<section class="block"><h2>Fitur</h2><div class="fchips" role="tablist" aria-label="Fitur di setiap nyanyian">'+
    '<button type="button" role="tab" data-f="angka"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5h8M12 9v10M9.5 11.5 12 9"/></svg>Not angka</button>'+
    '<button type="button" role="tab" data-f="balok"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 8h18M3 11h18M3 14h18M3 17h18"/><circle cx="9" cy="14" r="2"/><path d="M11 14V6"/></svg>Not balok</button>'+

@@ -66,17 +66,26 @@ js = rep(js, """  var m=location.hash.match(/^#b[ne]-(\\d+[a-z]?)$/);
   var n=m[1].replace(/^0+/,"");""",
          """  var m=location.hash.match(/^#b[ne]-(\\d+[a-z]?)$/);
   if(m){location.replace(BP+"/"+m[1].replace(/^0+/,"")+"/");return;} // alamat lama
-  if(!window.BN_PAGE){renderHome();return;}
+  if(!window.BN_PAGE){if(window.BN_DAFTAR)return;renderHome();return;}
   var n=String(window.BN_PAGE);""")
 js = mark(js).strip()
 _bp = "var BP=" + json.dumps(BP) + "; // awalan path BN\n"
 js = js.replace('"use strict";', '"use strict";\n' + _bp, 1) if js.startswith('"use strict";') else _bp + js
 
+DL_CSS = """.dl{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:2px 24px}
+.dl a{display:flex;gap:10px;align-items:baseline;padding:7px 4px;color:var(--ink);text-decoration:none;border-bottom:1px solid var(--rule);min-width:0}
+.dl a:hover{color:var(--gorga)}
+.dl a:focus-visible{outline:2px solid var(--gorga);outline-offset:2px}
+.dl .dn{font-family:var(--f-num);font-weight:700;font-variant-numeric:tabular-nums;min-width:3.2ch;color:var(--ink-2)}
+.dl .dt{font-family:var(--f-display);min-width:0;overflow-wrap:anywhere}
+.more{margin:14px 0 0}
+.more a{color:var(--gorga)}
+"""
 os.makedirs(os.path.join(BNOUT, "assets"), exist_ok=True)
 shutil.rmtree(os.path.join(BNOUT, "data"), ignore_errors=True)
 import hashlib
 V = hashlib.sha1((css + js).encode("utf-8")).hexdigest()[:8]  # nomor versi berkas (lihat build/make_static.py)
-open(os.path.join(BNOUT, "assets", "app.css"), "w", encoding="utf-8").write(css.strip() + "\n")
+open(os.path.join(BNOUT, "assets", "app.css"), "w", encoding="utf-8").write(css.strip() + "\n" + DL_CSS)
 open(os.path.join(BNOUT, "assets", "app.js"), "w", encoding="utf-8").write(js + "\n")
 shutil.copytree(DATA, os.path.join(BNOUT, "data"))
 
@@ -87,6 +96,22 @@ for f in sorted(glob.glob(os.path.join(DATA, "b*.json"))):
         hymns[str(h.get("id") or h["be"])] = h
 DO = {"C": "C", "D": "D", "E": "E", "F": "F", "G": "G", "A": "A", "B": "B", "Bb": "Bes", "Eb": "Es", "Ab": "As", "Db": "Des",
       "Gb": "Ges", "F#": "Fis"}
+
+
+def sm_label(s):
+    s = re.sub(r"-{2,}", "-", str(s)).strip().rstrip("-").strip()
+    return s.replace("<", "").replace(">", "")
+
+
+def daftar_main(pref, label, ids_, hy):
+    groups = {}
+    for i in ids_:
+        groups.setdefault((hy[i]["be"] - 1) // 100, []).append(i)
+    out = f'<header class="hymn-head"><div class="hymn-no">No.</div><h1>Daftar {label}</h1><div class="meta"><span>{len({hy[i]["be"] for i in ids_})} nomor, urut nomor</span></div></header>'
+    for g in sorted(groups):
+        out += f'<section class="block"><h2>{g * 100 + 1}–{g * 100 + 100}</h2><ul class="dl">' + "".join(
+            f'<li><a href="{pref}/{i}/"><span class="dn">{E(i)}</span><span class="dt">{E(hy[i]["title"])}</span></a></li>' for i in groups[g]) + "</ul></section>"
+    return out
 
 
 def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=""):
@@ -115,7 +140,7 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
     b = rep(b, '<main id="main"></main>', '<main id="main">' + main + '</main>')
     if nav:
         b = rep(b, '<ol id="list"></ol>', '<ol id="list">' + nav + '</ol>')
-    tail = (f'<script>window.BE_STATIC=true;window.BN_PAGE={json.dumps(page_id)};</script>\n' if page_id else '<script>window.BE_STATIC=true;</script>\n') \
+    tail = (f'<script>window.BE_STATIC=true;window.BN_PAGE={json.dumps(page_id)};</script>\n' if page_id else '<script>window.BE_STATIC=true;' + ('window.BN_DAFTAR=true;' if path.endswith('/daftar/') else '') + '</script>\n') \
         + abcjs + f'\n<script src="{BP}/assets/app.js?v={V}"></script>\n</body>\n</html>\n'
     return head + b + tail
 
@@ -173,9 +198,17 @@ open(os.path.join(BNOUT, "index.html"), "w", encoding="utf-8").write(
          f"Buku Nyanyian HKBP digital: {n_main} nyanyian dengan lirik semua ayat, not angka, dan not balok yang bisa diputar.",
          home, nav=nav, jsonld=ld))
 
+# --- daftar lengkap (nomor + judul) ---
+os.makedirs(os.path.join(BNOUT, "daftar"), exist_ok=True)
+open(os.path.join(BNOUT, "daftar", "index.html"), "w", encoding="utf-8").write(page(
+    "/bn/daftar/", f"Daftar Nyanyian HKBP – nomor dan judul | {BOOK}",
+    f"Daftar lengkap {n_main} nyanyian HKBP berdasarkan nomor Buku Nyanyian, dengan judul masing-masing.",
+    daftar_main(BP, "Nyanyian", ids, hymns), nav=nav))
+
 # --- sitemap-bn.xml, robots.txt ---
-sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">', f"  <url><loc>{BASE}/bn/</loc></url>"]
-sm += [f"  <url><loc>{BASE}{u}</loc></url>" for u in urls]
+sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">', f"  <url><loc>{BASE}/bn/</loc></url> <!-- Beranda Buku Nyanyian -->"]
+sm.append(f"  <url><loc>{BASE}/bn/daftar/</loc></url> <!-- Daftar lengkap nomor dan judul -->")
+sm += [f"  <url><loc>{BASE}{u}</loc></url> <!-- {sm_label(u.split('/')[2] + '. ' + hymns[u.split('/')[2]]['title'])} -->" for u in urls]
 sm.append("</urlset>")
 open(os.path.join(OUT, "sitemap-bn.xml"), "w").write("\n".join(sm) + "\n")
 rb = os.path.join(OUT, "robots.txt")

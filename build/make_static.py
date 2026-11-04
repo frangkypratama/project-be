@@ -72,6 +72,14 @@ HOME_CSS = """
 .today-v{margin:12px 0 18px;font-family:var(--f-display);font-size:18px;line-height:1.6;max-width:60ch}
 .today-v span{display:block}
 .home a.btn{text-decoration:none}
+.dl{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:2px 24px}
+.dl a{display:flex;gap:10px;align-items:baseline;padding:7px 4px;color:var(--ink);text-decoration:none;border-bottom:1px solid var(--rule);min-width:0}
+.dl a:hover{color:var(--gorga)}
+.dl a:focus-visible{outline:2px solid var(--gorga);outline-offset:2px}
+.dl .dn{font-family:var(--f-num);font-weight:700;font-variant-numeric:tabular-nums;min-width:3.2ch;color:var(--ink-2)}
+.dl .dt{font-family:var(--f-display);min-width:0;overflow-wrap:anywhere}
+.more{margin:14px 0 0}
+.more a{color:var(--gorga)}
 .ranges{display:grid;grid-template-columns:repeat(auto-fill,minmax(200px,1fr));gap:8px}
 .rng{display:flex;flex-direction:column;gap:2px;padding:12px 14px;background:var(--sheet);border:1px solid var(--rule);border-radius:10px;color:var(--ink);text-decoration:none;min-width:0}
 .rng:hover{border-color:var(--gorga)}
@@ -138,6 +146,22 @@ for f in sorted(glob.glob(os.path.join(DATA, "b*.json"))):
         hymns[str(h.get("id") or h["be"])] = h
 DO = {"C": "C", "D": "D", "E": "E", "F": "F", "G": "G", "A": "A", "B": "B", "Bb": "Bes", "Eb": "Es", "Ab": "As", "Db": "Des",
       "Gb": "Ges", "F#": "Fis", "C#": "Cis", "G#": "Gis", "D#": "Dis", "A#": "Ais"}
+
+
+def sm_label(s):
+    s = re.sub(r"-{2,}", "-", str(s)).strip().rstrip("-").strip()
+    return s.replace("<", "").replace(">", "")
+
+
+def daftar_main(pref, label, ids_, hy):
+    groups = {}
+    for i in ids_:
+        groups.setdefault((hy[i]["be"] - 1) // 100, []).append(i)
+    out = f'<header class="hymn-head"><div class="hymn-no">No.</div><h1>Daftar {label}</h1><div class="meta"><span>{len({hy[i]["be"] for i in ids_})} nomor, urut nomor</span></div></header>'
+    for g in sorted(groups):
+        out += f'<section class="block"><h2>{g * 100 + 1}–{g * 100 + 100}</h2><ul class="dl">' + "".join(
+            f'<li><a href="{pref}/{i}/"><span class="dn">{E(i)}</span><span class="dt">{E(hy[i]["title"])}</span></a></li>' for i in groups[g]) + "</ul></section>"
+    return out
 
 
 def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head="", extra_tail=""):
@@ -257,7 +281,7 @@ home = f"""<div class="home">
   <p class="today-v" id="todayVerse">{v1}</p>
   <a class="btn" id="todayBtn" href="{P}/be/{first['be']}/">Buka ende ini</a>
 </section>
-<section class="block"><h2>Per seratus nomor</h2><div class="ranges">{tiles}</div></section>
+<section class="block"><h2>Per seratus nomor</h2><div class="ranges">{tiles}</div><p class="more"><a href="{P}/daftar/">Lihat daftar lengkap {fmt(n_main)} ende beserta judulnya →</a></p></section>
 <section class="block"><h2>Fitur</h2><div class="fchips" role="tablist" aria-label="Fitur di setiap ende">
 <button type="button" role="tab" data-f="angka"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5h8M12 9v10M9.5 11.5 12 9"/></svg>Not angka</button>
 <button type="button" role="tab" data-f="balok"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 8h18M3 11h18M3 14h18M3 17h18"/><circle cx="9" cy="14" r="2"/><path d="M11 14V6"/></svg>Not balok</button>
@@ -324,10 +348,18 @@ open(os.path.join(OUT, "index.html"), "w", encoding="utf-8").write(
 nf = f"""<header class="hymn-head"><div class="hymn-no">404</div><h1>Halaman tidak ditemukan</h1><div class="meta"><span>Pilih ende di daftar atau kembali ke <a href="{P}/">beranda</a>.</span></div></header>"""
 open(os.path.join(OUT, "404.html"), "w", encoding="utf-8").write(page("/404.html", "Halaman tidak ditemukan | Buku Ende HKBP Digital", "Halaman tidak ditemukan.", nf, extra_head='<meta name="robots" content="noindex">\n'))
 
+# --- daftar lengkap (nomor + judul) ---
+os.makedirs(os.path.join(OUT, "daftar"), exist_ok=True)
+open(os.path.join(OUT, "daftar", "index.html"), "w", encoding="utf-8").write(page(
+    "/daftar/", "Daftar Ende HKBP – nomor dan judul | Buku Ende HKBP Digital",
+    f"Daftar lengkap {n_main} ende HKBP berdasarkan nomor Buku Ende, dengan judul masing-masing.",
+    daftar_main(f"{P}/be", "Ende", ids, hymns), nav=nav))
+
 # --- sitemap & robots ---
-sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">', f"  <url><loc>{BASE}/</loc></url>"]
-sm += [f"  <url><loc>{BASE}{u}</loc></url>" for u in urls]
+sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">', f"  <url><loc>{BASE}/</loc></url> <!-- Beranda Buku Ende -->"]
+sm.append(f"  <url><loc>{BASE}/daftar/</loc></url> <!-- Daftar lengkap nomor dan judul -->")
+sm += [f"  <url><loc>{BASE}{u}</loc></url> <!-- {sm_label(u.split('/')[2] + '. ' + hymns[u.split('/')[2]]['title'])} -->" for u in urls]
 sm.append("</urlset>")
 open(os.path.join(OUT, "sitemap.xml"), "w").write("\n".join(sm) + "\n")
 open(os.path.join(OUT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\n\nSitemap: {BASE}/sitemap.xml\n")
-print(f"ok: {len(urls)} halaman lagu + beranda + 404, sitemap {len(urls) + 1} URL, base {BASE}")
+print(f"ok: {len(urls)} halaman lagu + beranda + 404, sitemap {len(urls) + 2} URL, base {BASE}")
