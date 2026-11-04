@@ -112,6 +112,8 @@ js = (js.replace('"use strict";', '"use strict";\n' + _bp, 1) if js.startswith('
 os.makedirs(os.path.join(OUT, "assets"), exist_ok=True)
 for d in ("be", "data"):
     shutil.rmtree(os.path.join(OUT, d), ignore_errors=True)
+import hashlib
+V = hashlib.sha1((css + HOME_CSS + js).encode("utf-8")).hexdigest()[:8]  # nomor versi: ganti isi berkas = ganti alamat, jadi cache 7 hari tidak menahan versi lama
 open(os.path.join(OUT, "assets", "app.css"), "w", encoding="utf-8").write(css.strip() + "\n" + HOME_CSS)
 open(os.path.join(OUT, "assets", "app.js"), "w", encoding="utf-8").write(js.strip() + "\n")
 shutil.copytree(DATA, os.path.join(OUT, "data"))
@@ -145,7 +147,7 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
 <meta property="og:locale" content="id_ID">
 <link rel="icon" href="{P}/favicon.ico" sizes="any">
 {fonts}
-<link rel="stylesheet" href="{P}/assets/app.css">
+<link rel="stylesheet" href="{P}/assets/app.css?v={V}">
 {extra_head}{('<script type="application/ld+json">' + json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + '</script>') if jsonld else ''}
 </head>
 <body>"""
@@ -158,7 +160,7 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
     if nav:
         b = rep(b, '<ol id="list"></ol>', '<ol id="list">' + nav + '</ol>')
     b = b.replace('Buku Ende HKBP Digital</div>', f'<a href="{P}/" style="color:inherit;text-decoration:none">Buku Ende HKBP Digital</a></div>', 1)
-    tail = (f'<script>window.BE_STATIC=true;window.BE_PAGE={json.dumps(page_id)};</script>\n' if page_id else '') + abcjs + f'\n<script src="{P}/assets/app.js"></script>\n' + extra_tail + f'</body>\n</html>\n'
+    tail = (f'<script>window.BE_STATIC=true;window.BE_PAGE={json.dumps(page_id)};</script>\n' if page_id else '') + abcjs + f'\n<script src="{P}/assets/app.js?v={V}"></script>\n' + extra_tail + f'</body>\n</html>\n'
     return head + b + tail
 
 

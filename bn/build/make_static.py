@@ -74,6 +74,8 @@ js = js.replace('"use strict";', '"use strict";\n' + _bp, 1) if js.startswith('"
 
 os.makedirs(os.path.join(BNOUT, "assets"), exist_ok=True)
 shutil.rmtree(os.path.join(BNOUT, "data"), ignore_errors=True)
+import hashlib
+V = hashlib.sha1((css + js).encode("utf-8")).hexdigest()[:8]  # nomor versi berkas (lihat build/make_static.py)
 open(os.path.join(BNOUT, "assets", "app.css"), "w", encoding="utf-8").write(css.strip() + "\n")
 open(os.path.join(BNOUT, "assets", "app.js"), "w", encoding="utf-8").write(js + "\n")
 shutil.copytree(DATA, os.path.join(BNOUT, "data"))
@@ -105,7 +107,7 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
 <meta property="og:locale" content="id_ID">
 <link rel="icon" href="{RP}/favicon.ico" sizes="any">
 {fonts}
-<link rel="stylesheet" href="{BP}/assets/app.css">
+<link rel="stylesheet" href="{BP}/assets/app.css?v={V}">
 {extra_head}{('<script type="application/ld+json">' + json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + '</script>') if jsonld else ''}
 </head>
 <body>"""
@@ -114,7 +116,7 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
     if nav:
         b = rep(b, '<ol id="list"></ol>', '<ol id="list">' + nav + '</ol>')
     tail = (f'<script>window.BE_STATIC=true;window.BN_PAGE={json.dumps(page_id)};</script>\n' if page_id else '<script>window.BE_STATIC=true;</script>\n') \
-        + abcjs + f'\n<script src="{BP}/assets/app.js"></script>\n</body>\n</html>\n'
+        + abcjs + f'\n<script src="{BP}/assets/app.js?v={V}"></script>\n</body>\n</html>\n'
     return head + b + tail
 
 
