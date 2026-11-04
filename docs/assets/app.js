@@ -496,5 +496,5 @@ document.addEventListener("keydown",function(e){var tg=e.target&&e.target.tagNam
 try{window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",function(){applyView();});}catch(e){}
 new MutationObserver(function(){applyView();}).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
 fetch(BP+"/data/index.json").then(function(r){return r.json();}).then(function(j){INDEX=j;
-  var c=document.getElementById("count"); if(c) c.textContent=INDEX.filter(function(x){return !x.variant;}).length+" ende";
+  var c=document.getElementById("count"); if(c) c.textContent=INDEX.filter(function(x){return !x.variant;}).length+" Ende";
   renderList("");show();}).catch(function(){document.getElementById("main").innerHTML='<p class="status">Daftar ende gagal dimuat.</p>';});

@@ -101,7 +101,7 @@ s = s[:i] + ('<footer>Ditranskrip dari scan Buku Ende HKBP. Not balok dibuat oto
 rep('<span class="st">\'+(h.status||"Draf \\u00b7 perlu dicek")+\'</span>\'',
     '<span class="st">\'+(h.variant?\'lagu kedua\':\'\')+\'</span>\'')
 rep('INDEX.filter(function(x){return !x.variant;}).length+" dari "+TOTAL_BE+" ende sudah ditranskrip"',
-    'INDEX.filter(function(x){return !x.variant;}).length+" ende"')
+    'INDEX.filter(function(x){return !x.variant;}).length+" Ende"')
 rep('Belum ada ende yang cocok di antara yang sudah ditranskrip.',
     'Tidak ada ende yang cocok. Coba nomor BE, nomor Logu, atau sebagian judul.')
 

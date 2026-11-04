@@ -897,6 +897,6 @@ document.addEventListener("keydown",function(e){var tg=e.target&&e.target.tagNam
 try{window.matchMedia("(prefers-color-scheme: dark)").addEventListener("change",function(){applyView();});}catch(e){}
 new MutationObserver(function(){applyView();}).observe(document.documentElement,{attributes:true,attributeFilter:["data-theme"]});
 fetch("data/index.json").then(function(r){return r.json();}).then(function(j){INDEX=j;
-  var c=document.getElementById("count"); if(c) c.textContent=(function(){var u={};INDEX.forEach(function(x){u[x.be]=1;});return Object.keys(u).length;})()+" nomor lagu";
+  var c=document.getElementById("count"); if(c) c.textContent=(function(){var u={};INDEX.forEach(function(x){u[x.be]=1;});return Object.keys(u).length;})()+" Lagu";
   renderList("");show();}).catch(function(){document.getElementById("main").innerHTML='<p class="status">Daftar lagu gagal dimuat.</p>';});
 </script>
