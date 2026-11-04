@@ -599,7 +599,7 @@ function demoFeat(f){ // contoh langsung di beranda: satu baris pertama dari lag
     d.innerHTML=head+'<div class="angka" id="dAngka"></div>';
     renderAngka(one,document.getElementById("dAngka"),1);
   }else if(f==="balok"||f==="putar"){
-    d.innerHTML=head+(f==="putar"?'<div class="row"><button type="button" class="btn primary" id="playBtn">'+PLAY_LABEL+'</button></div>':'')+'<div class="staff" id="staff"></div>'+(f==="balok"?'<p class="dcap">Dibuat otomatis dari not angka, dengan lirik di bawah not.</p>':'');
+    d.innerHTML=head+(f==="putar"?'<div class="row"><button type="button" class="btn primary" id="playBtn">'+PLAY_LABEL+'</button></div>':'')+'<div class="staff" id="staff"></div>';
     drawStaff(h,[one]);
     var pb=document.getElementById("playBtn");
     if(pb) pb.addEventListener("click",function(){if(audio.playing){stopAudio();return;}VALL=false;VSEL={id:h.id||h.be,k:0};if(h.tempo)bpm=Math.max(40,Math.min(160,h.tempo));playHymn(h,[one]);});
