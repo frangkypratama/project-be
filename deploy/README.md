@@ -34,6 +34,9 @@ curl -I https://bukuende.com/            # 200
 curl -I https://bukuende.com/be/550/     # 200
 curl -I https://www.bukuende.com/be/550/ # 301 ke https://bukuende.com/be/550/
 curl -I https://bukuende.com/be/9999/    # 404
+curl -I https://bukuende.com/bn/         # 200
+curl -I https://bukuende.com/bn/62/      # 200
+curl -s https://bukuende.com/sitemap-bn.xml | head -3
 curl -s https://bukuende.com/sitemap.xml | head -3
 ```
 
@@ -61,6 +64,10 @@ Setelah perubahan di-push ke GitHub, di VPS:
 ```bash
 /opt/project-be/deploy/deploy.sh
 ```
+
+`deploy.sh` membangun **Buku Ende** (di `/`) dan **Buku Nyanyian** (di `/bn/`) sekaligus,
+dan menulis `sitemap-bn.xml` di samping `sitemap.xml` (keduanya terdaftar di `robots.txt`).
+Setelah deploy pertama yang memuat BN, kirim `https://bukuende.com/sitemap-bn.xml` di Google Search Console.
 
 Situs dibangun di `/var/www/bukuende.new` lalu ditukar, jadi tidak pernah
 tayang setengah jadi. Versi sebelumnya disimpan di `/var/www/bukuende.old`.

@@ -22,6 +22,7 @@ ICON = os.path.join(ROOT, "icon", "salib.ico")
 ap = argparse.ArgumentParser()
 ap.add_argument("--base", default="https://bukuende.example", help="alamat situs, tanpa garis miring di akhir")
 ap.add_argument("--out", default=os.path.join(ROOT, "dist"))
+ap.add_argument("--books", action="store_true", help="tampilkan pengalih Buku Ende | Buku Nyanyian (situs gabungan dengan /bn/)")
 a = ap.parse_args()
 BASE = a.base.rstrip("/")
 from urllib.parse import urlparse
@@ -149,6 +150,10 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
 </head>
 <body>"""
     b = body
+    if a.books:
+        b = b.replace("__ROOT__", P).replace("__BN__", P + "/bn")
+    else:
+        b = re.sub(r'<nav class="books".*?</nav>\s*', '', b, count=1, flags=re.S)
     b = rep(b, '<main id="main"></main>', '<main id="main">' + main + '</main>')
     if nav:
         b = rep(b, '<ol id="list"></ol>', '<ol id="list">' + nav + '</ol>')

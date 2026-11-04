@@ -20,6 +20,9 @@ rep('<title>Buku Ende Digital Dev</title>', '<title>Buku Ende HKBP Digital</titl
 rep('Buku Ende Digital<small class="dev">Dev</small></div>', 'Buku Ende HKBP Digital</div>')
 rep('\\u00b7 Buku Ende Digital"', '\\u00b7 Buku Ende HKBP Digital"')
 
+# ---- pengalih buku (muncul hanya bila make_static dijalankan dengan --books) ----
+rep('<div class="brand">', '<nav class="books" aria-label="Pilih buku"><a href="__ROOT__/" aria-current="true">Buku Ende</a><a href="__BN__/">Buku Nyanyian</a></nav>\n  <div class="brand">')
+
 # ---- CSS ----
 rep('.index{align-self:start;position:sticky;top:calc(env(safe-area-inset-top,0px) + 70px);min-width:0}',
     '.index{align-self:start;position:sticky;top:calc(env(safe-area-inset-top,0px) + var(--tb,64px) + 14px);min-width:0}')
@@ -34,6 +37,12 @@ rep('.toolbar{display:flex;flex-wrap:wrap;gap:10px;align-items:center;margin:16p
     'padding-block:12px;box-shadow:0 1px 0 var(--rule)}')
 extra = r'''
 /* ---- prod: pita gorga, catatan, navigasi lagu, daftar di HP ---- */
+.books{display:inline-flex;flex:none;border:1px solid var(--rule);border-radius:9px;overflow:hidden;background:var(--paper)}
+.books a{padding:7px 13px;font-size:14px;font-weight:600;color:var(--ink-2);text-decoration:none;white-space:nowrap}
+.books a:hover{color:var(--ink)}
+.books a[aria-current="true"]{background:var(--gorga);color:var(--on-accent)}
+.books a:focus-visible{outline:2px solid var(--gorga);outline-offset:-2px}
+@media (max-width:640px){.books{flex-basis:100%}.books a{flex:1;text-align:center}}
 .brand small{font-family:var(--f-body);font-weight:400;font-size:13px;color:var(--ink-2);margin-left:2px}
 .hymn-head{margin-top:4px}
 .chip{display:inline-flex;align-items:center;font-size:11.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;padding:2px 8px;border-radius:999px;background:var(--warn-soft);color:var(--warn)}

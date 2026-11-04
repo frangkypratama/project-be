@@ -15,6 +15,7 @@ dan 6 lagu varian).
 | `build/make_prod.py` | Membuat `site-prod/index.html` (versi **Prod**) dari versi Dev |
 | `build/make_static.py` | Membuat `dist/`: satu halaman HTML per lagu + sitemap untuk Google |
 | `icon/` | Ikon salib (`salib.ico`) |
+| `bn/` | **Buku Nyanyian HKBP Digital** (BN): sumber, build, dan data; tayang di `/bn/` — lihat [`bn/README.md`](bn/README.md) |
 | `docs/` | Hasil `make_static.py` untuk **GitHub Pages**: 870 halaman lagu siap dibaca Google |
 
 Scan PDF Buku Ende dan gambar halaman **tidak** disertakan di repo.
