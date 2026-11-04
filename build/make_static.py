@@ -78,6 +78,17 @@ HOME_CSS = """
 .rng:focus-visible{outline:2px solid var(--gorga);outline-offset:2px}
 .rng .rn{font-family:var(--f-num);font-weight:700;font-size:19px;font-variant-numeric:tabular-nums}
 .rng .rt{font-family:var(--f-display);font-size:15px;color:var(--ink-2);white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.fchips{display:flex;flex-wrap:wrap;gap:8px;margin:0 0 12px}
+.fchips button{display:inline-flex;align-items:center;gap:8px;font:inherit;font-size:14px;font-weight:600;padding:8px 14px 8px 12px;border:1px solid var(--rule);border-radius:999px;background:var(--sheet);color:var(--ink);cursor:pointer}
+.fchips button:hover{border-color:var(--gorga)}
+.fchips button:focus-visible{outline:2px solid var(--gorga);outline-offset:2px}
+.fchips button svg{width:18px;height:18px;flex:none;fill:none;stroke:currentColor;stroke-width:1.8;stroke-linecap:round;stroke-linejoin:round}
+.fchips button[aria-selected="true"]{background:var(--gorga);color:var(--on-accent);border-color:var(--gorga)}
+.demo{background:var(--sheet);border:1px solid var(--rule);border-radius:12px;padding:16px 18px;min-height:170px;display:flex;flex-direction:column;gap:10px;min-width:0}
+.demo .dtitle{margin:0;font-size:13px;color:var(--ink-2)}
+.demo .dcap{margin:0;font-size:14px;color:var(--ink-2)}
+.demo .verse{margin:0;font-size:18px}
+.demo .row{display:flex;gap:10px;align-items:center;flex-wrap:wrap}
 .feats{display:grid;grid-template-columns:repeat(2,minmax(0,1fr));gap:8px}
 .feats div{background:var(--sheet);border:1px solid var(--rule);border-radius:10px;padding:14px 16px}
 .feats h3{margin:0 0 4px;font-family:var(--f-display);font-size:18px;font-weight:600}
@@ -247,13 +258,12 @@ home = f"""<div class="home">
   <a class="btn" id="todayBtn" href="{P}/be/{first['be']}/">Buka ende ini</a>
 </section>
 <section class="block"><h2>Per seratus nomor</h2><div class="ranges">{tiles}</div></section>
-<section class="block"><h2>Di setiap ende</h2>
-<div class="feats">
-  <div><h3>Not angka</h3><p>Ditulis seperti di buku: garis atas untuk not ½ ketuk, titik di atas atau di bawah angka untuk oktaf.</p></div>
-  <div><h3>Not balok</h3><p>Dibuat dari not angka, dengan lirik di bawah not.</p></div>
-  <div><h3>Putar</h3><p>Suara organ. Not yang sedang berbunyi ditandai; tempo bisa diubah sambil diputar.</p></div>
-  <div><h3>Ayat</h3><p>Pilih ayat 1, 2, 3 dan seterusnya; lirik di bawah not ikut berganti.</p></div>
-</div></section>
+<section class="block"><h2>Fitur</h2><div class="fchips" role="tablist" aria-label="Fitur di setiap ende">
+<button type="button" role="tab" data-f="angka"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5h8M12 9v10M9.5 11.5 12 9"/></svg>Not angka</button>
+<button type="button" role="tab" data-f="balok"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M3 8h18M3 11h18M3 14h18M3 17h18"/><circle cx="9" cy="14" r="2"/><path d="M11 14V6"/></svg>Not balok</button>
+<button type="button" role="tab" data-f="putar"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M8 5.5v13l11-6.5z"/></svg>Putar</button>
+<button type="button" role="tab" data-f="ayat"><svg viewBox="0 0 24 24" aria-hidden="true"><path d="M5 7h14M5 12h14M5 17h9"/></svg>Ayat</button></div>
+<div class="demo" id="demo" role="tabpanel"><p class="dtitle">Memuat contoh…</p></div></section>
 </div>"""
 home_js = r"""<script>
 (function(){
@@ -265,16 +275,45 @@ home_js = r"""<script>
     load().then(function(ix){var hit=ix.filter(function(x){return String(x.id||x.be)===v;})[0];
       if(hit)go(hit.id||hit.be);else{msg.textContent="Tidak ada ende nomor "+v+".";inp.select();}});});
   inp.addEventListener("input",function(){msg.textContent="";});
-  // ende hari ini: dipilih acak setiap kali beranda dibuka atau dimuat ulang
-  load().then(function(ix){
+  // ende hari ini + contoh fitur: dipilih acak setiap kali beranda dibuka; utamakan ende yang punya lebih dari satu ayat berlirik
+  var DEMO=null;
+  function demoFeat(f){
+    var d=document.getElementById("demo"); if(!d||!DEMO) return; stopAudio();
+    document.querySelectorAll(".fchips button").forEach(function(b){var on=b.dataset.f===f;b.setAttribute("aria-selected",String(on));b.tabIndex=on?0:-1;});
+    var h=DEMO.h, s0=DEMO.secs[0], ln={}; for(var kk in s0.lines[0]) ln[kk]=s0.lines[0][kk]; ln.items=s0.lines[0].items.slice(0,6);
+    var one={lines:[ln],rows:s0.rows.slice(0,1),src:"",meter:s0.meter,key:s0.key};
+    var head='<p class="dtitle">BE '+(h.id||h.be)+' \u00b7 '+h.title+'</p>';
+    if(f==="angka"){
+      d.innerHTML=head+'<div class="angka" id="dAngka"></div>'; renderAngka(one,document.getElementById("dAngka"),1);
+    }else if(f==="balok"||f==="putar"){
+      d.innerHTML=head+(f==="putar"?'<div class="row"><button type="button" class="btn primary" id="playBtn">'+PLAY_LABEL+'</button></div>':'')+'<div class="staff" id="staff"></div>';
+      drawStaff(h,[one]);
+      var pb=document.getElementById("playBtn");
+      if(pb) pb.addEventListener("click",function(){if(audio.playing){stopAudio();return;}VALL=false;VSEL={id:h.id||h.be,k:0};playHymn(h,[one]);});
+    }else{
+      var rd=vReady(h);
+      d.innerHTML=head+'<div class="vbar"><span class="vl" id="dvl">Ayat</span><div class="vchips" role="group" aria-labelledby="dvl">'+rd.map(function(k){return '<button type="button" data-k="'+k+'" aria-pressed="'+(k===0)+'">'+(k+1)+'</button>';}).join("")+'</div></div><p class="verse" id="dVerse"></p>';
+      var show1=function(k){document.getElementById("dVerse").innerHTML='<span class="vn">'+(k+1)+'.</span><span>'+(h.verses[k]||[]).map(function(l){return '<span class="l">'+l+'</span>';}).join("")+'</span>';d.querySelectorAll(".vchips button").forEach(function(b){b.setAttribute("aria-pressed",String(+b.dataset.k===k));});};
+      d.querySelectorAll(".vchips button").forEach(function(b){b.addEventListener("click",function(){show1(+b.dataset.k);});});
+      show1(0);
+    }
+  }
+  document.querySelectorAll(".fchips button").forEach(function(b){b.addEventListener("click",function(){demoFeat(b.dataset.f);});});
+  function pick(ix,n){
     var e=ix[Math.floor(Math.random()*ix.length)], id=e.id||e.be;
     return fetch(BP+"/data/b"+("0"+e.batch).slice(-2)+".json").then(function(r){return r.json();}).then(function(arr){
-      var h=arr.filter(function(x){return String(x.id||x.be)===String(id);})[0]; if(!h) return;
-      document.getElementById("todayLink").href=BP+"/be/"+id+"/"; document.getElementById("todayBtn").href=BP+"/be/"+id+"/";
-      document.getElementById("todayNo").textContent=id; document.getElementById("todayTitle").textContent=h.title;
-      document.getElementById("todayLogu").textContent=h.bl?"Logu No. "+h.bl:"";
-      var v=document.getElementById("todayVerse"); v.textContent=""; (h.verses[0]||[]).forEach(function(l){var s=document.createElement("span");s.textContent=l;v.appendChild(s);});
+      var h=arr.filter(function(x){return String(x.id||x.be)===String(id);})[0];
+      if(h&&(vReady(h).length>1||n>=5)) return h;
+      return pick(ix,n+1);
     });
+  }
+  load().then(function(ix){return pick(ix,0);}).then(function(h){
+    if(!h) return; var id=h.id||h.be;
+    document.getElementById("todayLink").href=BP+"/be/"+id+"/"; document.getElementById("todayBtn").href=BP+"/be/"+id+"/";
+    document.getElementById("todayNo").textContent=id; document.getElementById("todayTitle").textContent=h.title;
+    document.getElementById("todayLogu").textContent=h.bl?"Logu No. "+h.bl:"";
+    var v=document.getElementById("todayVerse"); v.textContent=""; (h.verses[0]||[]).forEach(function(l){var s=document.createElement("span");s.textContent=l;v.appendChild(s);});
+    try{DEMO={h:h,secs:buildSecs(h)};demoFeat("angka");}catch(err){var dm=document.getElementById("demo");if(dm)dm.innerHTML='<p class="dcap">Contoh tidak bisa dimuat.</p>';}
   }).catch(function(){});
 })();
 </script>
