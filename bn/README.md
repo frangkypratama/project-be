@@ -10,8 +10,10 @@ membangun BE dari folder ini sampai ada keputusan dan izin penayangan.
 | `build/assemble.py` | Tahap 2: `pages.json` + `work/fix/*.json` → `work/bn/NNN.json` |
 | `build/build_site.py` | `work/bn` → `site/data/` (index + 44 batch), validasi ketukan dan suku kata |
 | `build/cmp_be.py` | Banding melodi BN dengan BE yang Buku Logu-nya sama → `work/cmp_be.json` |
-| `build/work/fix/` | Koreksi per lagu hasil pemeriksaan terhadap gambar halaman |
-| `build/work/review/` | Laporan 20 agen peninjau (ok/fixed/issue) |
+
+
 | `site/index.html` | Halaman Dev (beranda, pengalih buku, pemutar, panel scan) |
 
 Scan halaman (73 MB) tidak disertakan: `BN_PDF=/path/BN-HKBP.pdf python3 build/build_site.py`.
+
+Data mentah hasil ekstraksi (`build/work/`: bn, fix, review, cmp_be) **tidak disimpan di repo**; yang ada hanya data jadi di `site/data/`.

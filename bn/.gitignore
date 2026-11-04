@@ -3,3 +3,4 @@ build/work/pages.json
 build/work/scan-cache/
 site/scans/
 build/work/validate_warn.json
+build/work/
