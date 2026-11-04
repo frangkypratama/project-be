@@ -421,7 +421,7 @@ function buildPrintView(){
   var old=document.getElementById("printView"); if(old) old.remove();
   var pv=document.createElement("div"); pv.id="printView"; main.appendChild(pv);
   var head=main.querySelector(".hymn-head"), c=document.querySelector('link[rel="canonical"]');
-  var foot="Buku Ende "+(h.id||h.be)+" \u2013 "+h.title+" \u00b7 Buku Ende Digital"+(c?" \u00b7 "+c.href.replace(/^https?:\/\//,""):"");
+  var foot="Buku Ende "+(h.id||h.be)+" \u2013 "+h.title+" \u00b7 Buku Ende HKBP Digital"+(c?" \u00b7 "+c.href.replace(/^https?:\/\//,""):"");
   var rest=h.verses.slice(1), restH=rest.length?(rest.length>1?"Ayat 2\u2013"+h.verses.length:"Ayat 2"):"";
   function tail(part){
     if(rest.length){

@@ -137,7 +137,7 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
 <meta name="description" content="{E(desc)}">
 <link rel="canonical" href="{E(url)}">
 <meta property="og:type" content="{'music.song' if page_id else 'website'}">
-<meta property="og:site_name" content="Buku Ende Digital">
+<meta property="og:site_name" content="Buku Ende HKBP Digital">
 <meta property="og:title" content="{E(title)}">
 <meta property="og:description" content="{E(desc)}">
 <meta property="og:url" content="{E(url)}">
@@ -152,7 +152,7 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
     b = rep(b, '<main id="main"></main>', '<main id="main">' + main + '</main>')
     if nav:
         b = rep(b, '<ol id="list"></ol>', '<ol id="list">' + nav + '</ol>')
-    b = b.replace('Buku Ende Digital HKBP</div>', f'<a href="{P}/" style="color:inherit;text-decoration:none">Buku Ende Digital HKBP</a></div>', 1)
+    b = b.replace('Buku Ende HKBP Digital</div>', f'<a href="{P}/" style="color:inherit;text-decoration:none">Buku Ende HKBP Digital</a></div>', 1)
     tail = (f'<script>window.BE_STATIC=true;window.BE_PAGE={json.dumps(page_id)};</script>\n' if page_id else '') + abcjs + f'\n<script src="{P}/assets/app.js"></script>\n' + extra_tail + f'</body>\n</html>\n'
     return head + b + tail
 
@@ -169,7 +169,7 @@ urls = []
 for i, hid in enumerate(ids):
     h = hymns[hid]
     nv = len(h.get("verses") or [])
-    title = f"Buku Ende {hid} – {h['title']} | Buku Ende Digital HKBP"
+    title = f"Buku Ende {hid} – {h['title']} | Buku Ende HKBP Digital"
     desc = f"Buku Ende HKBP No. {hid}: {h['title']}. " + (f"Logu No. {h['bl']}. " if h.get("bl") else "") + \
            f"Lirik {nv} ayat, not angka dan not balok (do = {DO.get(h['key'], h['key'])}, {h['meter']}). " + first_line(h)
     meta = f"<span>BE <b>{E(str(h['be']).zfill(3) + (h.get('variant') or ''))}</b></span>" + \
@@ -272,11 +272,11 @@ home_js = r"""<script>
 })();
 </script>
 """.replace("__BP__", json.dumps(P))
-ld = {"@context": "https://schema.org", "@type": "WebSite", "name": "Buku Ende Digital", "url": BASE + "/", "inLanguage": "id"}
+ld = {"@context": "https://schema.org", "@type": "WebSite", "name": "Buku Ende HKBP Digital", "url": BASE + "/", "inLanguage": "id"}
 open(os.path.join(OUT, "index.html"), "w", encoding="utf-8").write(
-    page("/", "Buku Ende Digital HKBP – lirik, not angka, not balok", f"Buku Ende HKBP digital: {n_main} ende dengan lirik semua ayat, not angka, dan not balok yang bisa diputar.", home, nav=nav, jsonld=ld, extra_tail=home_js))
+    page("/", "Buku Ende HKBP Digital – lirik, not angka, not balok", f"Buku Ende HKBP digital: {n_main} ende dengan lirik semua ayat, not angka, dan not balok yang bisa diputar.", home, nav=nav, jsonld=ld, extra_tail=home_js))
 nf = f"""<header class="hymn-head"><div class="hymn-no">404</div><h1>Halaman tidak ditemukan</h1><div class="meta"><span>Pilih ende di daftar atau kembali ke <a href="{P}/">beranda</a>.</span></div></header>"""
-open(os.path.join(OUT, "404.html"), "w", encoding="utf-8").write(page("/404.html", "Halaman tidak ditemukan | Buku Ende Digital", "Halaman tidak ditemukan.", nf, extra_head='<meta name="robots" content="noindex">\n'))
+open(os.path.join(OUT, "404.html"), "w", encoding="utf-8").write(page("/404.html", "Halaman tidak ditemukan | Buku Ende HKBP Digital", "Halaman tidak ditemukan.", nf, extra_head='<meta name="robots" content="noindex">\n'))
 
 # --- sitemap & robots ---
 sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">', f"  <url><loc>{BASE}/</loc></url>"]

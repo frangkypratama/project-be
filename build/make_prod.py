@@ -16,8 +16,9 @@ def rep(a, b, cnt=1):
 
 
 # ---- judul (dev memakai "Buku Ende Digital Dev") ----
-rep('<title>Buku Ende Digital Dev</title>', '<title>Buku Ende Digital</title>')
-rep('Buku Ende Digital<small class="dev">Dev</small></div>', 'Buku Ende Digital HKBP</div>')
+rep('<title>Buku Ende Digital Dev</title>', '<title>Buku Ende HKBP Digital</title>')
+rep('Buku Ende Digital<small class="dev">Dev</small></div>', 'Buku Ende HKBP Digital</div>')
+rep('\\u00b7 Buku Ende Digital"', '\\u00b7 Buku Ende HKBP Digital"')
 
 # ---- CSS ----
 rep('.index{align-self:start;position:sticky;top:calc(env(safe-area-inset-top,0px) + 70px);min-width:0}',

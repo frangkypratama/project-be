@@ -1,4 +1,4 @@
-# Buku Ende Digital (HKBP)
+# Buku Ende HKBP Digital
 
 Buku Ende HKBP dalam bentuk digital: lirik semua ayat, not angka, dan not balok
 yang bisa diputar. Ditranskrip dari scan buku (948 halaman), 870 ende (BE 1–864
