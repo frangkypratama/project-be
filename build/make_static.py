@@ -110,22 +110,47 @@ def rep(s, old, new, cnt=1):
     return s.replace(old, new)
 
 
-# --- app.js: tautan nyata /be/<id>/ dan rute dari path, bukan hash ---
-js = rep(js, 'a.href="#be-"+(h.id||h.be);', 'a.href=BP+"/be/"+(h.id||h.be)+"/";')
-js = rep(js, """'<a class="prev" href="#be-'+(pv.id||pv.be)+'" rel="prev">""", """'<a class="prev" href="'+BP+'/be/'+(pv.id||pv.be)+'/" rel="prev">""")
-js = rep(js, """'<a class="next" href="#be-'+(nx.id||nx.be)+'" rel="next">""", """'<a class="next" href="'+BP+'/be/'+(nx.id||nx.be)+'/" rel="next">""")
+import unicodedata
+
+
+def slugify(t):
+    t = unicodedata.normalize("NFKD", str(t)).encode("ascii", "ignore").decode().lower().replace("'", "")
+    t = re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+    if len(t) > 60:
+        t = t[:60].rsplit("-", 1)[0]
+    return t
+
+
+_ix0 = json.load(open(os.path.join(DATA, "index.json"), encoding="utf-8"))
+SLUG = {str(x.get("id") or x["be"]): slugify(x["title"]) for x in _ix0}   # nomor -> slug judul
+SEGS = {k: (k + "-" + v if v else k) for k, v in SLUG.items()}              # nomor -> segmen alamat, mis. "1-ringgas-ma-ho-tondingku"
+_seg_js = "var SEG_MAP=" + json.dumps({k: v for k, v in SLUG.items() if v}, separators=(",", ":")) + ";\nfunction SEG(id){id=String(id);return SEG_MAP[id]?id+\"-\"+SEG_MAP[id]:id;}\n"
+REDIR = []   # pasangan (alamat lama, alamat baru) untuk 301
+
+
+def stub(newpath, base):
+    return ('<!doctype html>\n<html lang="id"><head><meta charset="utf-8"><title>Halaman dipindahkan</title>'
+            f'<link rel="canonical" href="{base}{newpath}"><meta http-equiv="refresh" content="0;url={newpath}"></head>'
+            f'<body><p>Halaman ini pindah ke <a href="{newpath}">{newpath}</a>.</p></body></html>\n')
+
+
+# --- app.js: tautan nyata /be/<id>-<judul>/ dan rute dari path, bukan hash ---
+js = rep(js, 'a.href="#be-"+(h.id||h.be);', 'a.href=BP+"/be/"+SEG(h.id||h.be)+"/";')
+js = rep(js, """'<a class="prev" href="#be-'+(pv.id||pv.be)+'" rel="prev">""", """'<a class="prev" href="'+BP+'/be/'+SEG(pv.id||pv.be)+'/" rel="prev">""")
+js = rep(js, """'<a class="next" href="#be-'+(nx.id||nx.be)+'" rel="next">""", """'<a class="next" href="'+BP+'/be/'+SEG(nx.id||nx.be)+'/" rel="next">""")
 js = rep(js, 'fetch("data/b"+pad2(n)+".json")', 'fetch(BP+"/data/b"+pad2(n)+".json")')
 js = rep(js, 'fetch("data/index.json")', 'fetch(BP+"/data/index.json")')
 js = rep(js, 'if(a)location.hash=a.getAttribute("href");}});', 'if(a)location.href=a.getAttribute("href");}});')
 js = rep(js, 'if(a){location.hash=a.getAttribute("href");}});', 'if(a){location.href=a.getAttribute("href");}});')
 js = rep(js, """  var m=location.hash.match(/^#be-(\\d+[a-z]?)$/), n=m?m[1].replace(/^0+/,""):String(INDEX[0].id||INDEX[0].be);""",
          """  var m=location.hash.match(/^#be-(\\d+[a-z]?)$/);
-  if(m){location.replace(BP+"/be/"+m[1].replace(/^0+/,"")+"/");return;} // alamat lama
+  if(m){location.replace(BP+"/be/"+SEG(m[1].replace(/^0+/,""))+"/");return;} // alamat lama
   if(!window.BE_PAGE) return; // beranda: isi dari HTML statis
   var n=String(window.BE_PAGE);""")
 js = js.replace('fetch("scans/b"', 'fetch(BP+"/scans/b"')
 js = js.strip()
 _bp = "var BP=" + json.dumps(P) + "; // awalan path situs\n"
+_bp += _seg_js
 js = (js.replace('"use strict";', '"use strict";\n' + _bp, 1) if js.startswith('"use strict";') else _bp + js)
 
 os.makedirs(os.path.join(OUT, "assets"), exist_ok=True)
@@ -153,14 +178,14 @@ def sm_label(s):
     return s.replace("<", "").replace(">", "")
 
 
-def daftar_main(pref, label, ids_, hy):
+def daftar_main(pref, label, ids_, hy, segs):
     groups = {}
     for i in ids_:
         groups.setdefault((hy[i]["be"] - 1) // 100, []).append(i)
     out = f'<header class="hymn-head"><div class="hymn-no">No.</div><h1>Daftar {label}</h1><div class="meta"><span>{len({hy[i]["be"] for i in ids_})} nomor, urut nomor</span></div></header>'
     for g in sorted(groups):
         out += f'<section class="block"><h2>{g * 100 + 1}–{g * 100 + 100}</h2><ul class="dl">' + "".join(
-            f'<li><a href="{pref}/{i}/"><span class="dn">{E(i)}</span><span class="dt">{E(hy[i]["title"])}</span></a></li>' for i in groups[g]) + "</ul></section>"
+            f'<li><a href="{pref}/{segs[i]}/"><span class="dn">{E(i)}</span><span class="dt">{E(hy[i]["title"])}</span></a></li>' for i in groups[g]) + "</ul></section>"
     return out
 
 
@@ -208,6 +233,7 @@ def first_line(h):
 # --- halaman per lagu ---
 ids = [str(x.get("id") or x["be"]) for x in index]
 urls = []
+uhid = {}
 for i, hid in enumerate(ids):
     h = hymns[hid]
     nv = len(h.get("verses") or [])
@@ -221,27 +247,33 @@ for i, hid in enumerate(ids):
                      for k, v in enumerate(h.get("verses") or []))
     pv, nx = (ids[i - 1] if i else None), (ids[i + 1] if i + 1 < len(ids) else None)
     pager = '<nav class="pager" aria-label="Ende sebelum dan sesudahnya">' + \
-            (f'<a class="prev" href="{P}/be/{pv}/" rel="prev"><span class="lbl">← Sebelumnya</span><span class="ttl"><b>{pv}</b>{E(hymns[pv]["title"])}</span></a>' if pv else "") + \
-            (f'<a class="next" href="{P}/be/{nx}/" rel="next"><span class="lbl">Berikutnya →</span><span class="ttl"><b>{nx}</b>{E(hymns[nx]["title"])}</span></a>' if nx else "") + "</nav>"
+            (f'<a class="prev" href="{P}/be/{SEGS[pv]}/" rel="prev"><span class="lbl">← Sebelumnya</span><span class="ttl"><b>{pv}</b>{E(hymns[pv]["title"])}</span></a>' if pv else "") + \
+            (f'<a class="next" href="{P}/be/{SEGS[nx]}/" rel="next"><span class="lbl">Berikutnya →</span><span class="ttl"><b>{nx}</b>{E(hymns[nx]["title"])}</span></a>' if nx else "") + "</nav>"
     main = f"""<header class="hymn-head"><div class="hymn-no">{E(hid)}</div><h1>{E(h['title'])}</h1><div class="meta">{meta}</div></header>
 <p class="loading">Memuat not angka dan not balok…</p>
 <section class="block"><h2>Ende</h2><div class="verses">{verses}</div><div class="credit">Lagu: {E(h.get('credit', ''))}</div></section>
 {pager}"""
     ld = {"@context": "https://schema.org", "@type": "MusicComposition", "name": h["title"],
-          "alternateName": f"Buku Ende {hid}", "url": f"{BASE}/be/{hid}/", "inLanguage": "bbc",
+          "alternateName": f"Buku Ende {hid}", "url": f"{BASE}/be/{SEGS[hid]}/", "inLanguage": "bbc",
           "isPartOf": {"@type": "Book", "name": "Buku Ende HKBP"},
           "lyrics": {"@type": "CreativeWork", "inLanguage": "bbc", "text": "\n\n".join("\n".join(v) for v in (h.get("verses") or []))}}
     if h.get("credit"):
         ld["creditText"] = h["credit"]
     if h.get("bl"):
         ld["musicalKey"] = DO.get(h["key"], h["key"]) + " mayor"
-    d = os.path.join(OUT, "be", hid)
+    d = os.path.join(OUT, "be", SEGS[hid])
     os.makedirs(d, exist_ok=True)
-    open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(page(f"/be/{hid}/", title, desc, main, page_id=hid, jsonld=ld))
-    urls.append(f"/be/{hid}/")
+    open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(page(f"/be/{SEGS[hid]}/", title, desc, main, page_id=hid, jsonld=ld))
+    urls.append(f"/be/{SEGS[hid]}/")
+    uhid[f"/be/{SEGS[hid]}/"] = hid
+    if SEGS[hid] != hid:   # alamat lama /be/<nomor>/: halaman pengalih (cadangan; Nginx mengalihkan 301 lewat redirects.map)
+        od = os.path.join(OUT, "be", hid)
+        os.makedirs(od, exist_ok=True)
+        open(os.path.join(od, "index.html"), "w", encoding="utf-8").write(stub(f"{P}/be/{SEGS[hid]}/", BASE))
+        REDIR.append((f"/be/{hid}/", f"/be/{SEGS[hid]}/"))
 
 # --- beranda ---
-nav = "".join(f'<li><a href="{P}/be/{hid}/"><span class="n">{E(hid)}</span><span class="t">{E(hymns[hid]["title"])}</span>'
+nav = "".join(f'<li><a href="{P}/be/{SEGS[hid]}/"><span class="n">{E(hid)}</span><span class="t">{E(hymns[hid]["title"])}</span>'
               f'<span class="st">{"lagu kedua" if hymns[hid].get("variant") else ""}</span></a></li>' for hid in ids)
 n_main = len([x for x in index if not x.get("variant")])
 all_h = [hymns[i] for i in ids]
@@ -255,7 +287,7 @@ for r0 in range(1, 865, 100):
     xs = [hymns[i] for i in ids if r0 <= hymns[i]["be"] < r0 + 100 and not hymns[i].get("variant")]
     if xs:
         ranges.append((r0, xs[-1]["be"], xs[0]))
-tiles = "".join(f'<a class="rng" href="{P}/be/{h["be"]}/"><span class="rn">{a}–{b}</span><span class="rt">{h["be"]}. {E(h["title"])}</span></a>' for a, b, h in ranges)
+tiles = "".join(f'<a class="rng" href="{P}/be/{SEGS[str(h.get("id") or h["be"])]}/"><span class="rn">{a}–{b}</span><span class="rt">{h["be"]}. {E(h["title"])}</span></a>' for a, b, h in ranges)
 v1 = "".join(f"<span>{E(l)}</span>" for l in (first.get("verses") or [[]])[0])
 logu1 = f"Logu No. {first['bl']}" if first.get("bl") else ""
 home = f"""<div class="home">
@@ -277,9 +309,9 @@ home = f"""<div class="home">
 </dl>
 <section class="today" aria-labelledby="todayH">
   <h2 id="todayH">Ende hari ini</h2>
-  <a class="today-head" id="todayLink" href="{P}/be/{first['be']}/"><span class="no" id="todayNo">{first['be']}</span><span class="tt"><span class="t" id="todayTitle">{E(first['title'])}</span><span class="lg" id="todayLogu">{logu1}</span></span></a>
+  <a class="today-head" id="todayLink" href="{P}/be/{SEGS[str(first.get("id") or first["be"])]}/"><span class="no" id="todayNo">{first['be']}</span><span class="tt"><span class="t" id="todayTitle">{E(first['title'])}</span><span class="lg" id="todayLogu">{logu1}</span></span></a>
   <p class="today-v" id="todayVerse">{v1}</p>
-  <a class="btn" id="todayBtn" href="{P}/be/{first['be']}/">Buka ende ini</a>
+  <a class="btn" id="todayBtn" href="{P}/be/{SEGS[str(first.get("id") or first["be"])]}/">Buka ende ini</a>
 </section>
 <section class="block"><h2>Per seratus nomor</h2><div class="ranges">{tiles}</div><p class="more"><a href="{P}/daftar/">Lihat daftar lengkap {fmt(n_main)} ende beserta judulnya →</a></p></section>
 <section class="block"><h2>Fitur</h2><div class="fchips" role="tablist" aria-label="Fitur di setiap ende">
@@ -293,7 +325,7 @@ home_js = r"""<script>
 (function(){
   var BP=__BP__, IDX=null, f=document.getElementById("goForm"), inp=document.getElementById("goNo"), msg=document.getElementById("goMsg");
   function load(){return IDX?Promise.resolve(IDX):fetch(BP+"/data/index.json").then(function(r){return r.json();}).then(function(j){IDX=j;return j;});}
-  function go(id){location.href=BP+"/be/"+id+"/";}
+  function go(id){location.href=BP+"/be/"+SEG(id)+"/";}
   f.addEventListener("submit",function(e){e.preventDefault();var v=inp.value.trim().toLowerCase().replace(/^be\s*-?\s*/,"").replace(/^0+/,"");
     if(!v){inp.focus();return;}
     load().then(function(ix){var hit=ix.filter(function(x){return String(x.id||x.be)===v;})[0];
@@ -333,7 +365,7 @@ home_js = r"""<script>
   }
   load().then(function(ix){return pick(ix,0);}).then(function(h){
     if(!h) return; var id=h.id||h.be;
-    document.getElementById("todayLink").href=BP+"/be/"+id+"/"; document.getElementById("todayBtn").href=BP+"/be/"+id+"/";
+    document.getElementById("todayLink").href=document.getElementById("todayBtn").href=BP+"/be/"+SEG(id)+"/";
     document.getElementById("todayNo").textContent=id; document.getElementById("todayTitle").textContent=h.title;
     document.getElementById("todayLogu").textContent=h.bl?"Logu No. "+h.bl:"";
     var v=document.getElementById("todayVerse"); v.textContent=""; (h.verses[0]||[]).forEach(function(l){var s=document.createElement("span");s.textContent=l;v.appendChild(s);});
@@ -353,13 +385,14 @@ os.makedirs(os.path.join(OUT, "daftar"), exist_ok=True)
 open(os.path.join(OUT, "daftar", "index.html"), "w", encoding="utf-8").write(page(
     "/daftar/", "Daftar Ende HKBP – nomor dan judul | Buku Ende HKBP Digital",
     f"Daftar lengkap {n_main} ende HKBP berdasarkan nomor Buku Ende, dengan judul masing-masing.",
-    daftar_main(f"{P}/be", "Ende", ids, hymns), nav=nav))
+    daftar_main(f"{P}/be", "Ende", ids, hymns, SEGS), nav=nav))
 
 # --- sitemap & robots ---
 sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">', f"  <url><loc>{BASE}/</loc></url> <!-- Beranda Buku Ende -->"]
 sm.append(f"  <url><loc>{BASE}/daftar/</loc></url> <!-- Daftar lengkap nomor dan judul -->")
-sm += [f"  <url><loc>{BASE}{u}</loc></url> <!-- {sm_label(u.split('/')[2] + '. ' + hymns[u.split('/')[2]]['title'])} -->" for u in urls]
+sm += [f"  <url><loc>{BASE}{u}</loc></url> <!-- {sm_label(uhid[u] + '. ' + hymns[uhid[u]]['title'])} -->" for u in urls]
 sm.append("</urlset>")
 open(os.path.join(OUT, "sitemap.xml"), "w").write("\n".join(sm) + "\n")
 open(os.path.join(OUT, "robots.txt"), "w").write(f"User-agent: *\nAllow: /\n\nSitemap: {BASE}/sitemap.xml\n")
+open(os.path.join(OUT, "redirects.map"), "w", encoding="utf-8").write("".join(f"{a} {b};\n" for a, b in REDIR))
 print(f"ok: {len(urls)} halaman lagu + beranda + 404, sitemap {len(urls) + 2} URL, base {BASE}")

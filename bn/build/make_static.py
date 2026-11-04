@@ -48,14 +48,38 @@ def mark(s):
     return s.replace("__BN__", BP).replace("__ROOT__", RP)
 
 
-# --- app.js: tautan nyata /bn/<id>/ dan rute dari path, bukan hash ---
-js = rep(js, 'a.href="#bn-"+(h.id||h.be);', 'a.href=BP+"/"+(h.id||h.be)+"/";')
-js = rep(js, """href="#bn-'+xs[0].be+'\"""", """href="'+BP+'/'+xs[0].be+'/\"""")
-js = rep(js, 'href="#bn-1"', """href="'+BP+'/1/\"""", 2)
-js = rep(js, 'location.hash="#bn-"+(hit.id||hit.be);', 'location.href=BP+"/"+(hit.id||hit.be)+"/";')
-js = rep(js, '.href=document.getElementById("todayBtn").href="#bn-"+id;', '.href=document.getElementById("todayBtn").href=BP+"/"+id+"/";')
-js = rep(js, """href="#bn-'+(pv.id||pv.be)+'\"""", """href="'+BP+'/'+(pv.id||pv.be)+'/\"""")
-js = rep(js, """href="#bn-'+(nx.id||nx.be)+'\"""", """href="'+BP+'/'+(nx.id||nx.be)+'/\"""")
+import unicodedata
+
+
+def slugify(t):
+    t = unicodedata.normalize("NFKD", str(t)).encode("ascii", "ignore").decode().lower().replace("'", "")
+    t = re.sub(r"[^a-z0-9]+", "-", t).strip("-")
+    if len(t) > 60:
+        t = t[:60].rsplit("-", 1)[0]
+    return t
+
+
+_ix0 = json.load(open(os.path.join(DATA, "index.json"), encoding="utf-8"))
+SLUG = {str(x.get("id") or x["be"]): slugify(x["title"]) for x in _ix0}   # nomor -> slug judul
+SEGS = {k: (k + "-" + v if v else k) for k, v in SLUG.items()}              # nomor -> segmen alamat, mis. "1-ringgas-ma-ho-tondingku"
+_seg_js = "var SEG_MAP=" + json.dumps({k: v for k, v in SLUG.items() if v}, separators=(",", ":")) + ";\nfunction SEG(id){id=String(id);return SEG_MAP[id]?id+\"-\"+SEG_MAP[id]:id;}\n"
+REDIR = []   # pasangan (alamat lama, alamat baru) untuk 301
+
+
+def stub(newpath, base):
+    return ('<!doctype html>\n<html lang="id"><head><meta charset="utf-8"><title>Halaman dipindahkan</title>'
+            f'<link rel="canonical" href="{base}{newpath}"><meta http-equiv="refresh" content="0;url={newpath}"></head>'
+            f'<body><p>Halaman ini pindah ke <a href="{newpath}">{newpath}</a>.</p></body></html>\n')
+
+
+# --- app.js: tautan nyata /bn/<id>-<judul>/ dan rute dari path, bukan hash ---
+js = rep(js, 'a.href="#bn-"+(h.id||h.be);', 'a.href=BP+"/"+SEG(h.id||h.be)+"/";')
+js = rep(js, """href="#bn-'+xs[0].be+'\"""", """href="'+BP+'/'+SEG(xs[0].be)+'/\"""")
+js = rep(js, 'href="#bn-1"', """href="'+BP+'/'+SEG(1)+'/\"""", 2)
+js = rep(js, 'location.hash="#bn-"+(hit.id||hit.be);', 'location.href=BP+"/"+SEG(hit.id||hit.be)+"/";')
+js = rep(js, '.href=document.getElementById("todayBtn").href="#bn-"+id;', '.href=document.getElementById("todayBtn").href=BP+"/"+SEG(id)+"/";')
+js = rep(js, """href="#bn-'+(pv.id||pv.be)+'\"""", """href="'+BP+'/'+SEG(pv.id||pv.be)+'/\"""")
+js = rep(js, """href="#bn-'+(nx.id||nx.be)+'\"""", """href="'+BP+'/'+SEG(nx.id||nx.be)+'/\"""")
 js = rep(js, 'fetch("data/b"+pad2(n)+".json")', 'fetch(BP+"/data/b"+pad2(n)+".json")')
 js = rep(js, 'fetch("data/index.json")', 'fetch(BP+"/data/index.json")')
 js = js.replace('fetch("scans/b"', 'fetch(BP+"/scans/b"')
@@ -65,11 +89,11 @@ js = rep(js, """  var m=location.hash.match(/^#b[ne]-(\\d+[a-z]?)$/);
   if(!m){renderHome();return;}
   var n=m[1].replace(/^0+/,"");""",
          """  var m=location.hash.match(/^#b[ne]-(\\d+[a-z]?)$/);
-  if(m){location.replace(BP+"/"+m[1].replace(/^0+/,"")+"/");return;} // alamat lama
+  if(m){location.replace(BP+"/"+SEG(m[1].replace(/^0+/,""))+"/");return;} // alamat lama
   if(!window.BN_PAGE){if(window.BN_DAFTAR)return;renderHome();return;}
   var n=String(window.BN_PAGE);""")
 js = mark(js).strip()
-_bp = "var BP=" + json.dumps(BP) + "; // awalan path BN\n"
+_bp = "var BP=" + json.dumps(BP) + "; // awalan path BN\n" + _seg_js
 js = js.replace('"use strict";', '"use strict";\n' + _bp, 1) if js.startswith('"use strict";') else _bp + js
 
 DL_CSS = """.dl{list-style:none;margin:0;padding:0;display:grid;grid-template-columns:repeat(auto-fill,minmax(260px,1fr));gap:2px 24px}
@@ -103,14 +127,14 @@ def sm_label(s):
     return s.replace("<", "").replace(">", "")
 
 
-def daftar_main(pref, label, ids_, hy):
+def daftar_main(pref, label, ids_, hy, segs):
     groups = {}
     for i in ids_:
         groups.setdefault((hy[i]["be"] - 1) // 100, []).append(i)
     out = f'<header class="hymn-head"><div class="hymn-no">No.</div><h1>Daftar {label}</h1><div class="meta"><span>{len({hy[i]["be"] for i in ids_})} nomor, urut nomor</span></div></header>'
     for g in sorted(groups):
         out += f'<section class="block"><h2>{g * 100 + 1}–{g * 100 + 100}</h2><ul class="dl">' + "".join(
-            f'<li><a href="{pref}/{i}/"><span class="dn">{E(i)}</span><span class="dt">{E(hy[i]["title"])}</span></a></li>' for i in groups[g]) + "</ul></section>"
+            f'<li><a href="{pref}/{segs[i]}/"><span class="dn">{E(i)}</span><span class="dt">{E(hy[i]["title"])}</span></a></li>' for i in groups[g]) + "</ul></section>"
     return out
 
 
@@ -153,6 +177,7 @@ def first_line(h):
 
 ids = [str(x.get("id") or x["be"]) for x in index]
 urls = []
+uhid = {}
 for i, hid in enumerate(ids):
     h = hymns[hid]
     nv = len(h.get("verses") or [])
@@ -170,25 +195,31 @@ for i, hid in enumerate(ids):
     credit = "<br>".join(E(c) for c in h["credits"]) if h.get("credits") else (f"Lagu: {E(h['credit'])}" if h.get("credit") else "")
     pv, nx = (ids[i - 1] if i else None), (ids[i + 1] if i + 1 < len(ids) else None)
     pager = '<nav class="pager" aria-label="Nyanyian sebelum dan sesudahnya">' + \
-            (f'<a class="prev" href="{BP}/{pv}/" rel="prev"><span class="lbl">← Sebelumnya</span><span class="ttl"><b>{pv}</b>{E(hymns[pv]["title"])}</span></a>' if pv else "") + \
-            (f'<a class="next" href="{BP}/{nx}/" rel="next"><span class="lbl">Berikutnya →</span><span class="ttl"><b>{nx}</b>{E(hymns[nx]["title"])}</span></a>' if nx else "") + "</nav>"
+            (f'<a class="prev" href="{BP}/{SEGS[pv]}/" rel="prev"><span class="lbl">← Sebelumnya</span><span class="ttl"><b>{pv}</b>{E(hymns[pv]["title"])}</span></a>' if pv else "") + \
+            (f'<a class="next" href="{BP}/{SEGS[nx]}/" rel="next"><span class="lbl">Berikutnya →</span><span class="ttl"><b>{nx}</b>{E(hymns[nx]["title"])}</span></a>' if nx else "") + "</nav>"
     main = f"""<header class="hymn-head"><div class="hymn-no">{E(hid)}</div><h1>{E(h['title'])}</h1><div class="meta">{meta}</div></header>
 <p class="loading">Memuat not angka dan not balok…</p>
 <section class="block"><h2>Lirik</h2><div class="verses">{verses}</div><div class="credit">{credit}</div></section>
 {pager}"""
     ld = {"@context": "https://schema.org", "@type": "MusicComposition", "name": h["title"],
-          "alternateName": f"Buku Nyanyian {hid}", "url": f"{BASE}/bn/{hid}/", "inLanguage": "id",
+          "alternateName": f"Buku Nyanyian {hid}", "url": f"{BASE}/bn/{SEGS[hid]}/", "inLanguage": "id",
           "isPartOf": {"@type": "Book", "name": "Buku Nyanyian HKBP"},
           "lyrics": {"@type": "CreativeWork", "inLanguage": "id", "text": "\n\n".join("\n".join(v) for v in (h.get("verses") or []))}}
     if h.get("credit"):
         ld["creditText"] = h["credit"]
-    d = os.path.join(BNOUT, hid)
+    d = os.path.join(BNOUT, SEGS[hid])
     os.makedirs(d, exist_ok=True)
-    open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(page(f"/bn/{hid}/", title, desc, main, page_id=hid, jsonld=ld))
-    urls.append(f"/bn/{hid}/")
+    open(os.path.join(d, "index.html"), "w", encoding="utf-8").write(page(f"/bn/{SEGS[hid]}/", title, desc, main, page_id=hid, jsonld=ld))
+    urls.append(f"/bn/{SEGS[hid]}/")
+    uhid[f"/bn/{SEGS[hid]}/"] = hid
+    if SEGS[hid] != hid:   # alamat lama /bn/<nomor>/: halaman pengalih (cadangan; Nginx mengalihkan 301 lewat redirects.map)
+        od = os.path.join(BNOUT, hid)
+        os.makedirs(od, exist_ok=True)
+        open(os.path.join(od, "index.html"), "w", encoding="utf-8").write(stub(f"{BP}/{SEGS[hid]}/", BASE))
+        REDIR.append((f"/bn/{hid}/", f"/bn/{SEGS[hid]}/"))
 
 # --- beranda /bn/ ---
-nav = "".join(f'<li><a href="{BP}/{hid}/"><span class="n">{E(hid)}</span><span class="t">{E(hymns[hid]["title"])}</span></a></li>' for hid in ids)
+nav = "".join(f'<li><a href="{BP}/{SEGS[hid]}/"><span class="n">{E(hid)}</span><span class="t">{E(hymns[hid]["title"])}</span></a></li>' for hid in ids)
 n_main = len({x["be"] for x in index})
 home = f"""<div class="home"><section class="hero"><h1>Buku Nyanyian</h1>
 <p class="lead">Nyanyikan, mainkan, dan dengarkan {n_main} nyanyian HKBP, lengkap dengan not angka, not balok, dan semua ayatnya.</p></section></div>"""
@@ -203,12 +234,12 @@ os.makedirs(os.path.join(BNOUT, "daftar"), exist_ok=True)
 open(os.path.join(BNOUT, "daftar", "index.html"), "w", encoding="utf-8").write(page(
     "/bn/daftar/", f"Daftar Nyanyian HKBP – nomor dan judul | {BOOK}",
     f"Daftar lengkap {n_main} nyanyian HKBP berdasarkan nomor Buku Nyanyian, dengan judul masing-masing.",
-    daftar_main(BP, "Nyanyian", ids, hymns), nav=nav))
+    daftar_main(BP, "Nyanyian", ids, hymns, SEGS), nav=nav))
 
 # --- sitemap.xml (satu untuk BE dan BN), robots.txt ---
 ent = [f"  <url><loc>{BASE}/bn/</loc></url> <!-- Beranda Buku Nyanyian -->",
        f"  <url><loc>{BASE}/bn/daftar/</loc></url> <!-- Daftar lengkap nomor dan judul -->"]
-ent += [f"  <url><loc>{BASE}{u}</loc></url> <!-- {sm_label(u.split('/')[2] + '. ' + hymns[u.split('/')[2]]['title'])} -->" for u in urls]
+ent += [f"  <url><loc>{BASE}{u}</loc></url> <!-- {sm_label(uhid[u] + '. ' + hymns[uhid[u]]['title'])} -->" for u in urls]
 smp = os.path.join(OUT, "sitemap.xml")
 if os.path.exists(smp):  # sitemap BE sudah ada (dibuat build/make_static.py): tambahkan entri BN ke dalamnya
     cur_sm = open(smp, encoding="utf-8").read()
@@ -223,4 +254,8 @@ line = f"Sitemap: {BASE}/sitemap.xml\n"
 cur = open(rb).read() if os.path.exists(rb) else "User-agent: *\nAllow: /\n"
 if line not in cur:
     open(rb, "w").write(cur.rstrip("\n") + "\n" + line)
+_rm = os.path.join(OUT, "redirects.map")
+_old = open(_rm, encoding="utf-8").read() if os.path.exists(_rm) else ""
+_new = "".join(f"{a} {b};\n" for a, b in REDIR if f"{a} {b};\n" not in _old)
+open(_rm, "w", encoding="utf-8").write(_old + _new)
 print(f"ok: {len(urls)} halaman lagu + beranda, masuk sitemap.xml {len(urls) + 2} URL, base {BASE}/bn/")

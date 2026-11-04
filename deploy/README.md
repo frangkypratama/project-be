@@ -31,11 +31,13 @@ certbot renew --dry-run
 
 ```bash
 curl -I https://bukuende.com/            # 200
-curl -I https://bukuende.com/be/550/     # 200
-curl -I https://www.bukuende.com/be/550/ # 301 ke https://bukuende.com/be/550/
+curl -I https://bukuende.com/be/550-tanganku-na-metmet/   # 200
+curl -I https://bukuende.com/be/550/     # 301 ke /be/550-tanganku-na-metmet/
+curl -I https://www.bukuende.com/be/550-tanganku-na-metmet/ # 301 ke https://bukuende.com/be/550-tanganku-na-metmet/
 curl -I https://bukuende.com/be/9999/    # 404
 curl -I https://bukuende.com/bn/         # 200
-curl -I https://bukuende.com/bn/62/      # 200
+curl -I https://bukuende.com/bn/62-sukacita-yang-ceria/  # 200
+curl -I https://bukuende.com/bn/62/      # 301 ke /bn/62-sukacita-yang-ceria/
 curl -s https://bukuende.com/sitemap.xml | grep -c "/bn/"   # harus 876
 curl -s https://bukuende.com/sitemap.xml | head -3
 ```
@@ -71,3 +73,19 @@ Cukup satu sitemap di Google Search Console: `https://bukuende.com/sitemap.xml`.
 
 Situs dibangun di `/var/www/bukuende.new` lalu ditukar, jadi tidak pernah
 tayang setengah jadi. Versi sebelumnya disimpan di `/var/www/bukuende.old`.
+
+## 4. Alamat dengan judul (/be/1-judul/) dan pengalihan 301
+
+Alamat lagu memuat nomor dan judul, mis. `/be/550-tanganku-na-metmet/` dan `/bn/62-sukacita-yang-ceria/`.
+Alamat lama (`/be/550/`, `/bn/62/`) dialihkan 301 oleh Nginx memakai daftar yang dibuat `deploy.sh`
+di `/etc/nginx/bukuende-redirects.map`. Pasang sekali di VPS:
+
+```bash
+/opt/project-be/deploy/deploy.sh                 # membuat berkas redirects.map
+nano /etc/nginx/sites-available/bukuende         # tambahkan 2 hal (lihat deploy/nginx-bukuende.conf):
+#   di luar blok server:  map_hash_bucket_size 128;  dan blok  map $uri $bk_baru { default ""; include /etc/nginx/bukuende-redirects.map; }
+#   di blok server HTTPS (listen 443):  if ($bk_baru) { return 301 $bk_baru; }
+nginx -t && systemctl reload nginx
+```
+
+Sebelum itu dipasang, alamat lama tetap bekerja lewat halaman pengalih (meta refresh) yang ikut dibangun.
