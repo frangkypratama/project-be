@@ -642,7 +642,7 @@ function renderHome(){
    '<div><h3>Not balok</h3><p>Dibuat dari not angka, dengan lirik di bawah not.</p></div>'+
    '<div><h3>Putar</h3><p>Suara organ. Not yang sedang berbunyi ditandai; tempo bisa diubah sambil diputar.</p></div>'+
    '<div><h3>Ayat</h3><p>Pilih ayat 1, 2, 3 dan seterusnya; lirik di bawah not ikut berganti.</p></div></div></section>'+
-   '<section class="xnote"><b>Dua buku, satu situs.</b> Tab di kiri atas berpindah antara Buku Ende dan Buku Nyanyian. '+nf(be)+' nyanyian punya pasangan di Buku Ende (Buku Logu sama) dan tautannya ada di halamannya. <b>'+nf(chk)+'</b> nyanyian masih ditandai "Perlu dicek".</section></div>';
+   '<section class="xnote"><b>Dua buku, satu situs.</b> Tab di kiri atas berpindah antara Buku Ende dan Buku Nyanyian. '+nf(be)+' nyanyian punya pasangan di Buku Ende (Buku Logu sama) dan tautannya ada di halamannya.</section></div>';
   document.getElementById("goForm").addEventListener("submit",function(e){e.preventDefault();
     var v=document.getElementById("goNo").value.trim().toLowerCase().replace(/^(bn)\s*-?\s*/,"").replace(/^0+/,"");
     var hit=INDEX.filter(function(x){return String(x.id||x.be)===v;})[0]||INDEX.filter(function(x){return String(x.be)===v;})[0];
@@ -694,7 +694,6 @@ function renderHymn(){
      '<label class="tempo" for="bpm"><span class="tl">Tempo</span> <input id="bpm" type="range" min="40" max="160" value="'+bpm+'"><span id="bpmv">'+bpm+'</span></label></div>'+
    (vReady(h).length>1?'<div class="vbar"><span class="vl" id="vlab">Ayat</span><div class="vchips" role="group" aria-labelledby="vlab">'+vReady(h).map(function(i){return '<button type="button" data-k="'+i+'" title="Ayat '+(i+1)+'">'+(i+1)+'</button>';}).join("")+'</div>'+
      '<label class="vall"><input type="checkbox" id="vall"'+(VALL?' checked':'')+'> Putar sampai ayat terakhir</label></div>':'')+
-   (h.status?'<details class="notes"><summary><span class="chip">Perlu dicek</span>Ada catatan pemeriksaan \u00b7 '+(h.checks.length+mismatch.length)+' catatan</summary><ul>'+h.checks.map(function(c){return '<li>'+c+'</li>';}).join("")+mismatch.map(function(m){return '<li>'+m+'</li>';}).join("")+vlInfo(h)+beInfo(h)+'</ul></details>':'')+
    (h.becmp?'<p class="xref">Buku Logu yang sama ada di <a href="__ROOT__/be/'+h.becmp.be+'/">Buku Ende no. '+h.becmp.be+'</a>.</p>':'')+
    '<section class="block" id="angkaBlock"><h2>Not angka<span class="vtag"></span></h2><p class="vnote" hidden></p><div class="angka" id="angka"></div></section>'+
    '<section class="block" id="balokBlock"><h2>Not balok<span class="vtag"></span></h2><div class="staff" id="staff"></div></section>'+

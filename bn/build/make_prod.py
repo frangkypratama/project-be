@@ -101,10 +101,9 @@ rep("""+(h.status?'<span class="st">'+h.status+'</span>':'');""", "+'';")
 rep('INDEX.length+" lagu termasuk varian)";', 'INDEX.length+" lagu termasuk varian)";')
 rep('" dari "+TOTAL_BE+" nomor lagu ("', '" nomor lagu ("')
 
-# ---- halaman lagu: catatan hanya untuk lagu yang ditandai "Perlu dicek" ----
+# ---- halaman lagu: tanpa catatan pemeriksaan / penanda "Perlu dicek" di prod ----
 rx(r"""   '<div class="status"><div><b>'\+\(h\.fixed.*?'</ul></div></div>'\+\n""",
-   """   (h.status?'<details class="notes"><summary><span class="chip">Perlu dicek</span>Ada catatan pemeriksaan \\u00b7 '+(h.checks.length+mismatch.length)+' catatan</summary><ul>'+h.checks.map(function(c){return '<li>'+c+'</li>';}).join("")+mismatch.map(function(m){return '<li>'+m+'</li>';}).join("")+vlInfo(h)+beInfo(h)+'</ul></details>':'')+
-   (h.becmp?'<p class="xref">Buku Logu yang sama ada di <a href="__ROOT__/be/'+h.becmp.be+'/">Buku Ende no. '+h.becmp.be+'</a>.</p>':'')+
+   """   (h.becmp?'<p class="xref">Buku Logu yang sama ada di <a href="__ROOT__/be/'+h.becmp.be+'/">Buku Ende no. '+h.becmp.be+'</a>.</p>':'')+
 """)
 rep("""href="https://bukuende.com/be/'+c.be+'/" target="_blank" rel="noopener">Buka BE '+c.be+' \\u2197</a>""",
     """href="__ROOT__/be/'+c.be+'/">Buka BE '+c.be+'</a>""")
@@ -134,6 +133,7 @@ document.addEventListener("keydown",function(e){var tg=e.target&&e.target.tagNam
 
 # ---- beranda prod: tanpa keterangan pratinjau Dev ----
 rep(' <i>Pratinjau Dev: tab Buku Ende membuka bukuende.com di tab baru.</i>', '')
+rep(' <b>\'+nf(chk)+\'</b> nyanyian masih ditandai "Perlu dicek".', '')
 
 # ---- kunci penyimpanan bersama: tema dan tampilan not satu untuk Buku Ende dan Buku Nyanyian (satu alamat) ----
 for _k in ("theme", "view"):
