@@ -93,8 +93,7 @@ rep('<h2>Daftar lagu</h2><p class="count" id="count"></p>',
     '<h2>Daftar lagu</h2><button type="button" class="list-toggle" id="listToggle" aria-expanded="false" aria-controls="list">Daftar lagu</button><p class="count" id="count"></p>')
 rx(r'<p class="pilot-note">.*?</p>\s*')
 rx(r'<footer>.*?</footer>',
-   '<footer>Sumber: "Buku Nyanyian HKBP" susunan <b>Advendes Pasaribu</b>. '
-   'Not balok dibuat otomatis dari not angka. Nomor BN adalah nomor di buku.</footer>')
+   '<footer>Sumber: "Buku Nyanyian HKBP" susunan <b>Advendes Pasaribu</b>.</footer>')
 
 # ---- daftar: tanpa status, jumlah lagu ----
 rep("""+(h.status?'<span class="st">'+h.status+'</span>':'');""", "+'';")
