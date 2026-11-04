@@ -8,7 +8,7 @@ Hasil di <out>/:
   bn/<id>/index.html          satu halaman per lagu (judul, meta, lirik semua ayat di HTML)
   bn/assets/app.css, app.js   dipakai bersama
   bn/data/*.json              data lagu
-  sitemap-bn.xml              ditambahkan ke robots.txt (sitemap.xml milik BE tidak diubah)
+  sitemap.xml                 entri BN ditambahkan ke sitemap BE (satu sitemap untuk dua buku)
 Jalankan SETELAH build/make_static.py milik BE (yang membuat <out>/ dan robots.txt).
 """
 import argparse, glob, html, json, os, re, shutil
@@ -205,15 +205,22 @@ open(os.path.join(BNOUT, "daftar", "index.html"), "w", encoding="utf-8").write(p
     f"Daftar lengkap {n_main} nyanyian HKBP berdasarkan nomor Buku Nyanyian, dengan judul masing-masing.",
     daftar_main(BP, "Nyanyian", ids, hymns), nav=nav))
 
-# --- sitemap-bn.xml, robots.txt ---
-sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">', f"  <url><loc>{BASE}/bn/</loc></url> <!-- Beranda Buku Nyanyian -->"]
-sm.append(f"  <url><loc>{BASE}/bn/daftar/</loc></url> <!-- Daftar lengkap nomor dan judul -->")
-sm += [f"  <url><loc>{BASE}{u}</loc></url> <!-- {sm_label(u.split('/')[2] + '. ' + hymns[u.split('/')[2]]['title'])} -->" for u in urls]
-sm.append("</urlset>")
-open(os.path.join(OUT, "sitemap-bn.xml"), "w").write("\n".join(sm) + "\n")
+# --- sitemap.xml (satu untuk BE dan BN), robots.txt ---
+ent = [f"  <url><loc>{BASE}/bn/</loc></url> <!-- Beranda Buku Nyanyian -->",
+       f"  <url><loc>{BASE}/bn/daftar/</loc></url> <!-- Daftar lengkap nomor dan judul -->"]
+ent += [f"  <url><loc>{BASE}{u}</loc></url> <!-- {sm_label(u.split('/')[2] + '. ' + hymns[u.split('/')[2]]['title'])} -->" for u in urls]
+smp = os.path.join(OUT, "sitemap.xml")
+if os.path.exists(smp):  # sitemap BE sudah ada (dibuat build/make_static.py): tambahkan entri BN ke dalamnya
+    cur_sm = open(smp, encoding="utf-8").read()
+    assert "</urlset>" in cur_sm
+    if f"<loc>{BASE}/bn/</loc>" not in cur_sm:
+        cur_sm = cur_sm.replace("</urlset>", "\n".join(ent) + "\n</urlset>")
+    open(smp, "w", encoding="utf-8").write(cur_sm)
+else:
+    open(smp, "w", encoding="utf-8").write("\n".join(['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">'] + ent + ["</urlset>"]) + "\n")
 rb = os.path.join(OUT, "robots.txt")
-line = f"Sitemap: {BASE}/sitemap-bn.xml\n"
+line = f"Sitemap: {BASE}/sitemap.xml\n"
 cur = open(rb).read() if os.path.exists(rb) else "User-agent: *\nAllow: /\n"
 if line not in cur:
     open(rb, "w").write(cur.rstrip("\n") + "\n" + line)
-print(f"ok: {len(urls)} halaman lagu + beranda, sitemap-bn {len(urls) + 1} URL, base {BASE}/bn/")
+print(f"ok: {len(urls)} halaman lagu + beranda, masuk sitemap.xml {len(urls) + 2} URL, base {BASE}/bn/")

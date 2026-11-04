@@ -12,7 +12,7 @@ Sumber dan pembangun situs untuk Buku Nyanyian HKBP (874 lagu: BN 1–865 dan va
 
 
 | `build/make_prod.py` | `site/index.html` (Dev) → `site-prod/index.html` (tanpa panel Dev, scan, koreksi) |
-| `build/make_static.py` | `site-prod` + `site/data` → `<out>/bn/`: satu halaman per lagu, beranda, `sitemap-bn.xml` |
+| `build/make_static.py` | `site-prod` + `site/data` → `<out>/bn/`: satu halaman per lagu, beranda, entri BN di `sitemap.xml` |
 | `site/index.html` | Halaman Dev (beranda, pengalih buku, pemutar, panel scan) |
 
 Scan halaman (73 MB) tidak disertakan: `BN_PDF=/path/BN-HKBP.pdf python3 build/build_site.py`.
