@@ -138,6 +138,10 @@ def daftar_main(pref, label, ids_, hy, segs):
     return out
 
 
+ADS_PUB = "ca-pub-6611819882636291"
+ADS_HEAD = f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADS_PUB}" crossorigin="anonymous"></script>\n' if BASE == "https://bukuende.com" else ""
+
+
 def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=""):
     url = BASE + path
     head = f"""<!doctype html>
@@ -157,10 +161,10 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
 <link rel="icon" href="{RP}/favicon.ico" sizes="any">
 {fonts}
 <link rel="stylesheet" href="{BP}/assets/app.css?v={V}">
-{extra_head}{('<script type="application/ld+json">' + json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + '</script>') if jsonld else ''}
-</head>
+{extra_head}{('<script type="application/ld+json">' + json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + '</script>') if jsonld else ''}{'' if 'noindex' in extra_head else ADS_HEAD}</head>
 <body>"""
     b = mark(body)
+    b = b.replace("</footer>", f' · <a href="{RP}/privasi/">Kebijakan Privasi</a></footer>', 1)
     b = rep(b, '<main id="main"></main>', '<main id="main">' + main + '</main>')
     if nav:
         b = rep(b, '<ol id="list"></ol>', '<ol id="list">' + nav + '</ol>')

@@ -189,6 +189,11 @@ def daftar_main(pref, label, ids_, hy, segs):
     return out
 
 
+ADS_PUB = "ca-pub-6611819882636291"
+# Skrip AdSense hanya di situs produksi (bukan salinan GitHub Pages) dan tidak di halaman noindex (404).
+ADS_HEAD = f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADS_PUB}" crossorigin="anonymous"></script>\n' if BASE == "https://bukuende.com" else ""
+
+
 def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head="", extra_tail=""):
     url = BASE + path
     head = f"""<!doctype html>
@@ -208,10 +213,13 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
 <link rel="icon" href="{P}/favicon.ico" sizes="any">
 {fonts}
 <link rel="stylesheet" href="{P}/assets/app.css?v={V}">
-{extra_head}{('<script type="application/ld+json">' + json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + '</script>') if jsonld else ''}
-</head>
+{extra_head}{('<script type="application/ld+json">' + json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + '</script>') if jsonld else ''}{'' if 'noindex' in extra_head else ADS_HEAD}</head>
 <body>"""
     b = body
+    if "</footer>" in b:
+        b = b.replace("</footer>", f' · <a href="{P}/privasi/">Kebijakan Privasi</a></footer>', 1)
+    else:   # build produksi membuang footer BE; beri footer kecil berisi tautan privasi
+        b = b.replace("</main>", f'</main>\n<footer><a href="{P}/privasi/">Kebijakan Privasi</a></footer>', 1)
     if a.books:
         b = b.replace("__ROOT__", P).replace("__BN__", P + "/bn")
     else:
@@ -389,6 +397,19 @@ open(os.path.join(OUT, "daftar", "index.html"), "w", encoding="utf-8").write(pag
     "/daftar/", "Daftar Ende HKBP – nomor dan judul | Buku Ende HKBP Digital",
     f"Daftar lengkap {n_main} ende HKBP berdasarkan nomor Buku Ende, dengan judul masing-masing.",
     daftar_main(f"{P}/be", "Ende", ids, hymns, SEGS), nav=nav))
+
+# --- kebijakan privasi, ads.txt ---
+os.makedirs(os.path.join(OUT, "privasi"), exist_ok=True)
+_priv = f"""<header class="hymn-head"><h1>Kebijakan Privasi</h1><div class="meta"><span>Berlaku untuk bukuende.com (Buku Ende dan Buku Nyanyian HKBP Digital)</span></div></header>
+<div style="line-height:1.7;max-width:70ch;padding:0 0 24px">
+<p><b>Data yang kami kumpulkan.</b> Situs ini tidak memiliki akun, formulir, atau kolom komentar, dan kami sendiri tidak menyimpan data pribadi pengunjung.</p>
+<p><b>Iklan.</b> Situs ini menggunakan Google AdSense untuk menampilkan iklan. Google dan mitranya dapat memakai cookie atau pengenal perangkat untuk menayangkan iklan berdasarkan kunjungan Anda ke situs ini dan situs lain, serta untuk mengukur kinerja iklan. Informasi lebih lanjut: <a href="https://policies.google.com/technologies/ads" target="_blank" rel="noopener">Bagaimana Google menggunakan data dari situs yang menggunakan layanannya</a>. Anda dapat mengatur atau menonaktifkan iklan yang dipersonalisasi di <a href="https://adssettings.google.com" target="_blank" rel="noopener">Setelan Iklan Google</a>.</p>
+<p><b>Penyimpanan di peramban.</b> Pengaturan tampilan (mode gelap dan pilihan tampilan not) dapat disimpan di peramban Anda (penyimpanan lokal) dan tidak dikirim ke server.</p>
+<p><b>Perubahan.</b> Kebijakan ini dapat diperbarui sewaktu-waktu; versi terbaru selalu ada di halaman ini.</p>
+</div>"""
+open(os.path.join(OUT, "privasi", "index.html"), "w", encoding="utf-8").write(page("/privasi/", "Kebijakan Privasi | Buku Ende HKBP Digital", "Kebijakan privasi dan penggunaan iklan Google AdSense di Buku Ende HKBP Digital.", _priv))
+if BASE == "https://bukuende.com":
+    open(os.path.join(OUT, "ads.txt"), "w").write(f"google.com, pub-{ADS_PUB.split('-')[-1]}, DIRECT, f08c47fec0942fa0\n")
 
 # --- sitemap & robots ---
 sm = ['<?xml version="1.0" encoding="UTF-8"?>', '<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">', f"  <url><loc>{BASE}/</loc></url> <!-- Beranda Buku Ende -->"]
