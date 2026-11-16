@@ -139,7 +139,12 @@ def daftar_main(pref, label, ids_, hy, segs):
 
 
 ADS_PUB = "ca-pub-6611819882636291"
+TRACK_REL = "../../build/track.js"
 ADS_HEAD = f'<script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client={ADS_PUB}" crossorigin="anonymous"></script>\n' if BASE == "https://bukuende.com" else ""
+GTM_ID = "GTM-TVH648W5"
+_PROD = BASE == "https://bukuende.com"
+GTM_HEAD = ("<script>(function(w,d,s,l,i){w[l]=w[l]||[];w[l].push({'gtm.start':new Date().getTime(),event:'gtm.js'});var f=d.getElementsByTagName(s)[0],j=d.createElement(s),dl=l!='dataLayer'?'&l='+l:'';j.async=true;j.src='https://www.googletagmanager.com/gtm.js?id='+i+dl;f.parentNode.insertBefore(j,f);})(window,document,'script','dataLayer','" + GTM_ID + "');</script>\n<script>" + open(os.path.join(os.path.dirname(os.path.abspath(__file__)), TRACK_REL), encoding="utf-8").read() + "</script>\n") if _PROD else ""
+GTM_BODY = ('<noscript><iframe src="https://www.googletagmanager.com/ns.html?id=' + GTM_ID + '" height="0" width="0" style="display:none;visibility:hidden"></iframe></noscript>\n') if _PROD else ""
 
 
 def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=""):
@@ -161,8 +166,8 @@ def page(path, title, desc, main, nav="", page_id=None, jsonld=None, extra_head=
 <link rel="icon" href="{RP}/favicon.ico" sizes="any">
 {fonts}
 <link rel="stylesheet" href="{BP}/assets/app.css?v={V}">
-{extra_head}{('<script type="application/ld+json">' + json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + '</script>') if jsonld else ''}{'' if 'noindex' in extra_head else ADS_HEAD}</head>
-<body>"""
+{extra_head}{('<script type="application/ld+json">' + json.dumps(jsonld, ensure_ascii=False).replace("</", "<\\/") + '</script>') if jsonld else ''}{'' if 'noindex' in extra_head else ADS_HEAD + GTM_HEAD}</head>
+<body>{'' if 'noindex' in extra_head else GTM_BODY}"""
     b = mark(body)
     b = b.replace("</footer>", f' · <a href="{RP}/privasi/">Kebijakan Privasi</a></footer>', 1)
     b = rep(b, '<main id="main"></main>', '<main id="main">' + main + '</main>')
