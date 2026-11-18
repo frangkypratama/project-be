@@ -6,14 +6,14 @@ plugins {
 
 android {
     namespace = "com.bukuende.hkbp"
-    compileSdk = 35
+    compileSdk = 36
 
     defaultConfig {
         applicationId = "com.bukuende.hkbp"
         minSdk = 24
-        targetSdk = 35
-        versionCode = 3
-        versionName = "2.1"
+        targetSdk = 36
+        versionCode = 4
+        versionName = "2.2"
     }
 
     signingConfigs {

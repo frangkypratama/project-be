@@ -24,7 +24,7 @@ jobs:
 
       - uses: gradle/actions/setup-gradle@v4
         with:
-          gradle-version: "8.10.2"
+          gradle-version: "8.14.3"
 
       - name: Siapkan isi situs sebagai aset
         run: python3 android/prepare_assets.py
@@ -50,7 +50,7 @@ jobs:
       - name: Bangun APK
         run: |
           set -o pipefail
-          gradle -p android testReleaseUnitTest assembleRelease --no-daemon --stacktrace 2>&1 | tee build.log
+          gradle -p android testReleaseUnitTest assembleRelease bundleRelease --no-daemon --stacktrace 2>&1 | tee build.log
 
       - name: Laporkan galat build
         if: failure()
@@ -61,11 +61,17 @@ jobs:
 
       - name: Ringkasan APK
         run: |
-          ls -l android/app/build/outputs/apk/release/
+          ls -l android/app/build/outputs/apk/release/ android/app/build/outputs/bundle/release/
           for t in "$ANDROID_HOME"/build-tools/*/aapt2; do "$t" dump badging android/app/build/outputs/apk/release/app-release.apk | head -6; break; done || true
 
       - uses: actions/upload-artifact@v4
         with:
           name: buku-ende-hkbp-apk
           path: android/app/build/outputs/apk/release/app-release.apk
+          if-no-files-found: error
+
+      - uses: actions/upload-artifact@v4
+        with:
+          name: buku-ende-hkbp-aab-playstore
+          path: android/app/build/outputs/bundle/release/app-release.aab
           if-no-files-found: error
