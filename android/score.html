@@ -1,0 +1,60 @@
+<!doctype html>
+<html><head><meta charset="utf-8">
+<meta name="viewport" content="width=device-width,initial-scale=1">
+<style>
+html,body{margin:0;padding:0;background:transparent;-webkit-tap-highlight-color:transparent}
+#s{padding:4px 6px 24px}
+#s svg{display:block;max-width:100%;height:auto}
+.hl path,.hl ellipse{fill:var(--hl,#c0392b)!important;stroke:var(--hl,#c0392b)!important}
+/* cetak */
+body.print{background:#fff;color:#000;font-family:serif}
+.print h1{font-size:20px;margin:0 0 2px}
+.print .sub{font-size:12px;color:#333;margin:0 0 10px}
+.print .part{page-break-before:always}
+.print .part:first-of-type{page-break-before:auto}
+.print .lbl{font:600 11px sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#555;margin:8px 0 6px}
+.flow{display:flex;flex-wrap:wrap;row-gap:10px;font-family:sans-serif}
+.bar{display:flex;align-items:flex-start}
+.beat{display:flex;position:relative;padding-top:6px}
+.beat.l1{border-top:1px solid #000}.beat.l2{box-shadow:inset 0 3px 0 -2px #000;border-top:1px solid #000}
+.el{display:flex;flex-direction:column;align-items:center;min-width:16px;padding:0 3px;font-size:16px;line-height:1.1}
+.el .u,.el .d{font-size:8px;height:8px;line-height:8px}
+.el .s{font-size:12px;white-space:nowrap}
+.el.sh .g{text-decoration:line-through}
+.bl{width:1px;background:#000;align-self:stretch;margin:0 6px;max-height:34px}
+.bl.f{width:3px}
+.vs{columns:2;column-gap:28px;font-size:13px;line-height:1.5}
+.vs p{margin:0 0 10px;break-inside:avoid}
+</style>
+<script src="abcjs.js"></script>
+</head>
+<body><div id="s"></div>
+<script>
+var cur=null;
+function opts(w){return {add_classes:true,responsive:"resize",foregroundColor:document.body.dataset.ink||"#000",
+  staffwidth:w,paddingtop:4,paddingbottom:4,paddingleft:4,paddingright:4,
+  wrap:{minSpacing:1.8,maxSpacing:2.7,preferredMeasuresPerLine:4}};}
+/* tampilan di aplikasi */
+var last=null, lastW=0;
+window.addEventListener("resize",function(){if(last&&Math.abs(window.innerWidth-lastW)>24)render(last[0],last[1],last[2]);});
+function render(abc,ink,hl){
+  last=[abc,ink,hl]; lastW=window.innerWidth;
+  document.body.dataset.ink=ink; document.documentElement.style.setProperty("--hl",hl);
+  var el=document.getElementById("s"); cur=null;
+  try{ABCJS.renderAbc(el,abc,opts(Math.max(300,window.innerWidth-16)));}catch(e){el.textContent="Not balok tidak dapat digambar.";}
+}
+function mark(i){
+  if(cur){cur.classList.remove("hl");cur=null;}
+  if(i<0) return;
+  var q=document.querySelectorAll("#s .abcjs-note, #s .abcjs-rest")[i];
+  if(q){q.classList.add("hl");cur=q;try{q.scrollIntoView({block:"nearest",behavior:"smooth"});}catch(e){}}
+}
+/* cetak: badan halaman sudah diisi aplikasi, tinggal gambar not balok */
+function printMode(abc){
+  document.body.classList.add("print");
+  var el=document.getElementById("staffp");
+  try{ABCJS.renderAbc(el,abc,opts(680));}catch(e){}
+  setTimeout(function(){try{Cetak.siap();}catch(e){}},150);
+}
+</script>
+</body></html>

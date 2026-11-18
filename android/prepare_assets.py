@@ -1,75 +1,63 @@
 #!/usr/bin/env python3
-"""Menyiapkan isi situs (Buku Ende di / dan Buku Nyanyian di /bn/) sebagai aset APK luring.
+"""Menyiapkan data aplikasi Android luring dari sumber situs.
 
 Dipanggil dari akar repo:  python3 android/prepare_assets.py
-Hasil: android/app/src/main/assets/www
+Hasil di android/app/src/main/assets/:
+  be.json, bn.json  data lagu ringkas (judul, not, lirik semua ayat, pemasangan suku kata)
+  score.html        penggambar not balok (abcjs) untuk tampilan dan cetak
+  abcjs.js          pustaka not balok (luring)
 """
-import os, re, shutil, subprocess, sys
+import glob, json, os, shutil, sys
 
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
-OUT = os.path.join(ROOT, "android", "app", "src", "main", "assets", "www")
-BASE = "https://appassets.androidplatform.net"   # bukan bukuende.com => tanpa AdSense & Tag Manager
+OUT = os.path.join(ROOT, "android", "app", "src", "main", "assets")
+os.makedirs(OUT, exist_ok=True)
 
-def run(*a):
-    subprocess.run([sys.executable, *a], cwd=ROOT, check=True)
+def credits(h):
+    c = h.get("credits")
+    if c:
+        return [x for x in c if x]
+    c = (h.get("credit") or "").strip()
+    return [x.strip() for x in c.split("·") if x.strip()] if c else []
 
-shutil.rmtree(OUT, ignore_errors=True)
-run("build/make_static.py", "--base", BASE, "--out", OUT, "--books")
-run("bn/build/make_prod.py")
-run("bn/build/make_static.py", "--base", BASE, "--out", OUT)
+def pack(h):
+    o = {"id": str(h["id"]), "t": h["title"], "k": h.get("key") or "C", "m": h.get("meter") or "4/4"}
+    if h.get("oct"): o["o"] = h["oct"]
+    if h.get("tempo"): o["tp"] = h["tempo"]
+    if h.get("bl"): o["bl"] = h["bl"]
+    if h.get("cat"): o["c"] = h["cat"]
+    cr = credits(h)
+    if cr: o["cr"] = cr
+    secs = []
+    for s in h["sections"]:
+        x = {"n": s["notes"], "r": s["rows"]}
+        if s.get("meter"): x["m"] = s["meter"]
+        if s.get("key"): x["k"] = s["key"]
+        secs.append(x)
+    o["s"] = secs
+    o["v"] = h.get("verses") or []
+    if h.get("vnum"): o["vn"] = h["vnum"]
+    vl = h.get("vl")
+    if vl:
+        o["vl"] = [(v["r"] if (i and v and v.get("r")) else None) for i, v in enumerate(vl)]
+    return o
 
-# berkas yang hanya berguna untuk mesin pencari / server
-for f in ("redirects.map", "sitemap.xml", "robots.txt", "DEPLOY.txt", "ads.txt"):
-    p = os.path.join(OUT, f)
-    if os.path.exists(p):
-        os.remove(p)
+def book(pattern):
+    out = []
+    for f in sorted(glob.glob(os.path.join(ROOT, pattern))):
+        out.extend(pack(h) for h in json.load(open(f, encoding="utf-8")))
+    return out
 
-# pustaka not balok: dari CDN -> berkas lokal
-shutil.copy(os.path.join(ROOT, "android", "abcjs-basic-min.js"), os.path.join(OUT, "assets", "abcjs.js"))
-RE_ABC = re.compile(r'<script src="https://cdn\.jsdelivr\.net/npm/abcjs[^"]*"></script>')
-RE_FONT = re.compile(r'<link rel="(?:preconnect|stylesheet)" href="https://fonts\.(?:googleapis|gstatic)\.com[^"]*"[^>]*>\s*')
+be = book("site/data/b*.json")
+bn = book("bn/site/data/b*.json")
+for name, items in (("be", be), ("bn", bn)):
+    with open(os.path.join(OUT, name + ".json"), "w", encoding="utf-8") as f:
+        json.dump({"items": items}, f, ensure_ascii=False, separators=(",", ":"))
 
-PRIVASI = (
-    '<div style="line-height:1.7;max-width:70ch;padding:0 0 24px">'
-    '<p><b>Data.</b> Aplikasi ini tidak memiliki akun, formulir, atau iklan, dan tidak mengumpulkan atau mengirim data apa pun. '
-    'Seluruh isi buku ada di dalam aplikasi dan dibuka tanpa internet.</p>'
-    '<p><b>Penyimpanan di perangkat.</b> Pengaturan tampilan (mode gelap dan pilihan tampilan not) disimpan di perangkat Anda saja.</p>'
-    '<p><b>Tautan luar.</b> Tautan ke situs lain dibuka di peramban Anda dan tunduk pada kebijakan situs tersebut.</p>'
-    '</div>'
-)
-RE_PRIV = re.compile(r'<div style="line-height:1\.7;max-width:70ch;padding:0 0 24px">.*?</div>', re.S)
-RE_META = re.compile(r'(<div class="meta"><span>)Berlaku untuk bukuende\.com[^<]*(</span>)')
+shutil.copy(os.path.join(ROOT, "android", "abcjs-basic-min.js"), os.path.join(OUT, "abcjs.js"))
+shutil.copy(os.path.join(ROOT, "android", "score.html"), os.path.join(OUT, "score.html"))
 
-n = 0
-for d, _, fs in os.walk(OUT):
-    for f in fs:
-        if not f.endswith(".html"):
-            continue
-        p = os.path.join(d, f)
-        s = open(p, encoding="utf-8").read()
-        t = RE_ABC.sub('<script src="/assets/abcjs.js"></script>', s)
-        t = RE_FONT.sub("", t)
-        if os.path.relpath(p, OUT) == os.path.join("privasi", "index.html"):
-            t = RE_PRIV.sub(lambda m: PRIVASI, t, count=1)
-            t = RE_META.sub(r"\1Berlaku untuk aplikasi Buku Ende dan Buku Nyanyian HKBP Digital (luring)\2", t)
-        if t != s:
-            open(p, "w", encoding="utf-8").write(t)
-            n += 1
-
-# pemeriksaan: tidak boleh ada sumber daya jaringan yang tersisa
-bad = []
-for d, _, fs in os.walk(OUT):
-    for f in fs:
-        if f.endswith((".html", ".js", ".css")):
-            s = open(os.path.join(d, f), encoding="utf-8", errors="ignore").read()
-            for pat in ("cdn.jsdelivr.net", "fonts.googleapis.com", "fonts.gstatic.com",
-                        "googletagmanager.com", "pagead2.googlesyndication.com", "adsbygoogle"):
-                if pat in s:
-                    bad.append((os.path.relpath(os.path.join(d, f), OUT), pat))
-if bad:
-    print("GAGAL: masih ada sumber daya jaringan:", bad[:10])
-    sys.exit(1)
-
-files = sum(len(fs) for _, _, fs in os.walk(OUT))
-size = sum(os.path.getsize(os.path.join(d, f)) for d, _, fs in os.walk(OUT) for f in fs)
-print(f"ok: {files} berkas, {size/1e6:.1f} MB, {n} halaman disesuaikan -> {OUT}")
+sz = {f: os.path.getsize(os.path.join(OUT, f)) for f in os.listdir(OUT)}
+print(f"ok: BE {len(be)} lagu, BN {len(bn)} lagu ->", ", ".join(f"{k} {v/1e6:.2f} MB" for k, v in sorted(sz.items())))
+if len(be) < 860 or len(bn) < 860:
+    sys.exit("GAGAL: jumlah lagu kurang")
