@@ -3,6 +3,7 @@ package com.bukuende.hkbp.ui
 import android.content.Intent
 import android.net.Uri
 import androidx.compose.foundation.ExperimentalFoundationApi
+import androidx.compose.foundation.BorderStroke
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -81,13 +82,14 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.text.style.TextOverflow
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
+import com.bukuende.hkbp.data.Book
 import com.bukuende.hkbp.data.Hymn
 import com.bukuende.hkbp.data.Prefs
 import com.bukuende.hkbp.music.Notation
 import com.bukuende.hkbp.music.OrganPlayer
 import kotlinx.coroutines.launch
 
-private val VIEWS = listOf("Lirik", "Not angka", "Not balok")
+val VIEWS = listOf("Lirik", "Angka", "Balok", "Keduanya")
 
 private fun clampBpm(v: Int) = v.coerceIn(40, 180)
 
@@ -224,9 +226,11 @@ fun DetailScreen(hymns: List<Hymn>, start: Int, prefs: Prefs, onBack: () -> Unit
     ) { pad ->
         Column(Modifier.padding(pad).fillMaxSize()) {
             Segments(VIEWS, view, { view = it }, Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 6.dp))
+            // geser ke lagu lain hanya di tampilan Lirik; di not angka/balok pakai tombol ‹ › agar tidak tergeser
             HorizontalPager(
                 state = pager,
                 modifier = Modifier.fillMaxSize(),
+                userScrollEnabled = view == 0,
                 key = { hymns[it].key2 },
             ) { p ->
                 val isCur = p == settled
@@ -381,6 +385,27 @@ private fun PlayerBar(
     }
 }
 
+/** Bingkai not: memisahkan partitur dari halaman, seperti lembar partitur. */
+@Composable
+private fun ScoreCard(label: String, content: @Composable () -> Unit) {
+    Surface(
+        modifier = Modifier.fillMaxWidth().padding(horizontal = 12.dp, vertical = 6.dp),
+        shape = RoundedCornerShape(16.dp),
+        color = MaterialTheme.colorScheme.surfaceContainerLowest,
+        border = BorderStroke(1.dp, MaterialTheme.colorScheme.outlineVariant),
+    ) {
+        Column(Modifier.padding(start = 10.dp, end = 10.dp, top = 10.dp, bottom = 12.dp)) {
+            Text(
+                label.uppercase(),
+                style = MaterialTheme.typography.labelMedium,
+                color = MaterialTheme.colorScheme.primary,
+                modifier = Modifier.padding(start = 4.dp, bottom = 6.dp),
+            )
+            content()
+        }
+    }
+}
+
 @Composable
 private fun HymnHeader(h: Hymn) {
     Column(Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 8.dp)) {
@@ -461,19 +486,22 @@ private fun HymnPage(h: Hymn, view: Int, verse: Int, curSi: Int, scale: Float, o
             item { Credits(h) }
         }
 
-        1 -> Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState())) {
+        else -> Column(Modifier.fillMaxSize().verticalScroll(rememberScrollState())) {
             HymnHeader(h)
             VerseChips(h, verse, onVerse)
-            Spacer(Modifier.height(8.dp))
-            AngkaView(secs, curSi, scale, Modifier.padding(horizontal = 12.dp))
+            Spacer(Modifier.height(4.dp))
+            if (view == 1 || view == 3) {
+                ScoreCard("Not angka") {
+                    AngkaView(secs, curSi, scale, h.book == Book.BN)
+                }
+            }
+            if (view == 2 || view == 3) {
+                val abc = remember(secs) { Notation.toAbc(h, secs) }
+                ScoreCard("Not balok") {
+                    StaffView(abc, curSi, Modifier.fillMaxWidth())
+                }
+            }
             Credits(h)
-        }
-
-        else -> Column(Modifier.fillMaxSize()) {
-            HymnHeader(h)
-            VerseChips(h, verse, onVerse)
-            val abc = remember(secs) { Notation.toAbc(h, secs) }
-            StaffView(abc, curSi, Modifier.fillMaxWidth().weight(1f).padding(top = 6.dp))
         }
     }
 }

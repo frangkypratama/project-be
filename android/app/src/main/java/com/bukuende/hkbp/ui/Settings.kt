@@ -96,7 +96,7 @@ fun SettingsScreen(lib: Map<Book, List<Hymn>>, prefs: Prefs) {
                     modifier = Modifier.clickable { prefs.setDynamic(!prefs.dynamicColor) },
                     leadingContent = { Icon(Icons.Filled.Palette, null) },
                     headlineContent = { Text("Warna dari wallpaper") },
-                    supportingContent = { Text("Pakai warna Material You perangkat, bukan merah salib") },
+                    supportingContent = { Text("Pakai warna Material You perangkat, bukan biru bawaan") },
                     trailingContent = { Switch(checked = prefs.dynamicColor, onCheckedChange = { prefs.setDynamic(it) }) },
                 )
             }
@@ -120,7 +120,7 @@ fun SettingsScreen(lib: Map<Book, List<Hymn>>, prefs: Prefs) {
                 headlineContent = { Text("Tampilan awal lagu") },
                 supportingContent = {
                     Segments(
-                        listOf("Lirik", "Not angka", "Not balok"), prefs.defaultView, { prefs.useDefaultView(it) },
+                        VIEWS, prefs.defaultView, { prefs.useDefaultView(it) },
                         Modifier.fillMaxWidth().padding(top = 8.dp),
                     )
                 },

@@ -2,59 +2,141 @@
 <html><head><meta charset="utf-8">
 <meta name="viewport" content="width=device-width,initial-scale=1">
 <style>
-html,body{margin:0;padding:0;background:transparent;-webkit-tap-highlight-color:transparent}
-#s{padding:4px 6px 24px}
+html,body{margin:0;padding:0;background:transparent;-webkit-tap-highlight-color:transparent;
+  -webkit-user-select:none;user-select:none;-webkit-touch-callout:none}
+#s{padding:2px 0 6px}
 #s svg{display:block;max-width:100%;height:auto}
-.hl path,.hl ellipse{fill:var(--hl,#c0392b)!important;stroke:var(--hl,#c0392b)!important}
-/* cetak */
-body.print{background:#fff;color:#000;font-family:serif}
-.print h1{font-size:20px;margin:0 0 2px}
-.print .sub{font-size:12px;color:#333;margin:0 0 10px}
-.print .part{page-break-before:always}
-.print .part:first-of-type{page-break-before:auto}
-.print .lbl{font:600 11px sans-serif;letter-spacing:.08em;text-transform:uppercase;color:#555;margin:8px 0 6px}
-.flow{display:flex;flex-wrap:wrap;row-gap:10px;font-family:sans-serif}
-.bar{display:flex;align-items:flex-start}
-.beat{display:flex;position:relative;padding-top:6px}
-.beat.l1{border-top:1px solid #000}.beat.l2{box-shadow:inset 0 3px 0 -2px #000;border-top:1px solid #000}
-.el{display:flex;flex-direction:column;align-items:center;min-width:16px;padding:0 3px;font-size:16px;line-height:1.1}
-.el .u,.el .d{font-size:8px;height:8px;line-height:8px}
-.el .s{font-size:12px;white-space:nowrap}
-.el.sh .g{text-decoration:line-through}
-.bl{width:1px;background:#000;align-self:stretch;margin:0 6px;max-height:34px}
-.bl.f{width:3px}
-.vs{columns:2;column-gap:28px;font-size:13px;line-height:1.5}
-.vs p{margin:0 0 10px;break-inside:avoid}
+.hl path,.hl ellipse{fill:var(--hl,#1f4f8f)!important;stroke:var(--hl,#1f4f8f)!important}
+
+/* ---------- cetak (gaya cetak situs bukuende.com) ---------- */
+@page{margin:13mm 14mm 15mm}
+body.print{background:#fff;color:#000;font-family:"Noto Sans",Roboto,sans-serif;-webkit-print-color-adjust:exact}
+.print .part + .part{break-before:page;page-break-before:always}
+.print .hd{padding-bottom:3mm;border-bottom:.4mm solid #000;display:flex;align-items:flex-end;gap:5mm}
+.print .no{font:600 26pt/1 "Noto Serif",Georgia,serif;font-variant-numeric:lining-nums}
+.print h1{font:700 18pt/1.15 "Noto Serif",Georgia,serif;margin:0}
+.print .meta{font-size:9pt;margin-top:1.5mm;display:flex;flex-wrap:wrap;column-gap:4mm}
+.print h2{font-size:8.5pt;font-weight:700;text-transform:uppercase;letter-spacing:.08em;color:#3a3a3a;margin:6mm 0 3mm;break-after:avoid}
+.print .foot{margin-top:6mm;padding-top:1.5mm;border-top:.2mm solid #b8b8b8;font-size:7.5pt;color:#3a3a3a;break-before:avoid}
+.print .verses{display:grid;grid-template-columns:1fr 1fr;column-gap:10mm;row-gap:3mm;align-items:start}
+.print .verse{font:10.5pt/1.5 "Noto Serif",Georgia,serif;margin:0;break-inside:avoid;display:flex;gap:2.5mm}
+.print .verse b{min-width:5mm;font-family:"Noto Sans",Roboto,sans-serif;font-weight:600;font-size:9.5pt}
+.print .credit{font:italic 8.5pt/1.4 "Noto Serif",Georgia,serif;margin-top:4mm;text-align:right;color:#222}
+
+.flow{position:relative;display:flex;flex-wrap:wrap;align-items:flex-start;row-gap:13px;margin-bottom:16px}
+.bar{display:flex;align-items:flex-start;break-inside:avoid}
+.barline{width:0;border-left:1.5px solid #000;margin:4px 6px 0;height:42px}
+.barline.rep{border-left-width:4px;box-shadow:-5px 0 0 -3.5px #000;position:relative;margin-left:12px}
+.barline.rep::before{content:":";position:absolute;left:-13px;top:9px;font-weight:700;font-size:18px;line-height:1}
+.barline.fin{border-left:5px double #000;width:4px}
+.beat{position:relative;display:flex;padding-top:7px}
+.beat.split2::after{content:"";position:absolute;top:-2px;left:5px;right:5px;border-top:1.5px solid #000}
+.beat.split::before{content:"";position:absolute;top:2px;left:5px;right:5px;border-top:1.5px solid #000}
+.el{display:flex;flex-direction:column;align-items:center;min-width:24px;padding:0 3px}
+.el .up,.el .dn{height:8px;line-height:8px;font-size:11px;letter-spacing:-1px}
+.el .dg{font:600 20px/1.05 "Noto Serif",Georgia,serif;font-variant-numeric:tabular-nums lining-nums;position:relative}
+.el.hold .dg,.el.rest .dg{color:#3a3a3a}
+.el.sharp .dg::after,.el.flat .dg::after{content:"";position:absolute;left:-2px;right:-2px;top:52%;border-top:1.5px solid #000;transform:rotate(-55deg)}
+.el.flat .dg::after{transform:rotate(55deg)}
+.el.hb .dg::before,.el.hb2 .dg::before{content:"";position:absolute;left:-2px;right:-2px;top:-3px;border-top:1.5px solid #000}
+.el.hb2 .dg::before{height:4px;top:-6px;border-bottom:1.5px solid #000}
+.el .syl{font-size:12.5px;line-height:1.35;white-space:nowrap;min-height:1.35em}
+.el .syl.r2{color:#3a3a3a}
+.el .syl:nth-child(4){margin-top:5px}
+.breath{font:20px/1 "Noto Serif",serif;margin:6px 1px 0 -2px}
+.slurs{position:absolute;left:0;top:0;width:100%;height:100%;pointer-events:none;overflow:visible}
+.slurs path{fill:none;stroke:#000;stroke-width:1.3}
+#staffp svg{display:block;width:100%;height:auto;break-inside:avoid}
+#staffp text{font-family:"Noto Sans",Roboto,sans-serif}
 </style>
 <script src="abcjs.js"></script>
 </head>
 <body><div id="s"></div>
 <script>
-var cur=null;
-function opts(w){return {add_classes:true,responsive:"resize",foregroundColor:document.body.dataset.ink||"#000",
-  staffwidth:w,paddingtop:4,paddingbottom:4,paddingleft:4,paddingright:4,
-  wrap:{minSpacing:1.8,maxSpacing:2.7,preferredMeasuresPerLine:4}};}
-/* tampilan di aplikasi */
-var last=null, lastW=0;
+var cur=null, last=null, lastW=0;
+function opts(w,per){return {add_classes:true,responsive:"resize",foregroundColor:document.body.dataset.ink||"#000",
+  staffwidth:w,paddingtop:4,paddingbottom:4,paddingleft:2,paddingright:6,
+  wrap:{minSpacing:1.8,maxSpacing:2.7,preferredMeasuresPerLine:per||4}};}
+function report(){try{Tinggi.set(Math.ceil(document.getElementById("s").getBoundingClientRect().height));}catch(e){}}
 window.addEventListener("resize",function(){if(last&&Math.abs(window.innerWidth-lastW)>24)render(last[0],last[1],last[2]);});
+/* tampilan di aplikasi: tinggi dilaporkan ke aplikasi, gulir oleh aplikasi */
 function render(abc,ink,hl){
   last=[abc,ink,hl]; lastW=window.innerWidth;
   document.body.dataset.ink=ink; document.documentElement.style.setProperty("--hl",hl);
   var el=document.getElementById("s"); cur=null;
-  try{ABCJS.renderAbc(el,abc,opts(Math.max(300,window.innerWidth-16)));}catch(e){el.textContent="Not balok tidak dapat digambar.";}
+  try{ABCJS.renderAbc(el,abc,opts(Math.max(280,window.innerWidth-12),3));}catch(e){el.textContent="Not balok tidak dapat digambar.";}
+  report(); setTimeout(report,60);
 }
 function mark(i){
   if(cur){cur.classList.remove("hl");cur=null;}
   if(i<0) return;
   var q=document.querySelectorAll("#s .abcjs-note, #s .abcjs-rest")[i];
-  if(q){q.classList.add("hl");cur=q;try{q.scrollIntoView({block:"nearest",behavior:"smooth"});}catch(e){}}
+  if(q){q.classList.add("hl");cur=q;}
 }
-/* cetak: badan halaman sudah diisi aplikasi, tinggal gambar not balok */
-function printMode(abc){
-  document.body.classList.add("print");
-  var el=document.getElementById("staffp");
-  try{ABCJS.renderAbc(el,abc,opts(680));}catch(e){}
-  setTimeout(function(){try{Cetak.siap();}catch(e){}},150);
+
+/* ---------- cetak ---------- */
+function esc(s){return String(s).replace(/&/g,"&amp;").replace(/</g,"&lt;").replace(/>/g,"&gt;");}
+function angkaHtml(D){
+  var out="";
+  D.secs.forEach(function(sec){
+    out+='<div class="flow">';
+    sec.bars.forEach(function(bar){
+      out+='<div class="bar">';
+      bar.beats.forEach(function(bt){
+        var n=bt.els.length, cls=bt.exp?" exp":(n>1?" split":"")+(n>(D.bn?3:2)?" split2":"");
+        out+='<div class="beat'+cls+'">';
+        bt.els.forEach(function(e){
+          var c="el"+(e.hold?" hold":"")+(e.rest?" rest":"")+(e.acc>0?" sharp":e.acc<0?" flat":"")+
+            (bt.exp?(e.lv>=2?" hb2":e.lv===1?" hb":""):"")+(e.ss?" ss":"")+(e.se?" se":"");
+          out+='<div class="'+c+'"><span class="up">'+"•".repeat(e.u||0)+'</span><span class="dg">'+esc(e.g)+
+            '</span><span class="dn">'+"•".repeat(e.d||0)+'</span>';
+          (e.syl||[]).forEach(function(t,r){out+='<span class="syl'+(r?" r2":"")+'">'+esc(t)+'</span>';});
+          out+='</div>';
+        });
+        out+='</div>';
+        if(bt.br) out+='<span class="breath">’</span>';
+      });
+      if(bar.end) out+='<span class="barline'+(bar.end===":|"?" rep":bar.end==="|]"?" fin":"")+'"></span>';
+      out+='</div>';
+    });
+    out+='<svg class="slurs"></svg></div>';
+  });
+  return out;
+}
+function drawSlurs(){
+  document.querySelectorAll(".print .flow").forEach(function(flow){
+    var svg=flow.querySelector(".slurs"), fr=flow.getBoundingClientRect(), open=null, NS="http://www.w3.org/2000/svg";
+    function seg(xa,y,xb){var p=document.createElementNS(NS,"path");p.setAttribute("d","M"+xa+" "+(y+5)+" Q"+((xa+xb)/2)+" "+(y-6)+" "+xb+" "+(y+5));svg.appendChild(p);}
+    flow.querySelectorAll(".el").forEach(function(el){
+      if(el.classList.contains("ss")) open=el;
+      if(el.classList.contains("se")&&open){
+        var a=open.querySelector(".dg").getBoundingClientRect(), b=el.querySelector(".dg").getBoundingClientRect();
+        var ta=open.parentNode.getBoundingClientRect().top-fr.top-7, tb=el.parentNode.getBoundingClientRect().top-fr.top-7;
+        var x1=a.left+a.width/2-fr.left, x2=b.left+b.width/2-fr.left;
+        if(Math.abs(a.top-b.top)>8){seg(x1,ta,Math.min(fr.width,x1+40));seg(Math.max(0,x2-40),tb,x2);}
+        else seg(x1,Math.min(ta,tb),x2);
+        open=null;
+      }
+    });
+  });
+}
+function printMode(D){
+  document.body.className="print"; document.body.dataset.ink="#000";
+  var meta=D.meta.map(function(m){return '<span>'+esc(m[0])+(m[1]?' <b>'+esc(m[1])+'</b>':'')+'</span>';}).join("");
+  var head='<header class="hd"><span class="no">'+esc(D.no)+'</span><div><h1>'+esc(D.title)+'</h1><div class="meta">'+meta+'</div></div></header>';
+  var vs=D.verses.slice(1);
+  var vlabel=vs.length?"Ayat "+vs[0].n+(vs.length>1?"–"+vs[vs.length-1].n:""):"";
+  var verses=vs.length?'<div class="verses">'+vs.map(function(v){return '<p class="verse"><b>'+esc(v.n)+'.</b><span>'+v.lines.map(esc).join("<br>")+'</span></p>';}).join("")+'</div>':"";
+  var credit=D.credits.length?'<div class="credit">'+D.credits.map(esc).join("<br>")+'</div>':"";
+  var foot='<div class="foot">'+esc(D.foot)+'</div>';
+  document.body.innerHTML=
+    '<section class="part">'+head+'<h2>Not angka · ayat '+esc(D.verses[0]?D.verses[0].n:"1")+'</h2>'+angkaHtml(D)+
+      (verses?'<h2>'+esc(vlabel)+'</h2>'+verses:"")+credit+foot+'</section>'+
+    '<section class="part">'+head+'<h2>Not balok · ayat '+esc(D.verses[0]?D.verses[0].n:"1")+'</h2><div id="staffp"></div>'+
+      (verses?'<h2>'+esc(vlabel)+'</h2>'+verses:"")+credit+foot+'</section>';
+  try{ABCJS.renderAbc("staffp",D.abc,opts(700,4));}catch(e){}
+  drawSlurs();
+  setTimeout(function(){try{Cetak.siap();}catch(e){}},250);
 }
 </script>
 </body></html>

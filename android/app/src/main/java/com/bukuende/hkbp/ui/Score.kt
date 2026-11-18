@@ -6,6 +6,7 @@ import android.os.Handler
 import android.os.Looper
 import android.print.PrintAttributes
 import android.print.PrintManager
+import android.view.MotionEvent
 import android.webkit.JavascriptInterface
 import android.webkit.WebResourceRequest
 import android.webkit.WebView
@@ -27,7 +28,10 @@ import androidx.compose.foundation.shape.RoundedCornerShape
 import androidx.compose.material3.MaterialTheme
 import androidx.compose.material3.Text
 import androidx.compose.runtime.Composable
+import androidx.compose.runtime.getValue
+import androidx.compose.runtime.mutableIntStateOf
 import androidx.compose.runtime.remember
+import androidx.compose.runtime.setValue
 import androidx.compose.ui.Alignment
 import androidx.compose.ui.Modifier
 import androidx.compose.ui.draw.drawBehind
@@ -40,29 +44,31 @@ import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
 import androidx.compose.ui.unit.sp
 import androidx.compose.ui.viewinterop.AndroidView
+import com.bukuende.hkbp.data.Book
 import com.bukuende.hkbp.data.Hymn
 import com.bukuende.hkbp.music.Bar
 import com.bukuende.hkbp.music.Beat
 import com.bukuende.hkbp.music.El
 import com.bukuende.hkbp.music.Notation
 import com.bukuende.hkbp.music.Sec
+import org.json.JSONArray
 import org.json.JSONObject
 import kotlin.math.abs
 
 /* ---------------- Not angka, digambar native ---------------- */
 
-private fun lineCount(beat: Beat): Int = when {
+/** Garis atas per ketukan, sama dengan situs: 2+ not = 1 garis; lebih dari 2 (BE) / 3 (BN) not = 2 garis. */
+private fun lineCount(beat: Beat, bn: Boolean): Int = when {
     beat.els.size <= 1 -> 0
-    beat.els.size == 2 -> 1
-    beat.els.size == 3 && beat.els.all { abs(it.dur * 3 - 1) < 1e-6 } -> 1
-    else -> 2
+    beat.els.size > (if (bn) 3 else 2) -> 2
+    else -> 1
 }
 
 private fun digitText(e: El) = if (e.hold) "·" else e.deg.toString()
 
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-fun AngkaView(secs: List<Sec>, curSi: Int, scale: Float, modifier: Modifier = Modifier) {
+fun AngkaView(secs: List<Sec>, curSi: Int, scale: Float, bn: Boolean, modifier: Modifier = Modifier) {
     val ink = MaterialTheme.colorScheme.onSurface
     val hl = MaterialTheme.colorScheme.tertiaryContainer
     val digit = (21 * scale).sp
@@ -73,7 +79,7 @@ fun AngkaView(secs: List<Sec>, curSi: Int, scale: Float, modifier: Modifier = Mo
         secs.forEach { sec ->
             FlowRow(Modifier.fillMaxWidth(), verticalArrangement = Arrangement.spacedBy(16.dp)) {
                 for (line in sec.lines) for (bar in line.items) {
-                    BarView(bar, sec.rows.size, curSi, ink, hl, digit, sylSize, barH)
+                    BarView(bar, sec.rows.size, curSi, ink, hl, digit, sylSize, barH, bn)
                 }
             }
         }
@@ -92,6 +98,7 @@ private fun Modifier.overlines(n: Int, ink: Color): Modifier = if (n <= 0) this 
 private fun BarView(
     bar: Bar, rows: Int, curSi: Int, ink: Color, hl: Color,
     digit: androidx.compose.ui.unit.TextUnit, syl: androidx.compose.ui.unit.TextUnit, barH: androidx.compose.ui.unit.Dp,
+    bn: Boolean,
 ) {
     Row(verticalAlignment = Alignment.Top) {
         bar.beats.forEach { beat ->
@@ -105,7 +112,7 @@ private fun BarView(
                     }
                 }
             } else {
-                Row(Modifier.overlines(lineCount(beat), ink).padding(top = 12.dp)) {
+                Row(Modifier.overlines(lineCount(beat, bn), ink).padding(top = 12.dp)) {
                     beat.els.forEach { e -> ElView(e, rows, !e.hold && e.si == curSi, ink, hl, digit, syl) }
                 }
             }
@@ -204,16 +211,25 @@ fun StaffView(abc: String, curSi: Int, modifier: Modifier = Modifier) {
     val ink = hex(MaterialTheme.colorScheme.onSurface)
     val hl = hex(MaterialTheme.colorScheme.primary)
     val st = remember { StaffState() }
+    var tinggi by remember { mutableIntStateOf(0) }
     AndroidView(
-        modifier = modifier,
+        modifier = modifier.height(if (tinggi > 0) tinggi.dp else 180.dp),
         factory = { ctx ->
-            WebView(ctx).apply {
+            // WebView tidak menerima sentuhan: gulir dan geser ditangani aplikasi (tidak ada pilih teks)
+            object : WebView(ctx) {
+                override fun dispatchTouchEvent(event: MotionEvent?): Boolean = false
+            }.apply {
                 setBackgroundColor(android.graphics.Color.TRANSPARENT)
                 settings.javaScriptEnabled = true
-                settings.builtInZoomControls = true
-                settings.displayZoomControls = false
                 settings.allowFileAccess = false
+                isVerticalScrollBarEnabled = false
                 isHorizontalScrollBarEnabled = false
+                isLongClickable = false
+                val wv = this
+                addJavascriptInterface(object {
+                    @JavascriptInterface
+                    fun set(h: Int) { wv.post { tinggi = h } }
+                }, "Tinggi")
                 webViewClient = object : WebViewClient() {
                     override fun onPageFinished(view: WebView, url: String?) {
                         st.ready = true
@@ -243,66 +259,62 @@ fun StaffView(abc: String, curSi: Int, modifier: Modifier = Modifier) {
 object Printer {
     private var keep: WebView? = null
 
-    private fun esc(s: String) = s.replace("&", "&amp;").replace("<", "&lt;").replace(">", "&gt;")
-
-    private fun angkaHtml(secs: List<Sec>): String = buildString {
+    private fun data(h: Hymn): JSONObject {
+        val secs = Notation.build(h, 0)
+        val bn = h.book == Book.BN
+        val meta = JSONArray()
+        fun m(k: String, v: String) { meta.put(JSONArray().put(k).put(v)) }
+        m(h.book.short, h.id)
+        m("do =", Notation.DO_NAME[h.key] ?: h.key)
+        m("Birama", h.meter)
+        h.tempo?.let { m("♩ =", it.toString()) }
+        h.logu?.takeIf { it > 0 }?.let { m("Buku Logu", it.toString()) }
+        h.category?.let { m(it, "") }
+        val jsecs = JSONArray()
         for (sec in secs) {
-            append("<div class=flow>")
+            val bars = JSONArray()
             for (line in sec.lines) for (bar in line.items) {
-                append("<div class=bar>")
+                val beats = JSONArray()
                 for (beat in bar.beats) {
-                    val n = if (beat.exp) 0 else lineCount(beat)
-                    append("<div class=\"beat").append(if (n == 1) " l1" else if (n >= 2) " l2" else "").append("\">")
+                    val els = JSONArray()
                     for (e in beat.els) {
-                        val m = if (beat.exp) minOf(e.lv, 2) else 0
-                        if (m > 0) append("<div class=\"beat").append(if (m == 1) " l1" else " l2").append("\">")
-                        append("<div class=\"el").append(if (e.acc != 0 && !e.hold) " sh" else "").append("\">")
-                        append("<span class=u>").append(if (e.oct > 0) "•".repeat(e.oct) else "&nbsp;").append("</span>")
-                        append("<span class=g>").append(digitText(e)).append("</span>")
-                        append("<span class=d>").append(if (e.oct < 0) "•".repeat(-e.oct) else "&nbsp;").append("</span>")
+                        val syl = JSONArray()
                         for (r in sec.rows.indices) {
                             val s = e.syl.getOrNull(r)
-                            append("<span class=s>").append(if (s == null) "&nbsp;" else esc(s.t + if (s.cont) " -" else "")).append("</span>")
+                            syl.put(if (s == null) "" else s.t + if (s.cont) " -" else "")
                         }
-                        append("</div>")
-                        if (m > 0) append("</div>")
+                        els.put(
+                            JSONObject()
+                                .put("g", digitText(e))
+                                .put("u", if (e.oct > 0) e.oct else 0)
+                                .put("d", if (e.oct < 0) -e.oct else 0)
+                                .put("acc", e.acc).put("hold", e.hold).put("rest", e.rest).put("lv", e.lv)
+                                .put("ss", e.slurStart).put("se", e.slurEnd)
+                                .put("syl", syl)
+                        )
                     }
-                    append("</div>")
-                    if (beat.breath) append("<span>’</span>")
+                    beats.put(JSONObject().put("exp", beat.exp).put("br", beat.breath).put("els", els))
                 }
-                bar.end?.let { append(if (it == "|") "<span class=bl></span>" else "<span class=bl></span><span class=\"bl f\"></span>") }
-                append("</div>")
+                val jb = JSONObject().put("beats", beats)
+                bar.end?.let { jb.put("end", it) }
+                bars.put(jb)
             }
-            append("</div>")
+            jsecs.put(JSONObject().put("bars", bars))
         }
-    }
-
-    private fun versesHtml(h: Hymn): String = buildString {
-        append("<div class=vs>")
+        val verses = JSONArray()
         h.verses.forEachIndexed { k, v ->
-            append("<p><b>").append(h.verseLabel(k)).append(".</b> ")
-            append(v.joinToString("<br>") { esc(it) })
-            append("</p>")
+            verses.put(JSONObject().put("n", h.verseLabel(k)).put("lines", JSONArray(v)))
         }
-        append("</div>")
+        return JSONObject()
+            .put("no", h.id).put("title", h.title).put("bn", bn)
+            .put("meta", meta).put("credits", JSONArray(h.credits))
+            .put("foot", "${h.book.label} HKBP ${h.id} – ${h.title} · bukuende.com/${h.book.code}/${h.id}/")
+            .put("verses", verses).put("secs", jsecs)
+            .put("abc", Notation.toAbc(h, secs))
     }
 
     fun print(ctx: Context, h: Hymn) {
-        val secs = Notation.build(h, 0)
-        val abc = Notation.toAbc(h, secs)
-        val meta = esc(
-            listOfNotNull(
-                "Do = ${Notation.DO_NAME[h.key] ?: h.key}", h.meter,
-                h.logu?.takeIf { it > 0 }?.let { "Logu $it" },
-            ).joinToString(" · ") + if (h.credits.isEmpty()) "" else " · " + h.credits.joinToString(" · ")
-        )
-        val head = "<h1>${esc(h.book.label)} ${esc(h.id)} – ${esc(h.title)}</h1><p class=sub>$meta</p>"
-        val body = "<section class=part>$head<div class=lbl>Not angka</div>${angkaHtml(secs)}" +
-            "<div class=lbl>Lirik</div>${versesHtml(h)}</section>" +
-            "<section class=part>$head<div class=lbl>Not balok</div><div id=staffp></div>" +
-            "<div class=lbl>Lirik</div>${versesHtml(h)}</section>" +
-            "<p class=sub style=\"margin-top:16px\">Buku Ende HKBP Digital · bukuende.com</p>"
-
+        val d = data(h).toString()
         val w = WebView(ctx)
         keep = w
         w.settings.javaScriptEnabled = true
@@ -320,7 +332,7 @@ object Printer {
         }, "Cetak")
         w.webViewClient = object : WebViewClient() {
             override fun onPageFinished(view: WebView, url: String?) {
-                view.evaluateJavascript("document.getElementById('s').outerHTML=${JSONObject.quote(body)};printMode(${JSONObject.quote(abc)})", null)
+                view.evaluateJavascript("printMode($d)", null)
             }
         }
         w.loadUrl("file:///android_asset/score.html")
