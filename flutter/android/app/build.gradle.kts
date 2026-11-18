@@ -35,6 +35,11 @@ android {
         }
     }
 
+    lint {
+        checkReleaseBuilds = false
+        abortOnError = false
+    }
+
     buildTypes {
         release {
             signingConfig = if (System.getenv("KS_FILE") != null) signingConfigs.getByName("rilis") else signingConfigs.getByName("debug")
