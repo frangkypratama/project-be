@@ -11,3 +11,5 @@ build/work/hdr/
 !icon/*.png
 *.pdf
 *.zip
+
+!android/app/src/main/res/**/*.png
