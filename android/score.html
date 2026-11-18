@@ -57,7 +57,7 @@ var cur=null, last=null, lastW=0;
 function opts(w,per){return {add_classes:true,responsive:"resize",foregroundColor:document.body.dataset.ink||"#000",
   staffwidth:w,paddingtop:4,paddingbottom:4,paddingleft:2,paddingright:6,
   wrap:{minSpacing:1.8,maxSpacing:2.7,preferredMeasuresPerLine:per||4}};}
-function report(){try{Tinggi.set(Math.ceil(document.getElementById("s").getBoundingClientRect().height));}catch(e){}}
+function report(){var h=Math.ceil(document.getElementById("s").getBoundingClientRect().height);try{Tinggi.set(h);}catch(e){try{Tinggi.postMessage(String(h));}catch(e2){}}}
 window.addEventListener("resize",function(){if(last&&Math.abs(window.innerWidth-lastW)>24)render(last[0],last[1],last[2]);});
 /* tampilan di aplikasi: tinggi dilaporkan ke aplikasi, gulir oleh aplikasi */
 function render(abc,ink,hl){
@@ -136,7 +136,7 @@ function printMode(D){
       (verses?'<h2>'+esc(vlabel)+'</h2>'+verses:"")+credit+foot+'</section>';
   try{ABCJS.renderAbc("staffp",D.abc,opts(700,4));}catch(e){}
   drawSlurs();
-  setTimeout(function(){try{Cetak.siap();}catch(e){}},250);
+  setTimeout(function(){try{Cetak.siap();}catch(e){try{Cetak.postMessage("siap");}catch(e2){}}},250);
 }
 </script>
 </body></html>
