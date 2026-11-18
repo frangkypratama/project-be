@@ -153,7 +153,7 @@ object Notation {
 
     private fun assignLyrics(lines: List<Line>, rows: List<String>) {
         val all = noteEls(lines)
-        all.forEach { it.syl = arrayOfNulls(rows.size) }
+        all.forEach { it.syl = arrayOfNulls<Syl>(rows.size) }
         val targets = all.filter { !it.rest && !it.inSlurCont }
         rows.forEachIndexed { ri, r ->
             val syl = syllables(r)

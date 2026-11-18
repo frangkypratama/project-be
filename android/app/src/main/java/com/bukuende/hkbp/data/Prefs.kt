@@ -34,11 +34,11 @@ class Prefs(ctx: Context) {
         addAll(sp.getString("hist", "")!!.split('|').filter { it.isNotEmpty() })
     }
 
-    fun setTheme(v: Int) { theme = v; sp.edit().putInt("theme", v).apply() }
+    fun useTheme(v: Int) { theme = v; sp.edit().putInt("theme", v).apply() }
     fun setDynamic(v: Boolean) { dynamicColor = v; sp.edit().putBoolean("dynamic", v).apply() }
-    fun setTextScale(v: Float) { textScale = v; sp.edit().putFloat("textScale", v).apply() }
-    fun setDefaultView(v: Int) { defaultView = v; sp.edit().putInt("view", v).apply() }
-    fun setKeepScreenOn(v: Boolean) { keepScreenOn = v; sp.edit().putBoolean("screenOn", v).apply() }
+    fun useTextScale(v: Float) { textScale = v; sp.edit().putFloat("textScale", v).apply() }
+    fun useDefaultView(v: Int) { defaultView = v; sp.edit().putInt("view", v).apply() }
+    fun useKeepScreenOn(v: Boolean) { keepScreenOn = v; sp.edit().putBoolean("screenOn", v).apply() }
     fun setPlayAll(v: Boolean) { playAllVerses = v; sp.edit().putBoolean("allVerses", v).apply() }
 
     fun isFavorite(key: String) = key in favorites

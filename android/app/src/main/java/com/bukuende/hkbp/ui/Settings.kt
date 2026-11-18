@@ -86,7 +86,7 @@ fun SettingsScreen(lib: Map<Book, List<Hymn>>, prefs: Prefs) {
                 headlineContent = { Text("Tema") },
                 supportingContent = {
                     Segments(
-                        listOf("Sistem", "Terang", "Gelap"), prefs.theme, { prefs.setTheme(it) },
+                        listOf("Sistem", "Terang", "Gelap"), prefs.theme, { prefs.useTheme(it) },
                         Modifier.fillMaxWidth().padding(top = 8.dp),
                     )
                 },
@@ -107,7 +107,7 @@ fun SettingsScreen(lib: Map<Book, List<Hymn>>, prefs: Prefs) {
                     Column {
                         Slider(
                             value = prefs.textScale,
-                            onValueChange = { prefs.setTextScale((it * 20).roundToInt() / 20f) },
+                            onValueChange = { prefs.useTextScale((it * 20).roundToInt() / 20f) },
                             valueRange = 0.8f..1.8f,
                             steps = 19,
                         )
@@ -120,7 +120,7 @@ fun SettingsScreen(lib: Map<Book, List<Hymn>>, prefs: Prefs) {
                 headlineContent = { Text("Tampilan awal lagu") },
                 supportingContent = {
                     Segments(
-                        listOf("Lirik", "Not angka", "Not balok"), prefs.defaultView, { prefs.setDefaultView(it) },
+                        listOf("Lirik", "Not angka", "Not balok"), prefs.defaultView, { prefs.useDefaultView(it) },
                         Modifier.fillMaxWidth().padding(top = 8.dp),
                     )
                 },
@@ -135,11 +135,11 @@ fun SettingsScreen(lib: Map<Book, List<Hymn>>, prefs: Prefs) {
                 trailingContent = { Switch(checked = prefs.playAllVerses, onCheckedChange = { prefs.setPlayAll(it) }) },
             )
             ListItem(
-                modifier = Modifier.clickable { prefs.setKeepScreenOn(!prefs.keepScreenOn) },
+                modifier = Modifier.clickable { prefs.useKeepScreenOn(!prefs.keepScreenOn) },
                 leadingContent = { Icon(Icons.Filled.LightMode, null) },
                 headlineContent = { Text("Layar tetap menyala") },
                 supportingContent = { Text("Selama halaman lagu terbuka, misalnya saat ibadah") },
-                trailingContent = { Switch(checked = prefs.keepScreenOn, onCheckedChange = { prefs.setKeepScreenOn(it) }) },
+                trailingContent = { Switch(checked = prefs.keepScreenOn, onCheckedChange = { prefs.useKeepScreenOn(it) }) },
             )
 
             Header("Data")
