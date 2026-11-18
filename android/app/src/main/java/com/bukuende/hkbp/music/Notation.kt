@@ -15,6 +15,8 @@ import kotlin.math.roundToInt
 class Syl(val t: String, val cont: Boolean, val mel: Boolean = false)
 
 class El(val raw: Char, var dur: Double, val slurStart: Boolean, val slurEnd: Boolean) {
+    /** jumlah garis atas pada penulisan durasi eksplisit (BN: 1/ = 1 garis, 1// = 2 garis) */
+    var lv = 0
     var hold = false
     var owner: El? = null
     var deg = 0
@@ -29,7 +31,7 @@ class El(val raw: Char, var dur: Double, val slurStart: Boolean, val slurEnd: Bo
     var si = -1
 }
 
-class Beat { val els = mutableListOf<El>(); var breath = false }
+class Beat { val els = mutableListOf<El>(); var breath = false; var exp = false }
 class Bar { val beats = mutableListOf<Beat>(); var end: String? = null }
 class Line { val items = mutableListOf<Bar>() }
 
@@ -50,7 +52,7 @@ object Notation {
         "C" to "C", "G" to "G", "D" to "D", "A" to "A", "E" to "E", "B" to "B", "F" to "F",
         "Bb" to "Bes", "Eb" to "Es", "Ab" to "As", "Db" to "Des", "Gb" to "Ges", "F#" to "Fis",
     )
-    private val TOK = Regex("""^(\()?([#b])?([0-7.])([',]*)(\))?$""")
+    private val TOK = Regex("""^(\()?([#b])?([0-7.])([',]*)(/*)(\))?$""")
     private val WS = Regex("\\s+")
 
     fun keyInfo(key: String?, shift: Int): KeyInfo {
@@ -107,10 +109,15 @@ object Notation {
                 }
                 val parts = tok.split("+")
                 val beat = Beat()
+                val exp = tok.contains('/')
+                beat.exp = exp
                 val unit = 1.0 / parts.size
                 for (p in parts) {
                     val g = TOK.find(p)?.groupValues ?: throw IllegalArgumentException("Tidak dikenali: $p")
-                    val el = El(g[3][0], unit, g[1].isNotEmpty(), g[5].isNotEmpty())
+                    val sl = g[5].length
+                    val du = if (exp && sl > 0) Math.pow(0.5, sl.toDouble()) else unit
+                    val el = El(g[3][0], du, g[1].isNotEmpty(), g[6].isNotEmpty())
+                    el.lv = if (exp) sl else 0
                     if (g[3] == ".") {
                         el.hold = true
                         last?.let { it.dur += unit }

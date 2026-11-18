@@ -80,6 +80,14 @@ fun AngkaView(secs: List<Sec>, curSi: Int, scale: Float, modifier: Modifier = Mo
     }
 }
 
+private fun Modifier.overlines(n: Int, ink: Color): Modifier = if (n <= 0) this else drawBehind {
+    val sw = 1.3.dp.toPx()
+    for (k in 0 until n) {
+        val y = (2 + 4 * k).dp.toPx()
+        drawLine(ink, Offset(3.dp.toPx(), y), Offset(size.width - 3.dp.toPx(), y), sw)
+    }
+}
+
 @Composable
 private fun BarView(
     bar: Bar, rows: Int, curSi: Int, ink: Color, hl: Color,
@@ -87,19 +95,19 @@ private fun BarView(
 ) {
     Row(verticalAlignment = Alignment.Top) {
         bar.beats.forEach { beat ->
-            val n = lineCount(beat)
-            Row(
-                Modifier
-                    .drawBehind {
-                        val sw = 1.3.dp.toPx()
-                        for (k in 0 until n) {
-                            val y = (2 + 4 * k).dp.toPx()
-                            drawLine(ink, Offset(3.dp.toPx(), y), Offset(size.width - 3.dp.toPx(), y), sw)
+            if (beat.exp) {
+                // durasi eksplisit (BN): garis atas per not
+                Row {
+                    beat.els.forEach { e ->
+                        Box(Modifier.overlines(minOf(e.lv, 2), ink).padding(top = 12.dp)) {
+                            ElView(e, rows, !e.hold && e.si == curSi, ink, hl, digit, syl)
                         }
                     }
-                    .padding(top = 12.dp)
-            ) {
-                beat.els.forEach { e -> ElView(e, rows, !e.hold && e.si == curSi, ink, hl, digit, syl) }
+                }
+            } else {
+                Row(Modifier.overlines(lineCount(beat), ink).padding(top = 12.dp)) {
+                    beat.els.forEach { e -> ElView(e, rows, !e.hold && e.si == curSi, ink, hl, digit, syl) }
+                }
             }
             if (beat.breath) Text("’", fontSize = digit, color = ink, modifier = Modifier.padding(top = 10.dp))
         }
@@ -243,9 +251,11 @@ object Printer {
             for (line in sec.lines) for (bar in line.items) {
                 append("<div class=bar>")
                 for (beat in bar.beats) {
-                    val n = lineCount(beat)
+                    val n = if (beat.exp) 0 else lineCount(beat)
                     append("<div class=\"beat").append(if (n == 1) " l1" else if (n >= 2) " l2" else "").append("\">")
                     for (e in beat.els) {
+                        val m = if (beat.exp) minOf(e.lv, 2) else 0
+                        if (m > 0) append("<div class=\"beat").append(if (m == 1) " l1" else " l2").append("\">")
                         append("<div class=\"el").append(if (e.acc != 0 && !e.hold) " sh" else "").append("\">")
                         append("<span class=u>").append(if (e.oct > 0) "•".repeat(e.oct) else "&nbsp;").append("</span>")
                         append("<span class=g>").append(digitText(e)).append("</span>")
@@ -255,6 +265,7 @@ object Printer {
                             append("<span class=s>").append(if (s == null) "&nbsp;" else esc(s.t + if (s.cont) " -" else "")).append("</span>")
                         }
                         append("</div>")
+                        if (m > 0) append("</div>")
                     }
                     append("</div>")
                     if (beat.breath) append("<span>’</span>")
