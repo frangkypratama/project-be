@@ -143,7 +143,6 @@ object Notation {
     private fun syllables(row: String): List<Syl> {
         val out = mutableListOf<Syl>()
         for (w in row.trim().split(WS)) {
-            if (w.isEmpty()) continue
             if (w == "_") { out.add(Syl("", false, true)); continue }
             val s = w.split("-")
             s.forEachIndexed { i, x -> out.add(Syl(x, i < s.size - 1)) }

@@ -77,8 +77,10 @@ object Library {
     private fun strings(a: JSONArray?): List<String> =
         if (a == null) emptyList() else List(a.length()) { a.optString(it) }
 
-    private fun read(ctx: Context, b: Book): List<Hymn> {
-        val txt = ctx.assets.open(b.file).bufferedReader(Charsets.UTF_8).use { it.readText() }
+    private fun read(ctx: Context, b: Book): List<Hymn> =
+        parse(b, ctx.assets.open(b.file).bufferedReader(Charsets.UTF_8).use { it.readText() })
+
+    fun parse(b: Book, txt: String): List<Hymn> {
         val items = JSONObject(txt).getJSONArray("items")
         return List(items.length()) { i ->
             val o = items.getJSONObject(i)
