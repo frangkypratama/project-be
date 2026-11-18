@@ -320,56 +320,52 @@ class _HymnListScreenState extends State<HymnListScreen> with AutomaticKeepAlive
     super.build(context);
     final scheme = Theme.of(context).colorScheme;
     final shown = _shown;
-    return PopScope(
-      canPop: !_searching,
-      onPopInvokedWithResult: (bool didPop, Object? result) {
-        if (!didPop && _searching) _closeSearch();
-      },
-      child: Scaffold(
-        appBar: _buildAppBar(context),
-        floatingActionButton: _searching
-            ? null
-            : FloatingActionButton.extended(
-                onPressed: _showNumberDialog,
-                icon: const Icon(Icons.dialpad),
-                label: const Text('Nomor'),
-              ),
-        body: Column(
-          crossAxisAlignment: CrossAxisAlignment.stretch,
-          children: <Widget>[
-            if (_cats.isNotEmpty) _buildChips(),
-            if (shown.isEmpty)
-              Padding(
-                padding: const EdgeInsets.all(32),
-                child: Text(
-                  'Tidak ada lagu yang cocok dengan “$_query”.',
-                  textAlign: TextAlign.center,
-                  style: TextStyle(color: scheme.onSurfaceVariant),
-                ),
-              ),
-            Expanded(
-              child: ListenableBuilder(
-                listenable: widget.prefs,
-                builder: (BuildContext context, Widget? _) {
-                  return ListView.builder(
-                    controller: _scroll,
-                    padding: const EdgeInsets.only(bottom: 96),
-                    itemCount: shown.length,
-                    itemBuilder: (BuildContext context, int n) {
-                      final (i, h) = shown[n];
-                      return HymnTile(
-                        key: ValueKey<String>(h.key2),
-                        hymn: h,
-                        fav: widget.prefs.isFavorite(h.key2),
-                        onTap: () => _open(i),
-                      );
-                    },
-                  );
-                },
+    // Sengaja tanpa PopScope: Lists.kt tidak punya BackHandler untuk mode cari, dan di dalam
+    // IndexedStack PopScope dari tab yang tersembunyi tetap terdaftar sehingga menahan tombol kembali.
+    return Scaffold(
+      appBar: _buildAppBar(context),
+      floatingActionButton: _searching
+          ? null
+          : FloatingActionButton.extended(
+              onPressed: _showNumberDialog,
+              icon: const Icon(Icons.dialpad),
+              label: const Text('Nomor'),
+            ),
+      body: Column(
+        crossAxisAlignment: CrossAxisAlignment.stretch,
+        children: <Widget>[
+          if (_cats.isNotEmpty) _buildChips(),
+          if (shown.isEmpty)
+            Padding(
+              padding: const EdgeInsets.all(32),
+              child: Text(
+                'Tidak ada lagu yang cocok dengan “$_query”.',
+                textAlign: TextAlign.center,
+                style: TextStyle(color: scheme.onSurfaceVariant),
               ),
             ),
-          ],
-        ),
+          Expanded(
+            child: ListenableBuilder(
+              listenable: widget.prefs,
+              builder: (BuildContext context, Widget? _) {
+                return ListView.builder(
+                  controller: _scroll,
+                  padding: const EdgeInsets.only(bottom: 96),
+                  itemCount: shown.length,
+                  itemBuilder: (BuildContext context, int n) {
+                    final (i, h) = shown[n];
+                    return HymnTile(
+                      key: ValueKey<String>(h.key2),
+                      hymn: h,
+                      fav: widget.prefs.isFavorite(h.key2),
+                      onTap: () => _open(i),
+                    );
+                  },
+                );
+              },
+            ),
+          ),
+        ],
       ),
     );
   }

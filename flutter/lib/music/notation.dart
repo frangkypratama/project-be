@@ -130,7 +130,8 @@ class Notation {
   };
 
   static final RegExp _tok = RegExp(r"^(\()?([#b])?([0-7.])([',]*)(/*)(\))?$");
-  static final RegExp _ws = RegExp(r'\s+');
+  // \s di Java/Kotlin hanya spasi ASCII; \s di Dart juga mencakup spasi Unicode (mis. U+00A0).
+  static final RegExp _ws = RegExp(r'[ \t\n\x0B\f\r]+');
 
   static KeyInfo keyInfo(String? key, int shift) {
     final k = _keys[key] ?? _keys['C']!;

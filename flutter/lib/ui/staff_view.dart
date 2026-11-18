@@ -116,6 +116,7 @@ class _StaffViewState extends State<StaffView> {
   @override
   Widget build(BuildContext context) {
     return SizedBox(
+      width: double.infinity,
       height: _height ?? 180,
       child: IgnorePointer(
         child: WebViewWidget(controller: _c),

@@ -46,7 +46,8 @@ class OrganPlayer extends ChangeNotifier {
   Future<void> play(List<Tone> seq, {required int bpm, required int transpose}) async {
     if (_disposed) return;
     await stop();
-    if (_disposed) return;
+    // Sama dengan OrganPlayer.kt: urutan kosong tidak diputar.
+    if (_disposed || seq.isEmpty) return;
     final int g = ++_gen;
     _preparing = true;
     _notify();

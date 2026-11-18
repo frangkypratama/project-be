@@ -5,6 +5,9 @@ import 'package:hkbp/data/models.dart';
 import 'package:hkbp/data/prefs.dart';
 import 'package:hkbp/ui/detail.dart';
 
+/// Versi aplikasi (samakan dengan `version:` di pubspec.yaml; tanpa paket package_info).
+const String _kVersion = '3.0.0';
+
 /// Layar Pengaturan — port Settings.kt.
 class SettingsScreen extends StatelessWidget {
   final Map<Book, List<Hymn>> lib;
@@ -110,7 +113,7 @@ class SettingsScreen extends StatelessWidget {
               const _Header('Tentang'),
               ListTile(
                 leading: const Icon(Icons.info),
-                title: const Text('Buku Ende HKBP Digital (Flutter)'),
+                title: const Text('Buku Ende HKBP Digital $_kVersion'),
                 subtitle: Text(
                   '$beCount lagu Buku Ende dan $bnCount lagu Buku Nyanyian, '
                   'lengkap dengan lirik semua ayat, not angka, not balok, dan nada. '

@@ -641,6 +641,7 @@ class _DetailScreenState extends State<DetailScreen> {
           const SizedBox(height: 4),
           if (_view == 1 || _view == 3)
             ScoreCard(
+              key: const ValueKey<String>('angka'),
               'Not angka',
               AngkaView(
                 secs: secs,
@@ -651,6 +652,7 @@ class _DetailScreenState extends State<DetailScreen> {
             ),
           if (_view == 2 || _view == 3)
             ScoreCard(
+              key: const ValueKey<String>('balok'),
               'Not balok',
               StaffView(abc: _abcFor(h, verse, secs), curSi: curSi),
             ),

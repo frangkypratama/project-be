@@ -7,6 +7,10 @@ on:
       - "flutter/**"
       - "android/score.html"
       - "android/prepare_assets.py"
+      - "android/abcjs-basic-min.js"
+      - "android/app/src/test/resources/abc_expected.txt"
+      - "site/data/**"
+      - "bn/site/data/**"
       - ".github/workflows/flutter.yml"
 
 jobs:
@@ -38,6 +42,10 @@ jobs:
           flutter --version
           flutter create --platforms=android --org com.bukuende --project-name hkbp --no-pub . 
           rm -f test/widget_test.dart
+          # ikon adaptif merujuk mipmap/ic_launcher_foreground: harus ikut di-commit (flutter create tidak membuatnya)
+          test -f android/app/src/main/res/mipmap-mdpi/ic_launcher_foreground.png \
+            || { echo "::error::ic_launcher_foreground.png tidak ada di repo (git add flutter/android/app/src/main/res)"; exit 1; }
+          grep -E "com.android.application|org.jetbrains.kotlin.android" android/settings.gradle.kts || true
           ls android android/app/src/main/kotlin/com/bukuende/hkbp
 
       - name: Pub get

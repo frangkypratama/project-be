@@ -21,3 +21,11 @@ android/app/src/main/java/
 *.iml
 .idea/
 .metadata
+android/.kotlin/
+android/app/.cxx/
+android/.gitignore
+README.md
+test/widget_test.dart
+# .gitignore akar repo mengabaikan *.png; ikon peluncur WAJIB ikut di-commit
+# (ic_launcher_foreground dirujuk mipmap-anydpi-v26 dan tidak dibuat oleh `flutter create`).
+!android/app/src/main/res/**/*.png

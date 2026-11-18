@@ -1,4 +1,5 @@
 import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 import 'package:hkbp/data/models.dart';
 import 'package:hkbp/data/prefs.dart';
@@ -37,6 +38,23 @@ class BukuEndeApp extends StatelessWidget {
           theme: light,
           darkTheme: dark,
           themeMode: _modeOf(prefs.theme),
+          // Setara SideEffect di Theme.kt: ikon bilah status & navigasi mengikuti tema.
+          builder: (BuildContext context, Widget? app) {
+            final bool dark = Theme.of(context).brightness == Brightness.dark;
+            final Brightness icons = dark ? Brightness.light : Brightness.dark;
+            return AnnotatedRegion<SystemUiOverlayStyle>(
+              value: SystemUiOverlayStyle(
+                statusBarColor: Colors.transparent,
+                statusBarIconBrightness: icons,
+                statusBarBrightness: dark ? Brightness.dark : Brightness.light,
+                systemNavigationBarColor: Colors.transparent,
+                systemNavigationBarDividerColor: Colors.transparent,
+                systemNavigationBarIconBrightness: icons,
+                systemNavigationBarContrastEnforced: false,
+              ),
+              child: app ?? const SizedBox.shrink(),
+            );
+          },
           home: child,
         );
       },

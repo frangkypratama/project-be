@@ -1,6 +1,7 @@
 plugins {
     id("com.android.application")
-    id("kotlin-android")
+    // Seperti templat Flutter terkini (AGP 9): plugin Kotlin dipasang otomatis oleh plugin Flutter;
+    // menuliskannya di sini hanya memicu peringatan "will cause build failures in future versions".
     id("dev.flutter.flutter-gradle-plugin")
 }
 
@@ -12,9 +13,6 @@ android {
     compileOptions {
         sourceCompatibility = JavaVersion.VERSION_17
         targetCompatibility = JavaVersion.VERSION_17
-    }
-    kotlinOptions {
-        jvmTarget = JavaVersion.VERSION_17.toString()
     }
 
     defaultConfig {
@@ -42,6 +40,12 @@ android {
             signingConfig = if (System.getenv("KS_FILE") != null) signingConfigs.getByName("rilis") else signingConfigs.getByName("debug")
             proguardFiles(getDefaultProguardFile("proguard-android-optimize.txt"), "proguard-rules.pro")
         }
+    }
+}
+
+kotlin {
+    compilerOptions {
+        jvmTarget.set(org.jetbrains.kotlin.gradle.dsl.JvmTarget.JVM_17)
     }
 }
 
