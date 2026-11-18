@@ -269,6 +269,8 @@ class _DetailScreenState extends State<DetailScreen> {
                 void update(VoidCallback fn) {
                   setState(fn);
                   setSheet(() {});
+                  // langsung terdengar saat lagu sedang diputar
+                  unawaited(_player.adjust(bpm: _bpm, transpose: _transpose));
                 }
 
                 return SafeArea(
@@ -360,15 +362,6 @@ class _DetailScreenState extends State<DetailScreen> {
                             ),
                           ],
                         ),
-                        if (_active) ...<Widget>[
-                          const SizedBox(height: 8),
-                          Text(
-                            'Berlaku saat diputar ulang',
-                            style: t.textTheme.bodySmall?.copyWith(
-                              color: t.colorScheme.onSurfaceVariant,
-                            ),
-                          ),
-                        ],
                         const SizedBox(height: 8),
                         TextButton(
                           onPressed: () => update(() {

@@ -1,5 +1,6 @@
 import 'dart:async';
 import 'dart:io';
+import 'dart:math' as math;
 
 import 'package:flutter/foundation.dart';
 import 'package:just_audio/just_audio.dart';
@@ -33,6 +34,11 @@ class OrganPlayer extends ChangeNotifier {
   int _gen = 0;
   OrganRender? _render;
   File? _file;
+
+  /// Tempo dan nada saat WAV disintesis; perubahan sesudahnya diterapkan langsung
+  /// lewat kecepatan putar (tinggi nada tetap) dan penggeser nada.
+  int _baseBpm = 84;
+  int _baseTranspose = 0;
 
   bool get playing => _playing;
   bool get preparing => _preparing;
@@ -68,6 +74,13 @@ class OrganPlayer extends ChangeNotifier {
 
       await _player.setFilePath(f.path);
       if (g != _gen || _disposed) return;
+      _baseBpm = bpm;
+      _baseTranspose = transpose;
+      try {
+        await _player.setSpeed(1.0);
+        await _player.setPitch(1.0);
+      } catch (_) {}
+      if (g != _gen || _disposed) return;
 
       _render = r;
       _curSi = -1;
@@ -82,6 +95,19 @@ class OrganPlayer extends ChangeNotifier {
     } catch (_) {
       if (g == _gen) _finish();
     }
+  }
+
+  /// Terapkan tempo dan transposisi baru ke lagu yang sedang berbunyi, tanpa berhenti.
+  Future<void> adjust({required int bpm, required int transpose}) async {
+    if (_disposed || !_playing) return;
+    final double speed = bpm / (_baseBpm <= 0 ? 84 : _baseBpm);
+    final double pitch = math.pow(2.0, (transpose - _baseTranspose) / 12.0).toDouble();
+    try {
+      await _player.setSpeed(speed);
+    } catch (_) {}
+    try {
+      await _player.setPitch(pitch);
+    } catch (_) {}
   }
 
   Future<void> stop() async {
