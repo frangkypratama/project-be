@@ -76,11 +76,10 @@ class OrganPlayer extends ChangeNotifier {
       if (g != _gen || _disposed) return;
       _baseBpm = bpm;
       _baseTranspose = transpose;
-      try {
-        await _player.setSpeed(1.0);
-        await _player.setPitch(1.0);
-      } catch (_) {}
-      if (g != _gen || _disposed) return;
+      // Kembalikan kecepatan/nada hanya bila pernah diubah, tanpa menunggu:
+      // pemutaran tidak boleh tertahan oleh langkah ini.
+      _applySpeed(1.0);
+      _applyPitch(1.0);
 
       _render = r;
       _curSi = -1;
@@ -89,12 +88,38 @@ class OrganPlayer extends ChangeNotifier {
       _preparing = false;
       _notify();
       // play() baru selesai saat pemutaran berhenti; jangan ditunggu.
-      unawaited(_player.play().catchError((Object _) {
-        if (g == _gen) _finish();
+      unawaited(_player.play().catchError((Object e) {
+        if (g == _gen) _fail(e);
       }));
-    } catch (_) {
-      if (g == _gen) _finish();
+    } catch (e) {
+      if (g == _gen) _fail(e);
     }
+  }
+
+  double _speed = 1.0;
+  double _pitch = 1.0;
+  String? _error;
+
+  /// Pesan galat terakhir (untuk ditampilkan), null bila tidak ada.
+  String? get error => _error;
+  void clearError() => _error = null;
+
+  void _fail(Object e) {
+    _error = e.toString();
+    _finish();
+    _notify();
+  }
+
+  void _applySpeed(double v) {
+    if ((v - _speed).abs() < 1e-6) return;
+    _speed = v;
+    _player.setSpeed(v).timeout(const Duration(seconds: 3)).catchError((Object _) {});
+  }
+
+  void _applyPitch(double v) {
+    if ((v - _pitch).abs() < 1e-6) return;
+    _pitch = v;
+    _player.setPitch(v).timeout(const Duration(seconds: 3)).catchError((Object _) {});
   }
 
   /// Terapkan tempo dan transposisi baru ke lagu yang sedang berbunyi, tanpa berhenti.
@@ -102,12 +127,8 @@ class OrganPlayer extends ChangeNotifier {
     if (_disposed || !_playing) return;
     final double speed = bpm / (_baseBpm <= 0 ? 84 : _baseBpm);
     final double pitch = math.pow(2.0, (transpose - _baseTranspose) / 12.0).toDouble();
-    try {
-      await _player.setSpeed(speed);
-    } catch (_) {}
-    try {
-      await _player.setPitch(pitch);
-    } catch (_) {}
+    _applySpeed(speed);
+    _applyPitch(pitch);
   }
 
   Future<void> stop() async {

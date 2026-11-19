@@ -105,6 +105,13 @@ class _DetailScreenState extends State<DetailScreen> {
 
   void _onPlayer() {
     if (!mounted) return;
+    final String? err = _player.error;
+    if (err != null) {
+      _player.clearError();
+      ScaffoldMessenger.of(context).showSnackBar(
+        SnackBar(content: Text('Nada gagal diputar: $err')),
+      );
+    }
     final int v = _player.curVerse;
     if (v >= 0 && v != _verse) {
       setState(() => _verse = v);
