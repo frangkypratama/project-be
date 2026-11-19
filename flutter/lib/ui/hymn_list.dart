@@ -138,14 +138,23 @@ class HymnListScreen extends StatefulWidget {
     required this.book,
     required this.hymns,
     required this.prefs,
+    this.back,
   });
 
   final Book book;
   final List<Hymn> hymns;
   final Prefs prefs;
 
+  /// Kait tombol back dari Shell: mengembalikan true bila back sudah ditangani di sini.
+  final BackHook? back;
+
   @override
   State<HymnListScreen> createState() => _HymnListScreenState();
+}
+
+/// Penghubung tombol back antara Shell dan layar di dalam tab.
+class BackHook {
+  bool Function()? handle;
 }
 
 class _HymnListScreenState extends State<HymnListScreen> with AutomaticKeepAliveClientMixin<HymnListScreen> {
@@ -164,6 +173,11 @@ class _HymnListScreenState extends State<HymnListScreen> with AutomaticKeepAlive
   @override
   void initState() {
     super.initState();
+    widget.back?.handle = () {
+      if (!_searching) return false;
+      _closeSearch();
+      return true;
+    };
     _cats = _categoriesOf(widget.hymns);
     _shown = searchHymns(widget.hymns, _query, _cat);
   }

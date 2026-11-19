@@ -1,5 +1,8 @@
 package com.bukuende.hkbp.ui
 
+import android.app.Activity
+import android.os.SystemClock
+import android.widget.Toast
 import androidx.activity.compose.BackHandler
 import androidx.compose.foundation.layout.Box
 import androidx.compose.foundation.layout.WindowInsets
@@ -25,6 +28,8 @@ import androidx.compose.runtime.Composable
 import androidx.compose.runtime.LaunchedEffect
 import androidx.compose.runtime.getValue
 import androidx.compose.runtime.mutableIntStateOf
+import androidx.compose.runtime.mutableLongStateOf
+import androidx.compose.runtime.mutableStateListOf
 import androidx.compose.runtime.mutableStateOf
 import androidx.compose.runtime.remember
 import androidx.compose.runtime.saveable.rememberSaveable
@@ -81,11 +86,41 @@ private fun Main(lib: Map<Book, List<Hymn>>, prefs: Prefs) {
     }
     val open: (Book, Int) -> Unit = { b, i -> opened = Opened(b, i) }
 
+    // Riwayat tab: back kembali ke tab yang dibuka sebelumnya.
+    val history = remember { mutableStateListOf<Int>() }
+    var lastBack by remember { mutableLongStateOf(0L) }
+    val ctx = LocalContext.current
+    val select: (Int) -> Unit = { i ->
+        if (i != tab) {
+            history.remove(i)
+            history.remove(tab)
+            history.add(tab)
+            tab = i
+        }
+    }
+
     val o = opened
     if (o != null) {
         BackHandler { opened = null }
         DetailScreen(lib.getValue(o.book), o.index, prefs, onBack = { opened = null })
         return
+    }
+
+    // Urutan back: (pencarian ditutup oleh layar daftar) -> tab sebelumnya -> Buku Ende -> tekan 2x untuk keluar
+    BackHandler {
+        when {
+            history.isNotEmpty() -> tab = history.removeAt(history.lastIndex)
+            tab != 0 -> tab = 0
+            else -> {
+                val now = SystemClock.uptimeMillis()
+                if (now - lastBack < 2000) {
+                    (ctx as? Activity)?.finish()
+                } else {
+                    lastBack = now
+                    Toast.makeText(ctx, "Tekan kembali sekali lagi untuk keluar", Toast.LENGTH_SHORT).show()
+                }
+            }
+        }
     }
 
     Scaffold(
@@ -95,7 +130,7 @@ private fun Main(lib: Map<Book, List<Hymn>>, prefs: Prefs) {
                 DESTS.forEachIndexed { i, d ->
                     NavigationBarItem(
                         selected = tab == i,
-                        onClick = { tab = i },
+                        onClick = { select(i) },
                         icon = { Icon(if (tab == i) d.on else d.off, contentDescription = null) },
                         label = { Text(d.label, style = MaterialTheme.typography.labelSmall) },
                     )

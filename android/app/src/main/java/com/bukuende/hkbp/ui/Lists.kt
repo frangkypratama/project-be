@@ -1,5 +1,6 @@
 package com.bukuende.hkbp.ui
 
+import androidx.activity.compose.BackHandler
 import androidx.compose.foundation.background
 import androidx.compose.foundation.clickable
 import androidx.compose.foundation.layout.Arrangement
@@ -146,6 +147,8 @@ fun HymnListScreen(book: Book, hymns: List<Hymn>, prefs: Prefs, onOpen: (Int) ->
     val scroll = TopAppBarDefaults.pinnedScrollBehavior()
 
     LaunchedEffect(searching) { if (searching) focus.requestFocus() }
+    // back saat mencari: tutup pencarian dulu, jangan pindah tab/keluar
+    BackHandler(enabled = searching) { searching = false; query = "" }
     var lastFilter by rememberSaveable { mutableStateOf("$query|$cat") }
     LaunchedEffect(query, cat) {
         val f = "$query|$cat"

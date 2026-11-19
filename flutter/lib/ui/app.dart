@@ -93,6 +93,47 @@ class _ShellState extends State<Shell> {
   late final Future<Map<Book, List<Hymn>>> _lib;
   int _tab = 0;
 
+  /// Tab yang dibuka sebelumnya (terakhir di ujung); back kembali ke tab-tab ini.
+  final List<int> _history = <int>[];
+  final List<BackHook> _hooks = List<BackHook>.generate(4, (_) => BackHook());
+  DateTime? _lastBack;
+
+  void _select(int i) {
+    if (i == _tab) return;
+    setState(() {
+      _history.remove(i);
+      _history.remove(_tab);
+      _history.add(_tab);
+      _tab = i;
+    });
+  }
+
+  /// Urutan: tutup pencarian di tab aktif -> tab sebelumnya -> tekan dua kali untuk keluar.
+  void _onBack() {
+    if (_hooks[_tab].handle?.call() ?? false) return;
+    if (_history.isNotEmpty) {
+      setState(() => _tab = _history.removeLast());
+      return;
+    }
+    if (_tab != 0) {
+      setState(() => _tab = 0);
+      return;
+    }
+    final DateTime now = DateTime.now();
+    final DateTime? last = _lastBack;
+    if (last != null && now.difference(last) < const Duration(seconds: 2)) {
+      SystemNavigator.pop();
+      return;
+    }
+    _lastBack = now;
+    final ScaffoldMessengerState m = ScaffoldMessenger.of(context);
+    m.hideCurrentSnackBar();
+    m.showSnackBar(const SnackBar(
+      content: Text('Tekan kembali sekali lagi untuk keluar'),
+      duration: Duration(seconds: 2),
+    ));
+  }
+
   @override
   void initState() {
     super.initState();
@@ -130,7 +171,12 @@ class _ShellState extends State<Shell> {
 
   Widget _main(Map<Book, List<Hymn>> lib) {
     final Prefs prefs = widget.prefs;
-    return Scaffold(
+    return PopScope(
+      canPop: false,
+      onPopInvokedWithResult: (bool didPop, Object? _) {
+        if (!didPop) _onBack();
+      },
+      child: Scaffold(
       body: IndexedStack(
         index: _tab,
         children: <Widget>[
@@ -138,11 +184,13 @@ class _ShellState extends State<Shell> {
             book: Book.be,
             hymns: lib[Book.be] ?? const <Hymn>[],
             prefs: prefs,
+            back: _hooks[0],
           ),
           HymnListScreen(
             book: Book.bn,
             hymns: lib[Book.bn] ?? const <Hymn>[],
             prefs: prefs,
+            back: _hooks[1],
           ),
           SavedScreen(lib: lib, prefs: prefs),
           SettingsScreen(lib: lib, prefs: prefs),
@@ -151,7 +199,7 @@ class _ShellState extends State<Shell> {
       bottomNavigationBar: NavigationBar(
         selectedIndex: _tab,
         labelBehavior: NavigationDestinationLabelBehavior.alwaysShow,
-        onDestinationSelected: (int i) => setState(() => _tab = i),
+        onDestinationSelected: _select,
         destinations: <Widget>[
           for (final _Dest d in _dests)
             NavigationDestination(
@@ -160,6 +208,7 @@ class _ShellState extends State<Shell> {
               label: d.label,
             ),
         ],
+      ),
       ),
     );
   }
