@@ -4,7 +4,7 @@ import 'dart:math' as math;
 
 import 'package:flutter/foundation.dart';
 import 'package:just_audio/just_audio.dart';
-import 'package:path_provider/path_provider.dart';
+import 'package:flutter/services.dart';
 
 import 'notation.dart';
 import 'organ.dart';
@@ -61,7 +61,9 @@ class OrganPlayer extends ChangeNotifier {
       final OrganRender r = await renderOrgan(seq, bpm: bpm, transpose: transpose);
       if (g != _gen || _disposed) return;
 
-      final Directory dir = await getTemporaryDirectory();
+      final String? cache =
+          await const MethodChannel('bukuende/print').invokeMethod<String>('cacheDir');
+      final Directory dir = cache != null ? Directory(cache) : Directory.systemTemp;
       final File f = File('${dir.path}/organ_$g.wav');
       await f.writeAsBytes(r.wav, flush: true);
       if (g != _gen || _disposed) {

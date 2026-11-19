@@ -28,6 +28,9 @@ class MainActivity : FlutterActivity() {
                         cetak(data, name)
                         result.success(null)
                     }
+                } else if (call.method == "cacheDir") {
+                    // folder sementara milik aplikasi (pengganti path_provider)
+                    result.success(cacheDir.absolutePath)
                 } else {
                     result.notImplemented()
                 }
