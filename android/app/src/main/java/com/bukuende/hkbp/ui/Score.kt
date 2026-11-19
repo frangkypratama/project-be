@@ -184,16 +184,17 @@ private class StaffState {
     var abc = ""
     var ink = ""
     var hl = ""
+    var scale = 1f
     var shown = ""
     var marked = -2
 
     fun push(w: WebView) {
         if (!ready) return
-        val k = "$abc|$ink|$hl"
+        val k = "$abc|$ink|$hl|$scale"
         if (k == shown) return
         shown = k
         marked = -2
-        w.evaluateJavascript("render(${JSONObject.quote(abc)},${JSONObject.quote(ink)},${JSONObject.quote(hl)})", null)
+        w.evaluateJavascript("render(${JSONObject.quote(abc)},${JSONObject.quote(ink)},${JSONObject.quote(hl)},$scale)", null)
     }
 
     fun mark(w: WebView, si: Int) {
@@ -207,7 +208,7 @@ fun hex(c: Color): String = String.format("#%06X", 0xFFFFFF and c.toArgb())
 
 @SuppressLint("SetJavaScriptEnabled")
 @Composable
-fun StaffView(abc: String, curSi: Int, modifier: Modifier = Modifier) {
+fun StaffView(abc: String, curSi: Int, scale: Float, modifier: Modifier = Modifier) {
     val ink = hex(MaterialTheme.colorScheme.onSurface)
     val hl = hex(MaterialTheme.colorScheme.primary)
     val st = remember { StaffState() }
@@ -246,6 +247,7 @@ fun StaffView(abc: String, curSi: Int, modifier: Modifier = Modifier) {
         },
         update = { w ->
             st.abc = abc
+            st.scale = scale
             st.ink = ink
             st.hl = hl
             st.push(w)

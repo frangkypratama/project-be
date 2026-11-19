@@ -88,6 +88,7 @@ import com.bukuende.hkbp.data.Prefs
 import com.bukuende.hkbp.music.Notation
 import com.bukuende.hkbp.music.OrganPlayer
 import kotlinx.coroutines.launch
+import kotlin.math.roundToInt
 
 val VIEWS = listOf("Lirik", "Angka", "Balok", "Keduanya")
 
@@ -107,7 +108,8 @@ fun DetailScreen(hymns: List<Hymn>, start: Int, prefs: Prefs, onBack: () -> Unit
     var playing by remember { mutableStateOf(false) }
     var curSi by remember { mutableIntStateOf(-1) }
     var verse by remember { mutableIntStateOf(0) }
-    var view by rememberSaveable { mutableIntStateOf(prefs.defaultView) }
+    // tampilan lagu = pengaturan aplikasi: diingat dan tidak berubah saat pindah lagu
+    val view = prefs.defaultView
     var bpm by remember { mutableIntStateOf(84) }
     var transpose by remember { mutableIntStateOf(0) }
     var menu by remember { mutableStateOf(false) }
@@ -225,7 +227,7 @@ fun DetailScreen(hymns: List<Hymn>, start: Int, prefs: Prefs, onBack: () -> Unit
         },
     ) { pad ->
         Column(Modifier.padding(pad).fillMaxSize()) {
-            Segments(VIEWS, view, { view = it }, Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 6.dp))
+            Segments(VIEWS, view, { prefs.useDefaultView(it) }, Modifier.fillMaxWidth().padding(horizontal = 16.dp, vertical = 6.dp))
             // geser ke lagu lain hanya di tampilan Lirik; di not angka/balok pakai tombol ‹ › agar tidak tergeser
             HorizontalPager(
                 state = pager,
@@ -248,9 +250,38 @@ fun DetailScreen(hymns: List<Hymn>, start: Int, prefs: Prefs, onBack: () -> Unit
 
     if (sheet) {
         ModalBottomSheet(onDismissRequest = { sheet = false }) {
-            Column(Modifier.padding(horizontal = 24.dp).padding(bottom = 32.dp)) {
-                Text("Pengaturan nada", style = MaterialTheme.typography.titleMedium)
+            Column(Modifier.verticalScroll(rememberScrollState()).padding(horizontal = 24.dp).padding(bottom = 32.dp)) {
+                Text("Pengaturan lagu", style = MaterialTheme.typography.titleMedium)
+                Text(
+                    "Ukuran huruf, tema, dan tampilan berlaku untuk semua lagu. Tempo dan nada kembali ke bawaan tiap lagu.",
+                    style = MaterialTheme.typography.bodySmall,
+                    color = MaterialTheme.colorScheme.onSurfaceVariant,
+                )
                 Spacer(Modifier.height(16.dp))
+                Text("TAMPILAN", style = MaterialTheme.typography.labelMedium, color = MaterialTheme.colorScheme.primary)
+                Spacer(Modifier.height(8.dp))
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Text("Ukuran huruf: ${(prefs.textScale * 100).roundToInt()}%", style = MaterialTheme.typography.bodyLarge, modifier = Modifier.weight(1f))
+                    FilledTonalIconButton(onClick = { prefs.useTextScale(((prefs.textScale - 0.1f) * 20).roundToInt().coerceIn(16, 36) / 20f) }) {
+                        Text("A−", fontWeight = FontWeight.Bold, fontSize = 13.sp)
+                    }
+                    Spacer(Modifier.width(8.dp))
+                    FilledTonalIconButton(onClick = { prefs.useTextScale(((prefs.textScale + 0.1f) * 20).roundToInt().coerceIn(16, 36) / 20f) }) {
+                        Text("A+", fontWeight = FontWeight.Bold, fontSize = 17.sp)
+                    }
+                }
+                Slider(
+                    value = prefs.textScale,
+                    onValueChange = { prefs.useTextScale((it * 20).roundToInt() / 20f) },
+                    valueRange = 0.8f..1.8f,
+                    steps = 19,
+                )
+                Text("Tema", style = MaterialTheme.typography.bodyLarge)
+                Spacer(Modifier.height(6.dp))
+                Segments(listOf("Sistem", "Terang", "Gelap"), prefs.theme, { prefs.useTheme(it) }, Modifier.fillMaxWidth())
+                Spacer(Modifier.height(20.dp))
+                Text("NADA", style = MaterialTheme.typography.labelMedium, color = MaterialTheme.colorScheme.primary)
+                Spacer(Modifier.height(8.dp))
                 Text("Tempo: ♩ = $bpm", style = MaterialTheme.typography.bodyLarge)
                 Slider(
                     value = bpm.toFloat(),
@@ -498,7 +529,7 @@ private fun HymnPage(h: Hymn, view: Int, verse: Int, curSi: Int, scale: Float, o
             if (view == 2 || view == 3) {
                 val abc = remember(secs) { Notation.toAbc(h, secs) }
                 ScoreCard("Not balok") {
-                    StaffView(abc, curSi, Modifier.fillMaxWidth())
+                    StaffView(abc, curSi, scale, Modifier.fillMaxWidth())
                 }
             }
             Credits(h)

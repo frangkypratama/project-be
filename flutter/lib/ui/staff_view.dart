@@ -12,7 +12,10 @@ class StaffView extends StatefulWidget {
   final String abc;
   final int curSi;
 
-  const StaffView({super.key, required this.abc, required this.curSi});
+  const StaffView({super.key, required this.abc, required this.curSi, this.scale = 1.0});
+
+  /// Ukuran huruf aplikasi (0.8..1.8); not balok ikut membesar/mengecil.
+  final double scale;
 
   @override
   State<StaffView> createState() => _StaffViewState();
@@ -98,11 +101,11 @@ class _StaffViewState extends State<StaffView> {
 
   void _push() {
     if (!_ready) return;
-    final String k = '${widget.abc}|$_ink|$_hl';
+    final String k = '${widget.abc}|$_ink|$_hl|${widget.scale}';
     if (k == _shown) return;
     _shown = k;
     _marked = -2;
-    _js('render(${jsonEncode(widget.abc)},${jsonEncode(_ink)},${jsonEncode(_hl)})');
+    _js('render(${jsonEncode(widget.abc)},${jsonEncode(_ink)},${jsonEncode(_hl)},${widget.scale})');
   }
 
   void _mark() {

@@ -75,7 +75,7 @@ class SettingsScreen extends StatelessWidget {
               ),
               ListTile(
                 leading: const Icon(Icons.visibility),
-                title: const Text('Tampilan awal lagu'),
+                title: const Text('Tampilan lagu (berlaku untuk semua lagu)'),
                 subtitle: Padding(
                   padding: const EdgeInsets.only(top: 8),
                   child: _Segments(

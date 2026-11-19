@@ -287,8 +287,63 @@ class _DetailScreenState extends State<DetailScreen> {
                       mainAxisSize: MainAxisSize.min,
                       crossAxisAlignment: CrossAxisAlignment.start,
                       children: <Widget>[
-                        Text('Pengaturan nada', style: t.textTheme.titleMedium),
+                        Text('Pengaturan lagu', style: t.textTheme.titleMedium),
+                        Text(
+                          'Ukuran huruf, tema, dan tampilan berlaku untuk semua lagu. Tempo dan nada kembali ke bawaan tiap lagu.',
+                          style: t.textTheme.bodySmall?.copyWith(color: t.colorScheme.onSurfaceVariant),
+                        ),
                         const SizedBox(height: 16),
+                        Text('TAMPILAN', style: t.textTheme.labelMedium?.copyWith(color: t.colorScheme.primary)),
+                        const SizedBox(height: 8),
+                        Row(
+                          children: <Widget>[
+                            Expanded(
+                              child: Text('Ukuran huruf: ${(prefs.textScale * 100).round()}%',
+                                  style: t.textTheme.bodyLarge),
+                            ),
+                            IconButton.filledTonal(
+                              tooltip: 'Perkecil huruf',
+                              onPressed: () => prefs.setTextScale(
+                                  (((prefs.textScale - 0.1) * 20).round().clamp(16, 36)) / 20.0),
+                              icon: const Text('A−', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 13)),
+                            ),
+                            const SizedBox(width: 8),
+                            IconButton.filledTonal(
+                              tooltip: 'Perbesar huruf',
+                              onPressed: () => prefs.setTextScale(
+                                  (((prefs.textScale + 0.1) * 20).round().clamp(16, 36)) / 20.0),
+                              icon: const Text('A+', style: TextStyle(fontWeight: FontWeight.bold, fontSize: 17)),
+                            ),
+                          ],
+                        ),
+                        Slider(
+                          value: prefs.textScale.clamp(0.8, 1.8).toDouble(),
+                          min: 0.8,
+                          max: 1.8,
+                          divisions: 20,
+                          label: '${(prefs.textScale * 100).round()}%',
+                          onChanged: (double v) => prefs.setTextScale((v * 20).round() / 20.0),
+                        ),
+                        Text('Tema', style: t.textTheme.bodyLarge),
+                        const SizedBox(height: 6),
+                        SizedBox(
+                          width: double.infinity,
+                          child: SegmentedButton<int>(
+                            showSelectedIcon: false,
+                            segments: const <ButtonSegment<int>>[
+                              ButtonSegment<int>(value: 0, label: Text('Sistem')),
+                              ButtonSegment<int>(value: 1, label: Text('Terang')),
+                              ButtonSegment<int>(value: 2, label: Text('Gelap')),
+                            ],
+                            selected: <int>{prefs.theme},
+                            onSelectionChanged: (Set<int> v) {
+                              if (v.isNotEmpty) prefs.setTheme(v.first);
+                            },
+                          ),
+                        ),
+                        const SizedBox(height: 20),
+                        Text('NADA', style: t.textTheme.labelMedium?.copyWith(color: t.colorScheme.primary)),
+                        const SizedBox(height: 8),
                         Text('Tempo: ♩ = $_bpm', style: t.textTheme.bodyLarge),
                         Slider(
                           value: _bpm.toDouble(),
@@ -494,7 +549,11 @@ class _DetailScreenState extends State<DetailScreen> {
                 ],
                 selected: <int>{_view},
                 onSelectionChanged: (Set<int> s) {
-                  if (s.isNotEmpty) setState(() => _view = s.first);
+                  // tampilan lagu = pengaturan aplikasi: diingat, tetap saat pindah lagu
+                  if (s.isNotEmpty) {
+                    setState(() => _view = s.first);
+                    prefs.setDefaultView(s.first);
+                  }
                 },
               ),
             ),
@@ -654,7 +713,7 @@ class _DetailScreenState extends State<DetailScreen> {
             ScoreCard(
               key: const ValueKey<String>('balok'),
               'Not balok',
-              StaffView(abc: _abcFor(h, verse, secs), curSi: curSi),
+              StaffView(abc: _abcFor(h, verse, secs), curSi: curSi, scale: prefs.textScale),
             ),
           _Credits(h),
         ],

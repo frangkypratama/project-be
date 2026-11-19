@@ -117,7 +117,7 @@ fun SettingsScreen(lib: Map<Book, List<Hymn>>, prefs: Prefs) {
             )
             ListItem(
                 leadingContent = { Icon(Icons.Filled.Visibility, null) },
-                headlineContent = { Text("Tampilan awal lagu") },
+                headlineContent = { Text("Tampilan lagu (berlaku untuk semua lagu)") },
                 supportingContent = {
                     Segments(
                         VIEWS, prefs.defaultView, { prefs.useDefaultView(it) },

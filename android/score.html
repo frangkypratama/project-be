@@ -58,13 +58,14 @@ function opts(w,per){return {add_classes:true,responsive:"resize",foregroundColo
   staffwidth:w,paddingtop:4,paddingbottom:4,paddingleft:2,paddingright:6,
   wrap:{minSpacing:1.8,maxSpacing:2.7,preferredMeasuresPerLine:per||4}};}
 function report(){var h=Math.ceil(document.getElementById("s").getBoundingClientRect().height);try{Tinggi.set(h);}catch(e){try{Tinggi.postMessage(String(h));}catch(e2){}}}
-window.addEventListener("resize",function(){if(last&&Math.abs(window.innerWidth-lastW)>24)render(last[0],last[1],last[2]);});
+window.addEventListener("resize",function(){if(last&&Math.abs(window.innerWidth-lastW)>24)render(last[0],last[1],last[2],last[3]);});
 /* tampilan di aplikasi: tinggi dilaporkan ke aplikasi, gulir oleh aplikasi */
-function render(abc,ink,hl){
-  last=[abc,ink,hl]; lastW=window.innerWidth;
+/* scale = ukuran huruf aplikasi (0.8..1.8): lebar tulis lebih kecil, lalu diperbesar pas lebar layar */
+function render(abc,ink,hl,scale){
+  scale=scale||1; last=[abc,ink,hl,scale]; lastW=window.innerWidth;
   document.body.dataset.ink=ink; document.documentElement.style.setProperty("--hl",hl);
   var el=document.getElementById("s"); cur=null;
-  try{ABCJS.renderAbc(el,abc,opts(Math.max(280,window.innerWidth-12),3));}catch(e){el.textContent="Not balok tidak dapat digambar.";}
+  try{ABCJS.renderAbc(el,abc,opts(Math.max(200,(window.innerWidth-12)/scale),scale>1.3?2:3));}catch(e){el.textContent="Not balok tidak dapat digambar.";}
   report(); setTimeout(report,60);
 }
 function mark(i){
