@@ -109,7 +109,6 @@ rep('Belum ada ende yang cocok di antara yang sudah ditranskrip.',
 rep("""'<div class="status"><div><b>Draf transkripsi — belum diverifikasi.</b> Dibaca dari scan resolusi tinggi; catatan pemeriksaan:'+""",
     """'<details class="notes"><summary><span class="chip">Draf</span>Transkripsi belum diverifikasi \\u00b7 '+(h.checks.length+mismatch.length)+' catatan pemeriksaan</summary>'+""")
 rep("""'</ul></div></div>'+""", """'</ul></details>'+""")
-rep('<label class="tempo" for="bpm">Tempo <input', '<label class="tempo" for="bpm"><span class="tl">Tempo</span> <input')
 rep('<h2>Referensi pembanding</h2>', '<h2>Lirik pembanding</h2>')
 rep('<summary>Bandingkan dengan scan asli (hlm. ', '<summary>Lihat halaman buku asli (hlm. ')
 rep('<details class="panel edit">', '<details class="panel edit" hidden>')

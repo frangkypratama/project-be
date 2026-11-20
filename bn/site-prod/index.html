@@ -105,6 +105,11 @@ main{min-width:0}
 .sec-label{font-size:12px;color:var(--ink-2);margin:0 0 16px;display:flex;gap:8px;align-items:center}
 .sec-label .tag{font-weight:600;color:var(--ink)}
 .flow{position:relative;display:flex;flex-wrap:wrap;align-items:flex-start;row-gap:14px;margin-bottom:18px}
+.flow.chords{row-gap:38px;padding-top:24px}
+.chd{position:absolute;top:-27px;left:3px;font-weight:700;font-size:13.5px;line-height:1;color:var(--accent,#1f4f8f);white-space:nowrap;letter-spacing:.01em}
+.btn[aria-pressed="true"]{border-color:var(--accent,#1f4f8f);color:var(--accent,#1f4f8f);font-weight:600}
+.btn[aria-pressed="false"]{opacity:.65}
+@media print{.chd{color:#000}}
 .bar{display:flex;align-items:flex-start}
 .barline{width:0;border-left:1.5px solid var(--ink);align-self:stretch;margin:4px 6px 0;height:46px}
 .barline.rep{border-left-width:4px;box-shadow:-5px 0 0 -3.5px var(--ink);position:relative;margin-left:12px}
@@ -312,6 +317,57 @@ details.notes ul{margin:8px 0 0;padding:12px 16px 12px 32px;background:var(--war
 .xnote{border:1px solid var(--rule);border-radius:12px;background:var(--sheet);padding:16px 18px;font-size:14.5px;color:var(--ink-2)}
 .xnote b{color:var(--ink)}
 .xlink{margin-left:6px;white-space:nowrap}
+@media screen{
+:root{--fz:1}
+.el{min-width:calc(28px*var(--fz))}
+.el .dg{font-size:calc(23px*var(--fz))}
+.el .syl{font-size:calc(15px*var(--fz))}
+.el .up,.el .dn{font-size:calc(12px*var(--fz));height:calc(8px*var(--fz));line-height:calc(8px*var(--fz))}
+.barline{height:calc(46px*var(--fz))}
+.chd{font-size:calc(13.5px*var(--fz));top:calc(-27px*var(--fz))}
+.flow.chords{row-gap:calc(38px*var(--fz));padding-top:calc(24px*var(--fz))}
+.verse{font-size:calc(18px*var(--fz))}
+}
+.playbar{display:flex;gap:10px;align-items:center;flex:1 1 auto;min-width:0}
+.playbar .now{font-size:13px;color:var(--ink-2);flex:1 1 auto;min-width:0;white-space:nowrap;overflow:hidden;text-overflow:ellipsis}
+.btn.icon{padding:7px 11px}
+.btn.icon svg{width:18px;height:18px}
+@media (max-width:760px){
+  .playbar{position:fixed;left:0;right:0;bottom:0;z-index:30;background:var(--sheet);border-top:1px solid var(--rule);
+    padding:10px max(14px,env(safe-area-inset-right,0px)) calc(10px + env(safe-area-inset-bottom,0px)) max(14px,env(safe-area-inset-left,0px));box-shadow:0 -4px 18px rgba(0,0,0,.08)}
+  .playbar .btn{min-height:44px}
+  body{padding-bottom:calc(72px + env(safe-area-inset-bottom,0px))}
+}
+.setscrim{position:fixed;inset:0;background:rgba(10,14,22,.35);z-index:40}
+.setsheet{position:fixed;z-index:41;background:var(--sheet);color:var(--ink);box-shadow:0 10px 40px rgba(0,0,0,.25);overflow:auto;
+  left:0;right:0;bottom:0;max-height:82vh;border-radius:18px 18px 0 0;
+  padding:8px max(18px,env(safe-area-inset-right,0px)) calc(18px + env(safe-area-inset-bottom,0px)) max(18px,env(safe-area-inset-left,0px))}
+@media (min-width:761px){.setsheet{left:auto;right:24px;bottom:auto;top:90px;width:360px;border-radius:14px;max-height:calc(100vh - 120px);padding:8px 20px 20px}}
+.setsheet .grab{width:40px;height:4px;border-radius:2px;background:var(--rule);margin:4px auto 10px}
+@media (min-width:761px){.setsheet .grab{display:none}}
+.setsheet h3{margin:6px 0 2px;font-size:16px}
+.setsheet .grp{font-size:11.5px;font-weight:700;letter-spacing:.08em;text-transform:uppercase;color:var(--ink-2);margin:18px 0 6px}
+.setrow{display:flex;align-items:center;justify-content:space-between;gap:12px;padding:10px 0;border-bottom:1px solid var(--rule)}
+.setrow:last-child{border-bottom:0}
+.setrow .lab{font-size:15px}
+.setrow .lab small{display:block;font-size:12.5px;color:var(--ink-2);margin-top:2px}
+.stepper{display:inline-flex;align-items:center;border:1px solid var(--rule);border-radius:10px;overflow:hidden}
+.stepper button{font:inherit;font-weight:700;min-width:46px;height:40px;border:0;background:none;color:var(--ink);cursor:pointer}
+.stepper button:disabled{opacity:.35;cursor:default}
+.stepper span{min-width:52px;text-align:center;font-size:14px;font-variant-numeric:tabular-nums;border-left:1px solid var(--rule);border-right:1px solid var(--rule);line-height:40px}
+.stepper .sm{font-size:13px}.stepper .lg{font-size:19px}
+.switch{position:relative;width:48px;height:28px;flex:none}
+.switch input{position:absolute;opacity:0;inset:0;margin:0;cursor:pointer}
+.switch i{position:absolute;inset:0;border-radius:14px;background:var(--rule);transition:background .15s;pointer-events:none}
+.switch i::after{content:"";position:absolute;top:3px;left:3px;width:22px;height:22px;border-radius:50%;background:#fff;box-shadow:0 1px 3px rgba(0,0,0,.3);transition:transform .15s}
+.switch input:checked+i{background:var(--gorga)}
+.switch input:checked+i::after{transform:translateX(20px)}
+.switch input:focus-visible+i{outline:2px solid var(--gorga);outline-offset:2px}
+.setsheet .seg button{padding:8px 14px}
+.setsheet{touch-action:pan-y}
+.setsheet input[type=range]{width:150px;accent-color:var(--gorga)}
+@media print{.playbar,.setsheet,.setscrim{display:none!important}}
+.settoast{position:sticky;bottom:0;margin-top:12px;background:var(--ink);color:var(--paper);font-size:13.5px;padding:10px 14px;border-radius:10px}
 </style>
 
 <div class="topbar"><div class="topbar-in">
@@ -421,13 +477,15 @@ function assignLyrics(lines,rows){
 /* ---------- not angka renderer ---------- */
 function renderAngka(sec,container,rows){
   var sep=!!(current()&&current().overline==="sep"); // gaya buku: tiap not ½ ketuk punya garis atas sendiri
-  var flow=document.createElement("div"); flow.className="flow"+(sep?" sep":"");
+  var showCh=CHORD_ON&&!!sec.chords;
+  var flow=document.createElement("div"); flow.className="flow"+(sep?" sep":"")+(showCh?" chords":"");
   var slurPairs=[], openStart=null;
   sec.lines.forEach(function(line){
     line.items.forEach(function(bar){
       var bd=document.createElement("div"); bd.className="bar";
       bar.beats.forEach(function(beat){
         var bt=document.createElement("div"); bt.className="beat"+(beat.exp?" exp":(beat.els.length>1?" split":"")+(beat.els.length>3?" split2":""));
+        if(showCh&&beat.chord){var cl=document.createElement("span");cl.className="chd";cl.textContent=beat.chord.name;bt.appendChild(cl);}
         beat.els.forEach(function(e){
           var el=document.createElement("div");
           el.className="el"+(e.hold?" hold":"")+(e.rest?" rest":"")+(e.acc>0?" sharp":e.acc<0?" flat":"")+(beat.exp?(e.lv>=2?" hb2":e.lv===1?" hb":""):(sep&&beat.els.length>1&&!e.hold?(e.dur<=.26?" hb2":" hb"):""));
@@ -486,10 +544,13 @@ function toABC(h,secs){
       line.items.forEach(function(bar){
         bar.beats.forEach(function(beat){
           var chunk="", tri=beat.els.length===3&&beat.els.every(function(e){return Math.abs(e.dur*3-1)<1e-6;});
+          var chq=CHORD_ON&&sec.chords&&beat.chord?'"'+beat.chord.name+'"':"";
           if(tri) chunk="(3";
+          if(chq&&!beat.els.some(function(e){return !e.hold;})){chunk+=chq+"y";chq="";} // chord di tengah not panjang
           beat.els.forEach(function(e){
             if(e.hold) return;
             var s="";
+            if(chq){s+=chq;chq="";}
             if(e.breath) s+="!breath!";
             if(e.slurStart) s+="(";
             s+= e.rest?"z":pitchOf(e,ki).abc;
@@ -517,7 +578,25 @@ function toABC(h,secs){
 
 /* ---------- audio ---------- */
 var audio={ctx:null,timers:[],playing:false};
-function stopAudio(keepTail){if(audio.iv){clearInterval(audio.iv);audio.iv=null;}audio.timers.forEach(clearTimeout);audio.timers=[];audio.playing=false;document.querySelectorAll(".el.playing").forEach(function(n){n.classList.remove("playing");});
+/* Iringan chord: bas + trinada rapat di register bawah, organ lebih lembut dari melodi */
+function chordOff(at){
+  var c=audio.chord; if(!c) return; audio.chord=null;
+  try{c.g.gain.cancelScheduledValues(at);c.g.gain.setValueAtTime(c.lvl,at);c.g.gain.linearRampToValueAtTime(0,at+.09);c.oscs.forEach(function(o){o.stop(at+.15);});}catch(e){}
+}
+function chordOn(ctx,dest,wave,c,at){
+  chordOff(at);
+  var g=ctx.createGain(), lvl=1, oscs=[];
+  g.gain.setValueAtTime(0,at); g.gain.linearRampToValueAtTime(lvl,at+.06);
+  var bass=36+((c.bass-36%12+12)%12);            // C2..B2
+  var notes=[[bass,.26]].concat(c.iv.map(function(iv){var pc=(c.root+iv)%12;return [52+((pc-52%12+12)%12),.13];})); // E3..D#4
+  notes.forEach(function(n){
+    var o=ctx.createOscillator(); o.setPeriodicWave(wave); o.frequency.value=440*Math.pow(2,(n[0]-69)/12);
+    var og=ctx.createGain(); og.gain.value=n[1]; o.connect(og); og.connect(g); o.start(at); oscs.push(o);
+  });
+  g.connect(dest); audio.chord={g:g,oscs:oscs,lvl:lvl};
+}
+function stopAudio(keepTail){if(audio.iv){clearInterval(audio.iv);audio.iv=null;}
+  if(audio.chord&&audio.ctx){var c0=audio.chord;audio.chord=null;try{c0.oscs.forEach(function(o){o.stop(audio.ctx.currentTime+.12);});}catch(e){}}audio.timers.forEach(clearTimeout);audio.timers=[];audio.playing=false;document.querySelectorAll(".el.playing").forEach(function(n){n.classList.remove("playing");});
   document.querySelectorAll("#staff .hl").forEach(function(n){n.classList.remove("hl");});
   if(audio.master&&!keepTail){try{audio.master.gain.setTargetAtTime(0,audio.ctx.currentTime,.04);}catch(e){}}
   var b=document.getElementById("playBtn"); if(b) b.innerHTML=PLAY_LABEL;}
@@ -550,10 +629,18 @@ function playHymn(h,secs){
   audio.master.connect(ctx.destination);
   var wave=organWave(ctx), ki=keyInfo(h.key,h.oct), seq=[];
   var gi=0, one=[]; // indeks not tanpa pengulangan = urutan not di not balok
+  var useCh=CHORD_ON&&hasChords(secs);
   secs.forEach(function(sec){
     var notes=noteEls(sec.lines), reps=/:\|/.test(sec.src)?2:1;
     var uu=unitOf(h,sec.meter), kk=keyInfo(sec.key||h.key,h.oct); notes.forEach(function(e,i){e.u=uu;e.ki=kk;e.si=gi+i;}); gi+=notes.length;
-    for(var r=0;r<reps;r++) notes.forEach(function(e){one.push(e);});
+    // penanda chord disisipkan sebelum not yang sedang berbunyi pada ketukan itu (off = selisih ketukan)
+    var before=notes.map(function(){return [];});
+    if(useCh&&sec.chords){
+      var st=[],pos=0; notes.forEach(function(e){st.push(pos);pos+=e.dur;});
+      sec.chords.forEach(function(c,b){ if(!c) return; var j=0; while(j+1<st.length&&st[j+1]<=b+1e-9) j++;
+        before[j].push({chord:c,off:b-st[j],u:uu,dur:0}); });
+    }
+    for(var r=0;r<reps;r++) notes.forEach(function(e,i){before[i].forEach(function(m){one.push(m);});one.push(e);});
   });
   // satu putaran per ayat: mulai dari ayat yang dipilih, lanjut ke ayat berikut bila dicentang
   var ready=vReady(h), k0=VSEL.k||0, list=VALL?ready.filter(function(k){return k>=k0;}):[k0];
@@ -566,6 +653,7 @@ function playHymn(h,secs){
     var ahead=document.hidden?1.5:.2, spb=60/curBpm();
     while(idx<seq.length&&next<ctx.currentTime+ahead){
       var e=seq[idx], d=e.dur*spb*(e.u||unitOf(h));
+      if(e.chord!==undefined){chordOn(ctx,tone,wave,e.chord,next+e.off*spb*e.u); idx++; continue;}
       if(e.verse!==undefined){ // ganti lirik ke ayat berikut tepat saat not pertamanya berbunyi
         (function(vk,at){audio.timers.push(setTimeout(function(){if(audio.playing)setVerse(vk);},at));})(e.verse,Math.max(0,(next-ctx.currentTime)*1000-20));
         idx++; continue;
@@ -590,7 +678,7 @@ function playHymn(h,secs){
       })(e.node,e.si,Math.max(0,(next-ctx.currentTime)*1000),d*1000);
       next+=d; idx++;
     }
-    if(idx>=seq.length&&audio.iv){clearInterval(audio.iv);audio.iv=null;
+    if(idx>=seq.length&&audio.iv){clearInterval(audio.iv);audio.iv=null; chordOff(next);
       audio.timers.push(setTimeout(function(){stopAudio(true);},Math.max(0,(next-ctx.currentTime)*1000)+300));}
   }
   audio.playing=true; var b=document.getElementById("playBtn"); if(b) b.innerHTML=STOP_LABEL;
@@ -604,9 +692,37 @@ var view="both"; try{view=(localStorage.getItem("view")||localStorage.getItem("b
 var bpm=84;
 var VSEL={id:null,k:0}, VALL=true, CURSECS=null, CURH=null; // ayat yang sedang tampil; putar semua ayat
 function pad3(n){return ("00"+n).slice(-3);}
-function buildSecs(h){
-  return h.sections.map(function(s){var lines=parseNotes(s.notes);var rep=assignLyrics(lines,s.rows);return {lines:lines,rows:s.rows,src:s.notes,report:rep,meter:s.meter,key:s.key};});
+/* ---------- chord ----------
+   Data: sections[i].chords = chord per ketukan, sejajar dengan ketukan not, mis. "D . . . | D . A . |"
+   ('.' = chord sebelumnya berlanjut). Nama chord: D, F#m, Bb, A7, Gmaj7, Bdim, Esus4, D/F#, ... */
+var CHORD_ON=true; try{CHORD_ON=localStorage.getItem("be-chord")!=="0";}catch(e){} // bawaan: chord menyala
+var FZ_STEPS=[.85,1,1.15,1.3,1.5,1.75], FZ=1; try{var fz0=parseFloat(localStorage.getItem("be-fs"));if(FZ_STEPS.indexOf(fz0)>-1)FZ=fz0;}catch(e){}
+document.documentElement.style.setProperty("--fz",FZ);
+var CH_RE=/^([A-G])(#|b)?(maj7|m7|m6|m|7|6|dim|aug|sus4|sus2)?(?:\/([A-G])(#|b)?)?$/;
+var CH_PC={C:0,D:2,E:4,F:5,G:7,A:9,B:11};
+var CH_IV={"":[0,4,7],m:[0,3,7],"7":[0,4,7,10],m7:[0,3,7,10],maj7:[0,4,7,11],"6":[0,4,7,9],m6:[0,3,7,9],dim:[0,3,6],aug:[0,4,8],sus4:[0,5,7],sus2:[0,2,7]};
+function parseChord(t){
+  var m=CH_RE.exec(t); if(!m) throw new Error("Chord tidak dikenali: "+t);
+  function pc(l,a){return (CH_PC[l]+(a==="#"?1:a==="b"?-1:0)+12)%12;}
+  var r=pc(m[1],m[2]); return {name:t,root:r,bass:m[4]?pc(m[4],m[5]):r,iv:CH_IV[m[3]||""]};
 }
+function parseChords(src){
+  if(!src) return null;
+  return src.replace(/\|\]|:\||\|/g," ").trim().split(/\s+/).map(function(t){return t==="."?null:parseChord(t);});
+}
+function attachChords(lines,chords){
+  var beats=[]; lines.forEach(function(l){l.items.forEach(function(b){b.beats.forEach(function(bt){beats.push(bt);});});});
+  if(!chords) return null;
+  if(chords.length!==beats.length) return "chord "+chords.length+" ketukan, not "+beats.length+" ketukan";
+  beats.forEach(function(bt,i){bt.chord=chords[i];});
+  return null;
+}
+function buildSecs(h){
+  return h.sections.map(function(s){var lines=parseNotes(s.notes);var rep=assignLyrics(lines,s.rows);
+    var ch=null,cerr=null; try{ch=parseChords(s.chords);cerr=attachChords(lines,ch);}catch(err){cerr=err.message;}
+    return {lines:lines,rows:s.rows,src:s.notes,report:rep,meter:s.meter,key:s.key,chords:cerr?null:ch,chordErr:cerr};});
+}
+function hasChords(secs){return secs.some(function(s){return !!s.chords;});}
 function renderList(filter){
   var ol=document.getElementById("list"); ol.innerHTML="";
   var f=(filter||"").trim().toLowerCase().replace(/^(bn|be)-?/,"");
@@ -723,17 +839,16 @@ function renderHymn(){
   if(BPM_SET!==(h.id||h.be)){BPM_SET=h.id||h.be; if(h.tempo) bpm=Math.max(40,Math.min(160,h.tempo));}
   try{secs=buildSecs(h);}catch(err){main.innerHTML='<p class="status">'+err.message+'</p>';return;}
   var mismatch=[];
+  secs.forEach(function(s,si){if(s.chordErr) mismatch.push("Bagian "+(si+1)+", chord: "+s.chordErr);});
   secs.forEach(function(s,si){s.report.forEach(function(r){if(r.notes!==r.syl) mismatch.push("Bagian "+(si+1)+", baris lirik "+(r.row+1)+": "+r.notes+" not, "+r.syl+" suku kata");});});
   main.innerHTML=
    '<header class="hymn-head"><div class="hymn-no">'+(h.id||h.be)+'</div><h1>'+h.title+'</h1>'+
    '<div class="meta"><span>BN <b>'+pad3(h.be)+(h.variant||'')+'</b></span>'+(h.bl?'<span>Buku Logu <b>'+h.bl+'</b></span>':'')+'<span><b>do = '+DO_NAME[h.key]+'</b></span><span>Birama <b>'+h.meter+(h.meter2?' &amp; '+h.meter2+' ketuk':'')+'</b></span>'+(h.tempo?'<span>\u2669 = <b>'+h.tempo+'</b></span>':'')+(h.cat?'<span>'+h.cat+'</span>':'')+'</div></header>'+
    '<div class="toolbar"><div class="seg" role="group" aria-label="Tampilan notasi">'+
      '<button type="button" data-v="angka">Not angka</button><button type="button" data-v="balok">Not balok</button><button type="button" data-v="both">Keduanya</button></div>'+
-     '<button type="button" class="btn primary" id="playBtn">'+PLAY_LABEL+'</button>'+
-     (window.BE_STATIC?'<button type="button" class="btn" id="printBtn" title="Cetak atau simpan sebagai PDF (kertas F4)">Cetak Partitur</button>':'')+
-     '<label class="tempo" for="bpm"><span class="tl">Tempo</span> <input id="bpm" type="range" min="40" max="160" value="'+bpm+'"><span id="bpmv">'+bpm+'</span></label></div>'+
-   (vReady(h).length>1?'<div class="vbar"><span class="vl" id="vlab">Ayat</span><div class="vchips" role="group" aria-labelledby="vlab">'+vReady(h).map(function(i){return '<button type="button" data-k="'+i+'" title="Ayat '+(i+1)+'">'+(i+1)+'</button>';}).join("")+'</div>'+
-     '<label class="vall"><input type="checkbox" id="vall"'+(VALL?' checked':'')+'> Putar sampai ayat terakhir</label></div>':'')+
+     '<div class="playbar"><button type="button" class="btn primary" id="playBtn">'+PLAY_LABEL+'</button><span class="now" id="nowLbl"></span>'+
+     '<button type="button" class="btn icon" id="setBtn" aria-haspopup="dialog" aria-expanded="false" aria-label="Pengaturan lagu" title="Pengaturan lagu"><svg viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" aria-hidden="true"><path d="M4 6h10M18 6h2M4 12h4M12 12h8M4 18h12M20 18h0"/><circle cx="16" cy="6" r="2"/><circle cx="10" cy="12" r="2"/><circle cx="18" cy="18" r="2"/></svg></button></div></div>'+
+   (vReady(h).length>1?'<div class="vbar"><span class="vl" id="vlab">Ayat</span><div class="vchips" role="group" aria-labelledby="vlab">'+vReady(h).map(function(i){return '<button type="button" data-k="'+i+'" title="Ayat '+(i+1)+'">'+(i+1)+'</button>';}).join("")+'</div></div>':'')+
    (h.becmp?'<p class="xref">Buku Logu yang sama ada di <a href="__ROOT__/be/'+h.becmp.be+'/">Buku Ende no. '+h.becmp.be+'</a>.</p>':'')+
    '<section class="block" id="angkaBlock"><h2>Not angka<span class="vtag"></span></h2><p class="vnote" hidden></p><div class="angka" id="angka"></div></section>'+
    '<section class="block" id="balokBlock"><h2>Not balok<span class="vtag"></span></h2><div class="staff" id="staff"></div></section>'+
@@ -765,10 +880,9 @@ function renderHymn(){
 
   document.querySelectorAll(".seg button").forEach(function(b){b.addEventListener("click",function(){view=b.dataset.v;try{localStorage.setItem("view",view);}catch(e){}applyView();});});
   document.getElementById("playBtn").addEventListener("click",function(){if(audio.playing)stopAudio();else playHymn(h,secs,bpm);});
-  var pb=document.getElementById("printBtn"); if(pb) pb.addEventListener("click",function(){stopAudio();window.print();});
+  document.getElementById("setBtn").addEventListener("click",function(){openSettings(hasChords(secs));});
+  updNow();
   document.querySelectorAll(".vchips button").forEach(function(b){b.addEventListener("click",function(){var was=audio.playing;if(was)stopAudio();setVerse(+b.dataset.k);if(was)playHymn(h,secs,bpm);});});
-  var va=document.getElementById("vall"); if(va) va.addEventListener("change",function(){VALL=va.checked;});
-  document.getElementById("bpm").addEventListener("input",function(e){bpm=+e.target.value;document.getElementById("bpmv").textContent=bpm;});
   document.getElementById("applyBtn").addEventListener("click",function(){
     var backup=JSON.stringify(h.sections), msg=document.getElementById("msg");
     h.sections.forEach(function(s,i){s.notes=document.getElementById("n"+i).value;s.rows=s.rows.map(function(r,j){return document.getElementById("r"+i+"_"+j).value;});});
@@ -812,6 +926,7 @@ function setVerse(k,quiet){
     });
   });
   document.querySelectorAll(".vtag").forEach(function(t){t.textContent=many?"Ayat "+(k+1):"";});
+  updNow();
   document.querySelectorAll(".vchips button").forEach(function(b){b.setAttribute("aria-pressed",String(+b.dataset.k===k));});
   document.querySelectorAll(".verse[data-k]").forEach(function(p){p.classList.toggle("cur",many&&+p.dataset.k===k);});
   var vn=document.querySelector(".vnote");
@@ -862,10 +977,81 @@ function drawStaff(h,secs){
   var el=document.getElementById("staff"); if(!el) return;
   if(!window.ABCJS){el.innerHTML='<p style="padding:10px;color:var(--ink-2)">Pustaka not balok gagal dimuat.</p>';return;}
   el.innerHTML="";
-  window.ABCJS.renderAbc(el,toABC(h,secs),{add_classes:true,responsive:"resize",foregroundColor:inkColor(),staffwidth:740,paddingtop:4,paddingbottom:4,paddingleft:6,paddingright:6,wrap:{minSpacing:1.8,maxSpacing:2.6,preferredMeasuresPerLine:5}});
+  window.ABCJS.renderAbc(el,toABC(h,secs),{add_classes:true,responsive:"resize",foregroundColor:inkColor(),staffwidth:Math.round(740/FZ),paddingtop:4,paddingbottom:4,paddingleft:6,paddingright:6,wrap:{minSpacing:1.8,maxSpacing:2.6,preferredMeasuresPerLine:5}});
 }
+/* ---------- pengaturan lagu (sama dengan APK): disimpan di peramban, tetap saat pindah lagu ---------- */
+function updNow(){
+  var n=document.getElementById("nowLbl"); if(!n||!CURH) return;
+  var many=vReady(CURH).length>1;
+  n.textContent=(many?"Ayat "+((VSEL.k||0)+1)+(VALL?" →":"")+" · ":"")+"Tempo "+bpm+(CHORD_ON?" · Chord":"");
+}
+function isDarkNow(){var t=document.documentElement.getAttribute("data-theme");return t?t==="dark":!!(window.matchMedia&&matchMedia("(prefers-color-scheme: dark)").matches);}
+function closeSettings(){
+  var a=document.getElementById("setSheet"), b=document.getElementById("setScrim"); if(a)a.remove(); if(b)b.remove();
+  var sb=document.getElementById("setBtn"); if(sb){sb.setAttribute("aria-expanded","false");sb.focus();}
+}
+function openSettings(chordsAvail){
+  closeSettings();
+  var fi=FZ_STEPS.indexOf(FZ), many=CURH&&vReady(CURH).length>1;
+  var sc=document.createElement("div"); sc.className="setscrim"; sc.id="setScrim"; sc.addEventListener("click",closeSettings);
+  var d=document.createElement("div"); d.className="setsheet"; d.id="setSheet"; d.setAttribute("role","dialog"); d.setAttribute("aria-label","Pengaturan lagu");
+  d.innerHTML='<div class="grab"></div><h3>Pengaturan lagu</h3>'+
+    '<div class="grp">Tampilan</div>'+
+    '<div class="setrow"><span class="lab">Ukuran huruf<small>Not angka, lirik, dan not balok</small></span><span class="stepper">'+
+      '<button type="button" class="sm" id="fzDn" aria-label="Perkecil huruf"'+(fi<=0?' disabled':'')+'>A−</button><span id="fzV">'+Math.round(FZ*100)+'%</span>'+
+      '<button type="button" class="lg" id="fzUp" aria-label="Perbesar huruf"'+(fi>=FZ_STEPS.length-1?' disabled':'')+'>A+</button></span></div>'+
+    '<div class="setrow"><span class="lab">Tema</span><span class="seg" role="group" aria-label="Tema"><button type="button" data-th="light" aria-pressed="'+!isDarkNow()+'">Terang</button><button type="button" data-th="dark" aria-pressed="'+isDarkNow()+'">Gelap</button></span></div>'+
+    (chordsAvail?'<div class="setrow"><label class="lab" for="chSw">Chord<small>Tampil di not angka dan not balok, ikut berbunyi saat diputar</small></label><span class="switch"><input type="checkbox" id="chSw"'+(CHORD_ON?' checked':'')+'><i></i></span></div>':'')+
+    '<div class="grp">Pemutaran</div>'+
+    '<div class="setrow"><label class="lab" for="bpm">Tempo<small id="bpmv">'+bpm+' ketuk per menit</small></label><input id="bpm" type="range" min="40" max="160" value="'+bpm+'"></div>'+
+    (many?'<div class="setrow"><label class="lab" for="vall">Putar sampai ayat terakhir<small>Mulai dari ayat yang dipilih</small></label><span class="switch"><input type="checkbox" id="vall"'+(VALL?' checked':'')+'><i></i></span></div>':'')+
+    ('<div class="grp">Lainnya</div><div class="setrow"><span class="lab">Cetak partitur<small>Kertas F4, atau simpan sebagai PDF</small></span><button type="button" class="btn" id="printBtn">Cetak</button></div>');
+  document.body.appendChild(sc); document.body.appendChild(d);
+  var sb=document.getElementById("setBtn"); if(sb) sb.setAttribute("aria-expanded","true");
+  function setFz(i){ // tanpa menghentikan lagu: not angka & busur menyesuaikan sendiri, not balok digambar ulang
+    FZ=FZ_STEPS[i]; try{localStorage.setItem("be-fs",String(FZ));}catch(e){}
+    document.documentElement.style.setProperty("--fz",FZ);
+    if(view!=="angka"&&CURH&&CURSECS) drawStaff(CURH,CURSECS);
+    fi=i; d.querySelector("#fzV").textContent=Math.round(FZ*100)+"%";
+    d.querySelector("#fzDn").disabled=fi<=0; d.querySelector("#fzUp").disabled=fi>=FZ_STEPS.length-1;
+  }
+  d.querySelector("#fzDn").addEventListener("click",function(){if(fi>0)setFz(fi-1);});
+  d.querySelector("#fzUp").addEventListener("click",function(){if(fi<FZ_STEPS.length-1)setFz(fi+1);});
+  d.querySelectorAll("[data-th]").forEach(function(b){b.addEventListener("click",function(){
+    if((b.dataset.th==="dark")!==isDarkNow()) document.getElementById("themeBtn").click();
+    d.querySelectorAll("[data-th]").forEach(function(x){x.setAttribute("aria-pressed",String((x.dataset.th==="dark")===isDarkNow()));});
+  });});
+  var cs=d.querySelector("#chSw"); if(cs) cs.addEventListener("change",function(){
+    stopAudio(); CHORD_ON=cs.checked; try{localStorage.setItem("be-chord",CHORD_ON?"1":"0");}catch(e){} renderHymn(); openSettings(chordsAvail);});
+  d.querySelector("#bpm").addEventListener("input",function(e){bpm=+e.target.value;d.querySelector("#bpmv").textContent=bpm+" ketuk per menit";updNow();});
+  var va=d.querySelector("#vall"); if(va) va.addEventListener("change",function(){VALL=va.checked;updNow();});
+  var pb=d.querySelector("#printBtn"); if(pb) pb.addEventListener("click",function(){
+    if(!window.BE_STATIC){ // contoh (artifact dev): di situs asli tombol ini membuka dialog cetak
+      var t=document.createElement("div"); t.className="settoast"; t.textContent="Contoh: di situs asli, tombol ini membuka cetak partitur (kertas F4).";
+      d.appendChild(t); setTimeout(function(){t.remove();},2600); return;}
+    closeSettings();stopAudio();window.print();});
+  var first=d.querySelector("button:not([disabled]),input"); if(first) first.focus({preventScroll:true});
+  // geser ke bawah untuk menutup (lembar bawah di HP)
+  (function(){
+    var y0=null, dy=0, t0=0, mq=window.matchMedia&&matchMedia("(max-width:760px)");
+    d.addEventListener("touchstart",function(e){
+      if((mq&&!mq.matches)||d.scrollTop>0||e.touches.length>1||e.target.closest('input[type=range]')){y0=null;return;}
+      y0=e.touches[0].clientY; dy=0; t0=Date.now(); d.style.transition="none";},{passive:true});
+    d.addEventListener("touchmove",function(e){
+      if(y0===null) return; dy=e.touches[0].clientY-y0;
+      if(dy>0){d.style.transform="translateY("+dy+"px)"; sc.style.opacity=String(Math.max(.2,1-dy/400)); if(e.cancelable) e.preventDefault();}
+      else {d.style.transform="";}},{passive:false});
+    function end(){
+      if(y0===null) return; y0=null;
+      var v=dy/Math.max(1,Date.now()-t0); d.style.transition="transform .18s ease"; sc.style.transition="opacity .18s";
+      if(dy>90||(dy>30&&v>.5)){d.style.transform="translateY(100%)"; sc.style.opacity="0"; setTimeout(closeSettings,170);}
+      else {d.style.transform=""; sc.style.opacity="";}}
+    d.addEventListener("touchend",end); d.addEventListener("touchcancel",end);
+  })();
+}
+document.addEventListener("keydown",function(e){if(e.key==="Escape"&&document.getElementById("setSheet"))closeSettings();});
 function applyView(){
-  document.querySelectorAll(".seg button").forEach(function(b){b.setAttribute("aria-pressed",String(b.dataset.v===view));});
+  document.querySelectorAll(".seg button[data-v]").forEach(function(b){b.setAttribute("aria-pressed",String(b.dataset.v===view));});
   var a=document.getElementById("angkaBlock"), b=document.getElementById("balokBlock");
   if(a) a.hidden=view==="balok"; if(b) b.hidden=view==="angka";
   if(view!=="angka"){var h=current();if(h)drawStaff(h,CURSECS&&CURH===h?CURSECS:buildSecs(h));}

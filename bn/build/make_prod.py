@@ -105,7 +105,6 @@ rx(r"""   '<div class="status"><div><b>'\+\(h\.fixed.*?'</ul></div></div>'\+\n""
 """)
 rep("""href="https://bukuende.com/be/'+c.be+'/" target="_blank" rel="noopener">Buka BE '+c.be+' \\u2197</a>""",
     """href="__ROOT__/be/'+c.be+'/">Buka BE '+c.be+'</a>""")
-rep('<label class="tempo" for="bpm">Tempo <input', '<label class="tempo" for="bpm"><span class="tl">Tempo</span> <input')
 rx(r"""   \(h\.refs\?'<section class="block"><h2>Referensi pembanding</h2>.*?:''\)\+\n""")
 rx(r"""   '<details class="panel" id="scanPanel">.*?</details>'\+\n""")
 rx(r"""  var sp=document\.getElementById\("scanPanel"\);\n  sp\.addEventListener\(.*?\n""")
