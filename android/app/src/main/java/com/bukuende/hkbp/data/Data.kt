@@ -10,7 +10,8 @@ enum class Book(val code: String, val label: String, val short: String, val file
     BN("bn", "Buku Nyanyian", "BN", "bn.json", "https://bukuende.com/bn/");
 }
 
-class Section(val notes: String, val rows: List<String>, val meter: String?, val key: String?)
+/** [chords]: akor iringan per ketukan (relatif terhadap Do bagian ini), null = akor sebelumnya berlanjut. */
+class Section(val notes: String, val rows: List<String>, val meter: String?, val key: String?, val chords: List<String?>? = null)
 
 class Hymn(
     val book: Book,
@@ -92,6 +93,7 @@ object Library {
                     strings(s.optJSONArray("r")),
                     s.optString("m").ifEmpty { null },
                     s.optString("k").ifEmpty { null },
+                    s.optJSONArray("ch")?.let { a -> List(a.length()) { i -> if (a.isNull(i)) null else a.getString(i) } },
                 )
             }
             val va = o.optJSONArray("v")

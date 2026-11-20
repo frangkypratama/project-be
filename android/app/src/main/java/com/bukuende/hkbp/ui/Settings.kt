@@ -19,6 +19,7 @@ import androidx.compose.material.icons.filled.History
 import androidx.compose.material.icons.filled.Info
 import androidx.compose.material.icons.filled.LightMode
 import androidx.compose.material.icons.filled.Palette
+import androidx.compose.material.icons.filled.Piano
 import androidx.compose.material.icons.automirrored.filled.PlaylistPlay
 import androidx.compose.material.icons.filled.Shield
 import androidx.compose.material.icons.filled.Visibility
@@ -133,6 +134,13 @@ fun SettingsScreen(lib: Map<Book, List<Hymn>>, prefs: Prefs) {
                 headlineContent = { Text("Putar semua ayat") },
                 supportingContent = { Text("Setelah satu ayat selesai, lanjut ke ayat berikutnya") },
                 trailingContent = { Switch(checked = prefs.playAllVerses, onCheckedChange = { prefs.setPlayAll(it) }) },
+            )
+            ListItem(
+                modifier = Modifier.clickable { prefs.useChords(!prefs.chordsOn) },
+                leadingContent = { Icon(Icons.Filled.Piano, null) },
+                headlineContent = { Text("Akor iringan") },
+                supportingContent = { Text("Tampilkan nama akor di not angka dan not balok, dan bunyikan iringannya saat diputar") },
+                trailingContent = { Switch(checked = prefs.chordsOn, onCheckedChange = { prefs.useChords(it) }) },
             )
             ListItem(
                 modifier = Modifier.clickable { prefs.useKeepScreenOn(!prefs.keepScreenOn) },

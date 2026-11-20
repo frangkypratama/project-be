@@ -73,4 +73,29 @@ void main() {
     final all = Notation.sequence(h, 0, true);
     expect(all.length, seq.length * h.readyVerses.length);
   });
+
+  test('akor terpasang', () {
+    var lagu = 0;
+    var berakor = 0;
+    for (final b in Book.values) {
+      for (final h in _load(b)) {
+        lagu++;
+        final secs = Notation.build(h, 0, chords: true);
+        for (var si = 0; si < h.sections.length; si++) {
+          if (h.sections[si].chords == null) continue;
+          berakor++;
+          final first = <Beat>[for (final l in secs[si].lines) for (final bar in l.items) ...bar.beats];
+          expect(first.isEmpty || first.first.chord != null, isTrue, reason: '${b.code}:${h.id} bagian $si tanpa akor awal');
+        }
+        Notation.toAbc(h, secs, chords: true);
+        Notation.sequence(h, 0, true, chords: true);
+      }
+    }
+    expect(berakor, greaterThan(lagu));
+    final h = _load(Book.be).firstWhere((h) => h.id == '559');
+    final abc = Notation.toAbc(h, Notation.build(h, 0, chords: true), chords: true);
+    expect(abc.split('\n')[4].startsWith('"D"D4 D4 F4 F4 | "D"A8 "A"A8 | "Bm"(B4'), isTrue, reason: abc.split('\n')[4]);
+    final seq = Notation.sequence(h, 0, false, chords: true);
+    expect(seq.fold<int>(0, (n, t) => n + t.chordAt.length), 29);
+  });
 }

@@ -12,6 +12,7 @@ class Prefs extends ChangeNotifier {
         _defaultView = _clampInt(_sp.getInt(_kView) ?? 1, 0, 3),
         _keepScreenOn = _sp.getBool(_kScreenOn) ?? true,
         _playAllVerses = _sp.getBool(_kAllVerses) ?? true,
+        _chordsOn = _sp.getBool(_kChords) ?? false,
         _favorites = _readList(_sp, _kFav),
         _history = _readList(_sp, _kHist) {
     if (_history.length > maxHistory) {
@@ -24,6 +25,7 @@ class Prefs extends ChangeNotifier {
   static const String _kView = 'view';
   static const String _kScreenOn = 'screenOn';
   static const String _kAllVerses = 'allVerses';
+  static const String _kChords = 'chords';
   static const String _kFav = 'fav';
   static const String _kHist = 'hist';
 
@@ -38,6 +40,16 @@ class Prefs extends ChangeNotifier {
   int _defaultView;
   bool _keepScreenOn;
   bool _playAllVerses;
+  bool _chordsOn;
+
+  /// Akor iringan: tampil di not angka/balok dan berbunyi saat diputar. Bawaan: mati.
+  bool get chordsOn => _chordsOn;
+
+  void setChordsOn(bool v) {
+    _chordsOn = v;
+    _sp.setBool(_kChords, v);
+    notifyListeners();
+  }
   final List<String> _favorites;
   final List<String> _history;
 

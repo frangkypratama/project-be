@@ -39,6 +39,8 @@ import androidx.compose.ui.draw.drawWithContent
 import androidx.compose.ui.geometry.Offset
 import androidx.compose.ui.graphics.Color
 import androidx.compose.ui.graphics.toArgb
+import androidx.compose.ui.layout.layout
+import androidx.compose.ui.unit.Constraints
 import androidx.compose.ui.platform.LocalDensity
 import androidx.compose.ui.text.font.FontWeight
 import androidx.compose.ui.unit.dp
@@ -68,7 +70,11 @@ private fun digitText(e: El) = if (e.hold) "·" else e.deg.toString()
 
 @OptIn(ExperimentalLayoutApi::class)
 @Composable
-fun AngkaView(secs: List<Sec>, curSi: Int, scale: Float, bn: Boolean, modifier: Modifier = Modifier) {
+fun AngkaView(
+    secs: List<Sec>, curSi: Int, scale: Float, bn: Boolean, modifier: Modifier = Modifier,
+    /** null = akor tidak ditampilkan; selain itu Do (0..11) untuk menamai akor bagian tsb. */
+    chordTonic: ((Sec) -> Int)? = null,
+) {
     val ink = MaterialTheme.colorScheme.onSurface
     val hl = MaterialTheme.colorScheme.tertiaryContainer
     val digit = (21 * scale).sp
@@ -79,7 +85,7 @@ fun AngkaView(secs: List<Sec>, curSi: Int, scale: Float, bn: Boolean, modifier: 
         secs.forEach { sec ->
             FlowRow(Modifier.fillMaxWidth(), verticalArrangement = Arrangement.spacedBy(16.dp)) {
                 for (line in sec.lines) for (bar in line.items) {
-                    BarView(bar, sec.rows.size, curSi, ink, hl, digit, sylSize, barH, bn)
+                    BarView(bar, sec.rows.size, curSi, ink, hl, digit, sylSize, barH, bn, chordTonic?.invoke(sec), scale)
                 }
             }
         }
@@ -99,9 +105,34 @@ private fun BarView(
     bar: Bar, rows: Int, curSi: Int, ink: Color, hl: Color,
     digit: androidx.compose.ui.unit.TextUnit, syl: androidx.compose.ui.unit.TextUnit, barH: androidx.compose.ui.unit.Dp,
     bn: Boolean,
+    tonic: Int? = null,
+    scale: Float = 1f,
 ) {
+    val chH = if (tonic != null) (18 * scale).dp else 0.dp
+    val chColor = MaterialTheme.colorScheme.primary
     Row(verticalAlignment = Alignment.Top) {
         bar.beats.forEach { beat ->
+          Column {
+            if (tonic != null) {
+                Box(Modifier.height(chH)) {
+                    val c = beat.chord
+                    if (c != null) {
+                        Text(
+                            Notation.chordName(c, tonic),
+                            color = chColor,
+                            fontWeight = FontWeight.Bold,
+                            fontSize = (13.5f * scale).sp,
+                            maxLines = 1,
+                            softWrap = false,
+                            // lebar 0: nama akor boleh melewati lebar ketukan tanpa melebarkan not
+                            modifier = Modifier.padding(start = 3.dp).layout { m, cs ->
+                                val p = m.measure(cs.copy(minWidth = 0, maxWidth = Constraints.Infinity))
+                                layout(0, p.height) { p.placeRelative(0, 0) }
+                            },
+                        )
+                    }
+                }
+            }
             if (beat.exp) {
                 // durasi eksplisit (BN): garis atas per not
                 Row {
@@ -116,11 +147,12 @@ private fun BarView(
                     beat.els.forEach { e -> ElView(e, rows, !e.hold && e.si == curSi, ink, hl, digit, syl) }
                 }
             }
-            if (beat.breath) Text("’", fontSize = digit, color = ink, modifier = Modifier.padding(top = 10.dp))
+          }
+            if (beat.breath) Text("’", fontSize = digit, color = ink, modifier = Modifier.padding(top = 10.dp + chH))
         }
         val end = bar.end
         if (end != null) {
-            Row(Modifier.padding(start = 4.dp, end = 6.dp, top = 12.dp), verticalAlignment = Alignment.CenterVertically) {
+            Row(Modifier.padding(start = 4.dp, end = 6.dp, top = 12.dp + chH), verticalAlignment = Alignment.CenterVertically) {
                 if (end == ":|") Text(":", fontSize = digit, color = ink, fontWeight = FontWeight.Bold)
                 Box(Modifier.width(1.2.dp).height(barH - 12.dp).background(ink))
                 if (end != "|") {

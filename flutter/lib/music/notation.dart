@@ -42,6 +42,43 @@ class Beat {
   final List<El> els = [];
   bool breath = false;
   bool exp = false;
+  Chord? chord;
+}
+
+/// Akor iringan: akar dalam semitone dari Do, kualitas '', 'm', '7', 'm7', 'dim'.
+class Chord {
+  final int root;
+  final String q;
+  const Chord(this.root, this.q);
+
+  List<int> get intervals {
+    switch (q) {
+      case 'm':
+        return const <int>[0, 3, 7];
+      case '7':
+        return const <int>[0, 4, 7, 10];
+      case 'm7':
+        return const <int>[0, 3, 7, 10];
+      case 'dim':
+        return const <int>[0, 3, 6];
+      default:
+        return const <int>[0, 4, 7];
+    }
+  }
+
+  static Chord? parse(String t) {
+    final i = t.indexOf(':');
+    final r = int.tryParse(i < 0 ? t : t.substring(0, i));
+    if (r == null) return null;
+    return Chord(r, i < 0 ? '' : t.substring(i + 1));
+  }
+}
+
+/// Akor yang mulai di tengah sebuah not: [offBeats] (satuan seperti Tone.beats) sejak not mulai.
+class ChordHit {
+  final double offBeats;
+  final List<int> midis;
+  const ChordHit(this.offBeats, this.midis);
 }
 
 class Bar {
@@ -77,7 +114,8 @@ class Tone {
   final int si;
   final bool breath;
   final int verse;
-  const Tone(this.midi, this.beats, this.si, this.breath, this.verse);
+  final List<ChordHit> chordAt;
+  const Tone(this.midi, this.beats, this.si, this.breath, this.verse, [this.chordAt = const <ChordHit>[]]);
 }
 
 String digitText(El e) => e.hold ? '·' : '${e.deg}';
@@ -313,7 +351,40 @@ class Notation {
   }
 
   /// Bagian-bagian lagu dengan lirik ayat ke-[verse] terpasang pada not.
-  static List<Sec> build(Hymn h, int verse) {
+  static List<Beat> _beatsOf(List<Line> lines) =>
+      <Beat>[for (final l in lines) for (final b in l.items) ...b.beats];
+
+  /// Pasang akor ke ketukan; diabaikan bila jumlah ketukan tidak cocok.
+  static void _attachChords(List<Line> lines, List<String?>? chords) {
+    if (chords == null) return;
+    final beats = _beatsOf(lines);
+    if (beats.length != chords.length) return;
+    for (var i = 0; i < beats.length; i++) {
+      final t = chords[i];
+      beats[i].chord = t == null ? null : Chord.parse(t);
+    }
+  }
+
+  static const List<String> _sharp = <String>['C', 'C#', 'D', 'D#', 'E', 'F', 'F#', 'G', 'G#', 'A', 'A#', 'B'];
+  static const List<String> _flat = <String>['C', 'Db', 'D', 'Eb', 'E', 'F', 'Gb', 'G', 'Ab', 'A', 'Bb', 'B'];
+
+  /// Nada Do (0..11) sebuah bagian lagu, untuk menamai akor.
+  static int tonicPc(String? key) => keyInfo(key, 0).tonic % 12;
+
+  /// Nama akor, mis. 'F#m', 'Bb', 'A7'; ejaan kres/mol mengikuti nada dasar.
+  static String chordName(Chord c, int tonic) {
+    final t = tonic % 12;
+    final names = const <int>[1, 3, 5, 6, 8, 10].contains(t) ? _flat : _sharp;
+    return names[(t + c.root) % 12] + c.q;
+  }
+
+  /// Suara iringan: bas (C2..B2) + trinada rapat (E3..D#4).
+  static List<int> _voicing(Chord c, int tonic) {
+    final r = (tonic + c.root) % 12;
+    return <int>[36 + r, for (final iv in c.intervals) 52 + (((r + iv) % 12) - 4) % 12];
+  }
+
+  static List<Sec> build(Hymn h, int verse, {bool chords = false}) {
     var gi = 0;
     final out = <Sec>[];
     for (var si = 0; si < h.sections.length; si++) {
@@ -326,6 +397,7 @@ class Notation {
       }
       final rows = h.rowsFor(verse, si);
       _assignLyrics(lines, rows);
+      if (chords) _attachChords(lines, s.chords);
       for (final e in noteEls(lines)) {
         e.si = gi++;
       }
@@ -350,7 +422,7 @@ class Notation {
     return e == 1 ? '' : e.toString();
   }
 
-  static String toAbc(Hymn h, List<Sec> secs) {
+  static String toAbc(Hymn h, List<Sec> secs, {bool chords = false}) {
     var ki = keyInfo(h.key, h.oct);
     var curM = (secs.isNotEmpty ? secs.first.meter : null) ?? h.meter;
     var curK = h.key;
@@ -369,6 +441,7 @@ class Notation {
         curK = sk;
         ki = keyInfo(sk, h.oct);
       }
+      final tn = tonicPc(sk);
       final mus = <String>[];
       final lyr = sec.rows.map((_) => <String>[]).toList();
       for (final line in sec.lines) {
@@ -376,8 +449,18 @@ class Notation {
           for (final beat in bar.beats) {
             final tri = beat.els.length == 3 && beat.els.every((it) => (it.dur * 3 - 1).abs() < 1e-6);
             final chunk = StringBuffer(tri ? '(3' : '');
+            final Chord? bc = beat.chord;
+            var chq = (chords && bc != null) ? '"${chordName(bc, tn)}"' : '';
+            if (chq.isNotEmpty && !beat.els.any((x) => !x.hold)) {
+              chunk.write('${chq}y');
+              chq = '';
+            }
             for (final e in beat.els) {
               if (e.hold) continue;
+              if (chq.isNotEmpty) {
+                chunk.write(chq);
+                chq = '';
+              }
               if (e.breath) chunk.write('!breath!');
               if (e.slurStart) chunk.write('(');
               chunk.write(e.rest ? 'z' : _abcOf(e, ki));
@@ -417,8 +500,9 @@ class Notation {
 
   /// Urutan pemutaran: satu putaran per ayat, dimulai dari [fromVerse];
   /// bila [all] maka lanjut ke ayat berikut yang liriknya sudah terpasang.
-  static List<Tone> sequence(Hymn h, int fromVerse, bool all) {
+  static List<Tone> sequence(Hymn h, int fromVerse, bool all, {bool chords = false}) {
     final one = <_Item>[];
+    final hits = <El, List<ChordHit>>{};
     var gi = 0;
     for (final s in h.sections) {
       List<Line> lines;
@@ -435,6 +519,27 @@ class Notation {
       final reps = s.notes.contains(':|') ? 2 : 1;
       final uu = unitOf(s.meter ?? h.meter);
       final kk = keyInfo(s.key ?? h.key, h.oct);
+      final ch = s.chords;
+      if (chords && ch != null && ch.length == _beatsOf(lines).length && notes.isNotEmpty) {
+        // akor pada ketukan b dibunyikan selama not yang sedang berbunyi
+        final st = <double>[];
+        var pos = 0.0;
+        for (final e in notes) {
+          st.add(pos);
+          pos += e.dur;
+        }
+        final tn = tonicPc(s.key ?? h.key);
+        for (var b = 0; b < ch.length; b++) {
+          final t = ch[b];
+          final c = t == null ? null : Chord.parse(t);
+          if (c == null) continue;
+          var j = 0;
+          while (j + 1 < st.length && st[j + 1] <= b + 1e-9) {
+            j++;
+          }
+          (hits[notes[j]] ??= <ChordHit>[]).add(ChordHit((b - st[j]) * uu, _voicing(c, tn)));
+        }
+      }
       for (var r = 0; r < reps; r++) {
         for (final e in notes) {
           one.add(_Item(e, uu, kk));
@@ -453,7 +558,7 @@ class Notation {
     for (final v in list) {
       for (final it in one) {
         final e = it.e;
-        seq.add(Tone(e.rest ? -1 : midiOf(e, it.k), e.dur * it.u, e.si, e.breath, v));
+        seq.add(Tone(e.rest ? -1 : midiOf(e, it.k), e.dur * it.u, e.si, e.breath, v, hits[e] ?? const <ChordHit>[]));
       }
     }
     return seq;

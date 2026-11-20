@@ -141,7 +141,7 @@ fun DetailScreen(hymns: List<Hymn>, start: Int, prefs: Prefs, onBack: () -> Unit
     }
 
     fun startPlay() {
-        val seq = Notation.sequence(cur, verse, prefs.playAllVerses)
+        val seq = Notation.sequence(cur, verse, prefs.playAllVerses, prefs.chordsOn)
         player.bpm = bpm
         player.transpose = transpose
         player.play(seq, object : OrganPlayer.Listener {
@@ -243,6 +243,8 @@ fun DetailScreen(hymns: List<Hymn>, start: Int, prefs: Prefs, onBack: () -> Unit
                     curSi = if (isCur) curSi else -1,
                     scale = prefs.textScale,
                     onVerse = selectVerse,
+                    chords = prefs.chordsOn,
+                    transpose = if (isCur) transpose else 0,
                 )
             }
         }
@@ -322,6 +324,18 @@ fun DetailScreen(hymns: List<Hymn>, start: Int, prefs: Prefs, onBack: () -> Unit
                         )
                     }
                     Switch(checked = prefs.playAllVerses, onCheckedChange = { prefs.setPlayAll(it) })
+                }
+                Spacer(Modifier.height(12.dp))
+                Row(verticalAlignment = Alignment.CenterVertically) {
+                    Column(Modifier.weight(1f)) {
+                        Text("Akor iringan", style = MaterialTheme.typography.bodyLarge)
+                        Text(
+                            "Nama akor di not angka dan not balok, iringan ikut berbunyi",
+                            style = MaterialTheme.typography.bodyMedium,
+                            color = MaterialTheme.colorScheme.onSurfaceVariant,
+                        )
+                    }
+                    Switch(checked = prefs.chordsOn, onCheckedChange = { if (playing) stopPlay(); prefs.useChords(it) })
                 }
                 Spacer(Modifier.height(8.dp))
                 TextButton(onClick = { bpm = clampBpm(cur.tempo ?: 84); transpose = 0; player.bpm = bpm; player.transpose = 0 }) {
@@ -483,8 +497,11 @@ private fun VerseChips(h: Hymn, verse: Int, onVerse: (Int) -> Unit) {
 }
 
 @Composable
-private fun HymnPage(h: Hymn, view: Int, verse: Int, curSi: Int, scale: Float, onVerse: (Int) -> Unit) {
-    val secs = remember(h, verse) { Notation.build(h, verse) }
+private fun HymnPage(
+    h: Hymn, view: Int, verse: Int, curSi: Int, scale: Float, onVerse: (Int) -> Unit,
+    chords: Boolean = false, transpose: Int = 0,
+) {
+    val secs = remember(h, verse, chords) { Notation.build(h, verse, chords) }
     when (view) {
         0 -> LazyColumn(Modifier.fillMaxSize(), contentPadding = PaddingValues(bottom = 24.dp)) {
             item { HymnHeader(h) }
@@ -523,11 +540,15 @@ private fun HymnPage(h: Hymn, view: Int, verse: Int, curSi: Int, scale: Float, o
             Spacer(Modifier.height(4.dp))
             if (view == 1 || view == 3) {
                 ScoreCard("Not angka") {
-                    AngkaView(secs, curSi, scale, h.book == Book.BN)
+                    AngkaView(
+                        secs, curSi, scale, h.book == Book.BN,
+                        // akor ikut nada dasar (transposisi) supaya cocok dengan yang terdengar
+                        chordTonic = if (chords) { sec -> Notation.tonicPc(sec.key ?: h.key) + transpose } else null,
+                    )
                 }
             }
             if (view == 2 || view == 3) {
-                val abc = remember(secs) { Notation.toAbc(h, secs) }
+                val abc = remember(secs, chords) { Notation.toAbc(h, secs, chords) }
                 ScoreCard("Not balok") {
                     StaffView(abc, curSi, scale, Modifier.fillMaxWidth())
                 }

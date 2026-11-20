@@ -26,6 +26,9 @@ class Prefs(ctx: Context) {
         private set
     var playAllVerses by mutableStateOf(sp.getBoolean("allVerses", true))
         private set
+    /** Akor iringan: tampil di not angka/balok dan berbunyi saat diputar. Bawaan: mati. */
+    var chordsOn by mutableStateOf(sp.getBoolean("chords", false))
+        private set
 
     val favorites = mutableStateListOf<String>().apply {
         addAll(sp.getString("fav", "")!!.split('|').filter { it.isNotEmpty() })
@@ -40,6 +43,7 @@ class Prefs(ctx: Context) {
     fun useDefaultView(v: Int) { defaultView = v; sp.edit().putInt("view", v).apply() }
     fun useKeepScreenOn(v: Boolean) { keepScreenOn = v; sp.edit().putBoolean("screenOn", v).apply() }
     fun setPlayAll(v: Boolean) { playAllVerses = v; sp.edit().putBoolean("allVerses", v).apply() }
+    fun useChords(v: Boolean) { chordsOn = v; sp.edit().putBoolean("chords", v).apply() }
 
     fun isFavorite(key: String) = key in favorites
 

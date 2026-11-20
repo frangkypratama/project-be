@@ -138,7 +138,7 @@ class _DetailScreenState extends State<DetailScreen> {
 
   void _startPlay() {
     final List<Tone> seq =
-        Notation.sequence(_cur, _verse, prefs.playAllVerses);
+        Notation.sequence(_cur, _verse, prefs.playAllVerses, chords: prefs.chordsOn);
     unawaited(_player.play(seq, bpm: _bpm, transpose: _transpose));
   }
 
@@ -165,23 +165,23 @@ class _DetailScreenState extends State<DetailScreen> {
   }
 
   List<Sec> _secsFor(Hymn h, int verse) {
-    final String k = '${h.key2}:$verse';
+    final String k = '${h.key2}:$verse:${prefs.chordsOn}';
     final List<Sec>? hit = _secCache[k];
     if (hit != null) return hit;
     if (_secCache.length > 16) {
       _secCache.clear();
       _abcCache.clear();
     }
-    final List<Sec> secs = Notation.build(h, verse);
+    final List<Sec> secs = Notation.build(h, verse, chords: prefs.chordsOn);
     _secCache[k] = secs;
     return secs;
   }
 
   String _abcFor(Hymn h, int verse, List<Sec> secs) {
-    final String k = '${h.key2}:$verse';
+    final String k = '${h.key2}:$verse:${prefs.chordsOn}';
     final String? hit = _abcCache[k];
     if (hit != null) return hit;
-    final String abc = Notation.toAbc(h, secs);
+    final String abc = Notation.toAbc(h, secs, chords: prefs.chordsOn);
     _abcCache[k] = abc;
     return abc;
   }
@@ -421,6 +421,32 @@ class _DetailScreenState extends State<DetailScreen> {
                             Switch(
                               value: prefs.playAllVerses,
                               onChanged: (bool v) => prefs.setPlayAllVerses(v),
+                            ),
+                          ],
+                        ),
+                        const SizedBox(height: 12),
+                        Row(
+                          children: <Widget>[
+                            Expanded(
+                              child: Column(
+                                crossAxisAlignment: CrossAxisAlignment.start,
+                                children: <Widget>[
+                                  Text('Akor iringan', style: t.textTheme.bodyLarge),
+                                  Text(
+                                    'Nama akor di not angka dan not balok, iringan ikut berbunyi',
+                                    style: t.textTheme.bodyMedium?.copyWith(
+                                      color: t.colorScheme.onSurfaceVariant,
+                                    ),
+                                  ),
+                                ],
+                              ),
+                            ),
+                            Switch(
+                              value: prefs.chordsOn,
+                              onChanged: (bool v) {
+                                if (_active) unawaited(_player.stop());
+                                prefs.setChordsOn(v);
+                              },
                             ),
                           ],
                         ),
@@ -707,6 +733,11 @@ class _DetailScreenState extends State<DetailScreen> {
                 curSi: curSi,
                 scale: scale,
                 bn: h.book == Book.bn,
+                // akor ikut nada dasar (transposisi) supaya cocok dengan yang terdengar
+                chordTonic: prefs.chordsOn
+                    ? (Sec sec) =>
+                        Notation.tonicPc(sec.key ?? h.key) + (h.key2 == _cur.key2 ? _transpose : 0)
+                    : null,
               ),
             ),
           if (_view == 2 || _view == 3)

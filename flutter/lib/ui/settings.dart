@@ -6,7 +6,7 @@ import 'package:hkbp/data/prefs.dart';
 import 'package:hkbp/ui/detail.dart';
 
 /// Versi aplikasi (samakan dengan `version:` di pubspec.yaml; tanpa paket package_info).
-const String _kVersion = '3.0.0';
+const String _kVersion = '3.1.0';
 
 /// Layar Pengaturan — port Settings.kt.
 class SettingsScreen extends StatelessWidget {
@@ -93,6 +93,14 @@ class SettingsScreen extends StatelessWidget {
                     'Setelah satu ayat selesai, lanjut ke ayat berikutnya'),
                 value: prefs.playAllVerses,
                 onChanged: prefs.setPlayAllVerses,
+              ),
+              SwitchListTile(
+                secondary: const Icon(Icons.piano),
+                title: const Text('Akor iringan'),
+                subtitle: const Text(
+                    'Tampilkan nama akor di not angka dan not balok, dan bunyikan iringannya saat diputar'),
+                value: prefs.chordsOn,
+                onChanged: prefs.setChordsOn,
               ),
               SwitchListTile(
                 secondary: const Icon(Icons.light_mode),

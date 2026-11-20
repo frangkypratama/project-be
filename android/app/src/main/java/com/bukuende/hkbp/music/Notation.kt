@@ -31,7 +31,28 @@ class El(val raw: Char, var dur: Double, val slurStart: Boolean, val slurEnd: Bo
     var si = -1
 }
 
-class Beat { val els = mutableListOf<El>(); var breath = false; var exp = false }
+class Beat { val els = mutableListOf<El>(); var breath = false; var exp = false; var chord: Chord? = null }
+
+/** Akor iringan: akar dalam semitone dari Do, kualitas "", "m", "7", "m7", "dim". */
+class Chord(val root: Int, val q: String) {
+    val intervals: IntArray get() = when (q) {
+        "m" -> intArrayOf(0, 3, 7)
+        "7" -> intArrayOf(0, 4, 7, 10)
+        "m7" -> intArrayOf(0, 3, 7, 10)
+        "dim" -> intArrayOf(0, 3, 6)
+        else -> intArrayOf(0, 4, 7)
+    }
+
+    companion object {
+        fun parse(t: String): Chord? = try {
+            val i = t.indexOf(':')
+            if (i < 0) Chord(t.toInt(), "") else Chord(t.substring(0, i).toInt(), t.substring(i + 1))
+        } catch (e: Exception) { null }
+    }
+}
+
+/** Akor yang mulai di tengah sebuah not: [offBeats] (satuan ketukan seperti Tone.beats) sejak not mulai. */
+class ChordHit(val offBeats: Double, val midis: IntArray)
 class Bar { val beats = mutableListOf<Beat>(); var end: String? = null }
 class Line { val items = mutableListOf<Bar>() }
 
@@ -168,15 +189,47 @@ object Notation {
     }
 
     /** Bagian-bagian lagu dengan lirik ayat ke-[verse] terpasang pada not. */
-    fun build(h: Hymn, verse: Int): List<Sec> {
+    fun build(h: Hymn, verse: Int, chords: Boolean = false): List<Sec> {
         var gi = 0
         return h.sections.mapIndexed { si, s ->
             val lines = try { parseNotes(s.notes) } catch (e: Exception) { emptyList() }
             val rows = h.rowsFor(verse, si)
             assignLyrics(lines, rows)
+            if (chords) attachChords(lines, s.chords)
             noteEls(lines).forEach { it.si = gi++ }
             Sec(lines, rows, s.notes, s.meter, s.key)
         }
+    }
+
+    private fun beatsOf(lines: List<Line>): List<Beat> =
+        lines.flatMap { l -> l.items.flatMap { it.beats } }
+
+    /** Pasang akor ke ketukan; diabaikan bila jumlah ketukan tidak cocok. */
+    private fun attachChords(lines: List<Line>, chords: List<String?>?) {
+        if (chords == null) return
+        val beats = beatsOf(lines)
+        if (beats.size != chords.size) return
+        beats.forEachIndexed { i, b -> b.chord = chords[i]?.let { Chord.parse(it) } }
+    }
+
+    private val SHARP = arrayOf("C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B")
+    private val FLAT = arrayOf("C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B")
+
+    /** Nada Do (0..11) sebuah bagian lagu, untuk menamai akor. */
+    fun tonicPc(key: String?): Int = Math.floorMod(keyInfo(key, 0).tonic, 12)
+
+    /** Nama akor, mis. "F#m", "Bb", "A7"; ejaan kres/mol mengikuti nada dasar. */
+    fun chordName(c: Chord, tonic: Int): String {
+        val t = Math.floorMod(tonic, 12)
+        val names = if (t in intArrayOf(1, 3, 5, 6, 8, 10)) FLAT else SHARP
+        return names[Math.floorMod(t + c.root, 12)] + c.q
+    }
+
+    /** Suara iringan: bas (C2..B2) + trinada rapat (E3..D#4). */
+    private fun voicing(c: Chord, tonic: Int): IntArray {
+        val r = Math.floorMod(tonic + c.root, 12)
+        val up = c.intervals.map { 52 + Math.floorMod((r + it) % 12 - 4, 12) }
+        return (listOf(36 + r) + up).toIntArray()
     }
 
     fun unitOf(meter: String?): Double {
@@ -189,7 +242,7 @@ object Notation {
         return if (e == 1) "" else e.toString()
     }
 
-    fun toAbc(h: Hymn, secs: List<Sec>): String {
+    fun toAbc(h: Hymn, secs: List<Sec>, chords: Boolean = false): String {
         var ki = keyInfo(h.key, h.oct)
         var curM = secs.firstOrNull()?.meter ?: h.meter
         var curK = h.key
@@ -201,14 +254,19 @@ object Notation {
             if (sm != curM) { pre = "[M:$sm] "; curM = sm }
             val sk = sec.key ?: h.key
             if (sk != curK) { pre += "[K:$sk] "; curK = sk; ki = keyInfo(sk, h.oct) }
+            val tn = tonicPc(sk)
             val mus = mutableListOf<String>()
             val lyr = sec.rows.map { mutableListOf<String>() }
             for (line in sec.lines) for (bar in line.items) {
                 for (beat in bar.beats) {
                     val tri = beat.els.size == 3 && beat.els.all { abs(it.dur * 3 - 1) < 1e-6 }
                     val chunk = StringBuilder(if (tri) "(3" else "")
+                    val bc = beat.chord
+                    var chq = if (chords && bc != null) "\"" + chordName(bc, tn) + "\"" else ""
+                    if (chq.isNotEmpty() && beat.els.none { !it.hold }) { chunk.append(chq).append("y"); chq = "" }
                     for (e in beat.els) {
                         if (e.hold) continue
+                        if (chq.isNotEmpty()) { chunk.append(chq); chq = "" }
                         if (e.breath) chunk.append("!breath!")
                         if (e.slurStart) chunk.append("(")
                         chunk.append(if (e.rest) "z" else abcOf(e, ki))
@@ -241,14 +299,18 @@ object Notation {
     }
 
     /** Satu bunyi (atau diam) dalam urutan pemutaran. */
-    class Tone(val midi: Int, val beats: Double, val si: Int, val breath: Boolean, val verse: Int)
+    class Tone(
+        val midi: Int, val beats: Double, val si: Int, val breath: Boolean, val verse: Int,
+        val chordAt: List<ChordHit> = emptyList(),
+    )
 
     /**
      * Urutan pemutaran: satu putaran per ayat, dimulai dari [fromVerse];
      * bila [all] maka lanjut ke ayat berikut yang liriknya sudah terpasang.
      */
-    fun sequence(h: Hymn, fromVerse: Int, all: Boolean): List<Tone> {
+    fun sequence(h: Hymn, fromVerse: Int, all: Boolean, chords: Boolean = false): List<Tone> {
         val one = mutableListOf<Pair<El, Pair<Double, KeyInfo>>>()
+        val hits = HashMap<El, List<ChordHit>>()
         var gi = 0
         for (s in h.sections) {
             val lines = try { parseNotes(s.notes) } catch (e: Exception) { emptyList() }
@@ -258,13 +320,29 @@ object Notation {
             val reps = if (s.notes.contains(":|")) 2 else 1
             val uu = unitOf(s.meter ?: h.meter)
             val kk = keyInfo(s.key ?: h.key, h.oct)
+            val ch = s.chords
+            if (chords && ch != null && ch.size == beatsOf(lines).size && notes.isNotEmpty()) {
+                // akor pada ketukan b dibunyikan selama not yang sedang berbunyi, b - mulai ketukan setelah not itu mulai
+                val st = DoubleArray(notes.size)
+                var pos = 0.0
+                notes.forEachIndexed { i, e -> st[i] = pos; pos += e.dur }
+                val tn = tonicPc(s.key ?: h.key)
+                val per = HashMap<Int, MutableList<ChordHit>>()
+                ch.forEachIndexed { b, t ->
+                    val c = t?.let { Chord.parse(it) } ?: return@forEachIndexed
+                    var j = 0
+                    while (j + 1 < st.size && st[j + 1] <= b + 1e-9) j++
+                    per.getOrPut(j) { mutableListOf() }.add(ChordHit((b - st[j]) * uu, voicing(c, tn)))
+                }
+                per.forEach { (j, l) -> hits[notes[j]] = l }
+            }
             repeat(reps) { notes.forEach { one.add(it to (uu to kk)) } }
         }
         val verses = if (all) h.readyVerses.filter { it >= fromVerse }.ifEmpty { listOf(fromVerse) } else listOf(fromVerse)
         val list = if (verses.first() != fromVerse) listOf(fromVerse) + verses else verses
         val seq = mutableListOf<Tone>()
         for (v in list) for ((e, uk) in one) {
-            seq.add(Tone(if (e.rest) -1 else midiOf(e, uk.second), e.dur * uk.first, e.si, e.breath, v))
+            seq.add(Tone(if (e.rest) -1 else midiOf(e, uk.second), e.dur * uk.first, e.si, e.breath, v, hits[e] ?: emptyList()))
         }
         return seq
     }

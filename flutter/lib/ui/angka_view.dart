@@ -21,12 +21,16 @@ class AngkaView extends StatelessWidget {
   final double scale;
   final bool bn;
 
+  /// null = akor tidak ditampilkan; selain itu Do (0..11) untuk menamai akor bagian tsb.
+  final int Function(Sec)? chordTonic;
+
   const AngkaView({
     super.key,
     required this.secs,
     required this.curSi,
     required this.scale,
     required this.bn,
+    this.chordTonic,
   });
 
   @override
@@ -56,7 +60,14 @@ class AngkaView extends StatelessWidget {
       final List<Widget> bars = <Widget>[];
       for (final Line line in sec.lines) {
         for (final Bar bar in line.items) {
-          bars.add(_BarView(bar: bar, rows: sec.rows.length, st: st));
+          bars.add(_BarView(
+            bar: bar,
+            rows: sec.rows.length,
+            st: st,
+            tonic: chordTonic?.call(sec),
+            scale: scale,
+            chColor: cs.primary,
+          ));
         }
       }
       children.add(Wrap(runSpacing: 16, children: bars));
@@ -148,13 +159,26 @@ class _BarView extends StatelessWidget {
   final Bar bar;
   final int rows;
   final _Style st;
+  final int? tonic;
+  final double scale;
+  final Color chColor;
 
-  const _BarView({required this.bar, required this.rows, required this.st});
+  const _BarView({
+    required this.bar,
+    required this.rows,
+    required this.st,
+    this.tonic,
+    this.scale = 1.0,
+    this.chColor = Colors.blue,
+  });
 
   @override
   Widget build(BuildContext context) {
     final List<Widget> items = <Widget>[];
+    final int? tn = tonic;
+    final double chH = tn != null ? 18 * scale : 0;
     for (final Beat beat in bar.beats) {
+      final int start = items.length;
       if (beat.exp) {
         // durasi eksplisit (BN): garis atas per not
         items.add(Row(
@@ -183,9 +207,48 @@ class _BarView extends StatelessWidget {
           ),
         ));
       }
+      if (tn != null) {
+        // nama akor di atas ketukan; lebar 0 agar tidak melebarkan not
+        final Chord? c = beat.chord;
+        final Widget w = items.removeAt(start);
+        items.insert(
+          start,
+          Column(
+            mainAxisSize: MainAxisSize.min,
+            crossAxisAlignment: CrossAxisAlignment.start,
+            children: <Widget>[
+              SizedBox(
+                height: chH,
+                width: 0,
+                child: c == null
+                    ? null
+                    : OverflowBox(
+                        alignment: Alignment.topLeft,
+                        maxWidth: double.infinity,
+                        child: Padding(
+                          padding: const EdgeInsets.only(left: 3),
+                          child: Text(
+                            Notation.chordName(c, tn),
+                            maxLines: 1,
+                            softWrap: false,
+                            style: TextStyle(
+                              color: chColor,
+                              fontWeight: FontWeight.w700,
+                              fontSize: 13.5 * scale,
+                              height: 1.0,
+                            ),
+                          ),
+                        ),
+                      ),
+              ),
+              w,
+            ],
+          ),
+        );
+      }
       if (beat.breath) {
         items.add(Padding(
-          padding: const EdgeInsets.only(top: 10),
+          padding: EdgeInsets.only(top: 10 + chH),
           child: Text(
             '’',
             style: TextStyle(
@@ -201,7 +264,7 @@ class _BarView extends StatelessWidget {
     if (end != null) {
       final double h = st.barH - 12;
       items.add(Padding(
-        padding: const EdgeInsets.only(left: 4, right: 6, top: 12),
+        padding: EdgeInsets.only(left: 4, right: 6, top: 12 + chH),
         child: Row(
           mainAxisSize: MainAxisSize.min,
           crossAxisAlignment: CrossAxisAlignment.center,

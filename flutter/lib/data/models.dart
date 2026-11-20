@@ -60,7 +60,10 @@ class Section {
   final String? meter;
   final String? key;
 
-  const Section(this.notes, this.rows, [this.meter, this.key]);
+  /// Akor iringan per ketukan (relatif terhadap Do bagian ini), null = akor sebelumnya berlanjut.
+  final List<String?>? chords;
+
+  const Section(this.notes, this.rows, [this.meter, this.key, this.chords]);
 }
 
 class Hymn {
@@ -368,6 +371,9 @@ class Library {
           _strings(s['r']),
           _optNonEmpty(s, 'm'),
           _optNonEmpty(s, 'k'),
+          s['ch'] is List
+              ? (s['ch'] as List<dynamic>).map((dynamic x) => x == null ? null : x.toString()).toList()
+              : null,
         ));
       }
 

@@ -54,4 +54,34 @@ class NotationTest {
         val all = Notation.sequence(h, 0, true)
         assertEquals(seq.size * h.readyVerses.size, all.size)
     }
+
+    @Test
+    fun akorTerpasang() {
+        var lagu = 0
+        var bagianBerakor = 0
+        for (b in Book.entries) {
+            val hymns = Library.parse(b, File("src/main/assets/${b.file}").readText())
+            for (h in hymns) {
+                lagu++
+                val secs = Notation.build(h, 0, chords = true)
+                h.sections.forEachIndexed { si, s ->
+                    if (s.chords != null) {
+                        bagianBerakor++
+                        // akor pertama setiap bagian harus ada dan terpasang
+                        val first = secs[si].lines.flatMap { l -> l.items.flatMap { it.beats } }.firstOrNull()?.chord
+                        assertTrue("${b.code}:${h.id} bagian $si tanpa akor awal", first != null)
+                    }
+                }
+                Notation.toAbc(h, secs, chords = true)
+                Notation.sequence(h, 0, true, chords = true)
+            }
+        }
+        assertTrue("akor kurang: $bagianBerakor", bagianBerakor > lagu)
+        // tanpa akor: keluaran tidak berubah (acuan situs diuji di abcSamaDenganSitus)
+        val h = Library.parse(Book.BE, File("src/main/assets/be.json").readText()).first { it.id == "559" }
+        val abc = Notation.toAbc(h, Notation.build(h, 0, chords = true), chords = true)
+        assertTrue(abc.lines()[4], abc.lines()[4].startsWith("\"D\"D4 D4 F4 F4 | \"D\"A8 \"A\"A8 | \"Bm\"(B4"))
+        val seq = Notation.sequence(h, 0, false, chords = true)
+        assertEquals(29, seq.sumOf { it.chordAt.size })
+    }
 }

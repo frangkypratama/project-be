@@ -42,23 +42,40 @@ Future<OrganRender> renderOrgan(List<Tone> seq,
   final List<bool> breaths = List<bool>.filled(count, false);
   final List<int> sis = List<int>.filled(count, -1);
   final List<int> verses = List<int>.filled(count, -1);
+  // akor iringan: per nada, daftar (offset ketukan, nada-nada MIDI) — data polos untuk isolate
+  final List<List<double>> chOff = List<List<double>>.generate(count, (_) => <double>[]);
+  final List<List<List<int>>> chMid = List<List<List<int>>>.generate(count, (_) => <List<int>>[]);
   for (int i = 0; i < count; i++) {
     final Tone t = seq[i];
+    for (final ChordHit c in t.chordAt) {
+      chOff[i].add(c.offBeats);
+      chMid[i].add(List<int>.from(c.midis));
+    }
     midis[i] = t.midi;
     beats[i] = t.beats;
     breaths[i] = t.breath;
     sis[i] = t.si;
     verses[i] = t.verse;
   }
-  return _spawn(midis, beats, breaths, sis, verses, bpm, transpose);
+  return _spawn(midis, beats, breaths, sis, verses, bpm, transpose, chOff, chMid);
 }
 
 // Fungsi terpisah agar closure untuk Isolate.run hanya menangkap data polos.
 Future<OrganRender> _spawn(List<int> midis, List<double> beats,
     List<bool> breaths, List<int> sis, List<int> verses, int bpm,
-    int transpose) {
+    int transpose, List<List<double>> chOff, List<List<List<int>>> chMid) {
   return Isolate.run<OrganRender>(
-      () => _synth(midis, beats, breaths, sis, verses, bpm, transpose));
+      () => _synth(midis, beats, breaths, sis, verses, bpm, transpose, chOff, chMid));
+}
+
+/// Satu suara iringan akor (bas atau nada akor).
+class _Voice {
+  _Voice(this.inc, this.gain);
+  final double inc;
+  final double gain;
+  double ph = 0.0;
+  double env = 0.0;
+  bool rel = false;
 }
 
 Float64List _buildTable() {
@@ -134,7 +151,8 @@ double _tanh(double x) {
 }
 
 OrganRender _synth(List<int> midis, List<double> beats, List<bool> breaths,
-    List<int> sis, List<int> verses, int bpmIn, int transpose) {
+    List<int> sis, List<int> verses, int bpmIn, int transpose,
+    List<List<double>> chOff, List<List<List<int>>> chMid) {
   const int sr = _sr;
   final int bpm = bpmIn <= 0 ? 84 : bpmIn;
   final int count = midis.length;
@@ -186,6 +204,41 @@ OrganRender _synth(List<int> midis, List<double> beats, List<bool> breaths,
   final double lpA = 1 - math.exp(-2 * math.pi * 4200 / sr);
   final double tableSizeD = _tableSize.toDouble();
 
+  // ---- lapisan iringan akor: bas + trinada, lebih lembut dari melodi ----
+  final List<_Voice> voices = <_Voice>[];
+  final double atk = 1.0 / (sr * 0.06);
+  final double rls = 1.0 / (sr * 0.09);
+  void chordStart(List<int> ms) {
+    for (final _Voice v in voices) {
+      v.rel = true;
+    }
+    for (int k = 0; k < ms.length; k++) {
+      final double f = 440.0 * math.pow(2.0, (ms[k] + transpose - 69) / 12.0).toDouble();
+      voices.add(_Voice(f * _tableSize / sr, k == 0 ? .26 : .13));
+    }
+  }
+
+  void chordRender(Float64List b, int from, int to) {
+    if (voices.isEmpty) return;
+    for (int i = from; i < to; i++) {
+      double x = 0.0;
+      for (final _Voice v in voices) {
+        if (v.rel) {
+          v.env -= rls;
+          if (v.env < 0) v.env = 0;
+        } else if (v.env < 1) {
+          v.env += atk;
+          if (v.env > 1) v.env = 1;
+        }
+        x += table[v.ph.toInt() & 4095] * v.gain * v.env;
+        v.ph += v.inc;
+        if (v.ph >= tableSizeD) v.ph -= tableSizeD;
+      }
+      b[i] += x * 0.28;
+    }
+    voices.removeWhere((_Voice v) => v.rel && v.env <= 0);
+  }
+
   for (int idx = 0; idx < count; idx++) {
     final double d = durs[idx];
     final int n = lens[idx];
@@ -235,6 +288,16 @@ OrganRender _synth(List<int> midis, List<double> beats, List<bool> breaths,
     for (int i = 0; i < cl; i++) {
       buf[i] += carry[i];
     }
+    if (chOff[idx].isNotEmpty || voices.isNotEmpty) {
+      int at = 0;
+      for (int c = 0; c < chOff[idx].length; c++) {
+        final int k = (chOff[idx][c] * 60.0 / bpm * sr).round().clamp(0, n).toInt();
+        chordRender(buf, at, k);
+        chordStart(chMid[idx][c]);
+        at = k;
+      }
+      chordRender(buf, at, n);
+    }
     for (int i = 0; i < n; i++) {
       lp += lpA * (buf[i] - lp);
       buf[i] = lp;
@@ -249,6 +312,10 @@ OrganRender _synth(List<int> midis, List<double> beats, List<bool> breaths,
   for (int i = 0; i < tl; i++) {
     tail[i] = carry[i];
   }
+  for (final _Voice v in voices) {
+    v.rel = true;
+  }
+  chordRender(tail, 0, math.min(tailLen, sr ~/ 2));
   starts.add(written / sr);
   outSi.add(-1);
   outVerse.add(-1);

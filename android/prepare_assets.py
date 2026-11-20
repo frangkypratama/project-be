@@ -9,6 +9,9 @@ Hasil di android/app/src/main/assets/:
 """
 import glob, json, os, shutil, sys
 
+sys.path.insert(0, os.path.dirname(os.path.abspath(__file__)))
+import chords  # noqa: E402  penyusun akor iringan
+
 ROOT = os.path.dirname(os.path.dirname(os.path.abspath(__file__)))
 OUT = os.path.join(ROOT, "android", "app", "src", "main", "assets")
 os.makedirs(OUT, exist_ok=True)
@@ -20,7 +23,7 @@ def credits(h):
     c = (h.get("credit") or "").strip()
     return [x.strip() for x in c.split("·") if x.strip()] if c else []
 
-def pack(h):
+def pack(h, code):
     o = {"id": str(h["id"]), "t": h["title"], "k": h.get("key") or "C", "m": h.get("meter") or "4/4"}
     if h.get("oct"): o["o"] = h["oct"]
     if h.get("tempo"): o["tp"] = h["tempo"]
@@ -29,8 +32,15 @@ def pack(h):
     cr = credits(h)
     if cr: o["cr"] = cr
     secs = []
-    for s in h["sections"]:
+    try:
+        chs = chords.chords_for(code, h)
+    except Exception as e:  # lagu tetap dipakai tanpa akor
+        print("akor gagal:", code, h.get("id"), e)
+        chs = [None] * len(h["sections"])
+    for s, ch in zip(h["sections"], chs):
         x = {"n": s["notes"], "r": s["rows"]}
+        if ch:
+            x["ch"] = ch
         if s.get("meter"): x["m"] = s["meter"]
         if s.get("key"): x["k"] = s["key"]
         secs.append(x)
@@ -42,14 +52,14 @@ def pack(h):
         o["vl"] = [(v["r"] if (i and v and v.get("r")) else None) for i, v in enumerate(vl)]
     return o
 
-def book(pattern):
+def book(pattern, code):
     out = []
     for f in sorted(glob.glob(os.path.join(ROOT, pattern))):
-        out.extend(pack(h) for h in json.load(open(f, encoding="utf-8")))
+        out.extend(pack(h, code) for h in json.load(open(f, encoding="utf-8")))
     return out
 
-be = book("site/data/b*.json")
-bn = book("bn/site/data/b*.json")
+be = book("site/data/b*.json", "be")
+bn = book("bn/site/data/b*.json", "bn")
 for name, items in (("be", be), ("bn", bn)):
     with open(os.path.join(OUT, name + ".json"), "w", encoding="utf-8") as f:
         json.dump({"items": items}, f, ensure_ascii=False, separators=(",", ":"))

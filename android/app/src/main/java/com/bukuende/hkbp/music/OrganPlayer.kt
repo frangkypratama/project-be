@@ -131,6 +131,32 @@ class OrganPlayer {
         val rel = (sr * 0.07).toInt()
         val att = (sr * 0.035).toInt()
         var carry = FloatArray(0)
+
+        // ---- lapisan iringan akor: bas + trinada, lebih lembut dari melodi ----
+        class Voice(val inc: Double, val gain: Float) { var ph = 0.0; var env = 0f; var rel = false }
+        val voices = ArrayList<Voice>()
+        val atk = 1f / (sr * 0.06f)
+        val rls = 1f / (sr * 0.09f)
+        fun chordStart(midis: IntArray) {
+            for (v in voices) v.rel = true
+            midis.forEachIndexed { k, m ->
+                val f = 440.0 * 2.0.pow((m + transpose - 69) / 12.0)
+                voices.add(Voice(f * table.size / sr, if (k == 0) .26f else .13f))
+            }
+        }
+        fun chordRender(b: FloatArray, from: Int, to: Int) {
+            if (voices.isEmpty()) return
+            for (i in from until to) {
+                var x = 0f
+                for (v in voices) {
+                    if (v.rel) { v.env -= rls; if (v.env < 0f) v.env = 0f } else if (v.env < 1f) { v.env += atk; if (v.env > 1f) v.env = 1f }
+                    x += table[v.ph.toInt() and 4095] * v.gain * v.env
+                    v.ph += v.inc; if (v.ph >= 4096) v.ph -= 4096
+                }
+                b[i] += x * 0.28f
+            }
+            voices.removeAll { it.rel && it.env <= 0f }
+        }
         var ok = true
         var lp = 0f
         val lpA = (1 - kotlin.math.exp(-2 * PI * 4200 / sr)).toFloat()
@@ -170,6 +196,16 @@ class OrganPlayer {
                 }
             }
             for (i in carry.indices) if (i < buf.size) buf[i] += carry[i]
+            if (e.chordAt.isNotEmpty() || voices.isNotEmpty()) {
+                var at = 0
+                for (hit in e.chordAt) {
+                    val k = (hit.offBeats * 60.0 / bpm * sr).roundToInt().coerceIn(0, n)
+                    chordRender(buf, at, k)
+                    chordStart(hit.midis)
+                    at = k
+                }
+                chordRender(buf, at, n)
+            }
             for (i in 0 until n) { lp += lpA * (buf[i] - lp); buf[i] = lp }
             carry = buf.copyOfRange(n, buf.size)
             if (!out(buf, n)) { ok = false; break }
@@ -179,6 +215,8 @@ class OrganPlayer {
             // ekor gema
             val tail = FloatArray(sr * 2)
             for (i in carry.indices) if (i < tail.size) tail[i] = carry[i]
+            for (v in voices) v.rel = true
+            chordRender(tail, 0, minOf(tail.size, sr / 2))
             synchronized(marks) { marks.add(Mark(written, -1, -1)) }
             out(tail, tail.size)
             val end = written
