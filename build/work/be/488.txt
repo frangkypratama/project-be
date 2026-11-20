@@ -14,7 +14,9 @@
 @check Pembanding lirik: beda di baris 3 (kata 'ni'); scan: 'Bagas ni hamagoan', sesuai buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 488) | https://bukuende.wordpress.com/2013/06/16/nang-na-buni-di-roha-buku-ende-no-488-buku-logu-no-330/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . Am . | G . D . | G . C . | D . . . |
 3 2+.+.+1 6, 2 | 1 . 7, 0 | 1 2+.+.+3 4 3 | 2 . . 0 |
+~ Am . D7 . | G . D . | Am . G . | . . . . |]
 2 3+.+.+4 5 4+4 | 3 . 2 3 | 4 6,+.+.+2 1 7, | 1 . . 0 |]
 > Nang na bu-ni di ro-ha, na so ta-ri-da i su-de di-bu-ri Tu-han _ ku a-la mu-dar-Na i.
 #V

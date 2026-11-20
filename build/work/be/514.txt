@@ -11,14 +11,20 @@
 @check Kepala lagu juga mencetak "Ret. No. 192".
 @check Birama "2 . . 3 . 2" (baris 3) tercetak tanpa garis atas; not balok B 1/2 bertitik, Cis 1/8 bertitik, B 1/16, ditulis 2 . . 3+.+.+2.
 #A
+~ A | . . D . | A . . . |
 3,+.+.+4, | 5, .+5, 6, 5, | 5, (1 1) 1+.+.+2 |
+~ . . E . | A . . :|
 3 .+1 2 2 | 1 . . :|
 > Sai lu-lui do-ngan na ma-go, ha-top sal-pu a-ri-mi,
 > Mu-lak bo-an na ni a-go, so tung sal-pu a-ri-mi,
 #B
+~ A | . . . . | E . A . |
 1+.+.+2 | 3 .+2 3 4 | 5 . . 3+.+.+4 |
+~ . . D . | E . . . | A . D . | E . A . |
 5 .+3 4 3 | 2 . . 3+.+.+2 | 1 .+2 1 6, | 5, . . 1+.+.+2 |
+~ . . E . | A . . . | . . F#m . | E . A . | E . A . |
 3 .+1 2 2 | 1 . . 1+.+.+2 | 3 . . 1+.+.+6, | 5, . . 1+.+.+3 | 5 . . 3+.+.+1 |
+~ E . . . | A . E . | A . . . | . . E . | A . . |]
 2 . . 1+.+.+2 | 3 3 2 1 | 5, . . 1+.+.+2 | 3 .+1 2 2 | 1 . . |]
 > Son-dang ni Tu-han-mu ho, pai-ma nang a-jal-mu ro. So tung lem-ba ro-ha-mi, ha-top sal-pu a-ri-mi. Ha-top ni ting-ki i. ha-top ni ting-ki i. Tung go-dang u-la-on-Mi, Ha-top sal-pu a-ri-mi
 #V

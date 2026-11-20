@@ -13,14 +13,21 @@
 @check Pembanding lirik: baris 8 beda ejaan. Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 739) | https://bukuende.wordpress.com/2013/06/16/lugahon-solumi-buku-ende-no-739-logu-no-739/ | proofreading per baris
 #A
+~ Eb | Bb . Eb . | Bb . Eb . |
 3 | 5 .+#4 5+1' 7+6 | 5 . . 3 |
+~ Bb . Bb7 . | Eb . . . | Bb . Eb . |
 5 .+2 5+2 3+4 | 3 . . 3 | 5 .+#4 5+1' 7+6 |
+~ Bb . Eb . | Bb . Fm . | Bb . Eb |
 5 . . 5 | 7 .+2 6 .+2 | 5 . . |
 > Lu-ga-hon ma lu-ga-hon ma so-lum na gok ga-lum-bang i, ma-mo-lus laut na bi-dang i, san-dok lu-ga-hon ma.
 #B
+~ Eb | . . . . |
 5 | 1' 7 1' 0+5 |
+~ Ab . Eb . | Bb . Bb7 . |
 6+.+.+1' 7+.+.+6 5 0+1' | 7 2 4+.+.+6 5+.+.+4 |
+~ Eb . . . | Cm . Fm . | Bb . . . |
 3 . . 0+5 | 6 . . 2' | (2' . 2') 1' |
+~ . . . . | Eb . . . |]
 7 .+7 7+.+.+5 6+.+.+7 | 1' . 1' 1' |]
 > Lu-ga-hon ma lu-ga-hon so-lu-mi, sal-pu-hon ma ga-lum-bang i, lu-ga-hon ma Tu-han-mu do-ngan-mi lu-ga-hon ma.
 #V

@@ -14,12 +14,16 @@
 @check Birama "6 7 1'.6": not balok empat not 1/4 → titik dianggap pemisah, ditulis "6 7 1' 6".
 @check Birama "6 ’ 4 6": not balok 6 = 1/2 (tanda napas tercetak di tempat titik) → ditulis "6 . v 4 6".
 #A
+~ Eb . F7 . | Bb . F . | Gm . Eb . |
 6 6 5 4 | 3 . 2 . v | 6 7 1' 6 |
+~ F . G . | F7 . Bb . | F . . . :|
 2' . #1' . v | 2' 4' 3' 3' | 2' . . . :|
 > Si-par-ma-han bo-lon, na so o-lo mo-dom, ta-tap ma au on.
 > Ba-sa-Mi, o Tu-han, do ma-nga-ra-mot-hon au sa-da-ri on,
 #B
+~ Eb . Bb7 . | Bb . Eb . | . . . . | F . . . |
 6 6 b7 6 | 5 5 4 . v | 6 7 1' 6 | 2' 1' 7 . |
+~ Gm . Cm . | F7 . Bb . | F . . . |]
 6 . v 4 6 | 5 4 3 . | 2 . . . |]
 > Born-gin pe Ho ma mu-se, na man-ja-ga hu-ma-li-ang A-hu, a-sa so-nang.
 #V

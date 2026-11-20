@@ -14,11 +14,15 @@
 @check Birama akhir dicetak "3 . . :‖" tetapi not balok 1/4 bertitik (melengkapi ketukan gantung bagian ulangan) → ditulis "3 .".
 @check Baris ke-2 tiap ayat diulang (tanda :,: di ayat 2–4 dan tanda ulang ‖: … :‖ di not); lirik ayat ditulis tanpa tanda :,:.
 #A
+~ F . | . . C | F . . |
 0+5, 1+2 | 3 .+4 2+3 | 1 v .+2 3+4 |
+~ . . C7 | F . |
 5 .+6 4+5 | 3 . |
 > O Je-sus, Si-pa-ngo-lu au, tu po-do-man-ku naeng au lao;
 #B
+~ F . | Bb . . |
 0+1 1+1 | 6 .+6 1'+6 |
+~ F . . | Gm . C7 | F . :|
 (5 3)+5 5+5 | 4 .+2 5+4 | 3 . :|
 > Naeng ma-ra-di-an da-ging-ki, Ho ma mang-kin-su pin-tu i.
 #V

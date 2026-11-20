@@ -11,12 +11,17 @@
 @check Pembanding lirik: beda ejaan/kata di baris 1, 2, 4 ("Malaa"), 6, 9; transkripsi mengikuti buku. Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 431) | https://bukuende.wordpress.com/2013/06/05/adong-na-jolo-sada-ina-buku-ende-no-431-buku-logu-no-291/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ D | A . . . . . | D . . Bm . . | Em . . A7 . . |
 5 | 5 . 5 5 . 5 | (5 #4) 5 6 5 3 | 2 . 3 5 . 4 |
+~ D . . . . . | A . . . . . | D . . G . . | A . . . . . |
 (3 . . 3 .) 5 | 5 . 5 5 . 5 | (5 #4) 5 6 5 6 | 2' . 1' 7 . 6 |
+~ D . . . . |
 (5 . . 5 .) |
 > A-dong na jo-lo sa-da i-na na ro tu Je-sus i, Di-ja-ma ram-bu ni u-los-na, tung pin-tor ma-lum i,
 #B
+~ D | . . . A . . | Bm . . D . . | G . . D . . |
 5 | 1' . 1' 7 6 5 | 6 . . 5 . 5 | 6 . 1' 5 . 3 |
+~ A . . . . . | D . . A . . | D . . Em . . | D . . G . . | D . . . . |]
 (2 . . 2 .) 2 | 3 . 3 5 . 5 | 1' . 1' (2' 1') 6 | 5 . 5 6 . 7 | (1' . . 1' .) |]
 > Go-mos ma tang-kup I-ba-na, go-mos ha-po-si i, ma-la-a do-hot ton-di-mi di-ba-hen Je-sus i.
 #V

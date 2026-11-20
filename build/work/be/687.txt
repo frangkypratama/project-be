@@ -10,9 +10,13 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 687) | https://bukuende.wordpress.com/2013/06/18/silangmi-o-tuhan-buku-ende-no-687-buku-logu-no-687/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 @check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 687.
 #A
+~ Eb . . . | Bb7 . Eb . | Ab . . . | Bb . . . |
 1 .+2 3 3 | 4 . 3 . | 1 .+1 4 3 | 2 . . 0 |
+~ Eb . . . | Ab . Eb . | Bb7 . Eb . | Bb . Eb . |
 1 .+2 3 4 | 6 . 5 . | 4 .+4 5 6 | 5 . . 0 |
+~ Bb . . . | Eb . Cm . | Ab . . . | Bb . . . |
 5 .+2 2 2 | 3 . 3 6+7 | 1' . 1' . | 7 . . . |
+~ Eb . . . | Ab . Eb . | Bb7 . Eb . | . . . . |]
 1' .+1' 1' 1' | 1' 6 5 3 | 4 . (3 2) | 1 . . 0 |]
 > Si-lang-Mi O Tu-han par-da-me-an-ki. par-si-gan-tu-ngan-ku ha-ngo-lu-an-ki, som-bu do u-as hu-sa-bam ro-hang-ki mu-dar-Mi O Je-sus ha-so-na-ngan-ki.
 #V

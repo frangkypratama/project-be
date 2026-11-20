@@ -12,6 +12,7 @@
 @check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
 @check Suku kata "a" pada "a - men" ditahan dari 5 ke 4 (tanpa legato tercetak) → ditulis "a _ men".
 #A
+~ Eb . Ab . | Eb . Ab . | Eb . Bb7 . | Eb . . . |]
 5 . 6 . | 5 . 6 . | 5 . 4 . | 3 . . . |]
 > A-men, a-men, a _ men.
 #V

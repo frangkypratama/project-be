@@ -9,7 +9,9 @@
 @check Pembanding lirik: L1 kata 3 beda ejaan ("namandongani"); buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 221) | https://bukuende.wordpress.com/2013/06/18/saleleng-jesuski-buku-ende-no-221-buku-logu-no-5/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab | . . . . | . . . . | Eb7 . Bbm . | Eb . . . |
 5, | 5, 3 3 2 | 1 . . v 5, | 5, 4 4 3 | 2 . . v 2 |
+~ Ab . . . | . . Db . | Ab . . . | . . . |]
 3 5 5 3 | 3 1 1 v 6, | 5, 3 3 2 | 1 . . |]
 > Sa-le-leng Je-sus-ki na-man-do-nga-ni au, ma-po-rus hol-so-hol-song-ki, sai di I-ba-na au
 #V

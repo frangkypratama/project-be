@@ -13,15 +13,23 @@
 @check Ada fermata pada not terakhir refrein (1, "i."); format belum punya tanda fermata.
 @check Lirik refrein tercetak "bon-tang ni Mesias i" (kemungkinan "bintang"); ditulis apa adanya. Komponis tercetak "John H. Hpkins Jr." (ejaan lazim: Hopkins); ditulis apa adanya.
 #A
+~ B7 . . Em . . | B . . Em . . |
 3 . 2 1 . 6, | 7, 1 7, 6, . . |
+~ B7 . . Em . . | B . . Em . . |
 3 . 2 1 . 6, | 7, 1 7, 6, . . |
+~ . . . D . . | G . . . . . |
 1 . 1 2 . 2 | 3 . 3 (5 4) 3 |
+~ B7 . . Em . . | . . . |]
 2 3 2 1 . 7, | 6, . . |]
 > Si-an pur-ba do ha-mi ro man-ja-la-hi Ra-ja naung ro ru-ra do-lok nang na hor-nop hu-bo-lus ha-mi do.
 #B
+~ D . . . . . |
 (7, . . 2 . .) |
+~ G . . . . . | C . . . . . | G . . . . . |
 1 . 1 1 . 5, | 1 . 6, 1 . . | 1 . 1 1 . 5, |
+~ C . . . . . | G . . D . . | Am . . D . . |
 1 . 6, 1 . . | 1 . 1 2 . 3 | 4 . 3 2 . 3 |
+~ G . . . . . | C . . G . . |]
 1 . 1 1 . 5, | 1 . 6, 1 . . |]
 > O. bin-tang na tu-mi-ur i bon-tang ni Me-si-as i, bo-an sai to-gi-hon ha-mi tu pa-non-dang bo-lon i.
 #V

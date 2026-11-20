@@ -15,11 +15,17 @@
 @check "jum-pa-ngan" baris 3: not 1/4 terakhir birama (5) tanpa suku kata tercetak → suku kata "ngan" ditahan (_).
 @check Lirik tercetak "di-sa-ri-hom" (bukan "disarihon") dan "tuk tu-hi" → ditulis apa adanya (tuk-tu-hi).
 #A
+~ F . C7 . | F . C . | F . . . |
 3 .+3 (4+.+.+3 4)+.+.+5 | 5 . 5 . | 5+5 5+5 5+5 .+5 |
+~ C7 . F . | . . C7 . | F . C . |
 5 (4+3+4) 3 0 | 3 .+3 (4+.+.+3 4)+.+.+5 | 5 . 5 0 |
+~ F . . . | C7 . F . |
 5+5 5+5 5+5 5 | 5 (4+3+4) 3 . |
+~ Bb . . . | C . F . | Gm . C7 . |
 6 .+6 4+.+.+4 6+.+.+6 | 5 . 3 . | 2+2 2+3 4+4 .+5 |
+~ F . . . | Bb . . . |
 3 (4+3+4) 5 0 | 6 .+6 4+.+.+4 6+.+.+6 |
+~ C . F . | . . C7 . | F . . . |]
 5 . 3 . | 5+5 5+5 5+4 .+2 | 1 . . . |]
 > Pa-ngi do ha-mu ma, sai na le-ho-non-Na do tu ha-mu, lu-lu-i ha-mu ma, sa-i na jum-pa-ngan _ do ha-mu, sa-i tuk-tu-hi ha-mu ma, sai na ung-ka-pon-Na do di ha-mu, ang-ka pa-ngi-do-an-mu-na di-sa-ri-hom De-ba-ta-mu.
 #V

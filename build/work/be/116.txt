@@ -9,16 +9,21 @@
 @check Pembanding lirik: bukuende.wordpress.com — 17 dari 20 baris sama persis; beda di baris 1, 17 (ejaan) dan 20 (kata lebih). Teks tetap mengikuti buku cetak.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 116) | https://bukuende.wordpress.com/2013/06/13/ditompa-ho-do-au-buku-ende-no-116-buku-logu-no-243/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ D | . . . . | A . D . | G . A . |
 1 | 1 2 3 3 | 2 . 0 5 | 4 3 2 2 |
+~ D . . :|
 1 . 0 :|
 > Di-tom-pa Ho do au, son-da-ngi ro-hang-kon:
 > Tung ba-sa-ba-sa-Mi su-de na di au on.
 #B
+~ D | G . A . | D . . . | G . . . |
 5 | 6 6 7 7 | 1' 5 0 3 | 6 5 4 3 |
+~ A . D :|
 2 2 0 :|
 > Gom-go-mi pa-ma-tang-ku, naeng Ho do o-lo-an-ku,
 > Sai le-hon ma go-gong-ku, lo-moM naeng u-la-on-ku
 #C
+~ D | Bm . Em . | A7 . Bm . | D . A . | D . . |]
 5 | 1 1 2 3 | 4 4 3 v 6 | 5 1 2 2 | 1 . . |]
 > U-ru-pi, ta-tap au tu-tu, Pa-nom-pa na bur-ju.
 #V

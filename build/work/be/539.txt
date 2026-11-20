@@ -12,15 +12,20 @@
 @check Pembanding lirik: bukuende.wordpress.com — 9 dari 10 baris sama; baris 2 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 539) | https://bukuende.wordpress.com/2013/06/18/sai-hutagam-do-tuhanku-buku-ende-no-539-buku-logu-no-371/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ G |
 5,+.+.+5, |
 > Sai hu
 #B
+~ G . D | G . . |
 1 .+7, 2+1 | 1 7, 5,+5, |
+~ Am . D | G . . | C . . |
 4 .+2 5+2 | 3 . 1+.+.+1 | 6 .+5 4+6 |
+~ G . D | G . D7 | G . :|
 5 3 5,+.+.+5, | 3 .+2 4+7, | 1 . :|
 > ta-gam do Tu-han-ku, Sai ma-si-hol ro-hang-ki di ha-ro-ro ni Tu-hang-ku so-ngon na ni-dok-Na i.
 > do-ngan o-lop-o-lop hu-ri-aM ma-na-gam Ho. Ma-ra-na-ta, ro, o Tu-han, A-men, sai ti-bu ma ro!
 #C
+~ G |]
 5,+5, |]
 > Sai mar
 #V

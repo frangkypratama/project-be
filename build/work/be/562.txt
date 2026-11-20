@@ -12,10 +12,13 @@
 @check Pembanding lirik: baris 2 beda ejaan kata 1 ("hamu na" vs "hamuna"); buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 562) | https://bukuende.wordpress.com/2013/06/13/hamuna-ale-jolma-buku-ende-no-562-buku-logu-no-562/ | teks lirik
 #A
+~ Ab | . . Db | Eb . Ab | . . . |
 0+3 | 3 .+3 4+3 | 2 1 0+1 | 1 .+2 3+4 |
 > Ha-mu na a-le jol-ma, sai pu-ji De-ba
 #B
+~ Eb . Ab | . . Db | Eb . Ab |
 2 . 0+3 | 3 .+3 4+3 | 2 1 0+3 |
+~ Eb . Ab | . . |]
 2 .+1 1+7, | 1 . |]
 > ta, ha-mu na a-le jol-ma, sai pu-ji De-ba-ta.
 #V

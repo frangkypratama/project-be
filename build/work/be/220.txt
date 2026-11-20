@@ -13,8 +13,11 @@
 @check Birama 5: not 1/16 "2" dan not 1/8 "2" berikutnya dibuat legato (satu suku kata "na") agar not = suku kata; busur tidak tercetak.
 @check Tanda napas di tengah ketukan (birama 1, 4, 5) tidak dapat ditulis; ketukan gantung 1/8 ditulis 0+5,.
 #A
+~ Ab | . . Eb . | Bbm . Eb . |
 0+5, | 3 3+2 2 1+1 | 4 3+3 2 0+2 |
+~ Ab . Eb7 . | Ab . Bbm . | Eb . Ab . |
 5 5+3 4 3+2 | 1 7,+1 2 .+2 | 2 5+2 3+.+.+(2 2)+5, |
+~ . . Eb . | Ab . Db . | Eb . Ab |]
 5 #4+3 2 0+7, | 1 1+1 1 6+6 | 5 7,+7, 1 |]
 > Ndang jum-pang hi-an ha-to-ra-ngan ni i par-da-gang di da-lan na tu sur-go i, mar-hi-te sang-kap-na ping-ki-ran-na i, aut u-nang Tu-han-ta ha-po-san-ta i
 #V

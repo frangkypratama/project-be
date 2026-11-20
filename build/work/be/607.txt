@@ -12,12 +12,19 @@
 @check Buku memakai tanda ulang |: :| dengan volta 1 ("1 . 1 3", ya. Ga be) dan volta 2 ("1 . . . | 1 ." tersambung legato). Di sini ulangan ditulis lengkap berurutan (bagian ulang → volta 1 → bagian ulang → volta 2) supaya not dan lirik tampil/berbunyi benar; not sama dengan buku.
 @check Lirik di bawah not tercetak "Nunga tubu Kristus, i Haleluya" (koma sebelum "i"); ditulis apa adanya di baris lirik.
 #A
+~ F . |
 1 3 |
+~ . . . . | C . F . | Bb . . . |
 5 .+3 5 6 | 5 . 3 5 | 6 . . . |
+~ C . F . | . . Bb . | C . F . | . . C . |
 5 . 3 5 | 5 .+3 4 3 | 2 . 1 2 | (3 . 2 .) |
+~ F . . . |
 1 . 1 3 |
+~ . . . . | C . F . | Bb . . . |
 5 .+3 5 6 | 5 . 3 5 | 6 . . . |
+~ C . F . | . . Bb . | C . F . | . . C . |
 5 . 3 5 | 5 .+3 4 3 | 2 . 1 2 | (3 . 2 .) |
+~ F . . . | . . |]
 (1 . . . | 1 .) |]
 > Nu-nga tu-bu Kris-tus, i Ha-le-lu-ya, di hu-ta Bet-le-hem i Ha-le-lu-ya. Ga-be da-ging Ha-ta i Ha-le-lu-ya, di mu-la ni na-tal i Ha-le-lu-ya.
 #V

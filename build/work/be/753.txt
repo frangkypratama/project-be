@@ -13,15 +13,23 @@
 @check Pembanding lirik: baris 1 (pembanding tanpa "Jesus"), 3 ("dingoluku" dipisah), 5 (ejaan "panoguonMu"), 12 (pembanding tanpa "do") beda; dicek ulang ke scan hlm 812–813 → buku tetap. Pembanding menyebut Buku Logu No. 753.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 753) | https://bukuende.wordpress.com/2013/06/13/dipardalanan-jesus-di-jolongku-buku-ende-no-753-buku-logu-no-753/ | teks ayat
 #A
+~ Eb . | . . Ab . |
 0+5, 1+3 | 5 .+#4 6+5 1+2 |
+~ Eb . . . | Bb . . . |
 3 3 .+#2 3+4 | 3+2 2 .+#1 2+3 |
+~ Eb . . . | . . Ab . |
 1 . 0+5, 1+3 | 5 .+#4 6+5 1+2 |
+~ Eb . . . | Bb . F . | Bb . Eb . |
 3 3 . 3+3 | 2 .+5 #4+2 3+#4 | 5 . . . |
 > Di-par-da-la-nan Je-sus di jo-long ku Ho-long ni ta-ngan-Mi ma-no-gu au nang di-ngo-lu-ku Ho do som-ba-ong-ku tung so-nang mar-da-lan rap-hon au
 #B
+~ Eb . | . . Ab . |
 0+3 3+2 | 1 .+5 1'+1' 7+6 |
+~ Eb . . . | Bb7 . . . |
 5 3 .+5 5+#4 | 4 .+5 7+6 5+4 |
+~ Eb . . . | Ab . . . |
 3 . 0+1 3+5 | 1' .+6 4+1 4+6 |
+~ . . Eb . | Fm . Bb7 . | Eb . |]
 6 5 .+3 3+#2 | 2 .+3 4+4 3+2 | 1 . |]
 > Hu-bo-to do tang-kas pa-no-gu-on-Mu di-i-ring-i-ring Ho do lang-kang-ki sa-hat ro di u-jung ni par-da-lan-ku to-gu ma au jo-nok tu lam-bung-Mi.
 #V

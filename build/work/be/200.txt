@@ -10,12 +10,16 @@
 @check Pembanding lirik: dibandingkan 14 baris isi (baris "Antong, d.u." dilewati); 3 baris beda ejaan 1 kata; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 200) | https://bukuende.wordpress.com/2013/06/13/di-surgo-do-alealenta-buku-ende-no-200-buku-logu-no-106/ | Pembanding lirik (tanda baca/kapital diabaikan).
 #A
+~ Eb | Bb . Eb | Bb7 . Eb | Bb7 . Eb | Bb . Eb | Ab . Bb |
 1 | 5 . 5 | (5 4) 3 | (5 4) 3 | 2 1 v 5, | (4 3) 2 |
+~ Eb . . | Bb7 . Eb | Bb . :|
 3 . 3 | (5 4) 3 | 2 . :|
 > Di sur-go do a-le-a-len-ta, na bur-ju ro-ha si-tu-tu.
 > Ndang pi-ga di ba-nu-a to-nga do-ngan-ta na tong-tong bur-ju.
 #B
+~ Fm | Bb . . | Eb . . |
 2 | 2 . 2 | 3 . 3 |
+~ Ab . Bb7 | Eb . Bb | Eb . Ab | Eb . Bb7 | Eb . Bb | Eb . |]
 (4 3) 4 | 5 . v 5 | (1' 7) 6 | (5 .+6) (5+4) | 3 . 2 | 1 . |]
 > An-tong ta-baen ma Je-sus i tong-tong a-le-a-len-ta i.
 #V

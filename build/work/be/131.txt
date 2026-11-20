@@ -10,9 +10,13 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 131) | https://bukuende.wordpress.com/2013/06/09/batang-aek-usehononku-buku-ende-no-131-buku-logu-no-87/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check Angka bertanda * (4*, 5*) bertanda pugar di not balok buku; dibaca #4 (A) dan #5 (B).
 #A
+~ Eb . . | . . . | Fm . . | Bb7 . Eb | Ab . . | Eb . Cm |
 (5 1') 1' | (1' 7) 1' | 2' . 4 | 4 . 3 v | (1' 7) 6 | 5 . 6 |
+~ Fm . Bb | Eb . Bb | Eb . G7 | Cm . Fm | Bb . F | Bb . . |
 4 . 5 | 3 . 0 | (3 #4) #5 | 6 . 6 | (2 3) #4 v | 5 . 5 v |
+~ Eb . Bb | . . . | Eb . F | Bb . . | Eb . Bb7 | Eb . . |
 (5 6) 7 | (7 6) 7 | 1' . #4 | 5 . 0 | 5 . 4 | 3 . 3 |
+~ Bb7 . Eb | Ab . Bb | Eb . Cm | Ab . Eb | Ab . Bb | Eb . . |]
 4 . 5 | 6 . 0 | (1' 7) 6 | (6 5) 3 | 4 . 7, | 1 . 0 |]
 > Ba-tang aek u-se-ho-non-ku, Nin-na De-ba-tan-ta i; Ing-kon bor-nok ba-he-non-ku ia-no na ma-hi-ang i. Par-hor-si-han sa-su-de ing-kon ga-be por-lak be.
 #V

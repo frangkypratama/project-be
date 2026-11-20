@@ -12,12 +12,17 @@
 @check Baris 2 birama 3: angka akhir tercetak "4*" (#4), tetapi not balok bertanda ♮ (F) seperti baris 1 → ditulis sesuai angka (#4); perlu dicek.
 @check Refrein: angka "5 . . 5 0", "7 . . . 7 0" dan "1̇ . 1̇ 0" tidak genap 6/8; ditulis mengikuti not balok (1/4 bertitik + 1/4 + 1/8 diam). Birama "7 . . 7 . 0" tanpa legato di buku → suku "i" ditahan (tanda _).
 #A
+~ C . . . . . | G . . C . . |
 5 5 5 5 3 4 | 5 6 7 1' . . |
+~ F . . G . . | D . . G . . | C . . . . . |
 1' 7 6 7 . . | 6 5 #4 5 . . | 5 5 5 5 3 #4 |
+~ G . . C . . | G . . Dm . . | G . . C . . |
 5 6 7 1' . . | 7 6 7 2' 1' 6 | (5 . . 5 .) 0 |
 > Je-sus man-jou ho, par-do-sa sai ro tu Je-sus-mi na ba-sa i. Be-ge pan-jou-Na, so tung to-gang ho, to-mu si-pa-lu-a i.
 #B
+~ C . . F . . | G . . . . . | . . . . . . | C . . . . . | . . . . . . |
 (1' . . 1') 7 6 | 7 . . 7 . 0 | (2' . . 2') 1' 7 | (1' . . 1' .) 0 | (3' . . 3') 2' 1' |
+~ F . . . . . | G . . . . . | C . . . . . |]
 (1' . . 1') 7 6 | 5 .+5 5 5 6 7 | (1' . . 1' . .) |]
 > Be-ge ma i, _ Be-ge ma i, Je-sus ma-no-bus ho, sae do su-de do-sa-mi.
 #V

@@ -13,13 +13,19 @@
 @check Refrein di awal (sampai "Fine"), bait di bagian B lalu D.C. al Fine (kembali ke refrein).
 @check Angka "5" pertama di refrein tercetak tanpa titik bawah, di baris ke-3 bertitik; not balok keduanya Es4 → ditulis 5,.
 #A
+~ Ab . Fm . | Eb . Ab . |
 3 . 3+.+.+2 1+.+.+6, | 5, . 1 . |
+~ Eb . Ab . | . . . . |
 2+2 .+2 1 2 | (3+.+.+2) 3 2+1 . |
+~ . . Fm . | Eb . Ab . |
 3 . 3+.+.+2 1+.+.+6, | 5, . 1 1 |
+~ . . Eb . | Ab . . |
 3+3 . (2+.+.+1) 2 | 1 . . |
 > Ba-ri-ta-hon di do-lok di ru-ra di su-de i-nga-nan, ba-ri-ta-hon di do-lok naung tu-bu Kris-tus i.
 #B
+~ Ab | . . Eb . | Ab . . . | Eb . Ab . | . . . . |
 1 | 3 5 5 6 | 5 3 . 1 | 2 2 1 2 | 3 . . 1 |
+~ . . Eb . | Ab . . . | Eb . Fm . | Ab . Db . |]
 3 5 5 6 | 5 3 . 1 | 2 2 1 6, | (5, . 4 .) |]
 > Ro do su-ru-su-ru-an tu la-dang E-fra-ta man-da-pot-hon par-ma-han tom-pu man-sai to-rang.
 #V

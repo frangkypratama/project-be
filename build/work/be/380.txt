@@ -12,12 +12,17 @@
 @check Birama berganti 4/4 → 3/4 di tengah lagu (#B 3/4), sesuai buku.
 @check Baris terakhir birama 2: angka "1̄ 7̄ 6 2" tercetak tanpa titik bawah, tetapi not balok = E♭4, D4, C4, F4 → ditulis 1+7, 6, 2.
 #A
+~ Eb . . . | Bb7 . Eb . | Bb . . . |
 3 .+3 3+3 0 | 5 4 3 0 | 2 .+2 2+2 0 |
+~ Bb7 . . . |]
 4 3 2 0 |]
 > So ma jo-lo i-se i na ma-nuk-tuk pin-tu i?
 #B 3/4
+~ Eb . Bb | Eb . . |
 1+2 3 2 | 3+4 5 3 |
+~ . . Ab | Bb . . | Eb . Bb |
 1+2 3 4 | 5+6 2 . | 1+2 3 2 |
+~ Eb . . | Ab . Bb | Eb . . |]
 3+4 5 3 | 1+7, 6, 2 | 3+2 1 . |]
 > A-le-a-le na su-mu-rung na mar-ho-long ro-ha i. Ta-ung-ka-pi ma ro-han-ta pa-ma-suk-kon Tu-han i.
 #V

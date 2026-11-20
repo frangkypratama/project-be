@@ -12,14 +12,20 @@
 @check Legato panjang di baris akhir (dari 5 sampai 2) mengikuti busur di buku: suku kata "on" dinyanyikan melisma.
 @check Ayat 2 rusak di scan (beberapa kata tidak terbaca), ditandai […].
 #A
+~ F . Bb . | F . . . | C7 . F . | C . F . | . . Bb . |
 5 . 6 5 | 3 . 5 . | 4 4 3 . v | 2 . 3 4 | 5 . (4 3) |
+~ C . F . :|
 2 . 1 . :|
 > Na lao do bi-ru-bi-ru i, ma-mor-san ang-ka do-sa
 > Ni na-sa ha-jol-ma-on i di ben-get ni ro-ha-na,
 #B
+~ F . C . | Gm . C . | F . . . | . . . . |
 1 . 2 3 | 4 . 2 . | 3 2 1 . v | 1 . 3 4 |
+~ . . Bb . | F . C . | F . C . | F . C7 . | F . Dm . |
 5 . 6 . | 3 #4 5 . v | 3 . 5 6 | 5 3 4 . | 3 . v 6 . |
+~ Gm . C . | F . C7 . | F . Gm . | C7 . F . | Dm . Gm . |
 6 6 2 . | 5 . (4 2) | 3 . 2 . v | 4 . 3 2 | 1 . 2 . |
+~ C . Gm . | C . . . | F . . . | C7 . F . | C . F . |]
 (7, 1) 6, . | 5, . v 5, . | 1 2 3 4 | (5 .+4 3 4 | 2) . 1 . |]
 > Di-por-san do sa-hit-ta i, di-le-hon do di-ri-Na i tu ta-ngan ni pa-mu-nu. Di tao-ni do ha-ber-nit i, ro di na tos ho-sa-Na i, di-dok naeng por-san-on-ku.
 #V

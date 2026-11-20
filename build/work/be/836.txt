@@ -12,13 +12,21 @@
 @check Angka 2 dicoret (= #2) sesuai balok G♯; angka 7 dicoret pada "a-jal", balok menunjukkan E♭5 → ditulis b7 sesuai balok.
 @check Ayat 1 hanya tercetak di bawah not; spasi kata ditulis seperti tercetak ("di si ulu", "ajal hi").
 #A
+~ F . . . | C . F . |
 3 .+3 3+3 #2+3 | 5 5 . . |
+~ Bb . . . | F . . . |
 6 .+6 6+6 6+6 | 5 3 . . |
+~ . . . . | . . . . |
 1 .+1 1+7, 1+2 | 3 3 . 3 |
+~ C . . . | . . . . |
 2 .+2 2+1 7,+1 | 2 . . . |
+~ F . . . | C . F . |
 3 .+3 3+3 #2+3 | 5 5 . . |
+~ Bb . . . | . . . . |
 6 .+6 6+6 5+b7 | 6 . . . |
+~ . . . . | F . . . |
 1' .+1' 1'+1' 7+6 | (5 1') 1 2 |
+~ . . . . | . . . . |]
 3 .+3 3+2 1+2 | 1 . . . |]
 > Nu-nga lo-ja au O Tu-han di si u-lu ba-lang a-ri, naeng tu mi-bu au pa-jum-pang rap do-hot Ho di sur-go i, nu-nga bot ma-ta ni a-ri, Lam jo-nok nang a-jal hi nu-nga lo-ja au O Tu-han ra-de ma baen i-nga-nan-ki.
 #V

@@ -12,15 +12,23 @@
 @check Pembanding lirik: baris 2 (dingolungki) dan 6 (Au) beda ejaan, buku tetap acuan. Baris 10 semula salah baca saya ("buhaposi"); dicek ulang ke scan hlm 833 → "huhaposi", sudah diperbaiki.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 766) | https://bukuende.wordpress.com/2013/06/16/padan-na-uli-buku-ende-no-766-buku-logu-no-766/ | teks ayat
 #A
+~ Ab . . . | . . . . |
 5, 1+2 3 3 | 3+4 2+3 1 5, |
+~ . . . . | Eb7 . Ab . |
 1+2 3+4 5 3 | 4+3 2+1 1 . |
+~ Eb . Ab . | . . . . |
 5, 1+2 3 3 | 3+4 2+3 1 5, |
+~ Db . Ab . | Eb . Ab . |
 6,+7, 1+4 3 1 | 7,+1 2+3 1 . |
 > Pa-dan na u-li "Ho ndang hu-lu-pa-hon". ndang po-la ma-bi-ar au di-ngo-lung-ki, nang pe ho-lom do da-lan si-bo-lu-son, ro do ha-ti-u-ron si-an la-ngit i.
 #B
+~ Ab . Eb7 . | Ab . Db . |
 5 . .+.+.+4 3+2 | (1+2) (3+1) 6, 5, |
+~ Eb7 . . . | Ab . . . |
 5,+7, 7,+2 (2+4) 4 | 5,+1 1+3 (3+5) 5 |
+~ . . Eb7 . | Ab . Eb7 . |
 5 . .+.+.+4 3+2 | (1+2) (3+5) 5 4 |
+~ Ab . . . | Eb . Ab . |]
 1+7, 1+4 3 1 | 7,+1 2+3 1 . |]
 > "Ho tung so hu-ha-lu-pa-hon Au do ma-no-gi-hon Au do ma-ngon-di-hon ho tung so hu-ha-lu-pa-hon, Au do mar-go-goi-hon pos ma ro-ha-mi".
 #V

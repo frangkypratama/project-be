@@ -12,12 +12,16 @@
 @check Birama 3 tercetak "5 . 4 3 3" (5 ketuk); not balok empat not 1/4 → titik dibaca pemisah, ditulis 5 4 3 3.
 @check Ayat 1 disusun dari lirik di bawah not.
 #A
+~ F | . . Dm . | C7 . Dm . | C7 . F . |
 5, | 1 2 3 6 | 5 4 3 v 6 | 5 4 3 3 |
+~ C . F . :|
 2 . 1 . :|
 > Ma-lu-ngun do ro-hang-ki-non di a-ri-Mi, o Tu-han!
 > An-di-gan jum-pang ha-ro-roM ma-no-pot ha-su-du-ngan
 #B
+~ F | Bb . C . | F . . . |
 5 | 6 6 2 v 2 | 5 5 1 v 3 |
+~ C . . . | Dm . F . | Bb . . . | C . F |]
 2 1 7, 7, | 6, . 5, v 5 | 6 5 4 3 | 2 . 1 |]
 > Ni ro-ha-mi, ai a-la nii so-nang do ro-ha-na-mi, Ha-taM hu-i-ngot ha-mi.
 #V

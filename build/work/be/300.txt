@@ -11,8 +11,11 @@
 @check Judul kepala lagu "Tapuji ma Tuhanta", sedangkan baris pertama lirik "Sai hehe ma rohangku" — @title mengikuti kepala lagu.
 @check Baris 1: antara "6̣ . 1" dan "2 . ." tidak ada garis birama (angka & balok, 6 ketuk) → garis birama ditambahkan.
 #A
+~ A | . . E | F#m . D | E . . | A . . | F#m . Bm |
 1 | 1 . 7, | 6, . 1 | 2 . . | 1 . v 1 | 1 . 2 |
+~ E . . | A . . | E . . | A . . | E . A | E . . |
 7, . 2 | 1 . . | 7, . v 7, | 1 . 1 | 2 . 3 | 2 . . |
+~ . . A | E7 . A | E . A | E . . | A . |]
 2 . v 3 | 4 . 3 | 2 . 1 | 2 . . | 1 . |]
 > Sai he-he ma ro-hang-ku Ma-mu-ji De-ba-ta-mu. Na-sai ma-ra-si ro-ha di-na-sa ma-ni-si-a.
 #V

@@ -14,13 +14,18 @@
 @check Ejaan ayat sesuai cetakan: "dtaluhon", "hamataen", "jesusuki", "hasoanganMi" (kemungkinan salah cetak: ditaluhon, hamatean, Jesusku, hasonanganMi).
 @check Ayat 1 disusun dari lirik di bawah not.
 #A
+~ Ab | . . . . | Db . . . |
 5, | 1 5, 5, (1+7,) | 6, 6, 0 4 |
+~ Eb7 . Ab . | . . . :|
 (4+3) 2 1 7, | 1 . 0 :|
 > Sai be-ta-ma ton-ding-ku, tu-mo-pot sur-go i;
 > Sa-le-leng ho di to-ru, ndang so-nang ro-ha-mi.
 #B
+~ Ab | . . . . |
 (1+2) | 3 3 5 3 |
+~ Bbm . Eb . | Bbm . Eb7 . | Eb . Ab . |
 4 2 0 (5,+7,) | 2 2 4 7, | 2 1 0 5, |
+~ Db . . . | Ab . . . | Bbm . Ab . | . . . |]
 6, 1 1 7, | 1 . 0 5, | 6, (4+2) 3 2 | 1 . . |]
 > Di-si par-tu-a-on-mu, di-si do i-nga-nan-mu, di-si ma so-nang ho. I-pe tu sur-go do!
 #V

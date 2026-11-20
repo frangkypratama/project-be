@@ -12,12 +12,16 @@
 @check "nuaeng" pada baris 1 mendapat dua not (nu-aeng) agar jumlah suku kata = jumlah not (17); di buku lirik tercetak "nuaeng" di bawah dua not.
 @check "4*" = Fa naik (not balok: B♮) → #4.
 #A
+~ F . . . | Bb . . . | C . F . |
 0 5 3 5 | 6 5 4 3 | 2 . 1 v 3 |
+~ C . . . | C7 . . . :|
 2 1 2 3 | 4 3 2 . :|
 > Mar-u-jung do nu-aeng sa-ming-gu, a-lai ba-saM ndang so-ngon i,
 > Ai so-ngon na ni-u-se-hon-Mu pa-su-pa-suM tu ro-hang-ki,
 #B
+~ C . . . | F . C . | F . C . |
 0 2 2 2 | 3 5 5 #4 | 5 . 0 5 |
+~ F . Bb . | F . . . |]
 3 1 6 4 | 3 2 1 . |]
 > Laos so-ngon i tu jo-lo on, naeng to-ngos-on-Mu i tong-tong.
 #V

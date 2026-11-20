@@ -12,9 +12,13 @@
 @check Pembanding lirik: beda ejaan L1, L2, L4 (pemenggalan "tudia", "nasadosami") dan L10 kata 5 (buku jelas "Tuhanta").
 @ref Lirik pembanding: bukuende.wordpress.com (BE 388) | https://bukuende.wordpress.com/2013/06/18/so-ma-jolo-jala-pingkir-buku-ende-no-388-buku-logu-no-257/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F | . . . | . . C | Gm . C7 |
 5+.+.+6 | 5 3 3+.+.+4 | 3 1 7,+1 | 2 .+3 4+5 |
+~ F . C | F . . | . . . | . . C |
 3 . 5+.+.+6 | 5 3 3+.+.+4 | 3 1 1+1 | 1+4 3 2 |
+~ F . . | Bb . . | F . . | C . Gm |
 1 . 5+.+.+5 | 6 4 6+.+.+6 | 5 3 5+3 | 2+5 7 6 |
+~ C . . | F . . | . . . | . . C | F . |]
 5 . 5+.+.+6 | 5 3 3+.+.+4 | 3 1 1+1 | 1+4 3 2 | 1 . |]
 > So ma jo-lo, ja-la ping-kir, lao tu-di-a lang-ka-mi? O-tik nai ma ho tar-lom-bang, di-baen ha-tang-kang-on-mu. Mu-lak ma tu Tu-han Je-sus, Si-pa-lu-a ton-di-mi. Ndang di-tu-lak ho, na da-ngol, bo-an na-sa-do-sa-mi!
 #V

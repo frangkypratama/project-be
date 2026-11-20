@@ -11,14 +11,20 @@
 @check Dua birama dicetak "4*.6 5 0" dan "5.4 3 0" (4 ketuk di birama 3/4). Dibaca not 5/3 dan tanda diam masing-masing ½ ketuk agar genap 3 ketuk — mohon dicek.
 @check Birama sebelum tanda ulang dicetak "5 . 0 ." — dibaca 5 (1/2) + diam (1/4).
 #A
+~ F . . | C7 . F | . . . | . . . |
 3 3 3 | 4 . 3 | (3 2) (1+2) | 1 7, 0 |
+~ C . C7 | F . Bb | F . G | C . F :|
 2 5 4 | 3 . 6 | 5 . #4 | 5 . 0 :|
 > Aut na gi-nor-ga tu ro-hang-ku bo-huM di na lao ma-te Ho!
 > Aut na hu-i-ngot, o Tu-han-ku. tong-tong pang-ko-phop-Mi di au!
 #B
+~ C . . |
 2 5 7 |
+~ . . F | Bb . F | G . C | . . F | C7 . F |
 (7 6) 5 | 6 . 5 | (#4 .+6) 5+0 | 2 2 3 | 4 . 3 |
+~ C . F | C . . | F . . | Dm . Gm | C . F |
 2 . (3+2) | 2 . 0 | 3 3 3 | 6 . 2 | 2 . (3+4) |
+~ C7 . F | . . . | C7 . F | C . . | F . . |]
 (5 .+4) 3+0 | 1 2 3 | (4 .+5) 3 | (2 1) 7, | 1 . . |]
 > Ai Ho do pa-lu-a-hon a-hu, do-sang-ku do pi-nor-san-Mi; Di-dao-ni Ho par-sa-hit-on-ku; Mar-tu-a au bi-na-hen ni!
 #V

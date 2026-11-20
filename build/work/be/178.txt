@@ -11,10 +11,15 @@
 @check Nada dasar Bes (2 mol), birama C. "6 . 5" bergaris atas tunggal/ganda = 1/8 bertitik + 1/16. Baris terakhir = ulangan melodi baris 1 dengan lirik baru.
 @check Ayat 2–4 baris 3 hanya tercetak "Mansai las rohanta i muse, d.u." (d.u. = dan seterusnya, seperti ayat 1); ayat 2 baris 3 cetakan pudar.
 #A
+~ Bb . . . | Eb . . . | F . . . |
 5, 6,+.+.+5, 3, 5, | 1 2+.+.+1 6, . | 7, 7,+.+.+1 2 3 |
+~ Bb . F . | Bb . . . | Eb . . . |
 1 7,+.+.+6, 5, . | 5, 6,+.+.+5, 3, 5, | 1 2+.+.+1 6, . |
+~ F . . . | Bb . . . | . . Eb . |
 7, 7,+.+.+1 2 3 | 1 . . 0 | 3 3 4 .+3 |
+~ Cm . . . | F . Bb . | Eb . F . |
 3+2 2+6, 2 . | 2 2 3 .+2 | 2+1 1+6, 5, . |
+~ Bb . . . | Eb . . . | F . . . | Bb . . . |]
 5, 6,+.+.+5, 3, 5, | 1 2+.+.+1 6, . | 7, 7,+.+.+1 2 3 | 1 . . 0 |]
 > Ro ma tu Je-sus, ro ma ti-bu, Be-ge ha-ta-Na, jang-kon bur-ju; Na ro do Je-sus pa-ngo-lu ho, A-sal por-se-a ho. Man-sai las ro-han-ta i mu-se, mo-lo i-as si-an do-sa pe. Sai ro ma hi-ta tu sur-go i, laos so-nang ma di-si.
 #V

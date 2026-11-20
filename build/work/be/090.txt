@@ -11,13 +11,18 @@
 @check Buku memberi legato pada ketukan gantung "3 4", tetapi baris lirik ke-2 ("Ai naung") memakai 2 suku kata → legato tidak dipakai; baris 1 ("Sai ta-") juga 2 suku kata. Akibatnya baris 1 kurang satu suku kata: di bawah not akhir "1" buku hanya mencetak "!" → ditulis "_" (suku kata "on" ditahan).
 @check Judul "Sai marlas ni roha hita", baris pertama lirik "Sai tapuji Debatanta".
 #A
+~ F | . . Bb . | C . F . |
 3+4 | 5 5 4 3 | 2 2 0 3+4 |
+~ . . C . | F . . :|
 5 1 2 2 | 1 . 0 :|
 > Sai ta-pu-ji De-ba-tan-ta, a-le ha-jol-ma-on _
 > Ai naung he-he do Tu-han-ta si-an ha-ma-te-an i
 #B
+~ Gm | C7 . F . |
 2+3 | 4 4 3 3 |
+~ C . F . | Bb . F . | C7 . F . |
 2 . 0 4+5 | 6 6 5 5 | 4 . 0 1+1 |
+~ Bb . C . | . . F . | . . C . | F . . |]
 4 3 2 1 | 2 2 0 3+4 | 5 1 2 .+3 | 1 1 0 |]
 > Di-pa-si-dung Je-sus i u-la-on-na sa-su-de. Pa-tu-pa-hon ha-lu-a-on di sa-lu-hut ha-jol-ma-on.
 #V

@@ -13,7 +13,9 @@
 @check Pembanding lirik: bukuende.wordpress.com — 6 dari 8 baris sama; baris 3, 7 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 536) | https://bukuende.wordpress.com/2013/06/13/ditangihon-tuhan-i-buku-ende-no-536-buku-logu-no-412/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ C . . . | F . G7 . | C . F . | . . . . | G . C . | G . G7 . |
 5 . . #4 | (6 5) (4 3) | 5 . 4 . | 4 . . . | 7 . . 1' | (2' 7) (5 4) |
+~ C . G . | C . G . | C . . . | G . . . | Am . Dm . | G . . . | C . . . | F . G . | C . . . |]
 3 . 5 . | 5 . . . | 1' . . 7 | (2' 1') 7 6 | 6 . 6 . | 2' . . . | 5 . . 5 | 6 . 7 . | 1' . . . |]
 > Di-ta-ngi-hon Tu-han i Ha-ta-ni ta-ngi-ang i, tung na pos do ro-hang-ki _ Pu-ji Tu-han i!
 #V

@@ -11,8 +11,11 @@
 @status Lirik belum ada pembanding
 @check Pembanding lirik: tidak ditemukan di indeks huruf bukuende.wordpress.com maupun pencarian web (2 Nov 2026).
 #A
+~ Eb . . . | Bb . Eb . | Fm . Cm . |
 3 4 5 1' | 7 6 5 3 | 2 4 3 6 |
+~ Eb . F . | Bb . Eb . | Bb . . . | Eb . Bb7 . |
 5 . #4 . | 5 . . . v | 7 1' 2' 7 | 1' 5 4 2 v |
+~ Eb . . . | . . Bb . | Eb . . . |]
 3 4 5 1' | 1' . 7 . | 1' . . . |]
 > Sai hu-ja ha di pus-ta-ha, pa-dan na im-ba-ru i, na tong-tong lam-bok ro-ha-na, na so mar-pa-ngan-si i.
 #V

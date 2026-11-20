@@ -13,12 +13,19 @@
 @check Pembanding lirik: baris 1 (napinapungupunguMi, pemisahan kata) beda.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 657) | https://bukuende.wordpress.com/2013/06/18/uli-na-i-huriami-buku-ende-no-657-buku-logu-no-657/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ Eb . | Bb . . | Eb . Ab |
 0+3 2+3 | 5 .+5 #4+5 | 1' . 6 |
+~ Bb7 . Cm | Eb . Bb | Eb . Bb |
 2+.+.+3 4+7 6+.+.+5 | 5 .+3 2+3 | 5 .+5 #4+5 |
+~ Eb . Bb | . . . | Eb . F | Bb . . |
 1' .+1' 7+6 | 5+.+.+7 7 5 | 1' . #4 | 5 0+2 #1+2 |
+~ Bb7 . Eb | Bb . C | Fm . Eb |
 4 .+4 3+5 | 2 .+2 #1+2 | 6 .+6 5+3 |
+~ Bb . . | Eb . . | Cm . Fm |
 2 0+5, 6,+7, | 1 .+7, 1+2 | 3 .+1 2+3 |
+~ Bb7 . . | Fm . Bb | Eb . Bb | Eb . Ab |
 4 .+3 4+5 | 6 .+6 7+1' | 1' . (7+6) | 5 . 4 |
+~ Cm . Bb | Eb . Cm | Fm . Bb | Eb . |]
 3 .+6 7+1' | 1' . (3+6) | 6 . 5 | 5 .+0 |]
 > U-li na i Hu-ri-a-Mi na-pi-na-pu-ngu-pu-ngu-Mi mar-pu-ngu do su-de-na i ma-mu-ji Ho Tu-han na sa-ngap i, ta-ngiang _ nang en-de-na i na pa-sa-ngap-hon go-ar-Mi, sai to-pot ma Hu-ri-a-Mi na pi-na-pu-ngu-pu-ngu-Mi. Tum-pa-hi ma Hu-ri-a-Mi, tum-pa-hi ma Hu-ri-a-Mi.
 #V

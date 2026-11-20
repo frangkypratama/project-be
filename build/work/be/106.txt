@@ -11,13 +11,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 21 dari 24 baris sama persis; beda di baris 1 (ejaan), 16 dan 24 (kata lebih). Teks tetap mengikuti buku cetak.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 106) | https://bukuende.wordpress.com/2013/06/09/ale-tuhan-amanami-buku-ende-no-106-buku-logu-no-176/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . . . . . | Bb . . C . . | F . . . . . |
 1 . 2 3 . 2 | 1 7, 6, . 5, . v | 1 . 2 3 . 4 |
+~ . . . . . . :|
 3 . 2 . 1 . :|
 > A-le Tu-han, A-ma-na-mi, na mar-ho-long ro-ha i,
 > Su-ru Ton-di-mi tu ha-mi, ang-ka na ti-no-gu-Mi.
 #B
+~ F . . C7 . . | F . . . . . |
 3 . 3 5 . 4 | 3 . 2 . 3 . v |
+~ . . . Dm . . | Gm . . C . . | F . . C7 . . |
 5 . 5 6 . 5 | 4 . 3 . 2 . v | 3 . 5 4 . 3 |
+~ F . . . . . | . . . C7 . . | F . . . . . |]
 1 2 3 . 1 . v | 3 . 3 4 . 3 | 2 1 (1 7,) 1 . |]
 > Pa-im-ba-ru ton-ding-ki, ga-be jo-ro-Mi ma i. Sai o-loi pa-ngi-do-an-ku si-an a-si ni ro-ha-Mu
 #V

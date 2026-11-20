@@ -12,12 +12,19 @@
 @check Pembanding lirik: baris 2 (sa tongkin) dan 8 beda ejaan. Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 735) | https://bukuende.wordpress.com/2013/06/13/hohom-ma-ho-buku-ende-no-735-buku-logu-no-735/ | proofreading per baris
 #A
+~ F . . | C7 . F . | C . F . |
 3 2 3 | 4 . . 3 | 2 3 1 .+2 |
+~ C . F . | Dm . Gm . | C7 . F . | C . F . |
 2 (3 . . | 3) 3 2 3 | 4 . . 3 | 2 3 1 .+2 |
+~ . . . . | . . . . | Dm . . . | F . C . |
 (3 . . . | 3) 5 5 5 | 6 . . 3 | 3 5 5 .+2 |
+~ Gm . . . | C7 . F . | . . . . |
 2 (4 . . | 4) 4 3 2 | 3 . . 1 |
+~ . . C . | F . . . | . . . . | Dm . . . |
 1 2 2 .+3 | (3 . . . | 3) 5 5 5 | 6 . . 3 |
+~ F . C . | Gm . . . | C7 . F . |
 3 5 5 .+2 | 2 (4 . . | 4) 4 3 2 |
+~ . . . . | . . C . | F . . . | . |]
 3 . . 1 | 1 2 2 .+1 | (1 . . . | 1) |]
 > Ho-hom ma ho, ho-hom a-le ton-ding-ku sa tong-kin taon ma pa-rung-ki-lon-mi, tu Tu-han i pa-sa-hat ma hol-so-mu i-lu-i-lum nang do-hot lu-ngun-mi ha-po-si ma hu-a-so ni Tu-han-mu da-ging ton-dim sai ra-mo-tan-Na i.
 #V

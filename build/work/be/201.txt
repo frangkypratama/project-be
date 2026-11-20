@@ -9,13 +9,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 11 dari 12 baris sama; ayat 2 baris 1 kata 2 (ejaan). Transkripsi tetap mengikuti buku; kata yang berbeda belum semuanya dicek ulang ke scan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 201) | https://bukuende.wordpress.com/2013/06/16/na-martungkot-sere-au-buku-ende-no-201-buku-logu-no-168/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ C | . . . | G . C |
 5+5 | 1' 1' 3'+1' | 5 . v 3+5 |
+~ F . G7 | C . :|
 4 (4+3) 4+5 | 3 . :|
 > Na mar-tung-kot se-re au di da-lan-ku tu na dao;
 > Si-an sur-go i do ro, sur-go i di-tu-du do;
 #B
+~ G7 | C . . |
 5+4 | 3 3 3+4 |
+~ . . G7 | C . . | G . . |
 (6+5) 5 v 5+4 | 3 3 3+4 | (6+5) 5 5+5 |
+~ C . . | G . C | F . G7 | C . |]
 1' 1' 3'+1' | 5 . v 3+5 | 4 (4+3) 4+5 | 3 . |]
 > I ma ha-por-se-a-on-ku, na pa-hot-hon par-da-lan-ku, na pa-to-gu lang-kang-ki sa-hat ro di Sur-go i
 #V

@@ -10,8 +10,11 @@
 @check Pembanding lirik: bukuende.wordpress.com — 5 dari 6 baris sama persis; beda ejaan di baris 1 (dahot). Teks tetap mengikuti buku cetak.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 115) | https://bukuende.wordpress.com/2013/06/18/tuhan-debata-buku-ende-no-115-buku-logu-no-59/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab . . | Eb . . | Ab . Eb | Ab . Eb |
 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |
+~ Ab . Eb7 | Ab . Eb | Ab . Eb |
 3+4 5 4 | 3+2 3 2 v | 1+2 3 2 |
+~ Ab . Eb | Ab . . | Eb . . | Ab . Eb | Ab . . |]
 1+7, 1 7, v | 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |]
 > Tu-han De-ba-ta, sai ra-mo-ti ma da-ging da-hot ton-di-na-mi, i do pa-ngi-do-an-na-mi. Sai pa-hi-pas be ha-mi on su-de!
 #V

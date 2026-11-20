@@ -13,9 +13,13 @@
 @check Pembanding lirik: L4 kata 3 & 5, L9 kata 3, L16 kata 4, L21 kata 4 beda ejaan; L8 kata 5 berbeda (buku "ratulis"); buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 279) | https://bukuende.wordpress.com/2013/06/16/pasahat-ma-sudena-buku-ende-no-279-buku-logu-no-160/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb | . . Bb7 . | Eb . Fm . | Bb7 . Eb . |
 5 | 5 .+3 (5+4) (3+2) | (1 3) 2 v 6 | 5 (6+4) 3 2 |
+~ . . Bb . | Eb . Bb7 . | Eb . Fm . | Bb . Eb . |
 3 . 0 5 | 5 .+3 (5+4) (3+2) | (1 3) 2 v 1' | 7 (1'+6) 5 #4 |
+~ Bb . Eb . | Bb7 . Eb . | Bb7 . . . | Eb . . . |
 5 . 0 5 | 5 .+4 3 5 | (5+4) 4 0 4 | 3 .+5 (1'+5) (4+3) |
+~ Bb . Eb . | . . . . | Ab . Bb7 . | Eb . . . | . . . |]
 2 . 0 1 | 1 .+3 3 .+5 | (5+6) 6 0 (5+4) | 3 (4+2) 1 7, | 1 . 0 |]
 > Pa-sa-hat ma su-de-na, na hi-nol-so-hon-mi, tu De-ba-ta Ja-ho-wa, par-deng-gan ba-sa i, Ai gu-ru di I-ba-na do ta-no do-hot laut; Lan pe di-ta-hi jol-ma ro-ha-na do na saut
 #V

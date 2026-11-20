@@ -14,18 +14,28 @@
 @check Pembanding lirik: 10 baris beda ejaan/pemisahan kata (namamilit, Tuhantai, Tasolsolli, pinilit, mangasahon, manjolo, dll.). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 727) | https://bukuende.wordpress.com/2013/06/13/hupillit-asa-marparbue-buku-ende-no-727-buku-logu-no-727/ | proofreading per baris
 #A
+~ C | . . . . | G . . . |
 3+2 | 1 1 1+2 3+4 | 5 5 0 1'+7 |
+~ C . G7 . | C . G . | C . . . |
 1' 5 5+6 5+4 | 3 . 0 1'+2' | 3' 3' 3'+3' 3'+2' |
+~ F . . . | C . G7 . |
 2'+1' 1' 0 1'+6 | 5 5+5 5+6 5+4 |
+~ C . G7 . | Dm . G . |
 3 . 0 4+5 | 6+6 6+6 7+7 1'+2' |
+~ C . F . | G . . . | C . . :|
 3' 1' . 1'+6 | 5 5+5 5+5 6+7 | 1' . 0 :|
 > So-ngon on di dok Tu-han-ta Je-sus: A-hu do na-ma mi-lit ha-mu a-sa lao ha-mu-na mar-par-bu _ e ja-la mi-an par-bu-e-mu-na i, Hu-pa-di-ri a-sa la-o mar-par-bu-e; ja-la mi-an par-bu-e-mu-na i,
 > Hi-ta na pi-ni-lit ni Tu-han-ta, i-ngot ma ha-ta ni Tu-han i par-bu-e-hon-ma na-sa na deng _ gan, na hom-bar tu pa-tik ni Tu-han i, na tar-jou do hi-ta pa-im-ba-ru di-ri, di-ba-ga-san Kris-tus Tu-han-ta-i.
 #B
+~ C | . . G7 . | C . G . |
 5+5 | 5 5 5+6 5+4 | 4+.+.+3 3 0 5+5 |
+~ C . G . | C . G7 . | Dm . G . |
 5 5 . 7+6 | 5+.+.+4 3 0 4+5 | 6 6 7+7 1'+2' |
+~ C . . . | . . G . | C . G . |
 (3' 2') 1' 1'+2' | 3' 3' 0 3'+2' | 2'+.+.+1' 1' 0 1'+2' |
+~ C . G . | C . G . |
 3' 3' 0 3'+2' | 2'+.+.+1' 1' 0 7+6 |
+~ C . G . | C . . . | . . . . | . . . . |]
 5+5 5+5 2' 1'+7 | 1' . . 0 | 1' . . . | 1' . . . |]
 > Ta-sol-sol-li ma na-sa do-san _ ta ta-pa-u-ba ma ro-han _ ta, ta-pe-le-hon ma na-sa di-rin-ta, baen pe-le-an na ma-ngo _ lu na ba-di-a di Tu-han _ ta na hi-na-lo-mo-hon ni De-ba-ta A-men.
 #V

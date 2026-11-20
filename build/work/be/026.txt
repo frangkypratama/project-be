@@ -12,13 +12,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 10 dari 12 baris sama persis; 2 baris beda (“lehononmu”, “parararthon”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 26) | https://bukuende.wordpress.com/2013/06/13/dame-nimmu-ale-jesus-buku-ende-no-26-buku-logu-no-180/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . . . | C . D . | G . . . |
 1 2 3 5 | 4 3 2 2 v | 3 2 1 2 |
+~ . . . . :|
 1 7, 1 . :|
 > Da-me nim-Mu, a-le Je-sus, le-ho-nonmu di na-po-soM.
 > Ton-di-Mi do na pa-tu-lus ha-ta-Mi tu na-po-soM.
 #B
+~ D . . . | G . C . |
 7, 1 2 2 | 1 7, 6, 6, |
+~ D . . . | Am . D . | G . . . |
 7, 1 2 3 | 4 3 2 . v | 1 2 3 5 |
+~ C . D . | G . . . | . . . . |]
 4 3 2 2 v | 3 2 1 2 | 1 7, 1 . |]
 > Da-ngol ha-mi ja-la po-gos, ndang tau baen par-ha-la-doM; Ton-di par-ba-di-a to-ngos, mar-go-goi-hon ha-mi on.
 #V

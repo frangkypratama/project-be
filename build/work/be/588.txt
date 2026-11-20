@@ -13,10 +13,15 @@
 @check Ayat 2 tercetak "huasoNa 1," (angka 1, kemungkinan salah cetak "i") — ditulis apa adanya.
 @check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
 #A
+~ G | . . D | G . . | D7 . G |
 5, | 1 1 2 | 3 . 1 | 4 4 3 |
+~ D . . | G . D | G . D7 | G . D |
 2 . 5, | 1 1 2 | 3 . 4 | (5+.+.+4) 3 2 |
+~ G . D | G . C | D . G | D . G |
 1 . 5, | 5, 5, 6, | 7, 7, 1 | 2 2 3 |
+~ C . D | G . D | G . D7 |
 4 . 5, | 1 1 2 | 3 3 4 |
+~ G . D | G . |]
 (5+.+.+4) 3 2 | 1 . |]
 > Ta som-ba tong-tong na sun go-go i, ta-dok ma an-tong song-kal Tu-han i par-ta-no-ba-to-an Ha-po-ru-san i gok ha-mu-li-a-on ha-bang-sa-Na i
 #V

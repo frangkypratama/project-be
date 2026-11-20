@@ -12,9 +12,13 @@
 @check Pembanding lirik: bukuende.wordpress.com — baris 3 (si ulaonki) dan 4 (ma) beda kata; scan: buku mencetak "si u-la-on-ki" dan "ma au". Buku tetap acuan. (Pembanding menulis "Buku Logu No. 701"; buku sendiri tidak mencetak nomor Logu.)
 @ref Lirik pembanding: bukuende.wordpress.com (BE 701) | https://bukuende.wordpress.com/2013/06/18/tu-ho-do-au-marpadan-buku-ende-no-701-buku-logu-no-701/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ F | . . C . | F . C . | C7 . F . |
 3 | 3 .+3 2 1 | 1 . 7, 5, | 4 .+4 3 2 |
+~ . . . . | . . C7 . | F . Bb . | C . . . |
 3 . . 3 | 5 .+5 4 3 | 3 . 4 3 | 2 .+1 7, 1 |
+~ . . . . | F . C . | F . C . | C7 . F . |
 2 . . #2 | 3 .+3 2 1 | 1 . 7, 5, | 4 .+4 3 2 |
+~ . . . . | Bb . C7 . | F . Bb . | F . Bb . | F . . |]
 3 . . 3 | 6 .+5 4 3 | 5 . 4 6, | 1 .+7, 6, 7, | 1 . . |]
 > Tu Ho do au mar-pa-dan O Je-sus Tu-han-ki, a-sa bur-ju ha-po-san au di a-do-pan-Mi, sai Ho ma man-do-ngan ni au si u-la-on-ki. a-ja-ri par-go-go-i ma au di da-lan-ki.
 #V

@@ -15,10 +15,15 @@
 @check Pembanding lirik: baris 1–4, 8 (masiurupn, salah cetak), 12 beda ejaan/pemisahan kata; baris 1–4 adalah gabungan suku kata di bawah not (penulisan kata oleh transkriptor), dicek ke scan hlm 671–672.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 653) | https://bukuende.wordpress.com/2013/06/16/jubileum-ni-huria-buku-ende-no-653-buku-logu-no-653/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ Bb . F7 . | Bb . . . | Eb . F7 . |
 5 5 5+4 3+4 | 5 5 .+5 4+3 | 4 4 4+5 4+3 |
+~ Cm . . . | F7 . Bb . | Eb . . . |
 4 . . 0 | 4 4 4+3 2+3 | 4 4 .+4 4+4 |
+~ F7 . Cm . | F . . . | Bb . F7 . |
 4 5 6 5 | 5 . . 0 | 5 5+5 5+4 3+4 |
+~ Bb . F . | Bb . F . | Bb . . . | . . . . |
 5 5 .+5 1'+2' | 3' 3' 2' 1' | 1' . . 0 | 1' 1' 1'+7 1'+2' |
+~ . . . . | . . . . | . . . . |]
 3' .+2' 1'+5 1'+3' | 3' 2' 1' 7 | 1' . . 0 |]
 > Na-ta-ma do i-ngo-ton-ta ta-on pa-ra-si-ni ro-ha-an on Ju-bi-le-um par-ni-ngo-tan, di-hi-ta sa-hu-ri-a on Nu-nga _ li-ma pu-lu ta-on naung _ o-jak Hu-ri-a on. Ta-on pa-ro-lo-po-lo-pon do on di na-sa Hu-ri-a on.
 #V

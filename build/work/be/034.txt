@@ -11,13 +11,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 4 dari 4 baris sama persis; semua baris sama.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 34) | https://bukuende.wordpress.com/2013/06/16/jesus-do-haholonganta-buku-ende-no-34-buku-logu-no-222/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ C . | G . C . | F . G . | C . . . | Am . Dm . |
 1 3 | 5 5 5 5 | 6 . 5 . | 0 5 1' 5 | 1' 3' 2' 1' |
+~ G . C . | G . C . | Am . G7 . | C . :|
 2' . 5 . | 0 5 1' 5 | 6 3 4 2 | 1 . :|
 > Je-sus do ha-ho-lo-ngan-ta, ai di-ga-ra-ri do do-san-ta, to-bus-ta do mu-dar-Na i.
 > Da-ging do-hot ton-di-na-mi tu Ho, Je-sus hu le-hon ha-mi, ai so-nang do di ta-ngan-Mi.
 #B
+~ C . | G7 . C . |
 0 5 | 5 4 3 2 |
+~ . . . . | G7 . C . | Am . Dm . | G7 . C . | F . . . |
 1 . . 5 | 5 4 3 2 | 1 . 2 3 | 4 . 3 v 5 | 6 7 1' v 1' |
+~ C . . . | G . C . | Am . G7 . | C . |]
 3' 2' 1' . | 0 5 1' 5 | 6 3 4 2 | 1 . |]
 > Sai ja-lo ha-mi on, ha-mi, hu-ri-a-Mon, A-nak-kon-Mu A-si ro-haM! Deng-gan ba-saM Tum-pak-kon ma tu hu-ri-aM.
 #V

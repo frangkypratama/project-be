@@ -14,12 +14,16 @@
 @check Pembanding lirik: L5 kata 8 tidak ada di buku, L6 kata 5, L10 kata 5–7 tambahan di buku, L11 kata 1, L12 kata 3 beda; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 271) | https://bukuende.wordpress.com/2013/06/09/beta-beta-hita-buku-ende-no-271-buku-logu-no-242/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb . . . | . . F . | Bb . . . | . . . . |
 1 .+1 3 5 | 1' . 5 . v | 1' .+1' 1' 2' | 3' . . 0 |
+~ F . Bb . | F . . . | . . . . | . . Bb . :|
 5 .+5 1' 1' | 7 . . #1' v | 2' .+5 7 6 | 5 . . 0 :|
 > Be-ta, be-ta hi-ta lao tu sur-go i. ai di-si A-man-ta, si-pa-so-nang i.
 > Ndang be na di ta-no si-hi-ri-mon i. na-sa na lao se-go ndang ha-po-san i.
 #B
+~ Eb . . . | Bb . . . | F . Bb . | . . . . |
 6 .+6 6 7 | 1' . 1' . | 2' .+7 1' 2' | 3' . . . v |
+~ . . . . | . . . . | . . F7 . | Bb . F . | Bb . . . |]
 1' 5 1' 2' | 3' . 3' . | 5' . 4' . | 3' . . 2' | 1' . . 0 |]
 > a-la nii sai to-le, u-nang gang-gu be Ta-tap ma jam-bar-mu naung le-leng ra-de.
 #V

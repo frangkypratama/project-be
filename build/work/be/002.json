@@ -16,6 +16,7 @@
  "sections": [
   {
    "notes": "5 | 1' 5 6 6 | 5 .+4 3 1 | 0 2 3 #4 |\n5+6 7+1' 7 6 | 5 . . :|",
+   "chords": "C | . . F . | G7 . C . | G . C . |\nG . . . | . . C :|",
    "rows": [
     "Naeng pu-ji-on-ku Ho, Ja-ho-wa, ai Ho do De-ba-ta na tu-tu i!",
     "Sai su-ru Ton-di Par-ba-di-a tu au, a-sa hu-pu-ji go-ar-Mi."
@@ -23,6 +24,7 @@
   },
   {
    "notes": "5 | 1' 2' 3' 1' |\n4'+3' 2'+1' 2' . | 3' 2'+1' 7 6 | 5 1' 1' 7 | 1' . . |]",
+   "chords": "C | . . . . |\nF . G . | C . G . | C . . . | . . . |]",
    "rows": [
     "Mar-hi-te-hi-te Je-sus, A-nak-Mi, a-sa lo-mo ro-haM di en-deng-ki."
    ]

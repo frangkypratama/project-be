@@ -14,10 +14,15 @@
 @check Melodi kemungkinan ADESTE FIDELES (belum dibandingkan dengan sumber melodi).
 @ref Lirik pembanding: bukuende.wordpress.com (BE 56) | https://bukuende.wordpress.com/2013/06/18/sai-ro-ma-hamuna-buku-ende-no-56-buku-logu-no-139/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ A | . . | E . | A . |
 0+1 | 1 5,+1 | 2 (5,+5,) | 3+2 3+4 |
+~ . . | D . | E . | . . |
 3 2+1 | 1 7,+6, | (7,+1) 2+3 | (7, 6,)+.+.+5, |
+~ A . | . . | D . | E . | . . |
 5, .+0 | 5 4+3 | 4 3 | 2+3 1+2 | (7,+.+.+6,) 5,+1 |
+~ A . | . . | . . | . . |
 1+7, 1+2 | 1 5,+3 | 3+2 3+4 | 3 2+3 |
+~ D . | E . | A . | . . |]
 4+3 2+1 | 7,+1 2 | (3 2)+.+.+1 | 1 . |]
 > Sai ro ma ha-mu-na ang-ka na por-se-a. Sai ro ma ha-mu-na tu Bet-le-hem. I-da-dak-da-nak, Si-pa-lu-a hi-ta. Ta-som-ba ma I-ba-na. Ta-som-ba ma I-ba-na. Ta-som-ba ma I _ ba-na. Ra-jan-ta.
 #V

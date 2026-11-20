@@ -12,11 +12,14 @@
 @check Pembanding lirik: beda ejaan L1, L3, L4, L6 dan L9 kata 7 (buku jelas "Sai i pargogongki").
 @ref Lirik pembanding: bukuende.wordpress.com (BE 394) | https://bukuende.wordpress.com/2013/06/16/o-jesus-tuhanki-buku-ende-no-394-buku-logu-no-400/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . . . | . . . . | D . G . | . . . . :|
 1 . 1 2 | 3 .+2 1 . | 2 . 1 7, | 1 . . . :|
 > O Je-sus Tu-han-ki, si-hop-hop au!
 > Ma-si-hol au di Ho, naeng Ho di au!
 #B
+~ G . C . | G . C . | . . D7 . | . . G . |
 5 . 6 5 | 5 (4+3) 4 . | 4 . 5 4 | 4 (3+2) 3 . |
+~ C . . . | G . D . | G . D . | G . . . |]
 6 . 4 6 | 5 .+3 5 . | 1 . 2 7, | 1 . . . |]
 > Tan-da do ho-long-Mi, so-nang ma ro-hang-ki ma-ni-op ta-ngan-Mi na lam-bok i.
 #V

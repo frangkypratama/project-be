@@ -10,9 +10,13 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 140) | https://bukuende.wordpress.com/2013/06/13/girgir-ma-hamu-buku-ende-no-140-buku-logu-no-141/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check Birama 8 "2 1 7 6 . 5": not balok menulis 2 sebagai not 1/2 (birama jadi 4 ketuk); mengikuti angka: 2 = 1 ketuk, 1–7 dua not 1/2, 6.5 = 1/4 bertitik + 1/16 (legato).
 #A
+~ Ab | . . Eb | Ab . Eb | Ab . Eb |
 5, | 1 1 2 | 3 . v 5 | 1 2 7, |
+~ Ab . Eb | Ab . . | Eb . Ab | Eb . Bbm |
 1 . v 2 | 3 2 1 | 7, . v 1 | 2 (1+7,) (6,+.+.+5,) |
+~ Eb . . | Ab . . | Db . Eb7 | Ab . . |
 5, . v 7, | 1 2 3 | 1 6, v 4 | 3 2 1 |
+~ Eb . Ab | Db . . | Eb . Ab | Bbm . Eb | Ab . |]
 5 . 5, | 6, 7, 1 | 2 5, v 3 | 6, 2 7, | 1 . |]
 > Gir-gir ma ha-mu ma-no-gu su-de, na hum na be-gu, man-ju-a do-pe di ha-ta ni Je-sus, na sa-ngap tong-tong. Sang-kap-na pa-tu-lus di por-ti-bi on.
 #V

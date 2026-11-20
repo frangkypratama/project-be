@@ -11,10 +11,15 @@
 @check Pembanding lirik: L14 (PangondihonNa), L19 (Sui), L23 (sambulonta) beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 457) | https://bukuende.wordpress.com/2013/06/09/bagas-ni-haholongan-buku-ende-no-457-buku-logu-no-308/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ D | . . . . | G . A . | D . G . |
 3 | 3 4 5 6 | 6 . 5 5 | 1' 7 6 5 |
+~ A7 . D . | . . E . | A . D . | A . Em . |
 4 . 3 2 | 3 3 #4 #4 | 5 . 1' . | 7 7 6 6 |
+~ A . D . | . . A . | Em . . . | A7 . D . |
 5 . 0 3 | 3 3 2 3 | 4 . 4 4 | 4 4 3 4 |
+~ A . D . | G . A . | D . A7 . | D . A . |
 5 . 5 5 | 6 6 7 7 | 1' . 4 . | 3 3 2 2 |
+~ D . . . | G . A . | D . A7 . | D . A . | D . . |]
 5 . 0 5 | 6 6 7 7 | 1' . 4 . | 3 3 2 2 | 1 . 0 |]
 > Ba-gas ni ha-ho-lo-ngan naung sun hi-na-ho-long-kon ni De-ba-tan-ta i tu hi-ta jol-ma i, Na tu-at do A-nak-na tu-mo-pot hi-ta jol-ma. Hu-pu-ji ho-long-Mi, na so man-so-hot i. Hu-pu-ji ho-long-Mi, na so man-so-hot i.
 #V

@@ -13,12 +13,17 @@
 @check Pembanding lirik: baris 8 beda ejaan (natinompa).
 @ref Lirik pembanding: bukuende.wordpress.com (BE 579) | https://bukuende.wordpress.com/2013/06/16/puji-tuhan-haleluya-buku-ende-no-579-buku-logu-no-579/ | teks lirik
 #A
+~ D . . . | G . A . | D . . . | G . A . |
 5 5 5+5 .+5 | 6 6 5 . | 3 3 5+5 .+5 | 6 6 7 . |
+~ D . . . | . . . . | . . A . | D . . |]
 1' 5 3 1 | 2+1 . 1 . | (3 . 2 .) | 1 . . |]
 > Pu-ji Tu-han, Ha-le-lu-ya pu-ji Tu-han Ha-le-lu-ya sa-ngap ma di De-ba-ta A-men.
 #B key=F
+~ F | . . . . | Gm . Bb . | F . C . |
 0+3 | 3 3 3 3 | 2 6, . .+6, | 1 1 7, 7, |
+~ Dm . Bb . | F . . . | Gm . C . |
 6, . . 0+6, | 1 1 3 3 | 4 2 . .+2 |
+~ F . . . | . . . . |]
 3 3 3+3 . | 3 . . . |]
 > Bo-a-sa tu ga-le-na ha-por-se-a-on-mu? Tu-han-ta si-par-mo-nang do pa-ngon-di-an-mu.
 #V

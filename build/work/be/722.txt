@@ -13,11 +13,17 @@
 @check Pembanding lirik: baris 4 beda pemisahan kata ("tangan Mu" tercetak terpisah di bawah not). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 722) | https://bukuende.wordpress.com/2013/06/18/tu-jolomi-tuhanku-buku-ende-no-722-buku-logu-no-722/ | proofreading per baris
 #A
+~ C . F | C . . | . . . | F . . | C . F |
 5 . 6+.+.+5 | 3 . 1 | 1' . . | 6 . . | 5 . 6+.+.+5 |
+~ C . . | G . . | . . . | C . F | C . . | . . . |
 3 . 1 | (2 . . | 2) . 0 | 5 . 6+.+.+5 | 3 . 1 | 1' . . |
+~ F . . | C . . | F . G | C . . | F . . |
 6 . . | 5 3 3+.+.+5 | 4 3 2 | (1 . . | 1) . 1'+.+.+6 |
+~ G . . | . . Am | F . . | C . F | G . . | . . Am |
 7 . . | 7 . 6 | 6 . . | 5 0 1'+.+.+6 | 7 . . | 7 . 6 |
+~ F . . | G . C | . . . | Am . Dm | G . . |
 6 . . | 5 0 1'+.+.+2' | 3' . 3' | 3' . 2' | 2' . . |
+~ C . F | C . F | G . . | C . . | . . . |]
 1' 0 1'+6 | 5 1' 6 | 7 1' 2' | (1' . . | 1') . 0 |]
 > Tu jo-lo-Mi Tu-han-ku hu-bo-an di-ring-kon pa-lu-a ma ton-ding-ku, si-an sa-lu-hut do-sang-kon Je-sus Ho do Tu-han-ku Je-sus Ho do Ra-jang-ku, tu ta-ngan Mu ma O Tu-han hu-pa-sa-hat da-ging ton-ding-kon.
 #V

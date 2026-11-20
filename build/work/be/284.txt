@@ -13,16 +13,21 @@
 @check Birama 4 angka tertulis "2̇ . i*" (3 ketuk) tetapi balok dua not ½ (C, B♮) → ditulis 2' . #1' . (ikut balok).
 @check 7* di bagian akhir: balok bertanda mol (A♭) → ditulis b7; i* = B♮ → #1'.
 #A
+~ Eb . F7 . | Bb . F |
 6 6 5 4 | 3 . 2 v |
 > So-nang do ro-hang-ku
 > Sai hu-ha-deng-gan-hom
 #B
+~ Eb . . . | F . G . |
 6 7 1' 6 | 2' . #1' . |
+~ F7 . Bb . | F . . :|
 2' 4' 3' 3' | 2' . . :|
 > mi-da De-ba-tang-ku, Si-pa-ngo-lu i;
 > na-sa na ni-le-hon Ni De-ba-tang-ki,
 #C
+~ Eb . Bb7 . | Bb . Eb . |
 6 6 b7 6 | 5 5 4 . |
+~ . . . . | F . . . | Gm . Cm . | F7 . Bb . | F . Bb |]
 6 7 1' 6 | 2' 1' 7 . | 6 . v 4 6 | 5 4 3 . | 2 . . |]
 > A-sal lao tu sur-go au, Ja-la Je-sus di lam-bung-ku, Sa-bam ma ro-hang-ku
 #V

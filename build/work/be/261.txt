@@ -12,11 +12,15 @@
 @check Pembanding lirik: semua baris sama.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 261) | https://bukuende.wordpress.com/2013/06/09/bintang-sipartogi-buku-ende-no-261-buku-logu-no-145/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . Bb . | Eb . . . | Bb7 . Eb . | Bb . . . |
 3 .+4 2 7, | 1 . 5, 0 | 4 .+5 3 1 | 2 . . 0 |
+~ Eb . F . | Bb . Eb . | Bb . Cm . | Bb . Eb . |
 3 .+3 #4 #4 | 5 . (3 1) v | 7, .+7, 1 6, | 5, . . 0 |
+~ Bb7 . Eb . | . . Bb . | Fm . Bb7 . | Bb . . . |
 4 .+5 3 1 | 3 . 2 0 | 6 .+5 (5+4) (4+3) | 2 . . 0 |
 > Bin-tang si-par-to-gi, ba-tu ma-mak i, tung-kot si-ti-o-pan Di na lan-dit i; ro-ti ha-ngo-lu-an. mu-al na u-li,
 #B
+~ Eb . . . | Bb . Bb7 . | Eb . . . | . . . . :|
 5 .+5 1' 7 | (7 6) (4 2) | 1 .+1 3 2 | 1 . . 0 :|
 > pan-dang si-tu-ju-on: i ma Je-sus i.
 #V

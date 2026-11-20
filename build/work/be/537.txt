@@ -13,16 +13,25 @@
 @check Pembanding lirik: bukuende.wordpress.com — 10 dari 17 baris sama; baris 3, 4, 8, 9, 12, 17 beda ejaan; baris 5 kata hilang (pengulangan refrein). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 537) | https://bukuende.wordpress.com/2013/06/13/hobas-ho-panabi-buku-ende-no-537-buku-logu-no-369/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ G | D . G . | C . . . |
 5, | 5, 5,+5, 5, 5,+5, | 6, 1 1 (1+6,) |
+~ D . G . | D . . . | G . . . |
 5, 5,+5, 1 (7,+1) | 2 . . (3+2) | 5, 5,+5, 5, 5,+5, |
+~ C . . . | G . D . | G . . . |
 6, 1 1 (1+2) | 3 3+1 2 2+7, | 1 . . 5, |
+~ D . G . | C . . . |
 5, 5,+5, 5, 5,+5, | 6, 1 1 1+6, |
+~ D . G . | D . . . | G . . . |
 5, 5,+5, 1 7,+1 | 2 . . (3+2) | 5, 5,+5, 5, 5,+5, |
+~ C . . . | G . D . | G . . |
 6, 1 1 (1+2) | 3 3+1 2 2+7, | 1 . . |
 > Ho-bas ho pa-na-bi, sa-bi-i ma na tu-bu di ta-no on! Ma-to-ras do e-me, sai to-le ma, go-ti-lon do ma-sa to-ngon. Na ma-sa nu-aeng mu-la-mu-la do, na ju-mor-but do ro ma mu-se. Ta-bo-lus si-tao-non na han-sit i, ma-na-han ma-hi-ta su-de!
 #B
+~ G | . . D7 . | G . . . | Am . . . |
 5+.+.+5 | 5 . . 5+.+.+4 | 3 5, 3 . | 2 .+3 4 .+4 |
+~ D7 . G . | D . G . | D7 . G . |
 4+.+.+4 3+.+.+4 5 3 | 5+.+.+5 5 . . | 5 .+4 3 .+5, |
+~ . . D . | Am . . . | D7 . G . |]
 3 . 2 .+3 | 4 . 4+4 6 | 5 4 3 0 |]
 > Jor-but ni ha-por-su-hon i, ta-han ma, ti-bu ro Tu-han Je-sus! Jor-but ni ha-por-su-hon i, ta-han ma ti-bu ro Je-sus i
 #V

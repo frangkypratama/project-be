@@ -14,14 +14,20 @@
 @check Baris akhir birama "6̄ 7̄ 1̄ 2̄": titik oktaf di atas 1 dan 2 tidak tercetak, tetapi not balok C5, D5 (sama seperti baris 2) → ditulis 1'+2'.
 @check Ayat 1 disusun dari lirik di bawah not; "dokdok" tercetak tanpa pemenggalan (ditulis dok-dok).
 #A
+~ C . | F . | G7 . | . . |
 0+1 3+5 | 1' 1' | 7+6 5+4 | 4 3 v |
+~ C . | F . | G . | C :|
 5 3+5 | 6 .+5 | 6+7 1'+2' | 1' :|
 > Be-ha ma hi-ta, i-a dung mar-u-jung Pa-ra-lo-an-ta di por-ti-bi on
 > Dung na ma-lu-a hi-ta na mang-u-sung Na dok-dok i di a-tas ta-no on
 #B
+~ C |
 0+5 |
+~ G . | Dm . | G7 . | C . | . . |
 5+.+.+2 2+3 | 4+6 5+4 | 4 3 v | 1 3+1 | 5 .+3 |
+~ Am . | G . | C . | F . | G7 . |
 6+5 3+1 | 2 . | 0+1 3+5 | 1' 1' | 7+6 5+4 |
+~ . . | C . | F . | C . | . . |]
 4 3 v | 5 3+5 | 6+7 1'+2' | 3' 2' | 1' . |]
 > Lao mu-li hi-ta tu ba-nu-a gin-jang, dung pi-nas-pas-hon or-buk ta-no i, di na jo-nok ti-na-tap ha-so-na-ngan, na pi-nar-sin-ta ni ro-han-ta i.
 #V

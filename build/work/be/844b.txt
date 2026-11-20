@@ -12,6 +12,7 @@
 @check Ini 844b; buku mencetak dua lagu bernomor 844 (844a di 844.txt).
 @check Bagian Ende Liturgi; buku tidak mencetak nomor Logu → @bl 0.
 #A
+~ G . | Em . | Am . | G . | . . |]
 3 2 | 1 7, | (6, 2 | 1 7,) | 1 . |]
 > A-men, a-men a-men.
 #V

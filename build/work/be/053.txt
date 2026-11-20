@@ -13,8 +13,11 @@
 @check Birama akhir: angka "1 ." tetapi not balok 1/2 bertitik (3 ketuk, melengkapi ketukan gantung) → ditulis "1 . .".
 @ref Lirik pembanding: bukuende.wordpress.com (BE 53) | https://bukuende.wordpress.com/2013/06/13/di-betlehem-do-tubu-buku-ende-no-53-buku-logu-no-51/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F | Bb . F . | . . . . | C7 . F . |
 5, | 1 (2+4) 3 2 | (1+7,) 1 0 1 | 2 (3+4) 3 2 |
+~ . . C . | F . C7 . | Gm . C7 . | F . . . |
 1 . 0 5 | (5+4) 3 4 5 | (6+5) 4 0 4 | 3 2 5 (4+3) |
+~ C . . . | F . C . | F . C7 . | F . . . | . . . |]
 2 . . 0 | 3 . 2 . v | 3 . 2 v (3+4) | 5 (1+2) 3 2 | 1 . . |]
 > Di Bet-le-hem do tu-bu di hi-ta A-nak i. I do si-an na bur-ju hu-pil-lit Ra-jang-ki. I do, i do, hu-pil-lit Ra-jang-ki!
 #V

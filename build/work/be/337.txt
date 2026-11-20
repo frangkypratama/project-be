@@ -11,11 +11,15 @@
 @check "4*" = Fa naik (not balok: A♮) → #4; "1*" = Do naik (not balok: E♮) → #1.
 @check Birama "3 . 4* 5 6" (baris 2): not balok 5-6 dua not 1/8 berlegato (tanpa garis atas di angka) agar genap 3 ketuk.
 #A
+~ Cm . Bb | Eb . Fm | Bb . Fm | Bb7 . Eb | Ab . . |
 (3 6) 5 | 5 . 2 | (2 5) 4 | 4 . 3 v | (1' 7) 6 |
+~ Eb . F | Bb . . | Eb . Bb | Eb . F | Bb . Eb |
 5 . #4 v | 5 . 2 | (3 .+#4) (5+6) | 5 . #4 | 5 . 0 |
 > Mo-lo gi-ot ho tu gin-jang, tu na so-nang, Ha-ru pa-re-ak ma i,
 #B
+~ Bb . . | Fm . Bb | Eb . . | Bb . Eb | Ab . . |
 (2 .+#1) (2+3) | 4 . 2 | (3 .+2) (3+4) | 5 . 3 v | (1' 7) 6 |
+~ Bb . Eb | Fm . Bb7 | Eb . Bb7 | Eb . Bb | Eb . . |]
 5 . 3 v | (2 3) 4 | (3 5) 4 | 3 . 2 | 1 . 0 |]
 > Tu-han Je-sus do ma-ngung-kap, di-pa-ta-lak ba-hal na di gin-jang i.
 #V

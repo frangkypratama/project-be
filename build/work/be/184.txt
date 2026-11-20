@@ -11,12 +11,16 @@
 @check Pembanding lirik: baris 15 beda ejaan, baris 17 kata ekstra; buku dipakai, belum dicek ulang ke scan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 184) | https://bukuende.wordpress.com/2013/06/16/nunga-tung-jumpang-au-ojahan-buku-ende-no-184-buku-logu-no-103/ | Pembanding lirik (tanda baca/kapital diabaikan).
 #A
+~ F . . . | Bb . . . | C . F . |
 0 5 3 5 | 6 5 4 3 | 2 . 1 v 3 |
+~ C . . . | C7 . . . :|
 2 1 2 3 | 4 3 2 . :|
 > Nu-nga tung jum-pang au o-ja-han ni ton-ding-ki na ma-go i
 > Mu-dar ni Je-sus do ma-na-han sa-le-leng ni le-leng-na i.
 #B
+~ C . . . |
 0 2 2 2 |
+~ F . C . | F . C . | F . Bb . | F . . . |]
 3 5 5 #4 | 5 . 0 5 | 3 1 6 4 | 3 2 1 . |]
 > Nang ma-go pe por-ti-bi on tong-tong do-hot o-ja-han on.
 #V

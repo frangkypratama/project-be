@@ -12,11 +12,17 @@
 @check Birama 1: ada bintik di atas angka 1 pertama, tetapi not balok As4 (sama dengan 1 lain) → ditulis 1.
 @check Ayat 1 disusun dari lirik di bawah not.
 #A
+~ Ab . Db . | Ab . Eb7 . | Ab . Eb . | Ab . Eb . |
 1 . 6, 5, | 1 1 2 4 | 3 . 2 . | 0 0 5 . |
+~ Ab . Db . | Ab . Eb . | Ab . Eb . | Ab . Db . |
 3 3 1 4 | 3 . 2 . | 1 . 0 0 | 1 . 6, 5, |
+~ Ab . Eb7 . | Ab . Eb . | Ab . . . | Db . Eb . |
 1 1 2 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 |
+~ Ab . . . | Eb . Ab . | Eb7 . Ab . | Eb . Ab . | Db . Eb . |
 1 7, 1 . | 0 0 5 . | 5 4 3 . | 2 . 1 7, | 6, . 5, . |
+~ Ab . Eb . | Ab . Eb . | Ab . Eb . | Ab . Eb . | Ab . . . |
 0 0 5, . | 1 1 7, 6, | 1 . 2 . | 3 . 0 0 | 1 . 1 2 |
+~ . . Eb7 . | Ab . Eb . | Ab . . . | Db . Eb . | Ab . . . |]
 3 1 4 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 | 1 7, 1 . |]
 > Ha-mu sa-lu-hut ha-ra-ja-on, mar-o-lop-o-lop ma ha-mu! En-de-hon ma ha-mu-li-a-on ni go-ar ni De-ba-ta-mu! Tu De-ba-ta ma dok ha-mu-na na song-kal do pam-bae-nan-Mi; Ai mu-su-mi pe sa-lu-hut-na mar-som-ba do di jo-lo-Mi.
 #V

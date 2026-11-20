@@ -11,8 +11,11 @@
 @check Pembanding lirik: bukuende.wordpress.com — 12 dari 18 baris sama persis; beda ejaan di baris 2 (+1 kata), 7, 11, 13, 14, 16. Teks tetap mengikuti buku cetak.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 103) | https://bukuende.wordpress.com/2013/06/16/o-pangapul-na-lumobi-buku-ende-no-103-buku-logu-no-80/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . C . | F . C . | F . Bb . | C . . . | F . Bb . | C7 . F . |
 1 . 2 . | 3 . . 2 | 3 5 6 . | 5 . . . | 5 6 4 . | 4 5 3 . v |
+~ . . Bb . | C . F . | . . C7 . | F . C . | F . Bb . | C . . . |
 3 5 4 3 | 2 . 1 . v | 5 . 4 . | 3 . . 2 | 1 7, 6, . | 5, . . . v |
+~ F . Bb . | C7 . F . | . . Bb . | C . F . |]
 5 6 4 . | 4 5 3 . v | 3 2 4 3 | 2 . 1 . |]
 > O Pa-nga-pul na lu-mo-bi, ton-di ni Tu-han i, Ro-hang-kon bo-ngo-ti! di-par-ba-ga Tu-han na-mi, Ing-kon Ho do na ro, ma-nga-ja-ri ha-mi.
 #V

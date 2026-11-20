@@ -10,9 +10,13 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 210) | https://bukuende.wordpress.com/2013/06/16/o-tuhan-na-marasi-roha-buku-ende-no-210-buku-logu-no-100/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check Buku mencantumkan "Philipp Friedrich Hiller" sebagai pencipta lagu; Hiller lazimnya dikenal sebagai penulis syair.
 #A
+~ A . E | A . . | D . E | A . . | E7 . A |
 5, 1 2 | 3 . 3 | (4 3) 2 | 3 1 . v | 5 4 3 |
+~ E . A | . . E | A . . | E . A | E . A | E . Bm | E . A |
 2 . (1+2) | 3 . 2 | 1 . . v | 2 2 3 | 2 . 1 | 7, . 6, | 7, 5, . |
+~ E . . | . . A | E . Bm | E . . | A . E | A . . |
 2 3 2 | 2 . 1 | 7, . 6, | 5, . . v | 5, 1 2 | 3 . 3 |
+~ D . E | A . . | E7 . A | E . A | . . E | A . . |]
 (4 3) 2 | 1 . . v | 5 4 3 | 2 . (1+2) | 3 . 2 | 1 . . |]
 > O Tu-han, na mar-a-si-ro-ha, na so tar-do-do jol-ma i, to-rop do ha-lak si-par-do-sa na rap ma-mu-ji go-ar-Mi. Di-baen ba-saM na go-dang i mar-hi-te-hi-te Je-sus i.
 #V

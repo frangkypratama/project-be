@@ -13,13 +13,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 9 dari 14 baris sama; baris 3–7 beda ejaan/kata. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 523) | https://bukuende.wordpress.com/2013/06/09/aning-andigan-do-tarbahen-au-buku-ende-no-523-buku-logu-no-407/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ G . . . | D . G . | D7 . Am . |
 1 1+2 3 3+4 | 5 6+.+.+5 3 . | 5 4+.+.+3 2 . |
+~ D7 . G . :|
 4 3+.+.+2 1 . :|
 > A-ning an-di-gan do tar-ba-hen au, tu sur-go i, tu sur-go i
 > A-sa hu-i-da di-si Tu-han-ki, di sur-go i, di sur-go i
 #B
+~ D7 . . . | . . G . |
 5 4+.+.+3 2 5,+5, | 4 3+.+.+2 1 . |
+~ D7 . . . | . . G . | . . . . |
 5 4+.+.+3 2 5,+5, | 4 3+.+.+2 1 . | 1 1+2 3 3+4 |
+~ D . G . | D7 . . . | G . . . |]
 5 6+.+.+5 3 . | 5 4+.+.+3 2 4 | 3 .+2 1 . |]
 > Lan do na por-suk si-ae-on di-son so-nang di sur-go do ton-ding-ki-non. A-la ni i sai ma-lu-ngun do au, tu sur-go i, tu sur-go i.
 #V

@@ -12,7 +12,9 @@
 @check Pembanding lirik: beda di baris 2, 6 (ejaan) dan 10 (kata 'do' tidak ada di pembanding); buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 483) | https://bukuende.wordpress.com/2013/06/18/tuhanta-i-do-tuat-buku-ende-no-483-buku-logu-no-327/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Em | Am . . D . . | G . . Em . . | B7 . . Em . . |
 6, | 6, . 6, 7, . 7, | 1 2 3 3 . 3 | 2 . 2 6, . 7, |
+~ . . . . . . | G . . Em . . | G . . Em . . | B7 . . Em . . | . . . . . |]
 (1 . . 1 .) 1 | 3 . 5 6 . 6 | (5 . 3) 1 . 2 | 3 . 2 1 . 7, | (6, . . 6, .) |]
 > Tu-han-ta i do tu _ _ at tu ha-jol-ma-on i. Tu-mo-pot par-da-ngo-lan, pi-nu-ji na-ma i.
 #V

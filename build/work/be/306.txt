@@ -11,10 +11,15 @@
 @check Not "4*" = Bes dengan tanda pugar → #4 (B).
 @check Birama "3̄.4̄ 5 6" (legato 3–5) ditulis (3 .+4 5) 6; "5 4̄3̄ 2." legato 5–3 ditulis (5 4+3) 2 . sesuai busur di balok.
 #A
+~ F . | . . C . | F . Bb . | C . F . | C . . . |
 5, . | 1 . 2 . | 3 5 4 3 | 2 . 1 . | 0 0 2 . |
+~ . . F . | C . F . | Bb . C . | F . C . | F . Dm . |
 2 . 3 . | 2 7, 1 7, | 6, . 5, . | 0 0 5, . | 1 2 3 6 |
+~ F . G . | C . . . | F . C . | F . C . | F . Bb . |
 5 . #4 . | 5 . . . | 0 0 5 . | 1 . 2 . | 3 5 4 3 |
+~ C . F . | C . . . | . . F . | C . F . | Bb . C . |
 2 . 1 . | 0 0 2 . | 2 . 3 . | 2 7, 1 7, | 6, . 5, . |
+~ F . C . | F . C . | F . C . | F . C . | F . . . |]
 0 0 5, . | 1 . 2 . | (3 .+4 5) 6 | (5 4+3) 2 . | 1 . . . |]
 > Hu-pu-ji Ho, a-le Tu-han-ku, ai born-gin i do di-pa-sal-pu Ho, a-sa tung-ti-ur mu-se por-ti-bi on, naung ni-ling-go-man ni ha-ra-ja-on ha-ho-lo-man; To-rang di-ba-hen Ho su-de.
 #V

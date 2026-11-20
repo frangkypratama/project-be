@@ -9,10 +9,15 @@
 @check Pembanding lirik: beda di ayat 2 baris 3 ("daging" pada "hisap daging"); dicek ulang di scan hlm 442: buku mencetak "hisap daging". Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 461) | https://bukuende.wordpress.com/2013/06/18/songgop-tu-hami-buku-ende-no-461-buku-logu-no-407/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . . . | D . G . | . . Am . |
 1 1+2 3 3+4 | 5 6+5 3 . | 5 4+3 2 . |
+~ D7 . G . | . . . . | D . G . |
 4 3+2 1 . | 1 1+2 3 3+4 | 5 6+5 3 . |
+~ . . Am . | D7 . G . | . . D . | C . G . |
 5 4+3 2 . | 4 3+2 1 . | 5 4+3 2 5,+5, | 6 5+4 3 . |
+~ . . D . | C . G . | . . . . |
 5 4+3 2 5,+5, | 6 5+.+.+4 3 . | 1 1+2 3 3+4 |
+~ D . G . | . . Am . | D7 . G . |]
 5 6+5 3 . | 5 4+3 2 . | 4 3+2 1 . |]
 > Song-gop tu ha-mi na di jo-lo-Mon, o ton-di ni De-ba-tang-ki. U-hir pa-tik-Mu tu ro-hang-ki-non, O Ton-di ni De-ba-tang-ki. Be-reng si-hol-hu di ha-ro-ro-Mi. mo-lo Ho ro, nda hi-sar ton-ding-ki, Di-di-hon ma tu au on a-pi-Mi. O Ton-di ni De-ba-tang-ki.
 #V

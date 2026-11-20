@@ -13,11 +13,14 @@
 @check Angka birama di scan samar; dari isi birama dibaca 2/4.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 49) | https://bukuende.wordpress.com/2013/06/18/sai-ro-ma-tu-bara-buku-ende-no-49-buku-logu-no-47/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb | . . | . . | Bb7 . | Eb . :|
 0+5 | 5 3+5 | 5 3+5 | 4 2+2 | 3 0 :|
 > Sai ro-ma tu ba-ra di Bet-le-hem on,
 > Ha-mu na por-se-a, ha-top ma tu-son!
 #B
+~ Eb | Fm . | Bb7 . | Eb . | Ab . |
 0+3 | 2 2+2 | 4 4+4 | 3 3+3 | 6 0+6 |
+~ Bb7 . | Eb . | Bb7 . | Eb . |]
 4 5+5 | 1' 5+3 | 4 2+2 | 1 0 |]
 > Mar-ni-da ha-la-san ni ro-han-ta i, Ti-no-ngos ni A-ma na di sur-go i.
 #V

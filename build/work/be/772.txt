@@ -13,10 +13,15 @@
 @check Ketukan gantung (5̣ ½ + 1 2) ditulis dengan diam ½ ketuk di depan. Angka dicoret 2 dan 4 = kres (#2 = Ais, #4 = Cis); "5̸" di birama 8 = Dis (#5).
 @check Ayat 2 baris 3 tercetak "hululuj" dengan tanda sambung (dibaca "hulului").
 #A
+~ G . | . . . | D . G |
 0+5, 1+2 | 3 .+#2 3+4 | 2 . 3 |
+~ . . . | . . . | D . G | C . D |
 (1 . . | 1) .+2 3+4 | 5 .+#4 5+6 | 4 . 5 |
+~ G . . | . . . | C . . | . . . |
 (3 . . | 3) . 5+5 | 6 .+#5 6+5 | 4 . 6+6 |
+~ G . D7 | G . . |
 5 .+#4 5+4 | 3 .+5, 1+2 |
+~ . . . | D . G | . . . | . . |]
 3 .+#2 3+4 | 2 . 3 | (1 . . | 1) . |]
 > Tu-han-ku do pa-tu-re da-lan-ki, Tu-han ku do pa-ti-ur lang-kang-ki, si-an na-sa ro-hang-ki hu-pa-sa-hat ngo-lung-ki, Tu-han-ku do pa-ti-ur lang-kang-ki.
 #V

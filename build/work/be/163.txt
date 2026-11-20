@@ -10,10 +10,12 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 163) | https://bukuende.wordpress.com/2013/06/16/laos-dijalo-jesus-i-buku-ende-no-163-buku-logu-no-75/ | 24/24 baris sama
 @check Kepala lagu mencetak "Jesus hinaposan ni"; baris pertama lirik "Laos dijalo Jesus i".
 #A
+~ C . . . | F . . . | G . Am . | C . . . | F . G . | C . . . :|
 5 . 3 . | 6 7 1' 1' | 7 . v 6 . | 1' . 5 3 | 4 3 2 . | 1 . . . :|
 > Laos di-ja-lo Je-sus i do par-do-sa na ta-ri-lu.
 > Sai pa-bo-a ha-ta i tu sa-lu-hut i na li-lu.
 #B
+~ C . D . | E7 . Am . | F . . . | G . C . | G . C . |]
 3 . #4 . | #5 6 6 #5 | 6 . v 1' . | 2' . 3' 3' | 2' 2' 1' . |]
 > A-sa sa-su-de na ro di-pa-ngo-lu Je-sus do.
 #V

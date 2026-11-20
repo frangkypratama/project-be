@@ -14,9 +14,13 @@
 @check Pembanding lirik: baris 2 beda (salah ketik saya 'panguripiNa' diperbaiki ke 'pangurupiNa' sesuai scan), baris 10 (ulahon), 11 (lului) beda ejaan; buku ditulis apa adanya.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 776) | https://bukuende.wordpress.com/2013/06/18/unang-holsoan-ho-buku-ende-no-776-buku-logu-no-776/ | teks ayat
 #A
+~ Ab . Db | F . Bbm | Eb . Ab | Eb . Ab |
 3' 1' 4' | 3' .+#1' 2' | 2' 7 3' | 2' .+7 1' |
+~ Db . . | Eb . Ab | Eb . Ab | Db . Eb |
 6 1' 6 | 5 . . | 5' 5' 5' | 4' .+3' 2' |
+~ Ab . . | Eb7 . Ab | Bbm . Eb |
 5' 5' 5' | 5' .+4' 3' | 4' 2' 5' |
+~ Ab . . | Db . Eb | Ab . . |]
 3' . . | 4' 3' 2' | 1' . . |]
 > U-nang hol-so-an ho bi-ar ni ro-ha do ro si-an i, ha-po-si De-ba-ta pa-ngu-ru-pi-Na i, jo-nok tu Ho, jo-nok tu Ho.
 #V

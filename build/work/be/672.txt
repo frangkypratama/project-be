@@ -12,13 +12,19 @@
 @check Refrein baris 3: angka "6 6.1" tercetak tanpa titik oktaf pada 1; balok = C5 → ditulis 1' (sama dengan bagian A).
 @check "Sai" bertanda lengkung (satu suku kata).
 #A
+~ C | G . C . | F . . . |
 3+4 | 5 5+.+.+5 5 3+5 | 6 6+.+.+6 6 6+6 |
+~ C . . . | G . . . | C . . . |
 5 1'+.+.+1' 1' 7+1' | 2' . . 1'+2' | 3' 3'+.+.+2' 1' 1'+7 |
+~ F . C . | F . C . | . . . |
 6 6+.+.+1' 5 5+5 | 6+1' 1'+2' 3' 2'+.+.+2' | 1' . . |
 > Tung go-dang si-tu-tu u-la-on-mu an-tong di pa-sa-hat Tu-han-ta tu ho ndang a-dong be ting-kim mar-na-lem-ba ta-he ngo-lu-mi ba-hen ti-ru-an tong-tong.
 #B
+~ C | . . . . | F . G . |
 1'+2' | 3' 5+.+.+5 5 1'+7 | 6 6+1' 5 5+5 |
+~ C . . . | G . . . | C . . . |
 1' 1'+.+.+1' 1' 7+1' | 2' . . 1'+2' | 3' 3'+.+.+2' 1' 1'+7 |
+~ F . C . | F . C . | . . . |]
 6 6+.+.+1' 5 5+5 | 6+7 1'+2' 3' 2'+.+.+2' | 1' . . |]
 > Sai pa-tu-pa ma i a-la-ni Tu-han i so mang-ki-rim ba-los-na tu ho, De-ba-ta do mar-ni-da na-ni u-la-mi ma-nang na a-dong par-bu-e-ni i.
 #V

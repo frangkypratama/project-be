@@ -11,10 +11,13 @@
 @check Birama berganti: 4 birama pertama dicetak 3/4, lalu "(4/4)" — ditulis sebagai bagian A 3/4, bagian B 4/4.
 @check Kredit tercetak "Karl Kuhlo 1385" (tahun jelas salah cetak, kemungkinan 1885) — ditulis apa adanya.
 #A
+~ Ab . . | . . . | . . Eb | Ab . . |
 1+.+.+1 1 . | 1+.+.+2 3 . | 4+.+.+3 3 2 | 1 . v 3+3 |
 > Bin-sar ma bin-sar ma mar-si-non-dang ma. Ha-ti
 #B 4/4
+~ Eb7 . Ab . | Eb . . . | . . Ab . |
 4 3 3 1 | 2 . 2 v 3+3 | 2 7, 1 7, |
+~ Db . Ab . | . . . . | . . Db . | Ab . . . |]
 6, . 5, v 1+1 | 1 2 3 . | 0 5,+5, 6, 7, | 1 . 0 0 |]
 > u-ron si-an gin-jang, pa-ngo-lu-hon hu-ma-li-ang ha-mi sa-su-de, ha-mi sa-su-de.
 #V

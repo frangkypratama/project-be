@@ -11,7 +11,9 @@
 @check Pembanding lirik: beda di baris 1 ('Tinggangkon'), 3, 7 ('Arsakmu'), 8; buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 500) | https://bukuende.wordpress.com/2013/06/18/tingganghon-sude-buku-ende-no-500-buku-logu-no-226/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb | . . F | Bb . . | F . Bb |
 5, | 1 1 (2+1) | (1 7,) 5, | 2 2 (3+2) |
+~ F . . | Bb . . | . . F7 | Bb . F | Bb . |]
 (2 1) 5, | 3 3 3 | 3 2 (4+2) | (1 . 7,) | 1 . |]
 > Ting-gang-kon su-de na dok-dok, a-le, tu Je-sus, Tu-han-mu, na ba-sa
 #V

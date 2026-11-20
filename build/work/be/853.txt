@@ -11,9 +11,13 @@
 @check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
 @check Lirik tercetak dengan pemenggalan tak konsisten ("Hale - luya", "ha-le-luya") → dipenggal seragam ha-le-lu-ya.
 #A
+~ G | . . . . | C . . . | D . . . |
 5,+5, | 1 1 . 1+7, | 6, 6, . 6,+1 | 7, 7, . 6,+7, |
+~ Am . D . | G . . . | C . . . | D . . . |
 6, 5, . 5,+5, | 1 1 . 1+7, | 6, 6, . 6,+1 | 7, 7, . 6,+7, |
+~ G . . . | . . . . | C . . . | D . . . | G . . . |
 1 1 . 0 | 3 . . 3 | 4 4 . . | 2 . . 2 | 3 3 . . |
+~ . . . . | D . . . | . . . . | G . . |]
 1 . . 1 | 2 2 . . | 7, . . 7, | 1 1 . |]
 > Ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya.
 #V

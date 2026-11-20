@@ -10,13 +10,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 15 dari 16 baris sama persis; 1 baris beda (ayat 4 "Olo, i ma"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 76) | https://bukuende.wordpress.com/2013/06/18/sada-nama-sangkap-buku-ende-no-76-buku-logu-no-199/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . Gm . | F . . . | . . . . |
 1 1 6, 2 | 1 7, 1 5 | 3 . 1 . v |
+~ Bb . . . | F . . . :|
 1 1 6, 4 | 3 2 1 . :|
 > Sa-da na-ma sang-kap ni ro-hang-ku Di san-dok por-ti-bi on.
 > Ndang ta-ga-mon na so las ro-hang-ku. Mo-lo jum-pang au i-non:
 #B
+~ C . . . | C7 . . . | F . Gm . |
 7, 1 2 5 | 5 4 4 3 | 3 . 2 . v |
+~ C . . . | C7 . . . | F . C . |
 7, 1 2 5 | 5 4 4 3 | 3 . 2 . v |
+~ F . Bb . | F . . . | Bb . . . | F . C . | F . . . |]
 1 1 6, 4 | 3 2 1 . v | 1 1 6, 4 | 3 . 2 . | 1 . . . |]
 > Naeng ma sai i-ngo-ton ni ro-hang-ku na bi-naen ni Je-sus tu ton-ding-ku, U-ju pi-nor-san-na i, Sa-lu-hut-na do-sang-ki.
 #V

@@ -13,11 +13,14 @@
 @check Baris 3 angka "4" tanpa titik atas, tetapi not balok menunjukkan Es5 (oktaf atas); dibaca 4'.
 @check "tangi" di baris lirik kedua dipenggal "ta-ngi" (2 not).
 #A
+~ Bb . . . | Eb . F . | Bb . Dm . | F . . . :|
 5 3 1' 5 | 6 . 5 0 | 3' 1' 7 (1'+3') | 2' . . 0 :|
 > O Je-sus pa-non-dang di por-ti-bi on
 > Mu-la ni na to-rang ta-ngi ha-tang-kon
 #B
+~ F . . . | Bb . . . | F7 . Bb . | F . . . |
 2' .+1' 7 5 | 3' . 1' v 2'+3' | 4' . 3' . | 2' . . 0 |
+~ Bb . . . | Eb . Bb . | . . F . | Bb . . . |]
 3' 2' 1' 7 | 6 4' 3' 2' | 1' . 7 . | 1' . . 0 |]
 > Sai a-si ro-ha-mu di par-do-sa on Ho ma ma-nga-pu-li au na mar-sak on
 #V

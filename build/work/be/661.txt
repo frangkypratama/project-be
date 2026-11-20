@@ -12,11 +12,15 @@
 @check Susunan buku: Refrein (bagian A, s.d. "Fine") dinyanyikan dulu, lalu ayat (bagian B), lalu "Ref : Beta hita ..." diulang.
 @check "Ai" di awal ayat bertanda lengkung (satu suku kata). "par-da-ngo-lah" ditulis seperti tercetak.
 #A
+~ F | C . | F . | . . |
 5+5 | 5 5+5 | 5 5+3 | 3 1 |
+~ . . | C . | F . | . . | . |]
 0 1+1 | 2 5+3 | 3 2+1 | 1 . | 0 |]
 > Be-ta hi-ta, a-le ang-ka do-ngan, ta-pa-ti-ur ma na ho-lom i.
 #B
+~ F | . . | . . | C . |
 3+3 | 3+3 3+3 | 3+3 3+2 | 2 1 |
+~ F . | . . | . . | . . | . |]
 0 1+1 | 3+2 2+1 | 3+2 2+1 | 1 . | 0 |]
 > Ai to-rop na por-suk na di par-da-ngo-lah na gi-nom-go-man ni ha-ho-lo-mon i.
 #V

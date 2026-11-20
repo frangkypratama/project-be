@@ -12,13 +12,18 @@
 @check Scan ayat 2–5 (hlm 89) sangat buram/berbintik; beberapa kata dibaca dengan ragu (mis. ayat 5 baris 3 "Mardame manang sonang").
 @check Judul "O Tondi parbadia i, bongoti.", baris pertama lirik "O ulubalang na gogo".
 #A
+~ Eb | . . . . | Ab . Eb . | Ab . Eb . |
 1 | 5 3 1 5 | 6 6 5 v 5 | 6 7 1' 7 |
+~ Ab . Eb . | Ab . . . | Bb . Eb :|
 6 6 5 v 3 | 6 5 4 3 | 2 . 1 :|
 > O u-lu-ba-lang na go-go, son-gon sa-da-ri on do Ho ma-naek tu ha-sa-nga-pon!
 > Naung si-dung do u-la-on-Mi; na ring-kot pa-tu-pa-on-Mi, hu-mop-hop ha-jol-ma-on.
 #B
+~ Eb |
 0 |
+~ Bb . Eb . | Bb . Eb . | Ab . Bb . | Fm . Bb . |
 5 . 3 . v | 5 . 3 . v | 4 3 2 3 | 4 3 2 3 |
+~ Fm . Bb . | Eb . . . | Ab . . . | Bb . Eb . |]
 4 3 2 . | 1 . v 1' 7 | 6 5 4 3 | 2 . 1 . |]
 > Sa-bam, to-ngan do Ho mu-li tu na u-li mar-ha-bang-sa di-si-a-mun ni Ja-ho-wa.
 #V

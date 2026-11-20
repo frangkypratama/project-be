@@ -12,13 +12,19 @@
 @check Bagian A baris 3 birama 2 tercetak "2 . 3.2" (3 ketuk); balok = 1/2 bertitik + 1/8 bertitik + 1/16 (4 ketuk), sama dengan baris 2 → ditulis "2 . . 3.2".
 @check Refrein: "5 . 5.6" dan "2 . 2.4" dengan lengkung = not diikat (1/2 diikat ke 1/8 bertitik), satu suku kata ("ma", "ngoi").
 #A
+~ G | . . . . | . . . . |
 5,+.+.+5, | 1 1 1+.+.+5, 1+.+.+2 | 3 3 3 4+.+.+3 |
+~ D . . . | G . . . | . . . . |
 2 . . 3+.+.+2 | 1 . . 5,+.+.+5, | 1 1 1+.+.+5, 1+.+.+2 |
+~ . . . . | D . . . | G . . |
 3 3 3 4+.+.+3 | 2 . . 3+.+.+2 | 1 . . |
 > Tar-be-ge so-a-ra na jo-u-jo-u, to-ngos ma son-dang-mi, tung to-top par-be-gu di na ho-lom i, to-ngos ma son-dang-mi.
 #B
+~ G | . . D7 . | G . . . |
 3+.+.+4 | (5 . 5)+.+.+6 5+.+.+4 | 3 3 3 4+.+.+3 |
+~ Am . D7 . | G . . . | . . D7 . |
 (2 . 2)+.+.+4 3+.+.+2 | 3 . . 3+.+.+4 | (5 . 5)+.+.+6 5+.+.+4 |
+~ G . . . | Am . D7 . | G . . |]
 3 3 3 4+.+.+3 | (2 . 2)+.+.+4 3+.+.+2 | 1 . . |]
 > To-ngos ma Ba-ri-ta na u-li man-du-ngoi na mo-dom i, to-ngos ma Ba-ri-ta na u-li man-du-ngoi na mo-dom i.
 #V

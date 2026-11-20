@@ -10,13 +10,18 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 321) | https://bukuende.wordpress.com/2013/06/16/marujung-do-sadari-on-buku-ende-no-321-buku-logu-no-174/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check Birama "1 7 6." dan "3 3 6 6": angka 6 tanpa titik bawah, tetapi not balok buku di garis bawah (E4) → ditulis 6, (oktaf bawah).
 #A
+~ G | . . D . | . . . . | . . G . |
 1 | 5, 1 7, 1 | 2 3 2 . | 0 2 3 2 |
+~ C . . . | D . G :|
 1 7, 6, . | 5, . . :|
 > Ma-ru-jung do sa-da-ri on di-baen pa-non-dang bo-lon
 > Na mar-a-di-an ta-no on i pe sai ta-en-de-hon
 #B
+~ G | C . . . | D . . . |
 3 | 1 1 4 3 | 2 . . v 3 |
+~ G . C . | D . . . | G . C . |
 1 1 4 3 | 2 . . v 2 | 3 3 6, 6, |
+~ D . . . | G . . . | . . . . | . . . |]
 2 2 7, . | 0 5, 1 2 | 3 4 3 2 | 1 . . |]
 > Ma De-ba-tan-ta i, pa-ra-si-ro-ha i, ta-sung-gul ma ro-han-ta be, ma-mu-ji Je-sus ma su-de.
 #V

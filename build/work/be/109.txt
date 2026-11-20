@@ -11,12 +11,16 @@
 @check Pembanding lirik: bukuende.wordpress.com — 8 dari 9 baris sama persis; beda ejaan di baris 4. Teks tetap mengikuti buku cetak.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 109) | https://bukuende.wordpress.com/2013/06/18/sai-songgopi-hami-on-buku-ende-no-109-buku-logu-no-78/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb . F7 . | Bb . F . | Bb . Eb . |
 3 1 2 (5+4) | 3 (2+1) 2 . v | 1 .+7, (6,+7,) 1 |
+~ F . . . | Bb . . . :|
 2 3 2 . | 1 . . . :|
 > Sai song-go-pi ha-mi on, a-le Ton-di Par-ba-di-a!
 > Sai a-ja-ri ma tong-tong ha-mi on hu-hut pa-ri-a,
 #B
+~ Bb . Eb . | Bb . F . |
 5, .+5, 6, 7, | 1 (2+1) 7, 5, v |
+~ Bb . F . | Cm . F . | Bb . . . |]
 1 .+1 2 3 | 4 3 2 . | 1 . . . |]
 > Mar-ta-ngi-ang tu Tu-han-ta, a-sa tong-tong o-lo-an-Na
 #V

@@ -13,12 +13,19 @@
 @check Nada minor (la = 6, = E4). Hlm 883 baris 1 tercetak "6 .7" tanpa titik bawah, balok = E4–Fis4 (sama dengan awal lagu) → ditulis 6, 7,.
 @check Angka 4 dicoret (= kres) di baris "i do sitiruonki" → #4 (balok Cis5).
 #A
+~ Em . . . | . . Am . |
 6, .+7, 1 2 | 3 4 4 3 |
+~ B7 . Em . | Am . B . |
 3 .+2 1 3 | 2 1 7, . |
+~ Em . . . | . . Am . | D . G . |
 6, .+7, 1 2 | 3 4 4 3 | 2 .+2 3 1 |
+~ Em . . . | Am . B7 . | D7 . G . |
 1 7, 6, . | 2 .+2 2 3 | 4 (3+2) (1+2) 3 |
+~ . . . . | A . B . |
 3 .+#4 5 (#4+3) | #4 .+3 3 . |
+~ Em . . . | Am . D7 . |
 1 .+2 3 3 | 6 5 5 4 |
+~ B7 . Em . | B . Em . |]
 3 .+2 1 (2+1) | 7, .+6, 6, . |]
 > Ri-pe na-mar-las ni ro-ha di ba-gas-an Tu-han i, ho-long na ma-si-ha-po-san i do si-ra-do-tan-ki, Rut, De-bo-ra nang Ma-ri-a i do si-ti-ru-on-ki gok pe ma-ra si-bo-lus-on sai na hot do pa-dan-ki,
 #V

@@ -10,8 +10,11 @@
 @check Pembanding lirik: beda ejaan "hupadenggan" (baris 1) dan "do" tambahan (baris 10). Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 422) | https://bukuende.wordpress.com/2013/06/16/na-ro-do-au-buku-ende-no-422-buku-logu-no-282/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab . . . | . . . . | Eb . . . | Ab . . . | . . . . |
 1 . 1 .+1 | 1 . 3 . | 2 . 7, . | 1 . . . | 3 . 3 .+3 |
+~ . . . . | Db . Eb . | Ab . . . | Db . Eb . | Ab . . . | Eb7 . Ab . |
 3 . 5 . | 4 . 2 . | 3 . . 5 | 4 . 2 . | 3 . 5 . | 4 . 3 . |
+~ Eb . . . | Ab . . . | . . Eb7 . | Ab . Eb . | Ab . . . |]
 2 . . 2 | 1 . 1 . | (1 5) (5 4) | 3 . 2 . | 1 . . . |]
 > Na ro do au, o Tu-han-ki, ndang hu-pa-deng-gan di-ring-ki, mu-dar-Mu ha-po-ru-san-ki, tung Ho do pos ni ro-hang-ki.
 #V

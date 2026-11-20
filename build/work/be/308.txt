@@ -11,8 +11,11 @@
 @check Birama 2 tercetak "3 4 5 , 3 ." — titik setelah 3 hanya pemisah; balok = 4 not 1/4 (A4 Bes4 C5 A4).
 @check Komponis tercetak "Michael Praetorium" (ejaan lazim: Michael Praetorius).
 #A
+~ F | Bb . C7 . | F . . . |
 1 | 1 1 4 2 | 3 4 5 v 3 |
+~ C7 . Gm . | C7 . . . | F . Dm . |
 4 5 6 4 | 5 . 4 v 5 | 3 5 6 5 |
+~ Gm . C . | F . Bb . | C . F |]
 4 3 2 v 5 | 5 3 4 3 | 2 . 1 |]
 > Ju-mo-lo ma hu-pu-ji Ho, o Tu-han De-ba-tang-ku! Di a-ri na im-ba-ru ro, pa-bo-a las ro-hang-ku.
 #V

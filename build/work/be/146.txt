@@ -11,7 +11,9 @@
 @check Pembanding lirik: L10 kata 4 beda; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 146) | https://bukuende.wordpress.com/2013/06/16/o-jesus-naeng-tardidi-buku-ende-no-146-buku-logu-no-6/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb | . . Cm . | Bb7 . Cm . | Bb7 . Eb . |
 1 | 3 2 3 6 | (5 4) 3 v 6 | 5 4 3 2 |
+~ . . . . | Ab . Eb . | Ab . Eb . | Ab . Bb . | Eb . . |]
 3 . 0 5 | 6 7 1' 7 | 6 . 5 v 3 | 4 3 2 2 | 1 . . |]
 > O Je-sus naeng tar-di-di do po-so-po-so on, sai ro ma ma-nga-li-gi, hu-hut man-ja-lo on!
 #V

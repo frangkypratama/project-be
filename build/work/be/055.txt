@@ -14,9 +14,13 @@
 @check Tidak ada keterangan "Lagu :" untuk lagu ini di hlm 47–48.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 55) | https://bukuende.wordpress.com/2013/06/09/borngin-na-badia-buku-ende-no-55-buku-logu-no-68/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . . . . . | D7 . . G . . | . . . . . . |
 1 . 1 (1 7,) 1 | 2 . 4 3 . . v | (5 4) 3 (3 2) 1 |
+~ C . . D . . | . . . . . . | . . . . . . . . |
 4 . 3 2 . . v | 2 . 2 (2 .+3) 2 | (2 . 5) #4+3 .+2 .+3 2 0 |
+~ . . . . . . . | G . . . D . . . | G . . D . . |
 2 . 2 . (2 .+1) 7, | (1 .+2 3) 1 (7, .+1) 7, 0 | 1 . 1 (2 1) 2 |
+~ G . . . . . | C . D | Am . D7 | G . . . . . |]
 (3 4) 5 1 . . v | (4 3) 2 | (6 5) 4 | 3 . 2 1 . . |]
 > Born-gin na ba-di-a i. Tu-a do bi-no-an-Mi, Ai di-to-ngos De-ba _ tan _ ta Do A-nak-na ga-be jol-ma. A-la ni pi-nu-ji ma na ro si-an De-ba-ta.
 #V

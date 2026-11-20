@@ -10,13 +10,18 @@
 @check Pembanding lirik: L3 (kata 6 & 8) dan L10 (kata 3) beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 145) | https://bukuende.wordpress.com/2013/06/16/ndang-hapalang-las-ni-roha-buku-ende-no-145-buku-logu-no-186/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ C . . . | G7 . C . | . . F . |
 5 1' 5 6 | 5 .+4 3 3 v | 5 5 4 3 |
+~ G . C . :|
 2 .+2 1 . :|
 > Ndang ha-pa-lang las ni ro-ha, a-la na tar-di-di au.
 > Ai di-si bo-long na ro-a do-hot do-sa si-an au.
 #B
+~ G . C . | G . C . |
 2 2 3 5 | 5 .+#4 5 5 v |
+~ F . . . | G . Am . | C . F . |
 6 7 1' 1' | 7 .+7 6 6 v | 3 3 6 5 |
+~ G . C . | F . C . | G . . . | C . . . |]
 5 .+#4 5 . v | 6 7 (1'+2') 3' | 2' . . 2' | 1' . . . |]
 > I-se na tu-man-da ar-ta, Na u-mu-li, na um-ar-ga si-an ha-tu-a-on-ki sa-le-leng-le-leng-na i.
 #V

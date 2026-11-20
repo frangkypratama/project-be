@@ -11,8 +11,11 @@
 @check Pembanding lirik: L2 kata 4 beda ejaan; L3 kata 8 buku tercetak "pangkophopMi" (dicek scan hlm 207).
 @ref Lirik pembanding: bukuende.wordpress.com (BE 227) | https://bukuende.wordpress.com/2013/06/16/jesus-ngolu-ni-tondingku-buku-ende-no-227-buku-logu-no-26/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab . Eb | Ab . . . . . . . . | Eb . . . . . . . . |
 (5, 6,) 5, | 1 . . 3 . . (3 2) 1 | 2 . . 5, . . v (5, 6,) 5, |
+~ Eb7 . . . . . . . . | Ab . . . . . . . . | . . . . . . . . . |
 2 . . 4 . . (4 3) 2 | 3 . . . . . v (3 2) 3 | 5 . . 3 . . (3 2) 1 |
+~ Db . . . . . . . . | Ab . . . . . . . . | . . . . . . |]
 1 . . 6, . . v (2 1) 6, | 5, . . 1 . . 3 . 2 | 1 . . . . . |]
 > Je-sus ngo-lu ni ton-ding-ku, Ho do ha-po-ru-san-ki. Gok di Ho na-ma di-ring-ku, ro di na-sa lang-kang-ki
 #V

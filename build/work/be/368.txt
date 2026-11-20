@@ -11,11 +11,14 @@
 @check Bagian Ende di dakdanak. Kredit tercetak "Gergoe Frederick Root" (ejaan lazim: George Frederick Root); ditulis sesuai buku.
 @check Ayat 2–4 diakhiri "Sai d.u." (= ulangi refrein "Sai marhilong ..."), ditulis sesuai buku.
 #A
+~ Eb | . . . | . . Ab | Eb . Bb | Eb . . :|
 1+2 | 3 3 3+4 | 5 5 v 6 | 3 3 2 | 1 . . v :|
 > Tu-han Je-sus, Tu-han Je-sus, ro mu-lak ha-pe.
 > Ti-no-bus-na, ti-no-bus-Na, di-to-gu mu-se.
 #B
+~ Eb | Ab . . | Eb . Ab | Eb . Bb |
 1'+7 | 6 6 1' | 5 5 6+.+.+5 | 1 1 2 |
+~ Eb . . | Ab . . | Eb . Ab | Eb . Bb | Eb . |]
 (3 5) v 1'+7 | 6 6 1' | 5 5 v 6 | 5 1 2 | 1 . |]
 > Sai mar-hil-long na-si-da so-ngon bin-tang su-de Sai mar-li-nang, sak-sak do u-los-na ta-he.
 #V

@@ -11,13 +11,18 @@
 @check Birama "1 . 6 7" (baris akhir) tercetak dengan titik, tetapi paranada 3 not ¼ (F4–C4–E4, legato) → (1 6, 7,).
 @check Judul "Patimbul be ma sangap", baris pertama lirik "Ingoton ma sadari on".
 #A
+~ F | . . C7 | F . C7 | F . C | F . . |
 1 | 3 . 4 | 5 . 4 | 3 . 2 | 3 . v 3 |
+~ . . C | Gm . C | Dm . C | F . :|
 3 . 2 | (4 3) 2 | (1 6, 7,) | 1 . :|
 > I-ngo-ton ma sa-da-ri on par-naek ni Tu-han Je-sus
 > Tu ha-bang-sa-Na na tong-tong, na so tar-baen be me-ret.
 #B
+~ F | C . F |
 1 | 2 . 3 |
+~ C7 . F | C . D | Gm . C | F . C7 | F . C7 | F . C |
 4 . 3 | 2 . #1 | 2 . v 2 | 3 . 4 | 5 . 4 | 3 . 2 |
+~ F . . | Gm . C7 | F . C | Dm . C | F . |]
 3 . v 1 | 2 . 4 | 3 . 2 | (1 6, 7,) | 1 . |]
 > Ta-som-ba ma Tu-han-ta i, naung mu-lak tu A-ma-Na i; Ta-pu-ji ma I-ba-na.
 #V

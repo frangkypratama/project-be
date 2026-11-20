@@ -14,11 +14,15 @@
 @check Pembanding lirik: dibandingkan dgn 568a; baris 1 ("Na sa"/"Nasa") dan 3 (manghantindangkon) beda ejaan. Pembanding juga punya halaman 568b.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 568) | https://bukuende.wordpress.com/2013/06/16/nasa-soara-ingkon-do-1-buku-ende-no-568a-buku-logu-no-568a/ | teks lirik
 #A
+~ Ab . | . . . Eb . . | Ab . . Eb . . | Ab . . . . . |
 5, . | 1 1 2 . 2 . | 3 2 1 . 2 . | 3 3 4 . 3 . |
+~ Eb . . . . . | Ab . . . . . | Db . . . . . |
 2 . . . 5 . | 5 3 3 . 1 . | 1 6, 6, . (1 6,) |
+~ Ab . . Eb . . | Ab . . . |
 5, 1 1 . 2 . | 1 . . . |
 > Na sa so-a-ra ing-kon do ma-mu-ji Tu-han-ki. mar-ha-to-pot-hon go-go-Mi, ma-ren-de na u-li.
 #B
+~ Ab . . . . . | . . . . . . |]
 1 . . . . . | 1 . . . . . |]
 > A-men.
 #V

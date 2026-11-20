@@ -11,9 +11,13 @@
 @check Lagu suplemen: buku tidak mencantumkan nomor Logu (ditulis 0). Nas: Jes. 60:1. Judul tercetak "Hehe ho marsinondang — Kanon 4 lagu" (kanon 4 suara; baris bertanda ① ② ③ ④ = tempat masuk suara 1–4).
 @check Kredit ditulis seperti tercetak ("Werde lihet", "Kommunitat Gnadèntal"; lazimnya: Mache dich auf und werde licht, Kommunität Gnadenthal).
 #A
+~ D . A . | D . . . |
 1 1+1 2 2+2 | 5, 5,+5, 1 . |
+~ . . G . | A . D . |
 3 3+3 4 4+4 | 2 2+2 3 . |
+~ . . A . | D . A . |
 1' 1'+1' 2'+1' 7+6 | 5 5 5 . |
+~ D . G . | A . D . |]
 5 5 6 . | 7 . 1' . |]
 > He-he ma ho mar-si-non-dang ma ho, he-he-ma ho mar-si-non-dang ma ho, ai nu-nga ro Pa-non-dang-mi tu ho, ma-non-da-ngi ho.
 #V

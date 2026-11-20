@@ -12,12 +12,17 @@
 @check Pembanding lirik: beda ejaan "humophop" (baris 1); baris akhir ayat 5 berupa singkatan "Songon i..." di buku. Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 426) | https://bukuende.wordpress.com/2013/06/18/tutu-na-mate-jesus-i-buku-ende-no-426-buku-logu-no-286/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb | . . . . . . | Eb . . Bb . . | F . . . . . |
 5, | 5, . 1 (3 .+2) 1 | (1 .+7,) 6, 5, . 1 | 7, . 7, (7, .+6,) 7, |
+~ Bb . . . . . | . . . . . . | Eb . . Bb . . | F . . Cm . . |
 (1 . . 1 .) 5, | 5, . 1 (3 .+2) 1 | (1 .+7,) 6, 5, . 1 | 7, . 7, (2 .+1) 6, |
+~ F . . Bb . . |
 (5, . . 5, .) 0 |
 > Tu-tu, na ma-te Je-sus i hu-mop-hop i-ba-on? Du-rus di hau par-si-lang i mu-dar-na i to-ngon?
 #B
+~ Bb . . . . . | F . . . . . | Cm . . F7 . . |
 3 . 3 (3 .+2) 1 | (2 . . 2 .) 0 | 4 . 4 (4 .+3) 2 |
+~ Bb . . . . . | . . . . . . | Eb . . Bb . . | F . . . . . | Bb . . . . |]
 (3 . . 3 .) 5, | 5, . 1 (3 .+2) 1 | (1 .+7,) 6, 5, . 1 | 7, . 7, (7, .+6,) 7, | (1 . . 1 .) |]
 > Song-on i tu-tu, so-ngon i tu-tu. Um-baen na ma-te Je-sus i si-a-la au do i.
 #V

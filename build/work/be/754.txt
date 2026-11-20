@@ -15,12 +15,17 @@
 @check Pembanding lirik: baris 2 kata 9 ("dirohangkon") dan baris 11 (ejaan "Marlas") beda; dicek ulang ke scan hlm 814–815 → buku tetap. Pembanding menyebut Buku Logu No. 754.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 754) | https://bukuende.wordpress.com/2013/06/13/gok-las-ni-roha-do-au-buku-ende-no-754-buku-logu-no-754/ | teks ayat
 #A
+~ C . Am | F . . . | C . . . |
 0 5 6+7 | 1' 7 6 5 | 3+3 .+2 1 . |
+~ G . . . | C . . . |
 2'+2' .+7 5 . | 3'+3' .+2' 1'+5 6+7 |
+~ F . . . | C . . . | G . . . | C . |]
 1' 7 6 5 | 3+3 .+2 1 . | 2'+2' .+7 5 2' | 1' . |]
 > Gok las ni ro-ha do au di ngo-lung-kon di ngo-lung-kon di ngo-lung-kon gok las ni ro-ha do au di ngo-lung-kon tong-tong di-ro-hang-kon
 #B
+~ C . | F . . . | C . . . | G . G7 . |
 0+1' 1'+1' | 1' 6 0+1' 1'+1' | 1' 5 . 1' | 7+.+7 7+6 5+6 5+4 |
+~ C . . . | F . . . | C . . . | G . . . | C . |]
 3 . 0+1' 1'+1' | 1' 6 .+1' 1'+1' | 1' 5 . 1' | 7+7 7+6 5+5 6+7 | 1' . |]
 > Ma-u-li-a-te gok las ni ro-ha ma-ri-ngan ho-long-Mi Tu-han di au ma-u-li-a-te gok las ni ro-ha ma-ri-ngan ho-long-Mi Tu-han di au.
 #V

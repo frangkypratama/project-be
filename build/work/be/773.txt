@@ -12,11 +12,17 @@
 @check Pembanding lirik: baris 2 (napatiur), 3 (sumurung), 4 (alanii), 6 (pardalananku) beda ejaan; dicek ke scan, buku ditulis apa adanya.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 773) | https://bukuende.wordpress.com/2013/06/18/tuhan-mata-ni-aringku-buku-ende-no-773-buku-logu-no-773/ | teks ayat
 #A
+~ Bb . . . | Eb . Bb . | . . . . |
 3 .+4 5 5 | 6 7 1' 5 | 3' .+1' 5 3 |
+~ Eb . F . | Bb . . . | Eb . Bb . |
 4 6 5 . | 3 .+4 5 5 | 6 7 1' 5 |
+~ . . F . | . . Bb . | F . . . |
 3' .+2' (2'+7) (5+6) | 7 6 5 . | 7 .+1' 2' 3' |
+~ F7 . Bb . | . . . . | . . F . |
 4' 3' 3' 2' | 3' .+4' 5' 3' | 5' (4'+3') 2' . |
+~ Bb . . . | Cm . F7 . |
 3' .+2' 1' 1' | 2' 3' 5' 4' |
+~ Bb . F . | Bb . F . | Bb . . . |]
 3' .+3' 2' 1' | 1' . 7 . | 1' . 0 0 |]
 > Tu-han ma-ta ni a-ring-ku, Ho do a-le-a-leng-ki, na-pa-ti-ur par-ni-da-an si-a-pu-li ro-ha i, tung an-dul do Ho su-mu-rung si-an na di ta-no i, a-la-nii da-pot-ho-nong-ku Tu-han na su-mu-rung i.
 #V

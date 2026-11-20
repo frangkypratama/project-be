@@ -9,10 +9,15 @@
 @check Pembanding lirik: bukuende.wordpress.com — 14 dari 18 baris sama; ay1 b1 (Naporsoa), ay3 b1 (haholommon), ay3 b3 (Naa), ay4 b2 (saudena) beda ejaan. Keempatnya dicek ulang ke scan: buku memang menulis begitu (kemungkinan salah cetak buku: haholommon, Naa, saudena), ditulis apa adanya.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 121) | https://bukuende.wordpress.com/2013/06/16/jesus-raja-ni-huria-buku-ende-no-121-buku-logu-no-97/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . Bb7 | Eb . Bb7 | Fm . Bb | Bb7 . Eb | Bb7 . Eb |
 5 . 4 | 3 . (4+5) | 6 . 5 | (5+4) 4 0 | 4 . 3 |
+~ Bb . Eb | . . Bb7 | Eb . . | F . Bb | Fm . Bb | Cm . F |
 2 . (3+4) | 5 . 4 | (4+3) 3 0 | #4 . 5 | 6 . 7 | (1' 6) #4 |
+~ Bb . Eb | Bb . Eb | Bb7 . . | Eb . Ab | Eb . . | Bb . Eb |
 5 . 0 | 2 . 3 | (5 4) 2 | 3 . (6+4) | 3 2 0 | 2 . 3 |
+~ Bb7 . . | Eb . Ab | Eb . . | Bb7 . Eb | Ab . Bb | Eb . Bb |
 (5 4) 2 | 3 . (6+4) | 3 2 0 | 4 . 3 | 6 . 5 | (5+4) 3 2 |
+~ Eb . . | Ab . Eb | Bb . Eb | . . Bb | Eb . . |]
 3 . 0 | 6 . 5 | 7 . 1' | (5+4 3) 2 | 1 . 0 |]
 > Je-sus, Ra-ja ni hu-ri-a. Na-por-so-a, na ba-di-a, pa-su-pa-su ma au on sai sung-gu-li ma ro-hang-ku ma-ngi-hut-hon Ho, Ra-jang-ku, par-go-go i ma au tong-tong, par-go-goi ma au tong-tong,
 #V

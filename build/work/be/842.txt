@@ -11,9 +11,11 @@
 @check Bagian Ende Liturgi; buku tidak mencetak nomor Logu → @bl 0.
 @check Birama "2 . 1" tercetak hanya 3 ketuk (ketukan gantung 1 di awal + birama ini = 4); ditulis apa adanya, lagu dipecah jadi bagian A/B.
 #A
+~ Eb | Fm . . . | Bb . Eb |
 (1 | 2 3 4 3 | 2 .) 1 |
 > A-men.
 #B
+~ Ab . Bb . | Eb . . . |]
 (4 . 2 .) | 1 . . . |]
 > A-men.
 #V

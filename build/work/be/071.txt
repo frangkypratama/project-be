@@ -12,12 +12,16 @@
 @check Pembanding lirik: bukuende.wordpress.com — 21 dari 24 baris sama persis; 3 baris beda: ayat 1 "paro harajaonMu" (dicek ke scan, sesuai buku), ayat 5 "tigor" (ejaan), ayat 3 baris 1 kata akhir — scan pudar, kini ditulis "Tuhanku" mengikuti pembanding.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 71) | https://bukuende.wordpress.com/2013/06/16/o-raja-na-sumurung-buku-ende-no-71-buku-logu-no-156/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ C | . . F . | C . . . | G . Am . |
 1 | 5 5 6 7 | 1' . 1' v 3' | 2' 1' 6 7 |
+~ C . . :|
 1' . . :|
 > O Ra-ja na su-mu-rung, o Je-sus, Tu-han-ki!
 > Na so he-a mar-u-jung do ha-ra-ja-on-Mi.
 #B
+~ C | Am . Dm . | G . . . | C . F . |
 1' | 3' 3' 2' 1' | 2' . 7 v 5 | 1' 7 6 6 |
+~ G . . . | C . F . | G . C . | F . . . | C . . |]
 5 . . v 5 | 3 5 6 5 | 5 . 3 v 5 | 6 1' 1' 7 | 1' . . |]
 > Pa-sa-ngap ma go-ar-Mu di ha-si-a-ngan on. pa-ro ha-ra-ja-on-Mu di a-tas ta-no on.
 #V

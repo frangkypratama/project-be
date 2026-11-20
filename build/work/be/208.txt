@@ -11,13 +11,18 @@
 @check Judul di kepala lagu "Ale dongan na saroha"; baris pertama lirik tercetak "Ale dongan na tarhurung".
 @check Birama terakhir: angka 1 bertanda fermata (busur + titik di atas), bukan oktaf atas; not balok buku menunjukkan G4.
 #A
+~ G . . . | C . D . | G . . . |
 1 2 3 5 | 4 3 2 2 v | 3 2 1 2 |
+~ . . . . :|
 1 7, 1 . :|
 > A-le do-ngan na tar-hu-rung di-ba-ga-san do-sa i,
 > Ha-ngo-lu-an na su-mu-rung si-ba-ri-ta-ho-non-ki.
 #B
+~ D . . . | G . C . |
 7, 1 2 2 | 1 7, 6, 6, |
+~ D . . . | Am . D . | G . . . |
 7, 1 2 3 | 4 3 2 . v | 1 2 3 5 |
+~ C . D . | G . . . | . . . . |]
 4 3 2 2 v | 3 2 1 2 | 1 7, 1 . |]
 > Di pa-pa-tar De-ba-tan-ta A-si ni ro-ha-Na i; Ai di-su-ru do A-nak-Na, baen ha-ngo-lu-an-ta i.
 #V

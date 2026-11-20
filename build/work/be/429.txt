@@ -10,8 +10,11 @@
 @check Pembanding lirik: beda ejaan "ulina" (baris 1). Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 429) | https://bukuende.wordpress.com/2013/06/16/portibi-torus-binolus-buku-ende-no-429-buku-logu-no-289/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb | . . . . | . . . . |
 5, | 1 1+1 3 (2+2) | 1 . 1 5,+5, |
+~ Eb . . . | F . . . | Bb . . . |
 6, 6,+6, 1 (6,+6,) | 5, . 0 (5,+5,) | 1 1+2 3 1+1 |
+~ F . . . | F7 . Bb . | . . . . |]
 2 . 2 3+3 | 4 3+2 1 7,+7, | 1 . . 0 |]
 > Por-ti-bi to-rus bi-no-lus, tung go-dang do u-li-na i. Ma-tu-a so o-lo do som-bu ha-si-si-hol ni ro-ha di-si.
 #V

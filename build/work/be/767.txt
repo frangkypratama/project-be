@@ -12,12 +12,19 @@
 @check Pembanding lirik: baris 1–5 & 7 beda ejaan pada "dirohangkon"/"goarNa" (penulisan sambung/pisah); baris 11 "sangap do Tuhan" beda kata; dicek ulang ke scan hlm 834–835, buku sesuai transkripsi.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 767) | https://bukuende.wordpress.com/2013/06/18/songon-aek-na-mabaor-buku-ende-no-767-buku-logu-no-767/ | teks ayat
 #A
+~ G . | . . . . |
 5, 6, | 1 1+.+.+1 1 .+2 |
+~ . . . . | . . . . |
 3 3 3 2 | 1 1+.+.+1 1 .+1 |
+~ C . D . | G . . . | Em . Am . |
 6, 5, 5, 6, | 1 1+.+.+1 1 .+2 | 3 3+.+.+3 2 1 |
+~ D . . . | . . . . | G . . . |
 (2 . . . | 2) . 5 5 | 3 3+.+.+2 3 .+2 |
+~ . . . . | C . . . |
 3 5 3 2 | 1 1+.+.+1 1 .+6, |
+~ . . D . | G . . . |
 6, 5, 5, 6, | 1 1+.+.+1 1 .+2 |
+~ . . D . | G . . . | . . |]
 3 3+.+.+3 2 2 | (1 . . . | 1) . |]
 > So-ngon aek na ma-baor da-me-Na so-ngon aek na ma-baor da-me-Na so-ngon aek na ma-baor da-me-Na di ro-hang-kon, so-ngon aek na ma-baor da-me-Na; so-ngon aek na-ma-baor da-me-Na, so-ngon aek na ma-baor da-me-Na di ro-hang-kon.
 #V

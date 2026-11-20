@@ -12,11 +12,14 @@
 @check Pembanding lirik: beda di baris 4, 5 (ejaan) dan 6 ('angka'); baris 'Unang ma......' tidak dibandingkan; buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 499) | https://bukuende.wordpress.com/2013/06/09/ale-dongan-sai-tangihon-buku-ende-no-499-buku-logu-no-340/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb | . . Eb | Bb . . | Eb . F | Bb . :|
 5,+1 | 3 .+2 1+6, | 5, 3, 5,+5, | 6, .+1 7,+2 | 1 . :|
 > A-le do-ngan, sai ta-ngi-hon Ha-ta a-pul-a-pul on.
 > Si-an De-ba-ta A-man-ta na sun go-go i tong tong
 #B
+~ Bb | Eb . F | Bb . F | Cm . . |
 2+3 | 4 .+3 2+1 | 3 2 2+3 | 4 .+3 2+1 |
+~ F . Bb | Eb . Bb | . . . | . . F | Bb . |]
 2 . 3+2 | 1 .+6, 5,+3, | 5, 1 3+4 | 5 .+3 2+3 | 1 . |]
 > U-nang ma ha-mu ma-bi-ar, Hu-do-nga-ni pe ha-mu. A-la nii sai lam pa-hin-sa ro-ha do-hot ton-di-mu
 #V

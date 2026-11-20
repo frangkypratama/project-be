@@ -12,9 +12,13 @@
 @check Birama 1: angka "4" tercetak dengan noda/titik di atas, tetapi not balok = Bes4 (oktaf sama) → ditulis 4 tanpa titik.
 @check Ejaan kredit ditulis seperti buku ("Claudens", "Schuldz"; lazimnya Claudius, Schulz).
 #A
+~ F | Gm . . . | C . F . | . . Bb . |
 1 | 2 1 4 3 | 2 . 1 3 | 3 3 6 5 |
+~ C7 . F . | . . Bb . | C . F . |
 4 . 3 3 | 3 3 4 3 | 2 . 0 1 |
+~ Gm . . . | C . F . | . . Bb . |
 2 1 4 3 | 2 . 1 3 | 3 3 6 5 |
+~ C7 . F . | . . Bb . | C . F |]
 4 . 3 3 | 3 3 4 3 | 2 2 1 |]
 > Lam-bok son-dang ni bu-lan hu-mir-dop-hir-dop, bin-tang di par-la-ngi-tan i, ho-lom do hu-ma-li-ang di hu-ta di ba-li-an, ma-ra-di na ti-nom-pa i.
 #V

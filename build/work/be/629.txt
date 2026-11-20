@@ -12,14 +12,21 @@
 @check Pembanding lirik: bukuende.wordpress.com — ayat 3 baris 3 (jaou) beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 629) | https://bukuende.wordpress.com/2013/06/16/lao-do-au-tu-tanoman-i-buku-ende-no-629-buku-logu-no-629/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab | . . . Eb . . | Ab . . . . . | Fm . . Bbm . . |
 5, | 5, 3, 4, 5, 1 2 | (3 . . 3) 2 1 | 1 . 1 2 1 6, |
+~ Ab . . . . . | Eb . . . . . | Ab . . . . . |
 1 . . 5, . 7,+1 | 2 . 2 7, . 6,+7, | 1 . 2 3 . 3 |
+~ Eb . . . . . | . . . . . |
 2 . 3 2 . 1 | (7, . 1) 2 . |
 > Lao do au tu ta-no-man i tung so-got so-a-da mar-do-ngan du-ngi hu-be-ge so-a-ra-Na i he-he ha-pe I-ba-na
 #B
+~ Ab | Db . . . . . |
 3+.+.+2 | 1 . 1 1 7, 6, |
+~ Eb . . . . . | Bbm . . Eb7 . . |
 7, . 7, 7, . 5,+5, | 4 . 4+4 4 3 #2 |
+~ Ab . . . . . | . . . Eb . . | Ab . . Db . . |
 (3 . . 3) . 1+2 | 3 . 3 2 2 7, | 1 . 1 1 . 6, |
+~ Ab . . Eb . . | Ab . . . . |]
 5, 1 .+1 7, 1 2 | (1 . . 1) 0 |]
 > Rap mar-da-lan au, do-hot Tu-han-ki ndang ha-pa-lang las ni ro-hang-ki ai di-dok "I-ba-na nam-pu-na au" rap Je-sus mar-tu-a do au.
 #V

@@ -12,13 +12,18 @@
 @check Nama komponis tercetak "Johann Cruger" (ejaan lazim: Crüger).
 @check Judul "Bongoti ma Rohangku.", baris pertama lirik "Mardongan olopolop ma".
 #A
+~ F . | . . . . | Bb . C . | F . . . |
 3 . | 1 . 5 . | 4 3 2 . | 1 . v 3 . |
+~ C . . . | . . :|
 2 1 7, 1 | 2 . :|
 > Mar-do-ngan o-lop-o-lop ma naek Tu-han-ta i,
 > Ji-nang-kon ni na to-rop su-ru-su-ru-an i.
 #B
+~ C . | F . . . |
 0 2 | (3+.+.+#4) 5 5 #4 |
+~ C . F . | C . . . | C7 . F . | Bb . C7 . |
 5 . 0 5 | 2 1 2 3 | 4 . 3 v 3 | (4+.+.+5) 6 5 4 |
+~ F . C . | Gm . C7 . | F . C . | F . |]
 3 . 2 . | 0 2 4 4 | 3 . 2 . | 1 . |]
 > An-tong nang hi-ta pe, ta-pu-ji ma Tu-han-ta. mar-en-de-en-de hi-ta, mar-o-lop-o-lop be.
 #V

@@ -10,7 +10,9 @@
 @check Pembanding lirik: bukuende.wordpress.com — ayat 4 baris 2: pembanding tanpa "do"; buku mencetak "Unduk do au tu Ho Debata". Buku tetap acuan. (Pembanding menulis "Buku Logu No. 704"; buku sendiri tidak mencetak nomor Logu.)
 @ref Lirik pembanding: bukuende.wordpress.com (BE 704) | https://bukuende.wordpress.com/2013/06/09/basa-do-ho-buku-ende-no-704-buku-logu-no-704/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ D . . . | A . . . | Em . A7 . | D . . . |
 1 . 1 3 | 2 . . . | 2 . 2 4 | 3 . . . |
+~ . . . . | G . A7 . | D . A . | D . . . |]
 3 . 3 5 | 4 . 2 4 | 3 . 2 . | 1 . . . |]
 > Ba-sa do Ho, ba-sa do Ho! Ba-sa do Ho! Tu au De-ba-ta.
 #V

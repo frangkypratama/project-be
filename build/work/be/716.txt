@@ -13,14 +13,21 @@
 @check Pembanding lirik: bukuende.wordpress.com — baris 1 beda ejaan "sandok". Buku tetap acuan. (Pembanding menulis "Buku Logu No. 716"; buku sendiri tidak mencetak nomor Logu.)
 @ref Lirik pembanding: bukuende.wordpress.com (BE 716) | https://bukuende.wordpress.com/2013/06/13/di-na-mamolus-sandok-ngoluon-buku-ende-no-716-logu-no-716/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ C . . . . . | G . . C . . |
 3 #2 3 5 4 3 | 2 3 2 1 . . |
+~ F . . . . . | G . . C . . | F . . G . . |
 4 5 6 1' 7 6 | (5 . . 5 . .) | 1' 6 1' 7 5 7 |
+~ Dm . . G . . | . . . Am . . | G . . C . . |]
 6 4 6 5 . . | 5 6 7 1' 7 6 | (5 . . 5 . .) |]
 > Di na ma-mo-lus san-dok ngo-lu-on gok do na mar-sak ga-le. bo-an si-non-dang tu na ho-lom i a-sa mar-go-go mu-se.
 #B
+~ C . . . . . | F . . . . . | G . . C . . | . . . . . . |
 3 . . 5 . 3 | 4 . . 6 . . | 7 . . 3' . 2' | 1' . . 5 . . |
+~ F . . . . . | G . . C . . | Am . . Dm . . | G . . . . . |
 6 . . 1' . 6 | (5 . . 5) . 3 | 3 . . 2 . . | (2 . . 2 . .) |
+~ C . . . . . | F . . . . . | G . . C . . | . . . . . . |
 3 . . 5 . 3 | 4 . . 6 . 6 | 7 . . 1' . 2' | (3' . . 3' . .) |
+~ G . . C . . | F . . . . . | C . . . . . | . . . . . . |]
 2' . . 3' . 3' | 4' . . 6 . 4' | 3' . . 3' . 2' | (1' . . 1' . .) |]
 > Ba-hen ma a-hu par-hi-te-an-Mu pa-su-pa-suM ma baor ma i a-le Tu-han hu-pa-tu-pa ma au baen pa-su-pa-su tu do-ngan su-de.
 #V

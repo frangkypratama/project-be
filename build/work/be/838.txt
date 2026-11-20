@@ -12,12 +12,19 @@
 @check Hlm 929 baris 3, birama 3: angka tercetak "5 . 2  4 . 3" dengan satu garis atas di atas "4 . 3" (tanpa garis ganda); balok dua not 1/8 berbalok → ditulis 4+3 (titik dianggap pemisah).
 @check Angka dicoret 1 dan 4 = #1 (E♮) dan #4 (A♮), sesuai balok.
 #A
+~ Eb | . . Fm | Bb7 . Eb | . . Bb |
 3+3 | 5 .+3 2+3 | 4 3 3+5 | 1' .+1' 7+6 |
+~ Eb . Ab | Bb . . | Bb7 . Eb |
 5 . 6+5 | 5 .+2 #1+2 | 4 3 3+#4 |
+~ . . F | Bb . . | Fm . Bb |
 5 .+5 6+#4 | 5 . 2+3 | 4 .+3 2+1 |
+~ Eb . . | Bb7 . Eb | . . . |
 3 2 3+4 | 5 .+4 3+2 | 3 . 3+5 |
+~ . . Bb | Cm . Eb | Bb . Bb7 |
 1' .+1' 7+6 | 6 5 3+3 | 5 .+2 4+3 |
+~ Eb . . | . . Bb |
 3 . 3+5 | 1' .+1' 7+6 |
+~ Fm . Bb7 | Eb . . | . . |]
 6 5 5+4 | 3 .+3 3+2 | 1 . |]
 > U-nang sung-kun be tu a-hu boa-sa mar-sak ro-ha-mi De-ba-ta do hu-lu-lu-i si-a-pu-li ro-hang-ki nang di au pe ha-mo-ra-on tu-a ni por-ti-bi-on tung po-gos pang-ki-la-laan-ku mo-lo ma-go ton-ding-kon tung po-gos pang-ki-la-laan-ku mo-lo ma-go ton-ding-kon.
 #V

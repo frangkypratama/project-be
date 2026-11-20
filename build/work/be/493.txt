@@ -13,10 +13,13 @@
 @check Pembanding lirik: beda ejaan di baris 6; buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 493) | https://bukuende.wordpress.com/2013/06/16/naeng-modom-do-sudena-buku-ende-no-493-buku-logu-no-335/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G | . . . D . . | G . . . . . | C . . . . . |
 5, | 1 . 1 (7, 6,) 7, | 1 . . 5, . 5, | 6, . 6, (1 7,) 6, |
+~ G . . . . . | . . . . . . | C . . D7 . . | G . . D7 . . | G . . . |
 (1 . . 1) 0 1 | 3 . 3 (3 6) 5 | 4 . . 5 . 4 | 3 . 3 (4 2) 7, | (1 . . 1) |
 > Naeng mo-dom do su-de-na, naung sae u-la-on i. Na ma-ra-di-an hi-ta di-ja-ga A-ma i
 #B
+~ G . . . . | . . . . . . | C . . D7 . . | G . . D7 . . | G . . . |]
 (5, . 5,) 0 1 | 3 . 3 (3 6) 5 | 4 . . 5 . 4 | 3 . 3 (4 2) 7, | 1 . 1 0 |]
 > i. Na mar-a-di-an hi-ta di-ja-ga A-ma i _
 #V

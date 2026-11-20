@@ -13,22 +13,35 @@
 @check Bagian A baris 5 (hlm 916), birama 2: angka "1̇ . 7 ." tetapi not balok tampak D5 (2̇) setengah lalu B4; ditulis sesuai angka (1̇).
 @check Bagian C birama 2 baris 2: "mar -" di bawah F setengah + F 1/8 bertitik (dua not sama tanpa legato); ditulis "mar _" (suku kata ditahan).
 #A
+~ C . G . | C . F . | G . Dm . | G . C . |
 5 .+5 5 5 | 1' 5 4 3 | 2 3 4 6 | 5 .+2 3 0 |
+~ G . . . | C . F . | . . C . | G7 . C . |
 5 .+5 5 5 | 1' 5 4 3 | 6 6 5 3 | 4 (3+2) 1 0 |
+~ . . . . | . . . . | F . . . | G . C . | F . G . | C . F . |
 3 . . 3 | 3 . 3 . | 6 . . 1' | 7 . 3 . | 6 . 7 . | 1' . . 6 |
+~ C . D . | G . . . | C . G . | C . . . |
 3 . #4 . | 5 . . 0 | 5 .+5 5 5 | 1' 1' 1' 5 |
+~ . . . . | . . G . | C . . . |
 1' 2' 3' 1' | 1' . 7 . | 1' . . 0 |
 > Sai pa-ho-hom ma ro-hang-ku, O Tu-han di jo-lo-Mi, ma-na-ngi-hon so-a-ra-Mu pa-to-gu-hon ro-hang-ki. Ha-ho-lo-ngon na ba-di-a go-hi ro-ha ton-ding-ki, naeng tang-kas ma hu-an-tu-si ho-long-Mi na bal-ga i,
 #B 3/4
+~ C | G . C |
 5 | 5 . 5 |
+~ G . C | G . . | C . G | C . F | C . Am |
 5 . 5 | 5 . 5 | 5 . 5 | (1' .+7) 6 | 5 . 6 |
+~ Dm . G | C . . | G7 . C | G7 . C |
 4 . 5 | 3 . 5 | (5 .+4) 3 | (5 .+4) 3 |
+~ Dm . G7 | C . G | C . F | C . G |
 (2 .+3) 4 | 3 . 5 | (1' .+7) 6 | 5 1 2 |
+~ C . G | C . . |
 3 3 2 | 1 . . |
 > I-as tu-tu ja-la da-me, ho-hom bu-lus do ro-ha-mi a-ja-ri au ma-ni-ru i, lao pa-sol-hot-hon au tu lam-bung Mi.
 #C 4/4
+~ C . . . | G . . . |
 3+.+.+4 (5 .+.+5)+3 4+.+.+3 | 2 . . 2+.+.+3 |
+~ Dm . G7 . | C . . . | G . C . |
 4 . 4+.+.+6 5+.+.+4 | 5 . . 3+.+.+4 | (5 . 5)+.+.+1' 2'+.+.+1' |
+~ F . . . | C . . . | . . . . |]
 6 . . 1'+.+.+6 | 5 1' 1' 7 | 1' . . 0 |]
 > Di-ta-ngi-hon Ho do au di na mar _ ta-ngi-ang i, hu-pa-ngi-do ma tu Ho sai pa-ho-hom ro-hang-ki.
 #V

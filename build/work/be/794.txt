@@ -11,9 +11,13 @@
 @check Tidak ada nomor "Logu No." di kepala lagu → @bl 0.
 @check Kredit ditulis seperti buku ("Koomm, Herrsegne Uns; Dieler Tratwein, 1987"); ejaan lazim: Komm, Herr, segne uns; Dieter Trautwein.
 #A
+~ G . D . | G . . . | C . D . | . . G . |
 1 . 5, . | 1 2 3 . | 4 3 2 1 | 2 . 1 . |
+~ . . D . | G . . . | C . D . | . . G . |
 1 . 5, . | 1 2 3 . | 4 3 2 1 | 2 . 1 . |
+~ D . . . | Am . D7 . | G . . . | C . D . |
 5 .+5 2 3 | 4 . . . | 3 2 1 7, | 6, . 7, . |
+~ G . Am . | D7 . G . | . . D . | G . . . |]
 1 .+1 2 3 | 4 . 3 . | 5 3 2 2 | 1 . . . |]
 > Ro ma Ho Tu-han pa-su-pa-su ha-mi. da-me si-an Ho pa-sa-da-hon ha-mi sai tong-tong ma Ho man-do-nga-ni ha-mi di na mar-las ro-ha nang di ar-sak i.
 #V

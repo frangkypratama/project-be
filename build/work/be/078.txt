@@ -9,11 +9,14 @@
 @check Pembanding lirik: bukuende.wordpress.com — 27 dari 32 baris sama persis; 5 baris beda ("janggar-janggar", "do diporsan", "au na di joloM", "naung olo", "o Jesus, di"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 78) | https://bukuende.wordpress.com/2013/06/16/o-ulu-na-sap-mudar-buku-ende-no-78-buku-logu-no-158/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Am | Dm . . . | G . E . | Am . E7 . | Am . . :|
 3 | 6 5 4 3 | 2 . 3 v 7 | 1' 1' 7 7 | 6 . . :|
 > O u-lu na sap mu-dar, bi-naen ni bu-gang-Mi,
 > Na si-an jang-gar-jang-gar si-sung-sang du-ri i!
 #B
+~ C | G . Am . | C . . . | F . . . | C . . . |
 1' | 7 5 6 7 | 1' . 1' v 5 | 6 5 6 4 | 3 . . v 1' |
+~ G . C . | F . Em . | F . G . | C . . |]
 7 2' 1' 7 | 6 . 7 v 3 | 4 3 2 2 | 3 . . |]
 > O u-lu ha-to-nga-mon hi-an do tum-pal-Mi; Di-taon Ho ha-le-a-on: Ho naeng som-ba-on-ki!
 #V

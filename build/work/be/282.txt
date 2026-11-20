@@ -9,8 +9,11 @@
 @check Pembanding lirik: baris 10,14,21,22,23,34 beda ejaan/kata; dicek ulang di scan hlm 262–263, buku ditulis apa adanya.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 282) | https://bukuende.wordpress.com/2013/06/18/tung-beasa-au-holosan-buku-ende-no-282-buku-logu-no-80/ | 30/36 baris sama
 #A
+~ F . C . | F . C . | F . Bb . | C . . . | F . Bb . |
 1 . 2 . | 3 . . 2 | 3 5 6 . | 5 . . . v | 5 6 4 . |
+~ C7 . F . | . . Bb . | C . F . | . . C7 . | F . C . |
 4 5 3 . v | 3 5 4 3 | 2 . 1 . v | 5 . 4 . | 3 . . 2 |
+~ F . Bb . | C . . . | F . Bb . | C7 . F . | . . Bb . | C . F . |]
 1 7, 6, . | 5, . . . v | 5 6 4 . | 4 5 3 . v | 3 2 4 3 | 2 . 1 . |]
 > Tung be-a-sa au hol-so-an? Kris-tus i Tur-puk-ki, na so ha-ram-pa-san. I-se do na tuk mang-kin-su Sur-go i di au i, dung tu-si di-to-gu.
 #V

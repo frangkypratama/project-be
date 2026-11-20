@@ -9,12 +9,16 @@
 @check Pembanding lirik: bukuende.wordpress.com — 10 dari 12 baris sama; 2 baris beda ejaan. Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 134) | https://bukuende.wordpress.com/2013/06/18/sai-torop-dope-parbegu-buku-ende-no-134-buku-logu-no-176/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . . . . . | Bb . . C . . | F . . . . . |
 1 . 2 3 . 2 | 1 7, 6, . 5, . v | 1 . 2 3 . 4 |
+~ . . . . . . :|
 3 . 2 . 1 . :|
 > Sai to-rop do-pe par-be-gu na di ha-ho-lo-mon i
 > Je-sus, ro ma Ho pa-ti-bu man-das-da-si ang-ka i
 #B
+~ F . . C7 . . | F . . . . . | . . . Dm . . | Gm . . C . . |
 3 . 3 5 . 4 | 3 2 3 . . . v | 5 . 5 6 . 5 | 4 3 2 . . . v |
+~ F . . C7 . . | F . . . . . | . . . C7 . . | F . . . . . |]
 3 . 5 4 . 3 | 1 2 3 . 1 . v | 3 . 3 4 . 3 | 2 1 (1 7,) 1 . |]
 > Ro tu ha-ra-ja-on-Mi a-sa so-nang do-hot i; To-gu na-sa ma-ni-si-a tu pa-dan-Mu na ba-di-a.
 #V

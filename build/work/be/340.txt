@@ -12,11 +12,15 @@
 @check Birama akhir dicetak "3 2 . 1"; not balok tiga not 1/4 (melengkapi ketukan gantung) → titik dianggap pemisah, ditulis "3 2 1".
 @check Komponis di BE 324 tercetak "Heinrich Isack 1517", di sini "Heinrich Isaak 1539" — keduanya ditulis sesuai buku.
 #A
+~ G | . . . . | D7 . G . |
 3 | 1 2 3 5 | 4 . 3 v 3 |
+~ D . . . | G . D . | G . . . | D . G |
 5 5 2 3 | 1 . 7, v 5, | 1 2 3 3 | 2 . v 3 |
 > Ti-bu ma ro ting-king-ku, lao bo-ngot tu ba-gas-hu di ha-so-na-ngan i. Ha
 #B
+~ G . . . | D7 . G . | D . . . |
 1 2 3 5 | 4 . 3 v 3 | 5 5 2 3 |
+~ G . D . | G . D7 . | G . . |]
 1 . 7, v 5, | 1 2 (3+4) (5+4) | 3 2 1 |]
 > mu-na, na-to-ras-hu, ndang ja-di an-du-ngan-mu Au, na ma-no-pot sur-go i.
 #V

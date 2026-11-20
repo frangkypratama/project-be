@@ -12,7 +12,9 @@
 @check Pembanding lirik: beda di baris 2 (ejaan) dan 4 ('na'); buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 496) | https://bukuende.wordpress.com/2013/06/18/sion-paradiananta-buku-ende-no-496-buku-logu-no-337/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . Bb7 | Eb . Bb | Fm . . | Bb . . |
 5+.+.+4 3+5 4+2 | 3 1 2+1 | 4 3 2+1 | 2 . . |
+~ Eb . Ab | Eb . Bb | Eb . Bb | Eb . . |]
 5+.+.+4 3+5 6+5 | (5+4) 3 2+1 | 5+4 3 2 | 1 . . |]
 > Si-on pa-ra-di-a-nan-ta, dao ma hol-so-hol-so-mu Ai di-dok Tu-han-ta Je-sus da-me, da-me di ha-mu
 #V

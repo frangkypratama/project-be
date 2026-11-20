@@ -11,9 +11,13 @@
 @check Baris 2 "1 . 0 5": titik bawah pada 5 tidak tercetak, tetapi not balok buku menunjukkan E4 (5 rendah).
 @check Buku menulis "Schroder"; ejaan aslinya Schröder.
 #A
+~ A | . . . . | D . E . | A . . . |
 5, | 1 .+2 3 1 | 6, . 2 . | 1 7, 0 5, |
+~ D . . . | A . E . | A . E . | A . . . | D . E . |
 6, 7, 1 4 | 3 . 2 . | 1 . 0 5, | 1 .+2 3 1 | 6, . 2 . |
+~ A . E . | A . . . | E . Bm . | E . A . | E7 . A . |
 1 7, 0 2 | 3 #4 5 1 | 7, . 6, . | 5, . 0 5, | 4 . . 3 |
+~ E . A . | E . A . | D . . . | A . E . | A . . |]
 2 2 3 4 | 5 . 0 5, | 6, 7, 1 4 | 3 . 2 . | 1 . . |]
 > O Tu-han Je-sus, Ho Ra-jang-ku, ta-ngi-hon au, na-po-so-Mon! Naeng to-po-tan-ku do do-sang-ku tu Ho, Si-gom-gom ta-no on. Ai naeng ma-ngo-lu ton-ding-ki mar-hi-te-hi-te mu-dar-Mi.
 #V

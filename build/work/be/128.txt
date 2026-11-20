@@ -13,10 +13,15 @@
 @check Tanda napas di tengah ketukan (mis. "1̄ , 1̄") tidak ditampilkan.
 @check Birama "2̄ 2̄ 2̄ 1⌒2": pasangan terakhir dibaca 1/16 (seperti baris 4) agar genap 2 ketuk.
 #A
+~ Ab | Eb7 . | Bbm . | Eb . |
 0+5, | 5+.+.+4 3+2 | 2 1+1 | 2+2 2+.+(1+2) |
+~ Ab . | Eb7 . | Ab . | Eb7 . | Ab . |
 3 .+3 | 4+.+.+2 1+7, | 1 5,+3 | 4+.+.+2 1+7, | 1 0+3 |
+~ Eb . | C . | Eb . | Bbm . |
 2+1 7,+6, | (#5,+7,) 6,+3 | 2+.+.+1 7,+6, | (6, 5,)+5, |
+~ Eb7 . | Bbm . | Eb . | Ab . |
 5+.+.+4 3+2 | 2 1+1 | 2+2 2+.+(1+2) | 3 .+3 |
+~ Eb7 . | Ab . | Eb7 . | Ab . |]
 4+.+.+2 1+7, | 1 5,+3 | 4+.+.+2 1+7, | 1 0 |]
 > Di-tan-da De-ba-tan-ta na di I-ha-na i, na met-met nang na bal-ga, di na-sa bang-so i; Ndang ma-go lo-a-son-na, nang sa-da si-an i; Di-to-gu do su-de-na tu ha-so-na-ngan i, Di-to-gu do su-de-na tu ha-so-na-ngan i.
 #V

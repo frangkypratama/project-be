@@ -15,14 +15,18 @@
 @check Refrein "5 5 1 4" (ing-kon mo-nang): not pertama di balok tampak A4 (= 6), angka 5. Ditulis mengikuti angka.
 @check Ayat 1 disusun dari suku kata di bawah not; bait penutup "Dame ma di hita …" tercetak tanpa nomor setelah ayat 6, ditulis sebagai bait terakhir.
 #A
+~ C . F . | G7 . C . :|
 5 5 6 6 | (5 .+4) 3 . :|
 > Ing-kon mo-nang hi-ta,
 > ing-kon mo-nang hi-ta,
 #B
+~ C . F . | C . Dm . | G . . . | C . |]
 5 5 6 7 | 1' . 2' . | (7 . .+6 7+6) | 5 . |]
 > ing-kon mo-nang di u-jung-na.
 #C
+~ F . | C . G . | C . . . | F . G7 . | C . . . |
 6 7 | 1' . 7 6 | 5 . . . | 6 . 5 4 | 3 . . . |
+~ . . F . | C . G . | C . . . |]
 5 5 1 4 | (3 . 2 .) | 1 . . . |]
 > Na por-se-a do au di De-ba-ta, ing-kon mo-nang hi-ta.
 #V

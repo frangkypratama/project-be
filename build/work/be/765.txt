@@ -14,18 +14,26 @@
 @check Pembanding lirik: baris 4 (muba na ni dokNa), 7 (siasii), 8 (hot) beda ejaan; dicek ulang ke scan hlm 830–831, buku sesuai transkripsi. Teks ayat disusun dari suku kata di bawah not (buku tidak mencetak ayat terpisah).
 @ref Lirik pembanding: bukuende.wordpress.com (BE 765) | https://bukuende.wordpress.com/2013/06/16/nang-pe-munsat-angka-dolok-buku-ende-no-765-buku-logu-no-765/ | teks ayat
 #A
+~ Eb . . . | Bb7 . Eb . |
 3 .+3 3+3 3+3 | 5 4 3 3+3 |
+~ Fm . . . | Bb . . . | . . . . |
 2+2 1+1 4 3 | 2 . . 0 | 2 .+2 2+7, 2+5 |
+~ . . Eb . | F . Bb . | . . Eb . :|
 (7 .+6) 5 5+5 | #4+#4 #4+#4 5 6 | 5 . . . :|
 > Nang pe mun-sat ang-ka do-lok _ nang hu-mun-tal pe ro be-an i ndang ta-ga-mon o-lo mun-sat a-si ro-ha ni Ja-ho-wa i,
 > nang pe ma-go so-got la-ngit _ nang pe ma-go do-hot ta-no i ndang ta-ga-mon o-lo mu-ba na ni dok-Na di ha-ta-Na i.
 #B
+~ Ab . . . | . . F . | Bb7 . Eb . |
 4 .+3 4+.+.+3 4+.+.+3 | 4 . #4 . | 5 .+4 3+.+.+2 3+.+.+4 |
+~ Bb . Eb . | . . . . | Ab . . . |
 5 . 3 5+5 | 5 3 . 5+5 | 6 4 . 6+6 |
+~ Eb . . . | . . . . | Ab . . . |
 5 3 1 2 | 3 . 0 5+3 | 4 4 . 6+4 |
+~ Eb . . . | . . Bb7 . | Eb . . . :|
 5 3 . 1+2 | 3 .+5 (4 2) | 1 . . 0 :|
 > Hot do a-si ni ro-ha-Na ro di sa-le leng-le-leng-na nang pe pa-dan ha-da-me-on, tung na so hu-mor-dit do i-do ha-ta ni Ja-ho-wa Tu-han si a-sii ho
 #C
+~ Eb . . . | . . Cm . | Ab . . . | Eb . Bb . | Eb . . . |]
 1 . . . | 5 . (6 b7) | 6 . . . | 1 . . 2 | 3 . . 0 |]
 > ho hot do i saut do i
 #V

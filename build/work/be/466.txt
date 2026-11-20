@@ -12,11 +12,14 @@
 @ref Melodi pembanding: Hymnary.org SURRENDER | https://hymnary.org/tune/surrender_weeden | incipit 33432 23211 43231 (kontur sama, bergeser satu terts)
 @ref Lirik pembanding: bukuende.wordpress.com (BE 466) | https://bukuende.wordpress.com/2013/06/16/nunga-ro-au-buku-ende-no-466-buku-logu-no-314/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . Cm . | Fm . Bb7 . | Eb . Ab . | Bb7 . Eb . :|
 5 .+5 6 5 | 4 .+4 5 4 | 3 .+3 6 5 | 4 5 3 . :|
 > Nun-ga ro au. O Tu-han-ku tu hau pi-nor si-lang-Mi.
 > Hu pe-le-hon ma di-ring-ku u-pa ha-lo-ja-on-Mi.
 #B
+~ Eb . Ab . | Bb7 . Eb . | Bb . Bb7 . | Eb . . . |
 1' .+7 6 5 | 4 . 0 0 | 7 .+6 5 4 | 3 . . 0 |
+~ . . Ab . | Eb . Bb . | Bb7 . Eb . | . . . . |]
 3 .+4 6 5 | 1' .+7 7 6 | 5 .+4 3 2 | 1 . . 0 |]
 > Ha-tu-a-on, i, las ni ro-hang-ki Ai hi-bul do hu-pe-le-hon na-sa di-ring-ki.
 #V

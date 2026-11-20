@@ -12,7 +12,9 @@
 @check Versi b ada di BE 796b.
 @check Kredit ditulis seperti buku ("Samuel Rithenberg"; ejaan lazim Rothenberg).
 #A
+~ G . . . | C . D . | G . D . | G . . . |
 3 2 1 7, | 6, . 5, . | 1 .+1 2 .+2 | 3 . . . |
+~ . . C . | D7 . G . | D . . . | G . . . |]
 5 5 6 5 | 4 . 3 . | 2 1 2 2 | 1 . . . |]
 > A-si ni ro-ha-Na do ma-ngu-sung ho, ro di sa-le-leng na a-si-an Na ho.
 #V

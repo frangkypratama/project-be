@@ -10,11 +10,14 @@
 @check Pembanding lirik: bukuende.wordpress.com — 10 dari 15 baris sama persis; 5 baris beda ejaan ("haposi", "na'mbaru", "bagas", "parsirionnami"). Dicek ulang ke scan: "donganami" diperbaiki menjadi "dongannami" (sesuai buku); kata lain mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 63) | https://bukuende.wordpress.com/2013/06/16/jesus-ho-do-sai-tongtong-buku-ende-no-63-buku-logu-no-77/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb . . . | . . F . | Bb . F . | Bb . Eb . |
 1 5, 1 2 | 3 .+3 2 . v | 3 1 (2+1) 7, | 1 7, 6, . |
+~ F . Bb . :|
 5, . . . :|
 > Je-sus, Ho do sai tong-tong Di ha-po-si ro-ha-na-mi;
 > Nang di taon na'm-ba-ru on. Ing-kon Ho do do-ngan-na-mi;
 #B
+~ Bb . Eb . | F7 . Bb . | . . . . | F . Bb . |]
 5, 3, 6, 5, | 4, .+4, 3, . v | 1 2 3 1 | 2 2 1 . |]
 > Tan-da hot do pa-dan i di-ba-ga-san mu-dar-Mi.
 #V

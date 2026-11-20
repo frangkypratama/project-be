@@ -14,7 +14,9 @@
 @check Baris 2 tercetak "a - Si" (huruf S besar) — ditulis apa adanya.
 @check Hanya satu ayat tercetak (teks di bawah not).
 #A
+~ C7 . | F . | Gm . | . . |
 5+.+.+4 3+4 | 5 3 | 4+.+.+3 2+3 | (4 2) |
+~ C7 . | F . | C7 . | F . |]
 5+.+.+4 3+4 | 5 6 | 5 4 | 3 . |]
 > Tu-han Je-sus Kris-tus a-si ma ro-haM, a-Si ma ro-haM di au Tu-han.
 #V

@@ -12,13 +12,17 @@
 @check Pembanding lirik: baris 3 (asiMi/asi Mi) dan 13 (diGoarNa) beda ejaan; buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 565) | https://bukuende.wordpress.com/2013/06/16/las-rohangku-lao-mamuji-buku-ende-no-565-buku-logu-no-565/ | teks lirik
 #A
+~ G . D7 . | . . G . | . . D . | G . D . |
 3 3 4 5 | 5 4 3 2 | 1 1 2 3 | 3 .+2 2 . |
 > Las ro-hang-ku lao ma-mu-ji De-ba-ta Par-ho-long i,
 #B
+~ G . D7 . | . . G . | Em . Am . | D . G . |
 3 3 4 5 | 5 4 3 2 | 1 1 2 3 | 2 .+1 1 . |
 > so-ngon bu-nga na ma-nger-bang di na bin-sar a-ri i.
 #C
+~ D . G . | D7 . G . | D7 . G . | . . D . |
 2 2 3 1 | 2 (3+4) 3 1 | 2 (3+4) 3 2 | 1 2 5, . |
+~ G . D7 . | . . G . | Em . Am . | D . G . |]
 3 3 4 5 | 5 4 3 2 | 1 1 2 3 | 2 .+1 1 . |]
 > Ar-sak, do-sa, ha-por-su-hon ma-go di baen a-si-Mi. las ni ro-ha na ma-nong-tong le-hon di au Tu-han-ki.
 #V

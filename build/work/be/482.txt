@@ -12,7 +12,9 @@
 @check Pembanding lirik: beda di baris 1 (kata 'na', 'naburju') dan 6 ('amboleng'); buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 482) | https://bukuende.wordpress.com/2013/06/09/asa-on-ma-na-tutu-buku-ende-no-482-buku-logu-no-326/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb7 . Eb . | Cm . Fm . | Bb7 . Eb . | . . Bb . |
 5 (5+4) 3 2 | 1 3 2 . | 5 (5+4) 3 2 | 1 3 2 . |
+~ Eb . Ab . | Eb . . . | Ab . . . | Eb . . . |]
 5 5 6 (5+4) | 3 #4 (5 5) | 6 7 1' 4 | 3 2 (1 1) |]
 > A-sa on ma na tu-tu, Je-sus i do na-bur-ju. Ma-go pe por-ti-bi-on, tu I-ba-na ro-hang-kon.
 #V

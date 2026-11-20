@@ -12,8 +12,11 @@
 @check Pembanding lirik: L1 kata 4 & 6, L6 kata 3, L10 kata 1 beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 236) | https://bukuende.wordpress.com/2013/06/16/jotjot-do-marsak-buku-ende-no-236-buku-logu-no-7/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F | . . . . . . | C . . . . . | F . . C . . |
 5, | 1 . 1 (1 7,) 1 | (2 . 7,) 5, . 5, | 1 . 1 (2 1) 2 |
+~ F . . . . . | Gm . . C7 . . | F . . Gm . . | Bb . . C . . |
 (3 . . 3 .) v 3 | (3 2) 2 (2 3) 4 | 5 . . 6, . v 2 | 1 . 1 (2 1) 2 |
+~ F . . . . . | Gm . . C7 . . | F . . Gm . . | F . . . . . | . . . . |]
 (3 . . 3 .) v 3 | (3 2) 2 (2 3) 4 | (5 . 1') (6 4) 2 | 1 . 1 3 . 2 | (1 . 1) 0 |]
 > Jot-jot do mar-sak i-ba bi-naen ni jol-ma i. Na hu-ma-li-ang i-ba, par-ro-ha da-ging i. Na hu-ma-li-ang i-ba, par-ro-ha da-ging i.
 #V

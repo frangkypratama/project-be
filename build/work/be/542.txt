@@ -10,11 +10,17 @@
 @check Pembanding lirik: baris 5 (ejaan kata 3), 7 (kata 7 tidak ada di pembanding), 8 (kata pertama beda). Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 542) | https://bukuende.wordpress.com/2013/06/16/o-ale-tuhan-didia-ho-togang-buku-ende-no-542-buku-logu-no-39/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ D7 . Gm | D . Gm | Cm . . | F . . |
 3 .+2 1 | 7, 7, 3 | 4 .+3 (2+1) | 7, 7, 0 |
+~ Bb . D | Gm . . | D7 . Gm | D7 . Gm |
 3 1 7, | 6, .+7, 1 | 2 .+3 1 | 7, 7, 0 |
+~ D . . | Gm . . | Cm . F | Bb . F | Bb . . |
 7, 6, 7, | 1 7, 1 | 2 .+1 2 | 3 . 0 | 3 #4 5 |
+~ C . D7 | Gm . D | Gm . D | Gm . . | D . Gm |
 #4 .+5 3 | 3 #4 #2 | 3 . 0 | 3 1 .+2 | 7, 7, 3 |
+~ Cm . F | D . Gm | Cm . . | F . . | Bb . D |
 4 3 (2+1) | 7, 7, 3 | 4 3 (2+1) | 7, 7, 0 | 3 1 7, |
+~ Gm . . | D7 . Gm | D . Gm | D . Gm |]
 6, .+7, 1 | 2 .+3 1 | 7, 7, (1+7,) | 7, . 6, |]
 > O, a-le Tu-han, di di-a Ho to-gang? Ro ma tu a-hu-na tong-tong bo-no-san. Ro ma, a-la-pi ma ton-ding-ki-non si-an na han-sit na di ta-no on. Ro ma Tu-han-ku, di di-a Ho to-gang. Di di-a Ho to-gang. Ro ma tu a-hu na tong-tong bo-no-san, bo-no-san.
 #V

@@ -11,12 +11,16 @@
 @check Ayat 2–4 di buku diakhiri singkatan "Hupuji d.u." (= refrein "Hupuji nasa asiMi, alai gumodang holongMi"); ditulis apa adanya.
 @check Judul "Di surgo do alealenta", baris pertama lirik "Jesusku naung manobus ahu".
 #A
+~ Eb | Bb . Eb | Bb7 . Eb | Bb7 . Eb | Bb . Eb |
 1 | 5 . 5 | (5 4) 3 | (5 4) 3 | 2 1 v 5, |
+~ Ab . Bb | Eb . . | Bb7 . Eb | Bb . :|
 (4 3) 2 | 3 . 3 | (5 4) 3 | 2 . :|
 > Je-sus-ku naung ma-no-bus a-hu, sai naeng ha-ho-lo-ngan-ku Ho.
 > Tu do-lok Gol-ga-ta Ho la-ho, ni-on-jar ni ho-long-Mu do.
 #B
+~ Fm | Bb . . | Eb . . |
 2 | 2 . 2 | 3 . 3 |
+~ Ab . Bb7 | Eb . Bb | Eb . Ab | Eb . Bb7 | Eb . Bb | Eb . |]
 (4 3) 4 | 5 . v 5 | (1' 7) 6 | (5 .+6) (5+4) | 3 . 2 | 1 . |]
 > Hu pu-ji na-sa a-si-Mi, a-lai gu-mo-dang ho-long-Mi.
 #V

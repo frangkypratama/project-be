@@ -10,11 +10,15 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 324) | https://bukuende.wordpress.com/2013/06/16/na-ro-muse-na-holom-buku-ende-no-324-buku-logu-no-65/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check Judul di kepala lagu "Hamu saluhut halak" (nama Logu No. 65); baris pertama lirik "Na ro muse na holom".
 #A
+~ G | . . . . | D7 . G . |
 3 | 1 2 3 5 | 4 . 3 v 3 |
+~ D . . . | G . D . | G . . . | D . G |
 5 5 2 3 | 1 . 7, v 5, | 1 2 3 3 | 2 . v 3 |
 > Na ro mu-se na ho-lom, ju-mo-lo a-sa mo-dom hu pu-ji go-ar-Mi. O
 #B
+~ G . . . | D7 . G . | D . . . |
 1 2 3 5 | 4 . 3 v 3 | 5 5 2 3 |
+~ G . D . | G . D7 . | G . . |]
 1 . 7, v 5, | 1 2 (3+4) (5+4) | 3 2 1 |]
 > Je-sus, ta-tap a-hu; Sai pa-su-pa-su a-hu, Hu-hut pa-ti-ur ro-hang-ki.
 #V

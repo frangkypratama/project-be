@@ -10,12 +10,16 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 133) | https://bukuende.wordpress.com/2013/06/16/o-tondi-na-manggohi-roha-buku-ende-no-133-buku-logu-no-113/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check Logu No. 113 = melodi yang sama dengan BE 2; notasi identik dengan BE 2.
 #A
+~ C | . . F . | G7 . C . | G . C . |
 5 | 1' 5 6 6 | 5 .+4 3 1 | 0 2 3 #4 |
+~ G . . . | . . C :|
 5+6 7+1' 7 6 | 5 . . :|
 > O Ton-di na mang-go-hi ro-ha Ni pa-nin-da-ngi na par-jo-lo i,
 > Na so dung o-lo mar-na-lo-ja ma-nga-lo mu-su ni Tu-han-na i.
 #B
+~ C | . . . . |
 5 | 1' 2' 3' 1' |
+~ F . G . | C . G . | C . . . | . . . |]
 4'+3' 2'+1' 2' . | 3' 2'+1' 7 6 | 5 1' 1' 7 | 1' . . |]
 > Sung-gu-li do-hot ro-ha-na-mi on, ma-ma-ti-ta-hon Je-sus i tong-tong
 #V

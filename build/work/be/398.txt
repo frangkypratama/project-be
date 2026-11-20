@@ -11,9 +11,13 @@
 @check Pembanding lirik: beda ejaan L2 dan L4 (mis. "Marilu", "baenonNa").
 @ref Lirik pembanding: bukuende.wordpress.com (BE 398) | https://bukuende.wordpress.com/2013/06/09/beha-na-so-mardame-buku-ende-no-398-buku-logu-no-265/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab | . . . . . . | . . . . . . | Eb . . . . . |
 5, | 1 . 7, 1 . 2 | 3 . . 3 . 4 | 2 . #1 2 . 3 |
+~ Ab . . . . . | . . . . . . | . . . . . . | Eb . . . . . |
 (1 . . 1) . 5, | 1 . 7, 1 . 2 | 3 . . 3 . 4 | 2 . #1 2 . 3 |
+~ Ab . . . . . | Db . . Eb7 . . | Ab . . . . . | Eb . . . . . |
 (1 . . 1) . 1 | 4 . 4 4 . 4 | 3 . . 3 . 3 | 2 . #1 2 . 2 |
+~ Ab . . . . . | Db . . Eb7 . . | Ab . . . . . | Eb . . . . . | Ab . . . . . |]
 (3 . . 3) . 1 | 4 . 4 4 . 4 | 3 . . 3 . 3 | 2 . #1 2 . 3 | (3 . . 3) . . |]
 > Be-ha, na so mar-da-me ro-ham na lo-ja i? Mar-i-lu do ma-ta-mu di-baen ar-sak-na i. Sai o-lo ho por-se-a di Je-sus Tu-han-mi, ma-lu-a ho bae-non-Na, di-baen ho-long-Na i.
 #V

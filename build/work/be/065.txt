@@ -12,13 +12,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 15 dari 16 baris sama persis; 1 baris beda (ayat 1 "andibahen"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 65) | https://bukuende.wordpress.com/2013/06/16/majumpang-taon-imbaru-on-buku-ende-no-65-buku-logu-no-129/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F | . . C7 | F . C7 | F . C | F . . | . . C |
 1 | 3 . 4 | 5 . 4 | 3 . 2 | 3 . v 3 | 3 . 2 |
+~ Gm . C | Dm . C | F . :|
 (4 3) 2 | (1 6, 7,) | 1 . :|
 > Ma-jum-pang taon im-ba-ru on di an-di-ba-hen Je-sus;
 > Di-baen ro-ha-na di au on, Ba-sa-na di-pa-tu-lus.
 #B
+~ F | C . F | C7 . F |
 1 | 2 . 3 | 4 . 3 |
+~ C . D | Gm . C | F . C7 | F . C7 | F . C |
 2 . #1 | 2 . v 2 | 3 . 4 | 5 . 4 | 3 . 2 |
+~ F . . | Gm . C7 | F . C | Dm . C | F . |]
 3 . v 1 | 2 . 4 | 3 . 2 | (1 6, 7,) | 1 . |]
 > I-ba-na do ma-no-gu au, Sa-lu-hut je-a di-pa-dao, mam-baen las ni ro-hang-ku.
 #V

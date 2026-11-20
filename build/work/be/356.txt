@@ -11,13 +11,18 @@
 @check Bagian Ende Psalm, judul bagian "Psalm 25".
 @check Ayat 1 disusun dari lirik di bawah not.
 #A
+~ G . C . | G . . . | . . . . | . . D7 . |
 1 7, 6, 5, | 1 2 3 . | 1 . . . v | 3 3 4 3 |
+~ G . . . :|
 1 2 1 . :|
 > Na ma-lu-ngun do ro-hang-ku tu Ho, o De-ba-tang-ki
 > Ho do na hi-na-po-san-ku ja-la ha-po-ru-san-ki
 #B
+~ G . . . | D7 . G . |
 1 2 3 1 | 4 4 3 . v |
+~ C . D . | Em . D . | G . . . | . . C . |
 1 6, 7, 5, | 6, 1 7, . | 1 . . . v | 3 3 1 4 |
+~ G . . . | . . C . | D . . . | G . . . |]
 3 2 1 . v | 3 5 4 3 | 2 1 2 . | 1 . . . |]
 > Sa-su-de na ro tu Ho, ndang ta-ru-rak ba-he-non-mu; Na-sa na ma-noi-si Ho, i do na pa-i-la-on-Mu.
 #V

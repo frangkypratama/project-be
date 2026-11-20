@@ -12,10 +12,15 @@
 @check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 692. Angka 5 dicoret (kres) = Fis di balok → #5.
 @check Birama akhir tercetak "1 . . 0" tanpa titik atas, balok = Bes4 (oktaf atas) → ditulis 1'. Birama 3 baris 5 "5" bertitik atas = F5 di balok.
 #A
+~ Bb | . . F . | Bb . . . | Eb . F . |
 3+4 | 5 1' 2' 7 | 1' . 5 6 | 4 . 5 . |
+~ Bb . . . | . . F7 . | Bb . Cm . | Bb . F . |
 3 . . (3+4) | 5 1' 2' (3'+4') | 3' . 2' 1'+6 | (5 1') . 7 |
+~ Bb . . . | F . . . | Gm . Eb . |
 1' . 0 3' | 2' 1' 7 6 | (6 #5) 6 1' |
+~ F . . . | Bb . F . | Bb . F7 . |
 (2' 1') (7 6) | 5 . . 6 | 5 1' 2' (3'+4') |
+~ Bb . . . | Eb . F . | Bb . . . |]
 3' . 5' 1' | (6 2'+1' 7) 7 | 1' . . 0 |]
 > Hu pa-sa-hat tu ta-ngan-Mu ma ton-ding-ki, ndang o-lo si-rang a-hu si-an Tu-han-ki, Ho do pang-ki-ri-man-ku nang ngo-lung-ki, ha-la-san ni ro-hang-ku O Tu-han-ki.
 #V

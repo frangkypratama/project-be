@@ -10,13 +10,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 28 dari 34 baris sama persis; beda di baris 2, 11, 12, 20, 23 (ejaan) dan 33 (kata lain). Teks tetap mengikuti buku cetak.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 102) | https://bukuende.wordpress.com/2013/06/16/o-tondi-parbadia-i-bongoti-buku-ende-no-102-buku-logu-no-206/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb | . . . . | Ab . Eb . | Ab . Eb . |
 1 | 5 3 1 5 | 6 6 5 v 5 | 6 7 1' 7 |
+~ Ab . Eb . | Ab . . . | Bb . Eb :|
 6 6 5 v 3 | 6 5 4 3 | 2 . 1 :|
 > O Ton-di Par-ba-di-a i, bo-ngo-ti ro-ha-na-mi be, ro, si-pa-ti-ur ro-ha!
 > O son-dang si-an Sur-go i, son-da-ngi ro-ha-na-mi be, tu-ha-la-las ni ro-ha!
 #B
+~ Eb |
 0 |
+~ Bb . Eb . | Bb . Eb . | Ab . Bb . | Fm . Bb . |
 5 . 3 . v | 5 . 3 . v | 4 3 2 3 | 4 3 2 3 |
+~ Fm . Bb . | Eb . . . | Ab . . . | Bb . Eb . |]
 4 3 2 . | 1 . v 1' 7 | 6 5 4 3 | 2 . 1 . |]
 > A-sa ma-sa pa-tu-pa-hon pi-no-da-hon ni ha-ta-Mu. Sai tu ha-mi ma ro-ha-mu!
 #V

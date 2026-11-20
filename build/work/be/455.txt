@@ -13,13 +13,19 @@
 @check Pembanding lirik: L7/L10/L13/L16 refrein buku disingkat 'Di na mate....' (pembanding menulis lengkap).
 @ref Lirik pembanding: bukuende.wordpress.com (BE 455) | https://bukuende.wordpress.com/2013/06/18/tung-na-ringkot-buku-ende-no-455-buku-logu-no-306/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb | . . Ab | Eb . Bb |
 3+.+.+4 | 5 .+5 6+.+.+5 | 1' .+5 5+.+.+5 |
+~ Eb . Ab | Bb . Eb | . . Ab | Eb . . |
 5 .+5 6+.+.+5 | 5 . 3+.+.+4 | 5 .+5 6+.+.+5 | 1' 5 5+.+.+1' |
+~ Bb . Bb7 | Eb . . |]
 7 .+5 4+.+.+2 | 1 .+5 (5+7) |]
 > Tung na ring-kot pa-bo-a-hon na bi-naen ni Je-sus i. Ang-ka do-sa ni-ro-hang-ku tung di-bu-ri Je-sus i. Di na
 #B 4/4
+~ Eb . Ab . |
 (1' . 1')+.+.+1' 7+.+.+6 |
+~ Bb . Eb . | Bb . . . | Eb . Bb . |
 5 . 3 5+.+.+5 | (5 . 5)+.+.+5 6+.+.+5 | (5 . 5)+0 (5+6)+7+. |
+~ Eb . Ab . | Bb . Eb . | Bb . Bb7 . | Eb . . |]
 (1' . 1')+.+.+7 1'+.+.+6 | 5 . 3 5+.+.+1' | (7 . 7)+.+.+5 4+.+.+2 | 1 . . |]
 > ma-te Tu-han Je-sus, au do hi-nop-hop-Na i. A-la au do ma-te Je-sus, au di-bu-ri Je-sus i.
 #V

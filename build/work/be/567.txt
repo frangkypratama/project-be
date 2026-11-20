@@ -13,16 +13,21 @@
 @check Pembanding lirik: baris 3 (pasahatonNa) dan 5 (habangsaMi) beda ejaan; buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 567) | https://bukuende.wordpress.com/2013/06/16/na-mora-do-tuhanta-i-buku-ende-no-567-buku-logu-no-567/ | teks lirik
 #A
+~ Bb | . . F . | . . Bb . | F7 . Bb . |
 5, | 3 3 (2+1) (7,+1) | 2 3 1 5, | 4 4 (3+2) (3+4) |
 > Na mo-ra do Tu-han-ta i ja-la par-ho-long
 #B
+~ F7 . Bb . | F . . . | Gm . Bb . |
 5 4 3 3 | 2 .+7, (2+1) (7,+6,) | 6, . 5, 5, |
 > si-tu-tu na ba-sa ma-nga-le-hon pa
 #C
+~ Bb . F . | Bb . F . | . . Bb . |
 (5,+6,) (7,+1) 2 1 | 1 .+7, 7, 7, | (7,+1) (2+3) 4 3 |
 > ngi-do ma tu Tu-han i si-an ha-mo-ra
 #D
+~ Bb . Cm . | F7 . Bb . | . . Eb . |
 3 .+2 2 2 | 5 .+4 3 3 | 3 . 4 6, |
+~ F . Bb . | . . F . | Bb . . |]
 7, 7, 1 (3+.+.+2) | (1 . 7, .) | 1 . 0 |]
 > on-Na i tu ho pa-sa-ha-ton-Na mar-do-ngan las ni ro-ha.
 #V

@@ -13,9 +13,13 @@
 @check Pembanding lirik: L8 kata 1 (buku "Shaat") beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 270) | https://bukuende.wordpress.com/2013/06/16/ngot-ai-torang-do-ari-buku-ende-no-270-buku-logu-no-152/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . . . | Bb . C . | F . . . | . . . . |
 5 3+.+.+4 5 5 | 6 . 5 . v | 1 1+.+.+1 1 2 | 3 . . 0 |
+~ . . . . | Bb . C . | F . . . | . . . . |
 5 3+.+.+4 5 5 | 6 . 5 . v | 1 2 3 2 | 1 . . 0 |
+~ C . . . | Gm . C . | F . . . | C . . . |
 2 2+.+.+2 2 3 | (4 .+3) 2 . v | 3 3+.+.+3 3 #4 | 5 . . 0 |
+~ F . . . | Bb . C . | F . . . | . . . . |]
 5 3+.+.+4 5 5 | 6 . 5 . v | 1 2 3 2 | 1 . . 0 |]
 > Ngot, ai to-rang do a-ri, sal-pu do bor-ngin i; Lam sal-pu ga-nup a-ri, par-da-la-nan-mi. Ring-ko-ti su-ma-ri-hon na pa-ngo-lu-hon ho; Ai di na ro na ho-lom ma-ra-di-an ho.
 #V

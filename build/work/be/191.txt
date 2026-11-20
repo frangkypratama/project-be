@@ -11,10 +11,15 @@
 @check Pembanding lirik: baris 8 pembanding kurang 1 kata, baris 14 beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 191) | https://bukuende.wordpress.com/2013/06/13/hosana-do-nilehon-ni-buku-ende-no-191-buku-logu-no-170/ | Pembanding lirik (tanda baca/kapital diabaikan).
 #A
+~ Eb | . . . . | Ab . Eb . | Bb . Bb7 . |
 5, | 1 1 3 2 | 1 .+.+(7,+6,) 5, v 1 | 7, 1 4 3 |
+~ Eb . Bb . | Eb . . . | Ab . . . |
 (3 2) 0 5, | 1 1 3 2 | 1 .+7, 6, v (7,+1) |
+~ Bb . . . | Eb . . . | Ab . Bb . | Eb . . . |
 (2+3) (#4+5) 7, 6, | 5, . 0 5, | 4 .+3 2 2 | 3 .+2 1 v (1+3) |
+~ Bb . Eb . | . . Bb . | Eb . . . | Ab . Bb7 . |
 5 5 3 1 | (3 2) 0 5, | 1 1 (3+2) (1+7,) | 6, 6, 4 .+2 |
+~ Eb . Bb . | Eb . Bb . | Eb . Bb . | Eb . . |]
 1 1 (7,+1) (2+3) | 1 . v 2 . | 3 (1+3) 5 7, | 1 . . |]
 > Ho-sa-na do ni-le-hon ni Tu-han-ta Je-sus i ma-no-bus hi-ta sa-su-de, di-baen ba-sa-Na i. Na du-rus do mu-dar-Na i di do-lok Gol-ga-ta; Di-ga-rar do u-tang-ta i tu Tu-han De-ba-ta, tu Tu-han De-ba-ta.
 #V

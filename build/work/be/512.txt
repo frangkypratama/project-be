@@ -11,14 +11,21 @@
 @check Kepala lagu juga mencetak "R.L. No. 533". Baris pertama lirik "Di-da-la-ni Je-sus ta-no" (judul Logu "Didalam i Jesus tano").
 @check Bagian B = Koor "Hahaanggi". Ayat 4: kata "Hahaanggi" pada "Koor:" sebagian tidak tercetak di scan ("Hah  nggi").
 #A
+~ Eb . | . . | Ab . | . . |
 3+3 3+4 | 5+5 5+3 | 4 3 | 4 . |
+~ Bb7 . | . . | Eb . | Bb . | Eb . |
 2+3 4+5 | 7+6 5+4 | 3 4 | 5 . | 3+3 3+4 |
+~ . . | Ab . | . . | Bb7 . | . . |
 5+5 5+3 | 4 3 | 4 . | 2+3 4+5 | 7+6 5+4 |
+~ Eb . | . . |]
 3 2 | 1 . |]
 > Di-da-la-ni Je-sus ta-no do-hot laut Ta-hi ho-long ni ro-ha-na di-pa-saut. Na mu-ra lu-hut di-baen ton-di-na i, Dung di-se-sa u-tang ni do-san-ta i.
 #B
+~ Eb . | . . | Ab . | . . | . . |
 5 .+5 | 1'+5 5+3 | 4 4 | 4 . | 4 .+4 |
+~ Bb7 . | Eb . | Bb . | Eb . | Bb . | . . |
 7+6 5+4 | 3 4 | 5 . | 1' .+1' | 7 6 | 7+7 6+6 |
+~ Eb . | Ab . | Bb7 . | Eb . | . . |]
 5 . | 1'+1' 1'+7 | 7+6 5+4 | 3 2 | 1 . |]
 > Ha-ha-ang-gi, ro ha-mu su-de, ta-a-ra-hon ma do-ngan ta be Ha-ha-ang-gi, dao nang jo-nok be! Ha-ra tu jo-lo-Na do-ngan-mu su-de
 #V

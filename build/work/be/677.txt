@@ -12,13 +12,19 @@
 @check Refrein baris 2 birama 2: angka tercetak "3 . 2 1 1 . 7 1" (7 ketuk 1/8); balok = B. A G | G Fis G (6 ketuk) → ditulis mengikuti balok.
 @check Lengkung "2 . . 2" dan "1 . . 1" = not diikat. "sai", "au", "jou", "lao", "ai" = satu suku kata. "4̸" = kres (Cis di balok).
 #A
+~ G . . . . . | Am . . C . . |
 3 .+2 1 1 7, 1 | 2 1 6, 6, 5, 0 |
+~ G . . . . . | D . . . . . | G . . . . . |
 1 1 1 3 .+2 1 | (2 . . 2) . 0 | 3 .+2 1 1 7, 1 |
+~ Am . . . . . | C . . G . . | . . . . . . |
 2 1 6, 6, 5, 0 | 1 1 4 3 .+1 2 | (1 . . 1) . . |
 > Man-sai lam-bok Tu-han Je-sus man-jo-u, man-jo-u ho do-hot au, i-da I-ba-na pai-ma ha-ro-ro-mu mu-lak-ma ho do-hot au.
 #B
+~ G | D . . . . . | G . . . . . | D . . G . . |
 5, | (2 . . 2) . 3 | 1 . 2 3 . . | 2 2 2 3 3 #4 |
+~ . . . D7 . . | G . . . . . |
 5 . #4 4 . . | 3 .+2 1 1 7, 1 |
+~ Am . . . . . | C . . G . . | . . . . . |]
 2 1 6, 6, 5, 0 | 1 1 4 3 .+1 2 | (1 . . 1) . |]
 > An-tong sai ro ma ho ang-ka na so-rat sai ro ma ho, man-sai lam-bok Tu-han Je-sus man-jo-u par-do-sa mu-lak ma ho.
 #V

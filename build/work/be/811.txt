@@ -13,14 +13,18 @@
 @check Baris 2 birama 2 tercetak "2. 3 25" — balok: Bes4 ♩., C5 ♪, Bes4–Es4 ♪♪ → ditulis 2 .+3 2+5,.
 @check Kredit tercetak "Robert Lawry" (lazimnya Robert Lowry) — ditulis apa adanya.
 #A
+~ Ab | . . . | . . . | Db . . |
 1 | 3 .+2 1+7, | 1 . 1 | 1 .+2 1+6, |
+~ Eb . Ab | Eb . . | Ab . . | Eb . . | Ab . |
 5, . 5, | 2 .+3 2+5, | 3 . 1 | 7, .+1 7,+6, | 5, . |
 > Di au ma Ho Tu-han di a-ri-a-ring-ki, ai deng-gan ni ba-saM pa-da-me ro-hang-ki.
 > Di au ma Ho Tu-han di-pa-ngun-ju-nan i, mo-nang do au Tu-han mo-lo Ho do-ngan-ki.
 > Di au ma Ho Tu-han di las ni ro-ha i, a-pu-li au Tu-han di si-ta-o-non-ki.
 > Di au ma Ho Tu-han di a-ri-a-ring-ki, baen ma au nam-pu-Nam, pi-na-su-pa-su-Mi.
 #B
+~ Ab | . . Eb7 | Ab . Bbm | Eb . Ab | Eb . Ab |
 3 | 3 .+1 4+3 | 3 2 . | 2 .+1 3+2 | 2 1 1 |
+~ Db . . | Ab . Eb | Ab . Eb | Ab . |]
 1 .+2 1+6, | 5, 1 2 | (3 .+1) 2 | 1 . |]
 > Di su-de par-ting-ki-an, di su-de i-nga-nan di au ma Ho O Tu-han a-si ro-haM.
 #V

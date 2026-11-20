@@ -13,8 +13,11 @@
 @check Titik di antara angka beberapa kali hanya pemisah (mis. "1 · ' 5", "2 . 2", "2 0 5"); durasi mengikuti not balok buku dan hitungan 4 ketuk.
 @check Tanda mula samar; dibaca 3 mol (do = Es) dari letak not.
 #A
+~ Eb | . . Bb . | Eb . . . |
 5, | 1 1 2 2 | 3 .+2 1 v 5, |
+~ Bb7 . Eb . | Bb . Eb . | Ab . Bb . |
 4 4 3 3 | 2 . 0 5, | 4 .+3 2 2 |
+~ Bb7 . Eb . | Bb . . . | Eb . . |]
 5 .+4 3 v 3 | 2 2 7, 7, | 1 . 0 |]
 > Sa-le-leng ho di ta-no on, pa-ti-gor ma ro-ham, pa-i-ngot-i-ngot ma tong-tong ni-dok ni De-ba-tam.
 #V

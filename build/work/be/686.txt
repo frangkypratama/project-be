@@ -11,8 +11,11 @@
 @check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 686. Tanda mula 5 mol (Des mayor), cocok dengan letak not (1 = Des4).
 @check Birama 2 not terakhir ("gok") tercetak angka 3, tetapi balok = As4 (= 5). Angka ditulis apa adanya.
 #A
+~ Db | . . . . . . | Ab7 . . Db . . |
 (1+2) | 3 . 3 (5 .+4) 3 | (2 .+3) 4 3 . 3 |
+~ . . . Gb . . | . . . Db . . | . . . . . . |
 (5 2) 3 4 . 6 | 6 . 5 3 . (1+2) | 3 . 3 (5 .+4) 3 |
+~ Gb . . . . . | Ab . . Db . . | Ab . . . . . | Db . . . . |]
 6 . 6 (1' .+7) 6 | 5 . 5 (5 .+4) 3 | 2 . . 5 . . | (3 . . 3 .) |]
 > Ra-mun do au di jo-lo-Mi, gok do-sang-ki u-ra si au O, Je-sus, bi-ru-bi-ru i, di-son do au pa-tau ma au.
 #V

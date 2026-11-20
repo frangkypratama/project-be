@@ -11,12 +11,19 @@
 @check Pembanding lirik: beda ejaan baris 1 (pangurupi) & 3 (nang pe); baris 12 pembanding tanpa kata "nuaeng" (tercetak jelas di buku). Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 758) | https://bukuende.wordpress.com/2013/06/16/jahowa-pangurupi-buku-ende-no-758-buku-logu-no-758/ | pembanding menyebut Buku Logu No. 758
 #A
+~ C | . . F . | G . C . | . . G7 . |
 5 | 1' .+3 4 6 | 5 . 3 5 | 5 .+3 2 (3+4) |
+~ C . . . | F . . . | C . Dm . |
 3 . 0 3 | 6 .+7 1' 2' | 3' . 2' 1' |
+~ G . Am . | G . . . |
 7 .+7 1' (7+6) | 5 . . 5 |
+~ C . G7 . | C . . . |
 5 .+5 4 (3+2) | (3 .+4) 5 5 |
+~ F . G . | . . . . |
 6 6 (2'+1') (7+1') | 2' . . 5 |
+~ . . C . | G7 . C . |
 5 (6+7) 1' (2'+3') | 4' . 3' 2' |
+~ . . G . | C . . . |]
 1' (7+1') 2' .+1' | 1' . . 0 |]
 > Ja-ho-wa pa-ngu-ru-pi di si u-la-on-mi di-le-hon pos ni ro-ha di ga-nup ting-ki i, nang pe si-pa-ta gang-gu ha-por-se-a-on-mi ja-mot tong-tong Tu-han-mu man-ja-ga ngo-lu-mi.
 #V

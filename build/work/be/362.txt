@@ -10,11 +10,17 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 362) | https://bukuende.wordpress.com/2013/06/13/endehon-ende-na-imbaru-buku-ende-no-362-buku-logu-no-194/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check Bagian Ende Psalm, judul bagian "Psalm 98". Judul Logu "Hamu saluhut harajaon" berbeda dari baris pertama lirik ("Endehon ende na imbaru").
 #A
+~ Ab . Db . | Ab . Eb7 . | Ab . Eb . | Ab . Eb . |
 1 . 6, 5, | 1 1 2 4 | 3 . 2 . | 0 0 5 . |
+~ Ab . Db . | Ab . Eb . | Ab . Eb . | Ab . Db . |
 3 3 1 4 | 3 . 2 . | 1 . 0 0 | 1 . 6, 5, |
+~ Ab . Eb7 . | Ab . Eb . | Ab . . . | Db . Eb . |
 1 1 2 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 |
+~ Ab . . . | Eb . Ab . | Eb7 . Ab . | Eb . Ab . | Db . Eb . |
 1 7, 1 . | 0 0 5 . | 5 4 3 . | 2 . 1 7, | 6, . 5, . |
+~ Ab . Eb . | Ab . Eb . | Ab . Eb . | Ab . Eb . | Ab . . . |
 0 0 5, . | 1 1 7, 6, | 1 . 2 . | 3 . 0 0 | 1 . 1 2 |
+~ . . Eb7 . | Ab . Eb . | Ab . . . | Db . Eb . | Ab . . . |]
 3 1 4 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 | 1 7, 1 . |]
 > En-de-hon en-de na im-ba-ru di De-ba-ta Ja-ho-wa i; Ai sa-sa-da-sa di-pa-tu-bu sa-lu-hut ha-lo-nga-ngan i. Sai di-ta-lu-hon si-a-mun-na do sa-su-de mu-su-na i; Pa-tar di baen ha-ti-go-ran-na di jo-lo ni par-be-gu i.
 #V

@@ -13,13 +13,19 @@
 @check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
 @check Refrein baris 2 (hlm 880 bawah): angka tercetak "1 .6 | 5 . 3 ." tanpa titik atas, tetapi balok = Bes4 dan D5 (sama dengan baris refrein pertama) → ditulis 1' dan 3'.
 #A
+~ Bb . . . | Eb . . . | . . F7 . |
 3 3+.+.+4 5 3'+.+.+2' | 1' . 6 . | 6 1'+.+.+6 5 4+.+.+3 |
+~ F . . . | Bb . . . | . . F . |
 2 . . . | 3 3+.+.+4 5 3'+.+.+2' | 1' . 2' . |
+~ Bb . Cm . | Bb . . . |]
 3' 3'+.+.+3' 2' 6+.+.+7 | 1' . . . |]
 > Pang-ke ting-kim sa-o-na-ri, da-pot-hon ma Tu-han i, u-nang-go-dang si-da-li-an, i-ngot jem-pek ngo-lu-mi.
 #B
+~ Eb . . . | F . Bb . | Cm . F . | Bb . . . |
 6 6+.+.+6 6 1'+.+.+6 | 5 . 3' . | 4' 2'+.+.+2' 2' . | 3' 1'+.+.+1' 1' . |
+~ Eb . . . | F . Bb . |
 6 6+.+.+6 6 1'+.+.+6 | 5 . 3' . |
+~ Eb . . . | Bb . . . |]
 6 4'+.+.+2' 1' 7+.+.+7 | 1' . . . |]
 > Nu-nga ra-de ha-so-na-ngan, di sur-go i, di sur-go i, u-nang a-dong nang-go sa-da Na-so par-jam-bar di-si.
 #V

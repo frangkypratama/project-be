@@ -11,12 +11,16 @@
 @check Pembanding lirik: L10 kata 7 dipisah di pembanding; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 151) | https://bukuende.wordpress.com/2013/06/09/asi-roham-o-jesus-tuhanki-buku-ende-no-151-buku-logu-no-136/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . | D . . . | G . . . | D . D7 . |
 1 . | 2 . 2 . | 3 . 0 3 | 5 2 2 4 |
+~ G . D . | G . D . | G . :|
 3 . 0 2 | (3+#4) 5 5 #4 | 5 . :|
 > A-si ro-haM! O Je-sus Tu-han-ki, sai jang-kon ma au on.
 > "Sai ro ma ho," laos i do ha-ta-Mi tu au par-do-sa-on.
 #B
+~ Am . | D . G . | D7 . G . | D . . . | . . G . | D7 . G . |
 0 2 | 2 2 3 2 | 4 3 3 . | 2 . 0 2 | 2 2 3 2 | 4 3 3 . |
+~ D . . . | G . D . | G . D . | G . D . | G . |]
 2 . 0 5 | 3 . 2 . | 1 . 0 5 | 3 . 2 . | 1 . |]
 > Di-son hu-bo-an pe-le-an-Mu, i ma ton-ding-ku, pa-ma-tang-ku, A-si ro-haM, sai ja-lo ma!
 #V

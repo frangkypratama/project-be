@@ -12,15 +12,23 @@
 @check Lengkung di bawah "au", "ai", "nii" = satu suku kata; lengkung not "3 .2", "2 1", "1 3", "3 2" = satu suku kata dua not. "1̸" = kres (A♮ di balok).
 @check "tudos nii" ditulis seperti tercetak.
 #A
+~ Ab | . . . . | . . . . | Fm . Bbm . |
 5, | 1 .+5, 5, 1 | (3 .+2) 1 1 | 1 .+6, (2+1) 6, |
+~ Eb . Ab . | Eb . . . | . . Ab . | . . . . |
 5, . . 5, | 2 .+#1 2 3 | 2 1 . (1+3) | 5 .+3 (3+2) 1 |
+~ Eb . . . | Bbm . . . | Eb7 . Ab . |
 2 . . 2 | 2 .+3 4 4 | 4 3 . 3 |
+~ . . . . | Eb . . . | Fm . . . |
 3 .+2 1 (2+1) | 7, . . 7, | 6, .+7, 1 6, |
+~ Db . Ab . | Eb . Ab . | . . . |
 6, 5, . 1 | 2 .+1 3 .+2 | 1 . . |
 > Ring-gas au pa-bo-a-hon, Ba-ri-ta na u-li, ba-ri-ta ha-ho-lo-ngon ni Je-sus Tu-han-ki, ring-gas au pa-bo-a-hon ai na sin-tong do i mam-bu-at na-sa hol-so so-a-da tu-dos nii.
 #B
+~ Ab | Eb . . . | . . Ab . |
 5, | 5, .+7, 2 .+3 | 2 1 . 1 |
+~ Db . . . | Eb7 . Ab . | . . . . |
 1 .+4 4 4 | 4 3 . 3 | 5 .+3 (3+2) 1 |
+~ Eb . Fm . | Ab . Eb . | Ab . . . |]
 2 1 . 6, | 5, 1 2 .+1 | 1 . . 0 |]
 > Ring-gas au pa-bo-a-hon, ba-ri-ta na um-u-li, ba-ri-ta ha-ho-lo-ngon ni Je-sus Tu-han-ki.
 #V

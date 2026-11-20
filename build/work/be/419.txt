@@ -12,9 +12,13 @@
 @check Pembanding lirik: bukuende.wordpress.com — 11/16 baris sama; beda ejaan di baris 1–4 dan 11 (silang, arsakmi, dibege Jesus, Tuhanmu, haporusanmi, ngolumi); scan dicek, mengikuti buku. Alamat pembanding menulis Logu 2790 (buku: 279).
 @ref Lirik pembanding: bukuende.wordpress.com (BE 419) | https://bukuende.wordpress.com/2013/06/13/ho-na-marsak-roha-i-buku-ende-no-419-buku-logu-no-2790/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . D | G . D | Am . . | D . G | D . G | D . G | D . . | . . . |
 3 . 2 | 1 . 7, | (6, 4) 6, | 5, . . | 7, . 1 | 2 . 3 | (2 . . | 2 . .) |
+~ G . D | G . D | Am . . | D . G | D . G | D . G | . . . | . . . |
 3 . 2 | 1 . 7, | (6, 4) 6, | 5, . . | 7, . 1 | 2 . 3 | (1 . . | 1 . .) |
+~ D . G | D . G | D7 . G | D . . | G . D | G . D | G . . | D . . |
 2 . 1 | 7, . 5, | 4 . 3 | 2 . . | 3 . 2 | 1 . 2 | 3 . 5 | 2 . . |
+~ G . D7 | G . . | D . G | C . D7 | G . D | G . D | G . . | . . . |]
 3 . 4 | 5 . 3 | 2 . 3 | 4 . . | 1 . 7, | 3 . 2 | (1 . . | 1 . .) |]
 > Ho na mar-sak ro-ha i, ro tu si-lang i, Bo-an na-sa ar-sak-mi tu par-si-lang i. Sai u-se-hon ro-ha-mi, ai di-be-ge Je-sus i. Si-lang ni Tu-han-mu do ha-po-ru-san-mi.
 #V

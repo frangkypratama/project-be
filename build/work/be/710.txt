@@ -11,14 +11,23 @@
 @check Pembanding lirik: bukuende.wordpress.com — baris 3 (ingananki) dan 6 (ulinai) beda ejaan. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 710"; buku sendiri tidak mencetak nomor Logu.)
 @ref Lirik pembanding: bukuende.wordpress.com (BE 710) | https://bukuende.wordpress.com/2013/06/16/marolop-olop-do-au-buku-ende-no-710-buku-logu-no-710/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ C . . | G7 . C | F . G7 | C . . | G . C |
 3 3 .+3 | 4 4 (3+4) | 4 4 4+.+.+4 | 5 . 0 | 5 5 5 |
+~ F . . | G . . | C . G | C . . |
 6 6 0 | 7 7 7 | 1' . 0+5 | 3+.+.+4 5 1' |
+~ G . C | Dm . F | C . . |
 7+.+.+6 5 0+3 | 2+.+.+3 4 6 | 5+.+.+4 3 5 |
+~ G7 . Am | . . F | C . G |
 5+.+.+4 2 6 | 6+.+.+5 3 1' | 1'+.+.+7 5 2' |
+~ C . G | C . G | C . G |
 2'+.+.+1' 1' 0+5 | 5+.+.+5 5 5 | 5 . 5 |
+~ C . . | G . C | . . Dm |
 3 . 1' | (7+.+.+5 2') (1'+7) | (1'+5 3') (2'+1') |
+~ G . C | . . . | G . . | C . . |
 (7+5 2') (1'+7) | 1' . 0 | 2' 1' 7 | (1'+5 3') . |
+~ G . . | C . . | G . . | C . . |
 2' 1' 7 | 1' . 0 | 7 . 7 | 1' . 0 |
+~ G . . | . . . | C . . |]
 7 . . | 7 . 7 | 1' . . |]
 > Ma-ro-lop-o-lop do au di da-lan-ki ai nu-nga mo-nang ho Tu-han-ki ra-de nu-aeng i-nga-nan-ki pi-na-tu-paM di-ton-ding-ki Je-ru-sa-lem na u-li i da-pot-ho-non-ku ho tu-si par-sa-tong-ki-nan ta-no on di sur-go so-nang ro-hang-ki u-li-na-i sam-bu-long-ki sur-go i di gin-jang i.
 #V

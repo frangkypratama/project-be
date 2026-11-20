@@ -10,9 +10,13 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 364) | https://bukuende.wordpress.com/2013/06/18/sai-huranapi-dolok-i-buku-ende-no-364-buku-logu-no-81/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check Bagian Ende Psalm, judul bagian "Psalm 121". Not "1*" di buku = kres (#1), sesuai not balok (Gis).
 #A
+~ G | . . . . | . . . . | D . . . |
 5, | 1 2 3 2 | 1 7, 1 . | 0 2 2 2 |
+~ G . Am . | D . Am . | D . . . | Em . C . |
 3 3 2 . | 0 7, 2 6, | 7, #1 2 . | 0 6, 1 7, |
+~ D . . . | . . . . | D7 . G . |
 7, 6, 2 1 | 7, . . v 2 | 4 3 3 2 |
+~ D7 . G . | . . C . | D7 . G . | . . . |]
 (5 4) 3 . | 0 5 4 3 | 2 4 (3 2) | 1 . . |]
 > Sai hu-ra-na-pi do-lok i; Aik su-ra si-an-i ro ha-lu-a-on-ki. Ndang i, ai si-an Tu-han i, si-tom-pa par-lu-hu-tan, do ro pa-ngu-ru-pi-on.
 #V

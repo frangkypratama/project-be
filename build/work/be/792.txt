@@ -15,15 +15,23 @@
 @check Kredit ditulis seperti buku ("Herr, wir gitten", kemungkinan salah cetak "bitten").
 @check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari suku kata di bawah not.
 #A
+~ D . . . . . . . | G . . . D . . . |
 1 . . 1 3 3 5 3 | 6 . . 5 5 . . . |
+~ G . . . A7 . . . | D . . . A . . . |
 6 . . 6 5 2 3 4 | (3 . . . 2) . . . |
+~ D . . . . . . . | G . . . D . . . |
 1 . . 1 3 3 5 3 | 6 . . 5 5 . . . |
+~ A7 . . . D . . . | . . . . . . . . |]
 4 . . 4 3 3 2 2 | (1 . . . 1) . . . |]
 > Pa-su-pa-su ha-mi O Tu-han Sai u-se-hon da-me-Mi, sai am-pe-hon ta-ngan-Mi Tu-han, le-hon tu au go-go-Mi
 #B
+~ D . . . . . . . | G . . . A7 . . . |
 3 . . 3 3 2+(1 . 1) | 4 . . 4 4 3+(2 . 2) |
+~ D . . . . . . . | . . . . A . . . |
 3 . . 3 3 5 3 1 | (3 . . 4+3) 2 . . . |
+~ D . . . . . . . | G . . . A7 . . . |
 3 . . 3 3 2+(1 . 1) | 4 . . 4 4 3+(2 . 2) |
+~ D . . . . . . . | . . . . . . . . |]
 3 . . 1 3 3 2 2 | (1 . . . 1) . . . |]
 > di por-ti-bi-on baen ma au Tu-han ha-baor-an ni las ni ro-ha tu na mar-sak i tu na da-ngol i ga-be pa-nga-pu-li i.
 #V

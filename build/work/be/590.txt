@@ -13,15 +13,23 @@
 @check Birama "5 . 6" (baris 3) ada noda di bawah angka 6; not balok = C5 → ditulis 6 (bukan 6 rendah).
 @check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not. Bagian B = refrein ("Ref : Advent ....").
 #A
+~ Eb | . . Bb | Eb . . | Ab . Bb |
 5, | 1 . 2 | 3 . 5 | 6 . 5 |
+~ Eb . Bb | Eb . . | Ab . . | Eb . Bb7 |
 5 . 5 | 1' . 5 | 6 5 6 | 5 . 4 |
+~ Eb . . | Bb . . | Ab . . | Eb . Ab |
 3 . 3 | 2 . 2 | 4 . 6 | 5 . 6 |
+~ Bb . Eb | Bb . . | Bb7 . . | Eb . Bb |
 5 . 5 | 2 . 2 | (4 5) 4 | 3 . 2 |
+~ Eb . |
 1 . |
 > Ad-vent i do di ting-ki on na mar-sa-ri-ngar di ta-no on. Ing-kon ra-de o-ro-an i, ma-na-gam Si-pa-lu-a i,
 #B
+~ Eb | . . . | Bb . . | Eb . . |
 5, | 1 . . | (2 1 2) | 3 . . |
+~ Bb . Eb | Ab . . | . . . | Bb . . |
 0 0 5 | 6 . 4 | (1' 6) 1' | 5 . 0 |
+~ Eb . Bb | Eb . . | Bb . Eb | . . |]
 0 0 5 | 3 . . | 2 . 3 | 1 . |]
 > Ad-vent, Ad-vent, na ro ma Tu-han i, an-tong ta-gam ma
 #V

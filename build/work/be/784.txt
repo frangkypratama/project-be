@@ -13,9 +13,13 @@
 @check Birama 3: not 1/8 terakhir ("a-") tercetak 2 (C) di angka, tetapi di balok tampak D (= 3). Ditulis sesuai angka.
 @check Birama 6: "1 . . 2" — balok: setengah not Bes diikat ke 1/8 Bes (2½ ketuk), lalu C 1/8.
 #A
+~ Bb . | . . . . | . . . . |
 0+3' 3'+3' | 3' .+3' 3' 2' | 1' . . 0+2' |
+~ F . Bb . | F . Bb . |
 2'+2' 2' .+2' 1' | 2' 3' . . |
+~ F . Bb . | . . . . |
 0 0 0+3' 3'+3' | 3' .+3' 3' 2' |
+~ Gm . Cm . | F . . . | Bb . |]
 1' . .+2' 2'+2' | 2' .+2' 2' 7 | 1' . |]
 > A-ha do naung hu baen Tu-han, a-ha do naung hu baen Tu-han, a-ha do naung hu baen Tu-han a-ha do naung hu baen Tu-han.
 #V

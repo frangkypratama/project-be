@@ -11,8 +11,11 @@
 @check Pembanding lirik: semua baris sama (tanda :,: dan ulangan frasa diabaikan).
 @ref Lirik pembanding: bukuende.wordpress.com (BE 197) | https://bukuende.wordpress.com/2013/06/16/na-marmahani-hita-buku-ende-no-197-buku-logu-no-8/ | Pembanding lirik (tanda baca/kapital diabaikan).
 #A
+~ Db | . . . . | Ab . Db . |
 5 | 5 .+1' 3 4 | (5 .+6) 5 v 1' |
+~ Ab . Eb . | Ab . Db . | Ab7 . Db . | . . Gb . |
 7 .+5 2 #4 | 5 . 0 5 | 5 .+4 (3+2) (1+2) | (3 4+5) 6 v 6 |
+~ Db . Ab . | Db . . . | Ebm . Ab7 . | Db . . |]
 5 .+3 5 (6+7) | 1' . . 1' | (2'+1') (7+6) 5 (4+2) | 1 . 0 |]
 > Na mar-ma-ha-ni hi-ta, par-ho-long ro-ha i, i ma Tu-han-ta Je-sus, si-le-hon tu-a i, si-le-hon tu-a i.
 #V

@@ -4,6 +4,9 @@ Hasil per bagian lagu: daftar token per ketukan (sejajar dengan ketukan not), No
 sebelumnya berlanjut. Token relatif terhadap Do bagian itu: "<semitone>" atau "<semitone>:<kualitas>",
 mis. "0" = I, "7:7" = V7, "9:m" = vi. Aplikasi menamai akor sesuai nada dasar (dan transposisi).
 
+Sumber akor: kolom "chords" tiap bagian lagu di data (baris akor sejajar dengan baris not,
+satu nama akor atau "." per ketukan). Bila kolom itu kosong, akor disusun otomatis:
+
 Aturan: akor diatonis (I ii iii IV V V7 vi) + akor sisipan bila ada nada kromatis
 (#4 -> II, #5 -> III, #1 -> VI, b7 -> I7); maksimal 2 akor per birama; nada melodi pada
 ketukan kuat diutamakan menjadi nada akor; kadens di akhir lagu; mode minor bila lagu berakhir di 6 (la).
@@ -192,25 +195,45 @@ def from_letters(text, key):
     return out
 
 
-# Akor susunan tangan (menggantikan hasil otomatis)
-MANUAL = {
-    ("be", "559"): [
-        "D . . . | D . A . | Bm . G . | D . . . | D . F#m . | Bm . A . | E . . . | A . . . | "
-        "D . . . | D . A . | Bm . G . | D . A . | Bm . F#m . | G . D . | G Em A7 . | D . . . |]",
-        "G . D . |]",
-    ],
-}
+FLAT_KEYS = {"F", "Bb", "Eb", "Ab", "Db", "Gb"}
+SHARP_N = ["C", "C#", "D", "D#", "E", "F", "F#", "G", "G#", "A", "A#", "B"]
+FLAT_N = ["C", "Db", "D", "Eb", "E", "F", "Gb", "G", "Ab", "A", "Bb", "B"]
+
+
+def name(tok, key):
+    """Token relatif ("7:7") -> nama akor menurut nada dasar ("A7" bila Do = D)."""
+    r, _, q = tok.partition(":")
+    names = FLAT_N if key in FLAT_KEYS else SHARP_N
+    return names[(KEY_PC.get(key, 0) + int(r)) % 12] + q
+
+
+def to_letters(src, ch, key):
+    """Token per ketukan -> baris akor yang sejajar dengan baris not ("D . A . | Bm . G . |")."""
+    out, i = [], 0
+    for line in src.split("\n"):
+        row = []
+        for tok in line.split():
+            if tok in ("|", ":|", "|]"):
+                row.append(tok)
+            elif tok != "v":
+                c = ch[i] if i < len(ch) else None
+                row.append(name(c, key) if c else ".")
+                i += 1
+        out.append(" ".join(row))
+    if i != len(ch):
+        raise ValueError(f"{len(ch)} akor untuk {i} ketukan")
+    return "\n".join(out)
 
 
 def chords_for(book, h):
-    """Daftar token per bagian untuk satu lagu (format data situs)."""
-    man = MANUAL.get((book, str(h["id"])))
+    """Daftar token per bagian. Akor diambil dari kolom "chords" data lagu (sejajar dengan not);
+    bagian yang belum punya akor disusun otomatis dari melodinya."""
     secs = h["sections"]
     out = []
     for i, s in enumerate(secs):
         key = s.get("key") or h.get("key") or "C"
-        if man:
-            out.append(from_letters(man[i], key))
+        if s.get("chords"):
+            out.append(from_letters(s["chords"], key))
         else:
             out.append(harmonize(s["notes"], last_section=(i == len(secs) - 1)))
     return out

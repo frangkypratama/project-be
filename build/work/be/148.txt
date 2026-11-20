@@ -11,8 +11,11 @@
 @check Pembanding lirik: L11 kata 6 beda; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 148) | https://bukuende.wordpress.com/2013/06/18/sian-surgo-i-buku-ende-no-148-buku-logu-no-59/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab . . | Eb . . | Ab . Eb | Ab . Eb |
 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |
+~ Ab . Eb7 | Ab . Eb | Ab . Eb |
 3+4 5 4 | 3+2 3 2 v | 1+2 3 2 |
+~ Ab . Eb | Ab . . | Eb . . | Ab . Eb | Ab . . |]
 1+7, 1 7, v | 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |]
 > Si-an sur-go i su-ru Ton-di-Mi, a-le Je-sus Tu-han-na-mi, ai naeng pa-sa-ha-ton-na-mi tu Ho ha-mi on, na di jo-lo-Mon.
 #V

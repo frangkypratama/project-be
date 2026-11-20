@@ -12,12 +12,16 @@
 @check Kredit dicetak "Joachim Neader" (ejaan lazim: Joachim Neander).
 @check Ayat 1 disusun dari lirik di bawah not.
 #A
+~ G . . . | D . . . | G . . . | D . . . |
 3 3 3 3 | 2 . 2 . v | 1 1 1 1 | 7, . 7, . v |
+~ Em . G . | D . . . | G . . . :|
 6, 6, 5, 1 | 2 3 2 . | 1 . . . :|
 > Jo-nok De-ba-tan-ta, un-duk be ma hi-ta, lao mar-som-ba tu Tu-han-ta.
 > Mi-jur De-ba-tan-ta, tu to-nga-to-ngan-ta, ta-pa-ho-lom ma ro-han-ta.
 #B
+~ G . C . | D . G . |
 3 3 4 . v | 2 2 3 . |
+~ . . C . | D . G . | . . C . | D . G . |]
 5 5 4 3 | 2 . 3 . v | 5 5 4 3 | 2 . 1 . |]
 > Som-ba ma, De-ba-ta di ba-nu-a-gin-jang, na so ha-lom-po-an.
 #V

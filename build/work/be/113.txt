@@ -13,13 +13,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 12 dari 16 baris sama persis; beda di baris 1, 2 (ejaan, mis. Dobata), 10 (kata kurang), 15. Teks tetap mengikuti buku cetak.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 113) | https://bukuende.wordpress.com/2013/06/13/debata-sitolusada-buku-ende-no-113-buku-logu-no-176/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . . . . . | Bb . . C . . | F . . . . . |
 1 . 2 3 . 2 | 1 7, 6, . 5, . v | 1 . 2 3 . 4 |
+~ . . . . . . :|
 3 . 2 . 1 . :|
 > Do-ba-ta Si-to-lu sa-da, A-ma, A-nak, Ton-di i,
 > Nu-nga mon-tok na-sa ha-da, na pa-ho-lang son-ding-ki
 #B
+~ F . . C7 . . | F . . . . . |
 3 . 3 5 . 4 | 3 . 2 . 3 . v |
+~ . . . Dm . . | Gm . . C . . | F . . C7 . . |
 5 . 5 6 . 5 | 4 . 3 . 2 . v | 3 . 5 4 . 3 |
+~ F . . . . . | . . . C7 . . | F . . . . . |]
 1 2 3 . 1 . v | 3 . 3 4 . 3 | 2 1 (1 7,) 1 . |]
 > Si-an ha-ngo-lu-an i. na ra-de di sur-go i; Ai naung se-sa do do-sang-ku si-an a-si ni ro-ha-Mu.
 #V

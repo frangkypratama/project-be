@@ -14,14 +14,21 @@
 @check Pembanding lirik: beda di ayat 1 (mabaor/sian, mangkophop, "i" tambahan, kata hilang di baris refrein) dan ayat 2 ("hasnsit" — kemungkinan salah cetak buku untuk "hansit", Tondingki, ale); transkripsi mengikuti tulisan buku. Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 430) | https://bukuende.wordpress.com/2013/06/09/ai-ditanda-ho-mual-i-buku-ende-no-430-buku-logu-no-290/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ D . . . | A . D . |
 3+.+.+3 3+.+.+#2 3 3+.+.+4 | 5 . . 5+.+.+3 |
+~ A . D . | A . . . | D . . . | A . D . |
 2 2+2 3 4+.+.+3 | 2 . . 0 | 3+.+.+3 3+.+.+#2 3 3+.+.+4 | 5 . . 5+.+.+3 |
+~ A . . . | D . . . | G . . . |
 2 2+2 2 3+.+.+2 | 1 . . 0 | 6+.+.+6 6+.+.+6 6 6+.+.+4 |
+~ D . . . | G . . . | D . A7 . |
 (3 . 5) 5+5 | 6 6+.+.+6 (6+1') 7+6 | (5 . 4) 0 |
+~ D . . . | A . D . | A . . . | D . . . |
 3+.+.+3 3+.+.+#2 3 3+.+.+4 | 5 . . 3+3 | 2 2+.+.+2 2 3+.+.+2 | 1 . . 0 |
 > Ai di-tan-da ho mu-al i, na ma-baor si-an Gol-ga-ta i? Si-an na tar-si-lang di-si, na mang-kop-hop ho par-do-sa i? Nang bal-ga do-sam, sae do i, di sal-pui do-sa-mi nang u-lum, na gu-mo-go do Tu-han-mi nun-ga saut di-li-sat-hon mu-sum
 #B
+~ D . . . | A . . . | Em . . . | A . . . |
 (5 . 5+.+.)+3 5+.+.+1' | 7 . . 0 | (4 . 4+.+.)+2 4+.+.+6 | 5 . . 0 |
+~ D . . . | G . . . | D . A . | D . . |]
 1'+.+.+1' 1'+.+.+1' 1' 1'+.+.+7 | (6 . 4) 6 | 5 3+.+.+1 2 3+.+.+2 | 1 . 0 |]
 > I-as do di-baen ro-hang-kon nu-aeng Je-sus do par-mo-nang di-si, di-bu-ri nu-aeng ro-hang-ki.
 #V

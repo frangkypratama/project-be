@@ -9,13 +9,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 21 dari 24 baris sama persis; 3 baris beda ("ahu nasailaon", "rohaNai", "huulahon", "goarMu"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 64) | https://bukuende.wordpress.com/2013/06/16/naung-moru-do-muse-sataon-buku-ende-no-64-buku-logu-no-192/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F | . . . . | C . F . | . . C . |
 5, | 1 2 3 1 | 5 5 3 1 | 0 3 2 5 |
+~ Dm . F . | C . F :|
 3 6 5 #4 | 5 . . :|
 > Naung mo-ru do mu-se sa-ta-on, hu-hut lam su-da bo-hal-hi;
 > Be-ha do a-hu na-sai-la-on. tu-re do pa-nga-la-hong-ki?
 #B
+~ Gm | C . . . | F . . . |
 2 | 2 2 7, 5, | 1 2 3 1 |
+~ . . C . | F . Bb . | C . . . | F . . . |
 0 3 2 3 | 1 7, 6, 6, | 5, . . 5, | 1 2 3 1 |
+~ C . F . | . . Bb . | C . F . | . . . |]
 5 5 3 1 | 0 5 1 4 | 7, (1+2) 3 2 | 1 . . |]
 > Lam gan-da ha-por-se-a-on-ku, Nang ho-long ni ro-hang-ku pe di Je-sus do-hot De-ba-tang-ku, Nang di do-ngan-ku sa-su-de?
 #V

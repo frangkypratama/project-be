@@ -12,10 +12,15 @@
 @check Tanda birama tercetak 3/2; ditulis 6/4 (format menghitung ketukan per not 1/4; tiap birama = 6 ketuk).
 @check Lengkung di bawah "jou", "au", "dao", "tau", "sai", "baen", "oi", "ou" = satu suku kata.
 #A
+~ D . | . . . Bm . . | D . . . . . |
 1 3 | 5 . . 3 4 6 | 5 . 3 . 5 1 |
+~ Em . . A . . | D . . . . . | . . . Bm . . | D . . . . . |
 4 3 2 . 2 . | 1 . . . 1 3 | 5 . . 3 4 6 | 5 . 3 . 5 1 |
+~ Em . . A . . | D . . . . . | G . . . . . |
 4 3 2 . 2 . | 1 . . . 1' 7 | 1' . . 5 6 6 |
+~ A . . . . . | D . . G . . | A . . D . . |
 5 . 5 . 1' 7 | 1' . . 5 6 6 | 5 . . . 1 3 |
+~ . . . Bm . . | D . . . . . | Em . . A . . | D . . . |]
 5 . . 3 4 6 | 5 . 3 . 5 1 | 4 3 2 . 2 . | 1 . . . |]
 > I-se ma ang-ka pa-na-bi nin-na Je-sus Tu-han i, nu-nga ma-sak ang-ka e-me di la-dang ni Tu-han i, Je-sus do man-jou ha-mu-na bor-hat tu go-ti-lon i, i-se ma na ma-nga-lu-si, su-ru au, di-son do au.
 #V

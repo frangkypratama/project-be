@@ -11,14 +11,21 @@
 @check Pembanding lirik: baris 10 & 14 beda ejaan kata 5 ('lau' di buku, pembanding kemungkinan 'lao'). Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 544) | https://bukuende.wordpress.com/2013/06/16/molo-ro-panjou-ni-tuhan-buku-ende-no-544-buku-logu-no-419/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ G . | . . | . . | . . | . . | D . |
 1 2 | 3 3 | 3 3 | 3 2 | 1 1 | 2 1 |
+~ Em . | D . | G . | . . | . . | Em . | Am . |
 1 6, | 5, . | 1 2 | 3 3 | 3 3 | 3 3 | 2 1 |
+~ D . | . . | G . | . . | . . | . . | . . | D . |
 (2 . | 2) . | 1 2 | 3 3 | 3 3 | 3 2 | 1 1 | 2 1 |
+~ Em . | D . | G . | . . | Em . | Am . | D . | G . | . . |
 1 6, | 5, . | 1 2 | 3 3 | 3 1 | 2 2 | 2 7, | (1 . | 1) . |
 > Mo-lo ro pan-jou ni Tu-han, mo-lo sal-pu ting-ki on, mo-lo bin-sar bin-tang si-pa-i-as i, Ja-la sa-hat ma tu gin-jang ang-ka na ti-no-bus i, do-hot au di-baen Tu-han-ta lao tu-si.
 #B
+~ G . | . . | D7 . | G . | D . | G . | D . | Am . | . . |
 3 4 | (5 . | 5) 4 | 3 4 | 5 . | 3 . | 2 3 | (4 . | 4) 4 |
+~ D . | Am . | D . | G . | D . | G . | D . | G . | C . | D7 . |
 2 3 | 4 . | 2 . | 3 4 | (5 . | 5) 3 | 2 1 | 1 . | 4 . | 4 4 |
+~ G . | Em . | Am . | D . | G . | . . |]
 3 3 | 3 1 | 2 2 | 2 7, | (1 . | 1) . |]
 > Mo-lo jou-on ni Tu-han-ta ang-ka go-ar di pus-ta-ha, di-baen a-si ni ro-ha-na, a-lu-san-ku: O Tu-han-ku, au di-son,
 #V

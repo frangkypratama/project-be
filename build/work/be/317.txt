@@ -12,9 +12,13 @@
 @check "nuaeng" dinyanyikan 2 suku kata (nu-aeng); "I- / ang-go" dipenggal I-ang-go sesuai letak lirik.
 @check Ayat 1 disusun 3 baris dari lirik di bawah not (ayat 2–7 tercetak 3 baris).
 #A
+~ G | . . . . | D7 . G . |
 3 | 1 2 3 5 | 4 . 3 v 3 |
+~ D . . . | G . D . | G . . . | D . . . |
 5 5 2 3 | 1 . 7, v 5, | 1 2 3 3 | 2 . . v 3 |
+~ G . . . | D7 . G . | D . . . |
 1 2 3 5 | 4 . 3 v 3 | 5 5 2 3 |
+~ G . D . | G . D7 . | G . . |]
 1 . 7, v 5, | 1 2 (3+4) (5+4) | 3 2 1 |]
 > Lao mo-dom do lu-hut-na nu-aeng su-de na lo-ja, san-dok por-ti-bi on, I-ang-go ho, ton-ding-ku, pa-sa-ngap ma Tu-han-mu, na su-ma-ri-hon ho tong-tong
 #V

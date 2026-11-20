@@ -12,7 +12,9 @@
 @check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
 @check "Mauli" bertanda busur di bawah "au" (diftong); tetap 4 suku kata Mau-li-a-te sesuai jumlah not.
 #A
+~ D . . | . . . | . . . | A . . |
 3+3 3+3 3 | 3+1 1 . | (3+4) (4+3) 3+5 | 2 2 . |
+~ G . . | Em . . | A7 . D | . . . |]
 4+4 4+4 4 | 4+2 2 . | 4+6 (5+4 3+2) | 3 . . |]
 > Mau-li-a-te Pu-ji Tu-han di-deng-gan ba-sa-Na, Mau-li-a-te Pu-ji Tu-han Ha-le-lu-ya.
 #V

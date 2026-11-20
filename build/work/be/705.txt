@@ -11,13 +11,19 @@
 @check Pembanding lirik: bukuende.wordpress.com — baris 1 (tabo, do, begeon), 2 (umuli), 5 (Golgota) beda ejaan/kata; buku tetap acuan. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 705"; buku sendiri tidak mencetak nomor Logu.)
 @ref Lirik pembanding: bukuende.wordpress.com (BE 705) | https://bukuende.wordpress.com/2013/06/13/goar-ni-tuhan-jesus-buku-ende-no-705-buku-logu-no-705/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ G | . . . . . . | . . . . . . | D . . . . . |
 1 | 3 . 3 (3 2) 3 | 1 . 1 1 . 1 | 2 . 2 (2 1) 2 |
+~ G . . D7 . . | G . . . . . | . . . . . . |
 3 . . 5 . 4 | 3 . 3 (3 2) 3 | 1 . 1 1 . 1 |
+~ D7 . . G . . | . . . . . . |
 (2 3) 4 3 . 2 | (1 . . 1) . . |
 > Go-ar ni Tu-han Je-sus i ta-bo do i, be-ge-on tar-so-ngon en-de na um-u-li di por-ti-bi-on.
 #B
+~ G . . D . . |
 3 . 3 2 . 3 |
+~ G . . . . . | D . . . . . | G . . D7 . . | G . . . . . |
 1 . . 1 . . | 2 . . (2 1) 2 | 3 . . (5 . 4) | 3 . . (3 2) 3 |
+~ . . . . . . | D7 . . G . . | . . . . . |]
 1 . . 1 . 1 | (2 3) 4 3 . 2 | (1 . . 1) . |]
 > Ho-long do ro-hang-ku di Tu-han Je-sus ho-long ro-hang-ku di Je-sus Tu-han-ki.
 #V

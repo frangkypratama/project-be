@@ -10,11 +10,14 @@
 @check Pembanding lirik: bukuende.wordpress.com — 20 dari 24 baris sama persis; 4 baris beda ejaan (“jumpang”, “umarga”, “pasonggop”, “SabatMi”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 27) | https://bukuende.wordpress.com/2013/06/13/haleluya-ari-minggu-buku-ende-no-27-buku-logu-no-86/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . . . | C . . . | G . C . | G . . . |
 1 2 3 5 | 1 7, 6, . | 5, . 6, 7, | 1 2 3 2 |
+~ . . . . :|
 1 . . . :|
 > Ha-le-lu-ya! A-ri Ming-gu, a-ri na du-meng-gan i;
 > Mo-lo i-ba lao mar-pu-ngu do-hot do-ngan Kris-ten i;
 #B
+~ G . D . | Am . D . | Em . C . | G . . . |]
 3 3 2 3 | 4 3 2 . | 6, 7, 1 2 | 3 2 1 . |]
 > A-ri na su-mu-rung i, las ni ro-hang-ki do i.
 #V

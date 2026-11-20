@@ -10,13 +10,18 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 166) | https://bukuende.wordpress.com/2013/06/06/ai-beasa-di-balian-buku-ende-no-166-buku-logu-no-177/ | 19/20 baris sama
 @check Baris 3 "1 1 7 6 7 1": titik bawah pada 1 kedua dianggap noda; not balok buku menunjukkan G4.
 #A
+~ G . D . | . . . . | G . D7 . |
 1 1 7, 1 | 2 3 (3+2) 2 v | 1 1 (2+3) (4+2) |
+~ G . . . :|
 1 7, 1 . :|
 > Ai be-a-sa di ba-li-an Ho, na pa-ngo-lu-hon au?
 > U-nang Ho mar-pan-sa-di-an, ro ma Ho tu-mo-pot au.
 #B
+~ G . C . | . . G . |
 5 (6+5) 4 4 | 4 (6+4) 3 . v |
+~ . . . . | C . D . | G . Em . |
 3 2 1 7, | 6, (2+1) 7, . v | 1 (1+7,) (6,+7,) 1 |
+~ Am . . . | D7 . G . | . . . . |]
 4 3 (3+2) 2 v | 5 4 3 (4+2) | 1 7, (7,+1) 1 |]
 > Je-sus ha-ngo-lu-an-ki Hu-pa-ngi-do to-long-Mi: Sai pa-ma-lum ma ro-hang-ku si-an han-sit ni bu-gang-ku.
 #V

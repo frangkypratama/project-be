@@ -12,7 +12,9 @@
 @check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
 @check "baen" bertanda busur di bawah (satu suku kata). Kredit "vreugdepolje" ditulis seperti buku.
 #A
+~ G . . . | . . C . | D7 . . . | G . . . |
 5, 3 3 5 | 5 . 4 . | 5, 7, 2 4 | 3 . . 0 |
+~ . . . . | D7 . Em . | G . . . | . . . . |]
 5, 3 3 5 | (5 4) 6, . | 5, 3 3 2 | 1 . . 0 |]
 > Hu-bo-an pe-le-an tu Ho Je-sus i baen pu-ji pu-ji-an tu Ho Tu-han-ki
 #V

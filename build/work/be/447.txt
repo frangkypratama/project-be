@@ -11,12 +11,16 @@
 @check Pembanding lirik: L1 (Ama i), L2 (baiga), L7, L9, L11, L14, L15 (tuhuk) beda ejaan/kata; dicek ulang di scan, buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 447) | https://bukuende.wordpress.com/2013/06/13/ho-mual-hangoluan-i-buku-ende-no-447-buku-logu-no-298/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . . . | . . Bb . | C . . . | F . Dm . |
 1 . 3 4 | 5 3 6 6 | 5 . 0 5 | 1' 7 6 5 |
+~ Gm . C . | F . . . | Bb . C . | F . . . :|
 6 6 5 . | 0 5 5 3 | 4 3 2 . | 1 . . 0 :|
 > Ho mu-al ha-ngo-lu-an i, na tu-bu si-an A-ma i, Tu-han-ku Je-sus Kris-tus.
 > Pa-tar di-baen Ho bai-ga ni ho-long ni ro-ha na-gok i, na sai ma-u-li-u-tus,
 #B
+~ F | . . . . | Bb . . . | F . Bb . |
 1 | 3 4 5 5 | 6 7 1' . | 0 5 6 5 |
+~ F . C7 . | F . . . | C . C7 . | F . C . | F . . . |]
 3 5 4 4 | 3 . 0 1' | 7 6 5 4 | (3 2+1 2) . | 1 . . . |]
 > tung na-ma-lu-ngun ton-ding-ki di a-si do-hot ho-long-Mi, sai ro pa-bo-sur a-hu.
 #V

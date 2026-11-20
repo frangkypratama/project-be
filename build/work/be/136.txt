@@ -12,11 +12,15 @@
 @check "6 5" bergaris ganda & legato sesudah "1 ." / "5 ." dibaca not 1/4 bertitik + 1/16 (satu ketukan), sesuai not balok.
 @check "4" dicoret pada bagian B = #4 (tanda pugar A di not balok).
 #A
+~ Eb | . . . | Ab . . | Eb . Ab | Bb . . |
 5, | 1 . 5, | 6, .+5, 6,+7, | 1 . (6,+.+.+5,) | 5, . 5, |
+~ Eb . . | Bb . . | Eb . |
 3 . 5 | 2 .+1 2+3 | 1 . |
 > Bi-dang do-pe na ho-lom i, di bang-so na di ha-si-a-ngan i,
 #B
+~ Eb | . . Bb7 | Eb . Bb | Eb . . |
 5, | 5 . 4 | 3 . v 2 | 1 .+2 3+#4 |
+~ . . Ab | Bb . . | Eb . . | Bb . . | Eb . :|
 5 . v (6,+.+.+5,) | 5, . 5, | 3 . v 5 | 2 .+1 2+3 | 1 . :|
 > na ni-ra-ja-an ni si-bo-lis i; Di-som-ba ha-lak ang-ka be-gu i.
 #V

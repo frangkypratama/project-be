@@ -10,9 +10,13 @@
 @check Pembanding lirik: bukuende.wordpress.com — baris 1 (holongMi) dan 2 (humopkop) beda ejaan. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 715"; buku sendiri tidak mencetak nomor Logu.)
 @ref Lirik pembanding: bukuende.wordpress.com (BE 715) | https://bukuende.wordpress.com/2013/06/09/balga-do-holongmi-buku-ende-no-715-buku-logu-no-715/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ F . Bb . | Gm . C . | F . Bb . | F . C . |
 3 . 4 3 | 2 .+6, 2 . | (1 7,) 6, 7, | (1 . 5, .) |
+~ F . Bb . | Gm . C . | F . . . | . . . . |
 3 . 4 3 | 2 .+6, 2 . | (1 7,) 3 .+2 | 1 . . . |
+~ C . . . | Gm . C . | F . . . | C7 . F . |
 2 . 2 3 | 4 .+3 2 . | 3 . 3 4 | 5 .+4 3 . |
+~ . . Bb . | C7 . . . | F . . . | . . . . |]
 5 . 4 3 | 2 .+3 4 . | (1 7,) 3 .+2 | 1 . . . |]
 > Bal-ga do ho-long-Mi si to-bus au ai nu-nga ma-te Ho hu-mop-kop au hu-le-hon ma tu Ho sa-lu-hut ngo-lung-ki. Sai i ma pa-dan-ki tu Tu-han-ki.
 #V

@@ -11,8 +11,11 @@
 @check Pembanding lirik: semua baris sama.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 393) | https://bukuende.wordpress.com/2013/06/16/las-ni-roha-bolon-i-buku-ende-no-393-buku-logu-no-262/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . C . | G . . . | C . G . | D . . . |
 5, .+6, 6, 1 | 1 7, (5 5) | 6 .+5 3 1 | 7, 6, (7, 7,) |
+~ G . C . | G . D . | G . C . | G . . . |
 5, .+6, 6, 1 | 1 7, (7, 6,) | 5, .+6, 6, 1 | 1 7, 5 . |
+~ C . G . | D . Em . | G . D7 . | G . . . |]
 6 .+5 3 1 | 2 1 (1 6,) | 5, 1 4 3 | 3 .+2 1 0 |]
 > Las ni ro-ha bo-lon i, i do na hu-bo-an i, tung mar-tu-a do-hot au, dung nang au tu Je-sus lao. Nang ha-mu-na, do-ngan-ki, di-pa-so-nang Je-sus i.
 #V

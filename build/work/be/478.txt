@@ -13,7 +13,9 @@
 @check Pembanding lirik: pembanding menulis "siholhu paherbang"; buku mencetak "si-hol hu- paherbang" (suku kata sama). Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 478) | https://bukuende.wordpress.com/2013/06/13/dohot-siholhu-paherbang-buku-ende-no-478-buku-logu-no-408/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . . . | Ab . Bb . | Eb . Ab . | Bb . Eb . |
 3 .+2 1 1 | 4 .+3 2 2 | 3 5 4 3 | 2 .+2 3 . |
+~ Bb . Eb . | Ab . Eb . | . . . . | Bb . Eb . |]
 5 (6+7) 1' 5 | 6 (5+4) 3 2 | 3 5 (5+4) 3 | 2 2 1 . |]
 > Do-hot si-hol hu-pa-her-bang tu Ho Je-sus ta-ngan-ki. Lao ma-nge-lek Ho o Tu-han ro ma Ho tu ro-hang-ki
 #V

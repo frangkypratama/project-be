@@ -14,13 +14,19 @@
 @check Pembanding lirik: beda ejaan di baris 2 (kata 4, rumata — buku: ru-ma-ta ra-ta) dan baris refrein (kata 6, pangaramotiMi); ditulis sesuai scan hlm 849–850.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 778) | https://bukuende.wordpress.com/2013/06/09/ai-ise-do-tumompa-angka-bunga-buku-ende-no-778-buku-logu-no-778/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ F | . . . | C . . | F . . |
 5, | 1 . 1 | 2 . 2 | 3 .+2 3+4 |
+~ Dm . Gm | C . F | . . Dm | F . G |
 3 2 2 | 2 . (3+#4) | 5 . (3+6) | 5 . #4 |
+~ C . F | C . F | C7 . F | C7 . F |
 5 . 0+5 | 5 . (3+1) | (5 4) 3 | 2+6 (5+4) (3+2) |
+~ . . C | F . Gm | C7 . F | . . C7 | F . |]
 1 7, 0+5, | 1 . (2+3) | 4 . (5+6) | (5 .+3) (4+2) | 1 0 |]
 > Ai i-se do tu-mom-pa ang-ka bu-nga mar-wor-na na man-sai u-li? Pa-ja-gar du-hut na ru-ma-ta ra-ta, a-lus-hu De-ba-ta do i.
 #B
+~ F | C . . | F . . | Bb . C7 |
 1 | 2 .+2 2+2 | 3 . 3 | 4 .+4 4+4 |
+~ F . . | Bb . C7 | F . . | . . . | . . |]
 5 . 5 | 6 . 4 | 1 . 1 | 1 . 1 | 1 . |]
 > Hu-pu-ji Ho tong-tong a-le De-ba-tang-ki di baen pa-nga-ra-mo-ti-Mi.
 #V

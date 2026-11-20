@@ -11,13 +11,19 @@
 @check Pembanding lirik: bukuende.wordpress.com — beda ejaan iringring, dalani, mamous. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 713"; buku sendiri tidak mencetak nomor Logu.)
 @ref Lirik pembanding: bukuende.wordpress.com (BE 713) | https://bukuende.wordpress.com/2013/06/18/togu-au-o-tuhanki-buku-ende-no-713-buku-logu-no-713/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ C . . . | G . C . | F . G7 . | C . . . |
 5 .+5 5+1' 7+6 | 5 . . 0 | 4 .+3 2+6 5+4 | 3 . . 0 |
+~ G . C . | F . . . | G . . . |
 5 .+5 5+3 5+1' | 6 . . 0 | 7 .+1' 7+6 5+#4 |
+~ . . C . |]
 5 . . 0 |]
 > To-gu au O Tu-han-ki i _ ring-ring lang-kang-ki, Tung ma-ol do da-lan-i u-nang li-lu au di-si
 #B
+~ C . . . | . . G . | C . . . |
 5 . 3 0 | 1' . 5 0 | 3' .+2' 1'+6 5+3 |
+~ Dm . G7 . | C . . . |
 (2 .+3 4 .) | 3 .+3 3+3 4+5 |
+~ F . . . | C . G7 . | C . . . |]
 6 . . 7+1' | 5 3 4 7, | 1 . . 0 |]
 > Je-sus Tu-han go-mos ti-op ta-ngan-ki, nang ra-his pe da-lan i, sa-hat au tu sur-go i.
 #V

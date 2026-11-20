@@ -12,7 +12,9 @@
 @check Pembanding lirik: bukuende.wordpress.com — 6 dari 10 baris sama; baris 2, 3, 6, 10 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 526) | https://bukuende.wordpress.com/2013/06/18/tongam-ni-huta-i-buku-ende-no-526-buku-logu-no-411/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ Bb | F . . Bb . . | F . . Bb . . | Gm . . Cm . . | F . . . . . |
 5, | 5, . 5, 5, . 5, | (5, . . 5,) 0 5, | 6, . 7, (2 1) 6, | (5, . . 5,) 0 6, |
+~ Bb . . F . . | Bb . . . . . | . . . F7 . . | Bb . . Eb . . | F . . . . . | Bb . . . . |]
 5, . . 2 . . | (3 . . 3) 0 5, | 3 . 3 (4 3) 2 | (1 . . 1) 7, 6, | (5, . . 5, .) 5, | (5, . . 5, .) |]
 > Tong-am ni hu-ta i, na pi-na-o-jak i di sur-go i! Mu-ti-ha do har-ba-ngan. U-li-na i!
 #V

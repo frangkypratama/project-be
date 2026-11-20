@@ -11,8 +11,11 @@
 @check Pembanding lirik: bukuende.wordpress.com — 16 dari 18 baris sama persis; 2 beda: ayat 1 "manatap"/"hangoluanmu" (scan dicek ulang: "ma-na-tap", transkripsi diperbaiki) dan ayat 3 baris 1 yang pudar di scan ("di hajolmaon i" dibaca dengan bantuan pembanding). Mohon cek ayat 3 baris 1.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 77) | https://bukuende.wordpress.com/2013/06/13/hamu-saluhut-halak-buku-ende-no-77-buku-logu-no-65/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G | . . . . | D7 . G . | D . . . |
 3 | 1 2 3 5 | 4 . 3 v 3 | 5 5 2 3 |
+~ G . D . | G . . . | D . . . | G . . . | D7 . G . |
 1 . 7, v 5, | 1 2 3 3 | 2 . . v 3 | 1 2 3 5 | 4 . 3 v 3 |
+~ D . . . | G . D . | G . D7 . | G . . |]
 5 5 2 3 | 1 . 7, v 5, | 1 2 (3+4) (5+4) | 3 2 1 |]
 > Ha-mu sa-lu-hut ha-lak ro ma ha-mu ma-na-tap ha-ngo-lu-an-mu on, na gan-tung di par-si-lang, tu ma-han ha-ma-te-an; Naeng i-ngo-ton-mu i tong-tong.
 #V

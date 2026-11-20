@@ -11,12 +11,16 @@
 @check Judul di kepala lagu "Jesus hinaposan ni" (nama Logu No. 75, melodi sama dengan BE 329); baris pertama lirik "Sai banuaginjang do situjuon".
 @check "4*" dan "5*" = not dinaikkan (not balok: F♯, G♯) → #4, #5.
 #A
+~ C . . . | F . . . | G . Am . | C . . . |
 5 . 3 . | 6 7 1' 1' | 7 . v 6 . | 1' . 5 3 |
+~ F . G . | C . . . :|
 4 3 2 . | 1 . . . :|
 > Sai ba-nu-a-gin-jang do si-tu-ju-on ni ro-han-ta:
 > Ho-lan pa-i-so-lat do hi-ta di ba-nu-a-to-nga.
 #B
+~ C . D . | E7 . Am . |
 3 . #4 . | #5 6 6 5 |
+~ F . . . | G . C . | G . C . |]
 6 . v 1' . | 2' . 3' 3' | 2' 2' 1' . |]
 > Par-da-ga-ngan ta-no i, sur-go do sam-bu-lo i
 #V

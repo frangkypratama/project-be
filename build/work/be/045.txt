@@ -13,12 +13,16 @@
 @check Kredit dicetak "Samuel Hofer Abad 19" (abad ke-19); ditulis sesuai buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 45) | https://bukuende.wordpress.com/2013/06/13/hosianna-anak-ni-buku-ende-no-45-buku-logu-no-73/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb . | . . | F . | Bb . | . . |
 5 5 | 5 1' | 7 1' | (3' 2') v | 3' 3' |
+~ F7 . | Bb . | F . | Bb . :|
 4' 2' | 1' 3' | 2' . | 1' . :|
 > Ho-si-an-na! A-nak ni Ra-ja Da-vid ro tu hi-ta.
 > Baen tu-ro da-lan-na i, a-sa bo-ngot tu ro-han-ta.
 #B
+~ Bb . | . . |
 3' 2' v | 1' 5 |
+~ Eb . | F . | F7 . | Bb . | . . | . . |]
 4' 3' | 2' . v | 5' 4' | 3' (4'+2') | 1' v 7 | 1' . |]
 > Baen ma ga-ba-ga-ba i di Tu-han-ta na ro i.
 #V

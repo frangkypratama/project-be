@@ -11,8 +11,11 @@
 @check Tanda ":,:" pada ayat 2–7 menandai frasa terakhir yang diulang; ditulis sesuai buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 48) | https://bukuende.wordpress.com/2013/06/16/ria-ma-hita-sasude-buku-ende-no-48-buku-logu-no-16/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F | C . F . | Bb . F . | . . G . |
 1 | 5 5 5 5 | 6 (5+4) 3 v 2 | 3 5 6 #4 |
+~ F . C . | F . . . | C . Gm . |
 5 v 3 5 5 | 5 (3+4) 5 3 | 2 v 5 4 3 |
+~ C . F . | . . Bb . | C . F |]
 2 2 (1+2 3+4) | 5 v 3 4 3 | 2 2 1 |]
 > Ri-a ma hi-ta sa-su-de ma-mu-ji De-ba-ta; Gir-gir ma par-en-den-ta be, ai i do na ta-ma. Ai i do na ta-ma _
 #V

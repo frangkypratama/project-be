@@ -12,8 +12,11 @@
 @check Pembanding lirik: baris 2 (anakkon na), 5 (marmuda) beda ejaan; baris 7 "sura" dan 8 "diurupi" beda kata — dicek ulang di scan, tercetak "sura" dan "diurupi"; buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 578) | https://bukuende.wordpress.com/2013/06/16/puji-tuhan-diholongna-buku-ende-no-578-buku-logu-no-578/ | teks lirik
 #A
+~ C | . . . | G . C | F . . |
 5+.+.+5 | 1' .+5 1'+3' | (2'+.+.+7) 1' 1'+7 | 6 .+6 1'+6 |
+~ G . C | . . . | G . C |
 5 . 5+1' | (1' 7)+5 5+1' | (1'+2') 2' 1'+3' |
+~ F . G | C . |]
 (4'+.+3')+2' 1' 7 | 1' . |]
 > Pu-ji Tu-han di ho-long-Na na ma-na-tap ho tong-tong tung na so pa-som-bu-on-Na a-nak-kon na i an-tong
 #V

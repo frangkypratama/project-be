@@ -12,8 +12,11 @@
 @check Ada tanda fermata di atas not 1 (birama "1 . 2 .", au) dan 3 (birama "3 . . 5", Tu) di baris 3; format belum punya tanda fermata.
 @check Hanya satu ayat yang dicetak.
 #A
+~ D . . . | . . A . | D . A . | D . A . |
 1 1 1 7, | 1 . 5, . | 1 . 2 . | (3 . 5 .) |
+~ D . G . | D . A . | Em . A . | D . . . |
 5 5 6 6 | 1' . 7 . | 6 . 5 . | 3 . 3 . |
+~ G . A . | D . A . | D . . . | A . D . |]
 6, . 7, . | 1 . 2 . | 3 . . 5 | 5 . . . |]
 > Ro ma Ho O Je-sus Tu-han-ki, Ho Ra-ja Si-pa-lu-a i, ro ma Ho tu au O Tu-han-ki.
 #V

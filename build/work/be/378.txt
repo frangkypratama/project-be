@@ -12,13 +12,19 @@
 @check Refrein (#B) berganti birama ke 12/8 (1 token = 1/8). Nilai not di angka dan not balok refrein tidak konsisten (mis. "5.. 5." tidak selalu genap 12/8); ketukan disusun dari not balok + penempatan lirik agar tiap birama = 12/8. Perlu dicek manusia.
 @check Refrein birama 3: "i" di buku berada di bawah dua not 5 tanpa legato → ditulis "i _". Birama "5.. 5. 3 4 5" (Ai di): "Ai" di bawah dua not 3 4 tanpa legato tercetak; ditulis legato (3 4) seperti ketukan gantung "Sai" (3͡4).
 #A
+~ D | A . D | A . D | A . A7 |
 3+.+.+4 | 5 .+6 3+.+.+6 | 5 . 5+.+.+1' | 7 .+6 5+.+.+4 |
+~ D . . | A . D | A . D | A . Bm |
 3 . 3+.+.+4 | 5 .+6 3+.+.+6 | 5 . 5+.+.+1' | 7 .+5 6+.+.+7 |
+~ D . |]
 1' . |]
 > Sai di-jang-kon Je-sus i ang-ka na mar-do-sa i, nang na dao, na li-lu pe, a-sal ro tu Je-sus i.
 #B 12/8
+~ D . . | G . . . . . . . . . . . | A . . . . . D . . . . . |
 (3 4) 5 | (6 . . . . . 6 .) 1' (1' 7) 6 | 5 . . . . . 5 . . (5 6) 3 |
+~ A . . . . . D . . . . . | A . . . . . D . . . . . | G . . . . . . . . . . . |
 (5 . . . . . 5 .) 5 (5 6) 3 | (5 . . . . . 5 . .) (3 4) 5 | (6 . . . . . 6 .) 1' (1' 7) 6 |
+~ A . . . . . D . . . . . | A . . . . . D . . . . . | . . . . . . . . . |]
 (5 . . . . . 5 . .) 1' . 1' | (2' . . 2' .) 2' 1' . . 7 . . | (1' . . . . . 1' . .) |]
 > Sai pa-bo-a ha-ta i _ tu su-de par-do-sa i. Ai di-jang-kon Je-sus do ang-ka na ma-u-as ro.
 #V

@@ -11,7 +11,9 @@
 @check Pembanding lirik: baris 1 kata 5 ('tutu') beda ejaan. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 554) | https://bukuende.wordpress.com/2013/06/16/puji-hamu-sai-pasangap-buku-ende-no-554-buku-logu-no-417/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ F . . | C7 . F | Bb . C | F . C | F . . |
 5 5 5 | 5 .+4 3 | 4 3 2 | 3 . 0 | 3 3 3 |
+~ . . . | C . . | F . C | F . . | . . . | C . . | F . . :|
 3 .+2 1 | 2 1 7, | 1 . 0 | 1 . 1 | 1 . 1 | 5, 5, 5, | 1 . 0 :|
 > Pu-ji ha-mu, sai pa-sa-ngap tu-tu Tu-han-ta i, na ba-sa, na bur-ju. Su-de bang-so pu-ji tu-tu.
 #V

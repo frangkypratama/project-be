@@ -12,7 +12,9 @@
 @check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
 @check Lengkung 5–4–2–1–7 (hlm 936) = melisma "a"; lengkung 1…|1… di birama 4–5 = ikatan (A ditahan dua birama), ditulis sebagai legato.
 #A
+~ F . . . | C . . . | Gm . C7 . | F . . . |
 3 . . . | 2 . . 0 | 4 . . . | 3 . . 0 |
+~ . . C7 . | F . C . | F . . . | . . . . | . . . . | . . . . |]
 (5 . 4 2 | 1 . 7,) . | 1 . . . | (1 . . . | 1) . . . | 1 . . . |]
 > A-men, a-men, a-men. A-men.
 #V

@@ -11,7 +11,9 @@
 @check Pembanding lirik: baris 5 & 6 beda ejaan satu kata. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 545) | https://bukuende.wordpress.com/2013/06/16/na-saor-di-hita-be-buku-ende-no-545-buku-logu-no-413-2/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ G | . . . | D . . | G . . | C . . | G . . | D . . |
 3 | (3 1) 3 | (2 7,) 2 | 1 . 1 | (1 6,) 1 | (1 5,) 1 | 7, . 2 |
+~ . . . | G . . | D . D7 | G . C | G . D7 | G . D | G . |]
 (2 7,) 2 | (1 3) 5 | (5 2) 4 | (3 5) 6 | (5 3) 4 | (3 1) 2 | 1 . |]
 > Na saor do hi-ta be di-baen Tu-han-ta i, I-ba-na do tu-mo-bus au rap do-hot do-ngan i.
 #V

@@ -11,11 +11,14 @@
 @check Pembanding lirik: L10 kata 9 dan L19 kata 6 (buku "hongoluannami") beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 280) | https://bukuende.wordpress.com/2013/06/18/tongtong-tutu-na-denggan-do-buku-ende-no-280-buku-logu-no-173/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F | . . Dm . | C7 . Dm . | C7 . F . | C . F :|
 5, | 1 2 3 6 | 5 4 3 v 6 | 5 4 3 3 | 2 . 1 :|
 > Tong-tong tu-tu na deng-gan do pam-baen ni De-ba-tan-ta
 > Ma tu a so sol-so-lan do su-de do i mar ha-ta.
 #B
+~ F | Bb . C . | F . . . | C . . . |
 5 | 6 6 2 v 2 | 5 5 1 v 3 | 2 1 7, 7, |
+~ Dm . F . | Bb . . . | C . F |]
 6, . 5, v 5 | 6 5 4 3 | 2 . 1 |]
 > Pos ma ro-ham di De-ba-tam, i-hu-thon ma I-ba-na, na bo-nar do ro-ha-na.
 #V

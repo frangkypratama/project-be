@@ -10,7 +10,9 @@
 @check Pembanding lirik: L4 kata 3 (ti) dan L6 kata 1 (Haporsuhon) beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 445) | https://bukuende.wordpress.com/2013/06/18/sai-ingoton-ni-rohangku-buku-ende-no-445-buku-logu-no-405/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . C7 | F . . | C . . | F . . | C . . |
 3 . 4 | 3 . 3 | 2 . 2 | 3 . 3 | 5 . 5 |
+~ F . C | F . G | C . F | C . F | Bb . . | C . F | C . F |]
 5 . 5 | 5 . #4 | 5 . 5 | 5 . 5 | 6 . 6 | 5 . 5 | 5 . . |]
 > Sai i-ngo-ton ni ro-hang-ku han-sit naung di-taon Tu-han-ku u-ju i di Gol-ga-ta.
 #V

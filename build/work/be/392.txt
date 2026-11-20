@@ -11,12 +11,17 @@
 @check Pembanding lirik: beda ejaan L1, L3, L4, L6, L9 (mis. "pasiat", "parasian"); buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 392) | https://bukuende.wordpress.com/2013/06/18/sai-pasiat-tuhan-jesus-buku-ende-no-392-buku-logu-no-261/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ C . . . | F . C . | F . G7 . |
 5 .+6 5+1' 7+.+.+6 | 6 . 5 v 0 | 4 .+3 4+5 6+.+.+5 |
+~ C . . . | G . C . | F . C . | F . G7 . |
 (5 . 3) v 0 | 5 .+6 5+1' 7+.+.+6 | 6 . 5 v 0 | 4 .+3 4+5 6+.+.+7 |
+~ C . . . |
 1' . . 0 |
 > Sai pa-si-at Tu-han Je-sus tu ba-ga-san ro-ha-mi. Sai ma-i-ma-i-ma Je-sus, be-ge pa-nuk-tuk-Na i.
 #B
+~ G . . . | C . . . | F . . . | G . . . |
 2' .+2' 2'+2' 3'+.+.+2' | 1' . 5 v 0 | 6 .+6 6+6 7+1' | (2' . . #2') |
+~ C . G7 . | C . F . | C . . . | . . . . |]
 3' .+3' 4'+3' 2'+1' | 1' . 6 v 0 | 5 .+1' 7+1' 3'+.+.+2' | 1' . . 0 |]
 > Sai pa-si-at Tu-han Je-sus, jang-kon i tu ro-ha-mi, nu-nga ting-ki par-a-si-an, so tung jo-lo sal-pu i.
 #V

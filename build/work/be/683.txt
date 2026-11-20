@@ -11,8 +11,11 @@
 @check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 683. Lagu bernada minor (la = 6 = C), tanda mula 3 mol.
 @check Nama komponis tercetak "Hungo Nyberg" (lazim: Hugo Nyberg) dan "Lars stenback" (lazim: Lars Stenbäck) — ditulis apa adanya.
 #A
+~ Cm | . . G7 . | Cm . . . | G . Cm . |
 (6,+7,) | 1 1 2 (1+7,) | 6, . 6, (1+2) | 3 3 6 (5+6) |
+~ G7 . Cm . | . . Eb . | Fm . G7 . |
 3 2 3 (6+7) | 1' 1' 1' (7+5) | 6 (5+4) 3 (1+2) |
+~ Cm . G7 . | Cm . . |]
 3 3 2 (1+7,) | 6, . 6, |]
 > Di a-do-pan-Mu Je-sus le-a tu-tu do di-ring-kon, di baen go-dang ni do-sang-kon di a-do-pan-Mu Je-sus.
 #V

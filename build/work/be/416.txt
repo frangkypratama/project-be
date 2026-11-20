@@ -11,7 +11,9 @@
 @check Pembanding lirik: bukuende.wordpress.com — 7/12 baris sama; beda ejaan di tangiangku, hutadingkon, Haburjuon, hutujuhon, Tuhanku; scan dicek, mengikuti buku. Pembanding 6 ayat (sama).
 @ref Lirik pembanding: bukuende.wordpress.com (BE 416) | https://bukuende.wordpress.com/2013/06/18/tu-jolom-o-debatangku-buku-ende-no-416-buku-logu-no-403/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . Bb7 . | Fm . . . | Bb . Ab . | . . Eb . |
 3 .+5 5 4 | 4 3 2 1 | 7, 1 4 3 | 6 4 (3 2) |
+~ Fm . . . | . . Bb . | Cm . . . | Bb7 . Eb . |]
 2 3 4 3 | 6 5 7 1' | 6 7 1' 3 | 4 2 1 . |]
 > Tu jo-lom o De-ba-tang-ku! Sai u-se do ro-hang-kon. Sai pa-si-at ta-ngi-ang-ku do-hot i-lu-i-lung-kon.
 #V

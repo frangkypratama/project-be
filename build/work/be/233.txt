@@ -12,12 +12,16 @@
 @check Pembanding lirik: L5, L13, L23 beda ejaan satu kata; dicek di scan hlm 213–214, buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 233) | https://bukuende.wordpress.com/2013/06/18/turena-i-manodo-buku-ende-no-233-buku-logu-no-241/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ D | Bm . D . | A . D . | A . . . |
 5 | 3 6 5 1' | 7 6 5 (4+3) | 2 . 2 v 5 |
+~ D . A . | D . . . | A . D :|
 1' 1' 7 5 | 1' (7+6) 5 #4 | 5 . 0 :|
 > Tu-re-na i ma-no-do Tu-han Je-sus, mar-tu-a na pi-nar-ma-han-Na i.
 > U-li-na i! Sang-kap-na di-pa-tu-lus, di ga-nup hi-ta hi-nop-hop-Na i.
 #B
+~ D | G . . . |
 5 | 6 7 1' 4 |
+~ D . . . | A . D . | A7 . D . | G . D . | . . . |]
 3 2 1 . | 0 5 5 6 | 5 4 3 5 | 1 4 3 2 | 1 . . |]
 > San-dok pa-pu-tus ro-ha-mi: Pa-sa-hat ma di-rim tu Tu-han Je-sus i.
 #V

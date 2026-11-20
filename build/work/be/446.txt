@@ -11,7 +11,9 @@
 @check Pembanding lirik: semua sama.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 446) | https://bukuende.wordpress.com/2013/06/13/ho-ma-di-au-buku-ende-no-446-buku-logu-no-406/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb | . . Bb . | Eb . . . | Bb7 . Eb . | Bb . Eb . | Ab . . . |
 5 | 3 . 2 . | 1 . 0 5 | 4 . 3 . | 2 . 0 5 | 6 7 1' . |
+~ . . Bb . | Eb . . . | Ab . . . | Bb . . . | Eb . Bb . | Eb . . |]
 6 . 5 . | 3 . 5 5 | 6 5 4 3 | 2 . 5 6 | 5 3 2 . | 1 . 0 |]
 > Ho ma di-au, di Ho ma au, hot ma par-sa-o-ran-ta, u-nang dao Ho si-an au, a-le Si-pa-ngo-lu.
 #V

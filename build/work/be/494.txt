@@ -12,7 +12,9 @@
 @check Pembanding lirik: semua baris sama.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 494) | https://bukuende.wordpress.com/2013/06/13/holom-bornginna-i-buku-ende-no-494-buku-logu-no-336/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb . . | F . . | Bb . . | Eb . . | Bb . Eb | F . Bb |
 3 . 3 | 2 .+3 2 | 1 . . | 1 . 6, | 1 7, 6, | 5, . . |
+~ F . . | Cm . F | Bb . . | Cm . . | F . . | Bb . . |]
 2 .+2 2 | 4 3 2 | 1 . . | 2 6, 6, | 7, (6,+5,) 7, | 1 . . |]
 > Ho-lom born-gin-na, i Gok ar-sak ta-no i I-da ma Tu-han-mu ro so-nang ma, so-nang ma ho.
 #V

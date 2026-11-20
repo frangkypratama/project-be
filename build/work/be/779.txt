@@ -13,7 +13,9 @@
 @check Pembanding lirik: baris 1 menulis "met met" sebagai dua kata (beda pemisahan saja); baris 4 beda ejaan kata 3 & 5. Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 779) | https://bukuende.wordpress.com/2013/06/09/amporik-na-metmet-buku-ende-no-779-buku-logu-no-779/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ D . . . | G . A . | Em . . . | A7 . D . |
 5 5 3 5 | 4 3 2 . | 4 4 2 6 | (5 4) 3 . |
+~ A . D . | A . Bm . | D . Em . | A . D . |]
 5 5 3 1' | 2' . 6 . | 5 3 4 2 | 2 . 1 . |]
 > Am-po-rik na met-met _ di-sa-ri-hon Tu-han, lam ma au san-di-ri so sa-ri-hon-on Na?
 #V

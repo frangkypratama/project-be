@@ -13,11 +13,17 @@
 @check Do = Bes3 (not 5 = F4 di spasi pertama paranada) → @oct -1. Lengkung pada pasangan not (1–3, 6–5, 3–1, 1'–2', 1' .6 1') = satu suku kata.
 @check Kredit ditulis seperti tercetak ("There isFountain", "Willam"; lazimnya: There is a Fountain Filled with Blood, William Cowper).
 #A
+~ Bb | F . Bb . | Eb . Bb . |
 (1+3) | 5 .+6 5 1' | 1' .+6 5 (1+3) |
+~ F . Bb . | F . Bb . | F . Bb . |
 5 .+5 (6+5) (3+1) | 2 . . (1+3) | 5 .+6 5 1' |
+~ Eb . F . | Bb . F . | Bb . . . |
 1' .+6 5 (1'+2') | 3' .+1' 2' 3' | 1' . . (1'+2') |
+~ . . F . | Gm . Eb . |
 3' .+1' 2' 3' | (1' .+6 1') 6 |
+~ F . Bb . | F . Bb . | F . Bb . |
 5 .+5 (6+5) (3+1) | 2 . . (1+3) | 5 .+6 5 1' |
+~ Eb . F . | Bb . F . | Bb . . |]
 1' .+6 5 (1'+2') | 3' .+1' 2' 3' | 1' . . |]
 > A-dong do sa-da mu-al i na si-an Tu-han i, du-rus si-an bu-gang-Na i di hau par-si-lang i, di hau par-si-lang i, di hau par-si-lang i, du-rus si-an bu-gang-Na i di hau par-si-lang i.
 #V

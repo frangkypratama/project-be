@@ -2,10 +2,14 @@
 """Build the Buku Ende site data from per-hymn source files.
 
 Source: work/be/NNN.txt (or NNN.json for hand-converted ones).
+  In a section, a line starting with "~" holds the accompaniment chords for the notes line below it
+  (one chord name or "." per beat, same bar lines); see build/isi_akor.py.
 Output: ../site/data/index.json, ../site/data/bNN.json, ../site/scans/bNN.json
 Also validates: beats per bar vs meter, notes vs syllables per lyric row.
 """
 import base64, glob, json, os, re, subprocess, sys
+sys.path.insert(0, os.path.join(os.path.dirname(os.path.abspath(__file__)), "..", "android"))
+import chords  # noqa: E402  nama akor (dipakai pemeriksaan baris "~")
 
 HERE = os.path.dirname(os.path.abspath(__file__))
 WORK = os.path.join(HERE, "work", "be")
@@ -41,7 +45,7 @@ def parse_txt(path):
             mode = "V"; verse = []; h["verses"].append(verse); continue
         m_sec = re.match(r"^#[A-UW-Z]((?:\s+(?:\d+/\d+|key=[A-G][b#]?))*)\s*$", line)
         if m_sec:
-            mode = "S"; sec = {"notes": [], "rows": []}
+            mode = "S"; sec = {"notes": [], "chords": [], "rows": []}
             for tok in m_sec.group(1).split():
                 if tok.startswith("key="): sec["key"] = tok[4:]
                 else: sec["meter"] = tok
@@ -49,6 +53,8 @@ def parse_txt(path):
         if mode == "S":
             if line.startswith(">"):
                 sec["rows"].append(line[1:].strip())
+            elif line.startswith("~"):
+                sec["chords"].append(line[1:].strip())
             else:
                 sec["notes"].append(line.strip())
         elif mode == "V":
@@ -58,6 +64,10 @@ def parse_txt(path):
                 verse.append(line.strip())
     for s in h["sections"]:
         s["notes"] = "\n".join(s["notes"])
+        if s["chords"]:
+            s["chords"] = "\n".join(s["chords"])
+        else:
+            del s["chords"]
     if not h["refs"]:
         del h["refs"]
     return h
@@ -94,6 +104,19 @@ def validate(h):
             n = sum(len(w.split("-")) for w in row.split())
             if n != need:
                 msgs.append(f"BE {h['be']} bagian {si+1} baris {ri+1}: {need} not vs {n} suku kata")
+        if s.get("chords"):
+            nl, cl = s["notes"].split("\n"), s["chords"].split("\n")
+            if len(nl) != len(cl):
+                msgs.append(f"BE {h['be']} bagian {si+1}: {len(cl)} baris akor untuk {len(nl)} baris not")
+            for li, (a, c) in enumerate(zip(nl, cl)):
+                sa = [t if t in ("|", ":|", "|]") else "x" for t in a.split() if t != "v"]
+                sc = [t if t in ("|", ":|", "|]") else "x" for t in c.split()]
+                if sa != sc:
+                    msgs.append(f"BE {h['be']} bagian {si+1} baris {li+1}: ketukan/birama akor tidak sejajar dengan not")
+            try:
+                chords.from_letters(s["chords"], s.get("key") or h.get("key") or "C")
+            except ValueError as e:
+                msgs.append(f"BE {h['be']} bagian {si+1}: nama akor tidak dikenal {e}")
     # bar lengths: short bars are fine at a section start (pickup) or right before :| / |] / section end
     for i, (si, n, end, num) in enumerate(bars):
         start = i == 0 or bars[i-1][0] != si or bars[i-1][2] in (":|", "|]")

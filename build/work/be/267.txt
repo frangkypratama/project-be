@@ -12,12 +12,17 @@
 @check Pembanding lirik: L2 kata 7 tambahan di buku, L15 kata 3–4 beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 267) | https://bukuende.wordpress.com/2013/06/16/o-tuhan-sulingkit-buku-ende-no-267-buku-logu-no-100/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ C | . . . | F . G | C . . |
 5 | 1' 3 5 | 4 3 2 | 3 . v (1'+7) |
+~ Am . Dm | G . . | C . G | C . . |
 6 6 2' | 7 7 7 | 1' . v 5 | 1' 3 5 |
+~ F . G | C . |
 4 3 2 | 3 . |
 > O Tu-han, su-ling-kit ma au! Son-da-ngi ro-hang-ku tang-kas. Go-gong-ku so-a-da di au!
 #B
+~ C | F . . | G . C |
 (1'+7) | 6 6 6 | 5 5 5 |
+~ F . G7 | C . . | G . . | C . :|
 4 4 4 | (3+5) 1' v 1' | 2' 1' 7 | 1' . :|
 > Tu Ho au pa-ring-gas, tu Ho au pa-do-nok, di Ho na-ma au!
 #V

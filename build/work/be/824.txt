@@ -14,7 +14,9 @@
 @check Tanda tahan (fermata) di atas not 5 (birama 2), 3 (baris 2) dan 1 terakhir belum bisa ditulis dalam format ini.
 @check Noda tinta di antara "1 1" (baris 2); balok = F4 F4 1/8 → 1+1.
 #A
+~ F | . . Bb . | C . F . | Gm . . . |
 5 | 5 5 6 5 | 5 . 5 3 | 2 3 4 .+3 |
+~ C . F . | C . Dm . | F . . |]
 2 . 3 1+1 | 7, 1 (6,+7,) 1 | (1 7,) 1 |]
 > Tu-han do-nga-ni ha-mi ai na bot ne ma a-ri, nu-nga be ma-ni-hir a-ri.
 #V

@@ -15,9 +15,13 @@
 @check Birama 6: angka "4" bertitik di atas, balok = Bes4 (bukan oktaf atas) → ditulis 4.
 @check Baris lirik ayat 1 memenggal "a-u" (2 suku kata pada dua not) — ditulis seperti di bawah not.
 #A
+~ F . . | Bb . . . . . . . . |
 3 2 3 | 4 . . 3 . . 1 7, 1 |
+~ C . . . . . . . . | F . . . . . . . . |
 (2 . . 2 . .) 2 #1 2 | 3 . . 2 . . 2 1 7, |
+~ . . . . . . . . . | C7 . . . . . . . . | Dm . . . . . . . . |
 (1 . . 1 . .) 3 2 3 | 4 . . 3 . . 5 #4 5 | (6 . . 6 . .) 6 7 6 |
+~ F . . . . . . . . | . . . . . . |]
 5 . . 3 . . 2 1 2 | (1 . . 1 . .) |]
 > Tu-han pa-tu-lus ma sang-kap-Mi tu a-u on na ti-nom-pa-Mi tom-pa ma au hom-bar tu lo-moM gu-ru di-ho ma san-dok au on.
 #V

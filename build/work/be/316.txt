@@ -11,13 +11,18 @@
 @check Judul Logu "Sai marlas ni roha hita"; baris pertama lirik "Nunga lao muse sadari".
 @check Birama akhir tercetak "1 1 . 0" — balok = dua not 1/4 + tanda diam 1/4 (3 ketuk, melengkapi ketukan gantung) → ditulis 1 1 0.
 #A
+~ F | . . Bb . | C . F . |
 3+4 | 5 5 4 3 | 2 2 0 3+4 |
+~ . . C . | F . . :|
 5 1 2 2 | 1 . 0 :|
 > Nun-ga lao mu-se sa-da-ri, Je-sus, si-an bo-hal-hon;
 > Sai pa-i-ngot au sao-na-ri, ma-nang bur-ju ro-hang-koh.
 #B
+~ Gm | C7 . F . |
 2+3 | 4 4 3 3 |
+~ C . F . | Bb . F . | C7 . F . | Bb . C . |
 2 . 0 4+5 | 6 6 5 5 | 4 . 0 1+1 | 4 3 2 1 |
+~ . . F . | . . C . | F . . |]
 2 2 0 3+4 | 5 1 2 .+3 | 1 1 0 |]
 > Ja-la tu-du ma su-de, na hu-baen na so tu-re, a-sa sae an-non do-sang-ku, ja-la so-nang ma ro-hang-ku.
 #V

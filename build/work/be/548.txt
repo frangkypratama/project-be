@@ -14,13 +14,19 @@
 @check Pembanding lirik: baris 1,3 (penulisan 'Dakdanak'), 4 ('tondingki' — suara guru di buku memang 'tondingki'), 6, 7 beda. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 548) | https://bukuende.wordpress.com/2013/06/13/dakdanak-na-badia-i-buku-ende-no-548-buku-logu-no-377/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ Ab | . . Eb | Ab . Eb7 | Ab . Eb | Ab . Eb | Ab . Eb |
 5, | 1 . 2 | 3 . 4 | (3 1) 2 | 1 . 5, | 1 . 2 |
+~ Ab . Eb7 | Ab . Eb | Ab . Eb | Ab . . | Eb . . | Ab . . |
 3 . 4 | (3 1) 2 | 1 . 0 | 0 0 3 | 2 . 7, | 5, . 3 |
+~ Eb . Bbm | Eb . . | Ab . Eb | Ab . Eb7 | Ab . Eb | Ab . Eb | Ab . |]
 (2 7,) 6, | 5, . 5, | 1 . 2 | 3 . 4 | (3 1 2 | 1) . 7, | 1 . |]
 > Dak-da-nak na ba-di-a i, mar-som-ba au di jo-lo Mi. Mar-o-lop o-lop ro-hang-ki, mar-o-lop o-lop ro-hang-ki,
 #B
+~ Ab | Eb . . | Ab . Eb | Ab . Eb7 | Ab . Eb | Ab . Eb |
 0 | 0 0 5, | 1 . 2 | 3 . 4 | (3 1) 2 | 1 . 5, |
+~ Ab . Eb | Ab . Eb7 | Ab . Eb | Ab . . | Eb . . | Ab . . |
 1 . 2 | 3 . 4 | (3 1) 2 | 1 . 1 | (7, 1) 2 | (3 2) 1 |
+~ Eb . Ab | Eb . . | Ab . Eb | Ab . Eb | Ab . Eb7 | Ab . Eb | Ab . |]
 (7, 2) 1 | 7, . 0 | 0 0 5, | 1 . 2 | 3 . 4 | (3 1) 2 | 1 . |]
 > Dak-da-nak na ba-di-a i. Mar-som-ba au di jo-lo-Mi. Mar-o-lop o-lop ton-ding-ki, mar-o-lop o-lop ton-ding-ki.
 #V

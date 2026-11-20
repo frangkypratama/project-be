@@ -12,9 +12,13 @@
 @check Baris 4 birama 1 angka tercetak "1̇" (titik atas), tetapi not balok menunjukkan C4 (oktaf bawah); dibaca 1.
 @check Kredit tercetak "Silias J. Vail Abad 18" (lazimnya Silas J. Vail, abad 19); ditulis sesuai buku.
 #A
+~ C | . . . . . . | F . . C . . | F . . C . . |
 5 | 5 . 3 5 . 1' | 1' . 6 5 . v 3 | 6 . 5 3 . 1 |
+~ . . . G . . | C . . . . . | F . . C . . | . . . . . . |
 3 . . 2 . v 5 | 5 . 3 5 . 1' | 1' . 6 5 . v 1' | 3' . 1' 3' . 2' |
+~ G . . C . . | G . . . . . | Am . . F . . | C . . F . . |
 2' . . 1' . v 1' | 2' . #1' 2' . 3' | 1' . 6 1' . v 6 | 5 . 5 6 . 5 |
+~ C . . G . . | C . . . . . | F . . . . . | C . . . . . | . . . . . |]
 3 . 1 2 . v 5 | (5 . . 5 .) v 5 | (6 . . 1' .) v 1' | 3' . 1' 3' . 2' | (1' . . 1' .) |]
 > To-rop do-pe na si-at i di ha-sam-pu-ran re-a. I pe ha-mu par-do-sa i, sai o-lo ma por-se-a! Ai De-ba-ta man-jou ha-mu Tu ha-so-na-ngan si-tu-tu. Ha-mu, ha-mu di-jou De-ba-ta-mu.
 #V

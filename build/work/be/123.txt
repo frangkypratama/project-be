@@ -11,13 +11,18 @@
 @check Buku menulis "Choral Buch 169 Bruder gemeine, um, 1740".
 @check Not terakhir dicetak "1̇ ." tetapi not balok buku menunjukkan G4 (sama dengan 1); dibaca 1.
 #A
+~ G . . . | C . D . | G . . . |
 1 2 3 5 | 4 3 2 2 v | 3 2 1 2 |
+~ . . . . :|
 1 7, 1 . :|
 > A-le do-ngan na sa-ro-ha man-ja-la-hi da-me i,
 > Dom-pak Je-sus ta-pa-sa-da ho-long ni ro-han-ta i!
 #B
+~ D . . . | G . C . |
 7, 1 2 2 | 1 7, 6, 6, |
+~ D . . . | Am . D . | G . . . |
 7, 1 2 3 | 4 3 2 . v | 1 2 3 5 |
+~ C . D . | G . . . | . . . . |]
 4 3 2 2 v | 3 2 1 2 | 1 7, 1 . |]
 > Ai I-ba-na do u-iun-ta, hi-ta do ru-as-Na i; Tu-han Je-sus do gu-run-ta, hi-ta si-se-an-Na i.
 #V

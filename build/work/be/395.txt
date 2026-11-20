@@ -12,16 +12,23 @@
 @check Pembanding lirik: beda ejaan L2, L3, L12 ("Pabulus", "tadingkon" sesuai scan).
 @ref Lirik pembanding: bukuende.wordpress.com (BE 395) | https://bukuende.wordpress.com/2013/06/16/masuk-ma-ho-buku-ende-no-395-buku-logu-no-263/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . . . . . | . . . . . . | . . . . . . |
 3 . . (3 2) 3 | (1 . . 1) . 5, | 3 . 3 (3 2) 3 |
+~ . . . C . . | Am . . . . . | C . . . . . | G . . . . . | D . . . . . |
 5 . . 4 . 0 | 4 . . (4 3) 2 | (6, . . 6,) . 7, | 1 . 1 (1 2) 3 | (2 . . 2) . 0 |
 > Ma-suk ma ho, na go-got do har-ba-ngan, ma-suk ma ho, som-pit do da-lan i.
 #B
+~ G . . . . . | . . . . . . | . . . . . . |
 3 . . (3 2) 3 | (1 . . 1) . 5, | 3 . 3 (3 2) 3 |
+~ . . . C . . | Am . . . . . | C . . . . . | G . . . . . | . . . . . . |
 5 . . 4 . 0 | 4 . . (4 3) 2 | (6, . . 6,) . 7, | 1 . 1 3 . 2 | (1 . . 1) . 0 |
 > Je-sus man-jou nang ho di par-ja-la-ngan, sai ro ma ho, naeng so-nang ro-ha-mi.
 #C
+~ G . . . . . | D . . . . . | G . . . . . | D . . . . . |
 5 . . 3 . 1 | (2 . 3) 2 . . | 5 . . 3 . 1 | (2 . . 2) . 0 |
+~ G . . . . . | C . . . . . | G . . D7 . . | G . . . . . |
 3 . . (3 4) 5 | 6 . (4 . 4) 6 | 5 . 5 (4 3) 2 | (3 . . 3) . 0 |
+~ . . . . . . | C . . . . . | G . . D7 . . | G . . . . . |]
 3 . . (3 4) 5 | 6 . (4 . 4) 6 | 5 . 5 (4 3) 2 | (1 . . 1) . 0 |]
 > Je-sus man-jou ho, be-ge ma i, u-nang be to-gang, o-loi jou-jou-Na i. U-nang be to-gang, o-loi jou-jou-na i.
 #V

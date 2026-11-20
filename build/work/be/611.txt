@@ -12,9 +12,13 @@
 @check Birama 9/8: tiap angka bergaris atas = 1/8; ditulis per 1/8 (9 ketuk per birama), seperti lagu 6/8 lain.
 @check Kredit tercetak "mary Macdonald" dan "Inggris (Goelic)" (ejaan lazim: Mary Macdonald, Gaelic); ditulis apa adanya.
 #A
+~ C . G | C . . . . . . . . |
 1 3 5 | 1' . . 2' . . 7 6 5 |
+~ Am . . . . . . . . | C . . . . . . . . |
 6 . . 5 . . 1 2 3 | 5 . . 6 . . 5 3 1 |
+~ G . . . . . . . . | Am . . . . . . . . |
 (2 . . 2 . .) 5 3 5 | 1' . . 6 . . 5 3 1 |
+~ C . . . . . . . . | G . . . . . . . . | C . . . . . |]
 1 . . 2 . . 3 2 3 | 5 . . 6 . . 2 3 2 | (1 . . 1 . .) |]
 > Pe-ak Tu-han-ta di pang-ga-ga-tan po-gos, le-a, a-lai sun sa-ngap, ra-de ma-naon ma-mor-san do-san-ta pa-da-me hi-ta tu De-ba-ta.
 #V

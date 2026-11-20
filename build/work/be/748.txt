@@ -14,12 +14,19 @@
 @check Pembanding lirik: beda di baris 7 (tondungku), 15 (hansit taononmu), 16 (Tuhan), 17 (inananmu), 18 (pembanding kurang 1 kata); dicek ulang di scan hlm 805–806, ditulis sesuai buku termasuk salah cetak tondungku/inananmu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 748) | https://bukuende.wordpress.com/2013/06/18/sonang-ma-ho-buku-ende-no-748-buku-logu-no-748/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ F . . | C7 . F . | C . F . | C . F . |
 3 2 3 | 4 . . 3 | 2 3 1 .+2 | 2 (3 . . |
+~ Dm . Gm . | C7 . F . | C . F . | . . . . |
 3) 3 2 3 | 4 . . 3 | 2 3 1 .+2 | (3 . . . |
+~ . . . . | Dm . . . | F . C . | Gm . . . |
 3) 5 5 5 | 6 . . 3 | 3 5 5 .+2 | 2 (4 . . |
+~ C7 . F . | . . . . | . . C . | F . . . |
 4) 4 3 2 | 3 . . 1 | 1 2 2 .+3 | (3 . . . |
+~ . . . . | Dm . . . | F . C . | Gm . . . |
 3) 5 5 5 | 6 . . 3 | 3 5 5 .+2 | 2 (4 . . |
+~ C7 . F . | . . . . | . . C . | F . . . |
 4) 4 3 2 | 3 . . 1 | 1 2 2 .+1 | (1 . . . |
+~ . |]
 1) |]
 > So-nang ma ho, so-nang ma ho ton-ding-hu sa-bam ma ho ma-mor-san si-lang-mi, pos ro-ha-mi sa-ti-a do Tu-han-mu I-ba-na do pa-to-gu lang-kang-mi, nang pe ra-his ma-ol si-da-la-nan-mu tu-lus do i baen-on ni Tu-han-mi.
 #V

@@ -14,16 +14,23 @@
 @check Pembanding lirik: beda ejaan kata 1 baris 3 & 7 (pembanding kemungkinan menulis "Dipasangap"/"Dihaposima" disambung); scan menulis "Di pasangap", "Di haposima" — buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 757) | https://bukuende.wordpress.com/2013/06/16/ise-do-na-naeng-martua-buku-ende-no-757-buku-logu-no-757/ | pembanding menyebut Buku Logu No. 757
 #A
+~ Bb | . . F . |
 5+5 | 1' 1' 5 5 |
+~ Bb . . . | F . . . |
 (3 5+3) 1 1'+1' | 2' 3' 2' (3' |
+~ . . . . | . . . . |
 2'+5' #4'+3') 2' 1'+1' | 7 .+1' 2' .+2' |
+~ . . Bb |
 5 . 0 |
 > I-se do na naeng mar-tu-a i-se do na naeng sa-ngap i-se do na naeng sa-ngap?
 #B
+~ Bb | F7 . Bb . | . . F :|
 5+5 | 4' .+2' 3' .+1' | (3' .+2') 2' :|
 > Di pa-sa-ngap ma Ja-ho-wa,
 #C
+~ Bb | . . F . | Bb . . . |
 5+5 | 1' 1' 2' 2' | (5' .+3' 1') 1'+7 |
+~ Cm . Bb . | . . . |]
 (6+4' 3')+2' 3' 2' | 1' . 0 |]
 > a-sa tung tu-tu sa-ngap, a-sa tung tu-tu sa-ngap.
 #V

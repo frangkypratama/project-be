@@ -12,8 +12,11 @@
 @check Pembanding lirik: L1 (Tuhanki), L3 (dibahen), L4 (dibahen), L5 (pangunjunan) beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 451) | https://bukuende.wordpress.com/2013/06/16/o-tuhanki-di-goarmi-buku-ende-no-451-buku-logu-no-302/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ A | . . E | A . E | . . A | E . A |
 5, | 3 . 2 | 1 . 7, | (7, 6,) 1 | 5, . 5 |
+~ E7 . A | . . . | . . . | E . . | A . E | A . E |
 (5 4) 3 | (3 2) 1 | 3 . . | 2 . 5, | 3 . 2 | 1 . 7, |
+~ . . A | E . A | E7 . . | A . E | A . . | . . |]
 (7, 6,) 1 | 5, . 5 | (5 4) 2 | (1 3) 2 | (1 . . | 1) 0 |]
 > O Tu-han-ki di go-ar-Mi do ha-so-na-ngan-ki. _ Ta-ra-pul au di ar-sak-ki, Ho Je-sus go-gong-ki
 #V

@@ -12,8 +12,11 @@
 @check Pembanding lirik: baris 1 (mamorsan), 2 (kata "na" tidak ada di pembanding), 8 (saplu), 10 (hongoluanki) beda; dicek ulang ke scan, buku sesuai transkripsi.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 742) | https://bukuende.wordpress.com/2013/06/16/ndan-holan-sipalua-i-buku-ende-no-742-buku-logu-no-742/ | teks ayat
 #A
+~ Ab | Eb . . Ab . . | Eb . . Fm . . |
 (3,+4,) | 5, . 5, 1 . 3 | 2 . 1 .+(6, 1) .+6, |
+~ Eb . . Ab . . | Bbm . . Eb7 . . | Ab . . . . . |
 5, . 5, 1 . 3 | (2 . . 2) . (3+4) | 5 . 3 1 . 3 |
+~ Eb . . Fm . . | Ab . . . . . | . . . . . |]
 2 . 1 .+(6, 1) .+6, | 5, . 1 3 . 2 | (1 . . 1) . |]
 > Ndang ho-lan Si-pa-lu-a i ma-mor-san si-lang i, nang hi-ta pe na ing-kon do ma-naon na han-sit i.
 #V

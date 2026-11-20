@@ -10,9 +10,13 @@
 @check Pembanding lirik: beda di ayat 1 baris 3 (pembanding mengulang baris "Pangondianku") dan ayat 4 baris 1 ("rimpasna"); scan hlm 457 sesuai buku. Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 479) | https://bukuende.wordpress.com/2013/06/16/jonok-lam-jonok-buku-ende-no-479-logu-no-324/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . . . | Bb . . . | Eb . Bb7 . | Eb . . . |
 3 . 3 3 | 5 . 5 . | 1 . 4 4 | 3 . . 0 |
+~ Ab . . . | Bb . Eb . | Cm . Fm . | Bb . . . | Eb . . . |
 6 . 6 6 | 5 . 3 3 | 3 . 2 2 | 2 . . 0 | 3 . 3 3 |
+~ Bb . Eb . | Ab . Bb . | . . . . | Eb . Bb . | Eb . . . | . . Bb7 . |
 5 . 5 . | 6 . 7 1' | 7 . . 0 | 1' . 7 6 | 5 . 3 5 | 5 . 5 .+4 |
+~ Eb . . . | Ab . Bb . | Eb . . . | . . . . | . . . . |]
 3 . . 0 | 6 . 7 1' | 1' . 1 2 | 3 . 3 .+2 | 1 . . 0 |]
 > Jo-nok, lam jo-nok, to-gu au on; las ma-nang ar-sak da-lan-mu to-ngon. A-sal di ta-ngan-Mi au tong-tong. Pa-ngon-di-an-ku, pa-ngo-lu au on. Pa-ngon-di-an-ku pa-ngo-lu au on.
 #V

@@ -12,13 +12,18 @@
 @check Baris 1 dicetak "hango-ngo-lu" (bukan "hangoluan"); ditulis sesuai cetakan. Ayat 2 "mardalam" sesuai cetakan.
 @check Ayat 1 disusun dari lirik di bawah not.
 #A
+~ F . . . | C7 . F . | C7 . F . |
 3 .+2 (2+1) 1 | 5 .+4 (4+3) 3 v | (3+2) (4+2) 1 7, |
+~ . . . . :|
 1 . 0 0 :|
 > Sai hu-tu-ju ha-ngo-ngo-lu na pa-sa-bam au,
 > Sai hu-go-go, lao tu sur-go, pai-ma sa-hat au.
 #B
+~ F . Bb . | C7 . . . |
 5 .+3 6 .+5 | (5+4) (4+3) 4 . v |
+~ Gm . C7 . | . . F . | . . . . |
 4 .+2 5 .+4 | (4+3) (3+2) 3 . v | 3 .+2 (2+1) 1 |
+~ C7 . F . | C7 . F . | . . . . |]
 5 .+4 (4+3) 3 v | (3+2) (4+2) 1 7, | 1 . 0 0 |]
 > Sa-bat hu-pa-si-ding do, ha-ta on hu-i-ngot do: sai dat-da-ti man-ja-la-hi ha-so-na-ngan i.
 #V

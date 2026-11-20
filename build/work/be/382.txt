@@ -12,9 +12,13 @@
 @check Pembanding lirik: beda L1–L4 (ayat 1, mis. pembanding "Sangga do harorona"; buku jelas "Sangga ro di harorona" dan "Tuhan-mu, so-a-ra-na" di bawah not) dan L11; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 382) | https://bukuende.wordpress.com/2013/06/18/sangga-do-harorona-buku-ende-no-382-buku-logu-no-255/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . . . | . . Ab . | Bb . Eb . | . . . . |
 3 .+3 3 3 | 3 3 4 3 | 2 .+2 3 2 | 1 . . 0 |
+~ . . . . | . . Ab . | Bb . Eb . | Bb . Eb . |
 3 .+3 3 3 | 3 3 4 3 | 2 .+2 3 #4 | 5 . . 0 |
+~ Ab . . . | Bb7 . Eb . | Ab . . . | Bb . . . |
 4 .+4 4 4 | 4 3 3 2 | 6 5 4 3 | 2 . . 0 |
+~ Eb . . . | . . Ab . | Bb . Eb . | . . . . |]
 3 .+3 3 3 | 3 3 4 3 | 2 .+2 3 2 | 1 . . 0 |]
 > Sang-ga ro di ha-ro-ro na. Ta-ngi, a-ha do? Sai tong-tong do ma-nuk-tu-hi! Ndang di-be-ge ho? U-nang dok i ta-rok-tok-mu ma-nang pu-su-mi. Je-sus Kris-tus i, Tu-han-mu, so-a-ra-na i!
 #V

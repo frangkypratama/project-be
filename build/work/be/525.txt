@@ -12,12 +12,16 @@
 @check Pembanding lirik: bukuende.wordpress.com — 12 dari 17 baris sama; baris 1, 2, 10 penulisan kata digabung/dipisah; baris 8, 14 beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 525) | https://bukuende.wordpress.com/2013/06/16/na-laho-ma-au-buku-ende-no-525-buku-logu-no-361/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ A7 | D . . | . . . | A . A7 | D . A |
 (5+.+.+4) | 3 3 3 | 3 . 5+.+.+6 | 5 2 4 | (3+2) 1 5 |
+~ D . A | Em . A | D . A | D . :|
 1' . 7+.+.+6 | 6 . 5+.+.+6 | 5 5 5 | 1 . :|
 > Na la-ho ma au tu na so-nang di gin-jang, Di sur-go tu-tu sai na so-nang ma au.
 > O, ho do-ngan-ki, na gok do-sa, gok ar-sak Sai do-hot ma ho, sai tu sur-go ma lao.
 #B
+~ A7 | D . . | . . G | A7 . D |
 (5+.+.+4) | 3 . 3+.+.+4 | 5 . 4+.+.+3 | (2 4) 3+.+.+2 |
+~ . . A | D . A | Bm . Em | A . . | D . |]
 1 . 5 | 1' . 7+.+.+6 | 6 . 4+.+.+6 | 5 5 5 | 1 . |]
 > Sai ro do-hot ho, do-hot ho, do-hot ho, Sai do-hot ma ho, sai tu sur-go ma lao
 #V

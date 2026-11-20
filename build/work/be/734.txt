@@ -13,16 +13,25 @@
 @check Pembanding lirik: baris 2 dan 4 beda ejaan. Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 734) | https://bukuende.wordpress.com/2013/06/13/golap-situtu-buku-ende-no-734-buku-logu-no-734/ | proofreading per baris
 #A
+~ F | . . . | C7 . F | . . . |
 3 | 3 #2 3 | 5 4 3 | 3 . . |
+~ C . Dm | Bb . . | F . C | F . . |
 2 . 6, | 1 7, 1 | 3 2 5, | (3 . . |
+~ . . . | . . . | Bb . F | . . . |
 3) . 3+3 | 3 #2 3 | 6 5 3 | 3 . . |
+~ C . . | F . . | C . Gm | C . F | C . F |
 2 . 2 | 3 #4 5 | 7, 1 6, | (5, . . | 5,) . 0 |
 > Go-lap si-tu-tu ping-ki-ran-mu gok ar-sak tu-tu ro-ha-mi, be-reng ma si-non-dong ni Tu-han-mu, a-sa boi so-nang ro-ha-mi.
 #B
+~ F . . | . . C | F . . |
 3 . 3 | 5 .+3 2 | 1 . . |
+~ . . . | Bb . . | . . F |
 1 . 1 | 4 4 4 | 6 4 3 |
+~ C . . | . . F | C . . | F . C |
 (2 . . | 2) . 3+.+.+4 | 5 . 5 | 5 3 2 |
+~ F . . | . . . | . . . |
 1 . 1 | 1 . 1+.+.+2 | 3 .+2 3 |
+~ Bb . C | F . . | . . |]
 4 3 2 | (1 . . | 1 .) |]
 > Be-reng ma Tu-han Je-sus Pa-non-dang ha-ngo-lu-an i mo-lo di na ti-ur mar-da-lan ho, da-me ja-la ti-ur ro-ha-mi.
 #V

@@ -12,14 +12,21 @@
 @check Tanda mula 2 kres (D mayor), birama 2/4; not 1 = D4.
 @check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari suku kata di bawah not.
 #A
+~ D . | . . | G . | D . |
 3 3+4 | 5 3+2 | 1+6, 1+2 | 3 . |
+~ A7 . | D . | A . | D . |
 4 5+4 | 3 4+3 | 2 . | 5 . |
+~ . . | . . | G . |
 3 3+4 | 5 3+2 | 1+6, 1+2 |
+~ D . | A7 . | D . | A . | D . |]
 3 . | 4 5+4 | 3 4+3 | 2 . | 1 . |]
 > Lu-lui ha-mu ha-ra-jaon ni De-ba-ta, rap do-hot ha-ti-gor-an-Na, tam-ba-ho-non-na ma on-deng tu ha-mu, Ha-le-lu-ya, Ha-le-lu-ya.
 #B
+~ D . | A . | Bm . | D . | G . | A . |
 1' . | 7 . | 6 . | 5 0 | 6 . | 5 . |
+~ D . | A . | D . | A . | Em . |
 (5 6) | (7 5) | 1' . | 7 . | 6 . |
+~ A . | A7 . | D . | A . | D . |]
 5 0 | 4 5+4 | 3 4+3 | 2 . | 1 . |]
 > Ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, ha-le-lu-ya, Ha-le-lu-ya.
 #V

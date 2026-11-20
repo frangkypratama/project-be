@@ -12,7 +12,9 @@
 @check Pembanding lirik: bukuende.wordpress.com — semua baris sama. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 631) | https://bukuende.wordpress.com/2013/06/16/naung-hehe-do-tuhanta-kanon-buku-ende-no-631-buku-logu-no-631/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab | . . Eb . | Ab . Eb . | Ab . Eb7 . |
 5, | 1 1 5 5 | 3 . 2 5, | 1 3 5 .+4 |
+~ Ab . Eb . | Ab . Eb . | Fm . Eb7 . | Ab . . |]
 3 (2+1) 7, 5, | 5 (4+3) 2 . | 1 6, 4, 5, | 1 . . |]
 > Naung he-he do Tu-han-ta tu-tu naung he-he do Tu-han-ta ha-le-lu-ya, ha-le-lu-ya.
 #V

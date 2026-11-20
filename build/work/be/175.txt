@@ -10,11 +10,15 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 175) | https://bukuende.wordpress.com/2013/06/18/tu-dia-ho-na-loja-i-buku-ende-no-175-buku-logu-no-53/ | 9/9 baris sama
 @check Tanda ulang di akhir lagu hanya mengulang frasa terakhir (dua baris lirik "Dibahen i" / "Sai mulak ho!"); karena itu frasa akhir dipisah jadi bagian B.
 #A
+~ Ab | . . Eb | Ab . . | Db . . | Eb . Ab |
 5, | 3 . 2 | 1 . 5, | (6, 1) 6, | 5, . v 5, |
+~ Db . . | Eb7 . Ab | Eb . . | Ab . Eb | Ab . Eb | Ab . Eb7 |
 (6, 7,) 1 | (2+3 4) 3 | 2 . v 5, | 3 . 2 | 1 . 5, | 5 . 4 |
+~ Ab . Eb | Ab . Eb | Ab . Eb | Ab . |
 3 . v 5, | (5, 6,) 7, | (1+2 3) 2 | 1 . v |
 > Tu di-a ho, na lo-ja i bi-naen ni do-sa-mi? Ndang jum-pang ho na so-nang i di par-ja-la-ngan-mi.
 #B
+~ Ab | . . Eb | Ab . :|
 5, | 1 . (2+3) | 1 . :|
 > Di-ba-hen i
 > Sai mu-lak ho!

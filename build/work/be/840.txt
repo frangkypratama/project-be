@@ -15,19 +15,33 @@
 @check Hlm 932 baris 3 birama 3: "pa-ne - sa": suku kata "ne" ditahan atas (2̇ 1̇) + 2̇ (ditulis `_`).
 @check Lagu tanpa bait terpisah; teks di #V disusun dari lirik di bawah not.
 #A
+~ Bb | . . . . | Gm . Cm . | F . Cm . |
 5 | 1' . 3 3 | (3 .+2) 2 .+2' | (2' . 2')+4 4+4 |
+~ F7 . Bb . | . . . . | F . . . |
 (4 .+3) 3 3 | 1' 1'+1' 1'+1' 2'+3' | (3'+2') 2' . 2' |
+~ Bb . Eb . | F7 . Bb . | F . Cm . |
 3' .+3' 4' 4'+4' | 4' 3' . 3' | 5' .+2' 2'+2' 3'+4' |
+~ F7 . Bb . | F . . . | . . . . |
 (4' 3') . 3'+3' | 2'+2' 2'+2' 2' 2'+2' | 2' 2'+2' 2' 2' |
+~ . . . . | Bb . F7 . | Bb . . . |
 2' . 2' . | 3' .+3' 4' .+4' | (3' .+2') 1' 1' |
+~ F7 . Bb . | F . . . | . . . . |
 4' 4' 3' 3'+3' | 2' .+2' 2' .+2' | 2' . 2' . |
+~ Bb . F7 . | Bb . . . | . . F . |
 3' .+3' 4' 4'+4' | (3' .+2') 1' 1' | 1' .+1' (2'+1') 2'+3' |
+~ Bb . . . | Eb . F7 . | Bb . . . |
 3' . 3' .+3' | 4' . 4' .+4' | 3' . 3' 2'+2' |
+~ . . F . | Bb . . . | . . . . |
 3' . 2' .+1' | 1' . 1' . | 1' .+3 3 3+3 |
+~ Gm . Cm . | F . Cm . | F7 . Bb . |
 (3 .+2) 2 . | 2' . 2 .+4 | (4 .+3) 3 3 |
+~ . . . . | . . . . | F . . . |
 1' 1' 1' .+1' | 1'+1' 2'+3' (3' .+2') | 2' . . 2' |
+~ Bb . F . | Bb . F . |
 3' 1'+1' 2'+2' 2'+2' | 3' 1' 2'+2' 2'+2' |
+~ Bb . . . | F7 . Bb . | . . Eb . |
 3' 1' 3'+3' 3'+3' | 4' . 3' 2' | 5' . 4' 3' |
+~ F . . . | Bb . . . | . . . . | . . . . | F . Bb . |]
 2' . . . | 1' . . . | 1' . 1' . | 3' . 3' . | 5' . 5' . |]
 > A-le A-ma-na-mi na di-ba-nu-a gin-jang, sai pi-nar-ba-di-a ma go-ar-Mu, sai ro ma Ha-ra-ja-on-Mu, sai saut ma lo-mo ni-ro-ham di ba-nu-a to-nga on so-ngon na di ba-nu-a gin-jang. Le-hon ma di ha-mi sa-da-ri-on ha-ngo-lu-an si-ap a-ri! Se-sa ma do-sa-na-mi so-ngon pa-ne _ sa-na-mi di do-sa ni do-ngan na-mar-do-sa tu-ha-mi, u-nang-ha-mi to-gi-hon tu pang-un-jun-an! Pa-lu-a ma ha-mi si-an pang-a-go! Ai Ho do nam-pu-na Ha-ra-ja-on do-hot ha-go-go-on ro di ha-sa-ngap-on, sa-le-leng-le-leng-na. A-men A-men A-men.
 #V

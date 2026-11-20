@@ -11,12 +11,16 @@
 @check Pembanding lirik: baris 12 beda ejaan 1 kata; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 186) | https://bukuende.wordpress.com/2013/06/16/jahowa-do-haposanki-buku-ende-no-186-buku-logu-no-173/ | Pembanding lirik (tanda baca/kapital diabaikan).
 #A
+~ F | . . Dm . | C7 . Dm . | C7 . F . |
 5, | 1 2 3 6 | 5 4 3 v 6 | 5 4 3 3 |
+~ C . F :|
 2 . 1 :|
 > Ja-ho-wa do ha-po-san-ki, na ma-nga-poi ro-hang-ku,
 > Na pa-ti-ur-hon da-lan-ki, bu-lus di-baen lang-kang-ku,
 #B
+~ F | Bb . C . | F . . . |
 5 | 6 6 2 v 2 | 5 5 1 v 3 |
+~ C . . . | Dm . F . | Bb . . . | C . F |]
 2 1 7, 7, | 6, . 5, v 5 | 6 5 4 3 | 2 . 1 |]
 > So-nang tong-tong ro-hang-ki-non bi-naen ni De-ba-tang-ku, Pa-tik-na do lo-mong-ku,
 #V

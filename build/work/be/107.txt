@@ -11,11 +11,17 @@
 @check Pembanding lirik: bukuende.wordpress.com — 15 dari 15 baris sama persis; semua baris sama. Teks tetap mengikuti buku cetak.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 107) | https://bukuende.wordpress.com/2013/06/16/o-tondi-parbadia-i-sai-masuk-buku-ende-no-107-buku-logu-no-207/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . Bb . | F . C . | F . . . | Bb . C7 . |
 5 . (6 5) | 3 5 2 . | 3 #4 5 0+5 | 6 5 2 4 |
+~ F . . . | C7 . F . | Gm . C . |
 3 2 1 0+1 | 2 4 (3+4) 5 | 2 (1+6,) 5, 0+5, |
+~ F . . . | . . . . | C . . . |
 1 2 (3+5) .+4 | 3 2 3 0+3 | 5 6 5 2 |
+~ F . . . | Bb . C7 . | F . . . |
 3 #4 5 0+5 | 6 5 2 4 | 3 2 1 0+1 |
+~ C7 . F . | Gm . C . | F . . . |
 2 4 (3+4) 5 | 2 (1+6,) 5, 0+5, | 1 2 (3+5) .+4 |
+~ . . Bb . | F . . . | Gm . F . | . . . . |]
 3 2 (6, 7,) | 1 0+2 3 1 | 6, 2 3 2 | 1 . . . |]
 > O Ton-di Par-ba-di-a i, sai ma-suk Ho tu ro-hang-ki! Pa-saor-hon a-si ni ro-haM ro di su-de deng-gan ba-saM tu au mar-hi-te son-dang-mi, nang pe tu jol-ma sa-su-de; Ai naeng pa-pu-ngu-on-mu pe tu Tu-han Je-sus jol-ma su-de, Ha-le-lu-ya, Ha-le-lu-ya!
 #V

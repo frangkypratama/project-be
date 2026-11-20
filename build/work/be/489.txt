@@ -13,11 +13,15 @@
 @check Pembanding lirik: beda ejaan di baris 1, 2, 7; buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 489) | https://bukuende.wordpress.com/2013/06/18/sai-haposi-tuhanmi-buku-ende-no-489-buku-logu-no-331/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ C . . . | . . . . | G . . . | C . G . |
 3 .+4 5+.+.+5 6+.+.+1' | 1' . . 0 | 2' .+1' 7+.+.+2' 1'+.+.+6 | 5 . . 0 |
+~ C . G . | . . . . | C . G . | C . . . |
 3 .+4 5+.+.+1' 7+.+.+1' | 2' . . 0 | 3' .+1' 2'+.+.+6 7+.+.+7 | 1' . . 0 |
 > Sai ha-po-si Tu-han-mi nang di ha-go-go-tan i Nang tung jut pe ro-ha-mi, Sai ha-po-si Tu-han-mi
 #B
+~ C . . . | F . . . | G . . . | C . . . |
 1' .+1' 1'+.+.+3' 2'+.+.+1' | 6 . . 0 | 7 .+7 7+.+.+2' 1'+.+.+7 | 1' . . 0 |
+~ F . . . | G . . . | C . G . | C . . . |]
 1' .+1' 1'+.+.+7 (2'+1')+6+. | 5 . . 0 | 3' .+1' 2'+.+.+6 7+.+.+7 | 1' . . 0 |]
 > I tu-tu, pos ro-hang-ki di Ho, a-le Tu-han-ki Pai-ma sa-hat au tu Ho, tong-tong ha-po-san-ku Ho.
 #V

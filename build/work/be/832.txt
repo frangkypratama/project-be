@@ -11,10 +11,15 @@
 @check Buku tidak mencetak nomor Logu → @bl 0.
 @check Birama 2: "sa - - sa": suku kata pertama "sa" ada di bawah A, not B berikutnya tanpa suku kata (angka tanpa legato) → ditulis "sa _".
 #A
+~ G . | . . | C . | D . |
 3 5 | 1 2+3 | 4 3 | 2 . |
+~ G . | D . | G . | . . | . . | C . | D . |
 3 4 | 2 . | 1 . | 3 5 | 1 (2+3) | 4 3 | 2 . |
+~ . . | Am . | D . | G . | D . | G . |
 7, 1 | 6, . | 5, . | 5, 1 | 7, 5, | 1 2 |
+~ . . | . . | . . | D . | G . | . . |
 3 . | 3 5 | (5 #4) | 5 . | 3 5 | 1 (2+3) |
+~ C . | D . | G . | D . | G . |]
 4 3 | 2 . | 3 4 | 2 . | 1 . |]
 > Pin-tu na sa _ sa-da i, i ma Je-sus, ti-gor do da-lan-Na i, i-ma tu-lus, sai tos-to-si i-hot i, ro tu Je-sus, be-ta por-san si-lang-mi so-ngon Kris-tus.
 #V

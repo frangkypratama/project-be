@@ -12,17 +12,26 @@
 @check Bagian A diulang (:||) dengan dua baris lirik; baris kedua tercetak mulai "lan do angka halilian ..." — ditulis apa adanya.
 @check "nai", "saut", "boi" bertanda lengkung (satu suku kata).
 #A
+~ D | . . Bm | A7 . . | A . Em |
 3+.+.+4 | 5 .+5 6+.+.+3 | 5 4 4+.+.+5 | 7 .+5 6+.+.+5 |
+~ A . D | . . . | A . Em | A . D |
 5 . 3+.+.+5 | 1' .+2' 1'+.+.+5 | 7 6 6+.+.+6 | 5 .+5 5+.+.+5 |
+~ A . D :|
 5 . . :|
 > Tung dang-ol do ho O jol-ma a-la ha-la-la-pon-mi, so di bo-to ho ma-go-mu di-ra-ja-i hi-sap i,
 > lan do ang-ka ha-li-li-an na ma-nai-ti ro-ha-mi, ha-ri-bu-ron ha-u-li-on la-lap ho di hor-hon i,
 #B
+~ D | G . A7 | D . . |
 3+.+.+3 | 4 .+4 4+.+.+4 | 3 . 3+.+.+3 |
+~ A . Em | A . D | G . A7 |
 5 .+2 6+.+.+5 | 5 . 3+.+.+3 | 4 .+4 4+.+.+4 |
+~ D . . | A . A7 | D . . |
 3 . 3+.+.+3 | 5 .+2 4+.+.+4 | 3 . 3+.+.+4 |
+~ . . G | D . . | G . A |
 5 .+5 6+.+.+7 | 1' 5 5+.+.+5 | 6 .+6 7+.+.+1' |
+~ . . D | . . A | Em . G |
 2' . 5+.+.+1' | 3' .+3' 2'+.+.+1' | 2' 6 6+.+.+1' |
+~ A . Bm | D . |]
 7 .+7 6+.+.+7 | 1' . |]
 > I-da ma hi-ras-na i tung ne-ang do lang-ka-mi, ma-nge-a-hi ar-ta i, na mang-go-hi ro-ha-mi. A-ha ma la-bam O jol-ma nang di ho-lu-hut-na i, ma-go-po do di u-jung-na mo-lo ma-go ton-di-mi.
 #V

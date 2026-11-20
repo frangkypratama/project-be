@@ -13,12 +13,19 @@
 @check Ketukan gantung tercetak 2 ketuk ("5̣ 1 |") dan birama akhir 3 ketuk ("1 . ."); ditulis apa adanya.
 @check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
 #A
+~ F . | . . . . | . . . . | C7 . F . |
 5, 1 | 1 .+7, 1 3 | 3 2 5 5 | 5 .+4 3 2 |
+~ . . . . | . . . . | . . C . |
 3 . 5, 1 | 1 .+7, 1 3 | 3 2 5 2 |
+~ . . . . | F . C . | F . C7 . |
 2 .+7, 7, 6, | 5, . 5 5 | 5 1 4 3 |
+~ F . C . | F . C7 . | F . Dm . |
 3 2 5 5 | 5 1 4 3 | 3 2 6 6 |
+~ Bb . . . | . . C7 . | F . . . |
 6 5 4 3 | 4 . 2 (3+4) | 5 .+1 1 2 |
+~ . . Dm . | Bb . . . |
 3 . 6 .+6 | 6 5 4 3 |
+~ . . C7 . | F . . . | . . . |]
 4 . 2 (3+4) | 5 .+1 1 2 | 1 . . |]
 > Be-ge en-de ni su-ru-an, sa-ngap ma di Tu-han i, nu-nga tu-bu Si-pa-lu-a Ra-ja Si-par-da-me i, di-pa-da-me De-ba-tan-ta do di-ri-Na tu par-do-sa nu-nga tu-bu Kris-tus i di hu-ta Bet-le-hem i. En-de ni su-ru-an i, sa-ngap ma di Tu-han i.
 #V

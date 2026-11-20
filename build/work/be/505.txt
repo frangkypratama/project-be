@@ -12,8 +12,11 @@
 @check Not balok birama 1 dan 9: Bes bertitik, A 1/8, lalu C–Bes–G dengan angka "3" (triol); angka tercetak "2 1 6" (baris 3: "2 1 .6"). Ditulis sebagai triol (2+1)+6, (tampilan not balok situs belum mendukung triol, jadi durasinya bisa tampak tidak tepat).
 @check Garis birama tercetak di antara "5 ." dan "4 .3" (dan "1 ." dengan ketukan gantung berikutnya); digabung menjadi birama 3/4 penuh.
 #A
+~ Bb | Gm . Cm | F7 . . | Bb . . |
 3+.+.+2 | 1 .+7, (2+1)+6, | 5, . 4+.+.+3 | 3 .+2 1+7, |
+~ Gm . Cm | F . . | Bb . Cm | F . . |
 1 . 2+.+.+2 | 2 .+5, 6,+5, | 1 . 2+.+.+2 | 2 .+5, 6,+5, |
+~ Bb . . | Gm . Cm | F7 . . | Bb . . | . . |]
 1 . 3+.+.+2 | 1 .+7, (2+1)+6, | 5, . 4+.+.+3 | 3 .+2 1+7, | 1 . |]
 > Je-sus, do ma-no-gu au, pa-nga-mu-di tu na dao, nang bal-ga ga-lum-bang i, jor-but ha-ba-ha-ba i, Je-sus, ha-po-ru-san-ki, ndang mar-ma-ra so-lung-ki
 #V

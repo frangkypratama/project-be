@@ -11,8 +11,11 @@
 @check Pembanding lirik: semua baris sama.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 659) | https://bukuende.wordpress.com/2013/06/09/angka-parbegu-na-di-haholomon-buku-ende-no-659-buku-logu-no-659/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ Cm . . . | . . . . | Fm . Bb . |
 3 3+3 1' 7+6 | 6 6+5 3 1 | 2 2+2 5 6+5 |
+~ Bb7 . Eb . | G . Cm . | . . . . |
 2 4+.+.+4 3 1 | 3 3+3 1' 7+6 | 6 (6+5) 3+1 3 |
+~ G7 . Cm . | G7 . Cm . |]
 3+2 1+2 3 . | 3+2 7,+1 6, . |]
 > Ang-ka par-be-gu na di ha-ho-lo-mon, ma-i ma-i ma do di ha-ti-u-ron, nu-nga be lo-ja di ha-por-su-hon i, i-se ma na ro ma-ngu-ru-pi i.
 #V

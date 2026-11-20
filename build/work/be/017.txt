@@ -11,12 +11,16 @@
 @check Pembanding melodi: 15 not pembuka (33332 21111 77665) sama persis dengan incipit tune ARNSBERG / Wunderbarer König (Neander 1680) di Hymnary.org.
 @ref Melodi pembanding: Hymnary.org — ARNSBERG / Wunderbarer König (Neander 1680) | https://hymnary.org/tune/arnsberg_neander | Incipit 33332 21111 77665 (derajat nada) cocok dengan not angka di sini.
 #A
+~ G . . . | D . . . | G . . . | D . . . |
 3 3 3 3 | 2 . 2 . v | 1 1 1 1 | 7, . 7, . v |
+~ Em . G . | D . . . | G . . . :|
 6, 6, 5, 1 | 2 3 2 . | 1 . . . :|
 > Ra-ja na tu-mim-bul si-gom-go-mi ha-mi, Ja-lo ma pu-ji-an-na-mi.
 > Deng-gan ni ba-saM do pa-ngo-lu-hon ha-mi, A-tik pe mar-do-sa ha-mi.
 #B
+~ G . C . | D . G . |
 3 3 4 . v | 2 2 3 . |
+~ . . C . | D . G . | . . C . | D . G . |]
 5 5 4 3 | 2 . 3 . v | 5 5 4 3 | 2 . 1 . |]
 > Sai a-poi par-go-goi ha-mi ma-ngen-de-hon sa-ngap-Mi, o Tu-han!
 #V

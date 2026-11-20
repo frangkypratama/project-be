@@ -14,13 +14,19 @@
 @check Pembanding lirik: bukuende.wordpress.com — 4 dari 8 baris sama; baris 1–4 beda ejaan (termasuk "hinjang", "nuang" yang tampak salah cetak di buku). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 529) | https://bukuende.wordpress.com/2013/06/09/angka-naung-monding-buku-ende-no-529-buku-logu-no-363/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ G . . | . . . . . . . . . | C . . . . . . . . |
 3 #2 3 | 1 . . 1 . . 3 2 3 | (4 . . 4) . 0 4 3 4 |
+~ D . . . . . . . . | G . . . . . . . . | . . . . . . . . . |
 2 . . 2 . . 5 #4 5 | 3 . . 3 . . 3 #2 3 | 1 . . 1 . . 3 #2 3 |
+~ C . . . . . . . . | G . . . . . . . . | . . . . . . |
 (4 . . 4) . . 1 7, 6, | 5, . . 1 . . 3 1 2 | (1 . . 1 . .) |
 > Ang-ka naung mon-ding di ta-no on, ang-ka naung sa-hat tu gin-jang an. Sai di-pa-i-ma nang do-hot _ ho, A-sa tu hin-jang do-hot ho ro.
 #B
+~ G . D | G . . . . . . . . | C . . . . . . . . |
 5 #4 5 | 3 . . 3 . . 5 #4 5 | (4 . . 4) . . 4 3 4 |
+~ D7 . . . . . . . . | G . . . . . . . . | . . . . . . . . . |
 2 . . 2 . . 5, 2 4 | (3 . . 3 . .) 3 #2 3 | 1 . . 1 . . 3 #2 3 |
+~ C . . . . . . . . | G . . . . . . . . | . . . . . . |]
 (4 . . 4) . . 1 7, 6, | 5, . . 1 . . 3 1 2 | (1 . . 1 . .) |]
 > Ang-ka nuang sa-hat ma-na-gam ho, Tu ha-tu-a-on do-hot ho ro. Ang-ka di gin-jang lu-lui ma i, be-reng Tu-han-mu, go-lom ma i.
 #V

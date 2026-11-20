@@ -14,11 +14,15 @@
 @check Pembanding lirik: baris 2, 4, 5, 13, 17 beda; ayat 4 tercetak "Husuru hi" (kemungkinan salah cetak "ho"). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 728) | https://bukuende.wordpress.com/2013/06/13/husuru-ho-buku-ende-no-728-buku-logu-no-728/ | proofreading per baris
 #A
+~ F . | . . . . | . . C . |
 0+1 1+1 | 3 .+1 1+1 2+1 | 1 7, .+2 2+2 |
+~ Gm . C . | F . . . | . . . . |
 4 .+2 2+2 1+2 | 3 . 0+3 3+3 | 5 .+3 3+3 4+3 |
+~ . . C . | F . . . | . . . . |
 3 2 .+2 3+2 | 3 .+1 1+3 2+.+.+2 | 1 . . 0 |
 > Hu-su ru ho lao su-me-a hon di-ri; ra-dot ma ho di pan-jou on-mi, nang di-le-a-i ja la di ar _ sa-hi, Hu-su-ru ho ga-be na po-song-ki
 #B
+~ Bb . . . | C . . . | F . C . | F . . |]
 4 .+4 4 3+3 | 2 7, 5, . | 1 3 2 .+1 | 1 . 0 |]
 > Au si-nu ru-ni A-ma i, ma-nu-ru _ ho.
 #V

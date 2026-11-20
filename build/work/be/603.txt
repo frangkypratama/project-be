@@ -14,10 +14,15 @@
 @check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 603".
 @check Ayat 3 (603a) tercetak "sai tugo luhut" (603b: "sai togu luhut"); ditulis apa adanya.
 #A
+~ F | C7 . F | . . . | Bb . . |
 5 | 5 .+4 3 | 3 2 1 | 1 7, 6, |
+~ C . F | C . F | C . . | Dm . Bb |
 5, . 5, | 5, .+6, 5, | 5, 2 7, | 6, 5, 1 |
+~ F . . | C7 . F | . . . |
 3 . 5 | 5 .+4 3 | 3 2 1 |
+~ Bb . . | C . F | Bb . C |
 1 7, 6, | 5, . 5, | 4 .+3 2 |
+~ F . . | Gm . C | F . . |]
 3 2 1 | 2 6, 7, | 1 . . |]
 > Tung di pang-ga-ga-tan pe-ak Ho Tu-han, da-ngol pe Ho so-rang sa-bam do ro-haM, bin-tang-Mu di la-ngit hu-mir-dop to-rang, ma-na-tap Ho Je-sus na mo-dom so-nang.
 #V

@@ -13,13 +13,18 @@
 @check Pembanding lirik: L1 kata 6, L2 kata 4 (buku "baaua", kemungkinan salah cetak), L12 kata 2 berbeda; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 265) | https://bukuende.wordpress.com/2013/06/16/mauliate-ale-tuhan-buku-ende-no-265-logu-no-192/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F | . . . . | C . F . | . . C . |
 5, | 1 2 3 1 | 5 5 3 1 | 0 3 2 5 |
+~ Dm . F . | C . F . :|
 3 6 5 #4 | 5 . . . :|
 > Ma-u-li-a-te, a-le Tu-han, a-la ni ha-ho-ho-long-Mi.
 > Ro Ho si-an ba-au-a gin-jang pa-ngo-lu au na ma-go i.
 #B
+~ Gm | C . . . | F . . . |
 2 | 2 2 7, 5, | 1 2 3 1 |
+~ . . C . | F . Bb . | C . . . | F . . . |
 0 3 2 3 | 1 7, 6, 6, | 5, . . 5, | 1 2 3 1 |
+~ C . F . | . . Bb . | C . F . | . . . |]
 5 5 3 1 | 0 5 1 4 | 7, (1+2) 3 2 | 1 . . |]
 > Hu-dok di Ho ma-u-li-a-te, Naung sing-kop ha-ngo-lu-an-ki, a-la ho-long hu-hut mar-a-si Ro-haM di au par-do-sa i.
 #V

@@ -13,11 +13,15 @@
 @check Birama "1 7 1 2 1" (baris 3): not balok 1/8 + dua 1/16 berbalok lalu legato ke 2' (1/4) dan 1' (1/4). Agar jumlah suku kata pas, "ni" dinyanyikan pada 1'-7-1'-2' (melisma) — legato buku hanya tercetak 1'-2'; mohon dicek.
 @check Birama "1 . 2 3 0 1" (baris 4): not balok 1' 1/8 bertitik + 2' 1/16 legato ke 3' (1/4), diam 1/8, 1' 1/8; "ya" dinyanyikan pada 1'-2'-3'.
 #A
+~ Bb . Cm | F . Bb | D7 . . | Gm . . |
 (5 1') 6 | (5 7) 1' | 2'+.+.+4' 3' 2' | (1' 7) v 1' |
+~ . . . | Cm . . | F7 . Bb | Gm . . |
 (6 5) 1' | (6 5) 4 | (4 3) 0 | 3 1' (7+6) |
 > He-he do mu-se pa-ma-tang-kon si-an ta-no-man on; su-ang ma
 #B
+~ Bb . F | Bb . F | . . Bb | . . . |
 (5 #4) 5 v | 5 6 7 | (1'+.+7+1' 2') 1' | 1' 7 0+1' |
+~ F . . | Bb . . | F . . | Bb . . |]
 (2' 1') 7 | (1'+.+.+2' 3') 0+1' | (2' 1') 7 | 1' . 0 |]
 > ngo-lu ba-he-non ni Tu-han-ku. Ha-le-lu-ya! Ha-le-lu-ya!
 #V

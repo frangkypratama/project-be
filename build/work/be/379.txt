@@ -11,8 +11,11 @@
 @check Bagian "Dijou Tuhan i do ho!". Kepala lagu juga mencetak "R.L. No. 125". Birama 6/8: 1 token = 1 not 1/8.
 @check Hlm 363 baris 1 birama 4 tercetak "3 . ." dan not akhir hlm 364 tercetak "1 . . ." (kurang dari 6/8), tetapi not balok keduanya 1/2 bertitik → ditulis 3 . . . . . dan 1 . . . . .
 #A
+~ F . . C7 . . | F . . . . . | . . . C . . | F . . . . . | . . . C7 . . |
 3 . . 4 . 4 | 3 . . 1 . . | 1 . . 2 . 2 | 3 . . . . . | 3 . . 4 . 4 |
+~ F . . . . . | C . . F . . | . . . . . . | Bb . . . . . | C7 . . F . . | . . . Gm . . |
 3 . . 1 . . | 2 . . 3 . 2 | 1 . . . . . | 4 . . 4 . 4 | 4 . 3 3 . . | 5 . . 2 . 4 |
+~ C7 . . F . . | . . . . . . | . . . . . . | . . . . . . | . . . . . . |]
 4 . 3 3 . . | 1 . . 1 . 1 | 1 . 2 3 . . | 3 . . 3 . 2 | 1 . . . . . |]
 > Ndang sa-di-ha-ri i di-dok ho, ho-ras par jo-lo, par-pu-di ro. Bi-lang ma a-ri-mi, ti-bu do sal-pu-i, a-tik so sa-nga be, han-sit-na i.
 #V

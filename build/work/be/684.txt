@@ -12,15 +12,23 @@
 @check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 684. Birama 6/8: satu token = 1/8.
 @check Reff birama 4 baris 2 tercetak "3 .. 5 . 2" tanpa titik atas; balok sama dengan awal reff (D5–F4–C5) → ditulis 3' . . 5 . 2'.
 #A
+~ Bb . . . . . | F . . Bb . . | F . . Bb . . | F . . . . . |
 5 . 6 5 . 3 | 5 . 6 5 . . | 5 6 7 1' . 2' | (7 . . 7 . .) |
+~ Gm . . Eb . . | . . . . . . | . . . F . . | Bb . . F . . |
 6 . 7 6 . 4 | 6 . 7 6 . . | 6 7 1' 7 . 6 | (5 . . 5 . .) |
+~ Bb . . . . . | F . . Bb . . | F . . Bb . . | Eb . . . . . |
 5 . 6 5 . 3 | 5 . 6 5 . . | 5 6 7 1' . 5 | (6 . . 6 . .) |
+~ . . . . . . | Bb . . F . . | Bb . . F . . | Bb . . . . . |
 6 . 7 1' . 2' | 3' . 1' 7 . 6 | 5 . . 2' . . | (1' . . 1' . .) |
 > Le-a si-tu-tu do au a-la-ni do-sang-ki, Lo-ja ja-la so-rat au, pon-jot ping-ki-ran-ki. De-ba-ta par-ho-long i um-be ge ang-guk i, A-la-ni ho-long-Na i ma-lu-a au.
 #B
+~ Bb . . F . . | Bb . . . . . | . . . Dm . . | Eb . . . . . | . . . . . . |
 3' . . 5 . 2' | (1' . . 1' . .) | 1' . . 3 . 7 | (6 . . 6 . .) | 6 . . 6 7 1' |
+~ Bb . . . . . | F . . Gm . . | Cm . . F . . | Bb . . F . . |
 5 . 1' 1' . . | 2' . . 6 . 3' | (2' . . 2' . .) | 3' . . 5 . 2' |
+~ Bb . . . . . | . . . Dm . . | Eb . . . . . | . . . . . . |
 (1' . . 1' . .) | 1' . . 3 . 7 | (6 . . 6 . .) | 6 . . 6 7 1' |
+~ Bb . . . . . | . . . F . . | Bb . . . . . |]
 5 . 1' 1' . . | 3' . . 3' 2' . | (1' . . 1' . .) |]
 > Ho-long-Na i, ho-long-Na i, a-la-ni Ho-long-Na i ma-lu-a au. Ho-long-Na i, ho-long-Na i, a-la-ni ho-long-Na i ma-lu-a au.
 #V

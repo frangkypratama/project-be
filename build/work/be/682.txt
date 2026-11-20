@@ -13,13 +13,21 @@
 @check Beberapa angka 1/2 tercetak tanpa titik atas (mis. "2̇ 1 0 1̇", "3̇ 2 0 2̇") padahal balok = Ab4/Bes4; ditulis oktaf atas sesuai balok.
 @check Ketukan gantung 1/8 ditulis 0+1'. Lirik ayat 1 baris 1 tercetak "pa-mua-ti", baris lain "pa-mu-a-ti"; dipakai 3 suku kata mu-a-ti sesuai jumlah not.
 #A
+~ Ab | . . . . | . . Eb . |
 0+1' | 3'+3' 3'+3' 3'+3' 3'+1' | 2'+1' 0+1' 2'+1' 2'+1' |
+~ Ab . . . | Eb . . . |
 3'+3' 3'+3' 3'+3' 3'+1' | 3'+(2' 2') . 0+2' |
+~ Ab . . . | . . Eb . |
 3'+3' 3'+3' 3'+3' 3'+1' | 2'+1' 0+1' 2'+1' 2'+1' |
+~ Ab . . . | . . . . |
 3'+3' 3'+3' 3'+3' 2'+3' | 2'+(1' 1') . 0+2' |
+~ Bbm . . . | Eb . Ab . |
 4'+4' 4'+4' 4'+4' 4'+2' | 3'+2' 0+2' 3'+2' 3'+2' |
+~ Bbm . . . | Eb . . . |
 4'+4' 4'+4' 4'+4' 3'+2' | 3'+(2' 2') . 0+2' |
+~ Ab . . . | . . Eb . |
 3'+3' 3'+3' 3'+3' 3'+1' | 2'+1' 0+1' 2'+1' 2'+1' |
+~ Ab . . . | . . . . |]
 3'+3' 3'+3' 3'+3' 2'+3' | 2'+(1' 1') . 0 |]
 > A-le Tu-han a-si ro-haM di ha-mi mar-pa-mu-a-ti ma ro-haM Tu-han di do-sa-na-mi, a-le Tu-han a-si ro-haM di ha-mi mar-pa-mu-a-ti ma ro-haM Tu-han di do-sa-na-mi, a-le Tu-han a-si ro-haM di ha-mi mar-pa-mu-a-ti ma ro-haM Tu-han di do-sa-na-mi, a-le Tu-han a-si ro-haM di ha-mi mar-pa-mu-a-ti ma ro-haM Tu-han di do-sa-na-mi
 #V

@@ -10,11 +10,15 @@
 @status Lirik belum ada pembanding
 @check Pembanding lirik: tidak ditemukan di indeks huruf bukuende.wordpress.com maupun pencarian web (2 Nov 2026).
 #A
+~ Ab . . . | Eb . . . | Ab . . . | . . Eb . |
 1 . 1 1 | 2 . 2 . v | 3 1 1 2 | 1 . 7, 0 |
+~ Ab . . . | . . Eb . | Ab . Eb . | Ab . Eb . | Ab . Eb . |
 3 . 3 3 | (3 .+2) 2 . v | 1 .+1 2 1 | 1 . 7, 0 | 3 . 2 1 |
+~ Bbm . Eb . | Ab . Bbm . | Eb . Ab |
 (4 .+3) 2 . | 3 .+3 2 1 | (7, 6,) 5, v |
 > Aut u-nang Ho jam-bar-hu a-le Je-sus, aut so mu-dar-Mu ma-ngon-di-hon a-hu, tung na tu di-a na-ma au par-do-sa,
 #B
+~ Ab . . . | . . Eb . | Ab . . . |]
 3 . 1 2 | (1 . 7, .) | 1 . . 0 |]
 > mar-ha-po-ru-san?
 #V

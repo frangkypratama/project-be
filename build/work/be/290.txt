@@ -11,8 +11,11 @@
 @check Baris 2: antara "3 . 1" dan "7̣ . 6̣ 7̣" tidak ada garis birama (angka & balok) sehingga satu birama 6 ketuk; garis birama ditambahkan.
 @check 4* = B♮ (balok bertanda pugar) → #4; birama "4 . 4" balok kembali ♭B.
 #A
+~ F . C7 | F . . | C . . | F . . | C . F |
 3 . 4 | 5 . 3 | (2 .+1) 2 | 3 . 3 v | 5 . 3 |
+~ C . F | G . . | C . F | Bb . C7 | F . . | C . . |
 2 . 5 | (#4 .+3) #4 | 5 . 0 | 4 . 4 | 3 . 1 | (7, .+6,) 7, |
+~ F . . | C7 . F | Bb . C7 | F . C | F . . |]
 (1 .+2) 3 v | 4 . 3 | 6 . (4+2) | 1 . 7, | 1 . . |]
 > Ai be-a-sa tung hu-mol-so ja-la sai ta-hu-ton ho? Ha-sa-bam-hon par-so-ri-on, pi-na-ro-na i tu ho.
 #V

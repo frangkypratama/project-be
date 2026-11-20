@@ -12,11 +12,17 @@
 @check Pembanding lirik: beda ejaan di L1, L2, L4, L5, L8, L12 (mis. "Dijou"), L6 kata "Jesus" (buku: "tu Jesus na di surgo i", dicek ulang di scan). Ayat 1 tidak tercetak sebagai teks, disusun dari lirik di bawah not.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 383) | https://bukuende.wordpress.com/2013/06/05/adong-do-ama-buku-ende-no-383-buku-logu-no-383/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . Bb7 . | Eb . Fm . |
 5 5+.+.+6 5+4 3+4 | 5 6 2 . |
+~ Bb7 . Eb . | Bb7 . Eb . | Ab . . . |
 4 4+.+.+5 4+3 2+3 | 4 5 3 .+1 | 1 1 1' .+6 |
+~ . . Eb . | Bb7 . Eb . | . . . . |
 6 6 5 .+5 | 5+6 5+4 3 2 | 1 . v 0 3+.+.+4 |
+~ . . Bb7 . | Eb . Fm . |
 5 5+.+.+6 5+4 3+4 | 5 6 2 v 2+.+.+3 |
+~ Bb7 . Eb . | Bb7 . Eb . | Ab . . . |
 4 4+.+.+5 4+3 2+3 | 4 5 3 .+1 | 1 1 1' .+6 |
+~ . . Eb . | Bb7 . Eb . | . . . . |]
 6 6 5 .+5 | 5+6 5+4 3 2 | 1 . . 0 |]
 > A-dong do A-ma na di sur-go i, Tu-han Ja-ho-wa De-ba-tan-ta i. Di-jou do au, na lao ma au Tu A-ma na di sur-go i. Lao ma au, lao ma au tu na di sur-go i, Lao ma au, lao ma au tu na di sur-go i. Di-jou do au na lao ma au tu A-ma na di sur-go i.
 #V

@@ -10,14 +10,20 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 132) | https://bukuende.wordpress.com/2013/06/09/anggiat-apimi-ma-galak-buku-ende-no-132-buku-logu-no-193/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check Birama 4 "4 3' 1": dibaca tiga not 1/4 dengan napas sesudah 3.
 #A
+~ Bb | Gm . Cm | F . Bb | Eb . . | F7 . Bb | Gm . Cm |
 1 | 3 . (2+1) | 2 . 3 | 4 . 4 | 4 3 v 1 | 6, . 2 |
+~ F . Bb | . . F | Bb . :|
 7, . 1 | (1 .+2) 7, | 1 . :|
 > Ang-gi-at a-pi-Mi ma-ga-lak, par-ho-long ro-ha si-tu-tu,
 > Hu-hut ti-bu di-bo-to ha-lak, Ho, Je-sus, ra-ja na tu-tu.
 #B
+~ Bb | . . . | Eb . . | F . . |
 5, | 1 . 1 | 6, . 6, | 2 . 2 |
+~ . . . | Bb . . | Eb . F | . . Cm |
 7, 7, v 7, | 3 . 3 | 6, . 7, | 7, . 6, |
+~ F . . | Bb . . | . . . | Eb . . |
 5, . v 2 | 3 . 3 | 1 . 1 | 4 . 4 |
+~ F . . | Bb . . | . . . | . . F | Bb . |]
 2 2 v 2 | 5 . 3 | (1 .+7,) 1 | 3 . 2 | 1 . |]
 > Ai a-tik pe ma-mung-ka to-rang di pur-ba, di pas-ti-ma-po, laos tong go-dang do-pe na hu-rang, Ai naeng ti-ur do sa-su-de.
 #V

@@ -12,13 +12,19 @@
 @check Pembanding lirik: bukuende.wordpress.com — 10 dari 16 baris sama; baris 3, 7, 8, 14, 15 beda ejaan; baris 11 beda kata (marpangkirimon). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 524) | https://bukuende.wordpress.com/2013/06/16/ise-naeng-sahat-tu-surgo-i-buku-ende-no-524-buku-logu-no-360/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ F . . . . . | C . . F . . | . . . C . . |
 3 3 3 3 2 3 | 5 . 5 3 . . | 5 3 6 5 . . |
+~ F . . C . . | F . . . . . | C . . F . . |
 5 3 6 5 . . | 3 3 3 3 2 3 | 5 . 5 3 . 5 |
+~ C . . F . . | C . . F . . | Bb . . . . . |
 5 . 2 3 . 5 | 5 . 2 3 . 3 | 6 6 6 6 7 6 |
+~ C . . F . . | C7 . . . . . | F . . . . . |
 (6 5) 5 5 . . | 5 4 4 4 5 4 | 3 (3 4) 5 . . |
+~ Bb . . . . . | F . . . . |
 6 6 6 6 7 6 | 6 6 5 5 . |
 > I-se naeng sa-hat tu sur-go i? Ndang le-leng be, ndang le-leng be, mar-ni-da ang-ka su-ru-an i, naeng do-hot ho, naeng do-hot ho? _ Sa-hat tu a-la-man se-re i, mar-o-lop-o-lop di sur-go i. I-se mar-ni-da Tu-han-ta i? _
 #B
+~ C | F . . . . :|
 5 | 5 . 2 3 . :|
 > Naeng do-hot ho?
 #V

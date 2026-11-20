@@ -12,17 +12,27 @@
 @check Pembanding lirik: baris 6 (arian) dan refrein (hamulia onNa) beda ejaan; buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 573) | https://bukuende.wordpress.com/2013/06/16/puji-jesus-sipalua-buku-ende-no-573-buku-logu-no-573/ | teks lirik
 #A
+~ G . . D . . | G . . . . . | D . . Em . . | D . . G . . |
 3 . . 5 . . | 1 . . 3 . . | 2 3 2 1 7, 6, | 5, . . 1 . . |
+~ . . . D . . | G . . . . . | Em . . Am . . | D . . . . . |
 3 . . 5 . . | 1 . . 3 . . | 3 2 1 2 . 3 | (2 . . 2 .) 0 |
+~ G . . D . . | G . . . . . | D . . Em . . |
 3 . . 5 . . | 1 . . 3 . . | 2 3 2 1 7, 6, |
+~ D . . G . . | . . . . . . | C . . D . . | G . . . . . |
 5, . . 1 . . | 3 . . 5 . . | 4 . . 2 . . | 1 7, 1 3 . 2 |
+~ . . . . . . | D . . G . . | D . . G . . |
 (1 . . 1) . 0 | 2 . . 3 . . | (2 . 7,) 5, . . |
+~ D7 . . G . . | . . . D . . | G . . D . . |
 4 3 2 3 . 4 | 3 . . 2 . . | 3 . . 5 . . |
+~ G . . . . . | Em . . Am . . | D . . . . . |]
 1 . . 3 . . | 3 2 1 2 . 3 | (2 . . 2 . .) |]
 > Pu-ji Je-sus pu-ji Je-sus Si-pa-lu-a la-ngit ta-no mar-o-lop-o-lop ma. Ha-le-lu-ya pu-ji ma Tu-han Ja-ho-wa ta-pa-sa-ngap go-ar ni De-ba-ta Tu-han Je-sus do mar-ma-ha-ni hi-ta a-ri-an na nang bo-da-ri na pe.
 #B
+~ G . . D . . | G . . . . . | D . . Em . . |
 3 . . 5 . . | 1 . . 3 . . | 2 3 2 1 7, 6, |
+~ D . . G . . | . . . . . . | C . . D . . |
 5, . . 1 . . | 3 . . 5 . . | 4 . . 2 . . |
+~ G . . . . . | . . . . . . |]
 1 7, 1 3 . 2 | (1 . . 1 . .) |]
 > Pu-ji ha-tin-dang-kon ma ha-mu-lia on-Na ta-en-de-hon sa-ngap di De-ba-ta.
 #V

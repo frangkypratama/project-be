@@ -11,9 +11,13 @@
 @check Pembanding lirik: beda ejaan "topoti" (ayat 2 baris 1) dan "Pambaenmu" (ayat 2 baris 2); dicek ulang ke scan: tercetak demikian. Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 424) | https://bukuende.wordpress.com/2013/06/18/soara-ni-tondi-buku-ende-no-424-buku-logu-no-284/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Db | . . . . . . Bbm . . . . . | Ab7 . . . . . Db . . . . . |
 5 | 5 . . (5 #4) 5 6 . . 5 . 3 | 5 . . (4 3) 2 (3 . . 3 .) 5 |
+~ . . . . . . Gb . . . . . | Ab . . . . . Db . . . . . |
 5 . . (5 #4) 5 6 . . 5 . 1' | 7 . . 6 . 5 (5 . . 5 .) 5 |
+~ Ab . . . . . Db . . . . . | Ab . . . . . Db . . . . . |
 2' . . (2' 1') 7 1' . . 5 . 1' | 2' . . (2' 1') 7 (1' . . 1' .) 1' |
+~ Gb . . . . . Db . . . . . | Ab . . . . . . . . . . |]
 1' . . (1' 7) 6 5 . . 1' . 1' | 7 . . (7 6) 7 (1' . . 1' .) |]
 > So-a-ra ni ton-di ni Tu-han-ta i jot-jot di-la-o-si, di-tu-lak ho i. Sai tan-da je-a-mu, pa-u-ba ro-ham, da-pot-hon Tu-han-mu, si-se-sa do-sam.
 #V

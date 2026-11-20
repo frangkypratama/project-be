@@ -14,21 +14,31 @@
 @check Pembanding lirik: beda ejaan di baris 4 (kata 6, parulosi) dan baris 5 (kata 4, marende); ditulis sesuai scan hlm 847–848.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 777) | https://bukuende.wordpress.com/2013/06/18/unang-sai-holsoan-ho-buku-ende-no-777-buku-logu-no-777/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ G . . C . . | E7 . . Am . . | G7 . . C . . |
 5 6 5 3 . 1 | 2 (3 . 3 . .) | 4 5 6 1' . 1' |
+~ G . . . . . | C . . Am . . | G7 . . . . . |
 (5 . . 5 .) 0 | 5 4 3 6 . 3 | 5 (4 . 4 . .) |
+~ Dm . . G . . | C . . . . . | Am . . E7 . . |
 4 3 2 5 . 5 | (3 . . 3 .) 5 | 1' . 7 (2' 1') 3 |
+~ G . . . . . | C . . G . . | Am . . . . |]
 5 (5 . 5 .) 5 | 1' . 7 (2' 1') 5 | (6 . . 6 .) |]
 > U-nang sai hol-so-an ho, su-ma-ri-hon ho-sam, tu a-bit si-pa-nga-non u-nang su-sa ro-ham, ai De-ba-ta A-man-ta na su-ma-ri-hon ho,
 #B
+~ F | G . . . . . | C . . . . . | G . . . . . |
 6 | 7 . 7 (7 6) 7 | 1' (5 . 5 .) 3+3 | 5 . 6 5 . 6 |
+~ C . . G . . | C . . . . . | . . . . . . |
 (5 . . 5 .) 5 | 1' . 1' 1' . 1' | 1' (1 . 1 .) 1+1 |
+~ . . . G . . | C . . . . . | G . . . . . |
 (5 . 3) 3 2 . | 1 . . 1 . 5 | 5 . 7 2' . 5 |
+~ C . . . . . | G . . . . . | C . . . . |]
 5 (1' . 1' .) 5 | 5 7 . 2' . 5 | (3' . . 3' .) |]
 > Ai ga-ri ang-ka bu-nga, sai di pa-ru-lo-si do am-po-rik le-ang-le-ang, di-par-mu-du De-ba-ta, tu Tu-han De-ba-tang-ku ma-ren-de en-de au.
 #C
+~ C | . . . . . . | . . . . . . | G . . . . . | C . . . . :|
 1'+1' | 1' . 1' 1' . 1' | 1' (1 . 1 .) 1+1 | 5 . 6 5 . 6 | (5 . . 5 .) :|
 > Sa-su-de hol-so-hol-song-ku, di pa-da-o-si-an au,
 #D
+~ C | . . . . . . | . . . . . . | . . . . . . | . . . . . . |]
 1'+1' | 1' . 1' 1' . 1' | 1' (1 . 1 .) 1+1 | 5 . 3 3 . 2 | (1 . . 1 .) 0 |]
 > Sa-su-de hol-so-hol-song-ku, di pa-da-o-si-an au.
 #V

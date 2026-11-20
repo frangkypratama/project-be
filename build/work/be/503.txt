@@ -13,10 +13,15 @@
 @check Lirik "u-ngut *" di akhir hlm 479 buku bertanda bintang (tanpa catatan kaki yang terlihat).
 @check Baris 2 hlm 480: angka tercetak "3 . 1 | 1 . . 6" tanpa titik oktaf, sedangkan not balok E5 (setengah bertitik) dan C5; ditulis 3' . . 1' | 1' . . 6.
 #A
+~ C | G . . . | C . . . |
 5 | 5 .+5 #4+5 6+5 | 1' . . 3 |
+~ F . G7 . | C . . . | . . G . |
 4 .+3 2+6 5+4 | 3 . . 5 | 1' .+1' 7+2' 1'+5 |
+~ Am . Dm . | G . . . | C . . . | G . C . |
 6 . . 6 | 5 .+5 7+7 6+7 | 1' . . 5 | 5 . . 3+5 |
+~ G7 . Dm . | G . . . | C . G . |
 5+4 4+4 4 4 | 7 . . 6+7 | 1'+5 5+5 5 5 |
+~ C . . . | F . . . | G . . . | C . . |]
 3' . . 1' | 1' . . 6 | 5 .+5 7 (6+7) | 1' . . |]
 > Na lo-ja ho, o do-ngan-ki, di ba-hen ha-su-sa-an i, Ra-de di ho a-di-an i, sai be-reng dom-pak Je-sus i. So ho, u-ngut u-ngut-mi pa-so, so ho, u-ngut-u-ngut-mi pa-so, ho hom ma ho, pa-so sa-ri-ta-mi
 #V

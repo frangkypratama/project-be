@@ -12,9 +12,13 @@
 @check "4*" pada baris 3 = ♮A di paranada → #4.
 @check Ayat 1 mengulang "Sian hamatean i!" (53 suku kata); ayat 2–4 hanya 46 suku kata, jadi pembagian suku kata ayat 2–4 ke not tidak tercetak di buku.
 #A
+~ Eb . . . | . . . . | . . . . |
 1 2 3 3 | (3+4) (3+2) (2+1) 1 v | 3 4 5 5 |
+~ Bb7 . Eb . | . . Fm . | Bb . . . | Bb7 . Eb . |
 (5+6) (5+4) (4+3) 3 v | 5 .+3 2 2 | 2 (3+1) 7, 0 | 2 (3+4) 3 (1'+7) |
+~ Bb . . . | Eb . Bb7 . | Eb . Bb . |
 (7+6) (5+#4) 5 0 | 5 3 4 2 | 3 (2+1) (1+7,) 7, v |
+~ Eb . Bb7 . | Eb . Bb . | Cm . Eb . | Bb7 . Eb . |]
 5 3 4 2 | 3 (2+1) (1+7,) 7, v | 6 6 (5+1') 3 | (5+4) (3+2) 1 0 |]
 > Pes-ta Pas-ka, ha-tu-a-on! Pes-ta Pas-ka, ha-lu-a-on si-an ha-ma-te-an i! Si-an ha-ma-te-an i! Tu-han Je-sus do pa-su-ang, ha-ngo-lu-an, ha-so-na-ngan tu sa-lu-hut jol-ma i.
 #V

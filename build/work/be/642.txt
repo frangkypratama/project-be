@@ -11,9 +11,13 @@
 @check Pembanding lirik: semua baris sama.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 642) | https://bukuende.wordpress.com/2013/06/16/ro-ho-tondi-porbadia-buku-ende-no-642-buku-logu-no-642/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ F . . . . . | C . . . . . |
 3 . 3+3 4 3 .+1 | 3 2 . . . 0 |
+~ Gm . . C7 . . | F . . . . . |
 4 . 4+4 4 3 2 | 3 . . . . 0 |
+~ C . . F . . | C7 . . . . . |
 5 . 5+5 5 4 3 | 5 4 . . . 0 |
+~ F . . C7 . . | F . . . . . |]
 3 . 3+3 4 7, 2 | 1 . . . . 0 |]
 > Ro Ho Ton-di Por-ba-di-a go-hi lu-hut ha-mi on le-hon go-go nang sa-ha-la tu hu-ri-a-Mi tong-tong.
 #V

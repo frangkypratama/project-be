@@ -12,14 +12,21 @@
 @check Pembanding lirik: L2 kata 4 (nang), L10 (rumar rohangkon), L12 (Hinorhon) beda ejaan; semua dicek ulang di scan, buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 441) | https://bukuende.wordpress.com/2013/06/13/di-au-tuhan-jesus-buku-ende-no-441-buku-logu-no-297/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G | D . G . | . . . . | . . C . |
 5, | 5, . 5, 1 | 3 . 1 3 | 3 2 6, 7, |
+~ G . D . | G . . . | D . G . | Em . Am . |
 1 . 5, 5, | 5, . 1 3 | 5 . 3 3 | 3 . 2 1 |
+~ D . . . | G . . . | . . . . | . . C . | G . . . |
 2 . . 5, | 5, . 5, 1 | 3 . 1 3 | (3 2) (6, 7,) | 1 . 5, 1 |
+~ . . D . | G . . . | . . D . | G . . |]
 1 . 7, 6, | 5, . 1 2 | 3 . 2 2 | 1 . . |]
 > Di au Tu-han Je-sus, na sal-pu do su-de-na, na dok-dok, nang do-sa, nang u-hum tu au. Ring-kot do ro-hang-ku mar-ha-to-po-thon, Je-sus-ku, Tu-han-ku, di-to-bus-Ho au,
 #B
+~ G |
 3 |
+~ D . G . | D . G . | . . . . | . . D . |
 5 . 5 6 | 5 . 3 3 | 3 . 3 4 | 3 . 2 1 |
+~ G . D . | G . . . | C . . . | G . . |]
 1 . 7, 6, | 5, . 1 1 | (1 7,) 6, 7, | 1 . . |]
 > Di-se-sa Tu-han-ku do ang-ka do-sang-ku Nang ho, a-le do-ngan, di-to-bus nang ho.
 #V

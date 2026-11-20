@@ -12,13 +12,19 @@
 @check Pembanding lirik: baris 3 kata 10 ('dakdanakmon') beda ejaan. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 549) | https://bukuende.wordpress.com/2013/06/13/holan-dakdanak-buku-ende-no-549-buku-logu-no-378/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ A . . | F#m . . . . . . . . |
 3, 5, 1 | 3 . . 1 . . 1 7, 6, |
+~ E . . . . . . . . | Bm . . . . . . . . | E . . . . . . . . |
 (7, . . 7, . .) 5, 7, 2 | 4 . . 2 . . 2 3 2 | (2 . . 2 . .) 5, 1 3 |
+~ A . . . . . . . . | D . . . . . . . . | A . . . . . . . . | . . . . . . |
 5 . . 3 . . 3 2 1 | (4 . . 4 . .) 4 1 4 | 3 . . 1 . . 2 5, 2 | (1 . . 1 . .) |
 > Ho-lan dak-da-nak na met-met au. A-lai na boi au tu Je-sus lao. Ho-lan I-ba-na o-lo-an-ki Pa-i-ma sa-hat tu sur-go i.
 #B
+~ A . . | F#m . . . . . . . . | A . . . . . . . . |
 5, 5, 5, | 3 . . 1 . . 2 1 6, | (5, . . 5, . .) 5, 5, 5, |
+~ Bm . . . . . . . . | E . . . . . . . . | A . . . . . . . . |
 4 . . 2 . . 2 6, 3 | (2 . . 2 . .) 5, 5, 5, | 5 . . 3 . . 3 2 1 |
+~ D . . . . . . . . | A . . . . . . . . | . . . . . . |]
 (4 . . 4 . .) 4 1 4 | 3 . . 1 . . 2 5, 2 | (1 . . 1 . .) |]
 > O Tu-han Je-sus jang-kon au on. Tung so mar-go-go dak-da-nak-mon. Di Ho ngo-lung-ku. pang-ke ma i Tau ha-sa-nga-pon di go-ar-Mi.
 #V

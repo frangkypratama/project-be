@@ -15,13 +15,19 @@
 @check Pembanding lirik: bukuende.wordpress.com — 9/13 baris sama; beda ejaan di baris 2, 4, 7, 13 (disi, tusi, Dibaen, Ni); scan dicek, mengikuti buku. Pembanding 4 ayat.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 412) | https://bukuende.wordpress.com/2013/06/16/ndi-di-dolok-adui-buku-ende-no-412-buku-logu-no-387/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb . | F . . Bb . . | Eb . . . . . |
 3 .+4 | 5 .+#4 6 5 . 5+5 | 6 .+#5 7 6 . 6 |
+~ F7 . . . . . | Bb . . . . . | F . . Bb . . |
 7 .+6 5 4 5 4 | (3 . . 3 .) 3+4 | 5 .+#4 6 5 . 5+5 |
+~ Eb . . . . . | F7 . . . . . | Bb . . . . |]
 6 .+#5 7 6 . 6+6 | 7 .+6 5 4' 3' 2' | (1' . . 1' .) |]
 > Ndi, di do-lok a-dui si-lang ni Tu-han i, Sap mu-dar, sap ti-jur do i. Je-sus ma-te di-si, a-sa ma-lum di-baen su-de ang-ka gon-dok ro-ha i.
 #B
+~ Bb | F . . . . . | Bb . . . . . |
 7+1' | 2' .+2' 2' 2' 1' 7 | (1' . . 1' .) 1'+7 |
+~ Eb . . . . . | F . . Bb . . | . . . . . . |
 6 .+6 6 1' 7 6 | (5 . . 5 .) 5+1' | 3' .+3' 3' 3' 4' 3' |
+~ Eb . . . . . | Bb . . F . . | Bb . . . . |]
 (6 . . 6 .) 4'+4' | 3' .+2' 1' 5 7 2' | (1' . . 1' .) |]
 > Di-baen i, tung ho-long ro-hang-ki mi-da si-lang di Gol-ga-ta. i Hu-pa-sol-hot di-ring-ku tu-si. Dom-pak sur-go-par da-la-nan-ki.
 #V

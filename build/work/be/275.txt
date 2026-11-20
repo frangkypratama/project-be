@@ -12,8 +12,11 @@
 @check Pembanding lirik: semua baris sama.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 275) | https://bukuende.wordpress.com/2013/06/16/o-jesus-tuhanki-buku-ende-no-275-buku-logu-no-245/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ C . . . | Am . Dm . | G . Dm . | G7 . C . |
 1' . 3 3 | 3 .+2 2 0 | 2' . 4 4 | 4 .+3 3 0 |
+~ D . C . | G . C . | G . C . | G7 . . . | C . G7 . |
 #4 . 3 #4 | 5 . . 0 | 2 . 3 4 | 4 .+5 4 0 | 3 . 4 5 |
+~ C . G . | C . . . | G . Am . | G . . . | C . . . |]
 5 .+6 5 0 | 3' . 3' 2' | 2' .+1' 1' 6 | 5 . 7 . | 1' . . 0 |]
 > O Je-sus, Tu-han-ki, Ho, si-par-mo-nang i, Ra-ja tong-tong. Ndang na mar-go-go au, mo-lo so Ho di au. I pe do-nga-ni au di ta-no on!
 #V

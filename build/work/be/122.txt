@@ -8,7 +8,9 @@
 @status Lirik belum ada pembanding
 @check Pembanding lirik: tidak ada post BE 122 tersendiri di bukuende.wordpress.com yang bisa dibuka; post rangkuman BE 101–150 (2021/11/12) dicek dan tidak memuat BE 122.
 #A
+~ Eb . . . | . . . . | Bb . . . | F . Bb . |
 3 .+4 5 1' | 3 2 1 . v | 7, .+1 2 5 | #4 6 5 . |
+~ Fm . Bb . | Bb7 . Eb . | Ab . Bb7 . | Eb . . . |]
 4 .+3 2 7 | 2' 4 3 . v | 1' .+7 (7+6) (4+2) | 1 7, 1 . |]
 > I-da hi-na deng-gan ni ang-ka na sa-ro-ha i. Par-pam-bae-nan na bur-ju, nang ha-ta-na pe tu-tu!
 #V

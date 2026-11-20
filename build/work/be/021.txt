@@ -9,12 +9,16 @@
 @check Pembanding lirik: bukuende.wordpress.com — 7 dari 9 baris sama persis; 2 baris beda ejaan (ayat 1 baris 1 kata ke-7, baris 3 kata ke-5). Kata yang berbeda belum dicek ulang satu per satu ke scan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 21) | https://bukuende.wordpress.com/2013/06/09/bege-ma-sude-hamu-buku-ende-no-21-buku-logu-no-72/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . . | . . . | C . . | F . C | F . . | . . . |
 1 . 1 | (1 7,) 1 | (2 3) 2 | 1 . 0 | 3 . 3 | (3 2) 3 |
+~ C7 . F | . . . :|
 (5 4) 3 | 3 2 0 :|
 > Be-ge ma su-de ha-mu, be-ge ma na mar-sak ro-ha
 > Nun-ga ma-te u-tang-mu, nu-nga se-sa su-de do-sa
 #B
+~ C . F | Bb . C | F . C7 | F . . |
 2 . 3 | (4 3) 2 | 3 . 4 | 5 . 0 |
+~ Bb . . | C7 . F | Bb . C | F . . |]
 6 . 6 | (5 4) 3 | (4 3) 2 | 1 . 0 |]
 > A-la a-si ro-ha ni A-nak ni De-ba-ta i.
 #V

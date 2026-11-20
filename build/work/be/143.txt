@@ -11,9 +11,13 @@
 @check Pembanding lirik: L9, L11, L13 beda ejaan satu kata; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 143) | https://bukuende.wordpress.com/2013/06/16/jerusalem-jerusalem-buku-ende-no-143-buku-logu-no-171/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F | C7 . F . | Bb . C7 . | F . Gm . |
 5 | 5 .+4 3 5 | 4 .+3 2 4 | 3 1 6, 2 |
+~ F . C . | C7 . F . | Bb . C7 . | F . . . |
 (1 . 7,) v 5 | 5 .+4 3 5 | 4 .+3 2 v 4 | 3 (4+2) 1 7, |
+~ Dm . Gm . | C . . . | Gm . C . | F . G . |
 1 . 0 2 | 2 .+1 7, v 5, | 4 .+3 2 v 2 | 3 3 #4 #4 |
+~ C . F . | C7 . F . | Bb . C7 . | F . . . | . . . |]
 5 . . v 5 | 5 .+4 3 v 5 | 4 .+3 2 v 4 | 3 (4+2) 1 7, | 1 . 0 |]
 > Je-ru-sa-lem, Je-ru-sa-lem, na tim-bul na-hi-nan! Na di-pa-tim-bo De-ba-ta Ho ro di la-ngit-an. Nu-aeng mar-se-rak pa-ngi-sim, hu-hut ma-gar-gar ho, Je-ru-sa-lem, Je-ru-sa-lem hu-ta-ta-ngi-si ho!
 #V

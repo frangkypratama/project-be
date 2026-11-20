@@ -13,16 +13,25 @@
 @check Baris pertama ayat 2 tertimpa lirik "sa-ngap ma di go-ar-Mi" di scan; dibaca "Tuhan Jesus sipalua sondang hangoluan i" — perlu dicek.
 @check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not. Ayat 2–3 mencetak "Ref. : Sangap ma ....." (refrein sama).
 #A
+~ F . . . | Bb . F . | . . . . | . . . . |
 5 5 5 3 | 6 6 5 3 | 1 2 3 (5+4) | 3 2 1 . |
+~ C . F . | Bb . F . | . . . . |
 5 5 5 3 | 6 6 5 3 | 1 2 3 (5+4) |
+~ . . . . |
 3 2 1 . |
 > Som-ba-on-ku Ho O Je-sus baen au si tin-dang-i-Mi, na sun go-go na ba-di-a son-dang ha-ngo-lu-an i.
 #B
+~ C7 . F . | C7 . F . |
 (5 .+4 3+4 5+6 | 5) .+4 3 0 |
+~ Bb . C7 . | Gm . C . |
 (4 .+3 2+3 4+5 | 4) .+3 2 0 |
+~ F . . . | . . C . | F . . . |
 1 2 3 4 | 3 . 2 . | 3 . . 0 |
+~ C7 . F . | C7 . F . |
 (5 .+4 3+4 5+6 | 5) .+4 3 0 |
+~ Bb . C7 . | Gm . C . |
 (4 .+3 2+3 4+5 | 4) .+3 2 0 |
+~ F . . . | . . C . | F . . . |]
 1 2 3 4 | 3 . 2 . | 1 . . 0 |]
 > Sa-ngap ma sa-ngap ma sa-ngap ma di go-ar-Mi. Sa-ngap ma, Sa-ngap ma, sa-ngap ma di go-ar-Mi.
 #V

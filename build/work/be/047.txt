@@ -11,12 +11,16 @@
 @check Melodi sama dengan BE 15 (Logu No. 103).
 @ref Lirik pembanding: bukuende.wordpress.com (BE 47) | https://bukuende.wordpress.com/2013/06/13/di-na-saborngin-i-do-binsar-buku-ende-no-47-buku-logu-no-103/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . . . | Bb . . . | C . F . |
 0 5 3 5 | 6 5 4 3 | 2 . 1 v 3 |
+~ C . . . | C7 . . . :|
 2 1 2 3 | 4 3 2 . :|
 > Di na sa-bor-ngin i do bin-sar pa-non-dang di ton-din-ta i,
 > Pa-dao-hon sa-lu-hut na sim-par, lao pa-ti-ur-hon sa-su-de.
 #B
+~ C . . . |
 0 2 2 2 |
+~ F . C . | F . C . | F . Bb . | F . . . |]
 3 5 5 #4 | 5 . 0 5 | 3 1 6 4 | 3 2 1 . |]
 > Son-da-ngon ni Pa-non-dang on mu-se san-dok por-ti-bi on.
 #V

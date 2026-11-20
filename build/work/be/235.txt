@@ -12,8 +12,11 @@
 @check Pembanding lirik: L1 kata 3 (pembanding "ummuli", buku "umuli") dan L7 kata 7 beda; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 235) | https://bukuende.wordpress.com/2013/06/18/tumpalhu-na-ummuli-ho-buku-ende-no-235-buku-logu-no-235/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . . . . . | C7 . . Dm . . | F . . . . . |
 0 0 1 . 1 5 | (5 4+3 2) 1 6, 7, | 1 . 0 1 2 3 |
+~ C7 . . F . . | C . . F . . | Bb . . C . . | F . . . . . |
 4 2 (3 5 .) #4 | 5 . 0 3 3 3 | 4 3 1 . 2 . | 0 5, 1 2 3 . |
+~ . . . Bb . . | F . . C . . | F . . . . . |]
 0 3 2 1 4 . | 0 4 3 2 1 2 | (3 2+1 2 .) 1 . |]
 > Tum-pal hu na um-u-li Ho, o Je-sus-ki di ro-hang-kon; Sai Ho do ti-o-pon-ku. Sa-le-leng au di ta-no on i-nga-ni ma ro-hang-ku.
 #V

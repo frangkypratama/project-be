@@ -11,9 +11,13 @@
 @check Kepala lagu juga mencetak "Z. No. 84.". Halaman judul bagian: "Na di ginjang i ma lului!".
 @check Baris 2 birama 4 tercetak "4.6" dengan satu garis atas, baris 4 dengan garis atas ganda; keduanya ditulis 4+.+.+6 (1/8 bertitik + 1/16).
 #A
+~ D . . . | . . . . | A . D . |
 5 .+6 5+.+.+3 1+.+.+2 | 3 . . . | 2 .+2 5+.+.+2 3+.+.+4 |
+~ . . . . | A . D . | G . . . | Em . A . | D . . . |
 3 . . . | 5 .+6 5+.+.+3 1'+.+.+7 | 6 . . . | 2+.+.+3 4+.+.+6 5 7, | 1 . . . |
+~ . . A . | D . . . | . . Bm . | Em . A7 . |
 1' .+1' 7+.+.+6 7+.+.+1' | 5 . 3 0 | 5 .+5 6+.+.+5 6+.+.+5 | (2 . 4) 0 |
+~ D . . . | G . D . | Em . A . | D . . . |]
 3 .+4 5+.+.+3 1'+.+.+7 | 6 . 1' 0 | 2+.+.+3 4+.+.+6 5 7, | 1 . . 0 |]
 > Par-ta-ngi-san do ha-pe ang-go ha-si-a-ngan on; Hol-so, ar-sak, sa-hi pe, Sai ma-no-sak do tong-tong Ing-kon song-gop ha-ma-te-an tu su-de-na jol-ma i; Ai su-de do na ma-ne-an U-hum a-la do-sa i.
 #V

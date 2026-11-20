@@ -13,9 +13,13 @@
 @check Pembanding lirik: beda L1, L2, L9 (penulisan/spasi kata, mis. "Diboto"; pembanding lebih pendek di L1), L5 tidak ada di pembanding; buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 381) | https://bukuende.wordpress.com/2013/06/13/di-dia-jesus-buku-ende-no-381-buku-logu-no-254/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb . | F . Bb . | F . . . |
 0+5 #4+5 | (6+.+.+5) 5 .+3' 2'+1' | (1'+.+.+7) 7 0+5 #4+5 |
+~ Bb . F7 . | Bb . F . | Bb . . . |
 (6+.+.+5) 5 .+4' 3'+2' | 1' . 0+5 #4+5 | (1'+.+.+5 5) .+5 #4+5 |
+~ F . . . | Bb . F7 . | Bb . . . |
 (2'+.+.+5 5) 0+5 #4+5 | 3' 3' 4' 4' | 3' . 0+3' 2'+1' |
+~ F . Bb . | Eb . F7 . | Bb . . . | . . |]
 7 6 5 .+5 | 6 . 0+4' 3'+2' | 1' 5 3' 2' | 1' . |]
 > Di-di-a Je-sus? Di di-a da-me? Di-bo-to ho do? Di di-a do? Di lam-bung ni Tu-han-ta i. Di-si do ha-so-na-ngan i. Mar-las ni ro-ha na di-si. Mar-las ni ro-ha na di-si.
 #V

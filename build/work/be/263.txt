@@ -14,9 +14,13 @@
 @check Pembanding lirik: L1 kata 1 (buku "Todus"), L2 kata 5 ("(Mangulahon)" tak ada di pembanding), L5 kata 2 berbeda, L10, L15, L16 beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 263) | https://bukuende.wordpress.com/2013/06/18/tudos-tu-galumbang-i-buku-ende-no-263-buku-logu-no-165/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ E . | B7 . | E . | . . |
 3+3 3+5 | 5+4 4 v | 3+5 6+5+4+3 | 3 2 v |
+~ . . | B7 . | . . | E . |
 3+3 3+5 | 5+4 4 v | 3+5 4+2 | 3+1 2+7, |
+~ B . | F#m . | B7 . | E . |
 2 1 v | 2+2 3+3 | 4+5+4+3 2 v | 3+3 4+4 |
+~ . . | . . | A . | B7 . | E . |]
 5+6+5+4 3 | 5 3+5 | 1' .+6 | 5+6+5+4 3+4+3+2 | 1 . |]
 > To-dus tu ga-lum-bang i. Ta-gan ha _ ba _ ha-ba, Ta-hi ni par-ja-hat i. (Ma-ngu-la-hon) ma-ngu-la-hon do-sa. Ha-po-ru-san sa _ da _ do pa-ngon-di-an sa _ da _ do: Kris-tus Tu-han, na pa _ lu _ a _ hon _ au.
 #V

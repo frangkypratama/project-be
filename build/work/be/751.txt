@@ -14,7 +14,9 @@
 @check Birama 6: legato buku menutup 3' 2' 1' (balok E5–D5–C5), jadi "ki,"/"au," satu suku kata untuk tiga not; "mo-lo"/"da-me" pada 1' dan 6.
 @check Birama 3 "6 1'": angka bergaris tunggal (1/8), balok tampak bergaris ganda — ditulis 1/8 sesuai angka.
 #A
+~ C . Am . | F . . . | G . . . | C . G . |
 5 .+#5 6+3 5+#4 | 4 . . . | 2' .+1' 7+5 6+1' | (1'+6 5) . . |
+~ C . . . | . . F . | G . . . | C . . . :|
 3' .+3' 3'+1' 2'+3' | (3'+2' 1') . 1'+6 | 5 5+5 5 6+5 | 1' . . . :|
 > Tu-han na sun go-go i, to-gu au na ga-le i, sai na so-nang ro-hang-ki, mo-lo Ho sai tong-tong do-ngan-ki.
 > Je-sus sai ta-ngi-hon au, u-nang lo-as gang-gu au, mo-lo Tu-han rap-hon au da-me ja-la sai so-nang ma au.

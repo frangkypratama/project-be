@@ -13,9 +13,13 @@
 @check Pembanding lirik: beda ejaan L2 kata 7 ("siluro", tercetak "si-lu- / ro!") dan L8 kata 3.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 389) | https://bukuende.wordpress.com/2013/06/09/ale-dongan-ro-tu-jesus-buku-ende-no-389-buku-logu-no-258/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ D . . | A . . . . . . . . | D . . . . . . . . | A7 . . . . . . . . |
 5 . 1' | 7 . . 2 . . 7 . 6 | 5 . . 3 . . 6 . 5 | 4 . . 2 . . 5 . 4 |
+~ D . . . . . . . . | A . . . . . . . . | D . . . . . . . . | A7 . . . . . . . . |
 (3 . . 3) . . 5 . 1' | 7 . . 2 . . 7 . 6 | 5 . . 3 . . 6 . 5 | 4 . 3 4 . . 2 . . |
+~ D . . . . . . . . | G . . . . . . . . | D . . . . . . . . | A7 . . . . . . . . |
 (1 . . 1) . . 1' . 7 | (6 . . 6) . . 7 . 6 | (5 . . 5) . . 6 . 5 | 4 . 3 4 . . 5 . . |
+~ A . . . . . . . . | Em . . . . . . . . | A . . . . . . . . | A7 . . . . . . . . | D . . . . . |]
 (2 . . 2) . . 1' . 7 | (6 . . 6) . . 7 . 6 | (5 . . 5) . . 6 . 5 | 4 . 3 4 . . 2 . . | (1 . . 1) . . |]
 > A-le do-ngan, ro tu Je-sus, naeng pang-ku-li-ngan-Na ho, U-nang toi-shon pan-jou-on-Na, ro tu Je-sus, si-lu-ro! Ro nu-aeng, ro nu-aeng, Je-sus do ma-na-gam ho, ro nu-aeng, ro nu-aeng, Je-sus do ma-na-gam ho.
 #V

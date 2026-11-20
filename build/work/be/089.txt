@@ -11,12 +11,16 @@
 @check Not "7*" di birama 1 tertulis ♭ di paranada → b7; "4*" = ♮A → #4.
 @check Not penutup "6 7 1" tampak bertitik di bawah pada scan, tetapi paranada menunjukkan C4–D4–Es4 → (6, 7,) 1.
 #A
+~ Eb | . . Eb7 . | Ab . Bb7 . | Eb . . . |
 0+5 | 5 5 5 b7 | 6 5 4 0+5 | 3 1 3 #4 |
+~ Bb . Eb :|
 (5 6) 5 :|
 > A-te di di-a so-rop-mi nu-aeng, o ha-ma-te-an?
 > Di di-a ha-mo-na-ngan-mi nu-aeng, ba-nu-a to-ru?
 #B
+~ Eb | Ab . . . | . . Bb . |
 0+5 | 1' 7 6 7 | 1' 6 5 0+5 |
+~ Eb . Cm . | Bb7 . Eb . | Bb7 . Eb . | Ab . Eb |]
 1' 5 6 3 | 5 4 3 0+1 | 2 4 3 2 | (6, 7,) 1 |]
 > Na ta-lu do ha-mu su-de, na ta-lu do Si-bo-lis pe, Ai di-ta-lu-hon Je-sus.
 #V

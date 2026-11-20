@@ -12,9 +12,13 @@
 @check Pembanding lirik: semua baris sama. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 557) | https://bukuende.wordpress.com/2013/06/13/dao-dumenggan-buku-ende-no-557-buku-logu-no-557/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ D . A7 . | D . . . | . . . . | G . . . |
 0 5 5 4 | 3 . 3 . | 0 3 3+.+.+2 3 | 4 . . . |
+~ . . . . | A . . . | D . A . | D . . . |
 0 4 4 3 | 2 . 2 . | 0 5 5+.+.+6 5 | 3 . . . |
+~ . . A . | D . . . | . . A . | G . . . |
 0 3 2 3 | 1 . 1 . | 0 3 2 3 | 4 . 6 . |
+~ . . A7 . | D . . . | A . . . | D . . . |]
 0 4 4 4 | 3 3 . 4 | 2 2 . 3 | 1 . . . |]
 > Da-o du-meng-gan, a-si ni ro-haM. da-o um-mar-ga si-an ngo-lung-kon. Sai pu-ji-on-ku ma Ho Tu-han-ku, da-o um-mar-ga, a-si ni ro-haM.
 #V

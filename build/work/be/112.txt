@@ -12,13 +12,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 16 dari 19 baris sama persis; beda ejaan di baris 8, 10, 12. Teks tetap mengikuti buku cetak.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 112) | https://bukuende.wordpress.com/2013/06/13/haleluya-tapuji-ma-buku-ende-no-112-buku-logu-no-206/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb | . . . . | Ab . Eb . | Ab . Eb . |
 1 | 5 3 1 5 | 6 6 5 v 5 | 6 7 1' 7 |
+~ Ab . Eb . | Ab . . . | Bb . Eb :|
 6 6 5 v 3 | 6 5 4 3 | 2 . 1 :|
 > Ha-le-lu-ya! Ta-pu-ji ma A-man-ta Tu-han De-ba-ta di-baen deng-gan ba-sa-Na.
 > Sai tong gir-gir ma hi-ta be pa-sa-ngap De-ba-tan-ta i, di-baen a-si ro-ha-Na.
 #B
+~ Eb |
 0 |
+~ Bb . Eb . | Bb . Eb . | Ab . Bb . | Fm . Bb . |
 5 . 3 . v | 5 . 3 . v | 4 3 2 3 | 4 3 2 3 |
+~ Fm . Bb . | Eb . . . | Ab . . . | Bb . Eb . |]
 4 3 2 . | 1 . v 1' 7 | 6 5 4 3 | 2 . 1 . |]
 > Sa-ngap, sa-ngap. Ha-go-go-on, Ha-to-gu-on, ha-pis-ta-ran, Di A-man-ta na di gin-jang
 #V

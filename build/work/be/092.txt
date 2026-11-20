@@ -9,13 +9,18 @@
 @check Pembanding lirik: beda ejaan baris 7 ("mengendehon", tercetak begitu) dan 20.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 92) | https://bukuende.wordpress.com/2013/06/16/puji-ma-na-manaluhon-buku-ende-no-92-buku-logu-no-178/ | 26/28 baris sama
 #A
+~ Bb . Eb . | Bb . . . | Cm . . . |
 1 5, 6, 7, | 1 2 3 . | 2 . v 4 3 |
+~ F . . . | Bb . . . :|
 2 1 2 7, | 1 . 0 0 :|
 > Pu-ji ma na ma-na-lu-hon Do-sa ha-ma-te-an i;
 > Pu-ji ma na Pa-ngo-lu-hon sa-lu-hut par-do-sa i,
 #B
+~ Bb . . . | F . Bb . |
 3 2 1 1 | 7, 7, 1 . v |
+~ . . . . | . . F . | Cm . F . |
 1 7, 3 2 | 1 7, 7, . | 6, . v 7, 7, |
+~ Bb . F . | Cm . . . | Eb . F . | Bb . . . |]
 1 1 2 3 | 4 . v 4 2 | 1 6, 2 7, | 1 . 0 0 |]
 > Je-sus na dung ma-te i. Las ro-ham, o hu-ri-a-na, a-la na-ma-mil-lit ho, Je-sus i, ma-ngo-lu do.
 #V

@@ -12,12 +12,16 @@
 @check Pembanding lirik: L6–L7 beda karena pembanding menulis refrein utuh per ayat, buku menulis "Sai las d.u.".
 @ref Lirik pembanding: bukuende.wordpress.com (BE 144) | https://bukuende.wordpress.com/2013/06/16/na-hot-padanku-buku-ende-no-144-buku-logu-no-104/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ C | . . . . | F . G7 . | Am . Dm . |
 5 | 5 3 1' 7 | 6 5 (5 4) | 3 v 6 2' 1' |
+~ G . . . | C . :|
 7 (1'+6) 5 #4 | 5 . :|
 > Na hot pa-dan-ku tu Ja-ho-wa, bi-naen ni Je-sus Tu-han-ki;
 > Ai Hu-ta-ding-kon do na ro-a, hu-ja-lo Pan-di-di-on i
 #B
+~ C | G7 . C . |
 3 | 4 4 5 5 |
+~ C7 . F . | G . . . | F . C . | . . |]
 1' b7 6 . | 0 2' 7 5 | 1' (6+4) 3 2 | 1 . |]
 > Sai las ro-hang-ku a-la ni sa-le-leng-ni le-leng-na i.
 #V

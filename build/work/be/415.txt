@@ -12,14 +12,19 @@
 @check Pembanding lirik: bukuende.wordpress.com — 8/10 baris sama; beda di baris 1 (Tuhanta) dan baris 6 (buku "mus"); pembanding mencatat Logu 227, buku mencetak Logu 277. Pembanding 3 ayat.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 415) | https://bukuende.wordpress.com/2013/06/09/ai-naeng-malua-ho-buku-ende-no-415-buku-logu-no-227/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab . . . | Db . Ab . | Eb . . . |
 5, 5,+5, 5, 5,+5, | 6, 6,+6, 5, .+1 | 7, 2+.+.+#1 2 . |
+~ Ab . . . | Eb . Ab . | Db . Ab . |
 1 3+.+.+#2 3 . | 5, 5,+5, 5, 5,+5, | 6, 6,+6, 5, .+1 |
+~ Eb . . . | Ab . . |]
 7, 7,+7, 2 1+7, | 1 . . |]
 > Ai naeng ma-lu-a ho si-an do-sam? Go-go mu-dar ni Tu-han-ta i. Tang-kup ma i, a-sa so-nang ro-ham, na go-go tu-tu mu-dar i.
 #B
+~ Ab | . . . . | Bbm . Eb . | . . . . | Ab . . |
 5,+1 | 3 . 3 . | 2+.+.+1 1+6, 5, 7,+.+.+1 | 2 . . 1+.+.+2 | 3 . 5,+1 |
 > Mu-dar i tuk pa-lu-a-hon ho, Mu-dar i, mu-dar i, tung na
 #C
+~ Ab . . . | Bbm . Eb . | Eb7 . Ab . | . . . . |]
 3 . 3 . | 2+.+.+1 1+6, 5, 7,+.+.+1 | 2 .+4 3 2+.+.+2 | 1 . . 0 |]
 > go-go tung go-go do i, ho-lan mu-dar ni Je-sus i.
 #V

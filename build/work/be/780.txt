@@ -13,11 +13,14 @@
 @check Pembanding lirik: beda ejaan di baris 1 (langitan), 2 (dinajang-hajangan), 3 (umbotosa), 4, 7, 9 (dakdanak); baris 8 kata 1 "ai" berbeda di pembanding. Scan hlm 851–852 terbaca seperti ditulis; buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 780) | https://bukuende.wordpress.com/2013/06/16/piga-ma-torop-ni-bintang-buku-ende-no-780-logu-no-780/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ F | . . C7 | F . . | C7 . . | F . :|
 1+2 | 3 3 4+2 | (6+5) 5 3+5 | (5+4) 4 5+4 | 3 . :|
 > Pi-ga ma to-rop ni bin-tang ang-ka na di la-ngit-an
 > do-hot om-bun na mar-se-rak na di-na-jang-ha-jang-an?
 #B
+~ F | C . Bb | F . . | C . Bb | F . . |
 5+3 | (3+2) 2 6+4 | (4+3) 3 5+3 | (3+2) 2 6+4 | (4+3) 3 1+2 |
+~ Dm . Gm | Bb . F | C7 . . | F . |]
 3 3 4+2 | 6 5 3+5 | (5+4) 4 5+4 | 3 . |]
 > De-ba-ta do um-bo-to-sa ro-di ang-ka bi-la-ngan-na, ndang a-dong a-gi-a sa-da na bu-ni di De-ba-ta.
 #V

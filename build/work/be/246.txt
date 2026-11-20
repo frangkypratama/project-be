@@ -10,12 +10,16 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 246) | https://bukuende.wordpress.com/2013/06/16/jesus-urupi-buku-ende-no-246-buku-logu-no-116/ | Pembanding lirik (tanda baca/kapital diabaikan).
 @check Buku menulis "Kothen 1733" (kota Köthen).
 #A
+~ E . . | . . . | . . F# | B . E |
 1 5, 1 | 3 .+2 1 | 3 3 #4 | 5 5 . v |
+~ B . . | E . . | A . E | B . . :|
 5 5 5 | 1' 5 3 | 6 5 3 | 2 . . :|
 > Je-sus, u-ru-pi, pa-mo-nang ma ha-mi, Ta-tap ma go-go ni na ho-lom i,
 > Na so man-sa-di ma-ngong-gop di ha-mi, Naeng pol-ga-han-na do ha-mi su-de.
 #B
+~ B . . | . . E | B7 . E | B . . |
 2 2 2 | 7, .+6, 5, | 4 5 3 | 2 2 . v |
+~ E . B | E . B7 | E . B | E . . |]
 1 3 5 | 1' 5 4 | 3 4 2 | 1 1 . |]
 > Sai di-ping-ki-ri si-bo-lis da-lan-na. ma-nang be-ha au tong-tong ar-sa-han-na.
 #V

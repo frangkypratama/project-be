@@ -14,10 +14,15 @@
 @check Birama "6 ." (na porseai) tercetak 2 ketuk; not balok = D5 1/2 bertitik → ditulis 6 . . (3 ketuk).
 @check Buku hanya mencetak satu bait.
 #A
+~ F | . . . | C7 . F | . . D |
 5, | 3 .+3 #2+3 | 4 . 3 | 3 .+2 #1+2 |
+~ Bb . . | C . . | . . . | F . . |
 6, . 1 | 7, .+6, 7,+1 | 2 . 5, | 1 .+7, 1+2 |
+~ . . C | F . . | C7 . F |
 3 . 5, | 3 .+3 #2+3 | 4 . 3 |
+~ . . D | Gm . . |
 3 .+2 #1+2 | 6 . . |
+~ C7 . . | F . C | F . . | . . . |]
 5 .+#4 4+3 | 3 . 2 | (1 . . | 1) . . |]
 > Ai so-ngon on ho-long ni De-ba-tan-ta i di to-ngos do A-nak-Na na sa-sa-da i u-nang tu ha-ma-te-an na por-se-a-i naeng tu ha-ngo-lu-an i
 #V

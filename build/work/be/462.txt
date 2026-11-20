@@ -10,10 +10,12 @@
 @check Pembanding lirik: beda ejaan di ayat 4 baris 2 ("rohami"); scan hlm 442 mencetak "rohami". Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 462) | https://bukuende.wordpress.com/2013/06/09/ale-tondi-parbadia-buku-ende-no-462-buku-logu-no-311/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab . . . . . | Eb7 . . Ab . . | Bbm . . Eb7 . . | Ab . . . . . :|
 3 . 4 5 . 1 | 4 . 3 3 . 2 | 2 . 3 4 . 2 | 1 . 7, 1 . . :|
 > A-le Ton-di Por-ba-di-a, sai song-go-pi ha-mi on.
 > Ro-ha-na-mi ma pa-ri-a lao ma-mu-ji Ho tong-tong.
 #B
+~ Ab . . Eb . . | Ab . . . . . | . . . . . . | . . . . . . |]
 5 . 3 5 . . | 3 . 1 3 . . | 3 . 4 5 . 1 | 3 . 2 1 . . |]
 > Ho tong-tong, Ho tong-tong, lao ma-mu-ji Ho tong-tong.
 #V

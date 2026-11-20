@@ -12,12 +12,19 @@
 @check Pembanding lirik: beda di baris 4 (langkami), 11 (sai, manghirim), 14 (do); dicek ulang di scan hlm 801–803, buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 746) | https://bukuende.wordpress.com/2013/06/18/sabam-ma-ho-buku-ende-no-746-buku-logu-no-746/ | Pembanding lirik (tanda baca diabaikan).
 #A
+~ F . . | C7 . F . | C . F . | C . F . |
 3 2 3 | 4 . . 3 | 2 3 1 .+2 | 2 (3 . . |
+~ Dm . Gm . | C7 . F . | C . F . | . . . . |
 3) 3 2 3 | 4 . . 3 | 2 3 1 .+2 | (3 . . . |
+~ . . . . | Dm . . . | F . C . | Gm . . . |
 3) 5 5 5 | 6 . . 3 | 3 5 5 .+2 | 2 (4 . . |
+~ C7 . F . | . . . . | . . C . | F . . . |
 4) 4 3 2 | 3 . . 1 | 1 2 2 .+3 | (3 . . . |
+~ . . . . | Dm . . . | F . C . | Gm . . . |
 3) 5 5 5 | 6 . . 3 | 3 5 5 .+2 | 2 (4 . . |
+~ C7 . F . | . . . . | . . C . | F . . . |
 4) 4 3 2 | 3 . . 1 | 1 2 2 .+1 | (1 . . . |
+~ . |]
 1) |]
 > Sa-bam ma ho, sa-bam ma ho ton-ding-ku, be-nget ma ho ma-mor-san si-lang-mi, pir ma ton-dim, sa-ti-a do Tu-han-Mu I-ba-na do pa-to-gu lang-ka-mi, nang pe ra-his, ma-ol si-da-la-nan-mu tu-lus do i bae-non ni Tu-han-mi.
 #V

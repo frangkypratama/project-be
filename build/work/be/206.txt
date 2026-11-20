@@ -10,12 +10,16 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 206) | https://bukuende.wordpress.com/2013/06/16/na-dison-do-au-tuhanku-buku-ende-no-206-buku-logu-no-90/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check Buku hanya mencetak teks dengan keterangan "Logu No. 90 : Songon Ende No. 205"; notasi diambil dari BE 205 dan ayat 1 dipasangkan pada melodinya.
 #A
+~ Eb . Bb . | Ab . Eb . |
 5 (4+3) 2 1 | 6 (5+4) 3 2 v |
+~ Fm . Bb7 . | Eb . . . :|
 2 2 5 4 | 3 2 1 . :|
 > Na di-son do au Tu-han-ku, na mar-som-ba au tu Ho
 > I-lu-i-lu ni ma-tang-ku, hu-som-ba-hon do tu Ho
 #B
+~ Eb . Ab . |
 3 5 4 3 |
+~ Bb7 . Eb . | . . Ab . | Eb . . . |]
 2 4 3 2 v | 5 3 6 4 | 3 2 1 . |]
 > Ro-ha-Mi ma tu ro-hang-ku na ma-si-hol au di Ho!
 #V

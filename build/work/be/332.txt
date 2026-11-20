@@ -11,12 +11,16 @@
 @check Kepala lagu tercetak "Lagu No. 111" (bukan "Logu No.").
 @check "d.u." di akhir ayat 2–5 = ulangi bagian "Jesus, Jesus, …"; tidak diulang di teks ayat.
 #A
+~ Eb . . . | . . Ab . | Bb7 . Eb . |
 0 5 3 2 | 1 5 6 5 | 4 . 3 . |
+~ . . Cm . | Ab . . . | Bb . Eb . :|
 0 5 6 7 | 1' 7 6 6 | 5 . . . :|
 > Bi-no-to jo-nok ni a-dam-hu? A-ring-ku lao, bo-da-ri ro:
 > Aik su-ra ro tom-pu pon-jot-hu Par-pu-di i, bi-no-to do?
 #B
+~ Eb . . . | Ab . . . |
 0 5 3 . | 0 1' 6 . |
+~ . . Eb . | Bb7 . Eb . | . . Bb . | Ab . Eb . | . . . . |]
 0 6 5 3 | 4 5 3 . | 0 3 2 5 | 1 4 3 2 | 1 . . . |]
 > Je-sus, Je-sus, mar-hi-te mu-dar-Mi pa-so-nang ha-ma-ma-teng-ki!
 #V

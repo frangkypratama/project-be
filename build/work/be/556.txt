@@ -12,9 +12,13 @@
 @check Pembanding lirik: semua baris sama. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 556) | https://bukuende.wordpress.com/2013/06/13/damem-lehon-ma-di-hami-buku-ende-no-556-buku-logu-no-420/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ F . . | C7 . . | F . . | . . C | Bb . F |
 (1+5,) 3 . | (2+5,) 4 . | (3 2) 1 | 1 7, . | (6 5+4) (3+1) |
+~ C7 . F | . . C | F . . | C . F | C . F | C7 . F |
 (5 .+4) 3 | (3+2 1 7,) | 1 . . | 5 . . | 5 . . | (5 4) 3 |
+~ . . C | Dm . Gm | C . . | F . C | F . . | . . . | . . . |
 3 2 . | 6 6 . | 5 5 . | (5+4 3 2) | 1 . . | 1 . . | 1 . . |
+~ . . . | C . F | C . F | Bb . . | C . . | F . :|
 (1 .+2) (3+4) | 5 5, . | 5 5 . | 4 4 . | (7,+2 5 5,) | 1 . :|
 > Da-meM le-hon ma di ha-mi, da-me-Mi di ha-mi, Da-me-mi di ha-mi, da-me-mi di ha-mi Da-me-Mi di ha-mi, da-me-mi di ha-mi.
 #V

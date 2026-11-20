@@ -12,7 +12,9 @@
 @check Birama 6 tercetak ". 3 2 1 6" (ada titik sebelum 3); not balok berisi empat not 1/4 (D C Bes G), jadi titik itu diabaikan.
 @check Birama akhir tercetak "3 . . ." (4 ketuk), not balok tampak not 1/2; dipakai angka.
 #A
+~ Bb . . . | F . Bb . | Eb . . . | F . . . |
 5, . 5, 5, | 5, . . 5, | 6, 6, 6, 6, | 5, . . 5, |
+~ Bb . F . | Bb . Eb . | Bb . F7 . | Bb . . . |]
 1 . 2 . | 3 2 1 6, | 5, . (5, 4,) | 3, . . . |]
 > Da-me na gok, di-di-a jum-pang i? Di mu-dar ni Tu-han-ku da-pot i.
 #V

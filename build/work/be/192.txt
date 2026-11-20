@@ -9,8 +9,11 @@
 @check Pembanding lirik: baris 3, 5, 9 beda ejaan 1 kata (penggabungan kata); buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 192) | https://bukuende.wordpress.com/2013/06/16/o-tuhan-jesus-raja-ni-sudena-buku-ende-no-192-buku-logu-no-60/ | Pembanding lirik (tanda baca/kapital diabaikan).
 #A
+~ F . . . | C . F . | . . . . | C7 . F . |
 1 . 1 1 | (2 7,) 1 . v | 3 3 3 3 | (4 2) 3 0 |
+~ . . Bb . | F . Bb . | C7 . F . | C . . . | F . Bb . | F . Bb . |
 5 . (1' 6) | 5 . (4 3) | 4 . 3 . | 2 . . 0 | 5 . 6 5 | (5 3) 4 . v |
+~ . . C7 . | . . F . | . . C7 . | F . C . | F . . . |]
 4 . 5 4 | (4 2) 3 v 3 | 3 3 5 4 | 3 . 2 . | 1 . . . |]
 > O Tu-han Je-sus, Ra-ja ni su-de-na, tu-bu si-an A-ma i! Ha-ho-lo-ngan-ku, si-som-ba-on-ku, sa-sa-da Ho do Tu-han-ki
 #V

@@ -11,14 +11,18 @@
 @check Pembanding lirik: baris 1 beda ejaan ("nalulu", dicetak begitu); buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 190) | https://bukuende.wordpress.com/2013/06/16/las-rohangku-situtu-buku-ende-no-190-logu-no-69/ | Pembanding lirik (tanda baca/kapital diabaikan).
 #A
+~ Ab . . . | Eb . . . | Ab . Eb7 . |
 1 1 1 3 | (2+.+.+1) (7,+1) 2 . v | 3 (2+3) 4 (3+2) |
+~ Ab . . . |
 3 2 1 . v |
 > Las ro-hang-ku si-tu-tu mi-da Je-sus na-lu-lu
 #B
+~ Eb . . . | . . Ab . :|
 2 2 2 5 | (2+.+.+3 2)+1 (7,+6,) 5, v :|
 > Man-ja-la-hi ha-jol-ma-on.
 > Ai I-ba-na pa-lu-a-hon
 #C
+~ Ab . . . | Eb . . . | Ab . Eb7 . | Ab . . . |]
 1 1 1 3 | (2+.+.+1) (7,+1) 2 . v | 3 (2+3) 4 (3+2) | 3 2 1 0 |]
 > jol-ma ma-ni-si-a i si-an ha-ma-go-an i.
 #V

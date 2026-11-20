@@ -10,8 +10,11 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 366) | https://bukuende.wordpress.com/2013/06/16/o-ale-jesus-tuhanki-buku-ende-no-366-buku-logu-no-229/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check Bagian Ende di dakdanak. Ketukan gantung awal = not 1/8 (ditulis 0+1).
 #A
+~ F | . . | Bb . | C . | F . |
 0+1 | 3 1 | 4 3 | (2+1) (2+3) | 1 0+5, |
+~ . . | C . | . . | F . | C7 . | F . |
 1 3 | 2 .+7, | (2+1) (7,+6,) | 5, 0+5, | 4 .+2 | (1+7,) (6,+5,) |
+~ . . | C7 . | F . | C7 . | F . | . . |]
 1 3 | 5 .+4 | 3 .+5 | (5+4) (3+2) | 1 (3+2) | 1 0 |]
 > O a-le Je-sus Tu-han-ki, Ho Tu-han ni dak-da-nak i, ro pa-lu-a-hon sa-su-de, naeng Ho nam-pu-na ha-mi be.
 #V

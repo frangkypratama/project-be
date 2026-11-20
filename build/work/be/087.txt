@@ -11,9 +11,13 @@
 @check Lagu bernada minor (la = 6 = C); tanda mula di scan tampak 2 mol, dipakai Es (3 mol) karena not 1 = Es dan ♮A/♮B ditulis #4/#5.
 @check Judul di buku "Jesus Kristus do manobus"; baris pertama lirik "Ho, tinobus ni Tuhanmu".
 #A
+~ Cm . Fm . | Bb7 . Eb . | . . Cm . |
 3 3 6 6 | 5 .+4 3 1 v | 5 3 6 5 |
+~ Fm . Cm . | Fm . Bb . | Eb . G7 . |
 4 .+4 3 . | 2 1 2 7, v | 1 2 3 3 v |
+~ Cm . Bb . | F . Cm . | G7 . Cm . |
 3 #4 5 (6+5) | #4 #4 3 . v | 7 7 1' (7+6) |
+~ G . . . | Cm . G . | Cm . . . |]
 #5 6 7 3 v | 1' (7+6) #5 6 | 6 .+#5 6 . |]
 > Ho, ti-no-bus ni Tu-han-mu, tung jo-nok do De-ba-tam. Sai pa-sa-da ping-ki-ran-mu, A-sa tong tu-tu sa-bam. Sai pa-bu-lus, sai pa-tu-lus, tu Tu-han-mu ma ro-ham.
 #V

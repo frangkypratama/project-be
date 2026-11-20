@@ -14,14 +14,21 @@
 @check Birama 2: angka "5 5" (1/8), balok tampak A–G; ditulis sesuai angka.
 @check "a - u" (hlm 839): "a" pada 6 . 7 (legato), "u" pada 6.
 #A
+~ C | G . C . | . . . . |
 3 | 5 (3+2) 1 2+2 | 3 . 3 5+5 |
+~ Am . Dm . | G7 . . . | C . Am . |
 (6+5) 3+1 4 3 | 2 . . (3+4) | 5 4+3 1' 6 |
+~ F . . . | G . Am . |
 (6 .+7) 6 7+1' | 2' 7+5 1' 7+6 |
+~ G . C . | F . . . | G . C . |
 5 . . 5+5 | 6 5 4 6+6 | 5 . 3 5+5 |
+~ F . . . | C . . |
 6 7+7 1' 2'+2' | 3' . . |
 > Tu-dos-hon pi-dong na ha-bang na mam-bo-an A-nak-Na i, O Je-sus sai bo-an a-u tu i-nga-nan na di lam-bung-Mi, bo-lu-son-ku ma ang-ka do-lok do-hot ru-ra na sai ba-gas i.
 #B
+~ C | F . . . | C . Am . | G . . . | C . . . |
 1'+1' | 1' 7+6 1' 7+6 | 5 . 3 6 | 5 2+2 5 2+2 | 5 . . 1+1 |
+~ . . G7 . | Am . C . | G . . . | C . . |]
 1 2+3 4 4+5 | 6 . 5 3 | 5 2+2 5 2+3 | 1 . . |]
 > Di-na ro au tu Ho lam ju-mo-nok sai to-gu ma a-u tu Ho, di-na ro au tu Ho lam ju-mo-nok sai to-gu ma a-u tu Ho.
 #V

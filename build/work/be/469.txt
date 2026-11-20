@@ -11,8 +11,11 @@
 @check Pembanding lirik: pembanding hanya memuat ayat 1–3 (buku 9 ayat); beda ejaan di ayat 3 baris 1 ("homomoruNa"), scan hlm 448 sesuai buku. Ayat 4–9 belum ada pembanding. Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 469) | https://bukuende.wordpress.com/2013/06/13/di-dia-ahu-tu-dia-buku-ende-no-469-buku-logu-no-316/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ A | . . | . . | E7 . | A . |
 5, | 1 2 | (3+.+.+2) 1+5 | (5+4) (3+2) | 3 1+1 |
+~ D . | A . | E7 . | A . |
 6, 7, | 1 1+1 | 2 4 | 3 3 |
+~ . . | D . | A . | . . |]
 3 2+1 | 6 5 | 3 1+3 | 2 1 |]
 > Di-di-a a-hu, tu-di-a la-ho to-rop do-ngan-ku, Pun-jung lang-kang-ku Je-sus Tu-han-ku, Je-sus Tu-han-ku.
 #V

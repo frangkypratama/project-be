@@ -10,8 +10,11 @@
 @check Pembanding lirik: L5 kata 6 dan L8 kata 5 beda; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 158) | https://bukuende.wordpress.com/2013/06/16/jesus-debata-buku-ende-no-158-buku-logu-no-59/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab . . | Eb . . | Ab . Eb | Ab . Eb |
 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |
+~ Ab . Eb7 | Ab . Eb | Ab . Eb |
 3+4 5 4 | 3+2 3 2 v | 1+2 3 2 |
+~ Ab . Eb | Ab . . | Eb . . | Ab . Eb | Ab . . |]
 1+7, 1 7, v | 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |]
 > Je-sus De-ba-ta, sai u-lu-hon ma ha-mi ang-ka si-se-an-Mu, na ti-no-bus ni mu-dar-Mu. Ti-op ma tong-tong ta-ngan-na-mi on.
 #V

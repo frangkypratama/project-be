@@ -14,8 +14,11 @@
 @check Baris 2 birama akhir "5 3 2 1 2": legato angka di bawah 5–3–2; suku kata "haM" ditahan juga ke not 1 (tanda _), "di" pada not 2 sesuai letak lirik di bawah balok.
 @check Hanya satu ayat tercetak (teks di bawah not).
 #A
+~ F | . . C7 . | F . . . |
 5, | 3 .+3 4 2 | 3 . . 3 |
+~ . . Dm . | C . F . | Dm . . . | C . F . |
 5 .+5 6 3 | 5 . . 5 | 6 .+6 6 3 | (5 3+2) 1 2 |
+~ . . . . | . . . |]
 3 .+3 3 2 | 1 . 0 |]
 > Tu-han a-si ro-haM di au par-do-sa on, Tu-han a-si ro-haM _ di au par-do-sa on.
 #V

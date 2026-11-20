@@ -13,15 +13,23 @@
 @check Kredit tercetak "Free to face" (lazim: Face to Face); nama Tullar (Syair) dan Breck (Lagu) tampak tertukar (lazimnya syair Carrie E. Breck, lagu Grant C. Tullar) — ditulis apa adanya.
 @check Pada "ha-mu-lia-on-Na" tanda lengkung di bawah "lia" (satu suku kata), bukan legato not.
 #A
+~ Bb . Gm . | Eb . F . |
 5 .+5 6+5 3+1' | 1' . 7 . |
+~ . . . . | Bb . F . |
 2' .+1' 7+6 5+6 | 5 . . 0 |
+~ Bb . Gm . | Cm . Eb . |
 5 .+5 6+5 3+1' | 2' . 6 6+6 |
+~ Bb . . . | . . . . |]
 5 3' 3' .+2' | 1' . . 0 |]
 > Di na ma-si-pa-i-da-an so-got au di sur-go i, tung sing-kop las ni ro-hang-ku mi-da Je-sus Tu-han-ki.
 #B
+~ F . Bb . | . . . . |
 2' .+2' 3'+2' 1'+7 | 1' . 3' . |
+~ F . . . | Bb . F . |
 2' .+3' 2'+1' 7+6 | 5 . . 0 |
+~ Bb . Eb . | F . Eb . |
 3' .+3' 4'+3' 2'+1' | 2' . 4' 6+6 |
+~ Bb . . . | . . . . |]
 5 3' 3' .+2' | 1' . . 0 |]
 > Di na ma-si pa-i-da-an so-got au di sur go i, sa-ngap-di ha-mu-lia-on-Na i-da-on-ku Tu-han-ki.
 #V

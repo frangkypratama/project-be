@@ -10,11 +10,14 @@
 @check Pembanding lirik: L3 ("Mander", "Tuhna"), L9 (3 kata), L10 kata 5 beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 272) | https://bukuende.wordpress.com/2013/06/18/sai-tole-tole-ro-sude-buku-ende-no-272-buku-logu-no-249/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G | . . D . | G . D7 . | G . D . | G . . :|
 5, | 1 1 2 2 | 3 .+4 5 v (5+4) | 3 3 2 2 | 1 . 0 :|
 > Sai to-le, to-le, ro su-de, i-hu-thon Je-sus i.
 > Mar-ho-hos ha-sin-to-ngan be di par-a-lo-an i.
 #B
+~ G | D . . . | . . G . | D . . . | . . . . |
 5 | 2 .+1 7, 1 | 2 . 0 5 | 2 .+1 7, 1 | 2 . 0 5, |
+~ G . D . | G . D7 . | G . D . | G . . |]
 1 1 2 2 | 3 .+4 5 (5+4) | 3 3 2 2 | 1 . 0 |]
 > Man-de-r si-lang i, Par-to-gi Tu-hna i, Sa-ru-ne pe mang-ku-ling do. sai to-le, to-le ro.
 #V

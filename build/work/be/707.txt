@@ -12,11 +12,14 @@
 @check Pembanding lirik: bukuende.wordpress.com — ayat 2 baris 2 beda ejaan "sai". Buku tetap acuan. (Pembanding menulis "Buku Logu No. 707"; buku sendiri tidak mencetak nomor Logu.)
 @ref Lirik pembanding: bukuende.wordpress.com (BE 707) | https://bukuende.wordpress.com/2013/06/13/hagogoon-dohot-apul-apul-buku-ende-no-707-buku-logu-no-707/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ Eb | . . . . | Cm . Fm . | Bb . . . | Eb . . :|
 3+.+.+2 | 1 .+1 1+1 2+3 | 3 2 . 2+1 | 7, .+7, 7,+1 2+7, | 1 . . :|
 > Ha-go-go-on do-hot a-pul-a-pul do di-le-hon Tu-han i tu au,
 > ga-nup a-ri au di-to-gu-to-gu ga-nup ting-ki di-on-di-ngi au,
 #B
+~ Eb | Bb . Eb . | Bb . Fm . | Bb7 . . . |
 3+.+.+4 | 5 .+5 5+5 1'+7 | 7 6 . 2+.+.+3 | 4 .+4 4+6 5+4 |
+~ Eb . . . | . . . . | Cm . Fm . | Bb . . . | Eb . . |]
 3 . . 3+.+.+2 | 1 .+1 1+1 2+3 | 3 2 . 2+.+.+1 | 7, .+7, 7,+1 2+7, | 1 . 0 |]
 > Ai hom-bar tu lo-mo ni ro-ha-Na do di-le-hon Tu-han i tu au ro mar-so-rin ar-sak las ni ro-ha ha-por-se-a-on hu di pa-tau
 #V

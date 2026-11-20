@@ -11,12 +11,16 @@
 @check Bagian Ende taringot tu na masa sogot.
 @check Ayat 1 disusun dari lirik di bawah not; "ha-mo- nangan" tercetak tanpa pemenggalan penuh (ditulis ha-mo-na-ngan).
 #A
+~ Eb | Bb7 . Eb | Ab . Eb | Bb7 . Eb | . . . |
 5 | (5 .+4) 3 | 6 . 5 | 4 . 3 | 3 2 v 5 |
+~ Ab . . | Eb . Bb7 | Eb . Bb | Eb . :|
 (6 .+7) (1'+6) | 5 . 4 | 3 . 2 | 1 . :|
 > A-dong do-pe par-a-di-a-nan, ro-hang-ku go-lom ha-ta i!
 > Be-a-sa ho tong-tong hol-so-an, bi-naen ni ha-lo-ja-on mi?
 #B
+~ Eb | Cm . Fm | Bb . Eb | Bb7 . Eb | . . . | Cm . Fm | Bb . Eb |
 3 | 3 . 2 | 2 . 3 | 4 . 3 | 3 2 v 3 | 3 . 2 | 2 . 3 |
+~ Bb7 . Eb | . . Bb | Eb . Ab | Eb . Bb7 | Eb . Bb | Eb . :|
 4 . 3 | 3 2 v 5 | (1' 7) 6 | (5 .+6) (5+4) | 3 . 2 | 1 . :|
 > Sai be-reng ma par-tu-a-on-mu. I ma Je-sus ha-ngo-lu-an-mu; ha-top mar-lo-jong ho tu-si!
 > Ti-bu mar-u-jung par-a-lo-an, ti-bu do da-pot ha-mo-na-ngan, pa-re-ak ma tu sur-go i!

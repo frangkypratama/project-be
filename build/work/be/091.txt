@@ -12,15 +12,20 @@
 @check Birama penutup bagian C "1 . 0" hanya 3 ketukan sebelum tanda ulang (sesuai buku).
 @check Bagian C diulang (tanda ulang di buku; ayat ditulis ":,:"). Teks bagian C ayat 1 di bawah not: "mago do hita. ngot ma Tuhanta." — ditulis apa adanya.
 #A
+~ Eb . Ab . | Bb7 . Eb . :|
 5 . 6 . | 5 .+4 (3 4) v :|
 > Ha-tu-a-on do,
 > Las ni ro-ha do
 #B
+~ Eb . . . | Ab . Bb . |
 5 . 5 . | 6 . 7 1' |
+~ . . Fm . | Bb . Eb . |
 7 . 6 . | 5 . . 0 |
 > Ha-ngo-ugot ni Tu-han-ta i.
 #C
+~ Bb . . . | Bb7 . . . | Eb . . . |
 (2 .+3) 2 3 | (4 .+5) 4 . v | (3 .+4) 3 4 |
+~ Bb . . . | Eb . Cm . | Ab . Bb7 . | Eb . Bb . | Eb . . :|
 (5 .+6) 5 . v | (1' 7) (6 5) | 1' 6 5 4 | 3 . 2 . | 1 . 0 :|
 > ma-go do hi-ta. ngot ma Tu-han-ta. Las be, las be ma ro-han-ta i!
 #V

@@ -13,17 +13,22 @@
 @check Birama "i̇ 6̄ 7̄ 5̄" di not angka tanpa titik; not balok: Es5 1/4 bertitik + 3 not 1/8 → ditulis 1' .+6 7+5.
 @check Ayat 1 disusun dari lirik di bawah not (buku tidak mencetak ayat 1 terpisah).
 #A
+~ Eb . Bb | Eb . Bb7 | Eb . . | . . . |
 1 3 2 | (1 5) 4 | 3 .+2 3+4 | 3 2 0 |
+~ Bb . . | Cm . Bb | . . Fm | Bb . Eb :|
 2 5 7 | 1' .+6 7+5 | (2 7) 6 | 5 . 0 :|
 > Na mo-nang i do na mu-se ma-ngan-hon par-bu-e ni hau han-go-lu-an i,
 > Ndang ja-di i-da-on-na ha-ma-go-an nang ha-ma-te-an pa-du-a-hon i;
 #B
+~ Bb . Eb | Bb7 . . | Eb . Ab | Bb7 . Eb |
 2 2 3 | (4+5 4+3) 2 v | 3 3 4 | (5+6 5+4) 3 v |
 > Ai De-ba-ta-na pa-pos ro-ha-na,
 #C
+~ Eb . . | Bb7 . Eb | Ab . Bb | Eb . . |
 5 1' 5 | (5 .+4) 3 v | 4 3 2 | 3 . . v |
 > mam-baen lang-ka-na tong-tong ti-ur.
 #D
+~ Eb . . | Bb7 . Eb | Ab . Bb | Eb . . |]
 5 1' 5 | (5 .+4) 3 v | 4 3 2 | 1 . . |]
 > mam-baen lang-ka-na tong-tong ti-ur.
 #V

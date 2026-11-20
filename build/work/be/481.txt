@@ -11,12 +11,16 @@
 @check Pembanding lirik: beda di baris 1, 3, 6, 7, 9 (ejaan/kata 'di', 'ho' di baris 3); dicek ulang ke scan, ditulis sesuai buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 481) | https://bukuende.wordpress.com/2013/06/13/godang-dope-buku-ende-no-481-buku-logu-no-325/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb | . . Bb7 | Eb . . | Ab . . | Bb . Eb | Bb7 . Eb |
 5 | 5 . 4 | 3 . 1 | 6 .+7 1'+6 | 5 0 3 | 4 . 3 |
+~ Bb . . | Eb . Bb | Eb . :|
 2 . 5 | 3 .+1' 7+6 | 5 0 :|
 > Go-dang do-pe si-gu-ru-ho-non-mi, A-sa tu-dos ho do-hot Tu-han-mi
 > Sai tong na hu-rang ha-ti-go-ran-mi. So tuk do pe ha-por-se-a-on-mi.
 #B
+~ Eb | . . Cm | Ab . . |
 5 | 5 . (6+5) | 4 . 4 |
+~ . . Bb7 | Eb . Bb | Eb . Eb7 | Ab . Bb7 | Eb . Bb7 | Eb . |]
 4 .+6 5+4 | 3 0 5 | (1' 7) b7 | 6 . 4 | 3 .+5 4+2 | 1 0 |]
 > Di-rim sam-bing di ha-ho-lo-ngi ho. Do-ngan-mu laos di ha-lu-pa-hon ho.
 #V

@@ -11,12 +11,16 @@
 @check Bagian Ende taringot tu na masa sogot. Judul Logu "Ungkap bahal na umuli"; baris pertama lirik "Ise do angka nasida".
 @check Ayat 1 disusun dari lirik di bawah not.
 #A
+~ C . . . | . . . . | F . C . |
 1 .+2 3 1 | 3 4 5 5 v | 1' (7+6) 5 3' |
+~ G . C . :|
 2' 2' 1' . :|
 > I-se do ang-ka na-si-da di lam-bung ni De-ba-ta,
 > Na mar-tum-pal be hu-i-da ja-la mar-si-non-dang do?
 #B
+~ C . G . | C . G . |
 3' .+3' 2' 2' | 1' 1' 7 . v |
+~ Am . C . | G . C . |]
 6 .+6 5 1' | 2' 7 1' . |]
 > Na mar-en-de do su-de, gir-gir pa-mu-ji-na be.
 #V

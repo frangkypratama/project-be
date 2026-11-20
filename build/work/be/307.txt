@@ -12,10 +12,15 @@
 @check "nuaeng" dinyanyikan 2 suku kata (nu-aeng) sesuai letak lirik. Not "4*" = tanda pugar → #4 (B).
 @check Ayat 3 tercetak "dumengggan" (huruf g tiga) — salah cetak, ditulis apa adanya.
 #A
+~ F . Bb | C7 . F | C7 . . | F . . |
 5 5 6 | (5 .+4) 3 v | 5 4 2 | (3 .+2) 1 v |
+~ . . . | Bb . . | C7 . . | F . C | F . C |
 3 4 5 | 6 . 6 v | 2 3 4 | 5 . 5 v | 1 1 2 |
+~ F . . | C . . | F . . | . . C7 | F . C |
 3 .+4 5 | 2 1 7, | 1 . . v | 5 5 4 | 3 3 2 |
+~ F . Bb | C . . | F . C | F . C | F . G |
 1 .+7, 6, | 7, 5, 0 | 1 1 2 | 3 3 2 | 3 .+3 #4 |
+~ C . . | F . C | F . . | C . . | F . . |]
 5 5 0 | 3 1 2 | 3 .+4 5 | 2 1 7, | 1 . . |]
 > Ma-ta ni a-ri Bin-sar sao-na-ri lao ma-non-da-ngi, lao ma-no-ra-ngi, ma-nga-las-la-si san-dok ta-no on. Di po-do-man-ku na-born-gin ba-dan-ku, he-he ma a-hu nu-aeng. a-sa la-ho, a-sa hu-i-da ti-ur a-ri on.
 #V

@@ -10,12 +10,16 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 161) | https://bukuende.wordpress.com/2013/06/18/tangihon-anggukanggukon-buku-ende-no-161-buku-logu-no-133/ | 19/20 baris sama
 @check Buku menulis "Dachtein"; nama yang lazim tercatat Wolfgang Dachstein.
 #A
+~ G . D . | . . G . | . . . . |
 0 1 7, 1 | 2 2 1 2 | 3 . . v 4 |
+~ . . . . | D . G . :|
 3 2 1 1 | 2 . 1 . :|
 > Ta-ngi-hon ang-guk-ang-guk-kon, a-si ro-haM, Ja-ho-wa!
 > Man-sai tar-pon-jot ro-hang-kon di-baen go-dang ni do-sa.
 #B
+~ G . D7 . | G . D . | Am . D . |
 0 1 2 4 | 3 1 2 7, | 6, . . v 7, |
+~ G . Am . | D7 . G . | D . G . | . . D . | G . . . |]
 5, 5, 2 3 | 4 2 1 . | 0 5 3 2 | 1 1 2 . | 1 . . . |]
 > Tung su-ra di-ba-los-hon Ho lu-hut na sa-la dom-pak Ho; Tung i-se tar-ta-han-sa!
 #V

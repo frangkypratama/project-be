@@ -9,8 +9,11 @@
 @check Pembanding lirik: baris 6 (dihilala) & 9 (diadiaon) beda; scan hlm 265–266 ditulis apa adanya.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 285) | https://bukuende.wordpress.com/2013/06/18/sai-ditongos-debatamu-buku-ende-no-285-buku-logu-no-22/ | 16/18 baris sama
 #A
+~ F . . . | . . C . | F . Dm . |
 1 2 3 2 | 3 4 5 . | 3 . v 6 5 |
+~ Gm . C . | F . C . | F . C7 . |
 4 3 2 2 | 3 . v 5 5 | 5 (2+3) 4 5 |
+~ F . C . | F . . . | . . . . |]
 3 . 2 . v | 1 2 3 4 | 3 2 1 . |]
 > Sai di-to-ngos De-ba-ta-mu na ha-se-a i di ho, nang be-ha par-so-ri-on-mu, a-sal di Je-sus-mu ho.
 #V

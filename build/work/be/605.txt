@@ -12,10 +12,15 @@
 @check Baris 3 dan 5: legato di angka di bawah "5 . 4" tampak menjangkau sampai not 3 berikutnya; dibaca (5.4 3) satu suku kata karena hanya itu yang cocok dengan jumlah suku kata (ham / jam / ren). Di not balok legato hanya A–G.
 @check Penulis tercetak "Issac Watts" (ejaan lazim: Isaac Watts); ditulis apa adanya.
 #A
+~ D . | A7 . | D . | . . |
 1' 7+.+.+6 | 5 .+4 | 3 2 | 1 .+5 |
+~ G . | A . | D . | . . |
 6 .+6 | 7 .+7 | 1' .+1' | (1'+7) (6+5) |
+~ . . | . . | . . | . . |
 (5+.+.+4 3)+1' | (1'+7) (6+5) | (5+.+.+4 3)+3 | 3+3 3+.+(3+4) |
+~ . . | A . | Em . |
 5 .+.+(4+3) | 2+2 2+.+(2+3) | 4 .+.+(3+2) |
+~ G . | A7 . | D . | . . |]
 1+1' .+6 | (5+.+.+4 3)+4 | 3 2 | 1 . |]
 > Las ma ro-ham Tu-han-ta ro, gu-mom-gom sa-su-de ung-kap ro-ham, jang-kon ra-jam ma-ren-de ma su-de, ma-ren-de ma su-de, ma-ren-de, ma-ren-de ma su-de.
 #V

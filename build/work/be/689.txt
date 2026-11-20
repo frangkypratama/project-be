@@ -11,10 +11,15 @@
 @check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 689. Komponis tercetak "Felix Mandelssohn" (lazim: Mendelssohn) — ditulis apa adanya.
 @check Angka 4 dicoret (kres) = A♮ di balok → #4.
 #A
+~ Eb | . . Bb . | Eb . Bb . | Fm . . . |
 5 | 3 1 7, .+1 | 3 . 2 1 | 4 3 6 .+6 |
+~ Bb . . . | Eb . Bb7 . | Eb . Fm . | . . Bb7 . |
 5 . . 5 | 1' 5 4 .+3 | 3 . 2 6 | 6 2 4 .+7, |
+~ Eb . . . | Cm . Fm . | Bb7 . Eb . | . . F . |
 1 . . 3 | 3 .+2 2 2 | 4 . 3 5 | 5 #4 #4 6 |
+~ Bb . . . | Eb . Bb7 . | Eb . Fm . |
 5 . . 5 | 1' 5 4 .+3 | 3 . 2 6 |
+~ . . Bb . | Fm . Bb7 . | Eb . . |]
 6 . 2 . | 4 . . 7, | 1 . . |]
 > Di ho-long ni ro-ha-Na, so-nang do ton-ding-ki, ma-po-rus na-sa bi-ar, ar-sak nang hol-song-ki, nang ro pe ha-ba-ha-ba, pa-lo-mos ro-hang-ki, pa-nga-ra-mo-ti-on-Na pa-pos-hon ro-hang-ki.
 #V

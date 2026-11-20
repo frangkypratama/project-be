@@ -14,12 +14,16 @@
 @check Pembanding lirik: L7, L9, L11, L14 ("doangnku"), L19, L23 beda ejaan satu kata; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 269) | https://bukuende.wordpress.com/2013/06/16/mardalan-au-saonari-buku-ende-no-269-buku-logu-no-163/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G | . . . . . . | . . . D . . | Am . . D . . | G . . . . :|
 3 | (5 4) 3 (3 2) 1 | 1 . . 7, . v 2 | (4 3) 2 (2 1) 7, | 1 . . 0 0 :|
 > Mar-da-lan au sao-na-ri tu ha-so-na-ngan i;
 > Ju-mo-nok ga-nup a-ri lam jum-pang ting-ki i,
 #B
+~ G | D . . A . . | D . . . . . |
 3 | 2 . 2 (2 3) #4 | 5 . . 2 . v 2 |
+~ A . . . . . | D . . G . . | D7 . . G . . |
 (#4 3) 2 (2 3) #4 | 5 . . 0 0 3 | (5 4) 3 (3 2) 1 |
+~ . . . D . . | Am . . D . . | G . . . . |]
 1 . . 7, . v 2 | (4 3) 2 (2 1) 7, | (1 . . 1 .) |]
 > Si-an na dao hu-i-da ha-ti-u-ron-na i; Sai so-nang do na-si-da, naung tol-has ro di-si.
 #V

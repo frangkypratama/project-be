@@ -13,7 +13,9 @@
 @check Pembanding lirik: beda di baris 5 dan 8 ('disi'); buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 486) | https://bukuende.wordpress.com/2013/06/16/jesus-ro-ma-ho-buku-ende-no-486-buku-logu-no-326/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ C7 . F . | Dm . Gm . | C7 . F . | . . C . |
 5 (5+4) 3 2 | (1+2) 3 2 . | 5 (5+4) 3 2 | (1+2) 3 2 . |
+~ F . Bb . | F . . . | Bb . . . | F . . . |]
 5 5 6 (5+4) | 3 #4 5 . | 6 7 1' 4 | 3 2 1 . |]
 > Je-sus, ro ma Ho tu au. U-nang be Ho ting-gal dao, Ma-suk ma tu ro-hang-ki, tong-tong ma i-nga-ni i.
 #V

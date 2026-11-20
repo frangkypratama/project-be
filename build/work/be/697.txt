@@ -13,12 +13,17 @@
 @check Reff birama 5 tercetak "2 . 5.5" (3 ketuk), balok = E 1/2 bertitik + A 1/8 bertitik + A 1/16 → ditulis 2 . . 5+.+.+5. Reff birama 7 tercetak "5 . . 3 1 2" (5 ketuk), balok = A 1/2 + Fis + D–E → ditulis 5 . 3 1+2.
 @check Ayat 2 reff tercetak "ihutonongku" (ayat lain "ihuthonongku") — ditulis apa adanya.
 #A
+~ D . . . | A . D . | . . . . | A . . . |
 3 3 1+2 3+4 | 5 . 3 . | 3 3 1+3 5+3 | 2 . . 0 |
+~ D . . . | . . G . | A . D . | . . . . |]
 3 3 1+2 3+4 | 5 . 6 6+6 | 5 (1+2) 3 2 | 1 . . 0 |]
 > Mo-lo Ho do hu-i hut-hon da-me so-nang ro-hang-ki sai ho-ras ja-la mar-tu-a na-sa na hi-nop-hop-Mi
 #B
+~ D | . . A . | D . . . |
 5+.+.+5 | 1' 1' 7 6 | 5 . 3 1+2 |
+~ . . . . | A . . . | D . A . |
 3 3 5 (5+.+.+3) | 2 . . 5+.+.+5 | 1' 1' 7 6 |
+~ D . . . | . . . . | . . . . |]
 5 . 3 1+2 | 3 (5+4) 3 2 | 1 . . 0 |]
 > Ho tong-tong i-hut-ho-nong-ku, Je-sus na pa-lu-a au. Ho sam-bing do-o-lo-an-hu a-la nii mar-tu-a au.
 #V

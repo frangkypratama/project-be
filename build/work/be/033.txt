@@ -12,11 +12,15 @@
 @check Pembanding lirik: bukuende.wordpress.com — 1 dari 2 baris sama persis; 1 baris beda pemisahan kata (“Tuhan nami”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 33) | https://bukuende.wordpress.com/2013/06/09/antong-sai-dok-ma-amen-buku-ende-no-33-buku-logu-no-65/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G | . . . . | D7 . G . | D . . . |
 3 | 1 2 3 5 | 4 . 3 v 3 | 5 5 2 3 |
+~ G . D . | G . . . | D . G |
 1 . 7, v 5, | 1 2 3 3 | 2 . 3 |
 > An-tong, sai dok ma a-men, Pa-to-rus ro-ha-na-mi tu-mang-kup ha-ta-Mi. O
 #B
+~ G . . . | D7 . G . |
 1 2 3 5 | 4 . 3 v 3 |
+~ D . . . | G . D . | G . D7 . | G . . |]
 5 5 2 3 | 1 . 7, v 5, | 1 2 (3+4) (5+4) | 3 2 1 |]
 > Je-sus Tu-han na-mi pa-tong-tong ro-ha-na-mi mar-hi-te-hi-te Ton-di-Mi!
 #V

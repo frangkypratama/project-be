@@ -11,10 +11,15 @@
 @check Pembanding lirik: bukuende.wordpress.com — 7/10 baris sama; beda di baris 1, 2, 4 (uasmi, manangbeha, luhutna, So pola); scan dicek ulang, transkripsi mengikuti buku. Pembanding 4 ayat, sama dgn buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 405) | https://bukuende.wordpress.com/2013/06/05/adong-sada-mual-buku-ende-no-405-buku-logu-no-386/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab | . . . . . . | Eb . . Ab . . |
 5, | 1 .+1 1 1 7, 1 | 2 .+1 7, 1 . 1 |
+~ . . . . . . | Eb . . . . . | Ab . . . . . |
 3 .+1 1 1 7, 1 | (2 . . 2 .) 5, | 3 .+3 3 1 .+1 1 |
+~ Eb . . Ab . . | . . . Eb . . | Ab . . . . . |
 2 .+1 2 3 . 4 | 3 .+2 1 2 1 7, | (1 . . 1 .) 5, |
+~ . . . . . . | Eb . . . . . | . . . . . . | Ab . . . . . |
 1 .+1 1 1 7, 1 | (2 . . 2 .) 2 | 2 .+2 2 2 1 2 | (3 . . 3 .) 1 |
+~ . . . Db . . | Eb . . Ab . . | . . . Eb . . | Ab . . . . |]
 3 .+3 3 4 . 3 | (2 .+1) 2 3 . 4 | 3 3 1 2 .+1 7, | (1 . . 1 .) |]
 > A-dong sa-da mu-al, tung sae u-li ni. Som-bu do di-si u-as-mi. Ai ma-nang-be-ha jor-but ni sa-hit-mi, na ma-lum lu-hut-na di-si. O-lo-i ma jou-jou-Na i, Lu-lui mu-al na ul-i i. So po-la mar-tu-hor mu-al i. Por-se-a! Di ho na-ma i.
 #V

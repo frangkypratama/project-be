@@ -12,9 +12,13 @@
 @check Baris 3 birama 3: angka dan not balok tercetak "5 . 3̄ 4̄" (1/2 + dua 1/8 = 3 ketukan); ditulis 5 . . 3+4 seperti birama sejajar di baris 2 agar genap 4/4. Perlu dicek.
 @check "nuaeng" dinyanyikan nu-aeng (2 not), sesuai jumlah suku kata ayat 2.
 #A
+~ Db | . . Gb . | Ab . Db . | Ab . Db . |
 3+4 | 5 3' 1' 6 | 5 . . 0 | 5 . . 6 |
+~ Ab . Db . | . . Gb . | Ab . Db . | Ab . . . |
 5 . . 3+4 | 5 3' 1' 6 | 5 . . 0 | 5 . . (6+7) |
+~ Db . . . | Gb . Ab . | Db . Ab7 . | Db . Ab . |
 1' . . 5+5 | 6 1' 7 6 | 5 . . 3+4 | 5 1' 7 6 |
+~ . . . . | Db . Gb . | Ab . . . | Db . Ab . | Db . . |]
 2' . . 3'+2' | 1' 5 6 6 | 5 . . 0 | 5 . . (6+7) | 1' . . |]
 > I-se na di pin-tu i? Ung-kap ma! Na jot-jot ma-nuk-tuk i. Ung-kap ma? Ai di pin-tu ni ro-haM jong-jong do nu-aeng Ra-jam. Je-sus Kris-tus Tu-han-mi. Ung-kap ma!
 #V

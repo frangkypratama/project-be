@@ -13,8 +13,11 @@
 @check Pembanding lirik: baris 1: 'au' tidak ada di pembanding, 'sihoihu' beda ejaan. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 552) | https://bukuende.wordpress.com/2013/06/16/na-lao-au-tu-na-dao-buku-ende-no-552-buku-logu-no-415/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ D . A . | D . . . | . . G . |
 1 1 2 . | 3 .+2 1 .+1 | 3 3 4 4 |
+~ A7 . D . | . . A . | D . . . | G . A7 . |
 (5 .+4) 3 . | 1' . 7 . | 1' .+7 1' .+1' | 1' (7+6 5+4 3+2) |
+~ D . . . | . . A7 . | D . A . | D . A . | D . . . :|
 1 . 1 1 | 5 . 4 . | 3 .+4 5 0 | 3' . 2' .+5 | 1' . . . :|
 > Na lao au tu na dao, tu sur-go do si-hoi-hu, Je-sus, Tu-han ki, Sai bo-an a-hu, tu sur-go tai-ti au, naeng sa-hat au.
 #V

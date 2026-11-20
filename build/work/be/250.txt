@@ -13,13 +13,18 @@
 @check Judul di kepala lagu "Hatami, ale Tuhanku" berbeda dengan baris pertama lirik ("Sitostosi nasa ihot").
 @check Awal baris 2 dicetak "7̇"; titik di atas dianggap noda (not balok: A4, sama dengan "7 7" sebelumnya).
 #A
+~ Bb . . . | . . F . | Bb . F . |
 1 2 3 2 | 3 #4 5 5 v | 1' 1' 7 7 |
+~ . . Bb . :|
 7 6 5 . :|
 > Si-tos-to-si na-sa i-hot, na bi-naen ni do-sa i,
 > Sai a-si ro-haM, sai to-pot ha-mi na ti-no-bus-mi.
 #B
+~ Bb . Eb . | F7 . Bb . |
 1' 5 6 6 | 5 .+4 3 1 v |
+~ . . . . | Eb . F . | Bb . Eb . |
 3 3 5 5 | 4 3 2 . v | 5 5 4 .+3 |
+~ F7 . Bb . | Cm . F7 . | Bb . . . |]
 4 5 3 1 v | 2 3 4 5 | 3 2 1 . |]
 > Sai pa-i-as ro-ha-na-mi si-an do-sa sa-su-de, pai-ma ba-li si-an ha-mi na-sa ro-ha da-ging pe.
 #V

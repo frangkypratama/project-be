@@ -17,14 +17,21 @@
 @check Legato angka mencakup 2 3 4 5 + not 4 (1/4) sesuai legato not balok (satu suku kata "las"); begitu pula 3 4 5 6 5 dan 3 2 3 4 3.
 @check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not. Ayat 2–3 tidak mencetak "Ref." tetapi refrein (bagian B) berlaku.
 #A
+~ Bb . . . | F . Bb . | F7 . Cm . | F . . . |
 5 . (3 .+4) | 5 . 1 . | (2+3 4+5 4) 3 | 2 . . 0 |
+~ Bb . F . | Bb . . . | Eb . F . | Bb . . . |
 (3+4 5+6 5) 5 | 1' . 5 . | (4 3 2) .+1 | 1 . . 0 |
+~ . . . . | F . Bb . | Eb . F . |
 (3+2 3+4 3) 3 | 2 . 1 . | (4 3 2) 1 |
+~ . . . . | Bb . . . | Eb . C . |
 7, . . 0 | (1+7, 1+2 1) 1 | 6 . #4 . |
+~ F . C . | F . Bb . |
 (5 6+5) #4 .+5 | 5 . . 0 |
 > Bo-ru si-on las ro-ham las ro-ham Je-ru-sa-lem ai na ro do Ra-ja-mi pa-da-me-hon ho tong-tong _
 #B
+~ Bb . . . | F . Bb . | F7 . Cm . | F . . . |
 5 . (3 .+4) | 5 . 1 . | (2+3 4+5 4) 3 | 2 . . 0 |
+~ Bb . F . | Bb . . . | Eb . F . | Bb . . . |]
 (3+4 5+6 5) 5 | 1' . 5 . | (4 3 2) .+1 | 1 . . 0 |]
 > Bo-ru si-on las ro-ham las ro-ham, Jesus ru-sa-lem.
 #V

@@ -11,7 +11,9 @@
 @check Pembanding lirik: bukuende.wordpress.com — 17 dari 20 baris sama persis; 3 baris beda ejaan (ayat 5 "dibaen", ayat 9 "umarga", ayat 10 "Tumaean"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 67) | https://bukuende.wordpress.com/2013/06/13/hamu-ale-donganku-buku-ende-no-67-buku-logu-no-12/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ A | . . E | F#m . D | E . . | A . . | F#m . Bm | E . . | A . . |
 1 | 1 . 7, | 6, . 1 | 2 . . | 1 . v 1 | 1 . 2 | 7, . 2 | 1 . . |
+~ E . . | A . . | E . A | E . . | . . A | E7 . A | E . A | E . . | A . |]
 7, . v 7, | 1 . 1 | 2 . 3 | 2 . . | 2 . v 3 | 4 . 3 | 2 . 1 | 2 . . | 1 . |]
 > Ha-mu, a-le do-ngan-ku, sai ti-ru ma ha-tang-ku, ma-mu-ji De-ba-tan-ta, na pa-ngo-lu-hon hi-ta
 #V

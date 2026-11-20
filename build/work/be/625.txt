@@ -14,14 +14,21 @@
 @check Pembanding lirik: bukuende.wordpress.com — ayat 2 baris 3 (marsaor) & baris 4 (manghatai) berbeda. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 625) | https://bukuende.wordpress.com/2013/06/13/holom-sogot-manogot-i-buku-ende-no-625-buku-logu-no-625/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab | . . . Eb . . | Ab . . . . . | Fm . . Bbm . . |
 5, | 5, 3, 4, 5, 1 2 | (3 . . 3) 2 1 | 1 . 1 2 1 6, |
+~ Ab . . . . . | Eb . . . . . | Ab . . . . . |
 1 . . 5, . 7,+1 | 2 . 2 7, . 6,+7, | 1 . 2 3 . 3 |
+~ Eb . . . . . | . . . . . |
 2 . 3 2 . 1 | (7, . 1) 2 . |
 > Ho-lom so-got ma-no-got i si Ma-ri-a lao tu ta-no-man ta-ngis a-la ru-mar ta-no-man i, ai nu-nga he-he Je-sus
 #B
+~ Ab | Db . . . . . |
 3+.+.+2 | 1 . 1 1 7, 6, |
+~ Eb . . . . . | Bbm . . Eb7 . . |
 7, . 7, 7, . 5,+5, | 4 . 4+4 4 3 #2 |
+~ Ab . . . . . | . . . Eb . . | Ab . . Db . . |
 (3 . . 3) . 1+2 | 3 . 3 2 2 7, | 1 . 1 1 . 6, |
+~ Ab . . Eb . . | Ab . . . . |]
 5, 1 .+1 7, 1 2 | (1 . . 1) 0 |]
 > Mang-hu-ling ma Je-sus Tu-han-ta i. ndang ha-pa-lang las ni ro-ha i. U-li si-tu-tu par-sa-o-ran i, rap do-hot Je-sus Tu-han i.
 #V

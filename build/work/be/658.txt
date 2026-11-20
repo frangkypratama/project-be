@@ -11,12 +11,16 @@
 @check Pembanding lirik: pembanding tidak memuat ayat 2 (4 baris tidak dibandingkan); baris 3, 4, 12 beda (pemutusan baris 'mardangol i do barita', 'sasadasa'); sesuai scan hlm 678.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 658) | https://bukuende.wordpress.com/2013/06/18/tu-portibion-na-rundut-buku-ende-no-658-buku-logu-no-658/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ G . C . | D . . . | Am . D . | G . . . :|
 1 .+7, 6, 1 | 2 .+1 7, 5, | 6, . 7, .+7, | 1 . . 0 :|
 > Tu por-ti-bi-on na run-dut bor-hat ma ho,
 > ga-lak ba-hen pa-li-to-mu sai du-ngo ho.
 #B
+~ C . D7 . | Em . C . |
 4 3 4 5 | 6 5 4 3 |
+~ . . D . | G . . . | C . . . |
 4 .+3 2 1 | 3 .+2 1 7, | 1 .+7, 6, 1 |
+~ D . . . | Am . D . | G . . . |]
 2 .+1 7, 5, | 6, . 7, .+7, | 1 . . 0 |]
 > Bo-an son-dang tu na ho-lom ma-ngu-ru-pi na mar-da-ngol i do ba-ri-ta na u-li ni Kris-tus i.
 #V

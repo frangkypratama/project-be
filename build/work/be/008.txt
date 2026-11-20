@@ -11,9 +11,13 @@
 @check Pembanding lirik: bukuende.wordpress.com — 6 dari 9 baris sama persis; 3 baris beda ejaan kecil (pemisahan kata/“Haleluya”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 8) | https://bukuende.wordpress.com/2013/06/16/jahowa-jahowa-buku-ende-no-8-buku-logu-no-197/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ D | . . . . | A . . . | D . G . | A7 . D . |
 (1+2) | 3 3 0 (3+4) | 5 5 0 5 | 1' 5 6 5 | 4 . 3 v 2 |
+~ . . E . | A . D . | A7 . D . | . . A . | . . Bm . |
 (3+#4) 5 6 #4 | 5 . v 5 3 | 4 . 3 . | 0 1' 7 1' | (2'+1') 7 6 6 |
+~ D . G . | D . . . | . . . . | . . A7 . | D . . . |
 5 . v 6 (5+4) | 3 4 3 2 | 1 . v (3+4) 5 | 5 6 (5 4) | 3 v 2 3 3 |
+~ E . A . | . . . . | D . G . | D . A7 . | D . . |]
 #4 #4 (5+6 7+1') | 7 6 5 . | 0 5 6 7 | 1' . 0 4 | 3 2 1 |]
 > Ja-ho-wa, Ja-ho-wa, Ja-ho-wa! Di go-ar-Mu ma ha-sa-nga-pon i, A-men, A-men! Pu-ji-on-na-mi do tong-tong go-ar-Mi di jo-ro-Mon, Sai naeng do-ho-non-ku: _ Ba-dia ba-dia do go-ar-Mu. Ha-le-lu-ya! Ha-le-lu-ya.
 #V

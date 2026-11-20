@@ -12,9 +12,13 @@
 @check Birama 2 baris 1: tanda napas sesudah legato 2⌒1 tidak bisa ditulis di dalam satu ketukan (dihilangkan). Birama 4: angka "1 7̄ 1̄ 2 0 2̄" (4 ketuk) dipakai; balok tampak ♪ pada not pertama.
 @check 4* = D♮ (balok bertanda pugar) → #4. Birama akhir "1 0" (balok: ¼ + jeda ⅛).
 #A
+~ Ab | . . Eb . | Bbm . Eb . |
 0+5, | 3 3+2 (2 1)+1 | 4 3+3 2 0+2 |
+~ Ab . Eb7 . | Ab . Bbm . |
 5 5+3 4 3+2 | 1 7,+1 2 0+2 |
+~ Eb . Ab . | . . Eb . |
 2 5+2 (3+.+.+2) 2+5, | 5 #4+3 2 0+7, |
+~ Ab . Db . | Eb . Ab . |]
 1 1+1 1 6+6 | 5 7,+7, 1 0 |]
 > Ha-bot pe ro-ham, Por-suk jam-bar-mi, A-dong do pa-nga-pul, Tu-han-ta do i. I-ba-na do-ngan-mu ma-mor-san go-go, sai u-nang ho gang-gu, sai mo-nang ma ho.
 #V

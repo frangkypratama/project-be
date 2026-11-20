@@ -12,13 +12,19 @@
 @check Tanda birama tercetak 3/2; setiap birama berisi 6 ketuk 1/4 (angka dan not balok), ditulis 6/4 agar satu angka = 1/4.
 @check Tanda mula di scan kurang jelas; dipakai As (1 = As) karena not 5 ketukan gantung berada di garis Es.
 #A
+~ Ab . | Eb . . Ab . . | Eb . . Bbm . . |
 5, .+6, | 5, . . 3 2 1 | 7, . 6, . 6, .+6, |
+~ Eb . . Ab . . | Eb . . . . . | Ab . . . . . | Db . . . . . |
 2 . . 1 7, 1 | 2 . . . 5, .+6, | 5, . . 1 2 3 | 4 . 6, . 1 .+2 |
+~ Ab . . Eb . . | Ab . . . |]
 3 1 2 . . 7, | 1 . . . |]
 > Mar-si-non-dang di-baen Je-sus a-si ni ro-ha-na i, Ja-la hi-ta do di-su-ru, a-sa ta-pa-bo-a i.
 #B
+~ Ab . | Db . . . . . |
 1 .+1 | 4 . . 4 4 .+4 |
+~ Eb7 . . Ab . . | Fm . . Bbm . . | Eb . . Bbm . . |
 4 . 3 . 3 .+3 | 3 . . 2 6, .+2 | 2 . . . 6, .+6, |
+~ Eb . . Ab . . | Db . . . . . | Ab . . Eb . . | Ab . . . |]
 5, . . 1 2 3 | 4 . 6, . 1 .+2 | 3 1 2 . . 7, | 1 . . . |]
 > Ta-pa-ga-lak pa-li-ton-ta, ta-pa-ti-ur da-lan i, Ai to-rop do-pe na li-lu, sai ha-top ma mu-lak i
 #V

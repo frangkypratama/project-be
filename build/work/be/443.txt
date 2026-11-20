@@ -12,13 +12,19 @@
 @check Pembanding lirik: L1 (nampuna), L3 (holongna), L4 (tarlobi), L9 (ahu) beda ejaan; L7/L10 refrein buku disingkat 'Tabaritahon...'.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 443) | https://bukuende.wordpress.com/2013/06/13/dung-tuhan-jesus-buku-ende-no-443-buku-logu-no-393/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . . | Bb7 . . . . . . . . | Eb . . . . . . . . |
 3 2 1 | 5 . . 5 . . 4 5 6 | (5 . . 5) . 0 5 3 5 |
+~ F7 . . . . . . . . | Eb . . . . . . . . | Bb7 . . . . . . . . |
 1' . . 7 . . 6 5 #4 | (5 . . 5) . 0 3 2 1 | 5 . . 5 . . 4 5 6 |
+~ Eb . . . . . . . . | Bb7 . . . . . . . . | Eb . . . . . |]
 (5 . . 5) . 0 1 2 3 | 4 . . 2 . . 1 2 7, | (1 . . 1) . 0 |]
 > Dung Tu-han Je-sus nam-pu-na au, song-gop da-me-na, bi-ar-hu lao, ta-ri-par go-go, ngo-lu-na i, na-sa do-sang-ku naung sae do i.
 #B
+~ Eb . Bb | Eb . . . . . . . . | . . . . . . . . . |
 5 5 5 | 1' . . 5 . . 6 6 6 | (5 . . 5) . 0 5 5 5 |
+~ Ab . . . . . . . . | Bb . . . . . . . . | Eb . . . . . . . . |
 6 . . 1' . . 7 7 6 | (7 . . 7) . 0 7 1' 2' | 1' . . 5 . . 6 5 6 |
+~ . . . . . . . . . | Fm . . . . . . . . | Eb . . . . . |]
 (5 . . 5) . 0 1' 7 1' | 2' . . 6 . . 5 1' 7 | (1' . . 1') . 0 |]
 > Ta-ba-ri-ta-hon ho-long-na i. Di di-a Tu-han, tu-dos-hon i? Tuk ma-num-pa-hi, tar-lo-bi da? Sa-sa-da Je-sus, pi-nu-ji ma!
 #V

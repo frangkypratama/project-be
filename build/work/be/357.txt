@@ -11,13 +11,18 @@
 @check Bagian Ende Psalm, judul bagian "Psalm 42". Judul Logu "Ai beasa di balian?"; baris pertama lirik "Songon ursa na binuru".
 @check Ayat 1 disusun dari lirik di bawah not; jarak lirik di scan rapat, pemenggalan disesuaikan jumlah not: "mauas" = mau-as, "aek" 1 suku kata (perlu cek manusia).
 #A
+~ G . D . | . . . . | G . D7 . |
 1 1 7, 1 | 2 3 (3+2) 2 v | 1 1 (2+3) (4+2) |
+~ G . . . :|
 1 7, 1 . :|
 > So-ngon ur-sa na bi-nu-ru mau-as di aek ta-bar i,
 > So-ngon i do au ma-ngi-do, naeng sol-hot tu Tu-han-ki
 #B
+~ G . C . | D7 . G . |
 5 (6+5) 4 4 | 4 (5+4) 3 . v |
+~ . . . . | C . D . | G . Em . |
 3 2 1 7, | 6, (2+1) 7, . v | 1 (1+7,) (6,+7,) 1 |
+~ Am . . . | D7 . G . | . . . . |]
 4 3 (3+2) 2 v | 5 4 3 (4+2) | 1 7, (7,+1) 1 |]
 > Ho-lan Ho, De-ba-tang-ki do hu-ha-u-as-hon i. Ai an-di-gan i-da-on-ku bo-hi-Mi, a-le Tu-han-ku.
 #V

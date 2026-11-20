@@ -10,8 +10,11 @@
 @check Pembanding lirik: L1 kata 1, 3, 6 beda ejaan ("On ma na dirohangki"); buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 231) | https://bukuende.wordpress.com/2013/06/16/onma-na-di-rohangki-buku-ende-no-231-buku-logu-no-13/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . . . | . . . . | Bb . . . |
 3 .+4 5 1' | 3 2 1 . v | 7, .+1 2 5 |
+~ F . Bb . | Fm . Bb . | Bb7 . Eb . |
 #4 6 5 . v | 4 .+3 2 7 | 2' 4 3 . v |
+~ Ab . Bb7 . | Eb . . . |]
 1' .+7 (7+6) (4+2) | 1 7, 1 . |]
 > On ma na di-ro-hang-ki. Je-sus i ma Tu-han-ki, ma-go pe por-ti-bi on, tu I-ba-na ro-hang-kon.
 #V

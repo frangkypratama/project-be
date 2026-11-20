@@ -12,13 +12,19 @@
 @check Akhir bagian A dan birama 2 refrein tercetak "1 . ." / "5 . ." (3 ketuk); balok = 1/2 bertitik + tanda diam 1/4 → ditulis "1 . . 0" / "5, . . 0".
 @check "4̸" = kres (Fis). "Sai", "au", "baen", "lao", "Tai" = satu suku kata.
 #A
+~ C . D . | F . C . | . . G . | C . . . |
 3 .+4 #4 5 | 6 . 5 3 | 1' .+1' 7 6 | 5 . . 0 |
+~ G7 . . . | C . . . | G . C . | G . C . |
 4 .+5 2' 7 | 1' . 3 1' | 7 .+2 3 #4 | 5 . . 0 |
+~ F . . . | G7 . C . | F . . . | G . C . |
 4 .+4 4 4 | 4 . 3 0 | 6 .+6 6 6 | 5 . . 0 |
+~ G7 . C . | G . F . | C . G7 . | C . . . |
 4 5 3' .+2' | 2' 1' 6 4 | 3+5 .+5 4 2 | 1 . . 0 |
 > Sai to-gi-hon a-u mu-lak tu A-ma i, nu-nga lo-ja a-u di-par-ja-la-ngan-ki. u-nang lo-as ma-go au di do-sang-ki, sai to-gi-hon mu-lak au tu ba-gas ni A-ma i,
 #B
+~ C . F . | G . . . | C . F . | G . . . |
 5 .+3 1 6, | 5, . . 0 | 5 .+3 1 6, | 5, . . 0 |
+~ C . . . | G . F . | C . G7 . | C . . . |]
 3 5 3' .+2' | 2' 1' 6 4 | 3+5 .+5 4 2 | 1 . . 0 |]
 > Sai to-gi-hon au. a-sa mu-lak au. a-le Ton-di Par-ba-di-a to-gi-hon mu-lak au.
 #V

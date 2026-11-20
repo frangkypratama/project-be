@@ -12,6 +12,7 @@
 @check Tidak ada nomor "Logu No." di kepala lagu → @bl 0 (tidak ada di buku).
 @check Kanon 4 suara (angka berlingkar ①–④ = masuknya suara); hanya satu baris melodi yang ditranskrip. Tanda ulang di akhir.
 #A
+~ G | . . D7 . | G . . . | . . . . | . . . :|
 5, | 5 5 5 4 | 3 3 3 2 | 1 1 1 7, | 1 . . :|
 > Ma-u-li-a-te ma Tu-han a-la ni ba-sa-Mi.
 #V

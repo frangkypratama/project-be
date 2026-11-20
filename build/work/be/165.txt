@@ -11,8 +11,11 @@
 @check Kepala lagu mencetak "O Jesus na pangolu au"; baris pertama lirik "Na basa do rohaM di au".
 @check Birama 3 "5 . . v 5 . 4": titik di antara 5 dan 4 hanya pemisah (not balok: dua not 1/8). Baris 3 "2 1" tanpa garis atas di angka, tetapi not balok menunjukkan dua not 1/8 berlegato.
 #A
+~ D | . . G . | A7 . D . |
 5 | 5 (1'+7) 6 5 | 4 (5+4) 3 v (3+#4) |
+~ . . A . | D . A7 . | D . A7 . |
 5 1' 7 6 | 5 . . v 5+4 | 3 3 4 5 |
+~ Em . A . | A7 . D . | . . . |]
 6 (2'+1') 7 v 1' | 5 (6+4) 3 2 | 1 . . |]
 > Na ba-sa do ro-haM di au, o Je-sus, Tu-han-ki, di i-hut-hon Ho au tu na dao, mam-bu-at ro-hang-ki
 #V

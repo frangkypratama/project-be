@@ -12,12 +12,16 @@
 @check Pembanding melodi: 15 not pembuka (53565 43213 21234) sama persis dengan incipit tune O DASS ICH TAUSEND ZUNGEN HÄTTE (König 1738) di Hymnary.org.
 @ref Melodi pembanding: Hymnary.org — O DASS ICH TAUSEND ZUNGEN HÄTTE (König 1738) | https://hymnary.org/hymn/CCEH/415 | Incipit 53565 43213 21234 (derajat nada) cocok dengan not angka di sini.
 #A
+~ F . . . | Bb . . . | C . F . |
 0 5 3 5 | 6 5 4 3 | 2 . 1 v 3 |
+~ C . . . | C7 . . . :|
 2 1 2 3 | 4 3 2 . :|
 > Aut na sa-ri-bu ha-li gan-da sa-ri-ngar ni so-a-rang-ki,
 > Naeng na-sa go-go ba-he-non-ku, ma-mu-ji De-ba-tan-ta i.
 #B
+~ C . . . |
 0 2 2 2 |
+~ F . C . | F . C . | F . Bb . | F . . . |]
 3 5 5 #4 | 5 . 0 5 | 3 1 6 4 | 3 2 1 . |]
 > Pa-bo-a las ni ro-hang-ki hi-nor-hon ni pam-baen-Na i
 #V

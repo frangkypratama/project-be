@@ -13,11 +13,17 @@
 @check Pembanding lirik: baris 4, 7, 9 (bela), 12 beda; scan hlm 681 dicek: buku mencetak 'Oloi ma Tuhan i mangsai uli di i' dan 'bela hita'. Judul pembanding: 'Oloi Ma Tuhan I'.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 660) | https://bukuende.wordpress.com/2013/06/16/oloi-ma-tuhan-i-buku-ende-no-660-buku-logu-no-660/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ Eb | . . . . | . . . . | Bb . . . |
 5, | 1 .+5, 1 5 | 3 . . 1 | 2 .+#1 2 3 |
+~ Eb . . . | . . . . | . . . . | Bb . . . |
 1 . . 5, | 1 .+5, 1 5 | 3 . . 1 | 2 .+#1 2 3 |
+~ Eb . . . | Ab . Eb . | Bb . Eb . |
 1 . . 5+5 | 1'+1' 7+6 5+5 3+4 | 5+5 7+6 (5 . |
+~ Bb7 . Eb . | . . . . |
 5)+4 3+2 1+1 .+5, | 1+1 2+2 (3 . |
+~ . . Cm . | Ab . Eb . |
 3)+5 5+5 6+6 .+7 | 1' 7+6 5+6 5+3 |
+~ Cm . Fm . | Bb . Eb |]
 1 4+3 2+2 .+1 | 7,+1 2+7, 1 |]
 > Be-ge ma Tu-han i, na jo-u jo-u i sai u-nang ju-a i, man-sai so-nang do i, be-ta hi-ta lao ma-ngu-la tu la-dang ni Tu-han i Di jou Tu-han-ta ho tu go-ti-lon i pe-le-hon ma ngo-lu-mi ma-ngo-lo-i Tu-han i lao ma-ngu-la di Ha-ra-jaon-Na i.
 #V

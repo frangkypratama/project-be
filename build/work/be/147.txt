@@ -10,12 +10,16 @@
 @check Pembanding lirik: L9 kata 5 dan L17 kata 7 beda; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 147) | https://bukuende.wordpress.com/2013/06/16/jesus-hami-ro-dison-mangihuthon-na-nidokmu-buku-ende-no-147-buku-logu-no-78/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab . Eb7 . | Ab . Eb . | Ab . Db . |
 3 1 2 (5+4) | 3 (2+1) 2 . v | 1 .+7, (6,+7,) 1 |
+~ Eb . . . | Ab . . . :|
 2 3 2 . | 1 . . . :|
 > Je-sus ha-mi ro di-son ma-ngi-hut-hon na ni-dok-Mu;
 > Ro do po-so po-so on, a-la na pi-na-tik-kon-Mu;
 #B
+~ Ab . Db . | Ab . Eb . |
 5, .+5, 6, 7, | 1 (2+1) 7, 5, v |
+~ Ab . Eb . | Bbm . Eb . | Ab . . . |]
 1 .+1 2 3 | 4 3 2 . | 1 . . . |]
 > Ing-kon do tu Ho bo-a-non lao man-ja-lo par-pa-da-nan.
 #V

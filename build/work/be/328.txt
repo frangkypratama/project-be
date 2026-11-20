@@ -11,11 +11,15 @@
 @check Komponis tercetak "Johaan Abraham Peter Schalz" (ejaan lazim: Johann Abraham Peter Schulz).
 @check Buku mencetak "ni-a-ja-ranMu"; agar jumlah suku kata = jumlah not dipenggal "ni-a-ja-ran-Mu".
 #A
+~ F | Gm . . . | C . F . |
 1 | 2 1 4 3 | 2 . 1 v 3 |
+~ . . Bb . | C7 . F . | . . . . |
 3 3 6 5 | 4 . 3 v 3 | 3 3 4 3 |
 > Naeng sal-pu a-ri Ming-gu, di-dao-ni Ho si-hol-hu tu Ho, o Tu-han
 #B
+~ C . F . | Gm . . . | C . F . | . . Bb . |
 2 . . v 1 | 2 1 4 3 | 2 . 1 v 3 | 3 3 6 5 |
+~ C7 . F . | . . Bb . | C . F |]
 4 . 3 v 3 | 3 3 4 3 | 2 2 1 |]
 > ki. Au do ni-a-ja-ran-Mu hu-hut bi-nu-to-ngan-mu Mar-hi-te-hi-te ha-ta-Mi.
 #V

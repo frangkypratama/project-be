@@ -11,8 +11,11 @@
 @check Pembanding lirik: bukuende.wordpress.com — 7 dari 8 baris sama persis; baris 8 kurang satu kata dibanding pembanding — buku tercetak 'na marsaraja ;'. Teks tetap mengikuti buku cetak.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 119) | https://bukuende.wordpress.com/2013/06/16/martua-do-dohonon-buku-ende-no-119-buku-logu-no-9/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F | . . C . | F . C . | F . C7 . |
 5, | 3 .+3 2 3 | 1 . 5, v 5, | 5 5 4 5 |
+~ F . . . | Bb . . . | C . F . | . . C7 . |
 3 . 0 1 | 6 6 6 6 | 5 . 3 v 5 | 5 (4+3) 4 5 |
+~ F . . . | Bb . . . | C . F . | . . C7 . | F . . |]
 3 . 0 1 | 6 6 1' 6 | 5 . 3 v 5 | 5 (4+3) 4 5 | 3 . . |]
 > Mar-tu-a do do-ho-non na mar-sa-a-ma i, Na tong mar-par-ro-ha-on, ma-ni-op da-me i, na tong mar-par-ro-ha-on, ma-ni-op da-me i.
 #V

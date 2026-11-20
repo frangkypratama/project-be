@@ -13,9 +13,13 @@
 @check Nada dasar: tanda mula 3 kres (A mayor). Not 3 = Cis4 (garis bantu bawah), 1' = A4 → do = A3 (@oct -1).
 @check Lengkung "1' . . | 1' . ." dan "3' . . | 3'" = not diikat. Akhir lagu bertanda ulang (untuk ayat 2).
 #A
+~ A . E7 | A . E | A . . | . . . |
 3 3 4 | 5 6 7 | (1' . . | 1') . . |
+~ D . E | A . E | A . . | . . E | A . . |
 6 6 7 | 1' 1' 2' | (3' . . | 3') . 0 | 3' 4' 3' |
+~ E . A | . . . | . . . | . . E | Bm . E |
 2' . 3'+2' | 1' 2' 3' | 1' . . | 5 1' 7 | 6 2' . |
+~ A . E | Bm . E | A . E | Bm . E | A . . | . . . |]
 5 1' 7 | 6 2' . | 5 1' 7 | 6 2' 7 | (1' . . | 1') . . |]
 > Di ha-ho-lo-ngi do ho, di ha-ho-lo-ngi do au, ho-sa-Na do di-se-a-hon tu ho, ndang na tar-a-sam ho-long ro-ha-Na pa-lu-a hi-ta su-de.
 #V

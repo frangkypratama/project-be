@@ -14,17 +14,26 @@
 @check "maol" (ayat 2: "ummaol") dipenggal ma-ol mengikuti jumlah not.
 @check Ayat 2 hanya mencetak bait; refrein diulang ("Ref: Tung longang do ...").
 #A
+~ Bb | F . Bb | F7 . . | Bb . F | Bb . . |
 5+5 | 5 .+5 5 | 5 4 2 | 3 (5 . | 5) . 1' |
+~ . . . | Eb . . | F . Bb | F . Bb | F . . |
 1' .+1' 1' | 1' 7 6 | (5 . . | 5) . 5+5 | 2' .+2' 2' |
+~ . . . | Bb . . | Eb . . | F . Bb |
 2' 1' 2' | 3' . 3'+2' | 1' . 6+6 | 5+5 . 5 |
+~ F . Bb | F . . | Bb . |
 5 5 5 | (5 . . | 5) . |
 > Lo-ngang au mi-da sun-dut ni a-ri, nang bu-ha si-ang a-ri i, na um-ma-ol huan-tu-si di-ro-hang-ki-non, De-ba-ta mang-ha-ho-lo-ngi au.
 > Ha-lo-nga-ngan do pam-ba-he-nan-Na u-dan, nang las ni a-ri i, na um-ma-ol huan-tu-si di-ro-hang-ki-non. ndang ta-ra-sam ho-long-Na tu au,
 #B
+~ Bb | . . F7 |
 5+5 | 5 .+5 5+4 |
+~ Bb . . | . . . | Eb . . | F . Bb |
 3 . 1' | 1' .+1' 1'+7 | 6 . 6+6 | 5 . 5 |
+~ F7 . . | Bb . . | . . F | Bb . . |
 5 4 2 | (3 . . | 3) . 5+5 | 3' .+3' 3'+2' |
+~ . . . | . . . | Eb . . |
 1' . 1' | 1' .+1' 1'+7 | 6 . 6+6 |
+~ F . Bb | F . . | Bb . . | . . |]
 5 . 5 | 7 1' 2' | (1' . . | 1') . |]
 > Tung lo-ngang do ro-hang-kon, lo-ngang do ro-hang kon, a-la ni ho-long Na tu au, ndang na ha-su-ha-tan au, ho-long-Na na tu au tung bal-ga ho-long-Na tu au.
 #V

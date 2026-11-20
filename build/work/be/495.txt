@@ -13,9 +13,11 @@
 @check Pembanding lirik: beda di baris 1 ('A manta'), 7 dan 8 (ejaan/satu kata); buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 495) | https://bukuende.wordpress.com/2013/06/16/maringan-do-di-surgo-i-buku-ende-no-495-buku-logu-no-36/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . | . . C | F . . | . . C7 | F . . |
 0+5, 1+2 | 3 .+4 2+3 | 1 .+2 3+4 | 5 .+6 4+5 | 3 . . |
 > Ma-ri-ngan do di sur-go i, A man-ta na sun go-go i,
 #B
+~ F . | Bb . . | F . . | Gm . C7 | F . . :|
 0+1 1+1 | 6 .+6 1'+6 | (5 3)+5 5+5 | 4 .+2 5+4 | 3 . . :|
 > Sai di-ra-na-pi si-an i, su-de-na lang-ka lang-kang-ki
 #V

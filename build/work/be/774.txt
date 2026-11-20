@@ -14,11 +14,17 @@
 @check Pembanding lirik: baris 5 (hagogoonMi), 14 (manadingkon) beda ejaan; dicek ke scan, buku ditulis apa adanya. Baris ulangan ayat tidak dibandingkan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 774) | https://bukuende.wordpress.com/2013/06/18/tung-mabaor-sian-ho-buku-ende-no-774-buku-logu-no-774/ | teks ayat
 #A
+~ G | . . . . | D . G . |
 5,+5, | 1 1 (1+7,+1 2)+1 | 7, . 0 7,+1 |
+~ D . . . | G . . . | D . G . |
 2 2 (2+1+2 3)+2 | 1 . 0 3+4 | 5 5 5 (4+3) |
+~ C . G . | D7 . G . | Em . Am . |
 6 5 0 5+5 | 4 2 (3+1) (5+3) | 3 2 0 2+2 |
+~ D . Am . | D7 . G . | . . G7 . |
 (2+1) 7, 0 4+.+.+4 | (4+3) 2 0 0 | 1 1 b7, b7, |
+~ . . C . | . . D7 . | G . . . |
 b7, b7, 6, . | 6 6 5 4 | 3 2 1 5+5 |
+~ D . G . | D7 . G . | C . D7 . | G . . |]
 (5 . . 5)+5 | 5 .+4 3 0 | 6 6 5 (6+5+4) | 3 2 1 |]
 > Tung ma-ba-or si-an Ho, mu-al ha-ngo-lu-an i, ai to-rop pe ba-tang a-ek ang-ka do-lok do-hot ru-ra, nang pe la-ngit do-hot ta-no. Ho do na ma-nom-pa i, Ho do na ma-nom-pa i, Ho do na ma-nom-pa i, Ho do na ma-nom-pa i.
 #V

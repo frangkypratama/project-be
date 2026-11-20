@@ -12,21 +12,29 @@
 @check Birama berganti-ganti 4/4 dan 6/4 (tercetak di balok) → dipecah per bagian A 4/4, B 6/4, C 4/4, D 6/4, E 4/4.
 @check Ayat acuan tercetak: 5 Musa 6 : 7.
 #A
+~ F . . . |
 1 . 6, 5, |
 > Pa-bo-a
 #B 6/4
+~ F . . . . . |
 1 . 2 . 3 3 |
+~ C . . F . . |
 2 . 0 3 5 4 |
 > tu dak-da-nak i, bi-naen ni
 #C 4/4
+~ F . C . |
 3 . 2 . |
+~ F . . . | C . F . |
 1 . . . | 5 . 3 5 |
 > Tu-han i, u-laon Na
 #D 6/4
+~ Bb . . F . . |
 6 . 5 . 4 3 |
+~ C . . F . . |
 2 . 0 5 1 4 |
 > gok hu-a-so i, pi-na-tu
 #E 4/4
+~ F . C . | F . . . |]
 3 . 2 . | 1 . . . |]
 > pa-Na i.
 #V

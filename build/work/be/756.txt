@@ -12,13 +12,18 @@
 @check Pembanding lirik: ejaan beda di baris 8 ("i bagas"), 14 ("huboto"), 15 ("Mansai"); dicek ulang ke scan hlm 818–819 → buku tetap. Pembanding menyebut Buku Logu No. 756.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 756) | https://bukuende.wordpress.com/2013/06/13/huboto-do-buku-ende-no-756-buku-logu-no-756/ | teks ayat
 #A
+~ F . . . | Bb . C7 . | F . . . | . . . . |
 3 . 3 3 | 4 . . 3 | 3 2 1 2 | 3 . . 1 |
+~ C . . . | F . . . :|
 2 . 7, . | 1 . . . :|
 > Hu-bo-to do: "Ho man-do-nga-ni au", so-nang do au
 > hu-bo-to do: "Ho su-ma-ri-hon au" so-nang do au.
 #B
+~ C . . . | Gm . . . |
 2 . 2 3 | 4 . 2 . |
+~ C7 . F . | . . . . | Bb . F . |
 5 4 3 2 | 3 . . 5 | 6 . 5 . |
+~ C7 . F . | C7 . F . | . . . . |]
 4 . . 3 | 5 4 3 2 | 1 . . . |]
 > De-ba-tang-ki pa-da-me ro-hang-ki, pos ro-hang-ki pa-saut ma lo-mo-Mi
 #V

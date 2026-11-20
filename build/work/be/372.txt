@@ -12,10 +12,15 @@
 @check Hlm 355 baris 3 akhir: angka "5" tercetak tanpa titik bawah, tetapi not balok = B♭3 (di bawah paranada), sama seperti akhir baris 3 awal ("5̣") → ditulis 5,.
 @check Ayat 2–7 memakai tanda ":,:" (ulangi frasa terakhir), sesuai buku.
 #A
+~ Eb | Bb7 . Eb . | . . . . |
 5 | 5 .+4 3 3 | (3+4) (3+2) 1 v 5 |
+~ Ab . Eb . | Bb7 . Eb . | Bb . . . |
 1' (7+6) 5 3 | (2+3) (4+5) 3 v 3 | 2 .+5 (7+6) (5+#4) |
+~ Fm . Bb . | Fm . . . | Bb7 . Eb . |
 6 . 5 v 5, | 4 .+3 2 2 | (5+6) (5+4) 3 v 5, |
+~ Ab . Bb . | Bb7 . Eb . | . . . . |
 4 .+3 2 2 | (5+6) (5+4) 3 v (3+4) | 5 (3+4) 5 (3+4) |
+~ Bb . Eb . | Ab . Bb7 . | Bb . Eb |]
 5 . 3 v 5 | 1' .+6 (5+4) (3+2) | 2 . 1 |]
 > Ro-hang-ku sai ha-las-hon ma su-de na si-an De-ba-ta, lu-hut deng-gan ba-sa-Na. Sai ta-tap hau-ma i su-de, nang por-lak do-hot tom-bak pe; na u-li do ru-pa-na, na u-li do ru-pa-na.
 #V

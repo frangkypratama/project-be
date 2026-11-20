@@ -12,10 +12,15 @@
 @check Tanda birama tercetak 2/2; ditulis 4/4 (tiap angka = ¼, 4 ketuk per birama) karena format menghitung ketuk per angka.
 @check Birama "2 1 . 2 3" (Da-me bi-no, baris 4): not balok A–G–A–B (4 × ¼) → titik dianggap pemisah, ditulis "2 1 2 3".
 #A
+~ G . . . | C . D . | G . D . | G . . . |
 1 1 1 7, | 6, . 5, . | 1 1 2 2 | 3 . . 3 |
+~ . . . . | D . G . | D . G . | . . . . |
 3 3 3 3 | 5 . 3 3 | 2 . 3 . | 1 . . . |
+~ . . D . | Am . D . | G . C . |
 1 1 2 3 | 4 3 2 1 | 1 7, 6, 6, |
+~ D . G . | D . . . | D7 . G . |
 5, . . . | 2 1 2 3 | 4 . 3 2 |
+~ C . D . | . . . . | G . C . | G . . . |]
 1 6, 7, 1 | 2 . . . | 5, . 6, 7, | 1 . . . |]
 > Ro ma Ho tu au O Je-sus Tu-han-ki, Si-an ba-nu-a gin-jang tu ro-hang-ki, Ro ma Ho tu au O Tu-han Si-pa-lu-a i, Da-me bi-no-an-Mu ndang na-ta-ra-sam i, O Tu-han-ki.
 #V

@@ -13,11 +13,15 @@
 @check Birama "2 . 5 ." (Je-sus, baris 3): not balok menunjukkan G seperempat + C setengah (3 ketuk); diikuti not angka (4 ketuk).
 @check Pencipta lagu tercetak "William Howard doane 1870" (lazim: William Howard Doane).
 #A
+~ F . . . | . . . . | C . F . | C . . . |
 3 2+.+.+1 5, 1 | (3 .+4) 3 . v | 5 6+.+.+5 3 1 | 2 . . 0 |
+~ F . . . | . . . . | C7 . F . | . . . . |]
 3 2+.+.+1 5, 1 | (3 .+4) 5 . v | (5+4) 3+2 1 7, | 1 . . 0 |]
 > So-nang di lam-bung Je-sus, so-nang na ro tu-si; u-nang be ho ma-bi-ar lao man-da-pot-hon i!
 #B
+~ C . . . | . . F . | G . F . | C . F . |
 2 2+.+.+3 2 2 | 2 . 5 . v | #4 #4+.+.+#4 3 2 | (2 . 5) 0 |
+~ C . . . | F . . . | G . . . | C . F . |]
 2 2+.+.+3 2 5 | 5 . 3 . v | 2 #4+.+.+5 6 #4 | (5 . . 4) |]
 > tong-tong di jou-hon Je-sus: Sai ro ma ho tu Au ta-ding-kon ha-ho-lo-mon ja-la ha-po-si Au
 #V

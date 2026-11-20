@@ -11,11 +11,15 @@
 @check Pembanding lirik: beda ejaan di 8 baris (antara lain "tongtong", "marna montok", "Tuhan ku", "holsoholso", "begu", "mubauba", "habasaronMi"); dicek ulang di scan hlm 457–458: buku mencetak seperti yang ditulis ("marna montok" dan "Tuhan ku" disesuaikan dengan cetakan). Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 480) | https://bukuende.wordpress.com/2013/06/18/songon-sada-batang-aek-buku-ende-no-480-buku-logu-no-409/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . C . | F . . . | Bb . C . | F . . . |
 1 1 2 2 | 3 . 5 . | 4 4 2 2 | 3 . . . |
+~ . . C . | F . . . | C . Gm . | C . F . |
 1 1 2 2 | 3 . 1 . | 7, 7, 6, 6, | 5, . . . |
 > So-ngon sa-da ba-tang aek do da-me-Mi. na tong-tong ma-ba-or do tu ro-hang-ki.
 #B
+~ F . . . | Bb . F . | C7 . F . | C . . . |
 5 5 5 5 | 6 . 5 . | 4 4 3 3 | 2 . . . |
+~ F . C . | F . C . | F . C . | F . . . |]
 3 3 2 2 | 1 . 2 . | 3 3 2 2 | 1 . . . |]
 > Lam ba-gas, lam go-go a-ri-a-ri, i Nang born-gin ndang o-lo mar-na mon-tok i,
 > Da-me ni Tu-han ku ha-so-na-ngan, ki, Na-sa hol-so-hol-so do di-aup-hon i.

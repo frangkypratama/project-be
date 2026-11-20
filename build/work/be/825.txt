@@ -14,8 +14,11 @@
 @check Not akhir "1 . . | 1 . ." bersambung (tie) di angka dan balok → satu suku kata "ki".
 @check Kredit tercetak "John Barton Sr" (lazimnya John Burton Sr.) — ditulis apa adanya.
 #A
+~ F . . | C . . | . . . | F . . | . . . |
 (3 5) 1 | 2 . 2 | (2 1) 2 | 3 . . | (3 5) 1 |
+~ C . . | . . . | F . . | Bb . C7 | F . . |
 2 . 2 | (2 3) 2 | 1 . . | 4 . 4 | 3 . 3 |
+~ C . F | C . . | F . . | C . . | . . . | F . . | . . . |]
 2 . 1 | 5 . . | (5 3) 1 | 2 . 2 | (2 3) 2 | (1 . . | 1 . .) |]
 > Bu-ku na ba-di-a i ndang ta-ra-sam ar-ga ni mo-lo hu-ja-ha-i i lam hu-tan-da di-ring-ki.
 #V

@@ -11,9 +11,13 @@
 @check Kepala lagu juga mencetak "U.L No. 427".
 @check Baris 2 birama "3 . 3 4": not balok tampak B 1/2, B 1/2, C 1/4 (5 ketuk); dipakai angka (sama dengan baris 1 dan 4).
 #A
+~ G | . . . . | . . . . | . . D . |
 5, | 1 5, 1 2 | 3 . 3 4 | 3 (2+1) 2 7, |
+~ G . . . | . . . . | . . . . | . . D . | G . . . |
 1 . . 5, | 1 5, 1 2 | 3 . 3 4 | 3 (2+1) 2 7, | 1 . . 5, |
+~ D . . . | G . . . | D . G . | D . . . |
 5 .+5 5 5 | 5 .+3 1 5, | 5 .+5 5 5 | 5 . . 5, |
+~ G . . . | . . . . | . . D . | G . . |]
 1 5, 1 2 | 3 . 3 4 | 3 (2+1) 2 7, | 1 . . |]
 > Ring-gas ma ta-pa-bo-a naung mo-nang Kris-tus i, Ra-de do-ha-se-sa-an ni ang-ka do-sa i. Di go-ar ni Tu-han-ta i do ha-mo-na-ngan i! Ring-gas ma ta-pa-bo-a naung mo-nang Kris-tus i.
 #V

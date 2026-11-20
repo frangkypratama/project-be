@@ -13,7 +13,9 @@
 @check Not akhir tercetak "1 ." tanpa titik atas, tetapi not balok setengah di garis ke-4 (D5) setelah 7 = Cis5 → ditulis 1' mengikuti balok.
 @check Buku hanya mencetak satu ayat (teks di bawah not).
 #A
+~ D . Bm . | Em . A . |
 1'+1' 5+5 6+6 3+3 | 4+3 2+1 5 . |
+~ D . G . | A . D . |]
 1'+1' 5+5 6+1' 7+6 | 7+7 6+7 1' . |]
 > Hu-pa-sa-hat hu-som-ba-hon ma pe-le-an-ki tu Ho Je-sus Tu-han si-pa-lu-a ngo-lung-ki.
 #V

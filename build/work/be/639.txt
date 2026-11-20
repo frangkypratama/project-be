@@ -12,12 +12,19 @@
 @check Pembanding lirik: bukuende.wordpress.com — 'sasude', 'Maribar', 'pasaorhan', 'Sai' beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 639) | https://bukuende.wordpress.com/2013/06/09/bunga-ni-gara-i-buku-ende-no-639-buku-logu-no-639/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb | . . . . | Bb . Eb . | Ab . . . |
 5, | 3 .+2 3 4 | 5 . . 3 | 1 .+7, 1 4 |
+~ Eb . Fm . | Bb . . . | Eb . . . |
 (3 2)+(2 . . | 2) . . 5, | 3 .+2 3 4 |
+~ Bb . Eb . | Ab . . . | Eb . Fm . |
 5 . . 3 | 1 .+7, 1 4 | (3 2)+(2 . . |
+~ Bb . Eb . | Ab . . . | Eb . . . |
 2) . . 1 | 6 .+5 6 7 | 1' . 5 . |
+~ Ab . Bb7 . | Eb . . . |
 0 6 5 4 | 5 5+1 . 0+1 |
+~ Bb7 . Eb . | Bb7 . Eb . |
 4 3 1 .+1 | 4 3 1 .+1 |
+~ Ab . Bb . | Eb . . . | . . . |]
 4 3 2 (2+1) | (1 . . . | 1) . . |]
 > Bu-nga ni ga-ra i boi mang-ga-la-hi a-pi, las do pa-ma-tang ni na ro mang-ha-li-a-ngi, Ho-long ni Tu-han i pe mo-lo mi-an di ho, Ma-ba-or do tu sa-su-de na hu-ma-li-ang ho.
 #V

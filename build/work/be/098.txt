@@ -10,8 +10,11 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 98) | https://bukuende.wordpress.com/2013/06/16/naung-manaek-do-ho-buku-ende-no-98-buku-logu-no-59/ | 8/9 baris sama
 @check Judul "Tuhan Debata.", baris pertama lirik "Naung manaek do Ho".
 #A
+~ Ab . . | Eb . . | Ab . Eb | Ab . Eb |
 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |
+~ Ab . Eb7 | Ab . Eb | Ab . Eb |
 3+4 5 4 | 3+2 3 2 v | 1+2 3 2 |
+~ Ab . Eb | Ab . . | Eb . . | Ab . Eb | Ab . . |]
 1+7, 1 7, v | 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |]
 > Naung ma-naek do Ho, lao tu sur-go do, a-le Je-sus, Ra-ja na-mi, Ho do i-hut-ho-non-na-mi, Ho par-to-gi i, lao tu sur-go i.
 #V

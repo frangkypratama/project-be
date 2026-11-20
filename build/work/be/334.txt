@@ -10,13 +10,18 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 334) | https://bukuende.wordpress.com/2013/06/16/nasa-jolma-ingkon-mate-buku-ende-no-334-buku-logu-no-186/ | Pembanding lirik (ejaan tanda baca diabaikan).
 @check "4*" = Fa naik (not balok: F♯) → #4.
 #A
+~ C . . . | G7 . C . | . . F . |
 5 1' 5 6 | 5 .+4 3 3 v | 5 5 4 3 |
+~ G . C . :|
 2 .+2 1 . :|
 > Na-sa jol-ma ing-kon ma-te, ing-kon ma-go si-buk i;
 > Na ma-ngo-lu ing-kon ma-te, a-sa tung deng-gan mu-se.
 #B
+~ G . C . | G . C . |
 2 2 3 5 | 5 .+#4 5 5 v |
+~ F . . . | G . Am . | C . F . |
 6 7 1' 1' | 7 .+7 6 6 v | 3 3 6 5 |
+~ G . C . | F . C . | G . . . | C . . . |]
 5 .+#4 5 . v | 6 7 (1'+2') 3' | 2' . . 2' | 1' . . . |]
 > Da-ging on do ga-be bang-ke ja-la ing-kon do ma-lang-ke, a-sa so-got bang-kit i tu ha-sa-nga-pon-na i.
 #V

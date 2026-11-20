@@ -15,9 +15,13 @@
 @check Pembanding lirik: baris 1 beda: buku tercetak "Tuhon" (salah cetak) di lirik bawah not.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 580) | https://bukuende.wordpress.com/2013/06/16/ro-do-au-tuhan-tu-hobuku-ende-no-580-buku-logu-no-580/ | teks lirik
 #A
+~ Eb . Bb . | Eb . . . |
 3+5 5+3 5 .+6 | 1 . . . |
+~ Ab . . . | Bb7 . Eb . |
 6+1' 1'+6 1' .+2' | (4 .+.+5+6 5) . |
+~ . . Bb . | Eb . . . |
 3+5 5+3 5 .+6 | 3 (1+2+3+.) 1 . |
+~ . . Eb7 . | Ab . Eb . |]
 3+2 1+1 (b7,+1) (2+.+.+1) | 1 . . . |]
 > Ro do au Tu-hon tu Ho ro au lao ma-mu-ji Ho ro do au lao man-da-pot-hon Ho ro au lao ma-mu-ji Ho
 #V

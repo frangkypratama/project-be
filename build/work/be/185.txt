@@ -10,12 +10,16 @@
 @check Pembanding lirik: semua baris sama.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 185) | https://bukuende.wordpress.com/2013/06/13/holan-sada-debatanta-buku-ende-no-185-buku-logu-no-85/ | Pembanding lirik (tanda baca/kapital diabaikan).
 #A
+~ F . C . | F . C . |
 3 1 2 5 | 1 2 7, 5, v |
+~ Dm . Bb . | C . F . :|
 6, 7, 1 1 | 2 5 3 . :|
 > Ho-lan sa-da De-ba-tan-ta, na tu-mom-pa sa-su-de;
 > Na ta-ri-da di ma-tan-ta, nang na so ta-ri-da pe.
 #B
+~ F . C . |
 3 1 2 5 |
+~ F . . . | Bb . . . | C . F . |]
 5 #4 5 . v | 6 5 4 3 | 2 2 1 . |]
 > Tan-da ma ru-hut-na i, u-nang li-lu ro-ha-mi.
 #V

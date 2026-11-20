@@ -12,10 +12,15 @@
 @check Pembanding lirik: baris 3 (pembanding 4×Amen, ayat 1 di bawah not 5×), 4, 10 beda. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 560) | https://bukuende.wordpress.com/2013/06/13/endehon-amen-buku-ende-no-560-buku-logu-no-560/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ G | D . . . | G . . . | Em . Am . |
 5, | 5, . 5, . | 3 3 . 3 | 3 3 2 1 |
+~ D . . . | G . . . | C . . . | D7 . G . |
 2 . . 5, | 5, . 5, . | 4 4 . 4 | 4 4 3 2 |
+~ . . . . | D . . . | G . . . |
 3 . . 5, | 5, . 5, . | 3 5 . 3 |
+~ D . G . | C . . . | . . . . |
 5 . . . | 4 6 . 4 | 6 . . . |
+~ D . . . | G . D7 . | G . . |]
 5 5 . 5 | 5 5 4 4 | 3 . . |]
 > En-de-hon! A-men, pi-nu-ji Ho Tu-han, en-de-hon! A-men, pi-nu-ji Ho Tu-han en-de-hon! A-men, A-men, A-men, A-men, A-men, pi-nu-ji Ho Tu-han.
 #V

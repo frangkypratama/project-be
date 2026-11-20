@@ -10,13 +10,18 @@
 @check Kepala lagu mencetak judul Logu "Hatami, ale Tuhanku"; baris pertama lirik "Sai martua do sudena".
 @check Nama komponis dicetak "J. A. Frel Inghausen"; lazimnya J. A. Freylinghausen.
 #A
+~ Eb . . . | . . Bb . | Eb . Bb . |
 1 2 3 2 | 3 #4 5 5 v | 1' 1' 7 7 |
+~ . . Eb . :|
 7 6 5 . :|
 > Sai mar-tu-a do su-de-na, na so sa-u du-ran i
 > Do-hot ha-lak na su-mu-rut si-an na por-se-a i,
 #B
+~ Eb . Ab . | Bb7 . Eb . |
 1' 5 6 6 | 5 .+4 3 1 v |
+~ . . . . | Ab . Bb . | Eb . Ab . |
 3 3 5 5 | 4 3 2 . v | 5 5 4 .+3 |
+~ Bb7 . Eb . | Fm . Bb7 . | Eb . . . |]
 4 5 3 1 v | 2 3 4 5 | 3 2 1 . |]
 > Na so o-lo ma-ngi-hut-hon ta-hi ni na ja-hat i, na so o-lo sa-hun-du-lan do-hot pa-ngin-sa-hi i.
 #V

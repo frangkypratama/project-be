@@ -12,11 +12,15 @@
 @check Bagian ulangan "3 5 | 1 5 3 2 | 1": not balok 3 5 dan 1' 5 = 1/8, 3' 2' = 1/4, 1' = 1/2 (garis atas di angka 3' 2' tampak, tetapi tidak sesuai ketukan) — mohon dicek.
 @check Buku mencetak "pothon" di bawah dua not; dipenggal "pot-hon".
 #A
+~ C | F . . | . . C | G7 . Dm |
 5+.+.+4 | (4 3) v 1'+.+.+6 | (6 5) 3+5 | 5 4 v 2+4 |
+~ G7 . C | G . C | F . C |
 (4 3) v 1'+.+.+7 | 7 6 1'+.+.+6 | 6 5+0 3'+.+.+1' |
+~ G . G7 | C . |
 7 .+6 5+.+.+4 | 4 3 |
 > Lo-as au, a-sa lao tu Je-sus-ku tu na dao: Ai ma-lu-ngun do ro-hang-ku: Man-da-pot-hon De-ba-tang-ku,
 #B
+~ C | . . G | C . :|
 3+5 | 1'+5 3' 2' | 1' . :|
 > a-sa di lam-bung-Na au.
 #V

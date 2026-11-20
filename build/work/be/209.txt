@@ -11,13 +11,18 @@
 @check Angka "4*" di birama 6 dibaca #4 (not balok buku: tanda kres di depan C5).
 @check Tanda ":,:" pada ayat 2–5 menandai seruan penutup yang diulang; ditulis sesuai buku.
 #A
+~ G . | D . . . | G . . . | D . D7 . |
 1 . | 2 . 2 . | 3 . 0 3 | 5 2 2 4 |
+~ G . D . | G . D . | G . :|
 3 . 0 2 | (3+#4) 5 5 #4 | 5 . :|
 > Na so-nang au, dung na mar-Tu-han au tu Tu-han Je-sus i;
 > Ai ndang a-dong, dung na-po-so-na au, si-hol-so-ho-non-ki,
 #B
+~ Am . | D . G . | D7 . G . | D . . . |
 0 2 | 2 2 3 2 | 4 3 3 . | 2 . 0 2 |
+~ . . G . | D7 . G . | D . . . | G . D . |
 2 2 3 2 | 4 3 3 . | 2 . 0 5 | 3 . 2 . |
+~ G . D . | G . D . | G . |]
 1 . 0 5 | 3 . 2 . | 1 . |]
 > I-ba-na na-ma hu-i-hut-hon, por-ti-bi on ma hu-tun-dal-hon. Na so-nang au! Na so-nang au!
 #V

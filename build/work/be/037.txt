@@ -11,8 +11,11 @@
 @check Pembanding lirik: bukuende.wordpress.com — 2 dari 3 baris sama persis; 1 baris beda (baris 3: situs tanpa “ma”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 37) | https://bukuende.wordpress.com/2013/06/09/asi-ni-roha-buku-ende-no-37-buku-logu-no-48/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . Bb . | Eb . Bb . | Eb . Ab . | Bb7 . Eb . |
 5 . 5 5 | 1' . 5 5 | 5 5 6 5 | (5 4) 3 . |
+~ Bb . . . | Eb . . . | Ab . Bb7 . | Eb . . . | Bb . . . | Eb . . . |
 5 . 5 5 | 1' . 5 . | 6 5 (5 4) | 3 . . 0 | 5 . 5 5 | 1' . 5 5 |
+~ Bb7 . Eb . | Ab . Bb . | Cm . Fm . | Bb . Eb . |]
 (5 4) 3 v 5 | 4 3 2 1 | 6 5 4 3 | 2 . 1 . |]
 > A-si ni ro-ha ni Tu-han Je-sus Kris-tus, Ho-long ni ro-ha ni De-ba-ta Do-hot par-sao-ran ni Ton-di ma man-do-nga-ni Hi-ta sa-su-de-na
 #V

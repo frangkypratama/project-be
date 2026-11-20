@@ -12,16 +12,24 @@
 @check Angka 4 dicoret = kres (#4 = A♮ di not balok).
 @check Kredit ditulis seperti buku ("Griip Toch de Kansen", lazimnya "Grijp toch de kansen").
 #A
+~ Eb . . . | Bb7 . Fm . |
 5 #4+.+.+5 1' 5+.+.+3 | 5 4+.+.+2 4 3 |
+~ Ab . Eb . | Bb . Eb . | Bb . Eb . |
 6 7+.+.+7 1' 5+.+.+6 | 7 6+.+.+6 5 . | 5 #4+.+.+5 1' 5+.+.+3 |
+~ Bb7 . Fm . | Ab . Eb . |
 5 4+.+.+2 4 3 | 6 7+.+.+7 1' 5+.+.+4 |
+~ . . . . |
 3 2+.+.+2 1 . |
 > Pang-ke ma ting-kim na si-an Tu-han-mu ai tung ha-top la-ho sal-pu do i di-a ma ar ta na hot di-ngo-lu-mu, ho-long-na po-lin na ma-nong-tong i,
 > Pang-ke ting-kim u-nang ho mar-na-lem-ba to-po-ti u-ru-pi na da-ngol i sai mar-si-non-dang ma baen pa-li-to-mu baen ha-sa-nga-pon di Tu-han-ta i.
 #B
+~ Fm . Bb7 . | Eb . Bb . |
 2 2+.+.+3 4+4 4+0 | 3 3+.+.+4 5+5 5+0 |
+~ Eb . Ab . | Bb . Eb . |
 5 #4+5 (6+7) 1'+1' | 7 6+.+.+6 5 . |
+~ Bb . Eb . | Bb7 . Fm . |
 5 #4+.+.+5 1' 5+.+.+3 | 5 4+.+.+2 4 3 |
+~ Ab . . . | Eb . . . |]
 6 7+.+.+7 1' 5+4 | 3 2+.+.+2 1 . |]
 > Ai ndang a-dong na hot di a-tas ta-no on na-sa na u-li lao sal-pu do i, ho-long-ni ro-ha na hot na ma-nong-tong ho-lan di Je-sus do boi jum-pang i.
 #V

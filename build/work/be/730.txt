@@ -14,9 +14,13 @@
 @check Pembanding lirik: semua baris sama. Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 730) | https://bukuende.wordpress.com/2013/06/18/sai-patau-ma-au-tuhan-buku-ende-no-730-buku-logu-no-730/ | proofreading per baris
 #A
+~ Db . . . . . | . . . . . . | Ab . . Db . . | Ab . . Db . . |
 3 . . 3 . . | 3 2 1 3 2 1 | 5 . . 5 . . | (5 . . 5 . .) |
+~ Gb . . . . . | Ebm . . . . . | Gb . . . . . | Ab . . Db . . |
 4 . . 4 . . | 4 3 2 4 3 2 | 6 . . 6 . . | (5 . . 5 . .) |
+~ Ab . . Db . . | Gb . . Ab . . | Gb . . . . . | Eb . . Ab . . |
 5 . . 1' . . | 1' 7 .+6 7 . . | 4 . . 6 . . | 6 6 #4 5 . . |
+~ Db . . . . . | Gb . . Db . . | . . . Ab . . | Db . . . . . |]
 3 . . 5 . . | 1' 7 6 5 3 1 | 3 . . 2 . . | (1 . . 1 . .) |]
 > Sai pa-tau ma di-ring-ku a-le Tu-han, pa-pa-tar-hon _ Hi-nau-li-Mi Tu-han, su-ru ma ton-di-Mi sa-or tu ro-hang-ki, lao pa-pa-tar Ho-long-Mu tu do-ngan-ki.
 #V

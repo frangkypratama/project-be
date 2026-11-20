@@ -13,11 +13,17 @@
 @check Birama akhir "6̣ . . 6̣ ." = 5/8 (tercetak demikian di angka & balok).
 @check Ayat 1 hanya tercetak di bawah not; teks #V ayat 1 disusun dari lirik di bawah not.
 #A
+~ Em . | . . . . . . | D . . . . . |
 6, . | 1 . 2 (3 .+4) 3 | 2 . 7, (5, .+6,) 7, |
+~ Em . . . . . | B . . Em . . | . . . . . . |
 1 . 6, (6, .+#5,) 6, | 7, . . 3, . 6, | 1 . 2 (3 .+4) 3 |
+~ D . . . . . | Em . . B . . | Em . . Am . . |
 2 . 7, (5, .+6,) 7, | (1 .+7,) 6, (#5, .+#4,) #5, | 6, . . 6, . . |
+~ D . . G . . | D . . . . . | Em . . Am . . |
 5 . . (5 .+4) 3 | 2 . 7, (5, .+6,) 7, | 1 . 6, (6, .+#5,) 6, |
+~ D . . G . . | D . . G . . | D . . . . . |
 7, . 5, 3, . . | 5 . . (5 .+4) 3 | 2 . 7, (5, .+6,) 7, |
+~ Em . . B . . | Em . . . . |]
 (1 .+7,) 6, (#5, .+#4,) #5, | 6, . . 6, . |]
 > Ai i-se Po-so-po-so i pe-ak di pang-ga-ga-tan? A-ha bi-na-ri-ta-hon ni su-ru-an tu par-ma-han? Kris-tus Tu-han-ta i Ra-ja na ba-ru so-rang i ta-som-ba Tu-han i A-nak ni De-ba-tan-ta
 #V

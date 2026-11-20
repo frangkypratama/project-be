@@ -12,11 +12,14 @@
 @check Melodi sama dengan BE 11 (Logu 185). Di sini birama ke-4 tercetak jelas "2 1 2 .'" (sebelum tanda ulang), menguatkan bacaan BE 11.
 @check Buku menulis "Chistoph Anton" (salah cetak "Christoph").
 #A
+~ Ab . Eb . | Fm . Db . | Ab . Db . | Eb . . . :|
 1 .+1 7, 5, | 6, 7, 1 1 v | 3 5 4 3 | 2 1 2 . v :|
 > Je-sus, mu-al ni ngo-lung-ku, si-pa-ngo-lu ton-ding-ki.
 > Ai di bu-nu Ho mu-sung-ku, i ma ha-ma-te-an i!
 #B
+~ Ab . . . | Eb . . . | Ab . Eb . | Fm . Eb . |
 3 .+4 5 1 | 7, 6, 7, 5, v | 3 .+3 2 2 | 1 6, 7, 7, v |
+~ Ab . Eb . | Ab . Eb7 . | Ab . . . | Eb . Ab . |]
 1 1 2 2 | 3 .+3 4 . v | 3 2 (1+2) 3 | 2 2 1 . |]
 > Ho ma-nao-ni ha-ma-go-an, pa-tu-pa-hon ha-ngo-lu-an, a-la ni hu-pu-ji Ho Tung mar-ri-bu ha-li do
 #V

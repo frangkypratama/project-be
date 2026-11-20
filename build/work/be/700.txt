@@ -11,12 +11,19 @@
 @check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 700. Angka 4 dicoret (kres) = Cis di balok → #4. Hanya satu bait.
 @check Birama 2 baris 2 dicetak "4 . 4 4" dengan garis atas; balok = 1/4 bertitik + 1/8 + 1/4 → 4 .+4 4.
 #A
+~ G | . . C | G . D | G . D | G . . |
 3+4 | 5 .+#4 6 | 5 .+3 2 | 1 .+1 2 | 1 .+2 3 |
+~ C . . | . . G | D . . | Am . D7 | G . C |
 4 .+4 4 | 6 6 5 | (2 . . | 2) .+3 4 | 5 .+#4 6 |
+~ G . D | G . D | G . . | D7 . . | Bm . D |
 5 .+3 2 | 1 .+1 2 | 1 .+2 3 | 4 .+5 4 | 3 7, 2 |
+~ G . . | . . . | C . D7 | Em . C | G . C |
 (1 . . | 1) . 1 | 4 .+1 4+5 | 6 . 6 | 5 .+5 6+5 |
+~ D . . | G . . | . . . | D . . | G . D7 |
 2 . 2 | 3 .+3 3 | 3 2 1 | (5 . . | 5) .+3 4 |
+~ G . C | G . D | G . D | G . . | D7 . . |
 5 .+#4 6 | 5 .+3 2 | 1 .+1 2 | 1 .+2 3 | 4 .+5 4 |
+~ Bm . D | G . . | . . |]
 3 7, 2 | (1 . . | 1) . |]
 > To-gu au O Tu-han, Ho ma hu-i-hut-hon, ro-hang-kon nu-aeng lo-hot tu Ho. Ro pe ha-ba-ha-ba, ta-hop pa-rung-ki-lon au tong-tong mar-ha-po-san tu Ho. Ho do nam-pu-na au, Ho ma tong-tong di au Ho nam-pu-na Hu-ri-a i, nang pe ro ga-lum-bang ma-non-dong so-lung-ki, Ho Tu-han tong-tong i-hu-tan-ki.
 #V

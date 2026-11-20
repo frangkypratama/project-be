@@ -11,17 +11,27 @@
 @check Pembanding lirik (judul di sana "Haposan Do Tuhan"): ejaan beda di baris 2 ("lasni"), 4, 6, 7 (pemenggalan kata dari teks di bawah not; sesudah itu dirapikan: "Sipalua pangondingan", "ndang na man", "diparade"), 12; dicek ulang ke scan hlm 816–817 → buku tetap. Pembanding menyebut Buku Logu No. 755.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 755) | https://bukuende.wordpress.com/2013/06/13/haposan-do-tuhan-buku-ende-no-755-buku-logu-no-755/ | teks ayat
 #A
+~ Eb . . | . . Bb | Fm . . | Bb7 . Eb |
 3 3 3 | 3 .+2 2 | 4 4 4 | 4 3 . |
+~ Ab . . | Bb7 . Eb | Bb . F | Bb . . |
 6 7 6 | 5 .+4 3 | 2 3 #4 | 5 . . |
+~ Eb . Bb | Eb . Ab | Bb7 . Eb |
 5 6 7 | 1' .+7 6 | 5 4 3 |
+~ . . Bb | Cm . Ab | Eb . Bb |
 3 2 . | 6 7 1' | 1' .+5 5 |
+~ Eb . Bb | Eb . . |]
 3 3 2 | 1 . . |]
 > Ha-po-san Ho Tu-han hot do ho-long-Mu di las-ni ro-ha ting-ki ar-sak-pe a-si ni ro-ha-Mi nang pam-bae-nan-Mu Ho. Si-pa-lu-a pa-ngon-di-ngan pe,
 #B
+~ Eb . Bb | Eb . . |
 5 5 2 | 4+.+.+3 3 . |
+~ Ab . Eb | Bb7 . . | Eb . Bb |
 6 6 3 | 5 .+4 4 | 5 6 7 |
+~ Eb . Ab | Bb . Fm | Bb . . | Eb . Bb |
 1' 5 6 | 7 1' 6 | 5 . . | 5 6 7 |
+~ Eb . Ab | Bb7 . Eb | . . Bb | Cm . Ab |
 1' .+7 6 | 5 4 3 | 3 2 . | 6 7 1' |
+~ Eb . Bb | Eb . Bb | Eb . . |]
 1' .+5 5 | 3 4 7, | 1 . . |]
 > Ha-po-san Ho Tu-han ha-po-san Ho Tu-han ndang na man so-hot a-si ni ro-haM na-sa na ring-kot di au di-pa-ra-de tung a-la ni a-siM do i su-de.
 #V

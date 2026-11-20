@@ -14,9 +14,13 @@
 @check Sinkop "6̄ 6 3̄" (1/8 – 1/4 – 1/8) ditulis 6+6 .+3.
 @check Hlm 943 baris 2: angka "3̄ 3" pada "nga-ra", tetapi not balok kedua tampak lebih tinggi (G/A); ditulis sesuai angka.
 #A
+~ Bm . | Em . A . |
 6+6 .+3 | 4 0+2 5 5+2 |
+~ D . Bm . | F#7 . Bm . |
 3 3 1 1+1 | 2 1+2 3+3 6+6 |
+~ F# . Bm . | Em . A . |
 #5 . 6+6 .+3 | 4 0+6 7 7+5 |
+~ D . Bm . | Em . F# . | Bm . |]
 3 3 1 1 | 2 1+2 3 6+#5 | 6 . |]
 > Je-sus Kris-tus son-da-ngi ro-hang-ku u-nang na ho-lom ma-nga-ra-ja-i au Je-sus Kris-tus son-da-ngi ro-hang-ku ho-long-Mi mang-go-hi ro-hang-kon.
 #V

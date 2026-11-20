@@ -14,7 +14,9 @@
 @check "ma - nangi - na - ngi" dipenggal ma-na-ngi-na-ngi agar 1 suku kata per not (6 not).
 @check "au", "sai" bertanda ‿ = satu suku kata.
 #A
+~ Eb . Fm . | Bb . Eb . | . . Bb7 . | Eb . Bb . |
 1 .+1 2 6 | 5 . 3 . | 3 .+3 4 4 | 5 . . . |
+~ Eb . . . | Ab . . . | Eb . Bb7 . | Eb . . . |]
 1 .+1 5 5 | 6 . 6 . | 5 .+3 4 2 | 1 . . 0 |]
 > Pang hu-li-ngi a-hu a-le Tu-han-bi, na ma-na-ngi-na-ngi au si-se-an-Mi.
 #V

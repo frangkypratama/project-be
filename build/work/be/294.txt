@@ -12,9 +12,13 @@
 @check Baris 1: setelah ketukan gantung tidak ada garis birama sampai akhir baris (angka & balok, 12 ketuk) → garis birama ditambahkan setelah "2".
 @check Lirik di bawah not tercetak "Do-ba-tam" (ayat 2: "Debatam") — ditulis apa adanya.
 #A
+~ D . A | G . . D . . | G . . A7 . . |
 3 . 2 | 1 . 4 (3 .+4) 2 | 1 . 0 5 . 4 |
+~ Bm . . A7 . . | D . . A . . | D . . . . . |
 3 . 6 (5 .+6) 4 | 3 . 0 2 . 2 | 3 . 4 (5 4) 3 |
+~ A . . . . . | D . . . . . | A . . . . . |
 (3 2) 2 v 2 . 2 | 3 . 4 (5 6+5) (4+3) | (3 2) 2 v 5 . 7 |
+~ Bm . . A7 . . | D . . G . . | A7 . . D . . | . . . |]
 (1' 7) 6 5 . 4 | 3 . 0 (6 .+5) (4+3) | 4 . 5 3 . 2 | 1 . . |]
 > U-nang sai hol-so-an ho, Do-ba-tam ma-ngo-lu do, di-ra-jai do sa-su-de-na, ar-sak-mi naeng bu-a-ton-na; A-sal ma por-se-a ho, hol-so-mi ma-po-rus do.
 #V

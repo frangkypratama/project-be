@@ -11,9 +11,13 @@
 @check Pembanding lirik: beda ejaan "hupasahat tondingkon" (baris 1). Buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 425) | https://bukuende.wordpress.com/2013/06/09/batu-mamak-di-au-on-buku-ende-no-425-buku-logu-no-285/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb . . | F . Bb | Eb . . | F . . | Bb . . |
 1' . 1' | 7 . 1' | 6 . 1' | 5 . . | 3' . 1' |
+~ Eb . F | Bb . F | Bb . . | . . . | F . Bb | F7 . Bb | F . . |
 4' . 2' | 1' . 7 | 1' . . | 3' . 3' | 2' . 3' | 4' . 3' | 2' . . |
+~ Bb . . | F . Bb | F7 . Bb | F . . | Bb . . | F . Bb |
 3' . 3' | 2' . 3' | 4' . 3' | 2' . . | 1' . 1' | 7 . 1' |
+~ Eb . . | F . . | Bb . . | Eb . F | Bb . F | Bb . . |]
 6 . 1' | 5 . . | 3' . 1' | 4' . 2' | 1' . 7 | 1' . . |]
 > Ba-tu ma-mak di au on, hu-pa-sa-hat ton-ding-kon, tu aek do-hot mu-dar-Mi, na ro si-an lam-bung-Mi; Si-pa-lu-a au do i si-an par-do-sa-on-ki.
 #V

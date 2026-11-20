@@ -11,9 +11,13 @@
 @check Judul kepala lagu "Girgir ma hamu", sedangkan baris pertama lirik "Dung ro Jesus i" — @title mengikuti kepala lagu.
 @check Birama 3 angka "1 ‾2 7̣": garis atas di atas 2 tidak sesuai balok (tiga not ¼) → ditulis 1 2 7,.
 #A
+~ Ab | . . Eb | Ab . Eb | Ab . Eb |
 5, | 1 1 2 | 3 . v 5 | 1 2 7, |
+~ Ab . Eb | Ab . . | Eb . Ab | Eb . Bbm |
 1 . v 2 | 3 2 1 | 7, . v 1 | 2 (1+7,) (6,+.+.+5,) |
+~ Eb . . | Ab . . | Db . Eb7 | Ab . . |
 5, . v 7, | 1 2 3 | 1 6, v 4 | 3 2 1 |
+~ Eb . Ab | Db . . | Eb . Ab | Bbm . Eb | Ab . |]
 5 . v 5, | 6, 7, 1 | 2 5, v 3 | 6, 2 7, | 1 . |]
 > Dung ro Je-sus i, pa-tar ma tu au: Go-go-na su-de, ho-long-na di au. I-ba-na ha-po-san, ha-po-ru-san i; Tung ma-te pe i-ba, so-nang ro-ha i.
 #V

@@ -13,16 +13,25 @@
 @check Kelompok "3 3 3" / "1 1 1" di awal baris "A-men ha-le-lu-ya" bergaris atas tunggal dan not balok tiga 1/8 tanpa angka 3; supaya birama 4/4 genap ditulis sebagai triol (3+3+3). Tampilan not balok situs belum mendukung triol.
 @check Baris terakhir diawali tanda segno dan tanda ulang "|:" di not balok; ditulis sebagai bagian B. Melodi bagian A sama dengan BE 585 (Somba ma Jahowa), yang lengkap; akhir BE 582 kemungkinan sama, tetapi tidak diisi karena halamannya hilang.
 #A
+~ G . D . |
 5+.+.+5 5+.+.+3 5+5+5+6 6+5 |
+~ G . . . |
 3+3+3 3+.+.+3 3+.+0+5 5+3 |
+~ D . . . |
 2+.+.+2 2+.+.+1 2+1+2+3 3+2 |
+~ G . . . |
 1+1+1 1+.+.+1 1+0 1+3 |
+~ . . D . |
 5+.+.+5 5+.+.+3 5+5+5+6 6+5 |
+~ G . . . |
 3+3+3 3+.+.+3 3+.+0+3 5+.+.+3 |
+~ D . . . |
 2+.+.+2 2+.+.+1 2+1+2+3 3+2 |
+~ G . . . |
 1+1+1 1+.+.+1 1+.+0+1 1+1 |
 > Sa-ngap ma di De-ba-ta A-man-ta A-men ha-le-lu-ya sa-ngap ma di A-nak-Na Tu-han Je-sus Kris-tus A-men ha-le-lu-ya ha-sa-nga-pon ma di Ton-di par-ba-di-a A-men ha-le-lu-ya sa-ngap di Tu-han De-ba-ta si-to-lu sa-da A-men ha-le-lu-ya en-de-hon
 #B
+~ D . G . |
 2+2+2 2+.+.+2 2+.+0+2 1+2 |
 > A-men ha-le-lu-ya en-de-hon
 #V

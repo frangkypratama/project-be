@@ -12,7 +12,9 @@
 @check Kredit ditulis seperti tercetak ("Traqt in die Welt mun ein Light", "longardt"; lazimnya: Tragt in die Welt nun ein Licht, Wolfgang Longardt).
 @check Ayat 1 di bawah not tercetak "Boanma sinondangni" (ayat 2–5: "Boan ma sinondangmi") — ditulis apa adanya. Lengkung putus-putus pada "6 6" birama 3 = untuk ayat yang suku katanya kurang (mis. ayat 3–5).
 #A
+~ F . C . | F . . . | Bb . . . | C . . . |
 3 3+3 2 2+2 | 1 . . 0 | 6, 6,+6, 1 6,+6, | 5, . . 0 |
+~ F . C7 . | F . . . | C . . . | F . . . |]
 1 1+1 2 5+4 | 3 . . 0 | 5 5+5 5 5 | 1 . . 0 |]
 > Bo-an-ma si-non-dang-ni. tu li-at por-ti bi-on dok u-nang ma-bi-ar ho De-ba-ta do-ngan-mi.
 #V

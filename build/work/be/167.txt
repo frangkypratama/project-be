@@ -13,12 +13,16 @@
 @check Lagu bernada minor (la = 6 = G); kres F (#5) dan F natural (5) ditulis sesuai angka.
 @check Kepala lagu mencetak "Martua do na marhaposan"; baris pertama lirik "Dijangkon Jesus do pardosa".
 #A
+~ Gm . D | Gm . D | Gm . D | . . Gm |
 3 6 7 | 1' . 7 | 6 . 7 | #5 3 0 |
+~ F7 . . | Bb . Gm | . . D7 | Gm . . :|
 5 5 4 | 3 . 6 | 6 . #5 | 6 . . :|
 > Di-jang-kon Je-sus do par-do-sa, na ma-ngar-sak-kon do-sa i,
 > Na ma-ngun-duk-kon hi-na-ro-a ni pam-baen-an-na sa-su-de,
 #B
+~ D7 . . | Gm . . |
 7 1' 2' | 3' . 3' |
+~ Cm . F | Bb . Gm | . . . | D7 . Gm | . . D7 | Gm . . |]
 2' . 2' | 1' . . v | 1' 7 6 | #5 . 6 | 6 . #5 | 6 . . |]
 > A-lai di-tang-kup ha-ta on: di-jang-kon Je-sus nang au on.
 #V

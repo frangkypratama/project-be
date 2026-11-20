@@ -11,12 +11,17 @@
 @check Pembanding lirik: bukuende.wordpress.com — 6/8 baris sama; pembanding menulis "Namamorsan" (buku: na mamorsan) dan "dangMi" (buku: dagingMi, dicek di scan).
 @ref Lirik pembanding: bukuende.wordpress.com (BE 407) | https://bukuende.wordpress.com/2013/06/16/panotnoti-ma-silang-buku-ende-no-407-logu-no-271/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G | . . . . | . . . . |
 1+2 | 3 3+3 3 4+.+.+3 | (3+2) 1+2 3 3+4 |
+~ D . G . | D . . . | G . . . |
 5 5+.+.+6 (5+3) 1+3 | 2 . . 1+2 | 3 3+3 3 4+.+.+3 |
+~ . . . . | . . D . | G . . . |]
 (3+2) 1+2 3 3+4 | 5 3+1 2 3+.+.+2 | 1 . . 0 |]
 > Pa-not-no-ti ma si-lang ni Tu-han-ta i na ma-mor-san su-de do-sa-mi, sai ting-gang-kon su-de ar-sak ni ro-ha-mi. Pa-se-sa-hon su-de do-sa-mi.
 #B
+~ D . G . | A . D . | G . . . |
 2 0 3 0 | #4 #4 5 v 1+2 | 3 3+3 3 4+.+.+3 |
+~ . . . . | . . D . | G . . |]
 (3+2) 1+2 3 3+4 | 5 3+1 2 3+.+.+2 | 1 . 0 |]
 > So, jo, be-reng i! Pa-not-no-ti ma si-lang ni Tu-han-ta i, ngo-lu-mi, ngo-lung-ki si-an i.
 #V

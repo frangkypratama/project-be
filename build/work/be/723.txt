@@ -13,15 +13,23 @@
 @check Pembanding lirik: baris 3, 5, 8 beda ejaan/pemisahan kata (ayat 1 & refrein disusun dari lirik di bawah not). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 723) | https://bukuende.wordpress.com/2013/06/18/tu-jolom-o-tuhan-buku-ende-no-723-buku-logu-no-723/ | proofreading per baris
 #A
+~ A | E . A . | . . E . |
 3+4 | 5 #4+5 1' 3'+.+.+2' | 1' 7+1' 2 2+3 |
+~ Bm . E7 . | A . . . |
 4 7+6 5 4+5 | 3 . . 3+.+.+4 |
+~ E . A . | F#m . Bm . |
 5 #4+5 1' 3'+.+.+2' | 1' 7+1' 2 2+3 |
+~ E7 . A . | . . . |
 4 7+6 5 2'+3' | 1' . . |
 > Tu jo-loM O Tu-han sa-hat ma di-ring-kon pang-ke ma au hom-bar tu lo-moM, mo-lo ndang Ho Tu-han, ma-ri-nga-nan di au, di-ring-kon ndang mar-ar-ga be i.
 #B
+~ A | . . . . | . . . . |
 3'+.+.+2' | 1' 2'+1' 5 3+5 | 1' 1'+2' 3' 3'+4' |
+~ E . A . | Bm . E7 . |
 5' 3'+2' 1' 2'+3' | 2' . . 4'+4' |
+~ A . . . | D . . . |
 3' 1'+1' 3' 3'+2' | 1' 6+6 1' 7+6 |
+~ A . E . | A . . |]
 5 1'+1' 7 2'+3' | 1' . . |]
 > Tung po-gos pe di son ma-nang so-nang ta-he mar-si-gan-tung tu Ho sa-su-de ho-lan Ho hu-i-hut-hon ndang be di-ring-kon to-gu to-gu ma tu na tu-re.
 #V

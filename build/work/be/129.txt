@@ -9,13 +9,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 9 dari 12 baris sama; 3 baris beda (ejaan, kata tambahan/hilang). Baris lain yang beda belum dicek ulang satu per satu ke scan; transkripsi mengikuti buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 129) | https://bukuende.wordpress.com/2013/06/13/huhalashon-huringkoti-buku-ende-no-129-buku-logu-no-177/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . D . | . . . . | G . D7 . |
 1 1 7, 1 | 2 3 (3+2) 2 v | 1 1 (2+3) (4+2) |
+~ G . . . :|
 1 7, 1 . :|
 > Hu-ha-las-hon, hu-ring-ko-ti ha-ro-roM tu ta-no on;
 > Je-sus; Si-pa-lu-a ha-mi, jol-ma na mar-da-ngol on.
 #B
+~ G . C . | . . G . |
 5 (6+5) 4 4 | 4 (6+4) 3 . v |
+~ . . . . | C . D . | G . Em . |
 3 2 1 7, | 6, (2+1) 7, . v | 1 (1+7,) (6,+7,) 1 |
+~ Am . . . | D7 . G . | . . . . |]
 4 3 (3+2) 2 v | 5 4 3 (4+2) | 1 7, (7,+1) 1 |]
 > Ai mar-hi-te mu-dar-Mi Di-hop-ho-pi Ho do i; Hu-ri-aM a-sa ba-di-a Ja-la do-hot mar-mu-li-a.
 #V

@@ -11,10 +11,15 @@
 @check Pembanding lirik: beda ejaan L1–L3 (ayat 1 disusun dari lirik di bawah not, mis. "Disi do", "Sadari on").
 @ref Lirik pembanding: bukuende.wordpress.com (BE 391) | https://bukuende.wordpress.com/2013/06/18/so-tung-ditulak-buku-ende-no-391-buku-logu-no-260/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . | . . . | Ab . . |
 0+5 3+4 | 5 .+3 3+.+.+2 | 1 .+1 4+3 |
+~ Bb7 . Eb | Bb . . | Bb7 . Eb |
 4+6 5 3 | 2 .+2 2+2 | 5 .+4 3+.+.+2 |
+~ . . Ab | Eb . . | . . . |
 3 .+3 4+6 | 5 .+3 3+.+.+2 | 1 .+5 3+.+.+4 |
+~ . . Ab | Eb . . | Bb . Eb | Bb . Eb |
 5 .+5 6+.+.+5 | 1' .+1' 1'+1' | 7 .+6 3+.+.+#4 | 5 .+5 3+.+.+4 |
+~ . . Cm | Ab . . | Eb . . | . . |]
 5 .+5 6+.+.+5 | 1' .+1' 1'+6 | 5 .+3 3+.+.+2 | 1 . |]
 > So tung di-tu-lak ro-ha-mi pan-jou-on ni Tu-han-ta i. Di-si do ha-ngo-lu-an-mi, sa-da-ri on ma tang-kup i, sa-da-ri on, sa-da-ri on, pa-u-jung i, sa-da-ri on, sa-da-ri on, sa-da-ri on, pa-u-jung i, sa-da-ri on.
 #V

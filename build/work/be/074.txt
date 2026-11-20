@@ -10,13 +10,18 @@
 @check Pembanding lirik: bukuende.wordpress.com — 14 dari 16 baris sama persis; 2 baris beda ejaan ("marlasniroha", "hataNa"). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 74) | https://bukuende.wordpress.com/2013/06/18/sai-marlasniroha-hita-buku-ende-no-74-buku-logu-no-175/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F | . . Bb . | C . F . |
 3+4 | 5 5 4 3 | 2 2 0 3+4 |
+~ . . C . | F . . :|
 5 1 2 2 | 1 . 0 :|
 > Sai mar-las-ni-ro-ha hi-ta. a-le do-ngan Kris-ten i!
 > Sai ta-pu-ji ma Tu-han-ta, na-pa-sae-hon do-sa i!
 #B
+~ Gm | C7 . F . |
 2+3 | 4 4 3 3 |
+~ C . F . | Bb . F . | C7 . F . | Bb . C . |
 2 . 0 4+5 | 6 6 5 5 | 4 . 0 1+1 | 4 3 2 1 |
+~ . . F . | . . C . | F . . |]
 2 2 0 3+4 | 5 1 2 .+3 | 1 1 0 |]
 > Di-to-gi-hon Je-sus i Hi-ta tu hu-ri-a i; Naung di-jang-kon De-ba-tan-ta Hi-ta on baen a-nak-kon-na.
 #V

@@ -12,9 +12,13 @@
 @check Tanda birama di paranada tercetak seperti 4/4 yang dicoret; isi tiap birama 4 ketuk → ditulis 4/4.
 @check Ayat 1 = lirik di bawah not; ayat 2 tercetak di bawah lagu (hlm 939) dan dipasangkan sebagai baris lirik kedua.
 #A
+~ Cm . Bb . | Cm . . . |
 3 2+1 7,+6, 5,+7, | 6, . . . |
+~ G7 . . . | Cm . G7 . |
 3 2+3 5+3 2+3 | 3 . . . |
+~ Cm . Gm . | Bb7 . Eb . |
 6 (7+1') (7+5) 3 | 4 (5+6) (5+3) 1 |
+~ Cm . Bb . | Cm . . . |]
 3 2+1 7,+6, 5,+7, | 6, . . . |]
 > En-de-hon ma ha-le-lu-ya en-de-hon ma ha-le-lu-ya ha-le-lu-ya ha-le-lu-ya en-de-hon ma ha-le-lu-ya.
 > Pu-ji Tu-han ha-le-lu-ya en-de-hon ma ha-le-lu-ya Ha-le-lu-ya, Ha-le-lu-ya, pu-ji Tu-han, ha-le-lu-ya.

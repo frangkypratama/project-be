@@ -12,12 +12,19 @@
 @check Pembanding lirik: L1 (Najolo, langkangki), L3 (Tarhirimau, kata hilang), L4 (Tuhankinon), L5, L8, L10, L13 beda ejaan/penggalan kata; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 442) | https://bukuende.wordpress.com/2013/06/16/najolo-tung-na-loja-buku-ende-no-442-buku-logu-no-392/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb | . . . . . . | Bb . . . . . | Eb . . Bb . . |
 3 | 3 . 3 3 . 4 | 5 . . 5 . 5 | 1' . 1' 7 . 6 |
+~ Eb . . . . . | . . . . . . | Bb . . Eb . . | Bb . . . . . |
 5 . . 0 0 3 | 3 . 3 3 . 4 | 5 . . (5 4) 3 | 2 . 2 2 . 3 |
+~ . . . Eb . . | . . . . . . | Bb . . . . . | Eb . . Bb . . |
 2 . . 0 0 3 | 3 . 3 3 . 4 | (5 . 5) 5 . 5 | 1' . 1' 7 . 6 |
+~ Eb . . . . . | Ab . . Bb . . | Eb . . Bb7 . . | Eb . . . . . |
 5 . . 0 0 5 | 6 . 6 7 . 7 | 1' . 1' 5 . 4 | 3 . 4 3 . 2 |
+~ . . . . . . | . . . Ab . . | Bb7 . . Eb . . |
 1 . . 0 0 3 | 3 2 3 4 . 4 | 4 3 4 5 . 5+5 |
+~ . . . Cm . . | Fm . . Bb . . | Eb . . Bb7 . . |
 1' .+7 1' 6 5 3 | 2 . . 0 0 2 | 3 2 3 4 . 4+4 |
+~ Eb . . Ab . . | Bb7 . . Eb . . | . . . . . |]
 5 1' 7 6 . 7+1' | 5 1 4 3 3 2 | 1 . . 0 0 |]
 > Na jo-lo tung na lo-ja do lang-kang-ki di-son. Mar-sa-hit do ro-hang-ku di-baen por-ti-bi-on. Tar-hi-rim-au, ai sal-pu lu-hut di ta-no on. Pa-i-ma ro Tu-han-ki-non man jou na so-rat on. Na sal-pu do i, na sal-pu do i, ndang di-ju-jur do-sang-ku tu au. Tung se-sa do i di-baen mu-dar-Na i. Ndang di-tu-lak Tu-han-ku be au.
 #V

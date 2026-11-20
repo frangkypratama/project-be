@@ -14,16 +14,21 @@
 @check Birama "4 3 0 :|" (hlm 335 atas): kepala not di not balok tampak lebih rendah dari Bes4–A4 (mungkin G4–F4); ditulis sesuai angka. Perlu cek manusia.
 @check Ayat 1 disusun dari lirik di bawah not; ayat 2 diakhiri "d.u." (ulang reff).
 #A
+~ F | . . . | C . F | C7 . . |
 0+1 | 1+3 5 .+3 | 3+.+.+2 2 0+3 | 4+6 5 .+2 |
+~ . . F :|
 4 3 0 :|
 > Sai tong ma-i-ma-i-ma do ro-han-ta i di Je-sus.
 > I-ba-na ha-lu-a-on do. di ang-ka naung ti-no-bus.
 #B
+~ F | . . . | C . F :|
 0+5 | 5+5 (1'+5) (3+1') | 5+.+.+5 5 0 :|
 > Ro do mu-se Tu-han-ta i,
 > Mar-do-ngan ha-sa-nga-pon i.
 #C
+~ F |
 0+5 |
+~ . . Bb | C7 . Gm | C7 . C | . . F |]
 5 .+3 6+.+.+5 | 5 4 0+2 | 4+6 5 .+7, | 2 1 0 |]
 > Sai ro ma Ho, o Je-sus. Sai ro ma Ho, o Je-sus.
 #V

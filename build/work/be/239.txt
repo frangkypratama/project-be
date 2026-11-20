@@ -11,8 +11,11 @@
 @check Pembanding lirik: L7 kata 3 dan L23 kata 5 beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 239) | https://bukuende.wordpress.com/2013/06/09/binsan-ro-asi-ni-roha-buku-ende-no-239-buku-logu-no-22/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . . . | . . C . | F . Dm . |
 1 2 3 2 | 3 4 5 . | 3 . v 6 5 |
+~ Gm . C . | F . C . | F . C7 . |
 4 3 2 2 | 3 . v 5 5 | 5 (2+3) 4 5 |
+~ F . C . | F . . . | . . . . |]
 3 . 2 . v | 1 2 3 4 | 3 2 1 . |]
 > Bin-san ro-a-si ni ro-ha ni Tu-han-ta i di ho, a-lo ma di-rim, pa-bo-a jo-ra si-tu-tu do ho.
 #V

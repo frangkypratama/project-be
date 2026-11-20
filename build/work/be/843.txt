@@ -10,6 +10,7 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 843) | https://bukuende.wordpress.com/2013/06/09/amen-2x-buku-ende-no-843-buku-logu-no-8430/ | pembanding menulis Buku Logu No. 8430; buku tidak mencetak nomor Logu
 @check Bagian Ende Liturgi; buku tidak mencetak nomor Logu → @bl 0.
 #A
+~ C . . . | F . . . | C . . . |]
 5 . 5 . | (6 7 1' 2') | 3' . . . |]
 > A-men, a-men.
 #V

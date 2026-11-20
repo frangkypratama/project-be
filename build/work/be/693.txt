@@ -12,15 +12,23 @@
 @check Kredit ditulis seperti buku; tampaknya tertukar (lazim: syair Fanny J. Crosby, lagu William J. Kirkpatrick), ejaan "Willeam", "Krikpatrick", "Dokolsaribu" juga seperti buku.
 @check Reff birama 1 "7 . 6 7" dan baris 3 "1̇ . 1̇ 1̇" ditulis sebagai 1/4 + dua 1/16 sesuai balok.
 #A
+~ Db | . . . . . . | Gb . . Ab . . |
 5 | 5 .+4 3 3 2 1 | 6 .+6 6 5 . 5 |
+~ Db . . . . . | Ab . . . . . | Db . . . . . |
 5 .+4 3 3 4 3 | (2 . . 2) . 5 | 5 .+4 3 3 2 1 |
+~ Gb . . . . . | Db . . Ab7 . . | Db . . . . |]
 6 .+6 6 1' . 6 | 5 .+5 5 5 4 2 | (1 . . 1 .) |]
 > Je-sus do Tu-han-ku Si-hop-hop au on. I-ba-na do ha-po-san-ki ta-ngan-Na-na go-go ma-no-gu au on, pa-to-gu au di lang-kang-ki
 #B
+~ Db | Ab . . . . . | Bbm . . Db . . |
 5 | 7 .+7 7 7 . 6+7 | 1' .+7 6 5 . 5 |
+~ Gb . . Ab . . | Db . . . . . |
 4 3 4 2 6 5 | (3 . . 3) . 5 |
+~ . . . . . . | Ab . . Bbm . . |
 1' .+1' 1' 1' . 1'+1' | 2' .+1' 1' 1' . 6 |
+~ Ab . . . . . | Db . . Ab . . |
 5 .+5 5 5 5 5 | (5 . . 5) . 6 |
+~ Db . . Ab7 . . | Db . . . . |]
 5 .+3 1 4 .+7, 7, | (1 . . 1 .) |]
 > Tu-han-ku tong-tong su-ma-ri-hon au on mar-tu-a so-nang ton-ding-kon ho-long ni ro-ha-Na pa-hi-sar au on mar-da-me tong-tong ro-hang-kon mar-da-me tong-tong ro-hang-kon.
 #V

@@ -10,11 +10,14 @@
 @check Pembanding lirik: bukuende.wordpress.com — 16 dari 20 baris sama persis; 4 baris beda (termasuk ayat 3 baris 4 “mambu” — buku tercetak “mambu”, ayat lain “marribu”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 11) | https://bukuende.wordpress.com/2013/06/06/aha-ma-endehononku-buku-ende-no-11-buku-logu-no-185/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab . Eb . | Fm . Db . | Ab . Db . | Eb . . . :|
 1 .+1 7, 5, | 6, 7, 1 1 v | 3 5 4 3 | 2 1 2 . :|
 > A-ha ma en-de-ho-non-ku a-sa pu-ji-on-ku Ho,
 > A-le Tu-han De-ba-tang-ku, sai u-ru-pi au go-go.
 #B
+~ Ab . . . | Eb . . . | Ab . Eb . | Fm . Eb . |
 3 .+4 5 1 | 7, 6, 7, 5, v | 3 .+3 2 2 | 1 6, 7, 7, v |
+~ Ab . Eb . | Ab . Eb7 . | Ab . . . | Eb . Ab . |]
 1 1 2 2 | 3 .+3 4 . v | 3 2 (1+2) 3 | 2 2 1 . |]
 > Ai ndang tar-pa-jo-jor a-hu a-si ni ro-haM di a-hu A-la ni hu-pu-ji Ho tung mar-ri-bu ha-li do.
 #V

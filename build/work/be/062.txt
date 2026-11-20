@@ -12,10 +12,15 @@
 @check Pembanding lirik: bukuende.wordpress.com — 16 dari 16 baris sama persis.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 62) | https://bukuende.wordpress.com/2013/06/13/halalas-ni-roha-godang-buku-ende-no-62-buku-logu-no-172/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . . . | Bb . Eb . | Ab . . . |
 3 3 3+.+.+2 3+.+.+4 | 5 . 3 . v | 4 4 4+.+.+5 4+.+.+3 |
+~ Bb . . . | Eb . . . | Bb . Eb . |
 (2 . 5 .) v | 3 3 3+.+.+2 3+.+.+4 | 5 . 3 v (3+4) |
+~ Fm . Bb7 . | Eb . . . | Ab . . . | Bb . Eb . |
 2 (2+3) 4 (3+2) | 1 . . . | 6 6 1'+.+.+7 1'+.+.+6 | 5 . 3 .+3 |
+~ Ab . Bb7 . | Eb . . . | Ab . . . |
 4+.+.+3 4+.+.+3 4+.+.+3 4+.+.+2 | 3 . 5 . v | 6+.+.+6 6+.+.+6 1'+.+.+7 1'+.+.+6 |
+~ Bb . Eb . | Fm . Bb7 . | Eb . . . |]
 5 . 3 v 3 | 2 (2+.+.+3) 4 (3+2) | 1 . . . |]
 > Ha-la-las ni ro-ha go-dang, Na hu-ba-ri-ta-hon on: Nu-nga tu-bu Si-pa-lu-a Di hi-ta jol-ma on. Ha-sa-nga-pon di De-ba-ta, Laos da-me, da-me, da-me ma di jol-ma, Lo-mo ni _ ro-ha ni De-ba-ta Do hi-ta jol-ma on.
 #V

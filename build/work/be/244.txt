@@ -10,7 +10,9 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 244) | https://bukuende.wordpress.com/2013/06/13/haburjuhon-ma-mangalo-buku-ende-no-244-buku-logu-no-22/ | Pembanding lirik (tanda baca/kapital diabaikan).
 @check Kepala lagu mencetak judul Logu "Binsan ro asi ni roha"; baris pertama lirik "Haburjuhon ma mangalo".
 #A
+~ F . . . | . . C . | F . Dm . | Gm . C . |
 1 2 3 2 | 3 4 5 . | 3 . v 6 5 | 4 3 2 2 |
+~ F . C . | F . C7 . | F . C . | F . . . | . . . . |]
 3 . v 5 5 | 5 (2+3) 4 5 | 3 . 2 . v | 1 2 3 4 | 3 2 1 . |]
 > Ha-bur-ju-hon ma ma-nga-lo, ha-ja-ha-ton-mi su-de, ta-gan song-gop a-si ro-ha ni Tu-han-ta i do-pe.
 #V

@@ -14,13 +14,18 @@
 @check Birama akhir tercetak "6 . . | 6 . ." (3 + 3 ketuk ⅛), tetapi not balok dua not ½. bertitik (A4, masing-masing 6/8) bersambung → ditulis 2 birama penuh bersambung.
 @check Lirik refrein tercetak "Golgata" sebagai "Gol ga ta" / "Gol-ga ta"; dipenggal Gol-ga-ta sesuai not.
 #A
+~ Am . E | Am . . . . . | . . . G . . |
 0 3 3 | 6 . 7 . 1' 1' | 1' . 7 . 1' 2' |
+~ E7 . . . . . | Am . . . . . :|
 3' . (2' 1') 7 7 | (6 . . 6 . .) :|
 > Ho-long-Mi a-le Tu-han-ku i-se-tuk man-do-do i,
 > di-u-se-hom Ho mu-dar-Mu di hau pi-nar-si-lang i.
 #B
+~ Am . . . . . | E7 . . . . . | Am . . . . . |
 6 7 (1' . 6 .) | 7 1' (2' . 7 .) | 1' 2' (3' . . 3') |
+~ E7 . . Am . . | E7 . . Am . . |
 (4'+3') 2' 3'+2' 1' (2'+1') (7+6) | 3' . . . 1' 2' |
+~ E7 . . . . . | Am . . . . . | . . . . . . |]
 3' . (2' 1') 7 7 | (6 . . . . . | 6 . . . . .) |]
 > Gol-ga-ta Gol-ga-ta Gol-ga-ta pa-ma-ja-lan i Gol-ga-ta sa-ngap ma di Ho Tu-han.
 #V

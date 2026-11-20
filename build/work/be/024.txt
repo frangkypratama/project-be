@@ -11,8 +11,11 @@
 @check Pembanding lirik: bukuende.wordpress.com — 16 dari 16 baris sama persis; semua baris sama.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 24) | https://bukuende.wordpress.com/2013/06/18/tatap-hami-on-buku-ende-no-24-buku-logu-no-59/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . . | Bb . . | Eb . Bb | Eb . Bb |
 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |
+~ Eb . Bb7 | Eb . Bb | Eb . Bb | Eb . Bb |
 3+4 5 4 | 3+2 3 2 v | 1+2 3 2 | 1+7, 1 7, v |
+~ Eb . . | Bb . . | Eb . Bb | Eb . . |]
 1+1 7, 1 | 2 . 0 | 1+2 3 2 | 1 . 0 |]
 > Ta-tap ha-mi on, na pu-ngu di-son: Ai na naeng pu-ji-on-na-mi deng-gan ni ba-saM di ha-mi. Ta-tap ha-mi on, na pu-ngu di-son.
 #V

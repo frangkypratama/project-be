@@ -12,12 +12,16 @@
 @check Birama "1 . 5 3" (baris 1): angka 1 tanpa titik atas, tetapi not balok C5 → ditulis 1' (oktaf atas).
 @check "4*" dan "5*" = not dinaikkan (not balok: F♯, G♯) → #4, #5.
 #A
+~ C . . . | F . . . | G . Am . | C . . . |
 5 . 3 . | 6 7 1' 1' | 7 . v 6 . | 1' . 5 3 |
+~ F . G . | C . . . :|
 4 3 2 . | 1 . . . :|
 > Je-sus hi-na-po-san ni ro-hang-kon do na ma-ngo-lu;
 > i hu-bo-to, a-la ni hu-pa-sa-bam ma ro-hang-ku,
 #B
+~ C . D . | E7 . Am . |
 3 . #4 . | #5 6 6 5 |
+~ F . . . | G . C . | G . C . |]
 6 . 1' . | 2' . 3' 3' | 2' 2' 1' . |]
 > Nang tar-go-got ro-hang-ki ma-ming-ki-ri a-jal-hi.
 #V

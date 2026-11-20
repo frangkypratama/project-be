@@ -12,13 +12,18 @@
 @check Birama "6 . 5 , 1̇" (baris 3): angka 1 tercetak bertitik atas, balok = G4 (bukan G5) → ditulis 1, sama dengan pola birama sejajar di baris 2 & 5.
 @check Lirik tercetak "Ni / an-ri do-hot bor-ngin" ditulis apa adanya (Ni an-ri).
 #A
+~ G | . . . . | D . G :|
 5, | 1 2 3 5 | 2 . 1 :|
 > Ma-po-rus do a-ri-an,
 > Ma sal-pu ha-ti-u-ron.
 #B
+~ G | C . . . | D . . . | Am . . . | D . G . |
 5 | 6 5 4 3 | 2 . 2 v 3 | 4 3 2 1 | 7, . 5, v 1 |
+~ D . . . | G . . . | D . . . | Em . G . |
 7, 1 2 2 | 1 . 0 1 | 7, 6, 7, 2 | 6, . 5, v 1 |
+~ D . . . | Em . G . | C . . . | D . . . |
 7, 6, 7, 2 | 6, . 5, v 5 | 6 5 4 3 | 2 . 2 v 3 |
+~ Am . . . | D . G . | D . . . | G . . |]
 4 3 2 1 | 7, . 5, v 1 | 7, 1 2 2 | 1 . . |]
 > Di-so-luk ha-ho-lo-mon, mam-baen pa-ra-di-a-nan di na-sa jol-ma i. Ho-lom do di ma-tang-ku, tu Ho do lao ro-hang-ku, si-tom-pa par-so-ri-nan, Ni an-ri do-hot bor-ngin, ma-mu-ji go-ar-Mi.
 #V

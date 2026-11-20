@@ -13,9 +13,13 @@
 @check Birama 2 angka "2 1 7"; not pertama di balok tampak setinggi A4 (= 3) — kabur, ditulis sesuai angka.
 @check Kredit ditulis seperti buku ("Clemen of Alexander", "Felice de Giandini"; ejaan lazim: Clement of Alexandria, Felice de Giardini).
 #A
+~ F . . | C . . | F . . | . . . |
 5 3 1 | 2 1 7, | 1 . . | 1 2 3 |
+~ C7 . F | C . . | F . . | C . F |
 (4+5 4) 3 | 2 . . | 5 3 1 | 5, . . |
+~ Gm . C7 | F . . | Gm . C7 | F . . |
 2 3 4 | 3 .+2 1 | 2 3 4 | 3 .+2 1 |
+~ . . C | F . . | Bb . C | F . . |]
 1 3 5 | 5 .+6 5 | 4 3 2 | 1 . . |]
 > Je-sus par-ma _ han i to-gu na-po-so i di na maol i. Ro au tu jo-lo-Mi rap-hon dak-da-nak i, ma-mu-ji go-ar-Mi par-mo-nang i.
 #V

@@ -10,9 +10,13 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 696) | https://bukuende.wordpress.com/2013/06/16/lam-holong-rohangki-buku-ende-no-696-buku-logu-no-696/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 @check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 696. Ayat 3 baris akhir tercetak "Tuhnaki" (salah cetak) — ditulis apa adanya.
 #A
+~ Ab . Db . | Ab . . . | Fm . Bbm . | Eb . . . |
 5, . 6, 5, | 1 .+2 3 . | 3 . 2 1 | 2 . . . |
+~ Ab . Db . | Ab . . . | Eb . Ab . | . . . . |
 5, . 6, 5, | 1 .+2 3 . | 2 . 1 7, | 1 . . . |
+~ Db . . . | Eb7 . Ab . | Eb . . . |
 4 . 4 4 | 4 .+3 3 . | 2 . 2 2 |
+~ . . Ab . | Db . . . | Ab . . . | Eb . Ab . | . . . . |]
 2 .+1 1 . | 6, . 6, 6, | 1 . . . | 2 . 1 7, | 1 . . . |]
 > Lam ho-long ro-hang-ki tu Tu-han-ki, i-ma ta-ngi ang-ki o-loi ma i, lam ho-long ro-hang-ki tu Ho O Je-sus-ki o-loi ma i, O, Tu-han-ki
 #V

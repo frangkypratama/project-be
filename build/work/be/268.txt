@@ -12,11 +12,14 @@
 @check Pembanding lirik: L1 kata 3, L9 kata 3 ("donganu"), L10 kata 5, L15 kata 6 ("dodonganki") beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 268) | https://bukuende.wordpress.com/2013/06/13/debatangku-do-donganku-buku-ende-no-268-buku-logu-no-127/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . . . | D7 . G . | D . . . | . . G . :|
 1 .+2 3 3 | 4 3 3 2 v | 7, .+1 2 5 | 5 #4 5 . :|
 > De-ba-tang-ku do do-ngan-ku, ga-nup a-ri, ga-nup taon.
 > Tum-pa-han-na do lang-kang-ku, u-ru-pan-Na au ma-naon.
 #B
+~ C . D . | G . . . |
 4 .+3 2 2 | 3 4 5 . v |
+~ C . G . | D7 . G . | C . G . | . . . . |]
 6 .+6 5 3 | (5+4) (3+2) 3 . v | 6 .+6 5 3 | 3 2 1 . |]
 > Pos do ro-hang-ki di-si, De-ba-ta do do-ngan-ki sa-le-leng-le-leng-na i.
 #V

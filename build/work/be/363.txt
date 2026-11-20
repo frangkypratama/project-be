@@ -12,11 +12,17 @@
 @check Kredit tercetak "Louis Bougeois" (ejaan lazim: Bourgeois); ditulis sesuai buku.
 @check Pemasangan ayat 1: "Mauliate" dipenggal Ma-u-li-a-te (5 suku) dan "hea" he-a agar sesuai 17 not per frasa; baris 3 ("O Israel...") hanya 16 suku kata, jadi suku "Na" ditahan ke not berikut (tanda _). Perlu dicek penyanyi/manusia.
 #A
+~ Ab . Db . | Ab . Eb7 . | Ab . Eb . | Ab . Eb . |
 1 . 6, 5, | 1 1 2 4 | 3 . 2 . | 0 0 5 . |
+~ Ab . Db . | Ab . Eb . | Ab . Eb . | Ab . Db . |
 3 3 1 4 | 3 . 2 . | 1 . 0 0 | 1 . 6, 5, |
+~ Ab . Eb7 . | Ab . Eb . | Ab . . . | Db . Eb . |
 1 1 2 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 |
+~ Ab . . . | Eb . Ab . | Eb7 . Ab . | Eb . Ab . | Db . Eb . |
 1 7, 1 . | 0 0 5 . | 5 4 3 . | 2 . 1 7, | 6, . 5, . |
+~ Ab . Eb . | Ab . Eb . | Ab . Eb . | Ab . Eb . | Ab . . . |
 0 0 5, . | 1 1 7, 6, | 1 . 2 . | 3 . 0 0 | 1 . 1 2 |
+~ . . Eb7 . | Ab . Eb . | Ab . . . | Db . Eb . | Ab . . . |]
 3 1 4 4 | 3 . 2 . | 0 0 5 . | 4 3 2 1 | 1 7, 1 . |]
 > Ma-u-li-a-te dok ha-mu-na di De-ba-ta na ba-sar i; Sai pu-ji ma deng-gan ba-sa-Na, na so mar-pan-so-ho-tan i. O Is-ra-el, gir-gir en-de-hon ma a-si ro-ha-Na _ i, Na so he-a mar-pa-ru-jung-an, sa-le-leng ni le-leng-na i.
 #V

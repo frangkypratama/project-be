@@ -10,12 +10,16 @@
 @check Pembanding lirik: bukuende.wordpress.com — 2 dari 3 baris sama persis; 1 baris beda pemisahan kata (“banua ginjang”). Kata yang berbeda belum dicek ulang satu per satu ke scan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 32) | https://bukuende.wordpress.com/2013/06/16/nang-lao-ruar-masuk-pe-buku-ende-no-32-buku-logu-no-78/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab . Eb7 . | Ab . Eb . | Ab . Db . |
 3 1 2 (5+4) | 3 (2+1) 2 . v | 1 .+7, (6,+7,) 1 |
+~ Eb . . . | Ab . . . :|
 2 3 2 . | 1 . . . :|
 > Nang lao ru-ar, ma-suk pe, Je-sus sai do-nga-ni ha-mi.
 > Pa-su-pa-su ha-mi be Do-hot ha-ngo-lu-an-na-mi.
 #B
+~ Ab . Db . | Ab . Eb . |
 5, .+5, 6, 7, | 1 (2+1) 7, 5, v |
+~ Ab . Eb . | Bbm . Eb . | Ab . . . |]
 1 .+1 2 3 | 4 3 2 . | 1 . . . |]
 > To-gu ha-mi, a-le Tu-han. Sa-hat tu ba-nu-a gin-jang!
 #V

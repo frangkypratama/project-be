@@ -12,14 +12,19 @@
 @check Pembanding lirik: beda di baris 3 (hitabe), 4 (taendehon), 8 (kata 'i' tambahan di buku), 9 (wAmen) — ejaan/salah cetak; buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 561) | https://bukuende.wordpress.com/2013/06/13/endehon-debata-buku-ende-no-561-buku-logu-no-561/ | teks lirik
 #A
+~ A . E . | F#m . E . | A . E7 . | A . . . |
 1 . 7, 1 | 6, 1 5, . | 3 1 4 2 | (1 7,) 1 . |
 > En-de-hon De-ba-ta ha-le-lu-ya A-men
 #B
+~ A . E . | F#m . E . | A . E7 . | A . . . |
 1 . 7, 1 | 6, 1 5, . | 3 1 4 2 | (1 7,) 1 . |
 > A-ma par-ho-lo-ngi ha-le-lu-ya A-men
 #C
+~ A . E . | Bm . E . | A . E . |
 3 . 2 3 | 4 3 2 . | 3 . 2 3 |
+~ Bm . E . | A . E . | F#m . E . |
 4 3 2 . | 1 . 7, 1 | 6, 1 5, . |
+~ A . E7 . | A . . . | . . . . |]
 3 1 4 2 | (1 7,) 1 . | 1 . 1 . |]
 > ri-a ma hi-ta-be di a-do-pan-Na-i rap ta-en-de-hon-ma ha-le-lu-ya A-men A-men
 #V

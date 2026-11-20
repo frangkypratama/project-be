@@ -10,8 +10,11 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 287) | https://bukuende.wordpress.com/2013/06/13/gaor-do-sude-humaliang-buku-ende-no-287-buku-logu-no-29/ | 6/8 baris sama
 @check Tanda sukat di scan kurang jelas; semua birama berisi 2 ketuk → 2/4. 4* = A♮ (balok bertanda pugar) → #4.
 #A
+~ Eb . | Bb7 . | Eb . | Bb . |
 3 3+3 | (5+4) 3+2 | (1 2+3) | 2 0 |
+~ Eb . | . . | . . | Fm . | . . |
 3 3+3 | (5+#4) 3+#4 | 5 . v | 4 3+2 | (2+6) 5+4 |
+~ Bb7 . | Eb . | Ab . | Bb7 . | Eb . |]
 4 . | 3 0 | 6 7+1' | (5+4) 3+2 | (2 1) |]
 > Gaor pe su-de hu-ma-li-ang. Sai na de-mak do mu-se, Mo-lo di-dok Je-sus so-nang, a-ha na hu-mo-tok be.
 #V

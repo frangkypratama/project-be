@@ -12,11 +12,15 @@
 @check Pembanding lirik: baris 2, 4, 6, 12, 18 beda ejaan (a.l. 'salelengnilelengna,i'); dicek ke scan hlm 664–665: sesuai buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 647) | https://bukuende.wordpress.com/2013/06/09/ale-tuhan-debatangki-buku-ende-no-647-buku-logu-no-647/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ C | Am . C . | . . . . | . . D . |
 5 | 3 6 5 1' | 1' 7 1' 5 | 1' 5 6 #4 |
+~ G . . . | Am . G . | Am . G . |
 5 . . 7 | 1' 6 2' 7 | 1' 6 7 5 |
+~ Am . G . | C . . . |]
 6 1' 2' 7 | 1' . . . |]
 > Di De-ba-ta A-man-ta i, ma ha-sa-nga-pon i, do-hot di A-nak, Ton-di i Si-to-lu sa-da i.
 #B
+~ C . . . |]
 1' . 1' . |]
 > A-men.
 #V

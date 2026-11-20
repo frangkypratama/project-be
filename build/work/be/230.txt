@@ -12,13 +12,18 @@
 @check Pembanding lirik: L10 kata 1 beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 230) | https://bukuende.wordpress.com/2013/06/16/na-malungun-do-rohangku-buku-ende-no-230-buku-logu-no-182/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb | Gm . Cm . | F7 . Bb . |
 5+5 | 1' .+3' (2'+1') (7+6) | (5 .+4) 3 v 5+5 |
+~ Eb . Bb . | . . . :|
 (6+7) (1'+2') 3' 2' | 1' . 0 :|
 > Na ma-lu-ngun do ro-hang-ku Mi-da Je-sus, Tu-han-ki,
 > Ai di-se-sa do do-sang-ku, Di-u-ra-si ro-hang-ki,
 #B
+~ Bb | Cm . F7 . |
 7+1' | 2' 3' 4' 3' |
+~ Bb . . . | F . . . | Bb . F . |
 3' 2' 0 5+6 | 7 1' 7 6 | 5 . 0 5+5 |
+~ Bb . Eb . | F7 . Bb . | Eb . Bb . | . . . |]
 1' .+3' 1' 6 | (5 .+4) 3 v 5+5 | (6+7) (1'+2') 3' 2' | 1' . . |]
 > Di-ba-ga-san par-sa-hi-tan mar-si-gan-tung au tu Ho, o-lo do au ma-ngi-hut-hon pa-no-gu-on-Mi tu Ho.
 #V

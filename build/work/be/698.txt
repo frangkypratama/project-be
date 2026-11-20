@@ -11,10 +11,15 @@
 @check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 698.; hanya syair & terjemahan yang disebut, tanpa komponis lagu. Hanya satu bait.
 @check Birama 2 & 5 tercetak "5 . 3 ." (balok = dua not 1/2) → 5 . 3 .
 #A
+~ F . Bb | C . F . | . . Bb . |
 5,+5, 1+1 6,+6, | 5, . 3 . | 0 5,+5, 1+1 4+4 |
+~ F . C . | F . C . | F . . . |
 3 . 2 . | 0 5,+5, 7,+7, 2+2 | 1 . . . |
+~ . . . . | Bb . C7 . |
 0 1+1 1 1+1 | 6 . 4 . |
+~ F . C . | F . . . |
 0 1'+1' 7+7 6+6 | 5 . 3 . |
+~ . . Bb . | F . C . | F . C . | F . . . |]
 0 5,+5, 1+1 4+4 | 3 . 2 . | 0 5,+5, 7,+7, 2+2 | 1 . . . |]
 > Sai i-hut-ho-nong-ku Je-sus, sai i-hut-ho-nong-ku Je-sus sa-le-leng-le-leng-na i. Nang go-dang ha-por-su-hon sai be-nget do au ma na-on, sai i-hut-ho-non-ku Je-sus sa-le-leng-le-leng-na i.
 #V

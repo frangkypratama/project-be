@@ -12,11 +12,14 @@
 @check Pembanding lirik: L4 kata 2, L12 kata 1, L20 kata 2, L26 kata 5 ("hahchheon", huruf kabur di scan) beda ejaan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 262) | https://bukuende.wordpress.com/2013/06/16/jahowa-tuhanki-buku-ende-no-262-buku-logu-no-149/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ F . . . | Dm . C7 . | F . . . | . . Gm . | C . F . :|
 0 0 1 . | 3 6 5 .+4 | 3 . 0 3 | 5 1 2 3 | 2 . 1 . :|
 > Ja-ho-wa Tu-han-ki, Ho mu-al ni na deng-gan;
 > Si-tom-pa sa-su-de, si-le-hon ha-ngo-lu-an!
 #B
+~ F . C . | Gm . C7 . | F . . . | C . . . |
 0 0 2 . | 2 3 4 4 | 3 . 0 3 | 2 5 5 #4 |
+~ F . C . | F . C7 . | Gm . C . | Gm . C . | F . . |]
 5 . 0 5 | 5 3 4 5 | 6 . v 5 . | 4 3 2 2 | 1 . . |]
 > Sai le-hon ma di au pa-ma-tang na hi-pas. Ma-ri-ngan ma di au, baen ro-ha-na i-as.
 #V

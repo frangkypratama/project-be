@@ -10,8 +10,11 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 296) | https://bukuende.wordpress.com/2013/06/13/holso-rohangku-ditatap-ho-buku-ende-no-296-buku-logu-no-231/ | 5/6 baris sama
 @check Lirik di bawah not tercetak "Ho-so ro-hang-ku", judul kepala lagu "Holso rohangku" — lirik ditulis apa adanya.
 #A
+~ Eb . . . . . | . . . . . . |
 5, 1 2 3 1 4 | 3 . 2 1 . . v |
+~ . . . . . . | Bb7 . . Eb . . | . . . Fm . . |
 1 3 4 5 3 6 | 5 . 4 3 . 0 | 5 4 3 2 . 4 |
+~ Bb7 . . Eb . . | Ab . . . . . | Eb . . . . . |]
 4 3 2 1 . . v | 1' 7 6 6 5 1 | 3 . 2 1 . . |]
 > Ho-so ro-hang-ku di-ta-tap Ho; Ta-hu-tan a-hu-pa-nga-pul Ho. Naung tu ta-ngan-mu do sa-hat au, Je-sus Tu-han-ku ra-mo-ti au.
 #V

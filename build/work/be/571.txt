@@ -14,15 +14,23 @@
 @check Pembanding lirik: baris 1 (kata 'i' sesudah pardisurgo, dicek ulang di scan: tercetak), 4, 5 beda ejaan, 12 kata pertama beda (scan: "sai las ma rohami"); buku tetap acuan.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 571) | https://bukuende.wordpress.com/2013/06/16/parangan-pardisurgo-buku-ende-no-571-buku-logu-no-571/ | teks lirik
 #A
+~ Ab | . . Eb | Ab . . | Eb . . |
 5, | 1 . 2 | (3+.+.+4 5) 1 | (2 1) 7, |
+~ Ab . Db | Ab . Db | Ab . . | Db . Eb7 |
 1 .+(7, 6,) | 5, .+6, 6,+6, | (5, 1) 1 | (6, 4) 4 |
+~ Ab . Eb | Ab . . | . . . | . . . |
 3 . 2 | 1 . (1+2) | 3 . 3 | (3 2) 1 |
+~ Eb . . | Ab . |]
 (2 1) 7, | (1+.+.+2 3) |]
 > Pa-ra-ngan par-di-sur-go i ta-som-ba Tu-han i ta-som-ba Tu-han i pa-sa-hat ma tum-pal-na-i.
 #B
+~ Ab | Db . Eb7 |
 5 | (4 .+3 2+4 |
+~ Ab . . | Eb . . | Ab . . |
 3 .+2 1+3 | 2 .+1 7,+2 | 1) 1 0 |
+~ Eb7 . Ab | Eb . . | Ab . Eb |
 4 4 0 | 2 2 0 | 3 3 5 |
+~ Ab . Eb7 | Ab . Eb | Ab . . |]
 (1+.+.+2 3) 4 | 3 . 2 | 1 . 0 |]
 > Pa-sa-ngap sa-ngap sa-ngap pa-sa-ngap ma go-ar-Na i
 #V

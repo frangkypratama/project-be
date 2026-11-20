@@ -11,6 +11,7 @@
 @check Buku mencetak dua lagu bernomor 844: file ini = 844a "Amen (3 X)" (do = Es, 4/4); 844b (do = G, 2/4, Liturgi Denmark) ada di 844b.txt.
 @check Bagian Ende Liturgi; buku tidak mencetak nomor Logu → @bl 0.
 #A
+~ Eb . Fm . | Bb7 . Eb . | Bb . Eb . | Ab . Bb . | Eb . . . |]
 (1 . 2 3 | 4 .) 3 . | 2 . 1 . | (4 . 2 .) | 1 . . . |]
 > A-men, A-men A-men.
 #V

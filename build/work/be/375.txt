@@ -12,14 +12,21 @@
 @check Kredit tercetak "Frieda Von Bethmann Hoollweg" (ejaan lazim: Hollweg); ditulis sesuai buku. "4*" = #4 (A♮), "2*" = #2 (F♯).
 @check Ayat 2–3 hanya mencetak 4 baris; refrein "Sai ro ma ho ..." diulang dari ayat 1.
 #A
+~ Eb | . . . . . . | . . . Bb . . |
 3 | (5 4) 3 (5 4) 3 | 3 . . 2 . (3+3) |
+~ Ab . . . . . | Eb . . . . . | . . . . . . | Ab . . Eb . . |
 (4 3) 4 6 . 5 | (3 . . 3 .) 3 | (3 #2) 3 1' . 7 | 6 . . 3 . 3 |
+~ F . . Eb . . | Bb . . Eb . . | Bb7 . . Eb . . | . . . . . . |
 #4 . 2 3 . #4 | (5 . . 5 .) 5 | 5 . 4 3 . 2 | (3 . #4) 5 . 1' |
+~ . . . Bb7 . . | Eb . . . . . | . . . Bb . . | Fm . . Bb . . | Eb . . Bb7 . . |
 5 . 6 5 . 4 | (3 . . 3 .) 5 | 1' . 1' 7 . 6 | 6 . . 5 . 0 | 5 . . 4 . 4 |
+~ Eb . . . . |]
 (3 . . 3 .) |]
 > A-dong do ha-so-na-ngan di ho par-ja-lang i, ha-top ma ho ma-po-rus tu Tu-han Je-sus i. O, jang-kon ma I-ba-na, a-sa da-po-tan ho. A-dong do ha-so-na-ngan, ha-top ho ro.
 #B
+~ Eb | Bb . . Eb . . | Bb . . Eb . . | Ab . . . . . | Eb . . . . . |
 5 | 5 . #4 5 . 6 | 5 . #4 5 . 5 | (1' . . 1' .) 6 | (1' . . 1' .) 5 |
+~ . . . Bb . . | Fm . . Bb . . | Eb . . Bb7 . . | Eb . . . . |]
 1' . 1' 7 . 6 | 6 . . 5 . . | 5 . . 4 . 4 | (3 . . 3 .) |]
 > Sai ro ma ho, sai ro ma ho, sai ro ma ho, a-dong do ha-so-na-ngan, sai ro ma ho.
 #V

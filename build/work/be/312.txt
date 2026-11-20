@@ -12,12 +12,16 @@
 @check Birama "2 . ⁹" (akhir baris 3): tanda napas di atas titik → dibaca 2 . . (3 ketuk) + napas; balok tampak not 1/2 saja.
 @check Komponis tercetak "Gerhard Terteegen" (ejaan lazim: Gerhard Tersteegen).
 #A
+~ F . C | F . . | C . F |
 1 1 5 | 3 .+2 1 | 7, 6, 5, |
+~ Bb . . | C . . | F . . :|
 6, 7, 1 | 2 . . | 1 . 0 :|
 > Pu-ji, o jol-ma, Ma bo-na ni ha-ngo-lu-an-mu,
 > Na mar-mu-du-hon tong-tong nang ton-dim, nang da-ging-mu
 #B
+~ F . . | Bb . . | F . . | C7 . F | C . . |
 5 5 5 | 6 . . v | 3 4 5 | 5 .+4 3 | 2 . . v |
+~ F . C | F . . | C . . | F . . |]
 5, 6, 7, | 1 2 3 | 2 . . | 1 . . |]
 > Pu-ji tu-tu, sai ha-ho-lo-ngi bur-ju-na-pa-tu-pa-hon so-nang-mu.
 #V

@@ -15,18 +15,29 @@
 @check "1̇ . 2̇ 1̇" dengan garis atas ganda pada 2̇ 1̇ ditulis 1' .+.+2'+1' (balok: Bes4 1/4 bertitik + C5–Bes4 1/16).
 @check Garis birama ganda tercetak setelah "do-ngan." (akhir bait) — dipakai sebagai batas bagian A/B; bagian B = "Tuhanta ma mangaramoti, paima jumpang musengani" (diulang di tiap ayat).
 #A
+~ Bb . . . | . . . . |
 0 5 1' (2'+3') | 3' . . (2'+1') |
+~ F . . . | Bb . F . |
 2' . . (1'+6) | (1' .+.+2'+1') 5 . |
+~ Bb . F . | Bb . . . | F . Bb . |
 0 3 5 (6+5) | 5 . . (6+5) | 5 . . (6+1') |
+~ . . F . | Bb . . . |
 (1' .+.+2'+1') 5 . | 0 5 1' (2'+3') |
+~ . . . . | F . . . | Bb . F . |
 3' . . (2'+1') | 2' . . (1'+6) | (1' .+.+2'+1') 5 . |
+~ Bb . F . | Bb . F . | Bb . . . |
 0 3 5 (6+5) | 5 . . (6+5) | 5 . . (6+1') |
+~ . . . . |
 (1' .+.+2'+1') 5 . |
 > Mo-lo a-dong ting-ki pa-jum-pang, ing-kon a-dong ting-ki mar-si-rang, han-sit na i la-o mar-si-rang, a-la ro su-ni na mar-do-ngan.
 #B
+~ Bb . . . |
 0 3' 3' (2'+1') |
+~ F . . . | Bb . . . | F . Bb . |
 2' . . 1' | 3' . . 2' | (2' .+.+3'+2') 1' . |
+~ . . . . | F . . . |
 0 3' 3' (2'+1') | 2' . . (1'+2') |
+~ Bb . . . | F . Bb . |]
 3' . . 2' | (2'+3' 2'+1') 1' . |]
 > Tu-han-ta ma ma-nga-ra-mo-ti, pa-i-ma jum-pang mu-se-nga-ni.
 #V

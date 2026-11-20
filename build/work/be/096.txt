@@ -12,16 +12,23 @@
 @check Bagian Haleluya memakai volta (akhir 1 "4 . 4 3 . 2 | 3 ." lalu ulang; akhir 2 "4 . 4 3 . 2 | 1 ."); di sini ditulis dua kali berurutan (bagian B dan C).
 @check Ayat 2–4 di buku: ":,: Haleluya d.u." (= refrein Haleluya).
 #A
+~ G | . . D | G . . |
 5+.+.+5 | 5 .+3 2+.+.+3 | 1 5, v 1+.+.+1 |
+~ D7 . G | . . D | G . D | G . . |
 2 .+4 3+.+.+2 | 3 . v 5+.+.+5 | 5 .+3 2+.+.+3 | 1 5, v 1+.+.+1 |
+~ D7 . G | . . |
 2 .+4 3+.+.+2 | 1 . |
 > Nu-nga ta-lu ha-ma-te-an di-baen Tu-han Je-sus i; Ai na he-he do I-ba-na, son-gon na ni-dok-Na i.
 #B
+~ G | C . . |
 1+.+.+1 | 6 .+6 6+.+.+6 |
+~ G . . | D7 . G | . . |
 5 3 v 3+.+.+5 | 4 .+4 3+.+.+2 | 3 . |
 > Ha-le-lu-ya, Ha-le-lu-ya! Nu-nga he-he Je-sus i.
 #C
+~ G | C . . |
 1+.+.+1 | 6 .+6 6+.+.+6 |
+~ G . . | D7 . G | . . |]
 5 3 v 3+.+.+5 | 4 .+4 3+.+.+2 | 1 . |]
 > Ha-le-lu-ya, Ha-le-lu-ya! Nu-nga he-he Je-sus i.
 #V

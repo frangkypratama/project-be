@@ -17,24 +17,33 @@
 @check Pembanding lirik: baris 4, 7, 10, 12 beda ejaan; baris 11 pembanding tanpa "i" sesudah parasian dan ejaan lain untuk "ngolumni" (buku: "ngolumni", kemungkinan salah cetak) — ditulis apa adanya.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 764) | https://bukuende.wordpress.com/2013/06/16/molo-so-mar-tuhan-ho-buku-ende-no-764-buku-logu-no-764/ | teks ayat
 #A 4/4
+~ Gm . Bb . |
 3+3 6 .+1' 1'+7 |
 > Mo-lo so mar-Tu-han
 #B 3/4
+~ Eb . . | Bb . F |
 6 0 1'+2' | (3' 1') 7 |
 > ho tung da-ngol do
 #C 4/4
+~ Bb . . . |
 1' . 0 3+3 |
 > ho, mo-lo
 #D 3/4
+~ Bb . . | Eb . . | . . F7 |
 (3' 2') 1' | 4'+.+.+4' 4' . | 4' . 4' |
+~ Bb . . | . . F | Bb . . |
 4'+.+.+3' 3' 3'+2' | (1' 7) 2' | 1' . 0 |
 > mar-sak ro-ha-mi i-se ma na ro ma-nga-pu-li ho?
 #E 4/4
+~ Bb . Eb . | Bb . . . | . . . . | F . . . |
 3 .+3 6+1' 7+6 | (3' . . . | 3') 0+1' 3' #4' | 5' . 0 0 |
+~ Bb . . . |
 3' . . 3' |
 > Ai pun-jung ma ho-lan ho, di ar-sak-mi Je-sus
 #F 3/4
+~ F7 . . | Cm . . | F7 . Bb |
 (5' 4') 4' | 4' . 4' | (4' 3') 3'+2' |
+~ . . F | Bb . F | Bb . F | Bb . . |]
 (1' 7) 2' | 1' .+3' 2' | (1' 7) 2' | 1' . 0 |]
 > i ma do-ngan-mi a-la-ni sai ro ti-op Je-sus i.
 #V

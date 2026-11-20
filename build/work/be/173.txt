@@ -11,9 +11,13 @@
 @check Tahun kredit dicetak 1916; W. H. Doane wafat 1915 — ditulis sesuai buku.
 @check Ayat 2–4 menulis ":,:" (ulang "Mulak, mulak ma ho!") sesuai buku.
 #A
+~ Eb | Bb . Eb . | . . . . | Ab . Eb . |
 5 | 5 . 3 3 | 3 . 1 5+5 | 6 . 5 3 |
+~ Bb . . . | . . Eb . | . . . . | Bb . Eb . |
 2 . . v 2+2 | 2 . 3 4 | (3 . 5) 3+1 | 2 . 3 4 |
+~ . . . . | Ab . . . | Bb . Eb . | Fm . Bb7 . |
 (3 . 5) 0 | (6 . 6)+1' 7+6 | 5 . . 3 | 2 . 5 4+2 |
+~ Eb . . . | Ab . Bb7 . | Eb . . . | . . Bb7 . | Eb . . |]
 1 . . 0 | 4 . . . | 3 . . . | 5 . 4 2 | 1 . . |]
 > Sai mu-lak, sai mu-lak Ho naung lao ja-lang i! Ai na dao ho nu-aeng, Ho-lang si-an-tu-am. o par-ja-lang, ho! Mu-lak, mu-lak ma ho! Mu-lak, mu-lak ma ho
 #V

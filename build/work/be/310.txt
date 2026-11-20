@@ -11,8 +11,11 @@
 @check PERLU DICEK: angka memakai do = A (not 1 di A4), tetapi balok bertanda mula 2 kres (D mayor), sehingga not 7 di balok = G (bukan Gis). Angka ditulis apa adanya (@key A).
 @check Salah cetak dibiarkan: ayat 5 "Sipangubungm parngolu", ayat 7 "Thannami" (kemungkinan Tuhannami).
 #A
+~ A | . . E | F#m . D | E . . | A . . | F#m . Bm |
 1 | 1 . 7, | 6, . 1 | 2 . . | 1 . v 1 | 1 . 2 |
+~ E . . | A . . | E . . | A . . | E . A | E . . |
 7, . 2 | 1 . . | 7, . v 7, | 1 . 1 | 2 . 3 | 2 . . |
+~ . . A | E7 . A | E . A | E . . | A . |]
 2 . v 3 | 4 . 3 | 2 . 1 | 2 . . | 1 . |]
 > Ta-pu-ji ma Tu-han-ta di-baen deng-gan ba-sa-Na. I ma si-pa-ngu-non-ta, naung si-dung di jo-lon-ta.
 #V

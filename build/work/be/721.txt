@@ -12,11 +12,17 @@
 @check Pembanding lirik: baris 2, 3, 4, 6, 11 beda ejaan (rohanang, na jat/najat, pangagoi, ahu, Gok). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 721) | https://bukuende.wordpress.com/2013/06/16/o-debata-urasi-buku-ende-no-721-buku-logu-no-721/ | proofreading per baris
 #A
+~ F . . | . . C | F . . | . . . | . . C |
 3 . . | 1 . 2 | (3 . . | 3) . 3 | 3 . 2 |
+~ Gm . C | F . . | . . . | . . . | C . D |
 4 . 7, | (1 . . | 1 . .) | 1 . . | 2 . #1 |
+~ F . . | . . . | C . F | C . F | C . . | . . . |
 3 . . | 1 . . | 2 . 1 | 7, . 1 | (2 . . | 2 . .) |
+~ F . . | . . C | F . . | . . . | . . C |
 3 . . | 1 . 2 | (3 . . | 3) . 3 | 3 . 2 |
+~ Gm . C | F . . | . . . | C . . |
 4 . 7, | 1 . . | 1 . . | 2 . 2 |
+~ F . . | C7 . F | Bb . . | C . . | F . . | . . . |]
 3 . 1 | 4 . 3 | 6, . . | 7, . . | (1 . . | 1 . .) |]
 > O De-ba-ta u-ra-si ton-ding-ki su-ling-kit ro-ha-nang ping-ki-ran-ki, mo-lo a-dong na-jat di ro-hang-ki pa-lu-a au si-an pa-nga-go-i.
 #V

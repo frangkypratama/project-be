@@ -14,21 +14,31 @@
 @check Pembanding lirik: 7 baris beda, terutama pemisahan kata pada teks ayat 1 yang disusun dari lirik di bawah not (denggan basaNa, Nabadia, tarrante, dll.). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 726) | https://bukuende.wordpress.com/2013/06/13/hamu-jinou-ni-tuhanta-buku-ende-no-726-buku-logu-no-726/ | proofreading per baris
 #A
+~ Eb . . . | Bb . Eb . |
 5 5+5 5+5 5+6 | (6+.+.+5) 5 .+3 3+2 |
+~ . . Bb . | Eb . . . |
 1+1 . 2+.+.+1 2+3 | 3 . 0+3 3+2 |
+~ . . Bb . | Eb . . . |
 1+1 .+1 2+.+.+1 2+3 | 3 . 0+3 3+2 |
+~ . . Bb . | Eb . . . :|
 1+1 .+3 2+.+.+3 (2+1+2)+1 | 1 . . 0 :|
 > Ha-mu ji-no-u ni Tu han-ta, si-an na ho-lom, tu na ti-ur i la-o man-ja-lo deng-gan ba-sa-Na i la-o man-ja-lo deng-gan-ba-sa-Na i.
 > Ha-mu do mar-ga pi-ni-lit-Na, bang-so ni Tu-han, Na-ba di-a i ho-um nang ma lim pi-na-bang kit-Na i ma ma-ri-ta-hon deng-gan-ba sa-Na i,
 #B
+~ Eb . | Bb . Eb . |
 0+1' 1'+1' | 2' .+1' 1'+6 5+5 |
+~ . . . . | Ab . Bb . |
 (3+.+.+5) 5 0+5 5+3 | 6 .+5 2+3 5+5 |
+~ Cm . Eb . | Bb . Eb . |
 (3 6) 5+1' 1'+1' | 2' .+1' 1'+6 5+5 |
+~ . . . . | Ab . Bb . |
 3+.+.+5 5 0+5 5+3 | 6 .+5 2+5 3+2 |
+~ Eb . . . :|
 1 . . 0 :|
 > Di-dok Tu-han-ta do tu Hu-ri-a-Na po-dai ha-mu ma sa-lu-hut-na bang-so, bo-an ha-mu ma ba-ri-ta-na u-li i tu sa-lu-hut na na ti-nom pa i.
 > U-ru-pi hi-ta ma ang-ka na po-gos pa-lu-a ang-ka jol-ma na tar-ran-te, a-pu-li hi-ta ma ang-ka na mar-sak i ta-baen mar-ni-da na ma-pi-tung i.
 #C
+~ Ab . . . | Eb . . |]
 (6 . 1' .) | (1' . 1') |]
 > A-men.
 #V

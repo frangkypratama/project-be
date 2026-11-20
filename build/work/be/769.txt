@@ -13,12 +13,17 @@
 @check Birama sebelum "Refrein" tercetak "1̇ . 1̇" (balok: 1̇ panjang diikat ke 1̇ 1/8); ditulis 3 ketuk apa adanya angka. Not akhir tercetak "1̇ ." (balok tampak 1/2 bertitik).
 @check Angka "1 6 7 1" di refrein baris 2 tanpa titik atas; balok = C5 A4 B4 C5 → ditulis 1' 6 7 1'. "2 . 2" berikutnya: balok D5 → 2'.
 #A
+~ C . | . . . . | Dm . G7 . |
 0+5 6+5 | 3 .+5 1'+7 2'+1' | (2 . 2)+3 4+5 |
+~ . . . . | C . G . | C . . . |
 7 .+6 2+3 4+5 | (5 . 5)+5 6+5 | (3 . 3)+1' 2'+1' |
+~ F . . . | G . C . | . . . |]
 (1' . 1')+1' 7+6 | 5+6 7+1' 1' 7 | (1' . 1') |]
 > Tu De-ba-ta do pang-hi-ri-mon-ki, di ta-no laut nang a-wang-a-wang i, I-ba-na do ha-po-san-ki, tong-tong do di ra-mo-ti lang-kang-ki.
 #B
+~ C . | G . C . | G . C . | F . . . | G . . . |
 0+5 5+5 | 2' .+2' 3'+2' 2'+1' | (5 . 5)+1' 1'+1' | 1' .+1' 1'+6 7+1' | (2' . 2')+5 5+5 |
+~ C . . . | F . . . | G . C . | . . |]
 (3' . 3')+1' 2'+1' | (1' . 1')+1' 7+6 | 5+6 7+1' 1' 7 | 1' . |]
 > To-rop pe ma-ra ma-na-ho-pi au, De-ba-tang ki do su-ma-ri-hon au, pos ro-hang-ki, so-nang do au I-ba-na do na man-do-nga-ni au.
 #V

@@ -11,7 +11,9 @@
 @check Pembanding lirik: bukuende.wordpress.com — 25 dari 30 baris sama persis; 5 baris beda (termasuk “mnatap”, “boasa na tungki”, “maambaen”). Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 12) | https://bukuende.wordpress.com/2013/06/13/dipuji-rohangkon-do-ho-buku-ende-no-12-buku-logu-no-150/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ G . C . | G . D . | G . D . | G . D7 . | G . D . | G . . . |
 1 . 6, 5, | 1 . 2 . | 3 3 2 . | 0 3 5 4 | 3 . 2 . | 1 . . . |
+~ D . G . | C . G . | C . D . | G . C . | G . D . | G . . . |]
 5 . 3 5 | 6 . 5 . | 4 3 2 . | 0 5 1 4 | 3 . 2 . | 1 . . . |]
 > Di pu-ji ro-hang-kon do Ho, Ja-ho-wa, Tu-han-ki Hu-hut hu ba-ri-ta-hon do Su-de pam-bae-nan-Mi.
 #V

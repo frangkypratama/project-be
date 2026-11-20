@@ -13,13 +13,19 @@
 @check Birama "2 . ' 1": titik oktaf di atas 1 tidak terlihat jelas, not balok Es5 → ditulis 1'. "4*" bertanda pugar di not balok (A) → #4.
 @check Ayat 1 disusun dari lirik di bawah not; "ginjang" tercetak tanpa tanda pemenggalan (ditulis gin-jang).
 #A
+~ Eb . . . | . . . . | Bb7 . Fm . |
 1' . 5 3 | 1 . v 0 3 | 4 5 6 6 |
+~ Bb . Fm . | Bb . Eb . | Bb . Eb . |
 5 . 0 6 | 5 2 3 #4 | 5 . . . |
 > Je-ru-sa-lem, ho, hu-ta na tim-bo, ang-gi-at au di ho!
 #B
+~ Eb . . . | . . . . | Bb7 . Fm . |
 1' . 5 3 | 1 . v 0 3 | 4 5 6 6 |
+~ Bb . Fm . | Bb . Eb . | Bb . Eb . |
 5 . 0 6 | 5 2 3 #4 | 5 . . v 6 |
+~ Ab . . . | Bb . Eb . | Ab . . . | Bb . Eb . |
 6 .+7 1' 6 | 5 . 3 v 5 | 6 5 4 3 | 2 . v 1' . |
+~ Ab . . . | Bb7 . Eb . | Ab . Bb . | Eb . . . |]
 6 5 4 3 | (2 3+4) 5 v 3 | 4 3 2 2 | 1 . . . |]
 > Ma-si-hol au, hu-hut ma-lu-ngun do sai naeng ma-no-pot ho. Dao si-an laut nang ta-no, dao si-an om-bun i, tu gin-jang ni su-de-na do bor-hat ro-hang-ki.
 #V

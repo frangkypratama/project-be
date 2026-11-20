@@ -12,12 +12,17 @@
 @check Buku tidak mencetak "Logu No." untuk lagu ini (bagian suplemen); ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut "Buku Logu No. 612".
 @check do = Bes3 (not 5 = F4, 1̇ = Bes4 di not balok) → @oct -1.
 #A
+~ Bb . . . | . . . . |
 5 3 1' 5 | 3' .+2' 1' 5 |
+~ Eb . Bb . | F7 . Bb . |
 6 6 5 1' | 5 4 3 . |
+~ . . . . | . . . . |
 5 3 1' 5 | 3' .+2' 1' 7 |
+~ Eb . . . | F . Bb . |]
 1' 7 6 (7+1') | 7 6 5 . |]
 > Sai pa-her-bang ma ha-bong-mu ang-ka par-di-sur-go i, ba-ri-ta-hon nu-nga tu-bu Si-pa-lu-a jol-ma i,
 #B
+~ F . . . | Bb . Gm . | Cm . F . | Bb . . . |]
 2' .+2' 7 5 | 3' .+2' 1' 6 | 4' 3' 2' 1' | 1' 7 1' . |]
 > Be-ta hi-ta lao ma-nom-ba Ra-ja Si-pa-lu-a i.
 #V

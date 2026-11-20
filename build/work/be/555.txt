@@ -11,7 +11,9 @@
 @check Pembanding lirik: sama. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 555) | https://bukuende.wordpress.com/2013/06/18/tuhanku-di-au-buku-ende-no-555-buku-logu-no-418/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ Cm | G7 . Cm | . . G | Cm . . |
 6, | 3 .+2 3 | 1 . 3 | 6 .+7 1' |
+~ . . . | G7 . Cm | G . Cm | . . . | . . :|
 6 .+#5 6 | 3 . (1+2) | 3 3 (6,+7,) | 1 .+7, 6, | 6, . :|
 > Tu-han-ku di au, tu sur-go au lao, sai Je-sus sam-bing si-hol ni ro-hang-ki.
 #V

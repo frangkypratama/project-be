@@ -13,16 +13,23 @@
 @check Bagian ulang ||: … :|| dengan volta 1 ("3 . .") dan volta 2 ("1 . ."): ditulis dua kali (bagian B = volta 1, bagian C = volta 2) dengan lirik sama.
 @check Pemenggalan "tanganNa" → ta-ngan-Na, "ganup" → ga-nup (dua not).
 #A
+~ Eb | Ab . . . |
 5 | 1' 1'+1' 1' (7+6) |
+~ Bb . Eb . | Ab . . . |
 5 5+6 5 4+3 | 4 4+4 (4+6) 5+4 |
+~ Bb . Eb |
 5 . 3 |
 > Tu De-ba-ta-mi na sun go-go i sai ma-po-rus ma ho ga-nup a-ri
 #B
+~ Eb | Ab . . . | Bb . Eb . |
 1+1 | 6 6+6 6 7+1' | 5 5 5 4+3 |
+~ Fm . Bb7 . | Eb . . |
 2 2+2 2+4 3+2 | 3 . . |
 > Di ta-ngan-Na do ho mo-lo mu-su ro tung na so-nang di am-pu-an-Na ho.
 #C
+~ Eb | Ab . . . | Bb . Eb . |
 1+1 | 6 6+6 6 7+1' | 5 5 5 4+3 |
+~ Fm . Bb7 . | Eb . . |]
 2 2+2 2+4 3+2 | 1 . . |]
 > Di ta-ngan-Na do ho mo-lo mu-su ro tung na so-nang di am-pu-an-Na ho.
 #V

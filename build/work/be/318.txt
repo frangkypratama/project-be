@@ -11,8 +11,11 @@
 @check Tanda ulang ":‖" di akhir lagu tercetak, tetapi hanya satu baris lirik; satu ayat (2 baris) sudah memakai seluruh melodi (28 not).
 @check Birama "1 . 1̄ 1̄ 1̄ 7̄ 1̄" = 1/4 bertitik + lima 1/8 (sesuai balok). "3 2 . 0" dengan busur = 3 legato ke 2 (1/2) lalu diam.
 #A
+~ F . . . | Dm . Gm . |
 1 .+1 1+1 7,+1 | (3 2) . 0 |
+~ C . . . | C7 . F . | . . . . |
 2 .+2 2+2 1+2 | (4 3) . 0 | 3 .+3 3+3 2+1 |
+~ Bb . . . | F . C7 . | F . . . :|
 6 . . 0 | 5 .+3 5+4 6,+7, | 1 . . 0 :|
 > Nu-nga lo-ja da-ging-kon, Naeng ma pit-pit ma-tang-kon, o Tu-han-ku, ma-ta-Mi du-ngo di po-do-man-ki
 #V

@@ -11,8 +11,11 @@
 @check Pembanding lirik: bukuende.wordpress.com — 15 dari 18 baris sama persis; 3 baris beda pemisahan kata. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti tulisan di buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 14) | https://bukuende.wordpress.com/2013/06/16/puji-hamu-jahowa-tutu-buku-ende-no-14-buku-logu-no-57/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Bb . . . | F . . . | Bb . F . | Bb . . . | F7 . Bb . |
 1 . 3 1 | 5 . 0 5 | 1' . 2' 2' | 3' . 0 3' | 4' . 3' . |
+~ . . F . | Bb . . . | Gm . Cm . | F . Bb . | . . . . |
 3' . 2' v 2' | 3' 2' 1' 7 | 6 . 2' . | (2' 1') (1' 7) | 1' v 3' 3' 3' |
+~ Eb . F . | Bb . . . | F . . . | Bb . . . |]
 4' . 2' . | 3' v 1' 1' 1' | 2' . 7 . | 1' . . 0 |]
 > Pu-ji ha-mu Ja-ho-wa tu-tu, par-deng-gan ba-sa, par-a-si-ro-ha sa-le-leng-na i; Par-deng-gan ba-sa i, par-a-si-ro-ha i.
 #V

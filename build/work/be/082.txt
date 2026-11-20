@@ -11,8 +11,11 @@
 @check Baris kredit terpotong di scan ("Lagu Grafschaft Glatz Schlesien cbad 1?"); tahun tidak terbaca.
 @check Birama 6 dicetak "1  2 3" tanpa titik; not balok buku menunjukkan 1 sebagai not 1/2.
 #A
+~ G . Am . | D7 . G . | . . D7 . | G . Am . | D . G . |
 1 . 2 . | (4 3) 3 . v | 5 . (4 3) | (3 2) 2 . v | 2 . (3 2) |
+~ Em . Am . | D7 . G . | D . . . | . . G . | Em . Am . |
 1 . (2 3) | 4 . 3 . | 2 . . 0 | 2 . (3 4) | (3 2) 2 . v |
+~ D . G . | . . D . | G . D . | G . D7 . | G . D . | G . . . |]
 2 . (3 4) | (3 2) 2 . v | 1 . 2 . | 3 . (5 4) | 3 . 2 . | 1 . . 0 |]
 > O Je-sus-ku, tu-bu-gang-Mu ro mar-som-ba ro-hang-kon. Sai tar-pu-ji, sai tar-pu-ji na pa-ma-lum ton-ding-kon.
 #V

@@ -17,15 +17,20 @@
 @check Pembanding lirik: baris 2, 3, 5, 6, 15, 17, 19 beda; ayat 4 tercetak "Jesuu" (salah cetak). Baris yang beda dicek ulang ke scan; tulisan buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 731) | https://bukuende.wordpress.com/2013/06/09/benget-ma-ho-buku-ende-no-731-buku-logu-no-731/ | proofreading per baris
 #A
+~ Bb . . | F . . . | Bb . . . | . . Eb . |
 1' 7 1' | 2' . . 5 | 1' 7 1' 2' | 3' 3' 6 (4'+3') |
+~ F . Bb . :|
 2' 2' 1' . :|
 > Ben-get ma ho di pa-rung-ki-lon-mi ai Je-sus do-ngan-mi,
 > ben-get ma ho ra-his pe da lan i di ti-op ta-ngan-mi
 #B
+~ Bb . . | F . Cm . | F . |
 5 1' 1' | 7 6 2' 6 | 7 . |
 > Na ro do Ra-ja Si-par-mo
 #C
+~ Cm . Dm . | Eb . . . |
 6 2' 3' 7 | 1' 1' 4' 3' |
+~ F . . . | Cm . F . | Bb |]
 2' 1' 2' 5 | 6 . 7 . | 1' |]
 > nang lao ma-ngu-ru-pi a-sa mo _ nang, ben-get ma ho.
 #V

@@ -10,9 +10,13 @@
 @check Pembanding lirik: L3 kata 4 ("baenon Mi") beda penulisan; buku dipakai.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 223) | https://bukuende.wordpress.com/2013/06/13/husomba-ho-tuhan-buku-ende-no-223-buku-logu-no-244/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Ab . Eb . | Fm . Eb . | Ab . . . | Eb . . . |
 3 . 2 1 | 6, 1 5, . | 3 . 1 3 | 2 . . 0 |
+~ Ab . Eb . | Fm . Db . | Ab . . . | . . . . |
 3 . 2 1 | 1 6, 6, . | (5, 1) 3 2 | 1 . . . |
+~ . . . . | Db . Eb . | Bbm . . . | Eb7 . Ab . |
 3 . 3 3 | 4 3 2 . | 2 . 2 4 | 4 3 3 . |
+~ Eb . Fm . | Db . . . | Ab . . . | . . . . |]
 2 . 1 6, | 6, . . 0 | (5, 1) 3 2 | 1 . . . |]
 > Hu-som-ba Ho Tu-han, ta-ngi-hon au! Sang-kap-mu ma tong-tong pa-saut tu au; Lam gan-da bae-non Mi ho-long ni ro-hang-ki Sai lam gan-dai ho-long tu Ho
 #V

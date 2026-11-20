@@ -13,11 +13,17 @@
 @check Pembanding lirik: bukuende.wordpress.com — baris 1 'Haholongon' (pembanding: Haholongan) beda ejaan. Kata yang berbeda sudah dicek ulang ke scan: transkripsi mengikuti buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 640) | https://bukuende.wordpress.com/2013/06/13/haholongan-sian-ginjang-buku-ende-no-640-buku-logu-no-640/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ A . D . | A . Bm . | E . F#m . | E7 . A . |
 5, 5, 6, 5, | 3 (2+3) 2 1 | 7, 6, 1 6, | 5, (4,+5,) 3, . |
+~ . . D . | A . E . | D . A . |
 5, 5, 6, 5, | 3 (2+3) 2 1 | 6, 4 3 1 |
+~ E . A . | . . . . |
 7, (6,+7,) 1 . | 1 1 1 7, |
+~ D . C#7 . | F#m . Bm . |
 6, (7,+6,) #5, 3, | 3 3 4 3 |
+~ E . . . | A . D . |
 2 (2+3) 2 . | 5, 5, 6, 5, |
+~ A . E . | D . A . | E . A . |]
 3 (2+3) 2 1 | 6, 4 3 1 | 7, (6,+7,) 1 . |]
 > Ha-ho-lo-ngon si-an gin-jang las ni ro-ha na hot i tum-pal ni a-si ni ro-ha sai bo-ngo-ti ro-hang-ki, Je-sus na gok a-si ro-ha do-hot ha-ho-lo-ngon i baen ma-lu-a baen mar-tu-a ha-mi na-ta-hu-tan i.
 #V

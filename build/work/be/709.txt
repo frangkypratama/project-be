@@ -12,11 +12,15 @@
 @check Pembanding lirik: bukuende.wordpress.com — pembanding tanpa "do" (tong do nampunaNa), beda ejaan mangasi/mangisi, sei, jaga; buku dicek ulang: "tong do" dan "si jaga" memang tercetak. Buku tetap acuan. (Pembanding menulis "Buku Logu No. 709"; buku sendiri tidak mencetak nomor Logu.)
 @ref Lirik pembanding: bukuende.wordpress.com (BE 709) | https://bukuende.wordpress.com/2013/06/16/jesus-mangasi-i-au-buku-ende-no-709-buku-logu-no-709/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ D . | . . | G . | A . |
 5+3 3+2 | 3+5 5 | 6+6 1'+6 | 6+5 5 |
+~ D . | . . | G . | D . |]
 5+3 3+2 | 3+5 5 | 6+6 5+1 | 3+2 1 |]
 > Je-sus ma-nga-si i au Bi-bel i man-dok tu au nang ga-le, met-met pe au tong do nam-pu-na-Na au
 #B
+~ D . | G . | D . | A . |
 5 3+5 | 6+1' . | 5 3+1 | 3+2 . |
+~ D . | G . | A . | D . |]
 5 3+5 | 6+1' .+6 | 5+.+.+1 3+2 | 1 . |]
 > Je-sus Tu-han-ku nam-pu-na a-hu sei pos ro-hang-ku Bi-bel man-dok tu au
 #V

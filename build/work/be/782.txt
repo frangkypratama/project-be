@@ -11,7 +11,9 @@
 @check Buku tidak mencetak "Logu No." → @bl 0.
 @check Birama 6: "1 . 7" diberi legato di angka dan balok (1' setengah not bersambung ke 7) → satu suku kata "hi".
 #A
+~ D . A7 . | D . A . | D . G . | A . . . |
 5 .+6 5 4 | 3 . 2 . | 1 (2+3) 4 3 | 2 . . 0 |
+~ D . G . | D . A . | D . A7 . | D . . . |]
 3 5 6 5 | (1' . 7) 6 | 5 (4+3) 4 5 | 3 . . 0 |]
 > Tu-han De-ba-tan-ta Si-pa-nom-pa i, na ma-nan-da hi-ta A-nak-kon-Na i.
 #V

@@ -10,9 +10,13 @@
 @ref Lirik pembanding: bukuende.wordpress.com (BE 288) | https://bukuende.wordpress.com/2013/06/16/na-marguru-do-luhutna-buku-ende-no-288-buku-logu-no-96/ | 14/18 baris sama
 @check Kredit tercetak "Johann Lhner" (kemungkinan salah cetak Löhner) — ditulis apa adanya.
 #A
+~ F . . . | C7 . F . | . . C . |
 1 1 5 3 | 4 5 3 1 v | 3 3 2 3 |
+~ F . C . | . . . . | . . . . |
 1 2 7, 5, | 7, 1 2 3 | 2 1 7, . v |
+~ . . F . | C7 . F . | . . C . |
 2 2 5 3 | 4 5 3 1 v | 3 3 2 3 |
+~ F . C . | F . Bb . | C . F . |]
 1 2 7, 5, v | 1 (2+3) 4 3 | 2 2 1 . |]
 > Na mar-gu-ru do lu-hut-na Di Ja-ho-wa, De-ba-tan-ta, do-hot pa-num-pak-Na i; na-sa na mar-pos ni ro-ha, na mang-ki-rim di Ja-ho-wa, I do na mar-tu-a i.
 #V

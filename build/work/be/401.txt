@@ -12,14 +12,19 @@
 @check Pembanding lirik: bukuende.wordpress.com — 8/12 baris sama; beda di baris 1–4: pembanding menulis "matua" (buku di bawah not: ma | tu-a; teks ayat kini ditulis matua), "tu si", "jeani", dan baris refrein ke-2 tanpa "Sirang" serta "Holong"; scan dicek ulang: buku mencetak "ho-lang" dan "Sirang" (bertumpuk dengan "Tanda"). Pembanding 3 ayat, sama dgn buku.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 401) | https://bukuende.wordpress.com/2013/06/09/boasa-sai-tong-di-na-alang-buku-ende-no-401-buku-logu-no-267/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ A | . . . B . . | E . . A . . |
 5, | 5, 5, 5, 6, 5, #4, | 5, . . 1 . 1 |
+~ E . . . . . | A . . . . . | E . . . . . |
 2 2 2 2 1 2 | (3 . . 3 .) 5, | 5, 5, 5, 7, 6, 5, |
+~ A . . . . . | . . . E . . | A . . . . . |
 5, . . 1 . 2 | 3 4 3 2 6, 7, | (1 . . 1 .) 0 |
 > Bo-a-sa sai tong di na a-lang, ma-tu-a so pu-tus ro-ham? Ndang gi-ot ho ma-suk tu gin-jang? Pa-to-ngon tu-si ma lang-kam!
 #B
+~ A . . . . . | D . . . . . | E . . . . . | . . . A . . |
 3 . . 1 . 0 | 1 . . 6, . 0 | 5, 5, 5, 7, 6, 5, | (5, . . 1 .) 0 |
 > Tan-da je-a ni na a-lang ro-ha i
 #C
+~ A . . . . . | D . . . . . | E . . . . . | A . . . . |]
 3 . . 1 . 0 | 1 . . 6, . 0 | 5, 5, 5, 7, 6, 5, | (1 . . 1 .) |]
 > Si-rang ho-lang dao si-rang da-me do i
 #V

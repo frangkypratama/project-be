@@ -9,15 +9,22 @@
 @check Pembanding lirik: baris 3, 4, 10, 22 beda ejaan; baris 8 ("ni") dan 16 ("Jesus") kata lebih di buku — dicek ulang di scan, tercetak demikian.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 168) | https://bukuende.wordpress.com/2013/06/13/disesa-jesus-dosa-buku-ende-no-168-buku-logu-no-215/ | 24/30 baris sama
 #A
+~ F | C . . . | F . . . | C . F . |
 3 | 5 5 5 6 | 3 2 1 . | 0 2 3 2 |
+~ . . . . | C . F . :|
 3 #4 5 1 | (7, 6,) 5, . :|
 > Di-se-sa Je-sus do-sa ni su-de, na o-lo ma-ngar-sak-kon
 > Na so um-bo-to da-lan be, a-sa da-po-tan ha-lu-a-on;
 #B
+~ C . . . | C7 . F . |
 0 2 2 3 | 4 4 3 3 |
+~ Gm . . . | C7 . F . | C . . . | F . . . |
 2 . 0 4 | 4 4 3 (2+1) | 7, 1 2 . | 0 3 1 7, |
+~ Bb . . . | . . . . | F . . . | . . . . |
 6, 7, 6, #5, | 6, . 6, . | 0 3 3 2 | 1 2 1 7, |
+~ Bb . . . | C . F . | . . . . | C . . . |
 6, . 6, . | 0 5, 1 1 | 1 7, (1+2) 3 | 2 . 0 5 |
+~ F . Bb . | F . . . | . . . . | Bb . F . | . . . . |]
 3 2 1 4 | 3 2 1 . | 0 3 5 3 | 1 4 3 2 | 1 . . . |]
 > Pon-jot ro-ha-na si-tu-tu, di-ri-na di-to-rui bur-ju, naung bi-nu-ra-an ni si Mu-sa, na-si-da be do di-hi-la-la. Di ang-ka i do ha-ta i: di-se-sa Je-sus do-sa i, di-se-sa Je-sus do-sa i
 #V

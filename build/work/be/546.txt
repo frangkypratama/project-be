@@ -12,10 +12,15 @@
 @check Pembanding lirik: baris 3,5,8 beda ejaan satu kata. Transkripsi tetap mengikuti tulisan buku (dibaca dari scan 420 dpi); kata yang beda belum di-zoom satu per satu.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 546) | https://bukuende.wordpress.com/2013/06/18/tung-martua-do-buku-ende-no-546-logu-no-375/ | Pembanding lirik (ejaan & tanda baca diabaikan).
 #A
+~ F . Gm . | C7 . F . | . . Bb . |
 3 .+2 2 1 | 4 .+3 3 2 | 3 5 6 5 |
+~ C7 . . . | F . Gm . | C7 . F . | . . . . |
 4 (3+5) 2 . | 3 .+2 2 1 | 4 .+3 3 2 | 3 #4 5 6 |
+~ C . F . | Gm . C7 . | F . . . |
 7 6 5 . | 2 2 4 3 | 5 (4+3) 3 2 |
+~ Gm . . . | C7 . . . | F . Gm . |
 2 (3+4) 6 5 | 4 (3+5) 2 . | 3 .+2 2 1 |
+~ C7 . F . | . . Bb . | F . . . |]
 4 .+3 3 2 | 5 (4+3) 6 (5+4) | 3 2 1 . |]
 > Tung mar-tu-a do ro-hang-ku nang di ha-su-sa-an on, Pan-di-lo-an ni ro-hang-ku do hu-ung-kap Sai tong-tong, Sai mar-sing-gang au mang-hoi-hon ar-sak na di ro-hang-ki, Sai hu-ta-tap ma hu-tang-ku, Si-on, na di gin-jang i.
 #V

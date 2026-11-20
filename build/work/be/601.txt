@@ -14,13 +14,18 @@
 @check Ayat 3 baris 3 tercetak "P dakdanak" (kemungkinan salah cetak); ditulis apa adanya.
 @check Tidak ada tanda birama yang terbaca jelas; dipakai 4/4 sesuai isi birama (4 ketuk) dan ketukan gantung 2 ketuk.
 #A
+~ C . | F . . . |
 5, 7, | 1 .+1 (1+7,) (1+2) |
+~ C . F . | . . . . |
 2 1 1 3 | 5 .+3 (3+2) (1+7,) |
+~ . . :|
 1 . :|
 > Di hu-ta ni Ra-ja Da-ud tu-bu Si-pa-lu-a i,
 > Si Ma-ri-a pa-ngin-tu-bu na hi-pas di ba-ra i,
 #B
+~ Bb . | F . C7 . |
 6 6 | 5 .+1 4 4 |
+~ F . Bb . | F . . . | . . |]
 3 . 6 6 | 5 .+3 (3+2) (1+7,) | 1 . |]
 > Laos tu pang-ga-ga-tan i do di bor-hos Tu-han i.
 #V

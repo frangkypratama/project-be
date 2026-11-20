@@ -12,15 +12,20 @@
 @check Lirik di bawah not "Ha-tu-tu-bu-ni"; ayat 2 tercetak "Hututubu", ayat 3 "hatutubu" — ditulis apa adanya.
 @ref Lirik pembanding: bukuende.wordpress.com (BE 52) | https://bukuende.wordpress.com/2013/06/13/hatuaon-do-las-ni-roha-do-hatutubu-ni-jesus-i-buku-ende-no-52-buku-logu-no-550/ | Pembanding lirik (ejaan tanda baca diabaikan).
 #A
+~ Eb . Ab . | Bb7 . Eb . :|
 5 . 6 . | 5 .+4 (3 4) v :|
 > Ha-tu-a-on do
 > las ni ro-ha do
 #B
+~ Eb . . . | Ab . Bb . |
 5 . 5 . | 6 . 7 1' |
+~ . . Fm . | Bb . Eb . |]
 7 . 6 . | 5 . . 0 |]
 > Ha-tu-tu-bu-ni Je-sus i!
 #C
+~ Bb . . . | Bb7 . . . | Eb . . . |
 (2 .+3) 2 3 | (4 .+5) 4 . v | (3 .+4) 3 2 |
+~ Bb . . . | Eb . Cm . | Ab . Bb7 . | Eb . Bb . | Eb . . . :|
 (5 .+6) 5 . v | (1' 7) (6 5) | 1' 6 5 4 | 3 . 2 . | 1 . . 0 :|
 > Ma-go do jol-ma, Ro ma Tu-han-ta. Las be, las be ma ro-han-ta i!
 #V

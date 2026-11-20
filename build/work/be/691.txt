@@ -11,12 +11,17 @@
 @check Buku tidak mencetak nomor Logu; ditulis 0 (tidak dicantumkan); pembanding bukuende.wordpress.com menyebut Logu No. 691.
 @check Birama "1 . ." dan "3 . ." (akhir bait & tengah reff) tercetak dengan 2 titik, balok = not penuh (4 ketuk) → ditulis 4 ketuk. Not terakhir reff tercetak "| . . ." (angka 1 tidak tercetak), balok = Es4 penuh → ditulis 1 . . .
 #A
+~ Eb . . . | Bb . Eb . | Fm . Bb7 . |
 3 .+3 3+3 2+3 | 5 . 3 . | 2 .+2 5+5 4+2 |
+~ Eb . . . | . . . . | Bb . Eb . |
 3 . . . | 3 .+3 3+3 2+3 | 5 . 3 . |
+~ Fm . Bb7 . | Eb . . . |]
 2 .+2 5+5 4+2 | 1 . . . |]
 > Hu-pa-sa-hat ma tu Je-sus sa-lu-hut-na ngo-lung-ki, ro-ha nang pam-ba-e-nan-ku sa-lu-hut-na ting-king-ki.
 #B
+~ Ab . . . | Bb . Eb . | Fm . Bb7 . | Eb . . . |
 6 .+6 4+4 6+6 | 5 . 3 . | 2 .+2 5+5 4+2 | 3 . . . |
+~ Ab . . . | Bb . Eb . | Fm . Bb7 . | Eb . . . |]
 6 .+6 4+4 6+6 | 5 . 3 . | 2 .+2 5+5 4+2 | 1 . . . |]
 > Hu-pa-sa-hat ma tu Je-sus sa-lu-hut-na di-ring-ki, hu-pa-sa-hat ma tu Je-sus sa-lu-hut-na ngo-lung-ki.
 #V
