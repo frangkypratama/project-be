@@ -328,9 +328,9 @@ fun DetailScreen(hymns: List<Hymn>, start: Int, prefs: Prefs, onBack: () -> Unit
                 Spacer(Modifier.height(12.dp))
                 Row(verticalAlignment = Alignment.CenterVertically) {
                     Column(Modifier.weight(1f)) {
-                        Text("Akor iringan", style = MaterialTheme.typography.bodyLarge)
+                        Text("Chord", style = MaterialTheme.typography.bodyLarge)
                         Text(
-                            "Nama akor di not angka dan not balok, iringan ikut berbunyi",
+                            "Tampil di not angka dan not balok, ikut berbunyi saat diputar",
                             style = MaterialTheme.typography.bodyMedium,
                             color = MaterialTheme.colorScheme.onSurfaceVariant,
                         )

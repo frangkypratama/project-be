@@ -138,8 +138,8 @@ fun SettingsScreen(lib: Map<Book, List<Hymn>>, prefs: Prefs) {
             ListItem(
                 modifier = Modifier.clickable { prefs.useChords(!prefs.chordsOn) },
                 leadingContent = { Icon(Icons.Filled.Piano, null) },
-                headlineContent = { Text("Akor iringan") },
-                supportingContent = { Text("Tampilkan nama akor di not angka dan not balok, dan bunyikan iringannya saat diputar") },
+                headlineContent = { Text("Chord") },
+                supportingContent = { Text("Tampil di not angka dan not balok, ikut berbunyi saat diputar") },
                 trailingContent = { Switch(checked = prefs.chordsOn, onCheckedChange = { prefs.useChords(it) }) },
             )
             ListItem(

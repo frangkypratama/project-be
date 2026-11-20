@@ -96,9 +96,9 @@ class SettingsScreen extends StatelessWidget {
               ),
               SwitchListTile(
                 secondary: const Icon(Icons.piano),
-                title: const Text('Akor iringan'),
+                title: const Text('Chord'),
                 subtitle: const Text(
-                    'Tampilkan nama akor di not angka dan not balok, dan bunyikan iringannya saat diputar'),
+                    'Tampil di not angka dan not balok, ikut berbunyi saat diputar'),
                 value: prefs.chordsOn,
                 onChanged: prefs.setChordsOn,
               ),

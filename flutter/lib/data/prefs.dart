@@ -12,7 +12,7 @@ class Prefs extends ChangeNotifier {
         _defaultView = _clampInt(_sp.getInt(_kView) ?? 1, 0, 3),
         _keepScreenOn = _sp.getBool(_kScreenOn) ?? true,
         _playAllVerses = _sp.getBool(_kAllVerses) ?? true,
-        _chordsOn = _sp.getBool(_kChords) ?? false,
+        _chordsOn = _sp.getBool(_kChords) ?? true,
         _favorites = _readList(_sp, _kFav),
         _history = _readList(_sp, _kHist) {
     if (_history.length > maxHistory) {

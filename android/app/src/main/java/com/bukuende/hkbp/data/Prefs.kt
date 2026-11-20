@@ -27,7 +27,7 @@ class Prefs(ctx: Context) {
     var playAllVerses by mutableStateOf(sp.getBoolean("allVerses", true))
         private set
     /** Akor iringan: tampil di not angka/balok dan berbunyi saat diputar. Bawaan: mati. */
-    var chordsOn by mutableStateOf(sp.getBoolean("chords", false))
+    var chordsOn by mutableStateOf(sp.getBoolean("chords", true))
         private set
 
     val favorites = mutableStateListOf<String>().apply {

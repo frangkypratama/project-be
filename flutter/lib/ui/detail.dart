@@ -431,9 +431,9 @@ class _DetailScreenState extends State<DetailScreen> {
                               child: Column(
                                 crossAxisAlignment: CrossAxisAlignment.start,
                                 children: <Widget>[
-                                  Text('Akor iringan', style: t.textTheme.bodyLarge),
+                                  Text('Chord', style: t.textTheme.bodyLarge),
                                   Text(
-                                    'Nama akor di not angka dan not balok, iringan ikut berbunyi',
+                                    'Tampil di not angka dan not balok, ikut berbunyi saat diputar',
                                     style: t.textTheme.bodyMedium?.copyWith(
                                       color: t.colorScheme.onSurfaceVariant,
                                     ),
